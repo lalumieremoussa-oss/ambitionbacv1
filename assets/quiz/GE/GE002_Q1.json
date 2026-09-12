@@ -1,0 +1,208 @@
+
+
+{
+  "title": "Quiz 1",
+  "id": "GE002_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le relief ivoirien favorise-t-il l’agriculture ?",
+      "réponses": {
+        "A": "Parce qu’il est peu accidenté, ce qui permet la création de grandes surfaces agricoles",
+        "B": "Parce qu’il est montagneux et difficile d’accès, ce qui protège les cultures",
+        "C": "Parce qu’il est désertique et évite l’érosion des sols",
+        "D": "Parce qu’il empêche les inondations fréquentes en saison des pluies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Comment les sols et la végétation contribuent-t-ils à l’agriculture ?",
+      "réponses": {
+        "A": "Ils limitent les cultures à cause de leur pauvreté et leur sécheresse",
+        "B": "Ils sont humides, fertiles et variés, ce qui permet la diversification des cultures",
+        "C": "Ils sont très rocheux, donc peu favorables à la culture intensive",
+        "D": "Ils ne sont exploitables que dans les zones forestières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel rôle joue le réseau hydrographique dans l’agriculture ?",
+      "réponses": {
+        "A": "Il empêche l’agriculture en provoquant de fréquentes inondations",
+        "B": "Il est utilisé uniquement pour le tourisme rural",
+        "C": "Il permet l’irrigation des régions moins arrosées",
+        "D": "Il bloque l’expansion des cultures en zone nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Pourquoi la population est-elle un atout pour l’agriculture ivoirienne ?",
+      "réponses": {
+        "A": "Parce qu’elle est très âgée et préfère l’agriculture traditionnelle",
+        "B": "Parce qu’elle est jeune, nombreuse, dynamique et largement rurale",
+        "C": "Parce qu’elle est essentiellement urbaine et peu active dans le secteur agricole",
+        "D": "Parce qu’elle est concentrée dans les régions industrielles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel pourcentage de la population active travaille dans l’agriculture ?",
+      "réponses": {
+        "A": "Environ 57 % de la population active est engagée dans l’agriculture",
+        "B": "Moins de 10 % de la population active est concernée par ce secteur",
+        "C": "Environ 30 % travaille dans les industries agricoles uniquement",
+        "D": "Plus de 80 % est exclusivement employée par les multinationales agricoles"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Pourquoi dit-on que tous les peuples ivoiriens sont tournés vers l’agriculture ?",
+      "réponses": {
+        "A": "Parce qu’ils ont une longue tradition agricole renforcée par la colonisation",
+        "B": "Parce qu’ils ont été formés uniquement pour le secteur minier",
+        "C": "Parce qu’ils ont rejeté les pratiques agricoles traditionnelles",
+        "D": "Parce que l’agriculture ne fait pas partie de leur culture historique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quel rôle l'État joue-t-il dans le développement agricole ?",
+      "réponses": {
+        "A": "Il se désintéresse totalement du secteur agricole au profit des mines",
+        "B": "Il planifie, finance, forme et encadre les projets agricoles",
+        "C": "Il abandonne l’agriculture aux seules coopératives rurales",
+        "D": "Il interdit les cultures modernes pour préserver les traditions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Qu’est-ce que le PNASA ?",
+      "réponses": {
+        "A": "Un organisme de commerce international dédié à l’agroalimentaire",
+        "B": "Une organisation de distribution de pesticides étrangers",
+        "C": "Le Programme National d’Appui aux Structures Agricoles",
+        "D": "Une société privée d’importation de semences"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Que fait l’ANADER pour les paysans ?",
+      "réponses": {
+        "A": "Elle collecte les taxes agricoles dans les zones rurales",
+        "B": "Elle distribue les machines aux exploitants industriels uniquement",
+        "C": "Elle encadre, conseille et soutient les agriculteurs ivoiriens",
+        "D": "Elle vend les terres agricoles aux entreprises étrangères"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le rôle des structures comme l’IRHO, l’IRCC et le CNRA ?",
+      "réponses": {
+        "A": "Elles assurent la sécurité des exploitations agricoles",
+        "B": "Elles réalisent des recherches pour améliorer les productions agricoles",
+        "C": "Elles évaluent les pertes économiques des zones rurales",
+        "D": "Elles surveillent l’utilisation des produits importés"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est l’objectif des GVC en agriculture ?",
+      "réponses": {
+        "A": "Permettre à l’État de contrôler toutes les productions",
+        "B": "Regrouper les paysans pour faciliter la coopération et la productivité",
+        "C": "Installer des grandes surfaces commerciales rurales",
+        "D": "Interdire les cultures vivrières dans les zones forestières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que favorisent les écoles comme l’ESA et l’ERA ?",
+      "réponses": {
+        "A": "L’importation de matériel agricole étranger",
+        "B": "La formation de cadres et de chercheurs dans le secteur agricole",
+        "C": "Le commerce des produits alimentaires importés",
+        "D": "La production industrielle d'engrais chimiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Qu’est-ce qui caractérise l’agriculture traditionnelle ?",
+      "réponses": {
+        "A": "Elle repose sur des techniques rudimentaires et de faibles rendements",
+        "B": "Elle est entièrement automatisée avec des drones agricoles",
+        "C": "Elle est pratiquée uniquement en zone urbaine",
+        "D": "Elle ne concerne que la culture du coton et du cacao"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelles sont les techniques associées à l’agriculture traditionnelle ?",
+      "réponses": {
+        "A": "Usage d’engrais chimiques, irrigation contrôlée et biotechnologies",
+        "B": "Brûlis, jachère, outillage rudimentaire, métayage",
+        "C": "Récolte mécanisée et rotation intensive des cultures",
+        "D": "Exportation par containers et transformation industrielle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Pourquoi dit-on que l’agriculture traditionnelle est peu rentable ?",
+      "réponses": {
+        "A": "Parce qu’elle occupe de petites surfaces avec des moyens archaïques",
+        "B": "Parce qu’elle utilise trop d'engrais chimiques",
+        "C": "Parce qu’elle emploie uniquement des machines étrangères",
+        "D": "Parce qu’elle ne repose que sur la culture du blé"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Qu’est-ce qui caractérise l’agriculture moderne ?",
+      "réponses": {
+        "A": "Utilisation d’engrais, mécanisation, vastes surfaces et production intensive",
+        "B": "Absence totale de produits chimiques pour protéger l’environnement",
+        "C": "Repos complet sur la main-d’œuvre familiale et les dons communautaires",
+        "D": "Refus d’utiliser les résultats de la recherche agronomique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Qui pratique principalement l’agriculture moderne en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les petits producteurs ruraux dans les régions enclavées",
+        "B": "L’État, les entreprises privées et les grands exploitants",
+        "C": "Les jeunes formés dans les centres communautaires",
+        "D": "Les retraités engagés dans les projets associatifs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi l’agriculture moderne est-elle dite 'intensive' ?",
+      "réponses": {
+        "A": "Parce qu’elle maximise les rendements grâce à la technologie et à l’irrigation",
+        "B": "Parce qu’elle repose uniquement sur des plantes naturelles non modifiées",
+        "C": "Parce qu’elle nécessite peu de main-d’œuvre et aucune machine",
+        "D": "Parce qu’elle limite les productions à une seule saison"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quel est l’objectif des politiques de diversification des cultures ?",
+      "réponses": {
+        "A": "Empêcher les paysans de cultiver selon leurs habitudes",
+        "B": "Réduire la dépendance à quelques cultures d’exportation comme le cacao",
+        "C": "Créer des taxes sur les nouvelles cultures introduites",
+        "D": "Favoriser uniquement les cultures industrielles pour l’exportation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Pourquoi peut-on dire que l’agriculture ivoirienne est héritée du passé ?",
+      "réponses": {
+        "A": "Parce que la tradition agricole est ancienne et a été renforcée par la colonisation",
+        "B": "Parce qu’elle a été inventée par les entreprises modernes",
+        "C": "Parce qu’elle a remplacé toutes les activités artisanales",
+        "D": "Parce qu’elle est née avec l’exploitation pétrolière nationale"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 4",
+  "id": "GE004_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Quel pays exporte des hydrocarbures dans la CEDEAO ?",
+      "réponses": {
+        "A": "Burkina Faso",
+        "B": "Ghana",
+        "C": "Nigeria",
+        "D": "Togo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi la coexistence de plusieurs monnaies pose-t-elle problème ?",
+      "réponses": {
+        "A": "Elle facilite les exportations",
+        "B": "Elle ralentit les échanges commerciaux",
+        "C": "Elle stabilise la région",
+        "D": "Elle favorise l’investissement étranger"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La CEDEAO a supprimé les visas pour :",
+      "réponses": {
+        "A": "Créer une zone de non-droit",
+        "B": "Lutter contre l’immigration",
+        "C": "Favoriser la libre circulation des personnes",
+        "D": "Attirer les touristes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est l’une des causes du faible pouvoir d’achat dans la CEDEAO ?",
+      "réponses": {
+        "A": "Spéculation immobilière",
+        "B": "Endettement élevé",
+        "C": "Taux d’intérêt bas",
+        "D": "Baisse du dollar"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel produit n’est pas une ressource agricole majeure dans la CEDEAO ?",
+      "réponses": {
+        "A": "Coton",
+        "B": "Riz",
+        "C": "Cacao",
+        "D": "Arachide"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel obstacle ralentit l’intégration économique ?",
+      "réponses": {
+        "A": "Déséquilibres économiques entre États",
+        "B": "Uniformisation fiscale",
+        "C": "Langue commune",
+        "D": "Accords commerciaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelles infrastructures sont insuffisantes dans la CEDEAO ?",
+      "réponses": {
+        "A": "Réseaux sociaux",
+        "B": "Parcs industriels",
+        "C": "Ports de plaisance",
+        "D": "Réseau ferroviaire et télécommunications"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quel facteur peut encourager les investissements dans la CEDEAO ?",
+      "réponses": {
+        "A": "Bonne gouvernance",
+        "B": "Conflits civils",
+        "C": "Inflation incontrôlée",
+        "D": "Fragmentation politique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Pourquoi les États peinent-ils à financer la CEDEAO ?",
+      "réponses": {
+        "A": "Refus d’adhésion aux traités",
+        "B": "Non-paiement des cotisations",
+        "C": "Trop d’accords bilatéraux",
+        "D": "Excès de financement"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quels produits la CEDEAO exporte-t-elle principalement ?",
+      "réponses": {
+        "A": "Produits agricoles et miniers",
+        "B": "Produits électroniques",
+        "C": "Véhicules industriels",
+        "D": "Produits pharmaceutiques"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle est la principale langue officielle en Guinée-Bissau ?",
+      "réponses": {
+        "A": "Anglais",
+        "B": "Portugais",
+        "C": "Arabe",
+        "D": "Français"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le conflit de leadership entre pays francophones et anglophones :",
+      "réponses": {
+        "A": "Renforce l’unité",
+        "B": "N’a aucun effet",
+        "C": "Ralentit l’application des décisions",
+        "D": "Favorise l’industrialisation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle affirmation est correcte ?",
+      "réponses": {
+        "A": "L’UEMOA est une branche politique de la CEDEAO",
+        "B": "L’UEMOA est une union monétaire",
+        "C": "L’UEMOA regroupe uniquement les pays anglophones",
+        "D": "L’UEMOA gère les élections"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel pays n’est pas membre fondateur de la CEDEAO ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Sénégal",
+        "C": "Cameroun",
+        "D": "Nigeria"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "La CEDEAO peut-elle empêcher les ingérences extérieures ?",
+      "réponses": {
+        "A": "Oui, grâce à l’ECOMOG",
+        "B": "Non, elle manque de moyens",
+        "C": "Oui, via le Conseil de sécurité",
+        "D": "Non, elle ne dispose pas de traité"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle activité est en croissance dans la zone CEDEAO ?",
+      "réponses": {
+        "A": "Télécommunications",
+        "B": "Élevage bovin intensif",
+        "C": "Aérospatial",
+        "D": "Exploitation minière et agro-industrie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce qui entrave les échanges entre États membres ?",
+      "réponses": {
+        "A": "Les réseaux de téléphonie mobile",
+        "B": "La solidarité économique",
+        "C": "L’utilisation du français",
+        "D": "Les taxes douanières non harmonisées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quelle est une mission essentielle de la CEDEAO ?",
+      "réponses": {
+        "A": "Créer une armée offensive",
+        "B": "Renforcer l’intégration régionale",
+        "C": "Organiser les élections présidentielles",
+        "D": "Former des enseignants"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "En quoi la diversité linguistique est-elle un défi ?",
+      "réponses": {
+        "A": "Elle facilite les débats",
+        "B": "Elle rend difficile la communication interétatique",
+        "C": "Elle favorise l’harmonisation",
+        "D": "Elle est sans importance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est une des limites de la CEDEAO ?",
+      "réponses": {
+        "A": "Sa faible population",
+        "B": "Son excédent budgétaire",
+        "C": "Le non-respect des décisions communes",
+        "D": "Son taux de scolarisation"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

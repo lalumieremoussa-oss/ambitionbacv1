@@ -1,0 +1,368 @@
+{
+  "title": "Quiz 2 - Deutsch (Verben & Sätze)",
+  "id": "DE03_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Complétez la phrase : \"Meine Schwester _____ jede Woche einen Brief.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "schreiben",
+        "B": "mache schreiben",
+        "C": "schreibt",
+        "D": "ist schreiben"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Ils font leurs devoirs.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie macht ihre Hausaufgaben.",
+        "B": "Sie machen ihre Hausaufgaben.",
+        "C": "Sie gehen ihre Hausaufgaben.",
+        "D": "Sie hat ihre Hausaufgaben."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la forme correcte du verbe \"essen\" pour le sujet \"Der Hund\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "essen",
+        "B": "macht essen",
+        "C": "esset",
+        "D": "frisst"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Nous écoutons notre professeur.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir hört unseren Lehrer.",
+        "B": "Wir hören unseren Lehrer.",
+        "C": "Wir hören unserem Lehrer zu.",
+        "D": "Wir machen hören unseren Lehrer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Complétez la phrase : \"Die Kinder _____ es, draußen zu spielen.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "mag",
+        "B": "mögen",
+        "C": "ist mögen",
+        "D": "macht mögen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte de \"schauen\" pour le sujet \"Er\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "er schauen",
+        "B": "er schaust",
+        "C": "er schaut",
+        "D": "er macht schaut"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Je vais au travail.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich geht zur Arbeit.",
+        "B": "Ich gehe zur Arbeit.",
+        "C": "Ich mache Arbeit.",
+        "D": "Ich bin gehen Arbeit."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel verbe signifie \"écrire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Machen",
+        "B": "Singen",
+        "C": "Lesen",
+        "D": "Schreiben"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quel sujet ne prend PAS de -t à la fin du verbe au présent en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er",
+        "B": "Wir",
+        "C": "Sie (elle)",
+        "D": "Meine Mutter"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La phrase \"Sie trinkt Saft.\" signifie :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Elle écrit son jus.",
+        "B": "Elle fait du jus.",
+        "C": "Elle va au jus.",
+        "D": "Elle boit du jus."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Mon père va à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Arbeit",
+        "geht",
+        "Vater",
+        "zu",
+        "Hause",
+        "machen",
+        "Mutter",
+        "Mein",
+        "gehen",
+        "das"
+      ],
+      "bonne réponse": "Mein Vater geht nach Hause"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Elle chante dans la chorale.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "der",
+        "machen",
+        "Chor",
+        "singen",
+        "im",
+        "wir",
+        "singt",
+        "ist",
+        "er",
+        "Sie"
+      ],
+      "bonne réponse": "Sie singt im Chor"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous mangeons ensemble.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zusammen",
+        "er",
+        "essen",
+        "machen",
+        "isst",
+        "Wir"
+      ],
+      "bonne réponse": "Wir essen zusammen"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Tu aides ta mère.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mutter",
+        "hilft",
+        "hilfst",
+        "Vater",
+        "deiner",
+        "machen",
+        "meiner",
+        "Du"
+      ],
+      "bonne réponse": "Du hilfst deiner Mutter"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Il lit un livre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Buch",
+        "ist",
+        "liest",
+        "sie",
+        "lesen",
+        "das",
+        "ein",
+        "Er"
+      ],
+      "bonne réponse": "Er liest ein Buch"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Je fais les courses.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "die",
+        "sie",
+        "mache",
+        "Einkäufe",
+        "ein",
+        "macht",
+        "ihre",
+        "Ich"
+      ],
+      "bonne réponse": "Ich mache die Einkäufe"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Les enfants jouent au parc.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "im",
+        "spielt",
+        "Park",
+        "Kinder",
+        "gehen",
+        "der",
+        "Hause",
+        "Die",
+        "spielen",
+        "ist"
+      ],
+      "bonne réponse": "Die Kinder spielen im Park"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Elle aime l'allemand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Deutsch",
+        "mögen",
+        "das",
+        "mag",
+        "machen",
+        "Sie"
+      ],
+      "bonne réponse": "Sie mag Deutsch"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Ils vont à l'hôpital.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ins",
+        "ist",
+        "Krankenhaus",
+        "geht",
+        "das",
+        "machen",
+        "gehen",
+        "Sie"
+      ],
+      "bonne réponse": "Sie gehen ins Krankenhaus"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Je me lève tôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "früh",
+        "sie",
+        "auf",
+        "um",
+        "stehe",
+        "die",
+        "steht",
+        "Ich"
+      ],
+      "bonne réponse": "Ich stehe früh auf"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Mon frère regarde la télévision.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Bruder",
+        "sehen",
+        "fern",
+        "machen",
+        "ein",
+        "sieht",
+        "ist",
+        "Mein"
+      ],
+      "bonne réponse": "Mein Bruder sieht fern"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Nous écrivons dans nos cahiers.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hefte",
+        "schreibt",
+        "schreiben",
+        "gehen",
+        "unsere",
+        "in",
+        "ist",
+        "ein",
+        "die",
+        "Wir"
+      ],
+      "bonne réponse": "Wir schreiben in unsere Hefte"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Il écoute de la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Musik",
+        "hören",
+        "hört",
+        "ein",
+        "die",
+        "zu",
+        "sie",
+        "Er"
+      ],
+      "bonne réponse": "Er hört Musik"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ma mère fait la lessive.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wäsche",
+        "gehen",
+        "Mutter",
+        "machen",
+        "die",
+        "ist",
+        "wäscht",
+        "Meine"
+      ],
+      "bonne réponse": "Meine Mutter wäscht die Wäsche"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Je mange le petit-déjeuner.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Frühstück",
+        "er",
+        "esse",
+        "mache",
+        "isst",
+        "Ich"
+      ],
+      "bonne réponse": "Ich esse Frühstück"
+    },
+    "question n°26": {
+      "question": "Donnez la forme du verbe \"mögen\" pour le sujet \"Mein Freund\".",
+      "type": "short_answer",
+      "bonne réponse": "mag"
+    },
+    "question n°27": {
+      "question": "Traduisez le verbe \"Schauen\" (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "Regarder"
+    },
+    "question n°28": {
+      "question": "Traduisez l'expression : \"Nous faisons\".",
+      "type": "short_answer",
+      "bonne réponse": "Wir machen"
+    },
+    "question n°29": {
+      "question": "Quel est le verbe allemand pour \"aller\" (forme infinitive) ?",
+      "type": "short_answer",
+      "bonne réponse": "gehen"
+    },
+    "question n°30": {
+      "question": "Traduisez la phrase \"Il dort\".",
+      "type": "short_answer",
+      "bonne réponse": "Er schläft"
+    }
+  }
+}

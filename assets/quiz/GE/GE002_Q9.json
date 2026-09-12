@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 9",
+  "id": "GE002_Q9",
+  "questions": {
+    "question n°1": {
+      "question": "Quel relief naturel attire les touristes dans l’Ouest de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les vastes plaines désertiques entourant la Comoé",
+        "B": "Les marécages salés utilisés pour la pêche artisanale",
+        "C": "Les montagnes telles que le Mont Tonkoui et la cascade de Man",
+        "D": "Les dunes rouges situées entre Bondoukou et Bouna"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle zone balnéaire ivoirienne est particulièrement réputée pour ses plages ?",
+      "réponses": {
+        "A": "Korhogo et ses mangroves sacrées bordant le fleuve Bandama",
+        "B": "Assinie et Grand-Bassam connues pour leurs plages touristiques",
+        "C": "Bouna et ses dunes de sable du nord-est",
+        "D": "Man et ses forêts marécageuses accessibles en pirogue"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel élément du patrimoine religieux attire les visiteurs à Yamoussoukro ?",
+      "réponses": {
+        "A": "Le musée national d’architecture ivoirienne",
+        "B": "La Basilique Notre-Dame de la Paix, un édifice monumental",
+        "C": "Le temple traditionnel de Gagnoa construit en terre battue",
+        "D": "Le grand couvent mystique de Zuénoula ouvert en 1994"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel parc national ivoirien est réputé pour sa biodiversité exceptionnelle ?",
+      "réponses": {
+        "A": "Le parc de Djékanou avec ses cocotiers millénaires",
+        "B": "Le parc floral de Koumassi à Abidjan",
+        "C": "Le parc national de Taï, riche en espèces animales et végétales",
+        "D": "Le parc des montagnes rouges de Toumodi"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel est un atout humain majeur pour le tourisme en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La diversité culturelle avec plus de 60 ethnies et des danses traditionnelles",
+        "B": "L’uniformité ethnique facilitant la création de spectacles",
+        "C": "L’absence de conflits culturels favorisant le tourisme religieux",
+        "D": "La spécialisation unique de toutes les régions en artisanat de cuir"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est une spécialité artisanale du Nord ivoirien ?",
+      "réponses": {
+        "A": "La poterie modelée par les chasseurs Akan",
+        "B": "Les boubous Senoufo tissés à Waraniéré",
+        "C": "Les tapis en soie tissés à Grand-Bassam",
+        "D": "Les masques en osier sculptés dans le Zanzan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle institution soutient activement la promotion touristique ?",
+      "réponses": {
+        "A": "Le Ministère des Forêts et du Développement rural",
+        "B": "La SODEFOR, structure en charge des sites sacrés",
+        "C": "Le Conseil des Transports et de l’Énergie",
+        "D": "Côte d’Ivoire Tourisme, structure officielle de promotion"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quelle infrastructure hôtelière prestigieuse est située à Abidjan ?",
+      "réponses": {
+        "A": "L’hôtel Kourouma, premier palace forestier de Yopougon",
+        "B": "L’Hôtel Ivoire, complexe de standing à Cocody",
+        "C": "L’hôtel Président, situé dans la cité balnéaire d’Assinie",
+        "D": "L’hôtel Man Club, connu pour ses toits de palmiers rouges"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel événement culturel attire des visiteurs à Grand-Bassam ?",
+      "réponses": {
+        "A": "Le festival du feu sacré et des chasseurs du Sud-Est",
+        "B": "Le marché international des cultures invisibles",
+        "C": "La fête de l’Abissa, célébration de la tradition Nzima",
+        "D": "Le carnaval des colons masqués de l’époque coloniale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel lieu sacré est lié aux silures vénérés en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le lac rouge de Bingerville et ses pirogues ancestrales",
+        "B": "Le village de Sahué, connu pour ses silures sacrés",
+        "C": "Le fleuve Bandama, réputé pour ses poissons lumineux",
+        "D": "Les étangs secrets de Toulepleu dans la région de l’ouest"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est l’un des rôles économiques du tourisme ?",
+      "réponses": {
+        "A": "Il renforce les recettes agricoles et la déforestation planifiée",
+        "B": "Il soutient les usines de transformation du manioc",
+        "C": "Il remplace l’industrie pétrolière dans les zones rurales",
+        "D": "Il fournit des devises, des emplois et stimule l’économie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quel est un problème majeur du tourisme en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "L’excès de visiteurs dans les villages reculés du Zanzan",
+        "B": "La vétusté des infrastructures hôtelières et d’accueil",
+        "C": "La pollution visuelle due aux affiches commerciales",
+        "D": "La surabondance des vols internationaux à faible coût"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est l’un des sites touristiques religieux majeurs de Bondoukou ?",
+      "réponses": {
+        "A": "Le temple souterrain des masques blancs",
+        "B": "Le mausolée de Nanan Kwaku Yao, roi spirituel Akan",
+        "C": "Les anciennes mosquées de style soudanais",
+        "D": "La statue géante du fondateur du royaume Abron"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel lieu touristique est connu pour ses caïmans ?",
+      "réponses": {
+        "A": "Le lac aux caïmans situé à Yamoussoukro",
+        "B": "Le fleuve Comoé à Grand-Bassam",
+        "C": "La rivière rouge de Duékoué en période sèche",
+        "D": "La crique mystique de Grand-Lahou"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle est une solution proposée pour améliorer le tourisme ?",
+      "réponses": {
+        "A": "Limiter l’accès aux plages aux touristes nationaux uniquement",
+        "B": "Imposer de nouvelles taxes d’entrée dans les villes historiques",
+        "C": "Réduire le nombre d’évènements culturels dans les régions rurales",
+        "D": "Réhabiliter les routes et les infrastructures touristiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle est une conséquence de l'insécurité sur le tourisme ?",
+      "réponses": {
+        "A": "Une augmentation des coûts de transport aérien pour les locaux",
+        "B": "Un afflux massif de visiteurs religieux pendant les conflits",
+        "C": "Une explosion de la construction hôtelière dans les zones à risque",
+        "D": "Une baisse de fréquentation touristique et un désintérêt croissant"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel festival contribue à valoriser la gastronomie ivoirienne ?",
+      "réponses": {
+        "A": "Le carnaval du riz noir d’Abobo",
+        "B": "La Biennale gastronomique et le Festival des Grillades",
+        "C": "Le festival du chocolat amer de Tiassalé",
+        "D": "Le marché des pains sacrés à Toumodi"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle mesure aide à former les acteurs du secteur touristique ?",
+      "réponses": {
+        "A": "La mise en place d’écoles d’hôtellerie et de centres de formation",
+        "B": "La fermeture des établissements touristiques peu rentables",
+        "C": "L’internationalisation forcée des services hôteliers nationaux",
+        "D": "La suppression des guides touristiques non diplômés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle région est connue pour les danses du Zaouli ?",
+      "réponses": {
+        "A": "Odienné avec les danses guerrières du Djiya",
+        "B": "Bouaflé avec ses masques Zaouli traditionnels",
+        "C": "Bondoukou avec ses défilés de torches nocturnes",
+        "D": "Aboisso et ses ballets d’eau de la rivière Comoé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est une structure dédiée à la régulation et à la relance du tourisme ?",
+      "réponses": {
+        "A": "Le Comité de Surveillance des Arts et Cultures Urbaines",
+        "B": "L’Office Ivoirien du Tourisme et de l’Hôtellerie (OITH)",
+        "C": "Le Fonds National des Grands Voyages Panafricains",
+        "D": "Le Conseil des Routes et Sites d’Intérêt Pédagogique"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

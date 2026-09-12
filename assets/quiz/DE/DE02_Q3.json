@@ -1,0 +1,342 @@
+{
+  "title": "Quiz 3 - Deutsch (Identität & Fragen)",
+  "id": "DE02_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Bonjour, mon ami.\" (Utilisé le matin)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Tag, mein Freund.",
+        "B": "Guten Abend, mein Freund.",
+        "C": "Hallo, mein Freund.",
+        "D": "Guten Morgen, mein Freund."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle est la traduction de \"Son nom (à elle) est Aminata\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sein Name ist Aminata.",
+        "B": "Ihr Name ist Aminata.",
+        "C": "Mein Name ist Aminata.",
+        "D": "Dein Name ist Aminata."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel est le sens de \"Wie ist dein Vorname?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Quel est ton nom de famille ?",
+        "B": "Quel est ton surnom ?",
+        "C": "Où es-tu ?",
+        "D": "Quel est ton prénom ?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Comment dit-on \"Bonsoir\" en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Morgen",
+        "B": "Guten Abend",
+        "C": "Guten Tag",
+        "D": "Gute Nacht"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel déterminant possessif correspond à \"votre / tes\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein",
+        "B": "Sein",
+        "C": "Ihr",
+        "D": "Dein"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Je suis Soumahoro.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Name ist Soumahoro.",
+        "B": "Soumahoro bin ich.",
+        "C": "Ich bin Soumahoro.",
+        "D": "Ich habe Soumahoro."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel pronom interrogatif signifie \"où\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Was",
+        "B": "Wer",
+        "C": "Wo",
+        "D": "Warum"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pour traduire \"Sa sœur (à lui)\", quel déterminant possessif utilisez-vous ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ihre",
+        "B": "Seine",
+        "C": "Meine",
+        "D": "Deine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel mot signifie \"Nom de famille\" en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Vorname",
+        "B": "Nachname",
+        "C": "Spitzname",
+        "D": "Mein Name"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Le mot \"Hallo\" en allemand signifie :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Au revoir",
+        "B": "Bonne nuit",
+        "C": "Comment allez-vous",
+        "D": "Salut / Bonjour"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Salut, professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hallo",
+        "Lehrer",
+        "ist",
+        "mein"
+      ],
+      "bonne réponse": "Hallo Lehrer"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Mon prénom est Aminata.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "Vorname",
+        "Name",
+        "ist",
+        "Aminata",
+        "Ihr",
+        "Nachname",
+        "sind",
+        "das",
+        "Buch"
+      ],
+      "bonne réponse": "Mein Vorname ist Aminata"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Où es-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wo",
+        "bist",
+        "du",
+        "bin",
+        "ist",
+        "aus"
+      ],
+      "bonne réponse": "Wo bist du"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Son nom (à lui).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Sein",
+        "Name",
+        "Ihr",
+        "ist"
+      ],
+      "bonne réponse": "Sein Name"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Sa sœur (à elle).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ihre",
+        "Schwester",
+        "Seine",
+        "Name"
+      ],
+      "bonne réponse": "Ihre Schwester"
+    },
+    "question n°16": {
+      "question": "Complétez : \"Mein Nachname _____ Traoré.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "Nachname",
+        "ist",
+        "Traoré",
+        "Vorname",
+        "bin",
+        "sind"
+      ],
+      "bonne réponse": "Mein Nachname ist Traoré"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Comment vas-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wie",
+        "geht",
+        "es",
+        "dir",
+        "ist",
+        "bin",
+        "das"
+      ],
+      "bonne réponse": "Wie geht es dir"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Mon prénom.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "Vorname",
+        "Nachname",
+        "ist",
+        "dein"
+      ],
+      "bonne réponse": "Mein Vorname"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Quel est ton nom ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wie",
+        "ist",
+        "dein",
+        "Name",
+        "sind",
+        "bin",
+        "das",
+        "Buch"
+      ],
+      "bonne réponse": "Wie ist dein Name"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Bonne nuit, Madame.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Gute",
+        "Nacht",
+        "Frau",
+        "Morgen",
+        "ist",
+        "meine"
+      ],
+      "bonne réponse": "Gute Nacht Frau"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ton ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Dein",
+        "Freund",
+        "mein",
+        "ist"
+      ],
+      "bonne réponse": "Dein Freund"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Pourquoi est-il triste ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Warum",
+        "ist",
+        "er",
+        "traurig",
+        "sind",
+        "habe",
+        "sie",
+        "glücklich"
+      ],
+      "bonne réponse": "Warum ist er traurig"
+    },
+    "question n°23": {
+      "question": "Traduisez le pronom interrogatif : \"combien\".",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wie",
+        "viele",
+        "wann",
+        "wo",
+        "ist",
+        "du"
+      ],
+      "bonne réponse": "Wie viele"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Son prénom (à lui) est Ali.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Sein",
+        "Vorname",
+        "ist",
+        "Ali",
+        "Ihr",
+        "mein",
+        "das",
+        "Buch",
+        "sind"
+      ],
+      "bonne réponse": "Sein Vorname ist Ali"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Bonjour, mon ami.\" (pendant la journée)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Guten",
+        "Tag",
+        "mein",
+        "Freund",
+        "Morgen",
+        "Abend",
+        "ist",
+        "das"
+      ],
+      "bonne réponse": "Guten Tag mein Freund"
+    },
+    "question n°26": {
+      "question": "Traduisez l'expression \"Je suis...\" (en utilisant \"Ich\").",
+      "type": "short_answer",
+      "bonne réponse": "Ich bin..."
+    },
+    "question n°27": {
+      "question": "Quel déterminant possessif est utilisé pour traduire \"sa/ses\" quand on parle d'une femme ?",
+      "type": "short_answer",
+      "bonne réponse": "ihr / ihre"
+    },
+    "question n°28": {
+      "question": "Quel pronom interrogatif signifie \"quand\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Wann"
+    },
+    "question n°29": {
+      "question": "Comment dit-on \"Bonjour\" (pendant la journée) en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "Guten Tag"
+    },
+    "question n°30": {
+      "question": "Quel mot allemand signifie \"surnom\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Spitzname"
+    }
+  }
+}

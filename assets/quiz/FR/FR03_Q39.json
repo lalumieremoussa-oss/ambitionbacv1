@@ -1,0 +1,156 @@
+{
+    "title": "Sujet 14 –  : « c'est un récit d'événements fictifs »",
+    "id": "FR046_Q2_Sujet14",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : Parlant de romzn, André MAUROIS affirme: « c'est un récit d'événements fictifs. ». – Quel est le thème général de ce sujet ? – Trouve l'intrus",
+            "réponses": {
+                "A": "La vérité historique absolue du roman",
+                "B": "La nature fictionnelle du roman",
+                "C": "Le caractère inventé des récits romanesques",
+                "D": "La distinction entre réalité et fiction dans le roman"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Que signifie le mot-clé « fictifs » dans ce contexte ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Imaginaires, inventés",
+                "B": "Historiquement authentiques et vérifiables",
+                "C": "Non réels, construits par l'auteur",
+                "D": "Créés de toutes pièces par l'imagination"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Que signifie le mot « récit » dans cette définition ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Une narration structurée",
+                "B": "Un texte qui raconte une histoire",
+                "C": "Un document purement informatif sans intrigue",
+                "D": "Une suite d'événements racontés"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quelle est la reformulation de cette assertion ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman est une histoire inventée",
+                "B": "Le récit romanesque est le produit de l'imagination",
+                "C": "Le roman construit des événements qui n'ont pas eu lieu",
+                "D": "Le roman est un compte-rendu exact de la réalité"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°5": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quelle est la thèse défendue par Maurois ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman est un document historique fiable",
+                "B": "Le roman est par essence une fiction",
+                "C": "L'essence du roman est l'invention",
+                "D": "Le roman ne rapporte pas des faits réels"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quelle antithèse peut-on opposer à cette thèse ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman peut aussi s'inspirer de faits réels",
+                "B": "Le roman ne peut aucunement s'ancrer dans la réalité",
+                "C": "Le roman peut avoir une dimension historique",
+                "D": "Le roman peut être un témoignage du réel"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel argument soutient la thèse (roman comme fiction) ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman invente des personnages qui n'ont jamais existé",
+                "B": "Le roman crée des intrigues imaginaires",
+                "C": "Le roman se limite à la transcription de faits divers",
+                "D": "Le roman construit des mondes fictifs"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°8": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel autre argument soutient cette thèse ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman est une succession de faits historiques avérés",
+                "B": "L'auteur use de son imagination pour créer l'histoire",
+                "C": "La fiction est la matière première du roman",
+                "D": "Le récit romanesque est une construction artistique"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel troisième argument soutient cette thèse ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman s'oppose à l'histoire et à la biographie",
+                "B": "Le romancier est un simple greffier du réel",
+                "C": "L'intrigue romanesque est librement imaginée",
+                "D": "Le romancier est un créateur de mondes possibles"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°10": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel argument soutient l'antithèse (roman ancré dans le réel) ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le roman peut s'inspirer de faits historiques",
+                "B": "Le roman réaliste décrit des sociétés authentiques",
+                "C": "Le roman est purement imaginaire et sans aucun ancrage",
+                "D": "Le roman peut être un miroir du monde"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°11": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel autre argument soutient l'antithèse ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Les romans historiques restituent des époques réelles",
+                "B": "Les personnages peuvent être inspirés de personnes réelles",
+                "C": "Le roman peut témoigner des réalités sociales",
+                "D": "Le roman ne dit jamais rien du monde réel"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°12": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel exemple illustre la thèse (roman fictif) ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Une vie de boy de Ferdinand Oyono",
+                "B": "La Planète des singes de Pierre Boulle",
+                "C": "Le Seigneur des anneaux de Tolkien",
+                "D": "Candide de Voltaire"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°13": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel autre exemple illustre cette thèse ? – Trouve l'intrus",
+            "réponses": {
+                "A": "La Rose des vents de Georges I. Treik",
+                "B": "Le Père Goriot de Balzac (peinture réaliste de la société)",
+                "C": "La guerre de Troie n'aura pas lieu (fiction inspirée de la mythologie)",
+                "D": "Les Contemplations de Hugo (poésie lyrique autobiographique)"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel exemple illustre l'antithèse (roman ancré dans le réel) ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le Père Goriot de Balzac",
+                "B": "L'Assommoir de Zola",
+                "C": "La Planète des singes de Pierre Boulle",
+                "D": "Les Misérables de Hugo"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°15": {
+            "question": "Sujet : « c'est un récit d'événements fictifs. » – André MAUROIS. – Quel autre exemple illustre l'antithèse ? – Trouve l'intrus",
+            "réponses": {
+                "A": "Le Seigneur des anneaux de Tolkien",
+                "B": "Germinal de Zola",
+                "C": "Madame Bovary de Flaubert",
+                "D": "Le Père Goriot de Balzac"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

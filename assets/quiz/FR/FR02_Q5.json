@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour le progrès – La fonction didactique (2) : Exaltation culturelle et quête de sagesse – Trouve l'intrus",
+    "id": "FR025_Q2_Didactique2",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : L'Enfant noir de Camara Laye. – Trouve l'intrus",
+            "reponses": {
+                "A": "Célèbre la richesse de la culture guinéenne à travers les yeux d'un jeune garçon",
+                "B": "Critique l'oppression militaire et la dictature",
+                "C": "Décrit les rites initiatiques, les liens familiaux et le respect des anciens",
+                "D": "Transmet les valeurs traditionnelles et le rapport à la nature"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°2": {
+            "question": "Poème : \"Rama Kam\" extrait de Coups de pilon de David Diop. – Trouve l'intrus",
+            "reponses": {
+                "A": "Valorise la dignité de la femme africaine",
+                "B": "Rappelle les valeurs ancestrales face à la domination coloniale",
+                "C": "Fustige l'avarice et l'obsession de l'argent",
+                "D": "Exalte la beauté et la force de la culture noire"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°3": {
+            "question": "Œuvre : Les gens de Mogho de Moussa Savadogo. – Trouve l'intrus",
+            "reponses": {
+                "A": "Transmet les traditions et les codes de conduite sociale",
+                "B": "Célèbre les valeurs ancestrales et communautaires",
+                "C": "Est une œuvre théâtrale sur la culture burkinabè",
+                "D": "Dénonce l'exploitation des enfants à l'ère industrielle"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°4": {
+            "question": "Œuvre : La Nausée de Jean-Paul Sartre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Relate l'amitié entre un juif et un musulman à Paris",
+                "B": "Est un roman existentialiste sur l'absurde et le sens de l'existence",
+                "C": "Aborde le dégoût de la vie et le vide intérieur",
+                "D": "Confronte le lecteur à des questions philosophiques fondamentales"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°5": {
+            "question": "Œuvre : Huis clos de Jean-Paul Sartre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une pièce de théâtre philosophique et absurde",
+                "B": "Célèbre la résistance héroïque face à la colonisation",
+                "C": "Met en scène trois personnages en enfer collectif",
+                "D": "Invite à réfléchir sur le jugement des autres et la responsabilité individuelle"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°6": {
+            "question": "Œuvre : Ainsi parlait Zarathoustra de Friedrich Nietzsche. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose une sagesse libérée des dogmes religieux",
+                "B": "Transmet la vision du surhomme et de la volonté de puissance",
+                "C": "Dénonce les abus coloniaux et l'injustice raciale",
+                "D": "Invite à une réflexion sur la morale et la liberté individuelle"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°7": {
+            "question": "Œuvre : Monsieur Ibrahim et les Fleurs du Coran d'Éric-Emmanuel Schmitt. – Trouve l'intrus",
+            "reponses": {
+                "A": "Relate l'amitié entre un jeune juif et un vieux musulman",
+                "B": "Explore les thèmes de la tolérance et de la spiritualité",
+                "C": "Propose une réflexion sur la vie, la foi et la transmission",
+                "D": "Dénonce la division de l'Afrique par les colons français"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°8": {
+            "question": "Auteur : Camara Laye. – Trouve l'intrus",
+            "reponses": {
+                "A": "A dénoncé l'exploitation des enfants dans les usines",
+                "B": "A célébré la culture et les traditions de son pays natal",
+                "C": "A écrit L'Enfant noir, roman autobiographique célèbre",
+                "D": "Est un écrivain guinéen du XXe siècle renommé"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°9": {
+            "question": "Auteur : Jean-Paul Sartre. – Trouve l'intrus",
+            "reponses": {
+                "A": "A abordé le sens de l'existence et la liberté dans La Nausée",
+                "B": "A célébré les rites initiatiques de l'Afrique noire",
+                "C": "A écrit Huis clos, pièce sur l'enfer des relations humaines",
+                "D": "Est un philosophe existentialiste français"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°10": {
+            "question": "Auteur : Friedrich Nietzsche. – Trouve l'intrus",
+            "reponses": {
+                "A": "A développé le concept du surhomme et de la volonté de puissance",
+                "B": "A écrit Ainsi parlait Zarathoustra, recueil de paraboles philosophiques",
+                "C": "A dénoncé les abus coloniaux en Afrique",
+                "D": "Est un philosophe allemand du XIXe siècle"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°11": {
+            "question": "Auteur : Éric-Emmanuel Schmitt. – Trouve l'intrus",
+            "reponses": {
+                "A": "Explore les thèmes de la tolérance et de la spiritualité",
+                "B": "Est un dramaturge et romancier contemporain français",
+                "C": "A écrit Monsieur Ibrahim et les Fleurs du Coran",
+                "D": "A dénoncé les coutumes violentes de la royauté africaine"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°12": {
+            "question": "Argument : La littérature comme exaltation des valeurs culturelles. – Trouve l'intrus",
+            "reponses": {
+                "A": "La littérature doit se limiter à décrire les cultures sans les valoriser",
+                "B": "La littérature est un puissant outil de transmission culturelle",
+                "C": "Les auteurs célèbrent leurs traditions et leurs croyances",
+                "D": "Les rites initiatiques et les liens familiaux sont des thèmes culturels majeurs"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°13": {
+            "question": "Argument : La littérature comme quête de sagesse. – Trouve l'intrus",
+            "reponses": {
+                "A": "La littérature confronte le lecteur à des réflexions philosophiques",
+                "B": "La littérature doit éviter toute question philosophique pour rester accessible",
+                "C": "Elle favorise le développement de la pensée critique",
+                "D": "Les romans existentialistes aident à la maturation intellectuelle"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°14": {
+            "question": "Œuvre : L'Enfant noir de Camara Laye. – Trouve l'intrus",
+            "reponses": {
+                "A": "Décrit la vie traditionnelle en Guinée avec nostalgie et fierté",
+                "B": "Partage les rites initiatiques et les valeurs familiales",
+                "C": "Célèbre l'identité noire et la révolte contre l'oppression raciale",
+                "D": "Est un témoignage autobiographique sur l'enfance africaine"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°15": {
+            "question": "Œuvre : Huis clos de Jean-Paul Sartre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Les trois personnages sont en enfer et deviennent les bourreaux les uns des autres",
+                "B": "Chaque personnage expose et juge les failles des autres",
+                "C": "La pièce illustre la phrase « L'enfer, c'est les autres »",
+                "D": "C'est une comédie légère sur les relations amoureuses"
+            },
+            "bonne reponse": "D"
+        }
+    }
+}

@@ -1,0 +1,312 @@
+{
+  "id": "SVT015_Q4",
+  "title": "Quiz 4 : perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le nom du gisement X ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement alluvionnaire",
+        "C": "Gisement d’altération",
+        "D": "Gisement volcanique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est le nom du gisement Y ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Gisement alluvionnaire",
+        "B": "Gisement résiduel",
+        "C": "Gisement filonien",
+        "D": "Gisement sédimentaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel est le nom du gisement Z ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Gisement volcanique",
+        "B": "Gisement filonien",
+        "C": "Gisement d’altération",
+        "D": "Gisement marin"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est l’origine du gisement X ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Origine magmatique",
+        "B": "Origine métamorphique",
+        "C": "Origine sédimentaire",
+        "D": "Origine résiduelle"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle est l’origine du gisement Y ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Origine magmatique",
+        "B": "Origine sédimentaire",
+        "C": "Origine fluviatile",
+        "D": "Origine organique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est l’origine du gisement Z ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Origine sédimentaire",
+        "B": "Origine magmatique",
+        "C": "Origine résiduelle",
+        "D": "Origine métamorphique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La technique de la bâtée consiste à laver les limons à l’aide de récipients et à séparer les sédiments de l’or par la densimétrie.",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Lequel de ces gisements est le plus approprié à la bâtée ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement d’altération",
+        "C": "Gisement alluvionnaire",
+        "D": "Gisement volcanique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Justifiez votre réponse : Les minerais contenus dans ce gisement sont mélangés aux sédiments déposés dans le lit de la rivière. Leur séparation se fait difficilement au moyen de l’eau en fonction de leur densité.",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Rangez en ordre le processus de mise en place de ce gisement :\n(1) Transport mécanique des particules d’or natif par les eaux superficielles\n(2) Altération de la roche encaissante\n(3) Dépôt et accumulation par gravité dans les plaines alluvionnaires\nQuel est le bon ordre ?",
+      "image": "assets/images/svt/roche(2).png",
+      "réponses": {
+        "A": "3 - 2 - 1",
+        "B": "3 - 1 - 2",
+        "C": "1 - 2 - 3",
+        "D": "2 - 1 - 3"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Le document ci-contre représente un gisement de coltan à faible profondeur. Nommez la roche encaissante.",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "La roche encaissante est une roche granitique",
+        "B": "La roche encaissante est une roche sédimentaire",
+        "C": "La roche encaissante est une roche magmatique",
+        "D": "La roche encaissante est une roche métamorphique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Identifiez le type de gisement minier.",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "Le gisement de coltan est un gisement secondaire d'altération",
+        "B": "Le gisement de coltan est un gisement primaire filonien",
+        "C": "Le gisement de coltan est un gisement secondaire alluvionnaire",
+        "D": "Le gisement de coltan est un gisement primaire magmatique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Explication du mécanisme de sa mise en place. Quel est le rôle de l’altération de la roche préexistante ?",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "Elle concentre directement le coltan en profondeur",
+        "B": "Elle libère des particules solubles et insolubles",
+        "C": "Elle transforme les sables en graviers",
+        "D": "Elle permet la fusion du coltan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Où sont transportées les particules libérées par altération ?",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "Vers les volcans",
+        "B": "Vers le sous-sol profond",
+        "C": "Vers les bassins sédimentaires",
+        "D": "Vers l’atmosphère"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi le coltan s’accumule-t-il dans les alluvions ?",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "Parce qu’il est soluble dans l’eau",
+        "B": "Parce qu’il est léger et flotte",
+        "C": "Parce qu’il réagit aux aimants",
+        "D": "Parce qu’il est résistant et de densité élevée"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "La méthode de prospection utilisée est :",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "Alluvionnaire",
+        "B": "Géochimique",
+        "C": "Géologique",
+        "D": "Électrique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La prospection alluvionnaire consiste à rechercher les minéraux dans les sédiments des cours d’eau par la technique de la “découverture”.",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La technique de la bâtée consiste à laver les limons, les sables et les graviers à l’aide d’un récipient pour séparer les minéraux en fonction de leur densité.",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "La technique d’exploitation est :",
+      "image": "assets/images/svt/roche(3).png",
+      "réponses": {
+        "A": "L’exploitation à ciel ouvert",
+        "B": "L’exploitation à ciel fermé",
+        "C": "L’exploitation souterraine",
+        "D": "L’exploitation géologique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Un gisement métallifère est :",
+      "réponses": {
+        "A": "Une roche volcanique contenant de l’eau",
+        "B": "Un endroit où l’on trouve une accumulation naturelle de métaux en quantité suffisante pour être exploités",
+        "C": "Un amas de sable sans valeur économique",
+        "D": "Une mine abandonnée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Les métaux d’un gisement métallifère sont :",
+      "réponses": {
+        "A": "Synthétisés en laboratoire",
+        "B": "Naturellement présents dans la croûte terrestre",
+        "C": "Fabriqués par les volcans",
+        "D": "Toujours liquides"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Pour qu’un gisement soit exploité, il faut :",
+      "réponses": {
+        "A": "Qu’il soit situé dans une zone froide",
+        "B": "Qu’il contienne une quantité de métal économiquement rentable",
+        "C": "Qu’il contienne de l’eau",
+        "D": "Qu’il soit accessible par avion"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Associez chaque type de gisement à son numéro :",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "1 = Gisement magmatique",
+        "B": "2 = Gisement filonien",
+        "C": "3 = Gisement alluvionnaire",
+        "D": "Toutes ces propositions sont exactes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Quels sont les gisements primaires ?",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "1 seulement",
+        "B": "3 seulement",
+        "C": "1 et 2",
+        "D": "2 et 3"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Quel est le gisement secondaire ?",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "Aucun"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Un gisement primaire est :",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "Résultant du transport des métaux",
+        "B": "Formé directement à partir de la roche mère ou du magma",
+        "C": "Toujours en surface",
+        "D": "Un gisement alluvionnaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Complétez le texte suivant :\nAu cours de sa remontée, le [Trou 1], remplit les [Trou 2] ou failles des roches préexistantes et [Trou 3] pour donner des filons. Si le magma est riche en métaux, le filon obtenu devient un gisement métallifère filonien.",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "sable – cavités – explose",
+        "B": "magma – fissures – cristallise",
+        "C": "magma – fissures – cristallise",
+        "D": "granit – fissures - cristallise"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Méthode d’exploitation du gisement filonien :",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "Exploitation à ciel fermé",
+        "B": "Exploitation à ciel ouvert",
+        "C": "Exploitation souterraine",
+        "D": "Exploitation géologique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Description de la méthode d’exploitation :\nOn creuse des galeries ou tunnels pour accéder au filon à partir de la surface.",
+      "image": "assets/images/svt/roche(4).png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

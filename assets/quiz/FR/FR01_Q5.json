@@ -1,0 +1,206 @@
+{
+    "title": "TROUVE L'INTRUS - Série 1 – Difficulté moyenne (20 questions)",
+    "id": "FR006_Q2_S1",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : La Prise de Sikasso d'Abou Diarra. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une pièce de théâtre historique et engagée",
+                "B": "Dénonce l'exploitation des enfants dans les mines",
+                "C": "Enseigne la bravoure face à la conquête coloniale",
+                "D": "Met en scène la résistance du roi Babemba Traoré"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Œuvre : Soundjata ou l'épopée mandingue de Djibril Tamsir Niane. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Critique les dérives du pouvoir militaire en Afrique",
+                "B": "Met en lumière les grandes figures africaines",
+                "C": "Relate la fondation de l'Empire du Mali par Soundjata",
+                "D": "Est un roman historique inspiré de la tradition orale"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "Œuvre : Cinna de Corneille. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Dénonce la trahison des idéaux postcoloniaux",
+                "B": "Évoque la Rome antique et ses conflits politiques",
+                "C": "Sert de mémoire historique pour éclairer le présent",
+                "D": "Est une pièce de théâtre sur la clémence impériale"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Œuvre : Soundjata, le lion du Mandingue de Laurent Gbagbo. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Inspire le lecteur à s'approprier des vertus morales",
+                "B": "Met en valeur le courage et la persévérance du héros",
+                "C": "Transmet une leçon de leadership et de ténacité",
+                "D": "Est un roman policier sur les enquêtes modernes"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : Les frasques d'Ebinto d'Amadou Koné. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un roman didactique sur le discernement",
+                "B": "Dénonce les violences culturelles liées à l'excision",
+                "C": "Souligne la nécessité de faire preuve de sagesse",
+                "D": "Met en lumière les conséquences des erreurs de jeunesse"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "Œuvre : Les Fables de Jean de La Fontaine. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Utilise des animaux pour illustrer des morales",
+                "B": "Transmet des leçons de vie sur le comportement humain",
+                "C": "Enseigne la prudence, l'honnêteté et la justice",
+                "D": "Est un recueil de poèmes philosophiques abstraits"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°7": {
+            "question": "Œuvre : L'Enfant noir de Camara Laye. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Décrit les rites initiatiques et les liens familiaux",
+                "B": "Dénonce l'oppression militaire et la dictature",
+                "C": "Célèbre la richesse de la culture guinéenne",
+                "D": "Est un roman autobiographique sur l'enfance africaine"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "Œuvre : \"Rama Kam\" extrait de Coups de pilon de David Diop. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Fustige l'avarice et l'obsession de l'argent",
+                "B": "Valorise la dignité de la femme africaine",
+                "C": "Est un poème engagé sur le plan culturel",
+                "D": "Rappelle les valeurs ancestrales face à la colonisation"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "Œuvre : Les gens de Mogho de Moussa Savadogo. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Critique les abus coloniaux à travers une grève ouvrière",
+                "B": "Célèbre les valeurs et les coutumes ancestrales",
+                "C": "Transmet les traditions et les codes de conduite sociale",
+                "D": "Est une pièce de théâtre sur la transmission culturelle"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Œuvre : La Nausée de Jean-Paul Sartre. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un roman existentialiste sur l'absurde humain",
+                "B": "Dénonce le mariage forcé et ses conséquences tragiques",
+                "C": "Aborde le sens de l'existence et le dégoût de la vie",
+                "D": "Invite à la réflexion sur la liberté et le vide intérieur"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Œuvre : Huis clos de Jean-Paul Sartre. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Célèbre l'identité noire contre l'oppression raciale",
+                "B": "Est une pièce de théâtre philosophique et absurde",
+                "C": "Met en scène trois personnages en enfer collectif",
+                "D": "Expose la célèbre phrase \"L'enfer, c'est les autres\""
+            },
+            "bonne réponse": "A"
+        },
+        "question n°12": {
+            "question": "Œuvre : Ainsi parlait Zarathoustra de Friedrich Nietzsche. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Propose une sagesse libérée des dogmes religieux",
+                "B": "Dénonce les douleurs physiques de l'excision rituelle",
+                "C": "Transmet la vision du surhomme et de la volonté de puissance",
+                "D": "Est un recueil de paraboles poétiques et philosophiques"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Œuvre : Monsieur Ibrahim et les Fleurs du Coran d'Éric-Emmanuel Schmitt. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un roman sur la quête du bonheur et de la sagesse",
+                "B": "Fustige la division de l'Afrique par les colons français",
+                "C": "Explore les thèmes de la tolérance et de la spiritualité",
+                "D": "Relate l'amitié entre un jeune juif et un vieux musulman"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "Auteur : Djibril Tamsir Niane. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A valorisé les grandes figures de l'Afrique médiévale",
+                "B": "A écrit Soundjata ou l'épopée mandingue",
+                "C": "A dénoncé la corruption des dirigeants postcoloniaux",
+                "D": "Est un écrivain guinéen et historien reconnu"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°15": {
+            "question": "Auteur : Jean de La Fontaine. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A enseigné la prudence et l'humilité aux lecteurs",
+                "B": "A critiqué les abus de la colonisation africaine",
+                "C": "Est un poète classique du XVIIe siècle français",
+                "D": "A composé des fables animalières à portée morale"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°16": {
+            "question": "Œuvre : La Prise de Sikasso d'Abou Diarra. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Relate un épisode de la conquête coloniale française",
+                "B": "Est une tragédie moderne sur les conflits identitaires",
+                "C": "Enseigne aux lecteurs la bravoure et le patriotisme",
+                "D": "Met en scène la résistance héroïque d'un peuple africain"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°17": {
+            "question": "Œuvre : Les frasques d'Ebinto d'Amadou Koné. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Souligne la nécessité du discernement et de la sagesse",
+                "B": "Célèbre les rites initiatiques de la culture mandingue",
+                "C": "Est un roman d'apprentissage sur les erreurs de jeunesse",
+                "D": "Met en garde contre l'imprudence et l'insouciance"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°18": {
+            "question": "Auteur : Camara Laye. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A célébré la culture et les traditions de son pays natal",
+                "B": "A écrit L'Enfant noir, roman autobiographique célèbre",
+                "C": "A dénoncé l'exploitation des enfants dans les usines",
+                "D": "Est un écrivain guinéen du XXe siècle renommé"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°19": {
+            "question": "Œuvre : Huis clos de Jean-Paul Sartre. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Invite à réfléchir sur la responsabilité individuelle",
+                "B": "Dénonce les dérives du pouvoir politique en Afrique",
+                "C": "Met en scène des personnages en souffrance éternelle",
+                "D": "Est une pièce de théâtre sur le jugement des autres"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°20": {
+            "question": "Auteur : Éric-Emmanuel Schmitt. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Explore les thèmes de la tolérance et de la spiritualité",
+                "B": "A dénoncé les coutumes violentes de la royauté africaine",
+                "C": "Est un dramaturge et romancier contemporain français",
+                "D": "A écrit Monsieur Ibrahim et les Fleurs du Coran"
+            },
+            "bonne réponse": "B"
+        }
+    }
+}

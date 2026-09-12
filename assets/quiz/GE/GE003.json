@@ -1,0 +1,615 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "GE003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la principale caractéristique de l’économie ivoirienne?",
+      "réponses": {
+        "A": "Une économie ultra-numérisée orientée vers l’intelligence artificielle",
+        "B": "Une économie secondaire spécialisée dans la robotique industrielle",
+        "C": "Une économie artisanale fermée au commerce extérieur",
+        "D": "Une économie primaire extravertie dépendant des exportations agricoles"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quel est le secteur dominant de l’économie ivoirienne ?",
+      "réponses": {
+        "A": "Le secteur agricole, notamment les cultures de rente comme le café et le cacao",
+        "B": "Le secteur bancaire fortement contrôlé par l’État",
+        "C": "Le secteur touristique tourné vers les zones côtières",
+        "D": "Le secteur militaire avec ses bases régionales autonomes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Pourquoi parle-t-on d’économie extravertie ?",
+      "réponses": {
+        "A": "Car les décisions économiques sont toujours prises par référendum",
+        "B": "Car l’économie repose exclusivement sur les activités minières souterraines",
+        "C": "Parce que la production et la consommation dépendent fortement de l’extérieur",
+        "D": "Parce que l’État privilégie le marché intérieur au détriment des exportations"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est la conséquence de cette extraversion économique ?",
+      "réponses": {
+        "A": "L’autonomie énergétique totale grâce aux ressources minières locales",
+        "B": "La fermeture des frontières pour protéger les industries locales",
+        "C": "L’indépendance monétaire grâce à une devise propre",
+        "D": "La perte de souveraineté économique et politique de l’État ivoirien"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Comment l’auteur qualifie-t-il la période de décroissance économique ?",
+      "réponses": {
+        "A": "Un redressement budgétaire équilibré",
+        "B": "Un mirage trompeur de croissance fictive",
+        "C": "Une transition agricole maîtrisée",
+        "D": "Une réorganisation énergétique durable"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est l’effet de la chute des prix mondiaux sur les produits d’exportation ?",
+      "réponses": {
+        "A": "Une croissance rapide du secteur technologique et des start-ups",
+        "B": "La stabilisation des réserves de devises et le financement des PME",
+        "C": "L’ouverture de nouveaux marchés par la promotion des marques locales",
+        "D": "Une réduction des recettes nationales et un affaiblissement de l’économie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Pourquoi l’économie ivoirienne est-elle qualifiée de fragile ?",
+      "réponses": {
+        "A": "Parce qu’elle repose uniquement sur le commerce artisanal",
+        "B": "Car elle ne dispose d’aucun marché intérieur organisé",
+        "C": "Parce que tous ses investissements sont dans le secteur du transport aérien",
+        "D": "Parce qu’elle dépend des fluctuations du marché mondial et des crises extérieures"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi l’État ivoirien fait-il appel à des investisseurs étrangers ?",
+      "réponses": {
+        "A": "Car les ressources locales sont insuffisantes pour financer les projets de développement",
+        "B": "Parce que les banques nationales refusent d’octroyer des prêts aux projets agricoles",
+        "C": "Parce que la législation interdit à l’État d’emprunter auprès de la BCEAO",
+        "D": "Car les autorités souhaitent réduire les impôts sur les PME locales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelles sont les principales sources de recettes intérieures ?",
+      "réponses": {
+        "A": "La vente des produits d’artisanat dans les foires régionales",
+        "B": "Les impôts et l’épargne nationale, bien que peu suffisants",
+        "C": "Les taxes sur les importations de voitures d’occasion",
+        "D": "Les revenus du tourisme côtier et des musées"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel problème découle de la faiblesse des ressources financières locales ?",
+      "réponses": {
+        "A": "Le manque de personnel médical dans les zones urbaines",
+        "B": "La fermeture des marchés de gros dans les zones frontalières",
+        "C": "La réduction des exportations de cacao vers les pays asiatiques",
+        "D": "La dépendance aux capitaux étrangers pour les projets économiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle est la cause principale de l’inflation en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La fermeture des marchés transfrontaliers par les pays voisins",
+        "B": "La dévaluation du FCFA en 1994 et la hausse du prix du pétrole",
+        "C": "Le développement massif des foires agricoles rurales",
+        "D": "La réduction des impôts sur les produits importés"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est l’impact de l’inflation sur la population ?",
+      "réponses": {
+        "A": "Une hausse du pouvoir d’achat et une augmentation des exportations",
+        "B": "Une réduction des recettes fiscales et une croissance agricole",
+        "C": "Un appauvrissement de la population et un ralentissement économique",
+        "D": "Un enrichissement des classes moyennes urbaines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle conséquence l’État risque-t-il s’il tente de satisfaire tous les besoins de la population ?",
+      "réponses": {
+        "A": "Une aggravation de l’endettement et un déséquilibre budgétaire",
+        "B": "Un contrôle total du commerce intérieur par les collectivités locales",
+        "C": "Une saturation des marchés agricoles vivriers",
+        "D": "Une disparition de la fiscalité informelle"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle est la situation de la dette ivoirienne en 2017 ?",
+      "réponses": {
+        "A": "5.000 milliards de FCFA avec excédent budgétaire",
+        "B": "8.850 milliards de FCFA, soit le double de la valeur des exportations",
+        "C": "1.200 milliards de FCFA financés par l’agriculture vivrière",
+        "D": "900 milliards de FCFA garantis par les banques nationales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle est l’origine de l’aggravation de la dette ivoirienne ?",
+      "réponses": {
+        "A": "L’achat massif d’armes à l’étranger pour renforcer la sécurité intérieure",
+        "B": "La mise en place d’un nouveau système de commerce communautaire",
+        "C": "La crise politique et militaire depuis 1999 qui a accru les dépenses de l’État",
+        "D": "La dépendance des ménages aux importations alimentaires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est l’impact de l’endettement sur le secteur privé ?",
+      "réponses": {
+        "A": "Une augmentation du financement agricole dans les zones rurales",
+        "B": "Une multiplication des entreprises technologiques nationales",
+        "C": "Un enrichissement des commerçants à travers le microcrédit",
+        "D": "Des impayés de l’État qui provoquent faillite et chômage"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel était l’objectif du PAS mis en place dans les années 1980 ?",
+      "réponses": {
+        "A": "Créer une zone franche technologique dans les régions rurales",
+        "B": "Redresser l’économie ivoirienne en prenant des mesures d’austérité",
+        "C": "Développer le tourisme et la commercialisation du textile",
+        "D": "Stimuler l’élevage bovin dans les régions forestières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi le PAS a-t-il échoué ?",
+      "réponses": {
+        "A": "Parce qu’il favorisait trop les régions du Nord au détriment du Sud",
+        "B": "Parce que les impôts sur les produits agricoles ont été supprimés",
+        "C": "Parce que l’État a augmenté les salaires des fonctionnaires",
+        "D": "Parce qu’il imposait des mesures antisociales impopulaires"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quel programme a remplacé le PAS après 2000 ?",
+      "réponses": {
+        "A": "Le programme PPTE (Pays Pauvres Très Endettés)",
+        "B": "L’initiative CLIMAT (Commerce, Libéralisation et Marché Agricole)",
+        "C": "Le programme régional de décentralisation économique",
+        "D": "Le fonds national de soutien aux foyers vulnérables"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel est l’objectif principal du programme PPTE ?",
+      "réponses": {
+        "A": "Créer des zones industrielles dans les pays forestiers",
+        "B": "Alléger, puis annuler la dette extérieure pour relancer l’économie",
+        "C": "Développer les marchés artisanaux à l’échelle régionale",
+        "D": "Augmenter les taxes d’importation sur les produits de luxe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelles sont les réformes économiques entreprises par l’État ?",
+      "réponses": {
+        "A": "L’installation de panneaux solaires dans tous les marchés",
+        "B": "Le remplacement de l’armée par des forces paramilitaires économiques",
+        "C": "La construction d’un tunnel reliant Abidjan à Yamoussoukro",
+        "D": "La modernisation des secteurs économiques et des outils de production"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Quel est un des objectifs des réformes engagées ?",
+      "réponses": {
+        "A": "Augmenter la dette extérieure pour relancer les crédits",
+        "B": "Rendre obligatoire l’usage de monnaies locales dans les échanges",
+        "C": "Améliorer la compétitivité économique du pays",
+        "D": "Réduire la population active au profit des retraités"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Quelle action vise à renforcer les ressources financières locales ?",
+      "réponses": {
+        "A": "La réduction des impôts sur les produits importés uniquement",
+        "B": "L’élargissement de l’assiette fiscale et la lutte contre la fraude",
+        "C": "L’élimination de la fiscalité dans les zones rurales pauvres",
+        "D": "La suppression des banques privées au profit des caisses villageoises"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Quel est un des domaines concernés par les réformes ?",
+      "réponses": {
+        "A": "Le secteur des loisirs uniquement dans les zones balnéaires",
+        "B": "Le système judiciaire et les finances publiques",
+        "C": "Le secteur musical et culturel rural",
+        "D": "Le sport de haut niveau et les compétitions olympiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Quelle mesure favorise la diversification de l’économie ?",
+      "réponses": {
+        "A": "Le maintien exclusif de la monoculture dans le sud forestier",
+        "B": "La fermeture des circuits agricoles traditionnels",
+        "C": "La valorisation des ressources nationales et le développement industriel",
+        "D": "Le remplacement du franc CFA par le bitcoin communautaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Pourquoi la réforme de l’éducation est-elle essentielle dans le texte ?",
+      "réponses": {
+        "A": "Parce qu’elle permet la création de clubs d’importateurs dans les lycées",
+        "B": "Car elle transforme les écoles primaires en centres commerciaux",
+        "C": "Parce qu’elle contribue à renforcer les compétences pour le développement économique",
+        "D": "Parce qu’elle limite l’accès aux universités pour les étudiants non boursiers"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°27": {
+      "question": "Quel type d’économie le texte dénonce-t-il ?",
+      "réponses": {
+        "A": "Une économie nationale à faible ouverture vers l’international",
+        "B": "Une économie minière ultra-contrôlée par les syndicats",
+        "C": "Une économie extravertie, dépendante des marchés étrangers",
+        "D": "Une économie autarcique à base de production artisanale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Quelles sont les limites de la réforme du tissu industriel ?",
+      "réponses": {
+        "A": "Son coût élevé pour les ménages de la diaspora uniquement",
+        "B": "La suppression des formations agricoles dans les universités",
+        "C": "Le refus des agriculteurs de vendre leurs produits dans les grandes villes",
+        "D": "Le manque de financement local et la lenteur des résultats"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Quel problème structurel freine l’investissement local ?",
+      "réponses": {
+        "A": "La multiplication des cybercafés ruraux à but lucratif",
+        "B": "La faiblesse de l’épargne nationale et des ressources fiscales",
+        "C": "L’interdiction d’achat de terres aux familles rurales",
+        "D": "L’instauration d’une journée sans commerce par semaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quel est l’impact des mesures économiques mal appliquées ?",
+      "réponses": {
+        "A": "L’augmentation du tourisme rural dans les zones minières",
+        "B": "La baisse des importations de téléphones portables",
+        "C": "La pauvreté persistante, le chômage et l’instabilité économique",
+        "D": "L’accroissement des fêtes régionales comme facteur de consommation"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "GE003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le rythme actuel de la croissance démographique ivoirienne ?",
+      "réponses": {
+        "A": "Une croissance faible et stable due à la baisse du taux de natalité",
+        "B": "Une stagnation démographique accentuée par la forte mortalité infantile",
+        "C": "Une décroissance progressive due aux politiques antinatalistes",
+        "D": "Une explosion démographique entraînant de nombreux problèmes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Parmi les problèmes suivants, lequel est lié à l’explosion démographique en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le renforcement du niveau de vie et des investissements étrangers",
+        "B": "L’amélioration générale de la qualité de l’enseignement supérieur",
+        "C": "Le déséquilibre entre les ressources disponibles et les besoins de la population",
+        "D": "La régularisation automatique des conflits fonciers par les chefs de village"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel problème social est amplifié par la croissance démographique ?",
+      "réponses": {
+        "A": "Le développement de la pauvreté et la prolifération de vices sociaux",
+        "B": "L’augmentation des exportations de matières premières agricoles",
+        "C": "La transformation industrielle rapide des zones rurales",
+        "D": "La réduction massive du taux de criminalité en zone urbaine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Pourquoi est-il important de maîtriser la croissance démographique ?",
+      "réponses": {
+        "A": "Pour remplacer les institutions démocratiques par des chefferies coutumières",
+        "B": "Pour permettre aux jeunes d’accéder directement à la fonction publique",
+        "C": "Pour faire disparaître les inégalités sociales entre régions",
+        "D": "Pour l’adapter à la croissance économique et aux capacités nationales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle mesure subtile a été adoptée par l’État pour limiter les naissances ?",
+      "réponses": {
+        "A": "La distribution gratuite de riz dans les zones rurales",
+        "B": "La légalisation du mariage précoce dans les grandes villes",
+        "C": "L’encouragement au planning familial et à la contraception",
+        "D": "La limitation des mariages à une seule région par individu"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle stratégie vise à limiter les migrations anarchiques ?",
+      "réponses": {
+        "A": "La gratuité des logements dans les bidonvilles côtiers",
+        "B": "Les barrières administratives et la décentralisation",
+        "C": "La suppression des transports interurbains",
+        "D": "La naturalisation systématique des étrangers"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi les mesures contre la croissance démographique sont-elles peu efficaces ?",
+      "réponses": {
+        "A": "Parce qu’elles ne concernent que les hommes et excluent les femmes",
+        "B": "Parce qu’elles favorisent les naissances multiples dans les grandes familles",
+        "C": "Parce qu’elles sont exclusivement basées sur l’exode urbain",
+        "D": "Parce que les moyens matériels et financiers sont insuffisants"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quelle mesure est proposée pour répondre aux besoins croissants de la population ?",
+      "réponses": {
+        "A": "La fermeture des centres de santé privés et des écoles privées",
+        "B": "La construction de nouveaux équipements et infrastructures",
+        "C": "L’importation de logements sociaux préfabriqués d’Europe",
+        "D": "L’interdiction des constructions dans toutes les zones rurales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est un effet direct du multipartisme mal appliqué depuis 1990 ?",
+      "réponses": {
+        "A": "L’autonomisation des chefs traditionnels dans l’élaboration des lois",
+        "B": "La réduction des tensions sociales entre partis et régions",
+        "C": "L’augmentation des dons humanitaires de l’ONU et de l’UA",
+        "D": "La crise politique et militaire ayant plongé le pays dans l’instabilité"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quelles conséquences la crise politique a-t-elle eues sur l’économie ?",
+      "réponses": {
+        "A": "La fuite des investisseurs et la fermeture d’entreprises",
+        "B": "Une augmentation des financements bancaires des PME",
+        "C": "Une industrialisation rapide des zones rurales",
+        "D": "Une réduction de la dette extérieure en raison des conflits"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel obstacle empêche le retour durable à la paix ?",
+      "réponses": {
+        "A": "La surproduction de cacao dans les régions forestières",
+        "B": "L’engagement militaire du pays dans les conflits régionaux",
+        "C": "Les tensions politiques persistantes malgré les négociations",
+        "D": "Le remplacement du multipartisme par une monarchie coutumière"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle mesure a été prise pour favoriser la réconciliation nationale ?",
+      "réponses": {
+        "A": "L’interdiction de créer des ONG communautaires",
+        "B": "L’ouverture de négociations avec les différentes forces politiques",
+        "C": "L’annulation des élections dans les zones rurales",
+        "D": "La suspension de la Constitution de 2000 à 2020"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est l’état actuel de l’environnement en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Il est très dégradé, menaçant la qualité de la vie",
+        "B": "Il est entièrement protégé grâce aux forêts reboisées",
+        "C": "Il est stable grâce aux lois environnementales rigides",
+        "D": "Il est autosuffisant en matière d’énergie et d’eau potable"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle cause majeure contribue à la déforestation ?",
+      "réponses": {
+        "A": "Le développement industriel des métropoles régionales",
+        "B": "La construction de routes et de ponts suspendus",
+        "C": "L’abattage massif d’arbres pour l’agriculture et le bois de chauffe",
+        "D": "La prolifération des centrales électriques géothermiques"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel phénomène est lié à la dégradation urbaine ?",
+      "réponses": {
+        "A": "L’extension des parcs naturels dans les bidonvilles",
+        "B": "La multiplication des universités publiques dans les villages",
+        "C": "La prolifération des constructions anarchiques et des bidonvilles",
+        "D": "La suppression des marchés de quartier et des gares routières"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle est l’une des conséquences de l’insalubrité en ville ?",
+      "réponses": {
+        "A": "La pollution des eaux, des sols et de l’air",
+        "B": "La relocalisation des industries dans les forêts classées",
+        "C": "La baisse du taux de natalité dans les zones rurales",
+        "D": "L’apparition de villages pilotes pour les sans-abris"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quelle mesure est proposée pour améliorer l’environnement ?",
+      "réponses": {
+        "A": "Le reboisement et la gestion rationnelle des ressources forestières",
+        "B": "La suppression des marchés locaux dans les grandes villes",
+        "C": "La privatisation des forêts classées pour l’exportation",
+        "D": "La construction de villes artificielles sur les lacs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel rôle joue l’éducation dans la protection de l’environnement ?",
+      "réponses": {
+        "A": "Elle incite à l’émigration vers des zones plus vertes",
+        "B": "Elle interdit la commercialisation des objets en plastique",
+        "C": "Elle pousse les jeunes à abandonner les écoles rurales",
+        "D": "Elle sensibilise la population à l’importance de l’hygiène et de la propreté"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Que permet une bonne gestion des ressources naturelles ?",
+      "réponses": {
+        "A": "La spéculation foncière dans les zones montagneuses",
+        "B": "L’exportation massive d’animaux sauvages protégés",
+        "C": "Une utilisation durable pour les générations futures",
+        "D": "Une augmentation automatique du PIB forestier"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quelle est une des failles dans la lutte contre la pollution ?",
+      "réponses": {
+        "A": "L’absence d’étudiants en filière environnement dans les lycées",
+        "B": "La faiblesse des services d’assainissement dans plusieurs communes",
+        "C": "L’excès d’infrastructures écologiques dans les zones urbaines",
+        "D": "Le refus des citoyens de vivre dans des quartiers propres"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Qu’entraîne l’explosion démographique sur les structures éducatives ?",
+      "réponses": {
+        "A": "L’augmentation du nombre d’écoles privées gratuites",
+        "B": "La création de lycées d’excellence dans chaque village",
+        "C": "L’inadéquation des structures éducatives avec les besoins",
+        "D": "La suppression des écoles publiques au profit de l’e-learning"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Quel lien peut-on faire entre la pauvreté et les vices sociaux ?",
+      "réponses": {
+        "A": "La pauvreté favorise la criminalité, la prostitution et les comportements immoraux",
+        "B": "La pauvreté pousse les jeunes à se marier plus tôt",
+        "C": "La pauvreté est à l’origine des fêtes traditionnelles dans les villes",
+        "D": "La pauvreté entraîne une migration massive vers les zones agricoles"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "Quel est l’effet des déséquilibres régionaux ?",
+      "réponses": {
+        "A": "La relocalisation des activités industrielles dans les zones rurales",
+        "B": "La naissance d’une élite intellectuelle dans les villages isolés",
+        "C": "Des tensions sociales et des disparités dans l’accès aux services",
+        "D": "Une homogénéisation des traditions culturelles nationales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "Que provoque le développement de petits métiers informels ?",
+      "réponses": {
+        "A": "Une hausse de la fiscalité sur les grands commerces urbains",
+        "B": "Une régularisation rapide des métiers traditionnels par l’État",
+        "C": "Une informalité massive et difficile à contrôler économiquement",
+        "D": "Un enrichissement systématique des acteurs non formés"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Quel phénomène aggrave les problèmes fonciers ?",
+      "réponses": {
+        "A": "L’élevage intensif dans les zones forestières protégées",
+        "B": "La coopération étroite entre les autochtones et les étrangers",
+        "C": "La centralisation des terres par les institutions religieuses",
+        "D": "Les tensions entre autochtones et populations immigrées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°26": {
+      "question": "Quelle conséquence directe de l’instabilité politique est observée ?",
+      "réponses": {
+        "A": "Le gaspillage des ressources et la destruction d’infrastructures",
+        "B": "L’indépendance des régions agricoles et minières",
+        "C": "La promotion de la culture ivoirienne dans les pays voisins",
+        "D": "Le doublement du taux d’alphabétisation des adultes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Pourquoi les partenaires internationaux hésitent-ils à investir en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "À cause de la forte main-d’œuvre locale",
+        "B": "À cause du climat tropical peu favorable au business",
+        "C": "À cause de l’instabilité politique et de l’insécurité",
+        "D": "À cause du coût élevé de l’enseignement supérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Quelle stratégie peut relancer la paix durable ?",
+      "réponses": {
+        "A": "La militarisation de toutes les régions du pays",
+        "B": "La fermeture des frontières nord et est du pays",
+        "C": "Le dialogue politique et la réconciliation nationale",
+        "D": "L’expulsion massive des étrangers des zones rurales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Quelle solution est envisagée pour stabiliser les flux migratoires internes ?",
+      "réponses": {
+        "A": "La décentralisation et l’équilibre dans la répartition des services",
+        "B": "La suppression des quartiers populaires dans les grandes villes",
+        "C": "L’augmentation du prix des titres fonciers",
+        "D": "L’interdiction des déplacements interrégionaux en période scolaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°30": {
+      "question": "Pourquoi la gestion rationnelle des ressources est-elle cruciale ?",
+      "réponses": {
+        "A": "Pour interdire l’agriculture familiale dans les zones industrielles",
+        "B": "Pour garantir la durabilité des ressources pour les générations futures",
+        "C": "Pour permettre aux entreprises minières de s’étendre dans les parcs",
+        "D": "Pour favoriser l’exportation massive du bois et du sable."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}
+]

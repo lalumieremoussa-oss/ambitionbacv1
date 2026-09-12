@@ -1,0 +1,396 @@
+{
+  "title": "Quiz 3: les engrais chimiques et organiques.",
+  "id": "SVT017_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Les engrais chimiques ont pour rôle principal :",
+      "réponses": {
+        "A": "D’améliorer la structure physique du sol en augmentant la proportion d’humus et d’argile.",
+        "B": "D’enrichir directement la réserve minérale du sol en éléments nutritifs immédiatement assimilables par les plantes.",
+        "C": "De remplacer totalement les apports organiques naturels comme le compost et le fumier.",
+        "D": "D’augmenter uniquement la température du sol pour accélérer la germination des graines."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Les engrais chimiques sont principalement :",
+      "réponses": {
+        "A": "Des micro-organismes vivants servant à enrichir la microflore du sol.",
+        "B": "Des déchets organiques issus de la fermentation de la biomasse végétale et animale.",
+        "C": "Des substances minérales fabriquées pour fournir aux plantes des nutriments essentiels rapidement disponibles.",
+        "D": "Des matériaux inertes servant uniquement à améliorer la texture du sol."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "L’application d’engrais chimiques provoque :",
+      "réponses": {
+        "A": "Une neutralisation de la capacité d’échange cationique empêchant toute absorption d’éléments nutritifs.",
+        "B": "Une dégradation immédiate de la fertilité naturelle du sol par élimination des minéraux essentiels.",
+        "C": "Une amélioration rapide de la fertilité du sol grâce à un apport direct d’éléments minéraux assimilables.",
+        "D": "Une augmentation de la quantité d’humus par décomposition biologique lente."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Les engrais simples dits N-P-K contiennent :",
+      "réponses": {
+        "A": "Carbone, oxygène et hydrogène, composants principaux de la matière organique",
+        "B": "Calcium, magnésium et soufre, essentiels à la structure du sol.",
+        "C": "Azote, phosphore et potassium, qui sont les trois nutriments majeurs pour les plantes.",
+        "D": "Fer, cuivre et zinc, destinés à corriger les carences micronutritionnelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "L’azote (N) dans les engrais favorise :",
+      "réponses": {
+        "A": "Le développement des feuilles et des tiges, stimulant la croissance végétative.",
+        "B": "L’endurcissement des racines et la résistance aux maladies fongiques.",
+        "C": "L’augmentation de la teneur en sucres et la maturation précoce des fruits.",
+        "D": "L’amélioration de la structure grumeleuse et la porosité du sol."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Le phosphore (P) contenu dans les engrais chimiques :",
+      "réponses": {
+        "A": "Stimule l’enracinement et favorise la floraison des plantes.",
+        "B": "Accélère uniquement la formation des tiges secondaires et la production de feuilles.",
+        "C": "Réduit la croissance racinaire pour privilégier la photosynthèse.",
+        "D": "Sert surtout à solidifier les parois cellulaires et à limiter la transpiration foliaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Le potassium (K) joue un rôle essentiel en :",
+      "réponses": {
+        "A": "Renforçant la résistance des plantes aux maladies et en améliorant la qualité des fruits et tubercules.",
+        "B": "Favorisant uniquement la germination des graines dans les sols secs.",
+        "C": "Remplaçant les fonctions de l’azote et du phosphore dans le développement végétatif.",
+        "D": "Accélérant la décomposition de la matière organique présente dans le sol."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Vitesse d’action des engrais chimiques",
+      "réponses": {
+        "A": "Très lentement, car ils doivent être transformés par les micro-organismes du sol.",
+        "B": "Rapidement, car leurs éléments nutritifs sont immédiatement assimilables par les plantes.",
+        "C": "De manière aléatoire, selon la présence ou non de matière organique.",
+        "D": "Seulement après plusieurs saisons agricoles d’application continue."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Un excès d’engrais chimiques peut :",
+      "réponses": {
+        "A": "Rendre le sol plus fertile et plus stable sur le long terme.",
+        "B": "Stabiliser le pH du sol en neutralisant toute acidité.",
+        "C": "Favoriser la multiplication des micro-organismes bénéfiques sans conséquence négative.",
+        "D": "Devenir toxique pour les plantes et nuire à leur croissance."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Une utilisation excessive d’engrais chimiques :",
+      "réponses": {
+        "A": "Améliore la structure du sol en augmentant la proportion d’humus et la porosité.",
+        "B": "Stabilise la texture du sol sans modifier sa composition biologique.",
+        "C": "Renforce la cohésion du sol grâce à la formation de complexes argilo-humiques.",
+        "D": "Appauvrit la structure du sol en réduisant la matière organique et la biodiversité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "L’usage intensif d’engrais chimiques peut entraîner :",
+      "réponses": {
+        "A": "Une dépollution naturelle des eaux souterraines par absorption des nutriments excédentaires.",
+        "B": "Une pollution des nappes phréatiques due au lessivage des nitrates et phosphates.",
+        "C": "Une amélioration de la qualité de l’eau grâce à la rétention totale des minéraux dans le sol.",
+        "D": "Une réduction de la salinité et une meilleure oxygénation des eaux profondes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "L’application répétée d’engrais chimiques :",
+      "réponses": {
+        "A": "Augmente la diversité microbienne en stimulant les bactéries fixatrices d’azote.",
+        "B": "N’a aucun effet sur les organismes vivants présents dans la rhizosphère.",
+        "C": "Favorise la multiplication de champignons symbiotiques bénéfiques pour les racines.",
+        "D": "Peut réduire la biodiversité microbienne en déséquilibrant l’écosystème du sol."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Contrairement aux engrais organiques, les engrais chimiques :",
+      "réponses": {
+        "A": "Agissent plus lentement mais de façon plus durable.",
+        "B": "Ne contiennent que des éléments d’origine biologique sans ajout minéral.",
+        "C": "Ont une action identique sur la vie microbienne et la structure du sol.",
+        "D": "Agissent plus rapidement mais ont des effets à court terme sur la fertilité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Pour préserver la durabilité du sol, les engrais chimiques doivent être :",
+      "réponses": {
+        "A": "Utilisés sans restriction pour maximiser la productivité agricole immédiate.",
+        "B": "Dosés de manière raisonnée et combinés à des apports organiques comme le compost ou la fumure.",
+        "C": "Appliqués systématiquement avant chaque pluie pour garantir leur absorption complète.",
+        "D": "Substitués à l’irrigation pour réguler l’humidité du sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle est la principale différence entre un engrais organique et un engrais chimique ?",
+      "réponses": {
+        "A": "L’engrais organique agit rapidement sur les plantes en libérant tous ses nutriments d’un coup.",
+        "B": "L’engrais organique libère ses nutriments lentement, assurant une fertilité durable.",
+        "C": "L’engrais organique appauvrit la structure du sol à long terme.",
+        "D": "L’engrais organique ne contient pas d’éléments nutritifs assimilables par les plantes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la principale origine des engrais organiques ?",
+      "réponses": {
+        "A": "Exclusivement minérale, issue de la décomposition des roches phosphatées.",
+        "B": "D’origine végétale ou animale, provenant de déchets organiques naturels.",
+        "C": "Entièrement synthétique, fabriquée à partir d’éléments azotés industriels.",
+        "D": "Issue uniquement des boues d’épuration des villes industrielles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Le fumier est défini comme :",
+      "réponses": {
+        "A": "Un mélange de sable, d’eau et de cendres utilisé pour enrichir le sol.",
+        "B": "Un mélange de déjections animales et de litière végétale.",
+        "C": "Un sous-produit minéral résultant de la décomposition de roches calcaires.",
+        "D": "Un liquide organique issu de la fermentation des engrais verts."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle caractéristique distingue les engrais d’origine animale ?",
+      "réponses": {
+        "A": "Ils apportent un azote à décomposition lente et favorisent la microflore du sol.",
+        "B": "Ils sont immédiatement assimilables et dépourvus de micro-organismes.",
+        "C": "Ils contiennent uniquement du phosphore et du potassium.",
+        "D": "Ils rendent le sol imperméable et limitent l’activité biologique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle est la nature du lisier ?",
+      "réponses": {
+        "A": "Une matière solide composée de débris végétaux séchés.",
+        "B": "Une poudre minérale utilisée pour corriger le pH du sol",
+        "C": "Un liquide contenant les déjections animales mélangées à de l’eau.",
+        "D": "Un résidu de compostage riche en sable et en argile."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Les fientes sont :",
+      "réponses": {
+        "A": "Les excréments liquides des bovins utilisés pour le compostage.",
+        "B": "Les déchets de poissons utilisés dans la fertilisation marine",
+        "C": "Les résidus végétaux séchés sans valeur nutritive",
+        "D": "Les excréments solides des volailles riches en azote."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°21": {
+      "question": "Quelle affirmation décrit le mieux les engrais verts ?",
+      "réponses": {
+        "A": "Ce sont des plantes cultivées pour être récoltées et vendues comme fourrage.",
+        "B": "Ce sont des résidus végétaux séchés sans valeur nutritive",
+        "C": "Ce sont des engrais chimiques enrichis en azote vert biodégradable.",
+        "D": "Ce sont des plantes cultivées pour être enfouies dans le sol afin de l’enrichir."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Que devient la matière organique végétale après décomposition complète ?",
+      "réponses": {
+        "A": "Elle se transforme en sable enrichi et stérile.",
+        "B": "Elle se volatilise sous forme de gaz azotés sans utilité.",
+        "C": "Elle produit du calcaire qui durcit la structure du sol.",
+        "D": "Elle devient un humus stable et riche en nutriments."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°23": {
+      "question": "Le rôle principal de l’humus dans le sol est :",
+      "réponses": {
+        "A": "D’augmenter uniquement la teneur en eau sans effets sur les nutriments.",
+        "B": "D’améliorer durablement la fertilité chimique, physique et biologique du sol.",
+        "C": "De bloquer la décomposition microbienne et stabiliser le pH.",
+        "D": "De réduire la porosité et rendre le sol plus compact."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Pourquoi les engrais organiques sont-ils dits « durables » ?",
+      "réponses": {
+        "A": "Parce qu’ils épuisent rapidement les éléments minéraux du sol.",
+        "B": "Parce qu’ils entretiennent la fertilité sur le long terme grâce à l’humus.",
+        "C": "Parce qu’ils agissent uniquement en surface et non en profondeur.",
+        "D": "Parce qu’ils se dissolvent complètement dès la première pluie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Quelle est la particularité du compost issu de résidus végétaux ?",
+      "réponses": {
+        "A": "Il enrichit le sol en matière organique mais sans effet sur la structure.",
+        "B": "Il améliore la structure du sol et libère lentement des nutriments.",
+        "C": "Il acidifie fortement le sol et appauvrit les micro-organismes.",
+        "D": "Il remplace totalement la nécessité de jachère."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Quelle est une limite majeure des engrais organiques ?",
+      "réponses": {
+        "A": "Leur décomposition est lente, donc les effets sont moins immédiats.",
+        "B": "Leur utilisation rend les sols totalement imperméables.",
+        "C": "Ils provoquent une acidification excessive du sol en quelques jours.",
+        "D": "Ils ne contiennent aucun élément nutritif essentiel aux plantes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Quel sous-produit d’abattoir est couramment utilisé comme engrais ?",
+      "réponses": {
+        "A": "Le sable calciné et tamisé.",
+        "B": "Le sang desséché et les cornes torréfiées.",
+        "C": "La sciure de bois et les copeaux minéralisés.",
+        "D": "Le calcaire broyé mélangé à de la cendre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Quelle affirmation est exacte concernant les boues d’épuration ?",
+      "réponses": {
+        "A": "Elles sont utilisées uniquement pour l’irrigation des cultures aquatiques.",
+        "B": "Elles sont dépourvues d’azote et uniquement minérales.",
+        "C": "Elles sont riches en azote et peuvent être utilisées comme amendement organique.",
+        "D": "Elles détruisent complètement la microflore du sol."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Quel lien unit la microflore du sol et les engrais organiques ?",
+      "réponses": {
+        "A": "La microflore transforme les engrais organiques en sels minéraux toxiques.",
+        "B": "Les engrais organiques bloquent la croissance des micro-organismes.",
+        "C": "Les engrais organiques nourrissent la microflore, qui décompose la matière en humus.",
+        "D": "Les engrais organiques stérilisent le sol et empêchent toute activité biologique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Quelle différence essentielle existe entre les engrais chimiques et les engrais organiques ?",
+      "réponses": {
+        "A": "Les engrais chimiques libèrent lentement leurs nutriments tandis que les engrais organiques agissent immédiatement après l’application.",
+        "B": "Les engrais chimiques contiennent de l’humus stabilisé, contrairement aux engrais organiques.",
+        "C": "Les engrais chimiques apportent des éléments minéraux directement assimilables, alors que les organiques les libèrent lentement grâce à la décomposition.",
+        "D": "Les engrais organiques favorisent uniquement la croissance aérienne sans effet sur le sol."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°31": {
+      "question": "Quelle conséquence découle d’un usage excessif d’engrais chimiques ?",
+      "réponses": {
+        "A": "Une amélioration durable de la structure du sol grâce à la formation d’humus stable.",
+        "B": "Une diminution progressive de la teneur en sels minéraux dans la solution du sol",
+        "C": "Une augmentation naturelle de la microflore du sol et une meilleure aération.",
+        "D": "Une pollution des nappes phréatiques et un appauvrissement de la biodiversité microbienne."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°32": {
+      "question": "Les engrais organiques favorisent la fertilité à long terme parce que :",
+      "réponses": {
+        "A": "Ils stimulent la formation d’humus qui améliore les propriétés physiques et biologiques du sol.",
+        "B": "Ils agissent uniquement sur les racines et non sur la structure du sol.",
+        "C": "Ils bloquent la respiration des micro-organismes et ralentissent la décomposition.",
+        "D": "Ils remplacent totalement la matière minérale sans interaction biologique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°33": {
+      "question": "Quelle est la principale limite des engrais chimiques ?",
+      "réponses": {
+        "A": "Leur effet rapide peut entraîner des déséquilibres nutritionnels et une toxicité en cas d’excès.",
+        "B": "Ils n’apportent jamais de nutriments directement assimilables par les plantes.",
+        "C": "Ils enrichissent la microflore du sol mais diminuent la croissance des plantes.",
+        "D": "Ils empêchent la photosynthèse par accumulation de sels organiques."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°34": {
+      "question": "Pourquoi l’usage combiné des engrais chimiques et organiques est-il recommandé ?",
+      "réponses": {
+        "A": "Parce qu’ils ont des effets contraires qui se neutralisent mutuellement.",
+        "B": "Parce que les chimiques rendent inutile toute matière organique.",
+        "C": "Parce que les organiques accélèrent la toxicité des chimiques dans le sol.",
+        "D": "Parce que les organiques apportent de l’humus et les chimiques comblent les besoins immédiats."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°35": {
+      "question": "Parmi ces affirmations, laquelle décrit le mieux les engrais organiques d’origine animale ?",
+      "réponses": {
+        "A": "Ils appauvrissent la teneur en matière organique stable",
+        "B": "Ils sont constitués de sels minéraux immédiatement assimilables.",
+        "C": "Ils sont composés de roches broyées riches en potassium.",
+        "D": "Ils contiennent de l’azote à décomposition lente et stimulent la microflore du sol."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°36": {
+      "question": "Les engrais chimiques de type N-P-K apportent :",
+      "réponses": {
+        "A": "Azote pour la floraison, phosphore pour la résistance, potassium pour la croissance.",
+        "B": "Azote pour la croissance végétative, phosphore pour l’enracinement, potassium pour la résistance.",
+        "C": "Azote pour la décomposition, phosphore pour l’humidification, potassium pour l’aération.",
+        "D": "Azote pour l’acidification, phosphore pour la minéralisation, potassium pour la décomposition."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°37": {
+      "question": "L’humus issu des engrais organiques a un rôle majeur car :",
+      "réponses": {
+        "A": "Il améliore durablement la structure, la rétention d’eau et la vie microbienne du sol.",
+        "B": "Il accélère la perte de nutriments et la compaction du sol.",
+        "C": "Il bloque l’échange d’air et la respiration des racines.",
+        "D": "Il rend le sol imperméable et stérile à long terme."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°38": {
+      "question": "Dans la gestion durable des sols, pourquoi privilégier les engrais organiques ?",
+      "réponses": {
+        "A": "Parce qu’ils entretiennent la fertilité sans pollution et améliorent la biodiversité du sol.",
+        "B": "Parce qu’ils permettent une croissance rapide même en absence d’eau.",
+        "C": "Parce qu’ils remplacent complètement les éléments minéraux nécessaires aux plantes.",
+        "D": "Parce qu’ils suppriment toute activité microbienne du sol après décomposition."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°39": {
+      "question": "Quel est l’impact écologique comparé des deux types d’engrais ?",
+      "réponses": {
+        "A": "Les engrais chimiques préservent mieux les nappes phréatiques que les organiques.",
+        "B": "Les engrais organiques sont moins polluants et améliorent la vie du sol, contrairement aux chimiques.",
+        "C": "Les deux types d’engrais ont exactement le même effet sur la faune du sol.",
+        "D": "Les engrais organiques détruisent les micro-organismes tandis que les chimiques les protègent."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

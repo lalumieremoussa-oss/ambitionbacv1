@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz : Obtention et réaction des alcools</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; 
+            padding: 15px; 
+            color: #333; 
+        }
+
+        .container { max-width: 600px; margin: auto; }
+
+        h1 { 
+            color: var(--orange-ivoire); 
+            text-align: center; 
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 20px; 
+            padding: 20px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text { 
+            font-weight: 600; 
+            font-size: 1.1rem; 
+            margin-bottom: 12px; 
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option { 
+            display: flex; 
+            align-items: center;
+            padding: 12px; 
+            margin: 8px 0; 
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] { 
+            margin-right: 12px; 
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .feedback { margin-top: 10px; font-weight: bold; font-size: 0.9rem; }
+
+        .btn-submit { 
+            display: block; 
+            width: 100%; 
+            padding: 18px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 1.1rem; 
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled { background: #ccc; box-shadow: none; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>📝 Quiz : Obtention et réaction des alcools</h1>
+    
+    <div id="quizForm"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+</div>
+
+<script>
+    const data = [
+        {
+            "q": "On peut obtenir de l’alcool à partir de la fermentation alcoolique. Il s’agit particulièrement de l’éthanol. L’équation-bilan de la réaction est :",
+            "options": {
+                "A": "$C_6H_{12}O_6 \\rightarrow 2 CH_3–CH_2OH + CO_2$",
+                "B": "$C_6H_{12}O_6 \\rightarrow CH_3–CH_2OH + CO_2$",
+                "C": "$C_6H_{12}O_6 \\rightarrow CH_3–CH_2OH + 2 CO_2$",
+                "D": "$C_6H_{12}O_6 \\rightarrow 2 CH_3–CH_2OH + 2 CO_2$"
+            },
+            "r": "D"
+        },
+        {
+            "q": "L’hydratation d’un alcène symétrique conduit à un seul alcool.",
+            "options": { "A": "VRAI", "B": "FAUX" },
+            "r": "A"
+        },
+        {
+            "q": "L’hydratation d’un alcène asymétrique donne systématiquement deux alcools.",
+            "options": { "A": "VRAI", "B": "FAUX" },
+            "r": "A"
+        },
+        {
+            "q": "On réalise l’hydratation du propène ($CH_3–CH=CH_2$). On obtient deux types d’alcools. Lesquels ?",
+            "options": {
+                "A": "le propan-1-ol et le propan-2-ol",
+                "B": "$CH_3–CH_2–CH_2–OH$ et $CH_3–CH(OH)–CH_3$",
+                "C": "un alcool primaire et un alcool secondaire",
+                "D": "Toutes ces réponses sont justes"
+            },
+            "r": "D"
+        },
+        {
+            "q": "Le but-2-ène ($CH_3–CH=CH–CH_3$) est hydraté en présence d’acide sulfurique. Le seul composé susceptible d’être obtenu est le butan-2-ol ($CH_3–CH(OH)–CH_2–CH_3$).",
+            "options": { "A": "VRAI", "B": "FAUX" },
+            "r": "A"
+        },
+        {
+            "q": "L’équation-bilan de la combustion complète d’un alcool est :",
+            "options": {
+                "A": "$C_nH_{2n+2}O + \\frac{3n+1}{2} O_2 \\rightarrow (n+1)CO_2 + (n+1)H_2O$",
+                "B": "$C_nH_{2n+2}O + \\frac{3n}{2} O_2 \\rightarrow nCO_2 + (n+1)H_2O$",
+                "C": "$C_nH_{2n+2}O + \\frac{3n+1}{2} O_2 \\rightarrow nCO_2 + (n+1)H_2O$",
+                "D": "Tout dépend de l’exercice"
+            },
+            "r": "B"
+        },
+        {
+            "q": "L’équation-bilan de la réaction entre un alcool et le sodium est :",
+            "options": {
+                "A": "$R–OH + Na \\rightarrow (RO^- + Na^+) + H_2$",
+                "B": "$R–OH + Na \\rightarrow (RO^- + Na^+) + H_2$",
+                "C": "$R–OH + Na \\rightarrow (RO^- + Na^+) + \\frac{1}{2} H_2$",
+                "D": "Toutes ces réponses sont justes"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Un alcool A réagit avec le sodium pour donner un composé B, accompagné d’un dégagement de dihydrogène. Le composé B formé est :",
+            "options": {
+                "A": "alcanoate de sodium",
+                "B": "éthanolate de sodium",
+                "C": "alcanolate de sodium",
+                "D": "éthanoate de sodium"
+            },
+            "r": "C"
+        },
+        {
+            "q": "La déshydratation intermoléculaire du butan-2-ol ($CH_3–CH(OH)–CH_2–CH_3$) conduit systématiquement au but-2-ène.",
+            "options": { "A": "VRAI", "B": "FAUX", "C": "NI VRAI NI FAUX" },
+            "r": "B"
+        },
+        {
+            "q": "La combustion complète est une réaction d’oxydation au cours de laquelle la chaîne carbonée du composé est [...1...], tandis que l’oxydation ménagée est une réaction chimique au cours de laquelle la chaîne carbonée du composé est [...2...].",
+            "options": {
+                "A": "1 : conservée ; 2 : détruite",
+                "B": "1 : hydratée ; 2 : conservée",
+                "C": "1 : détruite ; 2 : conservée",
+                "D": "Toutes ces réponses sont justes"
+            },
+            "r": "C"
+        },
+        {
+            "q": "L’oxydation en milieu acide (solution aqueuse) est une oxydation brutale.",
+            "options": { "A": "VRAI", "B": "FAUX" },
+            "r": "B"
+        },
+        {
+            "q": "Les oxydants sont $Cr_2O_7^{2-}$ (réduit en $Cr^{3+}$) et $MnO_4^-$ (réduit en $Mn^{3+}$).",
+            "options": { "A": "VRAI", "B": "FAUX" },
+            "r": "B"
+        },
+        {
+            "q": "Équilibre l’équation suivante : $Cr_2O_7^{2-} + H^+ + 6e^- \\rightarrow Cr^{3+} + H_2O$",
+            "options": {
+                "A": "$Cr_2O_7^{2-} + 8H^+ + 5e^- \\rightarrow Cr^{3+} + 7H_2O$",
+                "B": "$Cr_2O_7^{2-} + 14H^+ + 6e^- \\rightarrow Cr^{3+} + 7H_2O$",
+                "C": "$Cr_2O_7^{2-} + 14H^+ + 6e^- \\rightarrow 2Cr^{3+} + 7H_2O$",
+                "D": "$Cr_2O_7^{2-} + 14H^+ + 5e^- \\rightarrow 2Cr^{3+} + 7H_2O$"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Équilibre l’équation suivante : $MnO_4^- + 8H^+ + 5e^- \\rightarrow Mn^{2+} + 4H_2O$",
+            "options": {
+                "A": "$MnO_4^- + 8H^+ + 6e^- \\rightarrow Mn^{2+} + 4H_2O$",
+                "B": "$MnO_4^- + 8H^+ + 5e^- \\rightarrow Mn^{2+} + 4H_2O$",
+                "C": "$MnO_4^- + 14H^+ + 6e^- \\rightarrow Mn^{2+} + 7H_2O$",
+                "D": "$MnO_4^- + 8H^+ + 5e^- \\rightarrow 2Mn^{2+} + 4H_2O$"
+            },
+            "r": "B"
+        },
+        {
+            "q": "L’oxydation d’un alcool primaire par défaut d’oxydant donne :",
+            "options": { "A": "un aldéhyde", "B": "une cétone", "C": "un acide carboxylique", "D": "ne donne rien" },
+            "r": "A"
+        },
+        {
+            "q": "L’oxydation d’un alcool secondaire par défaut d’oxydant donne :",
+            "options": { "A": "un aldéhyde", "B": "une cétone", "C": "un acide carboxylique", "D": "ne donne rien" },
+            "r": "B"
+        },
+        {
+            "q": "L’oxydation d’un alcool primaire par excès d’oxydant donne :",
+            "options": { "A": "un aldéhyde", "B": "une cétone", "C": "un acide carboxylique", "D": "ne donne rien" },
+            "r": "C"
+        },
+        {
+            "q": "L’oxydation d’un alcool tertiaire par excès d’oxydant donne :",
+            "options": { "A": "un aldéhyde", "B": "une cétone", "C": "un acide carboxylique", "D": "ne donne rien" },
+            "r": "D"
+        },
+        {
+            "q": "L’oxydation d’un aldéhyde par excès d’oxydant donne :",
+            "options": { "A": "un aldéhyde", "B": "une cétone", "C": "un acide carboxylique", "D": "ne donne rien" },
+            "r": "C"
+        },
+        {
+            "q": "Quel est le produit d’oxydation en milieu acide par le dichromate de potassium des composés suivants ?",
+            "img": "alcoolfsd1.png",
+            "options": {
+                "A": "1. aldéhyde ; 2. cétone ; 3. cétone ; 4. pas de réaction",
+                "B": "1. aldéhyde ; 2. cétone ; 3. aldéhyde ; 4. pas de réaction",
+                "C": "1. propanal ; 2. propanone ; 3. 2-méthylpropanal ; 4. aucun",
+                "D": "Les réponses B et C sont justes"
+            },
+            "r": "D"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i+1}. ${item.q}</span>
+                ${imageTag}
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Score final : ${score} / ${data.length}`;
+
+        if (window.ExerciceChannel) {
+            window.ExerciceChannel.postMessage(JSON.stringify({
+                "score": score,
+                "total": data.length
+            }));
+        }
+    }
+</script>
+
+</body>
+</html>

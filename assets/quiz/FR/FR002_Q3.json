@@ -1,0 +1,141 @@
+{
+  "title": "Quiz 2 - Partie A",
+  "id": "FR002_Q2_A",
+  "questions": {
+    "question n°1": {
+      "question": "« Va, cours, vole et nous venge ! » Quelle est cette figure de style ?",
+      "réponses": {
+        "A": "Une accumulation",
+        "B": "Une gradation",
+        "C": "Une anaphore"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle figure consiste à dire moins pour faire entendre plus, comme 'Je ne te hais point' ?",
+      "réponses": {
+        "A": "La litote",
+        "B": "L'euphémisme",
+        "C": "L'hyperbole"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "L'expression 'Il nous a quittés' pour désigner la mort est :",
+      "réponses": {
+        "A": "Une litote",
+        "B": "Une hyperbole",
+        "C": "Un euphémisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "« Un vent à décorner les bœufs. » Il s'agit d'une :",
+      "réponses": {
+        "A": "Accumulation",
+        "B": "Hyperbole",
+        "C": "Question oratoire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La répétition d'un terme en début de chaque phrase ou proposition s'appelle :",
+      "réponses": {
+        "A": "Un parallélisme",
+        "B": "Une anaphore",
+        "C": "Une gradation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "« Rien n’était si beau, si leste, si brillant, si bien ordonné... » est une :",
+      "réponses": {
+        "A": "Accumulation",
+        "B": "Litote",
+        "C": "Question rhétorique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "« Ne suis-je pas adorable ? » est un exemple de :",
+      "réponses": {
+        "A": "Parallélisme",
+        "B": "Question oratoire",
+        "C": "Euphémisme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Le parallélisme se définit par :",
+      "réponses": {
+        "A": "L'exagération d'un sentiment",
+        "B": "La répétition de la même structure syntaxique",
+        "C": "Une énumération croissante"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "« Il n'est pas sot, cet enfant ! » (pour dire qu'il est très intelligent) est :",
+      "réponses": {
+        "A": "Une litote",
+        "B": "Une hyperbole",
+        "C": "Une anaphore"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle figure atténue une idée pour ne pas choquer le destinataire ?",
+      "réponses": {
+        "A": "La gradation",
+        "B": "L'euphémisme",
+        "C": "L'accumulation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "« Il faut manger pour vivre et non pas vivre pour manger. » est un :",
+      "réponses": {
+        "A": "Parallélisme",
+        "B": "Euphémisme",
+        "C": "Hyperbole"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "L'hyperbole est principalement utilisée pour :",
+      "réponses": {
+        "A": "Questionner sans attendre de réponse",
+        "B": "Mettre en valeur une idée par l'exagération",
+        "C": "Répéter un mot en début de vers"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'expression 'Mon épouse est un peu enveloppée' est un exemple de :",
+      "réponses": {
+        "A": "Litote",
+        "B": "Euphémisme",
+        "C": "Gradation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Une énumération organisée de façon croissante ou décroissante est une :",
+      "réponses": {
+        "A": "Anaphore",
+        "B": "Accumulation",
+        "C": "Gradation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "« Qui aime bien châtie bien. » contient une répétition illustrant :",
+      "réponses": {
+        "A": "Une anaphore",
+        "B": "Une hyperbole",
+        "C": "Une question rhétorique"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

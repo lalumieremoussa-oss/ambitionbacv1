@@ -1,0 +1,321 @@
+{
+  "title": "Quiz 5",
+  "id": "AN04_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"My name is Mariam.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Nom",
+        "est",
+        "suis",
+        "vis",
+        "Mariam",
+        "Mon",
+        "Je",
+        "famille"
+      ],
+      "bonne réponse": "Mon nom est Mariam"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"I live with my family.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vis",
+        "famille",
+        "chambre",
+        "Je",
+        "sa",
+        "avec",
+        "vit",
+        "ses",
+        "ma",
+        "il"
+      ],
+      "bonne réponse": "Je vis avec ma famille"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"My father’s name is Ali.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "le",
+        "est",
+        "ma",
+        "mère",
+        "père",
+        "Nom",
+        "Mon",
+        "Ali"
+      ],
+      "bonne réponse": "Le nom de mon père est Ali"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"My mother’s bag is big.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "petite",
+        "grande",
+        "Le",
+        "petit",
+        "est",
+        "mère",
+        "ma",
+        "sac",
+        "de",
+        "livre"
+      ],
+      "bonne réponse": "Le sac de ma mère est grand"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"I have a small room.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ai",
+        "un",
+        "petite",
+        "chambre",
+        "grande",
+        "Je",
+        "une",
+        "grand"
+      ],
+      "bonne réponse": "J'ai une petite chambre"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"My room’s window is open.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "la",
+        "la",
+        "fermé",
+        "chambre",
+        "est",
+        "ma",
+        "ouverte",
+        "fenêtre",
+        "porte",
+        "sœur"
+      ],
+      "bonne réponse": "La fenêtre de ma chambre est ouverte"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"I read my book every evening.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Je",
+        "chaque",
+        "matin",
+        "soir",
+        "sais",
+        "lis",
+        "le",
+        "livre",
+        "parle",
+        "mon"
+      ],
+      "bonne réponse": "Je lis mon livre chaque soir"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"My sister’s school is near.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "loin",
+        "est",
+        "école",
+        "du",
+        "L'",
+        "de",
+        "le",
+        "proche",
+        "sœur",
+        "ma"
+      ],
+      "bonne réponse": "L'école de ma sœur est proche"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Her friends are kind.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ses",
+        "sa",
+        "amis",
+        "méchants",
+        "Ils",
+        "sont",
+        "gentils",
+        "elle",
+        "sont"
+      ],
+      "bonne réponse": "Ses amis sont gentils"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"Our house is clean.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sale",
+        "nôtre",
+        "Notre",
+        "propre",
+        "maison",
+        "leur",
+        "est",
+        "petit"
+      ],
+      "bonne réponse": "Notre maison est propre"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"The children’s classroom is large.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "les",
+        "enfants",
+        "petite",
+        "la",
+        "est",
+        "de",
+        "salle",
+        "classe",
+        "maison",
+        "grande"
+      ],
+      "bonne réponse": "La salle de classe des enfants est grande"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"My parents’ house is beautiful.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Le",
+        "Mon",
+        "maison",
+        "belle",
+        "père",
+        "est",
+        "mes",
+        "sœur",
+        "de",
+        "parents"
+      ],
+      "bonne réponse": "La maison de mes parents est belle"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"I like my family very much.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "aime",
+        "ma",
+        "comme",
+        "très",
+        "beaucoup",
+        "détester",
+        "Je",
+        "famille"
+      ],
+      "bonne réponse": "J'aime beaucoup ma famille"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Je vis avec ma famille.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "with",
+        "her",
+        "home",
+        "you",
+        "live",
+        "family",
+        "my"
+      ],
+      "bonne réponse": "I live with my family"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Le sac de ma mère est grand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mother's",
+        "My",
+        "father's",
+        "is",
+        "room",
+        "bag",
+        "small",
+        "big"
+      ],
+      "bonne réponse": "My mother's bag is big"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"J'ai une petite chambre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "small",
+        "have",
+        "big",
+        "room",
+        "She",
+        "is",
+        "I",
+        "a"
+      ],
+      "bonne réponse": "I have a small room"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"L'école de ma sœur est proche.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "house",
+        "My",
+        "near",
+        "brother's",
+        "is",
+        "school",
+        "far",
+        "sister's"
+      ],
+      "bonne réponse": "My sister's school is near"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Ses amis sont gentils.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "is",
+        "Her",
+        "sad",
+        "Their",
+        "boy",
+        "friends",
+        "kind"
+      ],
+      "bonne réponse": "Her friends are kind"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Notre maison est propre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "clean",
+        "their",
+        "dirty",
+        "room",
+        "house",
+        "Our",
+        "school"
+      ],
+      "bonne réponse": "Our house is clean"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"La salle de classe des enfants est grande.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "The",
+        "parents'",
+        "small",
+        "large",
+        "classroom",
+        "children's",
+        "my"
+      ],
+      "bonne réponse": "The children's classroom is large"
+    }
+  }
+}

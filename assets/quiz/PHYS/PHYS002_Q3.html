@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "Un solide de masse $m=2kg$ descend un plan incliné de longueur $L=1,5m$ et d’angle $\\alpha=30°$ avec des frottements $f=\\frac{1}{10}P$. Le théorème de l’énergie cinétique s’écrit :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$\\sum \\vec{F} = m\\vec{a}$",
+                    "B": "$\\Delta E_c = \\sum W(\\vec{F})$",
+                    "C": "$E_c = mg$",
+                    "D": "$v = at$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : la hauteur $h$ est donnée par :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$h = L\\cos\\alpha$",
+                    "B": "$h = L\\sin\\alpha$",
+                    "C": "$h = L$",
+                    "D": "$h = r$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’expression de $v_B^2$ est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_B^2 = 2gL\\sin\\alpha$",
+                    "B": "$v_B^2 = 2gL\\sin\\alpha - \\frac{2fL}{m}$",
+                    "C": "$v_B^2 = gL$",
+                    "D": "$v_B^2 = fL$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : avec $f=\\frac{1}{10}mg$, on obtient :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_B^2 = 2gL\\sin\\alpha - \\frac{1}{5}gL$",
+                    "B": "$v_B^2 = gL$",
+                    "C": "$v_B^2 = \\frac{1}{10}gL$",
+                    "D": "$v_B^2 = 2gL$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : avec $\\sin 30° = 0,5$, on obtient :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_B^2 = \\frac{4}{5}gL$",
+                    "B": "$v_B^2 = gL$",
+                    "C": "$v_B^2 = \\frac{1}{5}gL$",
+                    "D": "$v_B^2 = 2gL$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : la valeur de $v_B$ est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$2,5$",
+                    "B": "$3,46$",
+                    "C": "$4$",
+                    "D": "$5$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : le théorème du centre d’inertie s’écrit :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$\\Delta E_c = 0$",
+                    "B": "$\\sum \\vec{F} = m\\vec{a}$",
+                    "C": "$v = at$",
+                    "D": "$P = mg$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’accélération $a_1$ sur AB est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$g\\sin\\alpha$",
+                    "B": "$g\\sin\\alpha - \\frac{f}{m}$",
+                    "C": "$g$",
+                    "D": "$0$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : la valeur de $a_1$ est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$5$",
+                    "B": "$4$",
+                    "C": "$3$",
+                    "D": "$2$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’équation horaire est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$x = vt$",
+                    "B": "$x = \\frac{1}{2}at^2$",
+                    "C": "$x = at$",
+                    "D": "$x = t^2$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : la durée du parcours AB est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$0,5s$",
+                    "B": "$0,86s$",
+                    "C": "$1s$",
+                    "D": "$2s$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Le solide parcourt ensuite BC horizontale avec $r=1m$. La vitesse $v_C$ vérifie :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_C^2 = v_B^2 + 2fL/m$",
+                    "B": "$v_C^2 = v_B^2 - \\frac{2f\\cdot BC}{m}$",
+                    "C": "$v_C^2 = gL$",
+                    "D": "$v_C = v_B$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’expression devient :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_C^2 = v_B^2 - \\frac{2}{5}gr$",
+                    "B": "$v_C^2 = v_B^2 + gr$",
+                    "C": "$v_C^2 = gr$",
+                    "D": "$v_C^2 = 0$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : la valeur de $v_C$ est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$3,46$",
+                    "B": "$2,82$",
+                    "C": "$4$",
+                    "D": "$2$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’accélération $a_2$ sur BC est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$g$",
+                    "B": "$-\\frac{1}{10}g$",
+                    "C": "$0$",
+                    "D": "$\\frac{1}{10}g$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : la nature du mouvement est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "uniforme",
+                    "B": "accéléré",
+                    "C": "retardé",
+                    "D": "circulaire"
+                },
+                "r": "C"
+            },
+            {
+                "q": "Sur CD (sans frottement), la variation d’énergie donne :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_D^2 = v_C^2 + 2gr(1-\\cos\\theta)$",
+                    "B": "$v_D^2 = v_C^2 - 2gr(1-\\cos\\theta)$",
+                    "C": "$v_D = v_C$",
+                    "D": "$v_D = gr$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’expression de $v_D$ est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$v_D = \\sqrt{v_C^2 - 2gr(1-\\cos\\theta)}$",
+                    "B": "$v_D = \\sqrt{2gr}$",
+                    "C": "$v_D = v_C$",
+                    "D": "$v_D = gr$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : l’accélération normale est :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$a_n = gr$",
+                    "B": "$a_n = \\frac{v_D^2}{r}$",
+                    "C": "$a_n = v_D$",
+                    "D": "$a_n = g$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : la réaction $R$ est donnée par :",
+                "img": "planincline3.png",
+                "options": {
+                    "A": "$R = mg$",
+                    "B": "$R = m\\frac{v_D^2}{r}$",
+                    "C": "$R = m\\left(\\frac{v_D^2}{r} + g\\cos\\theta\\right)$",
+                    "D": "$R = 0$"
+                },
+                "r": "C"
+            }
+        ];
+
+
+
+        ;
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

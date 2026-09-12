@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI008_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l’évolution récente de la structure familiale en Afrique ?",
+      "réponses": {
+        "A": "Elle s’élargit avec plus de solidarité rurale.",
+        "B": "Elle devient nucléaire, avec moins de cohésion et solidarité.",
+        "C": "Elle reste inchangée malgré l’urbanisation.",
+        "D": "Elle s’individualise tout en conservant la chefferie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Comment se recompose la structure sociale africaine contemporaine ?",
+      "réponses": {
+        "A": "Les castes ancestrales sont renforcées par les lois coutumières.",
+        "B": "Les hiérarchies lignagères se substituent aux classes politiques.",
+        "C": "Les classes sociales modernes s’ajoutent ou remplacent les structures traditionnelles.",
+        "D": "Les familles rétablissent les clans guerriers anciens."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle est l’évolution du rôle féminin dans les sociétés africaines modernes ?",
+      "réponses": {
+        "A": "Elle reste exclusivement centrée sur la tradition domestique.",
+        "B": "Elle progresse vers plus d’éducation et de responsabilités malgré des inégalités.",
+        "C": "Elle régresse face à la mondialisation des rôles masculins.",
+        "D": "Elle s'efface au profit des traditions orales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Comment évoluent les structures politiques traditionnelles ?",
+      "réponses": {
+        "A": "Elles dominent les parlements modernes.",
+        "B": "Elles fusionnent avec les structures religieuses.",
+        "C": "Elles conservent leur autorité grâce aux alliances militaires..",
+        "D": "Elles perdent du pouvoir face aux États modernes et à la démocratie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la situation de l’économie traditionnelle aujourd’hui ?",
+      "réponses": {
+        "A": "Elle prospère grâce au commerce de troc renforcé.",
+        "B": "Elle disparaît totalement au profit du salariat informel.",
+        "C": "Elle devient dominante dans les zones industrielles urbaines.",
+        "D": "Elle est concurrencée par le capitalisme mais certaines activités subsistent."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Que devient l’art traditionnel dans les sociétés contemporaines ?",
+      "réponses": {
+        "A": "Il est remplacé par l’abstraction moderne.",
+        "B": "Il se dilue dans l’art occidental sans distinction.",
+        "C": "Il disparaît avec la perte de la langue maternelle.",
+        "D": "Il subsiste, adapté, parfois folklorisé ou récupéré commercialement."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quelle mutation religieuse s’observe en Afrique ?",
+      "réponses": {
+        "A": "Le retour total à l’animisme dans les villes.",
+        "B": "L’adoption de cultes scientifiques inspirés du rationalisme.",
+        "C": "La suppression de toute croyance au profit de la technologie.",
+        "D": "Le recul de l’animisme face à l’islam et au christianisme, parfois en syncrétisme."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quels nouveaux canaux influencent aujourd’hui les cultures africaines ?",
+      "réponses": {
+        "A": "Les prières collectives et les jeux traditionnels.",
+        "B": "Les nouvelles alliances entre chefferies.",
+        "C": "Les cérémonies d’initiation rediffusées en boucle sur les chaînes locales.",
+        "D": "Les médias modernes : télé, internet, réseaux sociaux, musiques étrangères."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Pourquoi les jeunes sont-ils plus touchés par les changements culturels ?",
+      "réponses": {
+        "A": "Parce qu’ils adoptent des modes et des valeurs souvent éloignées des traditions.",
+        "B": "Parce qu’ils imposent la tradition à l’école.",
+        "C": "Parce qu’ils refusent toute forme de modernité.",
+        "D": "Parce qu’ils refusent tout contact avec les nouvelles technologies."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Peut-on encore parler aujourd’hui de civilisation négro-africaine ?",
+      "réponses": {
+        "A": "Non, elle a disparu avec la colonisation.",
+        "B": "Oui, mais elle est intacte et figée dans le passé.",
+        "C": "Oui, mais transformée, influencée par la modernité et les valeurs étrangères.",
+        "D": "Non, elle est devenue une légende rurale sans réalité sociale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi la famille nucléaire affaiblit-elle la cohésion communautaire ?",
+      "réponses": {
+        "A": "Parce qu’elle réduit les liens intergénérationnels et la solidarité élargie.",
+        "B": "Parce qu’elle multiplie les rituels ancestraux.",
+        "C": "Parce qu’elle impose la polygamie..",
+        "D": "Parce qu’elle interdit les visites coutumières."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Comment la ville transforme-t-elle les rapports sociaux ?",
+      "réponses": {
+        "A": "Elle renforce les lignages familiaux traditionnels.",
+        "B": "Elle uniformise les classes sociales selon l’âge.",
+        "C": "Elle fragilise les anciennes solidarités et introduit des rapports économiques.",
+        "D": "Elle restaure les valeurs tribales dans les quartiers populaires."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle forme d'inégalité persiste malgré l'émancipation des femmes ?",
+      "réponses": {
+        "A": "La persistance des inégalités d’accès à l’éducation, au pouvoir, à l’économie.",
+        "B": "La marginalisation dans la transmission des traditions.",
+        "C": "L’interdiction d’accès aux réseaux sociaux.",
+        "D": "Le refus d’utiliser les langues modernes dans les débats publics."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle conséquence politique majeure entraîne l’affaiblissement des chefferies ?",
+      "réponses": {
+        "A": "Le renforcement des États modernes avec des systèmes électoraux.",
+        "B": "L’émergence d’un pouvoir exclusivement religieux.",
+        "C": "Une généralisation des conflits ethniques.",
+        "D": "La disparition de toute autorité légitime reconnue."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle est la conséquence directe de l’économie capitaliste sur la tradition ?",
+      "réponses": {
+        "A": "Une relance du troc et de l’économie de chasse.",
+        "B": "Une disparition totale des activités agricoles.",
+        "C": "Une concurrence forte contre les formes traditionnelles de production.",
+        "D": "Un renforcement des castes dans les sociétés rurales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Comment le tourisme peut-il influencer la perception de l’art traditionnel ?",
+      "réponses": {
+        "A": "Il le protège en le conservant dans des musées familiaux.",
+        "B": "Il l’efface au profit de copies importées.",
+        "C": "Il le renforce comme culte religieux imposé..",
+        "D": "Il le transforme en objet commercial parfois détourné de sa fonction originale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Pourquoi parle-t-on de syncrétisme religieux en Afrique ?",
+      "réponses": {
+        "A": "Parce que les religions monothéistes disparaissent.",
+        "B": "Parce que les religions africaines rejettent toute influence extérieure.",
+        "C": "Parce que les croyances traditionnelles se mêlent parfois à l’islam ou au christianisme.",
+        "D": "Parce que tous les cultes sont devenus identiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel impact ont les médias modernes sur les normes sociales ?",
+      "réponses": {
+        "A": "Ils renforcent exclusivement les rites ancestraux.",
+        "B": "Ils suppriment les relations entre générations.",
+        "C": "Ils diffusent des modèles étrangers qui influencent les comportements.",
+        "D": "Ils enseignent les proverbes dans toutes les langues traditionnelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Pourquoi dit-on que les jeunes vivent une rupture culturelle ?",
+      "réponses": {
+        "A": "Parce qu’ils adoptent de nouveaux codes en opposition avec les traditions.",
+        "B": "Parce qu’ils rejettent toute forme d’école moderne.",
+        "C": "Parce qu’ils refusent les enseignements étrangers.",
+        "D": "Parce qu’ils parlent uniquement la langue des anciens."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Que désigne une civilisation transformée dans le contexte actuel ?",
+      "réponses": {
+        "A": "Une culture reconstituée artificiellement par les médias.",
+        "B": "Une culture en voie de disparition programmée.",
+        "C": "Une société dont les bases anciennes subsistent mais s’adaptent.",
+        "D": "Une société figée dans un modèle mythique ancien."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

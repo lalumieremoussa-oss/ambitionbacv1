@@ -1,0 +1,200 @@
+{
+  "title": "Quiz 4",
+  "id": "PH002_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne l’inconscient dans la pensée freudienne ?",
+      "réponses": {
+        "A": "Un espace obscur de la mémoire volontaire, totalement maîtrisé",
+        "B": "Un ensemble de souvenirs conscients refoulés intentionnellement",
+        "C": "Une partie de l’esprit échappant à la conscience, gouvernée par des désirs refoulés",
+        "D": "Une construction morale de l’individu pour justifier ses fautes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Que signifie la notion philosophique de liberté ?",
+      "réponses": {
+        "A": "L’absence totale de contraintes dans le monde physique et social",
+        "B": "La capacité à suivre toutes ses envies sans condition",
+        "C": "La faculté d’agir selon sa propre volonté, en connaissance de cause",
+        "D": "Le droit naturel d’obéir à son imagination sans limites"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel courant philosophique a mis au cœur de sa réflexion le rôle des pulsions inconscientes ?",
+      "réponses": {
+        "A": "Le scepticisme pyrrhonien",
+        "B": "La psychanalyse freudienne",
+        "C": "Le matérialisme antique",
+        "D": "L’existentialisme sartrien"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle doctrine nie le libre arbitre au nom d’un déterminisme des désirs et des affects ?",
+      "réponses": {
+        "A": "L’humanisme kantien",
+        "B": "Le rationalisme cartésien",
+        "C": "Le spinozisme",
+        "D": "Le personnalisme chrétien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pourquoi l’inconscient est-il vu comme une menace pour la liberté selon Freud ?",
+      "réponses": {
+        "A": "Parce qu’il est le siège du raisonnement logique",
+        "B": "Parce qu’il contient des souvenirs douloureux toujours facilement contrôlables",
+        "C": "Parce qu’il commande en partie nos pensées et nos actions sans que nous en ayons conscience",
+        "D": "Parce qu’il est uniquement dirigé par la morale sociale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment Spinoza conçoit-il la prétendue liberté de celui qui suit ses désirs ?",
+      "réponses": {
+        "A": "Il la considère comme l’expression de la vraie liberté",
+        "B": "Il y voit une illusion : l’homme est en réalité dominé par ses pulsions",
+        "C": "Il la justifie comme une ruse de la raison",
+        "D": "Il l’approuve s’il s’agit de désirs nobles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi le moi ne peut-il se prétendre souverain selon Freud ?",
+      "réponses": {
+        "A": "Parce qu’il est seulement en conflit avec le corps",
+        "B": "Parce qu’il est écartelé entre les injonctions du surmoi, les pulsions du ça et les contraintes du réel",
+        "C": "Parce qu’il ignore les lois de la logique",
+        "D": "Parce qu’il est sans lien avec les émotions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "En quoi l’enfant n’est-il pas libre selon Spinoza ?",
+      "réponses": {
+        "A": "Il est incapable de comprendre le langage de l’éthique",
+        "B": "Il agit par caprice et non par raisonnement",
+        "C": "Il suit uniquement le principe de plaisir sans distance critique",
+        "D": "Il vit en société et doit respecter l’autorité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle est la fonction de l’oubli dans la perspective nietzschéenne ?",
+      "réponses": {
+        "A": "Cacher la vérité pour manipuler les autres",
+        "B": "Supprimer les désirs pour devenir sage",
+        "C": "Permettre à l’esprit de se libérer des charges morales et affectives du passé",
+        "D": "Interdire tout souvenir de souffrance même utile"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Comment le rêve peut-il jouer un rôle libérateur, selon Freud ?",
+      "réponses": {
+        "A": "Il permet au cerveau de s’évader du monde réel par des images fictives",
+        "B": "Il donne à la pensée le pouvoir d’oublier totalement le monde",
+        "C": "Il réalise symboliquement des désirs inconscients refoulés",
+        "D": "Il efface toute mémoire et toute souffrance durablement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle citation illustre l’idée que le moi n’est pas libre selon Freud ?",
+      "réponses": {
+        "A": "« Le moi n’est pas maître dans sa propre maison. »",
+        "B": "« La liberté est la reconnaissance de la nécessité. »",
+        "C": "« L’homme est un roseau pensant. »",
+        "D": "« Le ça parle et je ne suis pas là. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quelle citation montre que l’attachement au plaisir peut devenir esclavage ?",
+      "réponses": {
+        "A": "« Celui qui est captif de son propre plaisir (…) est soumis au pire esclavage. »",
+        "B": "« La volonté n’est jamais sans désir. »",
+        "C": "« Le bonheur est dans l’obéissance à la raison. »",
+        "D": "« Le plaisir guide les âmes faibles. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quelle citation soutient que l’oubli est une condition de liberté intérieure ?",
+      "réponses": {
+        "A": "« L’oubli est une trahison de la mémoire. »",
+        "B": "« Nul bonheur, nulle sérénité, nulle espérance ne pourrait exister sans la faculté de l’oubli. »",
+        "C": "« L’oubli du passé garantit le progrès. »",
+        "D": "« L’homme libre est celui qui se souvient. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle citation exprime l’idée que le rêve réalise un désir inconscient ?",
+      "réponses": {
+        "A": "« Le rêve est le messager du divin. »",
+        "B": "« Le rêve est la voie royale vers l’inconscient. »",
+        "C": "« Un désir irréalisable peut trouver son mode de réalisation dans les rêves. »",
+        "D": "« Le rêve échappe à tout contrôle rationnel. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que signifie « Le moi n’est pas maître dans sa propre maison » ?",
+      "réponses": {
+        "A": "L’homme est dominé par ses parents et son éducation",
+        "B": "La raison humaine dirige mal les émotions",
+        "C": "Le sujet n’a pas la pleine maîtrise de lui-même à cause des forces inconscientes qui l’habitent",
+        "D": "L’esprit est toujours tourné vers l’extérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Pourquoi Spinoza parle-t-il d’esclavage à propos du plaisir ?",
+      "réponses": {
+        "A": "Parce qu’il méprise les joies du corps",
+        "B": "Parce qu’il associe toute sensation à une faute",
+        "C": "Parce qu’un homme guidé par ses désirs est en réalité déterminé de l’intérieur sans le savoir",
+        "D": "Parce qu’il prône le déni du plaisir pour atteindre la sagesse"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Que signifie pour Nietzsche : « Nul bonheur (…) sans faculté de l’oubli » ?",
+      "réponses": {
+        "A": "Le bonheur consiste à ignorer totalement son passé",
+        "B": "L’oubli est nécessaire pour éviter les douleurs morales et avancer",
+        "C": "Oublier, c’est se libérer des autres",
+        "D": "L’oubli n’a de valeur que pour les faibles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou faux : l’inconscient rend l’homme totalement libre de ses actes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou faux : Le rêve permet de libérer le moi en le renforçant contre le ça.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Vrai ou faux : L’oubli, chez Nietzsche, est vu comme une faiblesse psychique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "title": "AN07_Q7",
+  "id": "AN07_Q7",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la réponse de 15 x 15 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "three",
+        "hundred",
+        "twenty-five",
+        "four",
+        "and",
+        "one",
+        "two",
+        "seven"
+      ],
+      "bonne réponse": "two hundred and twenty-five"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse de 100 x 10 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "two",
+        "hundred",
+        "one"
+      ],
+      "bonne réponse": "one thousand"
+    },
+    "question n°3": {
+      "question": "Quelle est la réponse de 25 x 40 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "thousand",
+        "one",
+        "five"
+      ],
+      "bonne réponse": "one thousand"
+    },
+    "question n°4": {
+      "question": "Quelle est la réponse de 50 x 50 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eight",
+        "two",
+        "five",
+        "ten",
+        "thousand",
+        "fifty",
+        "hundred",
+        "one"
+      ],
+      "bonne réponse": "two thousand five hundred"
+    },
+    "question n°5": {
+      "question": "Quelle est la réponse de 10000 / 2 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "thousand",
+        "ten",
+        "five"
+      ],
+      "bonne réponse": "five thousand"
+    },
+    "question n°6": {
+      "question": "Quelle est la réponse de 200 x 15 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "two",
+        "thousand",
+        "five",
+        "three"
+      ],
+      "bonne réponse": "three thousand"
+    },
+    "question n°7": {
+      "question": "Quelle est la réponse de 10000 / 10 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "hundred",
+        "ten",
+        "thousand"
+      ],
+      "bonne réponse": "one thousand"
+    },
+    "question n°8": {
+      "question": "Quelle est la réponse de 33 x 30 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "and",
+        "three",
+        "ninety",
+        "one",
+        "ten",
+        "nine",
+        "forty"
+      ],
+      "bonne réponse": "nine hundred and ninety"
+    },
+    "question n°9": {
+      "question": "Quelle est la réponse de 100 x 101 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "three",
+        "hundred",
+        "ten",
+        "nine",
+        "thousand",
+        "two",
+        "one",
+        "fifty"
+      ],
+      "bonne réponse": "ten thousand one hundred"
+    },
+    "question n°10": {
+      "question": "Quelle est la réponse de 20 x 200 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "five",
+        "four",
+        "two"
+      ],
+      "bonne réponse": "four thousand"
+    },
+    "question n°11": {
+      "question": "Quelle est la réponse de 121 / 11 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "twenty",
+        "one",
+        "eleven",
+        "ten"
+      ],
+      "bonne réponse": "eleven"
+    },
+    "question n°12": {
+      "question": "Quelle est la réponse de 150 x 5 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "two",
+        "fifty",
+        "one",
+        "hundred",
+        "six",
+        "seven",
+        "five"
+      ],
+      "bonne réponse": "seven hundred and fifty"
+    },
+    "question n°13": {
+      "question": "Quelle est la réponse de 20000 / 4 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "five",
+        "hundred",
+        "twenty"
+      ],
+      "bonne réponse": "five thousand"
+    },
+    "question n°14": {
+      "question": "Quelle est la réponse de 250 x 4 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "four",
+        "one",
+        "two"
+      ],
+      "bonne réponse": "one thousand"
+    },
+    "question n°15": {
+      "question": "Quelle est la réponse de 111 x 3 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "thousand",
+        "thirty-three",
+        "five",
+        "hundred",
+        "ten",
+        "and",
+        "three",
+        "forty",
+        "two",
+        "six"
+      ],
+      "bonne réponse": "three hundred and thirty-three"
+    },
+    "question n°16": {
+      "question": "Quelle est la réponse de 10000 / 5 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "thousand",
+        "hundred",
+        "two"
+      ],
+      "bonne réponse": "two thousand"
+    },
+    "question n°17": {
+      "question": "Quelle est la réponse de 100 x 15 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "hundred",
+        "one",
+        "five",
+        "two",
+        "thousand"
+      ],
+      "bonne réponse": "one thousand five hundred"
+    },
+    "question n°18": {
+      "question": "Quelle est la réponse de 70 x 100 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "thousand",
+        "seven",
+        "ten"
+      ],
+      "bonne réponse": "seven thousand"
+    },
+    "question n°19": {
+      "question": "Quelle est la réponse de 22 x 50 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "two",
+        "hundred",
+        "ten",
+        "one"
+      ],
+      "bonne réponse": "one thousand one hundred"
+    },
+    "question n°20": {
+      "question": "Quelle est la réponse de 9000 / 3 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nine",
+        "thousand",
+        "three",
+        "hundred"
+      ],
+      "bonne réponse": "three thousand"
+    },
+    "question n°21": {
+      "question": "Quelle est la réponse de 100 x 500 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "fifty",
+        "hundred",
+        "thousand"
+      ],
+      "bonne réponse": "fifty thousand"
+    },
+    "question n°22": {
+      "question": "Quelle est la réponse de 100000 / 10 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "thousand",
+        "ten",
+        "one"
+      ],
+      "bonne réponse": "ten thousand"
+    },
+    "question n°23": {
+      "question": "Quelle est la réponse de 11 x 1000 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "eleven",
+        "hundred",
+        "thousand"
+      ],
+      "bonne réponse": "eleven thousand"
+    },
+    "question n°24": {
+      "question": "Quelle est la réponse de 30 x 300 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "three",
+        "hundred",
+        "nine"
+      ],
+      "bonne réponse": "nine thousand"
+    },
+    "question n°25": {
+      "question": "Quelle est la réponse de 1000 x 50 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "hundred",
+        "fifty",
+        "thousand"
+      ],
+      "bonne réponse": "fifty thousand"
+    },
+    "question n°26": {
+      "question": "Quelle est la réponse de 20 x 20 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "twenty",
+        "hundred",
+        "two",
+        "four"
+      ],
+      "bonne réponse": "four hundred"
+    },
+    "question n°27": {
+      "question": "Quelle est la réponse de 25 x 25 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "seven",
+        "six",
+        "twenty-five",
+        "one",
+        "hundred",
+        "two",
+        "five"
+      ],
+      "bonne réponse": "six hundred and twenty-five"
+    },
+    "question n°28": {
+      "question": "Quelle est la réponse de 10000 / 8 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "fifty",
+        "five",
+        "two",
+        "hundred",
+        "eight",
+        "seven",
+        "one",
+        "and",
+        "ten"
+      ],
+      "bonne réponse": "one thousand two hundred and fifty"
+    },
+    "question n°29": {
+      "question": "Quelle est la réponse de 400 x 2 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "two",
+        "hundred",
+        "four",
+        "eight"
+      ],
+      "bonne réponse": "eight hundred"
+    },
+    "question n°30": {
+      "question": "Quelle est la réponse de 10 x 10 x 10 en lettres (en anglais) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "thousand",
+        "hundred",
+        "one"
+      ],
+      "bonne réponse": "one thousand"
+    }
+  }
+}

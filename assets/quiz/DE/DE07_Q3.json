@@ -1,0 +1,156 @@
+{
+  "title": "DE07_Q3",
+  "id": "DE07_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Comment écrit-on le nombre 10 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zehn"
+    },
+    "question n°2": {
+      "question": "Comment écrit-on le nombre 20 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwanzig"
+    },
+    "question n°3": {
+      "question": "Comment écrit-on le nombre 30 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreißig"
+    },
+    "question n°4": {
+      "question": "Comment écrit-on le nombre 40 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vierzig"
+    },
+    "question n°5": {
+      "question": "Comment écrit-on le nombre 50 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünfzig"
+    },
+    "question n°6": {
+      "question": "Comment écrit-on le nombre 60 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechzig"
+    },
+    "question n°7": {
+      "question": "Comment écrit-on le nombre 70 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "siebzig"
+    },
+    "question n°8": {
+      "question": "Comment écrit-on le nombre 80 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "achtzig"
+    },
+    "question n°9": {
+      "question": "Comment écrit-on le nombre 90 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neunzig"
+    },
+    "question n°10": {
+      "question": "Comment écrit-on le nombre 100 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "hundert"
+    },
+    "question n°11": {
+      "question": "Comment écrit-on le nombre 100 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "hundert"
+    },
+    "question n°12": {
+      "question": "Comment écrit-on le nombre 150 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "hundertfünfzig"
+    },
+    "question n°13": {
+      "question": "Comment écrit-on le nombre 200 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zweihundert"
+    },
+    "question n°14": {
+      "question": "Comment écrit-on le nombre 250 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zweihundertfünfzig"
+    },
+    "question n°15": {
+      "question": "Comment écrit-on le nombre 300 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreihundert"
+    },
+    "question n°16": {
+      "question": "Comment écrit-on le nombre 350 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreihundertfünfzig"
+    },
+    "question n°17": {
+      "question": "Comment écrit-on le nombre 400 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vierhundert"
+    },
+    "question n°18": {
+      "question": "Comment écrit-on le nombre 450 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vierhundertfünfzig"
+    },
+    "question n°19": {
+      "question": "Comment écrit-on le nombre 500 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünfhundert"
+    },
+    "question n°20": {
+      "question": "Comment écrit-on le nombre 550 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünfhundertfünfzig"
+    },
+    "question n°21": {
+      "question": "Comment écrit-on le nombre 600 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechshundert"
+    },
+    "question n°22": {
+      "question": "Comment écrit-on le nombre 650 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechshundertfünfzig"
+    },
+    "question n°23": {
+      "question": "Comment écrit-on le nombre 700 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "siebenhundert"
+    },
+    "question n°24": {
+      "question": "Comment écrit-on le nombre 750 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "siebenhundertfünfzig"
+    },
+    "question n°25": {
+      "question": "Comment écrit-on le nombre 800 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "achthundert"
+    },
+    "question n°26": {
+      "question": "Comment écrit-on le nombre 850 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "achthundertfünfzig"
+    },
+    "question n°27": {
+      "question": "Comment écrit-on le nombre 900 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neunhundert"
+    },
+    "question n°28": {
+      "question": "Comment écrit-on le nombre 950 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neunhundertfünfzig"
+    },
+    "question n°29": {
+      "question": "Comment écrit-on le nombre 1000 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "tausend"
+    },
+    "question n°30": {
+      "question": "Quel est le nombre juste avant zweihundert ? (en chiffres)",
+      "type": "short_answer",
+      "bonne réponse": "199"
+    }
+  }
+}

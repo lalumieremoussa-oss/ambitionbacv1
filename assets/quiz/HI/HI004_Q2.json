@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI004_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels abus du système colonial ont déclenché l’indignation des Africains ?",
+      "réponses": {
+        "A": "Les festivals culturels réguliers",
+        "B": "Le travail forcé, les violences, les spoliations et humiliations",
+        "C": "L’accès gratuit aux soins médicaux",
+        "D": "L’enseignement universel pour tous"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi les inégalités entre Noirs et Blancs ont-elles alimenté le nationalisme ?",
+      "réponses": {
+        "A": "Parce que les Blancs n’avaient pas de lois",
+        "C": "Parce que les Noirs étaient majoritaires mais systématiquement discriminés",
+        "D": "Parce qu’ils refusaient la modernité",
+        "B": "Parce qu’ils voulaient imiter la culture occidentale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Comment les impôts coloniaux étaient-ils perçus par les Africains ?",
+      "réponses": {
+        "A": "Comme une contribution équitable",
+        "C": "Comme un don volontaire pour le développement",
+        "D": "Comme une compensation pour l’enseignement",
+        "B": "Comme une injustice brutale sans bénéfice en retour"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel a été l’effet de l’aliénation culturelle coloniale ?",
+      "réponses": {
+        "A": "Le renforcement des coutumes africaines",
+        "C": "Une ouverture totale à la culture française",
+        "D": "Une perte de repères et un désir de retrouver l’identité africaine",
+        "B": "L’adoption du paganisme"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Pourquoi le christianisme et la langue du colon ont-ils été parfois rejetés ?",
+      "réponses": {
+        "A": "Parce qu’ils étaient trop simples à apprendre",
+        "C": "Parce qu’ils empêchaient de voyager",
+        "B": "Parce qu’ils étaient jugés inadaptés à la culture",
+        "D": "Parce qu’ils étaient perçus comme des outils de domination"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Que s’est-il passé pour les institutions traditionnelles africaines sous la colonisation ?",
+      "réponses": {
+        "A": "Elles ont été renforcées",
+        "C": "Elles ont été affaiblies ou manipulées par les colons",
+        "D": "Elles ont été nommées au parlement français",
+        "B": "Elles ont conquis l’Europe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelles nouvelles classes sociales ont émergé sous la colonisation ?",
+      "réponses": {
+        "A": "Une élite intellectuelle adoptant certaines valeurs occidentales mais rejetant la domination coloniale",
+        "C": "Une aristocratie royale fidèle aux colons",
+        "D": "Une caste militaire uniquement traditionnelle",
+        "B": "Des agriculteurs illettrés opposés à toute réforme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Qui étaient les élites africaines nées de la colonisation ?",
+      "réponses": {
+        "A": "Les griots et chasseurs",
+        "C": "Les enseignants, fonctionnaires et intellectuels revendiquant plus de justice",
+        "D": "Les rois et reines traditionnels exclusivement",
+        "B": "Les sorciers des villages"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel rôle l’école coloniale a-t-elle joué dans le développement du nationalisme ?",
+      "réponses": {
+        "A": "Elle a formé uniquement des militaires",
+        "D": "Elle a permis l’émergence d’une conscience politique chez certains Africains",
+        "C": "Elle n’enseignait que le catéchisme",
+        "B": "Elle interdisait toute critique du colon"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Qui sont des figures africaines formées par les colons devenues nationalistes ?",
+      "réponses": {
+        "A": "Martin Luther King, Nelson Mandela",
+        "B": "Che Guevara, Thomas Sankara",
+        "C": "Sékou Touré, Houphouët-Boigny, Nkrumah, Senghor",
+        "D": "Patrice Lumumba et Napoléon"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle forme de travail imposée symbolise l’oppression coloniale ?",
+      "réponses": {
+        "A": "L’artisanat libre",
+        "C": "Le bénévolat rural",
+        "D": "Le commerce équitable",
+        "B": "Le travail forcé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle injustice éducative renforce le ressentiment des colonisés ?",
+      "réponses": {
+        "A": "L’exclusion des Noirs des écoles supérieures",
+        "C": "L’enseignement gratuit pour tous",
+        "D": "Le bilinguisme obligatoire",
+        "B": "Les cours de théâtre africain"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel domaine reflète fortement la discrimination coloniale ?",
+      "réponses": {
+        "A": "La musique traditionnelle",
+        "C": "La justice, l’emploi, l’éducation",
+        "D": "L’artisanat local",
+        "B": "Le tourisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Que signifie la \"spoliation des terres\" pour les Africains ?",
+      "réponses": {
+        "A": "Un prêt de terrains pour les écoles",
+        "B": "Une restitution des terres",
+        "D": "La confiscation violente des terres par les colons",
+        "C": "Une réforme agraire égalitaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle contradiction choquante vivait l’élite africaine ?",
+      "réponses": {
+        "A": "Être contre l’école tout en y enseignant",
+        "B": "Être éduquée par le colon tout en luttant contre sa domination",
+        "C": "Être riche mais analphabète",
+        "D": "Être chrétienne mais animiste"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel message transmet l’humiliation raciale aux colonisés ?",
+      "réponses": {
+        "A": "La fierté de servir",
+        "C": "La dévotion au colon",
+        "D": "Le besoin de dignité et d’indépendance",
+        "B": "Le désir d’émigrer"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel type d’instruction coloniale a inspiré certains leaders ?",
+      "réponses": {
+        "A": "L’apprentissage de la chasse",
+        "C": "La poésie orale",
+        "B": "La formation classique occidentale, base de leur critique politique",
+        "D": "L’enseignement des proverbes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi l’élite africaine rejetait-elle le système colonial malgré sa formation ?",
+      "réponses": {
+        "A": "Par ingratitude",
+        "C": "Parce qu’elle constatait les injustices structurelles malgré sa position privilégiée",
+        "D": "Par fidélité aux traditions",
+        "B": "Pour obtenir des terres"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Comment les colons justifiaient-ils souvent leur domination ?",
+      "réponses": {
+        "A": "Par la volonté de transmettre la démocratie",
+        "D": "Par une prétendue mission civilisatrice",
+        "C": "Par amour pour la culture africaine",
+        "B": "Par devoir religieux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel paradoxe révèle la scolarisation coloniale ?",
+      "réponses": {
+        "A": "Elle produit des Africains capables de penser contre le colonisateur",
+        "C": "Elle forme uniquement des serviteurs",
+        "D": "Elle supprime toute ambition politique",
+        "B": "Elle efface la mémoire collective"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

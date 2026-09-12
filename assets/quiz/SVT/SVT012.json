@@ -1,0 +1,1195 @@
+[
+{
+  "id": "SVT012_Q1",
+  "titre": "Quiz1 : le milieu intérieur et la structure du rein",
+  "questions": {
+    "question n°1": {
+      "question": "Qu’est-ce que la cellule représente pour les organismes vivants ?",
+      "reponses": {
+        "A": "Une unité secondaire et décorative.",
+        "B": "Une unité fondamentale, structurale et fonctionnelle.",
+        "C": "Une unité de stockage d’énergie uniquement.",
+        "D": "Une unité transitoire et non essentielle."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels sont les trois principaux composants qui constituent le milieu intérieur ?",
+      "reponses": {
+        "A": "Le sang, l’urine et la salive.",
+        "B": "Le plasma, la lymphe canalaire et la lymphe interstitielle.",
+        "C": "Les enzymes, les hormones et les neurotransmetteurs.",
+        "D": "L’eau, les minéraux et les vitamines."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est l’unité fonctionnelle du rein ?",
+      "reponses": {
+        "A": "La pyramide de Malpighi.",
+        "B": "La capsule fibreuse.",
+        "C": "Le cortex rénal.",
+        "D": "Le néphron."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°4": {
+      "question": "Le milieu intérieur sert de milieu de vie aux cellules, leur permettant de puiser ce dont elles ont besoin et d’éliminer leurs déchets.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "Le rein ne comporte qu’une seule zone principale, la zone corticale.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "La zone médullaire du rein contient des pyramides de Malpighi et des portions de néphrons.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "Le rein est un organe qui a une forme d’haricot. Chez l’homme, il comporte deux zones : la zone […A…] ou le cortex rénal, et la zone […B…], qui contient des […C…] de Malpighi.",
+      "reponses": {
+        "A": "A : médullaire, B : corticale, C : néphrons",
+        "B": "A : corticale, B : médullaire, C : pyramides",
+        "C": "A : interne, B : externe, C : tubes",
+        "D": "A : fibreuse, B : glomérulaire, C : capillaires"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Le milieu intérieur est constitué par le […A…] (55% de la masse sanguine), la […B…] canalaire, et la lymphe […C…] ou liquide interstitiel.",
+      "reponses": {
+        "A": "A : sang, B : plasma, C : intraveineuse",
+        "B": "A : urine, B : bile, C : cellulaire",
+        "C": "A : sérum, B : globules, C : extracellulaire",
+        "D": "A : plasma, B : lymphe, C : interstitielle"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "La lettre ‘a’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Cortex rénal",
+        "B": "Médulla rénale",
+        "C": "Capsule rénale",
+        "D": "Pyramide de Malpighi"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°10": {
+      "question": "La lettre ‘b’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Cortex rénal",
+        "B": "Capsule rénale",
+        "C": "Calice mineur",
+        "D": "Bassinet"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "La lettre ‘c’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Colonne de Bertin",
+        "B": "Pyramide de Malpighi",
+        "C": "Médulla rénale",
+        "D": "Calice majeur"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "La lettre ‘d’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Artère rénale",
+        "B": "Veine rénale",
+        "C": "Calice mineur",
+        "D": "Bassinet"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "La lettre ‘e’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Uretère",
+        "D": "Nœud lymphatique"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "La lettre ‘f’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Artère rénale",
+        "B": "Veine rénale",
+        "C": "Uretère",
+        "D": "Nerf rénal"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "La lettre ‘g’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Calice mineur",
+        "B": "Calice majeur",
+        "C": "Bassinet",
+        "D": "Uretère"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°16": {
+      "question": "La lettre ‘h’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "reponses": {
+        "A": "Bassinet",
+        "B": "Veine rénale",
+        "C": "Artère rénale",
+        "D": "Uretère"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "Le numéro 1 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "reponses": {
+        "A": "Artériole afférente",
+        "B": "Glomérule",
+        "C": "Capsule de Bowman",
+        "D": "Artériole efférente"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Le numéro 2 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "reponses": {
+        "A": "Tubule contourné distal",
+        "B": "Tube collecteur",
+        "C": "Tube contourné proximal",
+        "D": "Anse de Henlé"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "Le numéro 3 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "reponses": {
+        "A": "Tubule contourné proximal",
+        "B": "Tube collecteur",
+        "C": "Tubule contourné distal",
+        "D": "Anse de Henlé"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Le numéro 4 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tubule contourné distal",
+        "C": "Anse de Henlé",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°21": {
+      "question": "Le numéro 5 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "reponses": {
+        "A": "Tubule contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Tubule contourné distal",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "D"
+    }
+  }
+},
+
+{
+  "id": "SVT012_Q2",
+  "titre": "Quiz 2: Les fonctions du rein et du néphron",
+  "questions": {
+    "question n°1": {
+      "question": "Parmi les substances suivantes, lesquelles sont spécifiques au plasma et ne devraient normalement pas se retrouver dans l’urine ?",
+      "reponses": {
+        "A": "L’eau et le chlorure de sodium.",
+        "B": "L’urée et l’acide urique.",
+        "C": "Les protéines, les lipides et les glucides.",
+        "D": "L’ammoniaque et les sels minéraux."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle du rein en ce qui concerne les substances utiles à l’organisme comme les protéines et les lipides ?",
+      "reponses": {
+        "A": "Il les sécrète activement dans l’urine.",
+        "B": "Il les élimine comme des déchets azotés.",
+        "C": "Il agit comme une barrière qui empêche leur passage du plasma vers l’urine.",
+        "D": "Il les laisse passer librement selon les besoins du corps."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Le passage libre de l’eau et des sels minéraux (NaCl) du plasma vers l’urine, selon les besoins du corps, démontre quel rôle du rein ?",
+      "reponses": {
+        "A": "Son rôle de sécréteur.",
+        "B": "Son rôle d’excréteur.",
+        "C": "Son rôle de filtre sélectif.",
+        "D": "Son rôle de stockage."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelles sont les substances spécifiques à l’urine, presque absentes dans le plasma, qui sont des déchets azotés ?",
+      "image": "assets/images/svt/tableau_rein.png",
+      "reponses": {
+        "A": "Les lipides, les protéines et l’eau.",
+        "B": "Le chlorure de sodium et le glucose.",
+        "C": "L’urée, l’acide urique et l’ammoniaque.",
+        "D": "Les vitamines et les minéraux."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "Comment appelle-t-on le processus par lequel le rein élimine les déchets azotés comme l’urée et l’acide urique ?",
+      "reponses": {
+        "A": "La filtration.",
+        "B": "La réabsorption.",
+        "C": "L’excrétion.",
+        "D": "La sécrétion."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "Les protéines, les glucides (glucose) et les lipides sont des substances considérées comme des déchets azotés par l’organisme.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°7": {
+      "question": "Le rein joue un rôle de filtre sélectif en retenant les substances utiles à l’organisme.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°8": {
+      "question": "L’eau et le chlorure de sodium sont des composés qui passent librement entre le plasma et l’urine selon les besoins du corps.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°9": {
+      "question": "Le rôle de « sécréteur » du rein implique l’élimination des déchets azotés comme l’urée.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "L’ammoniac est une substance qui est ajoutée à l’urine par le rein, illustrant son rôle de sécréteur.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Le rein agit comme un filtre sélectif, retenant les substances […A…] telles que les protéines et le glucose. Il joue également un rôle de […B…] en ajoutant certaines substances comme l’ammoniac dans l’urine, et un rôle d’[…C…] en éliminant les déchets azotés.",
+      "reponses": {
+        "A": "A : inutiles, B : filtre, C : absorption",
+        "B": "A : utiles, B : sécréteur, C : excréteur",
+        "C": "A : toxiques, B : réabsorbeur, C : stockage",
+        "D": "A : spécifiques, B : transformateur, C : production"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Dans l’analyse comparative entre le plasma et l’urine, les composés […A…] aux deux liquides, comme l’eau et le chlorure de sodium, passent […B…] selon les besoins du corps, ce qui montre que le rein joue un rôle de […C…].",
+      "reponses": {
+        "A": "A : absents, B : difficilement, C : pompe",
+        "B": "A : spécifiques, B : rarement, C : barrière",
+        "C": "A : communs, B : librement, C : filtre sélectif",
+        "D": "A : différents, B : lentement, C : transformateur"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Les substances spécifiques à l’urine, comme l’[…A…], l’acide urique et l’ammoniaque, sont des déchets […B…] produits par le métabolisme. Elles sont […C…] par le rein pour être éliminées.",
+      "reponses": {
+        "A": "A : glucose, B : carbonés, C : retenues",
+        "B": "A : protéines, B : lipidiques, C : recyclées",
+        "C": "A : urée, B : azotés, C : sécrétées ou excrétées",
+        "D": "A : sels minéraux, B : minéraux, C : absorbées"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelles substances, spécifiques au plasma, sont incapables de traverser les parois du glomérule pour passer dans l’urine primitive ?",
+      "reponses": {
+        "A": "L’eau et les sels minéraux.",
+        "B": "L’urée et la créatinine.",
+        "C": "Les lipides et les protéines.",
+        "D": "L’ammoniac et l’acide hippurique."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "Parmi les substances suivantes, lesquelles sont communes au plasma et à l’urine primitive ?",
+      "reponses": {
+        "A": "Les lipides et les protéines.",
+        "B": "L’ammoniac et l’acide hippurique.",
+        "C": "L’eau, le chlore, le sodium, le potassium,etc….",
+        "D": "Seulement l’eau et le chlorure de sodium."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°16": {
+      "question": "La diminution ou l’absence de quelles substances dans l’urine définitive, par rapport à l’urine primitive, s’explique par le phénomène de réabsorption tubulaire ?",
+      "reponses": {
+        "A": "Les lipides et les protéines et d’autres composés de grossesse molécule.",
+        "B": "L’ammoniac et l’acide hippurique et d’autres ions.",
+        "C": "L’urée L’ammoniac, l’acide hippurique et l’acide urique.",
+        "D": "Les glucides et d’autres petites molécules/ions comme l’eau et les sels minéraux."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "Comment sont qualifiés les composés spécifiques à l’urine définitive, comme l’ammoniac et l’acide hippurique ?",
+      "reponses": {
+        "A": "Ils sont filtrés sélectivement.",
+        "B": "Ils sont réabsorbés au niveau des tubules.",
+        "C": "Ce sont des substances utiles que le corps retient",
+        "D": "Ils sont sécrétés par les tubules et rejetés directement dans l’urine."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°18": {
+      "question": "Quel phénomène permet aux petites molécules et aux ions de passer du plasma vers l’urine primitive à travers les parois du glomérule ?",
+      "reponses": {
+        "A": "La filtration glomérulaire.",
+        "B": "La sécrétion tubulaire.",
+        "C": "La réabsorption tubulaire.",
+        "D": "L’excrétion rénale."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "Lequel des rôles suivants n’est pas un rôle principal du néphron mentionné dans le texte ?",
+      "reponses": {
+        "A": "Le stockage de l’urine.",
+        "B": "La réabsorption tubulaire.",
+        "C": "La filtration glomérulaire.",
+        "D": "La sécrétion tubulaire."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Les glucides sont totalement absents du plasma.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "La quantité de l’eau et du chlorure de sodium diminue considérablement dans l’urine définitive par rapport à l’urine primitive, en raison de la réabsorption tubulaire.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°22": {
+      "question": "Les lipides et les protéines sont des composés de petite taille capables de traverser librement les parois du glomérule.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°23": {
+      "question": "L’ammoniac et l’acide hippurique sont des composés qui sont réabsorbés par les tubules pour être conservés par l’organisme.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°24": {
+      "question": "Le néphron a trois rôles principaux : la filtration glomérulaire, la réabsorption tubulaire et la sécrétion tubulaire.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°25": {
+      "question": "La créatinine est une substance spécifique au plasma et absente de l’urine primitive.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°26": {
+      "question": "Les composés de […A…] molécules comme les protéines et les lipides sont […B…] de traverser les parois de la glomérule pour passer à l’urine primitive, démontrant ainsi le rôle de […C…] glomérulaire.",
+      "reponses": {
+        "A": "A : petites, B : capables, C : réabsorption",
+        "B": "A : grosses, B : incapables, C : filtration",
+        "C": "A : moyennes, B : partiellement, C : sécrétion",
+        "D": "A : diverses, B : souvent, C : concentration"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "Les substances communes au plasma et à l’urine primitive sont soit des ions soit des […A…] molécules. Leur diminution dans l’urine définitive s’explique par le phénomène de la […B…] tubulaire, répondant ainsi aux […C…] de l’organisme.",
+      "reponses": {
+        "A": "A : grosses, B : filtration, C : déchets",
+        "B": "A : complexes, B : sécrétion, C : régulations",
+        "C": "A : petites, B : réabsorption, C : besoins",
+        "D": "A : uniques, B : excrétion, C : préférences"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°28": {
+      "question": "L’ammoniac et l’acide hippurique sont des composés […A…] à l’urine définitive. Ils sont […B…] par les tubules et rejetés […C…] dans l’urine.",
+      "reponses": {
+        "A": "A : spécifiques, B : sécrétés, C : directement",
+        "B": "A : communs, B : filtrés, C : partiellement",
+        "C": "A : absents, B : réabsorbés, C : indirectement",
+        "D": "A : variés, B : transformés, C : lentement"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°29": {
+      "question": "Le néphron, unité fonctionnelle du rein, est responsable de la […A…] glomérulaire, processus durant lequel les petites molécules traversent le glomérule. Ensuite, la […B…] tubulaire permet de récupérer les substances utiles pour le corps, tandis que la […C…] tubulaire ajoute des déchets spécifiques à l’urine.",
+      "reponses": {
+        "A": "A : réabsorption, B : sécrétion, C : filtration",
+        "B": "A : absorption, B : élimination, C : production",
+        "C": "A : sécrétion, B : filtration, C : réabsorption",
+        "D": "A : filtration, B : réabsorption, C : sécrétion"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°30": {
+      "question": "L’urine primitive contient des substances utiles comme le glucose et des déchets comme l’[…A…]. L’absence de […B…] et la diminution des autres substances utiles dans l’urine définitive indiquent une réabsorption tubulaire essentielle pour maintenir l’[…C…] du corps.",
+      "reponses": {
+        "A": "A : acide hippurique, B : protéines, C : équilibre des lipides",
+        "B": "A : créatinine, B : glucides, C : homéostasie",
+        "C": "A : potassium, B : sels minéraux, C : régulation thermique",
+        "D": "A : chlore, B : lipides, C : pression sanguine"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT012_Q3",
+  "titre": "Quiz 3 : La Régulation de l'Eau et du Sodium",
+  "questions": {
+    "question n°1": {
+      "question": "En cas de déficit en eau dans l'organisme, que se passe-t-il au niveau de la volémie ?",
+      "reponses": {
+        "A": "Elle diminue.",
+        "B": "Elle augmente.",
+        "C": "Elle reste stable.",
+        "D": "Elle n'est pas affectée."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°2": {
+      "question": "Quelle hormone est sécrétée par la posthypophyse en cas de déficit en eau ?",
+      "reponses": {
+        "A": "L'aldostérone.",
+        "B": "La rénine.",
+        "C": "L'ADH (hormone antidiurétique).",
+        "D": "L'angiotensine."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Sur quelle partie du néphron l'ADH agit-elle principalement pour favoriser la réabsorption d'eau en cas de déficit ?",
+      "reponses": {
+        "A": "Les glomérules.",
+        "B": "L'anse de Henlé.",
+        "C": "Les tubules collecteurs.",
+        "D": "Les capsules de Bowman."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "En cas d'excès d'eau dans l'organisme, que se passe-t-il au niveau de la sécrétion d'ADH ?",
+      "reponses": {
+        "A": "Elle est fortement stimulée.",
+        "B": "Elle est inhibée.",
+        "C": "Elle reste inchangée.",
+        "D": "Elle est transformée en une autre hormone."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel est le résultat d'une faible réabsorption d'eau due à l'inhibition d'ADH en cas d'excès d'eau ?",
+      "reponses": {
+        "A": "Une chute du débit urinaire.",
+        "B": "Une diurèse élevée (élimination accrue d'eau).",
+        "C": "Une augmentation de la pression osmotique.",
+        "D": "Une stimulation des volorécepteurs."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "En cas de déficit de Na+, que se passe-t-il au niveau de la pression osmotique ?",
+      "reponses": {
+        "A": "Elle diminue.",
+        "B": "Elle augmente.",
+        "C": "Elle reste normale.",
+        "D": "Elle fluctue de manière imprévisible."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle enzyme est sécrétée par les reins en cas de déficit de Na+ ?",
+      "reponses": {
+        "A": "L'aldostérone.",
+        "B": "La rénine.",
+        "C": "L'angiotensine.",
+        "D": "L'ADH."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle protéine inactive est transformée en angiotensine par la rénine ?",
+      "reponses": {
+        "A": "L'aldostérone.",
+        "B": "L'ADH.",
+        "C": "La vasopressine",
+        "D": "L’angiotensinogène."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle glande stimule l'angiotensine pour sécréter l'aldostérone ?",
+      "reponses": {
+        "A": "La thyroïde.",
+        "B": "La parathyroïde.",
+        "C": "Les glandes corticosurrénales.",
+        "D": "Le pancréas."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "En cas d'excès de Na+, que se passe-t-il concernant la sécrétion de rénine ?",
+      "reponses": {
+        "A": "Elle est fortement stimulée.",
+        "B": "Elle est inhibée.",
+        "C": "Elle reste constante.",
+        "D": "Elle est convertie en aldostérone."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "En cas de déficit en eau, la pression osmotique de l'organisme diminue.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Les volorécepteurs et les osmorécepteurs sont stimulés en cas d'excès d'eau dans l'organisme.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "L'ADH favorise la réabsorption d'eau au niveau des tubules collecteurs, ce qui entraîne une chute du débit urinaire.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "En cas d'excès d'eau, le retour à une volémie normale est le résultat d'une forte réabsorption d'eau.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "Un déficit de Na+ entraîne une augmentation de la pression osmotique.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "Les osmorécepteurs carotidiens sont fortement stimulés en cas de déficit de Na+.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "L'aldostérone est l'hormone qui transforme l'angiotensinogène en angiotensine.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "L'angiotensine stimule la secretion d'aldostérone par les reins.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°19": {
+      "question": "En cas d'excès de Na+, le sodium en excès est éliminé dans l'urine.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "En cas d'excès de Na+, les osmorécepteurs sont fortement stimulés.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "Lors d'un déficit en eau, la volémie [...A...] et la pression osmotique [...B...]. Cela stimule les volorécepteurs et osmorécepteurs, qui envoient un influx nerveux à l'[...C...] pour déclencher la sécrétion d'ADH.",
+      "reponses": {
+        "A": "A: augmente, B: diminue, C: reins",
+        "B": "A: diminue, B: augmente, C: hypothalamus",
+        "C": "A: reste stable, B: augmente, C: glandes surrénales",
+        "D": "A: diminue, B: diminue, C: coeur"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°22": {
+      "question": "L'ADH, libérée par la [...A...], agit sur le néphron, en particulier au niveau des [...B...] collecteurs, pour favoriser la [...C...] d'eau, ce qui entraîne une chute du débit urinaire.",
+      "reponses": {
+        "A": "A: antéhypophyse, B: glomérules, C: filtration",
+        "B": "A: posthypophyse, B: tubules, C: réabsorption",
+        "C": "A: thyroïde, B: anses de Henlé, C: sécrétion",
+        "D": "A: surrénale, B: capsules de Bowman, C: élimination"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°23": {
+      "question": "Lorsqu'il y a un excès d'eau, la volémie [...A...] et la pression osmotique [...B...]. Cela mène à une inhibition de la sécrétion d'ADH, résultant en une faible [...C...] d'eau et une diurèse élevée.",
+      "reponses": {
+        "A": "A : augmente, B : diminue, C : réabsorption",
+        "B": "A : diminue, B : augmente, C : filtration",
+        "C": "A: reste stable, B: augmente, C: sécrétion",
+        "D": "A: augmente, B: reste stable, C: élimination"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°24": {
+      "question": "Un déficit de Na+ provoque une [...A...] de la pression osmotique, ce qui stimule fortement les osmorécepteurs carotidiens. Cela déclenche la sécrétion de [...B...] par les reins, qui transforme l'angiotensinogène en [...C...].",
+      "reponses": {
+        "A": "A: augmentation, B: aldostérone, C: ADH",
+        "B": "A: diminution, B: rénine, C: angiotensine",
+        "C": "A: stabilité, B: ADH, C: rénine",
+        "D": "A: hausse, B: angiotensine, C: rénine"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°25": {
+      "question": "L'angiotensine stimule la sécrétion d'[...A...] par les glandes [...B...]. Cette hormone agit sur le néphron pour favoriser la [...C...] du sodium, ramenant la pression osmotique à la normale.",
+      "reponses": {
+        "A": "A: ADH, B: thyroïdes, C: élimination",
+        "B": "A: rénine, B: pancréas, C: filtration",
+        "C": "A: aldostérone, B: corticosurrénales, C: réabsorption",
+        "D": "A: vasopressine, B: parathyroïdes, C: excrétion"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°26": {
+      "question": "En cas d'excès de Na+, la pression osmotique [...A...]. Les osmorécepteurs sont [...B...] stimulés, ce qui inhibe la sécrétion de rénine et la cascade angiotensine/aldostérone. Le sodium en excès est alors [...C...] dans l'urine.",
+      "reponses": {
+        "A": "A: diminue, B: fortement, C: retenu",
+        "B": "A: augmente, B: peu, C: éliminé",
+        "C": "A: reste stable, B: très, C: réabsorbé",
+        "D": "A: varie, B: normalement, C: stocké"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "Lorsque l'organisme est en déficit en eau, l'hypothalamus reçoit un influx nerveux des [...A...] et des [...B...], ce qui déclenche la sécrétion d'[...C...] par la posthypophyse.",
+      "reponses": {
+        "A": "A: néphrons, B: reins, C: rénine",
+        "B": "A : tubules, B : glomérules, C : angiotensine",
+        "C": "A: glandes surrénales, B: carotides, C: aldostérone",
+        "D": "A : volorécepteurs, B : osmorécepteurs, C : ADH"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°28": {
+      "question": "Une [...A...] réabsorption d'eau due à l'inhibition d'ADH en cas d'excès d'eau conduit à une [...B...] élevée, ce qui signifie une élimination [...C...] d'eau par les reins.",
+      "reponses": {
+        "A": "A: forte, B: diurèse basse, C: faible",
+        "B": "A: faible, B: diurèse élevée, C: accrue",
+        "C": "A: nulle, B: pression osmotique, C: réduite",
+        "D": "A: moyenne, B: volémie normale, C: progressive"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°29": {
+      "question": "Le déficit en Na+ mène à une diminution de la [...A...] osmotique. Pour compenser, les reins sécrètent de la [...B...], qui initie une cascade aboutissant à la production d'[...C...] et à la réabsorption de sodium.",
+      "reponses": {
+        "A": "A: pression, B: aldostérone, C: ADH",
+        "B": "A: volémie, B: angiotensine, C: rénine",
+        "C": "A: pression, B: rénine, C: aldostérone",
+        "D": "A: concentration, B: ADH, C: angiotensinogène"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°30": {
+      "question": "Lors d'un excès de Na+, la pression osmotique [...A...]. Les osmorécepteurs sont [...B...] stimulés, ce qui a pour conséquence d'inhiber la cascade rénine-angiotensine-aldostérone et de permettre l'[...C...] du sodium en excès dans l'urine.",
+      "reponses": {
+        "A": "A: diminue, B: fortement, C: réabsorption",
+        "B": "A : varie, B : très, C : conservation",
+        "C": "A: reste stable, B: normalement, C: stockage",
+        "D": "A : augmente, B : peu, C : élimination"
+      },
+      "bonne_reponse": "D"
+    }
+  }
+},
+{
+  "id": "SVT012_Q4",
+  "titre": "Quiz 4 : perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "La réabsorption du glucose :",
+      "reponses": {
+        "A": "Peut-être passive ou active",
+        "B": "Est uniquement active",
+        "C": "Est uniquement passive."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°2": {
+      "question": "La réabsorption du glucose se fait au niveau :",
+      "reponses": {
+        "A": "De la capsule de Bowman.",
+        "B": "Du tube collecteur.",
+        "C": "Des vaisseaux sanguins.",
+        "D": "Du tubule contourné proximal."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°3": {
+      "question": "Le rein joue le rôle de :",
+      "reponses": {
+        "A": "Filtration – sécrétion – élimination",
+        "B": "Filtration – élimination – respiration",
+        "C": "Sécrétion – fixation – élimination"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°4": {
+      "question": "La sécrétion consiste à :",
+      "reponses": {
+        "A": "Fabriquer de nouveaux éléments.",
+        "B": "Détruire certains éléments.",
+        "C": "Rejeter certains éléments."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "L’unité fonctionnelle du rein est :",
+      "reponses": {
+        "A": "Le néphron.",
+        "B": "Le neurone",
+        "C": "Le sarcomère.",
+        "D": "la fibre rénale"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°6": {
+      "question": "Le numéro 1 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "Le numéro 2 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Le numéro 3 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Le numéro 4 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°10": {
+      "question": "Le numéro 5 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Corticosurrénale",
+        "B": "Médullosurrénale",
+        "C": "Aldostérone",
+        "D": "Capsule de Bowman"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Le numéro 6 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Corticosurrénale",
+        "B": "Médullosurrénale",
+        "C": "Aldostérone",
+        "D": "Capsule de Bowman"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Le numéro 7 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Corticosurrénale",
+        "B": "Médullosurrénale",
+        "C": "Aldostérone",
+        "D": "Capsule de Bowman"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Le numéro 8 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "Le numéro 9 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "Le numéro 10 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°16": {
+      "question": "Le numéro 11 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "Le numéro 12 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "reponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Urine",
+        "D": "Réabsorption"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°18": {
+      "question": "Le numéro 1 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "Le numéro 2 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Le numéro 3 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "Le numéro 4 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°22": {
+      "question": "Le numéro 5 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Néphron (tube urinifère)",
+        "D": "Uretère"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°23": {
+      "question": "Le numéro 6 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Néphron (tube urinifère)",
+        "D": "Uretère"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°24": {
+      "question": "Le numéro 7 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tube contourné distal",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°25": {
+      "question": "Le numéro 8 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Tube contourné proximal (tube proximal)",
+        "B": "Tube contourné distal (tube distal)",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur (canal collecteur)"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°26": {
+      "question": "Le numéro 9 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tube contourné distal (tube distal)",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "Le numéro 10 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tube contourné distal",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur (canal collecteur)"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°28": {
+      "question": "La Figure a représente :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "Le schéma d’un néphron.",
+        "B": "La coupe longitudinale du rein.",
+        "C": "Une artère rénale.",
+        "D": "Un tube collecteur."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°29": {
+      "question": "La Figure b représente :",
+      "image": "assets/images/svt/rein(2).png",
+      "reponses": {
+        "A": "La coupe longitudinale du rein.",
+        "B": "Le schéma d’un néphron.",
+        "C": "Une pyramide de Malpighi.",
+        "D": "Un uretère."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°30": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction de Filtration ?",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°31": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction de Réabsorption ?",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°32": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction de Sécrétion ?",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°33": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction d’Excrétion ?",
+      "reponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°34": {
+      "question": "L’ADH est sécrétée dans l’hypothalamus puis déversée dans le sang au niveau de la […1…]. Cette hormone a un rôle […2…] sur la diurèse en favorisant la […3…] de l’eau par le tubule urinaire.",
+      "reponses": {
+        "A": "1-posthypophyse ; 2-freinateur ; 3-réabsorption",
+        "B": "1-hypophyse antérieure ; 2-activateur ; 3-libération",
+        "C": "1-corticosurrénale ; 2-modulateur ; 3-spécifique",
+        "D": "1-médullosurrénale ; 2-inhibiteur ; 3-excrétion"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°35": {
+      "question": "L’aldostérone est sécrétée par la […4…]. Elle stimule la réabsorption du […5…] au niveau du tubule urinaire.",
+      "reponses": {
+        "A": "4-hypophyse postérieure ; 5-eau",
+        "B": "4-glande corticosurrénale ; 5-sodium",
+        "C": "4-hypothalamus ; 5-glucose",
+        "D": "4-reins ; 5-potassium"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°36": {
+      "question": "La […6…] de l’ADH est déclenchée par des récepteurs […7…]. Les variations de […8…] du plasma stimulent des […9…] situés au niveau de la paroi carotidienne.",
+      "reponses": {
+        "A": "6-freinateur ; 7-non libération ; 8-volémie ; 9-volorécepteurs",
+        "B": "6-libération ; 7-spécifique ; 8-la pression osmotique ; 9-osmorécepteurs",
+        "C": "6-réabsorption ; 7-module ; 8-débit sanguin ; 9-barorécepteurs",
+        "D": "6-excrétion ; 7-généraux ; 8-température ; 9-thermorécepteurs"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°37": {
+      "question": "L’information qui prend naissance au niveau de ces récepteurs est transmise […10…], à l’hypothalamus, centre commande qui […11…] la libération de l’ADH provoquant soit une augmentation de la diurèse, en cas de […12…] de l’ADH soit […13…] de la diurèse, en cas de libération de l’ADH.",
+      "reponses": {
+        "A": "10-par voie sanguine ; 11-inhibe ; 12-libération ; 13-non libération",
+        "B": "10-par voie directe ; 11-diminue ; 12-excès ; 13-déficit",
+        "C": "10-par voie humorale ; 11-augmente ; 12-faible ; 13-forte",
+        "D": "10-par voie nerveuse ; 11-module ; 12-non libération ; 13-libération"
+      },
+      "bonne_reponse": "D"
+    }
+  }
+}
+
+]

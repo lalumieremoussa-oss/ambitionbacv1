@@ -1,0 +1,539 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Solutions Aqueuses et pH</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; 
+            padding: 15px; 
+            color: #333; 
+        }
+
+        .container { max-width: 750px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        h1 { 
+            color: var(--orange-ivoire); 
+            font-size: 1.6rem;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .section-tag {
+            color: var(--vert-ivoire);
+            font-size: 0.85rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .question-text { 
+            font-weight: 600; 
+            font-size: 1.1rem; 
+            margin-bottom: 15px; 
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option { 
+            display: flex; 
+            align-items: center;
+            padding: 14px; 
+            margin: 10px 0; 
+            background: #fcfcfc;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .option:hover { background: #fff4ee; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { 
+            margin-right: 15px; 
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.3);
+        }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .feedback { margin-top: 12px; font-weight: bold; font-size: 0.95rem; }
+
+        .btn-submit { 
+            display: block; 
+            width: 100%; 
+            padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 1.2rem; 
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 40px 0;
+            cursor: pointer;
+        }
+
+        .footer-box {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>Solutions Aqueuses et Notion de pH</h1>
+        <p>Évaluation sur la dissolution ionique, l'autoprotolyse de l'eau et les calculs de pH.</p>
+    </div>
+    
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Valider mes réponses</button>
+
+    <div class="footer-box">
+        © AMBITION+ - Excellence en Sciences Physiques
+    </div>
+</div>
+
+<script>
+    const data = [
+        // DISSOLUTION IONIQUE
+        {
+            "s": "Dissolution et Concentrations",
+            "q": "Quelles sont les trois étapes successives de la dissolution d'un composé ionique dans l'eau ?",
+            "options": {
+                "A": "Dispersion, Hydratation, Évaporation",
+                "B": "Dissociation, Solvatation, Dispersion",
+                "C": "Fusion, Mélange, Précipitation",
+                "D": "Ionisation, Gazéification, Solidification"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Dissolution et Concentrations",
+            "q": "L'étape de la dissolution où les ions s'entourent de molécules d'eau est appelée :",
+            "options": {
+                "A": "Dissociation",
+                "B": "Solvatation (ou hydratation)",
+                "C": "Dispersion",
+                "D": "Électrolyse"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Dissolution et Concentrations",
+            "q": "Quelle est l'unité de la concentration molaire volumique ($C$) ?",
+            "options": {
+                "A": "$g/L$",
+                "B": "$mol/L$",
+                "C": "$mol/kg$",
+                "D": "$g/mol$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Dissolution et Concentrations",
+            "q": "Quelle relation permet de calculer la concentration molaire à partir de la masse ($m$) et de la masse molaire ($M$) ?",
+            "options": {
+                "A": "$C = m \\times M \\times V$",
+                "B": "$C = \\frac{m}{M \\times V}$",
+                "C": "$C = \\frac{M}{m \\times V}$",
+                "D": "$C = \\frac{m \\times M}{V}$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Dissolution et Concentrations",
+            "q": "La concentration massique volumique ($C_m$) s'exprime en :",
+            "options": {
+                "A": "$mol.L^{-1}$",
+                "B": "$g.L^{-1}$",
+                "C": "$kg.mol^{-1}$",
+                "D": "$mol.g^{-1}$"
+            },
+            "r": "B"
+        },
+        // COMPOSÉS IONIQUES
+        {
+            "s": "Composés Ioniques",
+            "q": "Un composé ionique est constitué d'un empilement régulier :",
+            "options": {
+                "A": "De molécules neutres",
+                "B": "D'atomes de même signe",
+                "C": "D'ions positifs et d'ions négatifs",
+                "D": "De protons et de neutrons"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Composés Ioniques",
+            "q": "Quelle est la règle de l'électroneutralité dans une solution aqueuse ?",
+            "options": {
+                "A": "Il y a plus de charges positives que négatives.",
+                "B": "La somme des charges positives est égale à la somme des charges négatives.",
+                "C": "La solution doit être acide.",
+                "D": "Les ions disparaissent dans l'eau."
+            },
+            "r": "B"
+        },
+        {
+            "s": "Composés Ioniques",
+            "q": "Quelle est l'équation de dissociation du chlorure de calcium $CaCl_2$ dans l'eau ?",
+            "options": {
+                "A": "$CaCl_2 \\rightarrow Ca^+ + Cl_2^-$",
+                "B": "$CaCl_2 \\rightarrow Ca^{2+} + Cl^-$",
+                "C": "$CaCl_2 \\rightarrow Ca^{2+} + 2Cl^-$",
+                "D": "$CaCl_2 \\rightarrow Ca + Cl_2$"
+            },
+            "r": "C"
+        },
+        // AUTOPROTOLYSE DE L'EAU
+        {
+            "s": "Autoprotolyse de l'eau",
+            "q": "L'autoprotolyse de l'eau est une réaction chimique qui produit quels ions ?",
+            "options": {
+                "A": "$Na^+$ et $Cl^-$",
+                "B": "$H_3O^+$ et $OH^-$",
+                "C": "$H_2$ et $O_2$",
+                "D": "$H^+$ et $O^{2-}$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Autoprotolyse de l'eau",
+            "q": "Quelle est l'équation correcte de l'autoprotolyse de l'eau ?",
+            "options": {
+                "A": "$H_2O \\rightarrow H_2 + O$",
+                "B": "$2H_2O \\rightleftharpoons H_3O^+ + OH^-$",
+                "C": "$H_2O + H_2O \\rightarrow 2H_2 + O_2$",
+                "D": "$H_3O^+ + OH^- \\rightarrow H_2O$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Autoprotolyse de l'eau",
+            "q": "Le produit ionique de l'eau est noté :",
+            "options": {
+                "A": "$pH$",
+                "B": "$Ka$",
+                "C": "$Ke$",
+                "D": "$Kw$"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Autoprotolyse de l'eau",
+            "q": "À 25°C, quelle est la valeur constante du produit ionique de l'eau $Ke$ ?",
+            "options": {
+                "A": "$10^{-7}$",
+                "B": "$10^{-14}$",
+                "C": "$14$",
+                "D": "$7$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Autoprotolyse de l'eau",
+            "q": "L'expression de $Ke$ est :",
+            "options": {
+                "A": "$Ke = [H_3O^+] + [OH^-]$",
+                "B": "$Ke = \\frac{[H_3O^+]}{[OH^-]}$",
+                "C": "$Ke = [H_3O^+] \\times [OH^-]$",
+                "D": "$Ke = -\\log[H_3O^+]$"
+            },
+            "r": "C"
+        },
+        // NATURE DES SOLUTIONS
+        {
+            "s": "Nature des Solutions",
+            "q": "Une solution est dite acide si :",
+            "options": {
+                "A": "$[H_3O^+] < [OH^-]$",
+                "B": "$[H_3O^+] = [OH^-]$",
+                "C": "$[H_3O^+] > [OH^-]$",
+                "D": "$pH > 7$"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Nature des Solutions",
+            "q": "Une solution neutre à 25°C possède un pH de :",
+            "options": {
+                "A": "0",
+                "B": "14",
+                "C": "7",
+                "D": "1"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Nature des Solutions",
+            "q": "Dans une solution basique :",
+            "options": {
+                "A": "Le pH est inférieur à 7",
+                "B": "Le pH est égal à 7",
+                "C": "Le pH est supérieur à 7",
+                "D": "Il n'y a pas d'ions $H_3O^+$"
+            },
+            "r": "C"
+        },
+        // CALCULS DE PH
+        {
+            "s": "Calculs de pH",
+            "q": "Quelle est la formule de définition du pH ?",
+            "options": {
+                "A": "$pH = \\log[H_3O^+]$",
+                "B": "$pH = -\\log[H_3O^+]$",
+                "C": "$pH = 10^{-[H_3O^+]}$",
+                "D": "$pH = -\\log[OH^-]$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Calculs de pH",
+            "q": "Si le $pH = 3$, quelle est la concentration en ions hydronium $[H_3O^+]$ ?",
+            "options": {
+                "A": "$3\\,mol/L$",
+                "B": "$10^3\\,mol/L$",
+                "C": "$10^{-3}\\,mol/L$",
+                "D": "$0{,}3\\,mol/L$"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Calculs de pH",
+            "q": "Si $[H_3O^+] = 10^{-5}\\,mol/L$, quel est le pH de la solution ?",
+            "options": {
+                "A": "$-5$",
+                "B": "5",
+                "C": "9",
+                "D": "10"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Calculs de pH",
+            "q": "Comment calcule-t-on $[OH^-]$ si l'on connaît $[H_3O^+]$ et $Ke$ ?",
+            "options": {
+                "A": "$[OH^-] = Ke \\times [H_3O^+]$",
+                "B": "$[OH^-] = \\frac{Ke}{[H_3O^+]}$",
+                "C": "$[OH^-] = [H_3O^+] - Ke$",
+                "D": "$[OH^-] = 10^{-14}$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Calculs de pH",
+            "q": "Dans une solution où $[OH^-] = 10^{-4}\\,mol/L$ à 25°C, que vaut $[H_3O^+]$ ?",
+            "options": {
+                "A": "$10^{-4}\\,mol/L$",
+                "B": "$10^{-7}\\,mol/L$",
+                "C": "$10^{-10}\\,mol/L$",
+                "D": "$10^{-14}\\,mol/L$"
+            },
+            "r": "C"
+        },
+        // ÉCHELLE DE PH ET TEMPÉRATURE
+        {
+            "s": "Échelle de pH",
+            "q": "Plus une solution est acide, plus son pH est :",
+            "options": {
+                "A": "Élevé",
+                "B": "Faible",
+                "C": "Proche de 14",
+                "D": "Stable"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Échelle de pH",
+            "q": "Une solution de pH = 12 est qualifiée de :",
+            "options": {
+                "A": "Fortement acide",
+                "B": "Faiblement acide",
+                "C": "Fortement basique",
+                "D": "Neutre"
+            },
+            "r": "C"
+        },
+        // COMPRÉHENSION APPROFONDIE
+        {
+            "s": "Approfondissement",
+            "q": "L'autoprotolyse de l'eau a lieu dans :",
+            "options": {
+                "A": "L'eau pure uniquement",
+                "B": "Les solutions acides uniquement",
+                "C": "Toute solution aqueuse",
+                "D": "Seulement à 100°C"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Approfondissement",
+            "q": "Si on augmente la concentration en ions $H_3O^+$, le pH :",
+            "options": {
+                "A": "Augmente",
+                "B": "Diminue",
+                "C": "Reste constant",
+                "D": "Devient nul"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Approfondissement",
+            "q": "Une solution neutre contient autant d'ions $H_3O^+$ que d'ions $OH^-$. À 25°C, cette concentration vaut :",
+            "options": {
+                "A": "$10^{-14}\\,mol/L$",
+                "B": "$10^{-7}\\,mol/L$",
+                "C": "$7\\,mol/L$",
+                "D": "$1\\,mol/L$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Approfondissement",
+            "q": "La dissolution est une transformation :",
+            "options": {
+                "A": "Chimique uniquement",
+                "B": "Physique",
+                "C": "Nucléaire",
+                "D": "Biologique"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Approfondissement",
+            "q": "Le pH-mètre est un appareil qui mesure :",
+            "options": {
+                "A": "La masse de la solution",
+                "B": "La température de l'eau",
+                "C": "L'acidité ou la basicité d'une solution",
+                "D": "Le volume d'ions"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Approfondissement",
+            "q": "L'ion $H_3O^+$ est appelé ion :",
+            "options": {
+                "A": "Hydroxyde",
+                "B": "Hydronium (ou oxonium)",
+                "C": "Hydrogène",
+                "D": "Oxygène"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Approfondissement",
+            "q": "L'ion $OH^-$ est appelé ion :",
+            "options": {
+                "A": "Hydronium",
+                "B": "Hydroxyde",
+                "C": "Chlorure",
+                "D": "Sulfate"
+            },
+            "r": "B"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="section-tag">${item.s}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+                feedback.innerHTML = `<span style="color:var(--vert-ivoire)">✔ Correct</span>`;
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat : ${score} / ${data.length}`;
+        
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        if (window.ExerciceChannel) {
+            window.ExerciceChannel.postMessage(JSON.stringify({
+                "score": score,
+                "total": data.length
+            }));
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI009_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quand a été créée l’Organisation de l’Unité Africaine (OUA) ?",
+      "réponses": {
+        "A": "Le 25 mai 1958 à Conakry sous l'impulsion de Sékou Touré.",
+        "B": "Le 25 mai 1963 à Addis-Abeba sous l’impulsion de Hailé Sélassié.",
+        "C": "Le 1er janvier 1960 à Accra lors du sommet des États africains indépendants.",
+        "D": "Le 26 juin 1962 à Dar es Salaam sous l’égide de Julius Nyerere."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels groupes idéologiques s’opposaient lors de la création de l’OUA ?",
+      "réponses": {
+        "A": "Le groupe de Nairobi et le groupe du Caire.",
+        "B": "Le groupe de Dakar (conservateur) et le groupe de Rabat (fédéraliste).",
+        "C": "Le groupe de Casablanca (révolutionnaire) et celui de Monrovia (modéré).",
+        "D": "Le groupe de Lagos et celui de Freetown, en désaccord sur la langue officielle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel dirigeant a proposé la transformation de l’OUA en Union Africaine ?",
+      "réponses": {
+        "A": "Nelson Mandela lors du sommet de Johannesburg.",
+        "B": "Kofi Annan pendant son mandat à l’ONU.",
+        "C": "Mouammar Kadhafi en 1998, souhaitant une réforme de fond.",
+        "D": "Thomas Sankara avant sa disparition."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Lors de quel sommet le traité de création de l’UA a-t-il été signé ?",
+      "réponses": {
+        "A": "Au sommet de Bamako en 1999 par 30 États.",
+        "B": "À la conférence de Maputo en janvier 2001.",
+        "C": "Au sommet de Lomé en juillet 2000.",
+        "D": "À la session extraordinaire du Caire en décembre 1998."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quand et où l’UA est-elle officiellement entrée en fonction ?",
+      "réponses": {
+        "A": "En janvier 2003 à Lusaka.",
+        "B": "En juillet 2002 au sommet de Durban, Afrique du Sud.",
+        "C": "En juin 2001 à Abuja.",
+        "D": "En décembre 2000 à Addis-Abeba."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle date marque le début institutionnel du panafricanisme en Afrique ?",
+      "réponses": {
+        "A": "Le 1er juillet 1960, lors de l’indépendance du Congo.",
+        "B": "Le 6 mars 1957, avec l’indépendance du Ghana.",
+        "C": "Le 25 mai 1963, avec la création de l’OUA.",
+        "D": "Le 7 octobre 1961, avec le sommet d’Accra."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel modèle politique défendait le groupe de Casablanca ?",
+      "réponses": {
+        "A": "La souveraineté absolue de chaque État.",
+        "B": "Un projet de confédération économique décentralisée.",
+        "C": "La création immédiate d’un gouvernement africain unifié.",
+        "D": "Un système électoral régional fondé sur les chefferies traditionnelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Que proposait principalement le groupe de Monrovia ?",
+      "réponses": {
+        "A": "Une fusion des institutions militaires.",
+        "B": "Une union souple respectant l’autonomie des États.",
+        "C": "Une autorité religieuse centrale pour guider le continent.",
+        "D": "Une indépendance totale vis-à-vis de l’Europe et des USA."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle a été la conséquence immédiate de la création de l’OUA ?",
+      "réponses": {
+        "A": "La disparition des conflits inter-étatiques.",
+        "B": "La mise en place d’une monnaie unique.",
+        "C": "La reconnaissance institutionnelle du panafricanisme.",
+        "D": "L’unification militaire de tous les pays africains."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi la capitale éthiopienne Addis-Abeba est-elle symbolique dans ce contexte ?",
+      "réponses": {
+        "A": "Parce qu’elle abrite le siège de l’ONU.",
+        "B": "Car elle fut la première ville colonisée à rejoindre l’OUA.",
+        "C": "Car elle a accueilli le sommet fondateur de l’OUA en 1963.",
+        "D": "Car elle symbolise l’union entre le Maghreb et le reste de l’Afrique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l’objectif principal de l’Union Africaine ?",
+      "réponses": {
+        "A": "Promouvoir le tourisme et les arts traditionnels.",
+        "B": "Intégrer le continent sur les plans politique, économique et social.",
+        "C": "Unifier les armées pour garantir l’indépendance énergétique.",
+        "D": "Créer une langue officielle commune pour toute l’Afrique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment l’UA encourage-t-elle la démocratie et les droits humains ?",
+      "réponses": {
+        "A": "En imposant une police continentale dans tous les pays membres.",
+        "B": "En instaurant une charte morale pour les chefs d’État.",
+        "C": "En intervenant dans certains conflits et en promouvant des politiques communes.",
+        "D": "En suspendant systématiquement les pays à faible croissance."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que vise l’UA en matière de souveraineté ?",
+      "réponses": {
+        "A": "Réduire les frontières entre pays pour créer un État unique.",
+        "B": "Protéger la souveraineté et l’intégrité territoriale des États membres.",
+        "C": "Fédérer les constitutions nationales sous une charte continentale.",
+        "D": "Attribuer le pouvoir judiciaire à une cour internationale unique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi la stabilité est-elle une priorité de l’UA ?",
+      "réponses": {
+        "A": "Pour garantir la domination militaire sur d’autres continents.",
+        "B": "Parce que sans stabilité, ni développement ni intégration ne sont possibles.",
+        "C": "Pour empêcher les ingérences occidentales dans les affaires religieuses.",
+        "D": "Pour faire du continent un espace réservé aux seuls ressortissants africains."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Que vise l’UA en matière de coopération internationale ?",
+      "réponses": {
+        "A": "Isoler l’Afrique pour préserver ses traditions.",
+        "B": "Représenter l’Afrique et défendre des positions communes dans les négociations mondiales.",
+        "C": "Créer un pacte exclusif avec les pays asiatiques.",
+        "D": "Supprimer toutes les ambassades étrangères sur le continent."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment l’UA se distingue-t-elle de l’OUA ?",
+      "réponses": {
+        "A": "Elle se limite à une organisation militaire continentale.",
+        "B": "Elle est dotée d’institutions renforcées avec une capacité d’intervention.",
+        "C": "Elle n’a pas de siège fixe contrairement à l’OUA.",
+        "D": "Elle est exclusivement composée d’États anglophones."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quelle institution permet à l’UA de rendre des décisions contraignantes ?",
+      "réponses": {
+        "A": "La Conférence des ambassadeurs.",
+        "B": "Le Parlement africain populaire.",
+        "C": "La Cour africaine des droits de l’homme et des peuples.",
+        "D": "Le Directoire des chefs coutumiers."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle est la particularité du Conseil de paix et de sécurité de l’UA ?",
+      "réponses": {
+        "A": "Il agit uniquement sur demande des Nations Unies.",
+        "B": "Il ne peut agir qu’en période d’élections.",
+        "C": "Il est autorisé à intervenir militairement en cas de crise grave.",
+        "D": "Il se limite à l’observation passive des conflits."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel rôle joue la Commission de l’Union Africaine ?",
+      "réponses": {
+        "A": "Elle gère les projets agricoles dans les zones rurales.",
+        "B": "Elle administre l’Union au quotidien et coordonne les politiques.",
+        "C": "Elle organise les rites d’initiation panafricains.",
+        "D": "Elle sélectionne les langues officielles régionales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quel principe est mis en avant dans l’Acte constitutif de l’UA ?",
+      "réponses": {
+        "A": "L’égalité absolue des religions ancestrales.",
+        "B": "Le respect des traditions orales comme normes juridiques.",
+        "C": "Le droit d’ingérence en cas de violation grave des droits humains.",
+        "D": "La reconnaissance de la monarchie comme régime de référence."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

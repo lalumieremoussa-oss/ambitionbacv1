@@ -1,0 +1,547 @@
+{
+  "title": "AN07_Q5",
+  "id": "AN07_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le nombre 1 005 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "and",
+        "five",
+        "hundred",
+        "six",
+        "thousand",
+        "twenty",
+        "a"
+      ],
+      "bonne réponse": "a thousand and five"
+    },
+    "question n°2": {
+      "question": "Quel est le nombre 2 015 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "and",
+        "fourteen",
+        "two",
+        "hundred",
+        "thousand",
+        "twenty",
+        "fifteen"
+      ],
+      "bonne réponse": "two thousand and fifteen"
+    },
+    "question n°3": {
+      "question": "Quel est le nombre 3 400 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "thousand",
+        "ten",
+        "four",
+        "hundred",
+        "sixty",
+        "three",
+        "two"
+      ],
+      "bonne réponse": "three thousand four hundred"
+    },
+    "question n°4": {
+      "question": "Quel est le nombre 4 781 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eighty-one",
+        "hundred",
+        "thousand",
+        "ten",
+        "seven",
+        "sixty-one",
+        "ninety",
+        "two",
+        "and",
+        "five",
+        "three",
+        "four"
+      ],
+      "bonne réponse": "four thousand seven hundred and eighty-one"
+    },
+    "question n°5": {
+      "question": "Quel est le nombre 5 050 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "fifty",
+        "hundred",
+        "and",
+        "five",
+        "six",
+        "twenty",
+        "ten"
+      ],
+      "bonne réponse": "five thousand and fifty"
+    },
+    "question n°6": {
+      "question": "Quel est le nombre 6 112 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "six",
+        "seven",
+        "one",
+        "fifty-two",
+        "hundred",
+        "twenty",
+        "four",
+        "thousand",
+        "ten",
+        "and",
+        "ninety-two",
+        "twelve"
+      ],
+      "bonne réponse": "six thousand one hundred and twelve"
+    },
+    "question n°7": {
+      "question": "Quel est le nombre 7 809 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "fifty-nine",
+        "eight",
+        "ten",
+        "seven",
+        "thousand",
+        "eighty",
+        "nine",
+        "one",
+        "hundred",
+        "four",
+        "two"
+      ],
+      "bonne réponse": "seven thousand eight hundred and nine"
+    },
+    "question n°8": {
+      "question": "Quel est le nombre 8 888 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "eight",
+        "ten",
+        "hundred",
+        "seventy-eight",
+        "five",
+        "and",
+        "six",
+        "eight",
+        "nine",
+        "one",
+        "eighty-eight"
+      ],
+      "bonne réponse": "eight thousand eight hundred and eighty-eight"
+    },
+    "question n°9": {
+      "question": "Quel est le nombre 9 000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "ten",
+        "hundred",
+        "nine"
+      ],
+      "bonne réponse": "nine thousand"
+    },
+    "question n°10": {
+      "question": "Quel est le nombre 10 200 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fifty",
+        "hundred",
+        "two",
+        "thousand",
+        "forty",
+        "one",
+        "ten",
+        "two"
+      ],
+      "bonne réponse": "ten thousand two hundred"
+    },
+    "question n°11": {
+      "question": "Quel est le nombre 11 040 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "hundred",
+        "eleven",
+        "five",
+        "and",
+        "forty",
+        "three",
+        "ten"
+      ],
+      "bonne réponse": "eleven thousand and forty"
+    },
+    "question n°12": {
+      "question": "Quel est le nombre 13 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "and",
+        "nine",
+        "thousand",
+        "seventy",
+        "thirteen",
+        "ten",
+        "eighty",
+        "hundred",
+        "ninety-nine",
+        "two",
+        "one"
+      ],
+      "bonne réponse": "thirteen thousand nine hundred and ninety-nine"
+    },
+    "question n°13": {
+      "question": "Quel est le nombre 25 101 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "hundred",
+        "twenty-five",
+        "two",
+        "three",
+        "thousand",
+        "fifty",
+        "and",
+        "six",
+        "four",
+        "ten",
+        "one"
+      ],
+      "bonne réponse": "twenty-five thousand one hundred and one"
+    },
+    "question n°14": {
+      "question": "Quel est le nombre 30 075 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "five",
+        "and",
+        "four",
+        "thirty",
+        "one",
+        "thousand",
+        "seventy-five",
+        "two",
+        "twenty-five"
+      ],
+      "bonne réponse": "thirty thousand and seventy-five"
+    },
+    "question n°15": {
+      "question": "Quel est le nombre 42 618 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "six",
+        "ten",
+        "forty-two",
+        "and",
+        "seventy",
+        "three",
+        "one",
+        "eighteen",
+        "twelve",
+        "five",
+        "thousand"
+      ],
+      "bonne réponse": "forty-two thousand six hundred and eighteen"
+    },
+    "question n°16": {
+      "question": "Quel est le nombre 58 000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "thousand",
+        "one",
+        "fifty-eight"
+      ],
+      "bonne réponse": "fifty-eight thousand"
+    },
+    "question n°17": {
+      "question": "Quel est le nombre 66 666 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "hundred",
+        "thousand",
+        "seventy",
+        "sixty-six",
+        "and",
+        "nine",
+        "six",
+        "one",
+        "twenty",
+        "sixty-six",
+        "five"
+      ],
+      "bonne réponse": "sixty-six thousand six hundred and sixty-six"
+    },
+    "question n°18": {
+      "question": "Quel est le nombre 70 002 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "and",
+        "seventy",
+        "thousand",
+        "three",
+        "hundred",
+        "two",
+        "twenty"
+      ],
+      "bonne réponse": "seventy thousand and two"
+    },
+    "question n°19": {
+      "question": "Quel est le nombre 84 321 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "ten",
+        "and",
+        "one",
+        "three",
+        "forty-one",
+        "hundred",
+        "six",
+        "eighty-four",
+        "two",
+        "twenty-one",
+        "five"
+      ],
+      "bonne réponse": "eighty-four thousand three hundred and twenty-one"
+    },
+    "question n°20": {
+      "question": "Quel est le nombre 99 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "and",
+        "hundred",
+        "ten",
+        "ninety-nine",
+        "eight",
+        "five",
+        "nine",
+        "two",
+        "ninety-nine",
+        "seventy",
+        "one"
+      ],
+      "bonne réponse": "ninety-nine thousand nine hundred and ninety-nine"
+    },
+    "question n°21": {
+      "question": "Quel est le nombre 101 001 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eight",
+        "hundred",
+        "and",
+        "one",
+        "six",
+        "five",
+        "and",
+        "thousand",
+        "four",
+        "ten",
+        "one",
+        "seven",
+        "two",
+        "one"
+      ],
+      "bonne réponse": "one hundred and one thousand and one"
+    },
+    "question n°22": {
+      "question": "Quel est le nombre 120 500 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "six",
+        "hundred",
+        "and",
+        "fifty",
+        "one",
+        "ten",
+        "four",
+        "twenty",
+        "hundred",
+        "five",
+        "two"
+      ],
+      "bonne réponse": "one hundred and twenty thousand five hundred"
+    },
+    "question n°23": {
+      "question": "Quel est le nombre 155 555 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "million",
+        "eighty-five",
+        "one",
+        "and",
+        "six",
+        "fifty-five",
+        "five",
+        "three",
+        "sixteen",
+        "and",
+        "thousand",
+        "fifty-five",
+        "hundred",
+        "seventy",
+        "four",
+        "ninety",
+        "two"
+      ],
+      "bonne réponse": "one hundred and fifty-five thousand five hundred and fifty-five"
+    },
+    "question n°24": {
+      "question": "Quel est le nombre 210 010 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "one",
+        "and",
+        "thousand",
+        "hundred",
+        "fifty",
+        "two",
+        "six",
+        "and",
+        "three",
+        "fourteen",
+        "ten"
+      ],
+      "bonne réponse": "two hundred and ten thousand and ten"
+    },
+    "question n°25": {
+      "question": "Quel est le nombre 300 300 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "thousand",
+        "three",
+        "hundred",
+        "one",
+        "four",
+        "fifty",
+        "three",
+        "two",
+        "hundred"
+      ],
+      "bonne réponse": "three hundred thousand three hundred"
+    },
+    "question n°26": {
+      "question": "Quel est le nombre 444 444 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "eight",
+        "hundred",
+        "sixty",
+        "ten",
+        "and",
+        "and",
+        "forty-four",
+        "four",
+        "five",
+        "forty-four",
+        "hundred",
+        "nine",
+        "two",
+        "four",
+        "seven",
+        "one",
+        "three"
+      ],
+      "bonne réponse": "four hundred and forty-four thousand four hundred and forty-four"
+    },
+    "question n°27": {
+      "question": "Quel est le nombre 550 000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sixty",
+        "thousand",
+        "hundred",
+        "five",
+        "fifty",
+        "one",
+        "and",
+        "two"
+      ],
+      "bonne réponse": "five hundred and fifty thousand"
+    },
+    "question n°28": {
+      "question": "Quel est le nombre 678 901 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eighty",
+        "hundred",
+        "ten",
+        "seventy-eight",
+        "thousand",
+        "and",
+        "one",
+        "forty",
+        "six",
+        "and",
+        "five",
+        "hundred",
+        "nine",
+        "nine",
+        "seven",
+        "three",
+        "two",
+        "sixty"
+      ],
+      "bonne réponse": "six hundred and seventy-eight thousand nine hundred and one"
+    },
+    "question n°29": {
+      "question": "Quel est le nombre 800 080 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "seventy",
+        "eight",
+        "one",
+        "hundred",
+        "and",
+        "five",
+        "thousand",
+        "eighty",
+        "ten",
+        "two"
+      ],
+      "bonne réponse": "eight hundred thousand and eighty"
+    },
+    "question n°30": {
+      "question": "Quel est le nombre 999 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "forty",
+        "and",
+        "thousand",
+        "one",
+        "eight",
+        "hundred",
+        "ten",
+        "ninety-nine",
+        "three",
+        "nine",
+        "five",
+        "six",
+        "and",
+        "hundred",
+        "seventy",
+        "ninety-nine",
+        "two"
+      ],
+      "bonne réponse": "nine hundred and ninety-nine thousand nine hundred and ninety-nine"
+    }
+  }
+}

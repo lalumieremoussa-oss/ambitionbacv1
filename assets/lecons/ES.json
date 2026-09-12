@@ -1,0 +1,564 @@
+{
+  "espagnol": [
+    {
+      "level": "Nivel 1 – ¡Empecemos! (Commençons !)",
+      "lessons": [
+        {
+          "id": "ES01",
+          "titre": "Los verbos tener y ser/estar (Les verbes avoir et être)",
+          "sections": [
+            {
+              "id": "ES01_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES01_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES01_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES01_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES01_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES01_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES02",
+          "titre": "Presentarse (1) – Se présenter (1)",
+          "sections": [
+            {
+              "id": "ES02_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES02_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES02_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES02_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES02_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES02_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES03",
+          "titre": "Expresarse en presente (S’exprimer au présent)",
+          "sections": [
+            {
+              "id": "ES03_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES03_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES03_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES03_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES03_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES03_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES04",
+          "titre": "Construir oraciones correctas (Construire des phrases correctes)",
+          "sections": [
+            {
+              "id": "ES04_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES04_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES04_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES04_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES04_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES04_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES05",
+          "titre": "Presentarse (2) – Se présenter (2)",
+          "sections": [
+            {
+              "id": "ES05_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES05_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES05_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES05_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES05_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES05_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES06",
+          "titre": "Los números y la hora (Les nombres et l’heure)",
+          "sections": [
+            {
+              "id": "ES06_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES06_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES06_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES06_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES06_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES06_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Nivel 2 – Español cotidiano (Espagnol du quotidien)",
+      "lessons": [
+        {
+          "id": "ES11",
+          "titre": "En la escuela (À l’école)",
+          "sections": [
+            {
+              "id": "ES11_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES11_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES11_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES11_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES11_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES11_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES12",
+          "titre": "En casa (À la maison)",
+          "sections": [
+            {
+              "id": "ES12_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES12_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES12_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES12_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES12_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES12_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES13",
+          "titre": "Las comidas y los alimentos (Les repas et la nourriture)",
+          "sections": [
+            {
+              "id": "ES13_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES13_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES13_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES13_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES13_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES13_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES14",
+          "titre": "En la estación (À la gare)",
+          "sections": [
+            {
+              "id": "ES14_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES14_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES14_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES14_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES14_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES14_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES15",
+          "titre": "Por la ciudad – Pedir direcciones (Se déplacer en ville)",
+          "sections": [
+            {
+              "id": "ES15_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES15_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES15_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES15_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES15_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES15_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES16",
+          "titre": "En el campo deportivo (Sur le terrain de sport)",
+          "sections": [
+            {
+              "id": "ES16_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES16_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES16_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES16_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES16_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES16_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES17",
+          "titre": "Fiestas y celebraciones (Les fêtes et célébrations)",
+          "sections": [
+            {
+              "id": "ES17_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES17_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES17_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES17_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES17_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES17_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES18",
+          "titre": "Contar un hecho pasado (Raconter un événement passé)",
+          "sections": [
+            {
+              "id": "ES18_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES18_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES18_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES18_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES18_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES18_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES19",
+          "titre": "Escribir un text argumentativo (Écrire un texte argumentatif)",
+          "sections": [
+            {
+              "id": "ES19_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES19_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES19_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES19_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES19_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES19_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Nivel 3 – ¡Exprésate! (Exprime-toi !)",
+      "lessons": [
+        {
+          "id": "ES21",
+          "titre": "Debates y presentaciones simples: Metodología",
+          "sections": [
+            {
+              "id": "ES21_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES21_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES21_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES21_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES21_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES21_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ES22",
+          "titre": "Debate: El castigo corporal en la educación infantil",
+          "sections": [
+            {
+              "id": "ES22_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ES22_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ES22_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ES22_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ES22_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ES22_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Diccionario – Lecciones de vocabulario",
+      "lessons": [
+        {
+          "id": "ESDIC01",
+          "titre": "Los colores y los adjetivos calificativos",
+          "sections": [
+            {
+              "id": "ESDIC01_C",
+              "titre": "Curso"
+            },
+            {
+              "id": "ESDIC01_V1",
+              "titre": "Vídeo 1"
+            },
+            {
+              "id": "ESDIC01_V2",
+              "titre": "Vídeo 2"
+            },
+            {
+              "id": "ESDIC01_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ESDIC01_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ESDIC01_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

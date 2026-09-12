@@ -1,0 +1,756 @@
+[
+    {
+        "citation": "Conscience ! Conscience ! Instinct divin, immortelle et céleste voix… juge infaillible du bien et du mal, qui rend l'homme semblable à Dieu, c'est toi qui fais l'excellence de sa nature et la moralité de ses actions.",
+        "auteur": "Jean-Jacques Rousseau",
+        "source": "Émile ou De l'éducation",
+        "explication": "Rousseau montre que la conscience est une boussole intérieure qui distingue le bien du mal et rend l'homme moralement responsable de ses actes.",
+        "citations_meme_avis": [
+            {
+                "titre": "« Je pense, donc je suis. »",
+                "auteur": "René Descartes",
+                "source": "Méditations métaphysiques",
+                "explication": "La conscience est le fondement de l'existence humaine."
+            },
+            {
+                "titre": "« La grandeur de l'homme est grande en ce qu'il se connaît misérable. »",
+                "auteur": "Blaise Pascal",
+                "source": "Pensées",
+                "explication": "La conscience de notre misère fait notre grandeur."
+            },
+            {
+                "titre": "« La différence essentielle entre l'homme et l'animal, c'est la conscience au sens strict. »",
+                "auteur": "Ludwig Feuerbach",
+                "source": "L'Essence du christianisme",
+                "explication": "La conscience est le critère qui sépare l'homme de l'animal."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Il y a en nous, à tout moment, une infinité de petites perceptions que nous n'apercevons pas consciemment. »",
+                "auteur": "Gottfried Leibniz",
+                "source": "Nouveaux essais sur l'entendement humain",
+                "explication": "L'inconscient joue un rôle majeur dans notre perception."
+            },
+            {
+                "titre": "« Il faut donc renverser la hiérarchie : toute la conscience est un phénomène secondaire. »",
+                "auteur": "Friedrich Nietzsche",
+                "source": "La Volonté de puissance",
+                "explication": "La conscience n'est qu'un phénomène superficiel."
+            },
+            {
+                "titre": "« Le moi n'est pas maître dans sa propre maison. »",
+                "auteur": "Sigmund Freud",
+                "source": "Essais de psychanalyse",
+                "explication": "L'inconscient domine largement le psychisme."
+            }
+        ]
+    },
+    {
+        "citation": "La seule liberté possible suppose la prise de conscience.",
+        "auteur": "Baruch Spinoza",
+        "source": "Éthique",
+        "explication": "La liberté véritable passe par la lucidité sur soi‑même et sur les causes de nos actions.",
+        "citations_meme_avis": [
+            {
+                "titre": "La conscience est une « puissance d'élire »",
+                "auteur": "René Descartes",
+                "source": "Méditations métaphysiques",
+                "explication": "La conscience est le fondement de la liberté."
+            },
+            {
+                "titre": "La conscience comme lieu du choix libre",
+                "auteur": "Jean-Paul Sartre",
+                "source": "L'Être et le Néant",
+                "explication": "La conscience est synonyme de liberté car elle permet le choix."
+            },
+            {
+                "titre": "« L'autonomie de la volonté est le principe suprême de la moralité. »",
+                "auteur": "Emmanuel Kant",
+                "source": "Fondement de la métaphysique des mœurs",
+                "explication": "La liberté morale repose sur l'autonomie de la volonté."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« La conscience est d'emblée un produit social. »",
+                "auteur": "Karl Marx",
+                "source": "L'Idéologie allemande",
+                "explication": "La conscience est déterminée par les conditions sociales."
+            },
+            {
+                "titre": "« L'angoisse est le vertige de la liberté. »",
+                "auteur": "Søren Kierkegaard",
+                "source": "Le Concept d'angoisse",
+                "explication": "L'angoisse révèle la liberté humaine."
+            },
+            {
+                "titre": "« Nul bonheur, nulle sérénité, nulle espérance ne pourrait exister sans la faculté de l'oubli. »",
+                "auteur": "Friedrich Nietzsche",
+                "source": "Généalogie de la morale",
+                "explication": "L'oubli est nécessaire au bien‑être."
+            }
+        ]
+    },
+    {
+        "citation": "« La honte est honte de soi ; elle est reconnaissance de ce que je suis effectivement : je suis cet être-là que l’autre regarde et juge. »",
+        "auteur": "Jean-Paul Sartre",
+        "source": "L'Être et le Néant",
+        "explication": "Sartre explique que le regard d'autrui me réifie en m'observant et en me jugeant, me faisant prendre conscience de mon être comme un objet pour l'autre et m'enlevant la maîtrise de mon propre soi.",
+        "citations_meme_avis": [
+            {
+                "titre": "« L'homme est un loup pour l'homme. »",
+                "auteur": "Thomas Hobbes",
+                "source": "Le Léviathan",
+                "explication": "À l'état de nature, l'homme agit de manière agressive envers son semblable, ce qui transforme la cohabitation en une rivalité permanente."
+            },
+            {
+                "titre": "« L'enfer, c'est les autres. »",
+                "auteur": "Jean-Paul Sartre",
+                "source": "Huis clos",
+                "explication": "Autrui constitue un obstacle permanent et un perturbateur pour notre paix ainsi que pour notre liberté."
+            },
+            {
+                "titre": "« Toute conscience poursuit la mort de l'autre. »",
+                "auteur": "Georg Wilhelm Friedrich Hegel",
+                "source": "Phénoménologie de l'Esprit",
+                "explication": "La confrontation entre deux consciences est une lutte à mort symbolique pour la conquête de la reconnaissance et de la domination."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« La discipline transforms l'animalité en humanité. »",
+                "auteur": "Emmanuel Kant",
+                "source": "Réflexions sur l'éducation",
+                "explication": "L'intermédiaire d'autrui et l'éducation sont indispensables pour arracher l'homme à la brutalité animale et lui inculquer son humanité."
+            },
+            {
+                "titre": "« Autrui est le médiateur indispensable entre moi et moi-même. »",
+                "auteur": "Jean-Paul Sartre",
+                "source": "L'Être et le Néant",
+                "explication": "C'est par la confrontation à l'altérité d'autrui que le sujet parvient à une connaissance réflexive et consciente de lui-même."
+            },
+            {
+                "titre": "« L'homme est naturellement bon ; c'est la société qui le corrompt. »",
+                "auteur": "Jean-Jacques Rousseau",
+                "source": "Discours sur l'origine et les fondements de l'inégalité parmi les hommes",
+                "explication": "L'agressivité envers autrui n'est pas innée mais résulte du développement des inégalités et du dérèglement des institutions sociales."
+            },
+            {
+                "titre": "« Nul n’est méchant volontairement. »",
+                "auteur": "Socrate",
+                "source": "Protagoras",
+                "explication": "Les actes nuisibles envers autrui dérivent de l'ignorance du bien et non d'une volonté intrinsèque de faire le mal."
+            }
+        ]
+    },
+    {
+        "citation": "« Si l’État est fort, il nous écrase ; s’il est faible, nous périssons. »",
+        "auteur": "Paul Valéry",
+        "source": "Regards sur le monde actuel",
+        "explication": "Paul Valéry souligne le dilemme tragique de l'État : doté d'un pouvoir excessif, il étouffe les libertés individuelles ; trop faible ou dépendant, il laisse la société s'effondrer dans l'insécurité ou la ruine économique.",
+        "citations_meme_avis": [
+            {
+                "titre": "« L’État est un immense cimetière où viennent s’enterrer toutes les manifestations de la vie individuelle. »",
+                "auteur": "Mikhaïl Bakounine",
+                "source": "L'Empire gréco-romain et le Communisme",
+                "explication": "L'État est perçu par la pensée anarchiste comme une structure inherently oppressive qui anéantit l'autonomie et la liberté naturelle des individus."
+            },
+            {
+                "titre": "« L’État est le plus froid de tous les monstres froids. Il ment froidement ; et voici le mensonge qui rampe de sa bouche : \"Moi, l’État, je suis le peuple.\" »",
+                "auteur": "Friedrich Nietzsche",
+                "source": "Ainsi parlait Zarathoustra",
+                "explication": "L'État dépossède l'individu de son authenticité et l'utilise de manière prédatrice sous de faux prétextes d'intérêt général."
+            },
+            {
+                "titre": "« L’État n'est qu'un comité chargé de gérer les affaires communes de la classe bourgeoise tout entière. »",
+                "auteur": "Karl Marx",
+                "source": "Manifeste du parti communiste",
+                "explication": "L'État sert d'instrument de domination politique et d'exploitation économique au profit d'une classe sociale supérieure au détriment des travailleurs."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Sans un pouvoir capable de tenir tous les hommes en respect, la vie de l'homme est solitaire, pauvre, méchante, brutale et courte. »",
+                "auteur": "Thomas Hobbes",
+                "source": "Le Léviathan",
+                "explication": "L'État est l'institution protectrice indispensable pour sortir de la violence du choc des libertés individuelles et garantir la sécurité et la paix sociale."
+            },
+            {
+                "titre": "« L'obéissance à la loi qu'on s'est prescrite est liberté. »",
+                "auteur": "Jean-Jacques Rousseau",
+                "source": "Du contrat social",
+                "explication": "Dans un cadre démocratique et légitime, l'État garantit la liberté civile car obéir à la loi revient à obéir à la volonté générale dont on fait partie."
+            }
+        ]
+    },
+    {
+        "citation": "« Malheureusement, il y a des moments où la violence est la seule façon dont l’homme puisse assurer la justice sociale. »",
+        "auteur": "Thomas Stearns Eliot",
+        "source": "Écrits sur la justice sociale",
+        "explication": "T.S. Eliot exprime l'idée que face à des injustices structurelles ou des situations d'oppression extrême, la violence peut s'imposer comme un mal nécessaire ultime pour rétablir le droit et la justice.",
+        "citations_meme_avis": [
+            {
+                "titre": "« L’homme est un loup pour l’homme. »",
+                "auteur": "Thomas Hobbes",
+                "source": "Le Léviathan",
+                "explication": "La nature humaine étant portée à l'agression et à l'égoïsme, la contrainte et la force coercitive de l'État sont indispensables pour maintenir l'ordre et la sécurité."
+            },
+            {
+                "titre": "« Quiconque veut former un État et lui donner des lois doit supposer d’avance les hommes comme méchants. »",
+                "auteur": "Nicolas Machiavel",
+                "source": "Discours sur la première décade de Tite-Live",
+                "explication": "Le pouvoir politique et l'instauration de l'ordre reposent sur la maîtrise pragmatique de la force face à la méchanceté naturelle des hommes."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« La violence ne donne que des victoires passagères en créant beaucoup plus de problèmes sociaux qu’elle en résout. »",
+                "auteur": "Martin Luther King",
+                "source": "Force d'aimer",
+                "explication": "La violence est un outil inefficace et destructeur qui exacerbe les divisions au lieu d'établir une justice sociale durable."
+            },
+            {
+                "titre": "« Réduite à elle-même, la violence est une absurdité pure, un désespoir de l’humanité. »",
+                "auteur": "Georges Gusdorf",
+                "source": "La Vertu de force",
+                "explication": "La violence pure est une impasse existentielle et philosophique qui accentue la souffrance sans apporter de solution réelle."
+            },
+            {
+                "titre": "« La non-violence est l’arme la plus puissante dont disposent les opprimés. »",
+                "auteur": "Martin Luther King",
+                "source": "Lettre de la prison de Birmingham",
+                "explication": "La résistance pacifique et le dialogue constituent les seuls moyens véritables et moraux d'accéder à une justice pérenne."
+            },
+            {
+                "titre": "« Œil pour œil et le monde finira aveugle. »",
+                "auteur": "Mahatma Gandhi",
+                "source": "La voie de la non-violence",
+                "explication": "Répondre à la violence par la violence entraîne un engrenage de destruction mutuelle qui ruine la société."
+            }
+        ]
+    },
+    {
+        "citation": "« Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué ! »",
+        "auteur": "Friedrich Nietzsche",
+        "source": "Le Gai Savoir",
+        "explication": "Nietzsche ne proclame pas la mort physique d'une divinité, mais le déclin irrémédiable de la foi métaphysique et religieuse dans la civilisation occidentale, marquant l'avènement du nihilisme et la responsabilité pour l'homme d'inventer ses propres valeurs.",
+        "citations_meme_avis": [
+            {
+                "titre": "« La religion est l'opium du peuple. »",
+                "auteur": "Karl Marx",
+                "source": "Critique de la philosophie du droit de Hegel",
+                "explication": "La religion est une illusion consolatrice qui détourne l'homme des réalités concrètes et sociales de son oppression, entérinant l'absence de fondement divin dans le monde matériel."
+            },
+            {
+                "titre": "« L'homme est condamné à être libre. »",
+                "auteur": "Jean-Paul Sartre",
+                "source": "L'existentialisme est un humanisme",
+                "explication": "Sans Dieu pour fixer une nature humaine ou des valeurs a priori, l'homme se retrouve seul, entièrement responsable de ses actes et de la création du sens de sa propre vie."
+            },
+            {
+                "titre": "« La religion est la névrose obsessionnelle de l'humanité. »",
+                "auteur": "Sigmund Freud",
+                "source": "L'Avenir d'une illusion",
+                "explication": "La croyance en un Dieu bienveillant relève du désir d'un père protecteur et d'un refuge psychique contre l'angoisse de l'existence."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Le cœur a ses raisons que la raison ne connaît point ; on le sait en mille choses. C'est le cœur qui sent Dieu, et non la raison. »",
+                "auteur": "Blaise Pascal",
+                "source": "Pensées",
+                "explication": "L'existence de Dieu s'impose par une intuition spirituelle et une expérience de foi intérieure que la raison humaine impuissante ne peut ni saisir ni abolir."
+            },
+            {
+                "titre": "« Tu nous as faits pour toi, Seigneur, et notre cœur est sans repos tant qu'il ne repose en toi. »",
+                "auteur": "Saint Augustin",
+                "source": "Les Confessions",
+                "explication": "L'âme humaine possède une orientation transcendance fondamentale dont Dieu est la source ultime et l'unique accomplissement."
+            },
+            {
+                "titre": "« Deux choses remplissent l'esprit d'une admiration et d'un respect toujours nouveaux : le ciel étoilé au-dessus de moi et la loi morale en moi. »",
+                "auteur": "Emmanuel Kant",
+                "source": "Critique de la raison pratique",
+                "explication": "L'existence de Dieu demeure un postulat nécessaire de la raison pratique pour garantir l'accord ultime entre la vertu morale et le bonheur."
+            }
+        ]
+    },
+    {
+        "citation": "« On peut trouver dans le passé, on trouvera même aujourd’hui des sociétés sans art, sans science ou sans philosophie. Mais il n’y a jamais eu de société sans religion. »",
+        "auteur": "Henri Bergson",
+        "source": "Les Deux Sources de la morale et de la religion",
+        "explication": "Bergson souligne le caractère universel et consubstantiel de la religion à l'histoire humaine : si la culture savante ou esthétique est contingente, la religion constitue un besoin vital et social fondamental pour maintenir la cohésion du groupe et apaiser l'angoisse de la mort.",
+        "citations_meme_avis": [
+            {
+                "titre": "« La religion est un système articulé de croyances et de pratiques relatives à des choses sacrées... qui unissent en une même communauté morale tous ceux qui y adhèrent. »",
+                "auteur": "Émile Durkheim",
+                "source": "Les Formes élémentaires de la vie religieuse",
+                "explication": "La religion est l'institution sociale fondamentale par excellence, présente dans toute collectivité pour sacraliser le lien social et assurer l'unité du groupe."
+            },
+            {
+                "titre": "« L'homme est un animal religieux. »",
+                "auteur": "Edmund Burke",
+                "source": "Réflexions sur la Révolution de France",
+                "explication": "Le penchant vers le sacré et le besoin de croyances partagées sont ancrés dans la nature même de l'homme vivant en communauté politique."
+            },
+            {
+                "titre": "« Tu nous as faits pour toi, Seigneur, et notre cœur est sans repos tant qu'il ne repose en toi. »",
+                "auteur": "Saint Augustin",
+                "source": "Les Confessions",
+                "explication": "La quête du divin est une disposition universelle et irrépressible inscrite dans la conscience de chaque être humain."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« La religion est l'opium du peuple. »",
+                "auteur": "Karl Marx",
+                "source": "Critique de la philosophie du droit de Hegel",
+                "explication": "La religion n'est pas une nécessité naturelle mais une illusion historiquement produite par les structures d'oppression sociale, destinée à disparaître avec l'émancipation matérielle."
+            },
+            {
+                "titre": "« La religion est la névrose obsessionnelle universelle de l'humanité. »",
+                "auteur": "Sigmund Freud",
+                "source": "L'Avenir d'une illusion",
+                "explication": "Le phénomène religieux est un stade infantile de la psyché humaine fondé sur la projection du besoin de protection paternelle, dont l'humanité peut et doit se libérer par la raison."
+            },
+            {
+                "titre": "« Dieu est mort ! Dieu reste mort ! Et c'est nous qui l'avons tué ! »",
+                "auteur": "Friedrich Nietzsche",
+                "source": "Le Gai Savoir",
+                "explication": "La modernité démontre que la société peut rompre définitivement avec le fondement religieux et créer de nouvelles valeurs autonomes."
+            }
+        ]
+    },
+    {
+        "citation": "« L’histoire est l’œuvre propre de toute l’activité de tous les hommes. »",
+        "auteur": "Georg Wilhelm Friedrich Hegel",
+        "source": "La Raison dans l'Histoire",
+        "explication": "Hegel soutient que l'homme est le véritable sujet créateur de l'histoire : ce sont les actions, les choix et l'énergie passionnée des individus réunis qui réalisent le devenir historique et la marche vers la liberté.",
+        "citations_meme_avis": [
+            {
+                "titre": "« Ce sont les hommes qui font leur propre histoire, mais ils ne la font pas de leur plein gré. »",
+                "auteur": "Karl Marx",
+                "source": "Le 18 Brumaire de Louis Bonaparte",
+                "explication": "L'homme est bien le sujet actif de la transformation historique par son travail et ses luttes, même s'il agit dans des conditions héritées du passé."
+            },
+            {
+                "titre": "« L'homme n'est rien d'autre que ce qu'il se fait. »",
+                "auteur": "Jean-Paul Sartre",
+                "source": "L'existentialisme est un humanisme",
+                "explication": "Par sa liberté absolue, chaque individu est l'artisan responsable de son destin et participe activement à la construction de l'histoire collective."
+            },
+            {
+                "titre": "« L’homme est sans cesse hors de lui-même, c’est en se projetant et en s’perdant hors de lui qu’il fait exister l’homme. »",
+                "auteur": "Jean-Paul Sartre",
+                "source": "L'existentialisme est un humanisme",
+                "explication": "L'homme façonne le monde et l'histoire par son action projetée vers le futur, affirmant sa souveraineté de sujet."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« L'histoire est un procès sans sujet ni fin. »",
+                "auteur": "Louis Althusser",
+                "source": "Pour Marx",
+                "explication": "L'homme n'est qu'un objet ou un simple exécutant façonné par les structures socio-économiques et les idéologies qui déterminent le cours de l'histoire à son insu."
+            },
+            {
+                "titre": "« Les ruches d’abeilles et les communautés de fourmis sont des modèles de vie collective où l’individu disparaît sous le poids de la nécessité naturelle. »",
+                "auteur": "Claude Lévi-Strauss",
+                "source": "Anthropologie structurale",
+                "explication": "L'être humain est largement dominé par des structures culturelles, linguistiques et inconscientes qui s'imposent à lui et réduisent son rôle de sujet dans le devenir historique."
+            },
+            {
+                "titre": "« Les passions des hommes accomplissent les ruses de la Raison. »",
+                "auteur": "Georg Wilhelm Friedrich Hegel",
+                "source": "La Raison dans l'Histoire",
+                "explication": "En agissant pour leurs intérêts égoïstes, les hommes croient faire l'histoire en sujets libres, mais ils ne sont en réalité que les instruments manipulés par la Raison universelle."
+            }
+        ]
+    },
+    {
+        "citation": "« Le travail éloigne de nous trois grands maux : l’ennui, le vice et le besoin. »",
+        "auteur": "Voltaire",
+        "source": "Candide",
+        "explication": "Voltaire montre que le travail est une activité libératrice et moralisatrice : il prémunit l'homme contre l'inaction destructrice (l'ennui), le dérèglement moral (le vice) et la précarité matérielle (le besoin), lui assurant ainsi dignité et autonomie.",
+        "citations_meme_avis": [
+            {
+                "titre": "« En transformant la nature, l’homme se transforme lui-même. »",
+                "auteur": "Karl Marx",
+                "source": "Le Capital",
+                "explication": "Le travail est une activité spécifiquement humaine où l'homme réalise ses facultés, affirme sa liberté et façonne sa propre humanité en modifiant le monde extérieur."
+            },
+            {
+                "titre": "« La grandeur de l'homme est dans sa décision d'être plus fort que sa condition. »",
+                "auteur": "Albert Camus",
+                "source": "Le Mythe de Sysiphe",
+                "explication": "L'effort et l'action constructive permettent à l'homme de donner un sens à son existence et de surmonter la fatalité de sa condition."
+            },
+            {
+                "titre": "« L'homme est le seul être qui doive travailler. »",
+                "auteur": "Emmanuel Kant",
+                "source": "Réflexions sur l'éducation",
+                "explication": "Le travail exige une discipline et une contrainte librement acceptée qui arrachent l'homme à la paresse et développent ses aptitudes morales et intellectuelles."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Le travailleur devient une marchandise d'autant plus vile qu'il crée plus de marchandises. »",
+                "auteur": "Karl Marx",
+                "source": "Manuscrits de 1844",
+                "explication": "Dans le système de production capitaliste, le travail aliéné dépossède l'ouvrier du produit de son effort, l'asservit et le déshumanise en le réduisant à l'état de chose."
+            },
+            {
+                "titre": "« Les métiers manuels dégradent le corps et l’âme. »",
+                "auteur": "Platon",
+                "source": "La République",
+                "explication": "Le travail manuel et la recherche du profit altèrent la noblesse de l'esprit, épuisent le corps et détournent l'homme de la quête de la vérité et des vertus politiques."
+            },
+            {
+                "titre": "« Nul ne peut être libre s'il est contraint de travailler pour subsister. »",
+                "auteur": "Aristote",
+                "source": "Politique",
+                "explication": "Le travail fondé sur la nécessité biologique s'oppose à la véritable liberté qui exige le loisir noble consacré à la philosophie et à la vie citoyenne."
+            }
+        ]
+    },
+    {
+        "citation": "« Toute la philosophie est comme un arbre dont les racines sont la métaphysique, le tronc est la physique et les branches qui sortent de ce tronc sont toutes les autres sciences qui se réduisent à trois principales, à savoir la mécanique, la médecine et la morale. »",
+        "auteur": "René Descartes",
+        "source": "Principes de la philosophie",
+        "explication": "Descartes montre que la philosophie est l'arbre de la connaissance : loin d'être un luxe inutile, elle constitue le fondement métaphysique et scientifique indispensable à toutes les applications pratiques qui servent directement l'humanité (mécanique, médecine et morale).",
+        "citations_meme_avis": [
+            {
+                "titre": "« Nous concevons d’abord le philosophe comme possédant la totalité du savoir dans la mesure du possible. »",
+                "auteur": "Aristote",
+                "source": "Métaphysique",
+                "explication": "À l'origine, la philosophie n'est pas un vain bavardage mais la recherche globale de la vérité et la matrice universelle de toutes les connaissances."
+            },
+            {
+                "titre": "« Vraiment parler, c'est avoir les yeux fermés, sans jamais essayer de les ouvrir, que de vivre sans philosopher. »",
+                "auteur": "René Descartes",
+                "source": "Principes de la philosophie",
+                "explication": "Philosopher est une nécessité existentielle essentielle à la conduite de la vie humaine et à la liberté de la pensée."
+            },
+            {
+                "titre": "« La philosophie est ce qui distingue les hommes civils des sauvages et des barbares. »",
+                "auteur": "René Descartes",
+                "source": "Principes de la philosophie",
+                "explication": "La réflexion philosophique est la condition même de la civilisation et de la maturité intellectuelle d'une société."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Les philosophes n'ont fait qu'interpréter le monde de diverses manières ; ce qui importe, c'est de le transformer. »",
+                "auteur": "Karl Marx",
+                "source": "Thèses sur Feuerbach",
+                "explication": "La philosophie traditionnelle reste une activité contemplative abstraite qui doit s'effacer au profit de la pratique révolutionnaire et de l'action concrète."
+            },
+            {
+                "titre": "« La philosophie est un champ de bataille où personne ne sortira vainqueur. »",
+                "auteur": "Emmanuel Kant",
+                "source": "Critique de la raison pure",
+                "explication": "Les spéculations métaphysiques illimitées plongent la philosophie dans des contradictions stériles et des disputes interminables."
+            },
+            {
+                "titre": "« Tous les philosophes sont des charlatans. »",
+                "auteur": "Jean-Jacques Rousseau",
+                "source": "Discours sur les sciences et les arts",
+                "explication": "La philosophie est accusée d'être un exercice de rhétorique vain et orgueilleux qui éloigne l'homme de la vertu et de la vérité simple."
+            }
+        ]
+    },
+    {
+        "citation": "« L’imagination […] est cette partie dominante dans l’homme, cette maîtresse d’erreur et de fausseté, et d’autant plus fourbe qu’elle ne l’est pas toujours. »",
+        "auteur": "Blaise Pascal",
+        "source": "Pensées",
+        "explication": "Pascal dénonce l'imagination comme une puissance trompeuse qui altère la raison, alimente les illusions et substitue les mythes, superstitions et fausses croyances à la vérité objective.",
+        "citations_meme_avis": [
+            {
+                "titre": "« L'imagination est la folle du logis. »",
+                "auteur": "Nicolas Malebranche",
+                "source": "De la recherche de la vérité",
+                "explication": "L'imagination égare l'esprit humain en le détournant de la rigueur de la raison et en l'enfermant dans des fictions incohérentes."
+            },
+            {
+                "titre": "« Le mythe est un récit fabuleux qui séduit l'esprit mais obscurcit la recherche de la vérité rationnelle. »",
+                "auteur": "Platon",
+                "source": "La République",
+                "explication": "Les fables et récits mythiques s'adressent à la sensibilité et à l'imagination au lieu de s'adresser à l'intelligence et au Logos."
+            },
+            {
+                "titre": "« L'ignorance et la crainte sont les deux mères de toutes les superstitions et de toutes les fables. »",
+                "auteur": "Baruch Spinoza",
+                "source": "Traité théologico-politique",
+                "explication": "L'imagination non régulée par la raison engendre le mythe et la superstition pour combler l'angoisse de l'inconnu."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Le mythe est une structure de la pensée qui donne un sens au monde là où la raison pure échoue. »",
+                "auteur": "Claude Lévi-Strauss",
+                "source": "Anthropologie structurale",
+                "explication": "Loin d'être une simple erreur, le mythe possède sa propre logique rationnelle et répond au besoin fondamental de l'homme de structurer le réel."
+            },
+            {
+                "titre": "« L'imagination est plus importante que le savoir. Car le savoir est limité, tandis que l'imagination englobe le monde entier. »",
+                "auteur": "Albert Einstein",
+                "source": "Comment je vois le monde",
+                "explication": "L'imagination n'est pas une maîtresse d'erreur mais la source créative indispensable qui permet d'aller au-delà des connaissances établies et de stimuler le progrès."
+            },
+            {
+                "titre": "« Le mythe est un langage symbolique qui exprime des vérités existentielles profondes inaccessibles au seul concept abstrait. »",
+                "auteur": "Paul Ricœur",
+                "source": "La Symbolique du mal",
+                "explication": "Le mythe contient une richesse interprétative et philosophique que la raison intellectuelle pure ne peut pas épuiser."
+            }
+        ]
+    },
+    {
+        "citation": "« Toute notre technique perfectionnée dont nous chantons les louanges est comme une hache entre les mains d’un criminel psychopathe. »",
+        "auteur": "Albert Einstein",
+        "source": "Lettre à Heinrich Zangger",
+        "explication": "Einstein met en garde contre la neutralité morale de la technique : dépourvue d'éthique et de sagesse, la puissance technologique devient un instrument d'une efficacité redoutable au service de la destruction et des pires instincts humains.",
+        "citations_meme_avis": [
+            {
+                "titre": "« Science sans conscience n'est que ruine de l'âme. »",
+                "auteur": "François Rabelais",
+                "source": "Pantagruel",
+                "explication": "Le progrès technique et scientifique privé d'orientation morale et spirituelle mène l'humanité à sa propre perte."
+            },
+            {
+                "titre": "« La technique est le plus grand danger qui menace l'homme, car elle tend à le réduire à un simple objet d'exploitation. »",
+                "auteur": "Martin Heidegger",
+                "source": "Essais et conférences (La question de la technique)",
+                "explication": "La technique moderne ne se contente pas d'être un outil, elle transforme le monde et l'être humain en simples ressources manipulables."
+            },
+            {
+                "titre": "« Le problème d'aujourd'hui n'est pas l'énergie atomique, mais le cœur de l'homme. »",
+                "auteur": "Albert Einstein",
+                "source": "Discours et écrits politiques",
+                "explication": "Le danger réside moins dans le pouvoir de l'outil technique que dans l'incapacité morale de l'homme à maîtriser ses propres passions."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« La technique nous rend comme maîtres et possesseurs de la nature. »",
+                "auteur": "René Descartes",
+                "source": "Discours de la méthode",
+                "explication": "La maîtrise technique est le moyen privilégié par lequel l'homme se libère des servitudes naturelles et améliore sa condition de vie, notamment par la médecine et la mécanique."
+            },
+            {
+                "titre": "« L'outil est le prolongement de la main et de l'intelligence de l'homme. »",
+                "auteur": "Aristote",
+                "source": "De l'âme",
+                "explication": "La technique est une réalisation naturelle de l'intelligence humaine, permettant à l'homme d'accomplir sa nature d'être rationnel et d'adapter son milieu à ses besoins."
+            },
+            {
+                "titre": "« Ce n'est pas la machine qui est mauvaise, c'est l'usage déréglé qu'en font les hommes. »",
+                "auteur": "Francis Bacon",
+                "source": "Novum Organum",
+                "explication": "Le progrès technologique est fondamentalement bénéfique pour l'émancipation de l'humanité, à condition qu'il soit guidé par la raison et le savoir."
+            }
+        ]
+    },
+    {
+        "citation": "« Si l’on bâtissait la maison du bonheur, la plus grande pièce serait la salle d’attente. »",
+        "auteur": "Jules Renard",
+        "source": "Journal (1893-1898)",
+        "explication": "Jules Renard exprime avec ironie l'idée que le bonheur réside davantage dans le désir, la quête et l'attente que dans sa possession réelle : une fois atteint, le bonheur s'évanouit ou déçoit, condamnant l'homme à vivre dans l'anticipation permanente.",
+        "citations_meme_avis": [
+            {
+                "titre": "« Le désir s'éteint par la possession, et la possession engendre la satiété ou l'ennui. »",
+                "auteur": "Arthur Schopenhauer",
+                "source": "Le Monde comme volonté et comme représentation",
+                "explication": "Le bonheur permanent est une illusion car la vie oscille inévitablement comme un balancier entre la souffrance du besoin insatisfait et l'ennui de la possession."
+            },
+            {
+                "titre": "« Malheur à celui qui n'a plus rien à désirer ! Il perd ainsi tout ce qu'il possède. On jouit moins de ce qu'on obtient que de ce qu'on espère. »",
+                "auteur": "Jean-Jacques Rousseau",
+                "source": "Julie ou la Nouvelle Héloïse",
+                "explication": "Le véritable plaisir réside dans l'élan de l'espoir et l'imagination du bonheur plutôt que dans la réalité décevante de sa réalisation."
+            },
+            {
+                "titre": "« L'homme est un être fait pour désirer, non pour posséder. »",
+                "auteur": "Blaise Pascal",
+                "source": "Pensées",
+                "explication": "L'agitation et la quête constante d'un bonheur futur ne servent qu'à masquer l'incapacité de l'homme à trouver la paix et le contentement dans le présent."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Le bonheur est un souverain bien qui se suffit à lui-même et représente la fin ultime de toutes nos actions. »",
+                "auteur": "Aristote",
+                "source": "Éthique à Nicomaque",
+                "explication": "Le bonheur n'est pas une attente illusoire mais un état d'accomplissement réel et accessible par la pratique de la vertu et de la raison au cours d'une vie complète."
+            },
+            {
+                "titre": "« Le bonheur n'est pas une chose aisée : il est très difficile de le trouver en nous, et impossible de le trouver ailleurs. »",
+                "auteur": "Baruch Spinoza",
+                "source": "Éthique",
+                "explication": "Le bonheur (ou la béatitude) est une réalité accessible dès lors que l'homme parvient à la connaissance rationnelle de soi et à la maîtrise de ses passions."
+            },
+            {
+                "titre": "« Il faut imaginer Sisyphe heureux. »",
+                "auteur": "Albert Camus",
+                "source": "Le Mythe de Sisyphe",
+                "explication": "Le bonheur ne dépend pas de la satisfaction d'une attente ou d'un idéal futur, mais de la prise de conscience et de l'acceptation pleinement vécue du présent."
+            }
+        ]
+    },
+    {
+        "citation": "« Une théorie est vraie dans la mesure où elle est cohérente avec les axiomes qui la fondent. »",
+        "auteur": "Robert Blanché",
+        "source": "L'Axiomatique",
+        "explication": "Robert Blanché définit ici la vérité formelle ou logico-mathématique : dans un système axiomatique, la vérité d'une proposition ne dépend pas de sa correspondance avec le monde sensible, mais uniquement de son absence de contradiction et de sa déduction rigoureuse à partir des principes de départ.",
+        "citations_meme_avis": [
+            {
+                "titre": "« Il ne faut jamais recevoir aucune chose pour vraie que je ne la connusse évidemment être telle, c'est-à-dire d'éviter soigneusement la précipitation et la prévention. »",
+                "auteur": "René Descartes",
+                "source": "Discours de la méthode",
+                "explication": "La vérité repose sur la clarté, la distinction et la déduction rationnelle enchaînée sans contradiction, garantissant la fiabilité absolue de la pensée."
+            },
+            {
+                "titre": "« Les vérités de raison sont nécessaires et leur opposé est impossible ; les vérités de fait sont contingentes et leur opposé est possible. »",
+                "auteur": "Gottfried Wilhelm Leibniz",
+                "source": "Monadologie",
+                "explication": "Leibniz distingue les vérités démontrables par la seule logique pure, dont la certitude découle du principe de non-contradiction, de la réalité empirique."
+            },
+            {
+                "titre": "« Ce qui est rationnel est réel, et ce qui est réel est rationnel. »",
+                "auteur": "Georg Wilhelm Friedrich Hegel",
+                "source": "Principes de la philosophie du droit",
+                "explication": "La cohérence absolue du développement de la pensée et du concept coïncide nécessairement avec la structure même de la vérité et du réel."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« L’expérimentation seule juge les théories. »",
+                "auteur": "Claude Bernard",
+                "source": "Introduction à l'étude de la médecine expérimentale",
+                "explication": "Dans les sciences de la nature, la simple cohérence logique d'une hypothèse ne suffit pas : la vérité exige la confirmation par les faits et l'observation expérimentale."
+            },
+            {
+                "titre": "« Beaucoup de discours paraissent logiques sans l’être réellement, car ils reposent sur des prémisses captieuses. »",
+                "auteur": "Aristote",
+                "source": "Les Réfutations sophistiques",
+                "explication": "Un syllogisme peut respecter les lois de la forme logique tout en débouchant sur une fausseté si ses points de départ ne sont pas ancrés dans la réalité."
+            },
+            {
+                "titre": "« La vérité est la conformité de l'esprit et de la chose (Veritas est adaequatio rei et intellectus). »",
+                "auteur": "Saint Thomas d'Aquin",
+                "source": "Somme théologique",
+                "explication": "La vérité matérielle exige l'accord parfait entre la pensée et l'objet extérieur, et non la seule consistance interne des idées."
+            },
+            {
+                "titre": "« La science est une suite d'erreurs rectifiées. »",
+                "auteur": "Gaston Bachelard",
+                "source": "La Formation de l'esprit scientifique",
+                "explication": "La vérité scientifique ne découle pas d'un système logique figé mais d'une confrontation constante avec le réel qui vient corriger nos théories abstraites."
+            }
+        ]
+    },
+    {
+        "citation": "« Science d’où prévoyance, prévoyance d’où action. »",
+        "auteur": "Auguste Comte",
+        "source": "Cours de philosophie positive",
+        "explication": "Auguste Comte montre que la science ne se limite pas à la contemplation intellectuelle : en découvrant les lois de la nature, elle permet d'anticiper les phénomènes futurs et de guider l'action humaine pour transformer et maîtriser le monde.",
+        "citations_meme_avis": [
+            {
+                "titre": "« La science nous rend comme maîtres et possesseurs de la nature. »",
+                "auteur": "René Descartes",
+                "source": "Discours de la méthode",
+                "explication": "La connaissance scientifique permet à l'homme d'agir efficacement sur son environnement et d'améliorer sa condition matérielle, notamment par la technique et la médecine."
+            },
+            {
+                "titre": "« Savoir c'est pouvoir. »",
+                "auteur": "Francis Bacon",
+                "source": "Novum Organum",
+                "explication": "La compréhension rigoureuse des mécanismes de la nature donne à l'humanité la puissance nécessaire pour agir sur elle et satisfaire ses besoins."
+            },
+            {
+                "titre": "« L'expérimentation est une observation provoquée dans le but de faire naître une idée et d'en vérifier la portée pratique. »",
+                "auteur": "Claude Bernard",
+                "source": "Introduction à l'étude de la médecine expérimentale",
+                "explication": "La méthode scientifique relie la théorie rationnelle à l'action concrète en vérifiant expérimentalement notre pouvoir sur les faits."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Nos âmes se sont corrompues à mesure que nos sciences et nos arts se sont avancés à la perfection. »",
+                "auteur": "Jean-Jacques Rousseau",
+                "source": "Discours sur les sciences et les arts",
+                "explication": "L'essor de la science ne garantit pas le progrès moral de l'humanité et peut au contraire stimuler l'orgueil, le luxe et la déchéance des mœurs."
+            },
+            {
+                "titre": "« La science est incapable de répondre aux exigences spirituelles, morales ou au besoin de consolation de l'être humain. »",
+                "auteur": "Sigmund Freud",
+                "source": "L'Avenir d'une illusion",
+                "explication": "Bien que la science dévoile la réalité du monde, elle ne fournit ni sens existentialiste ni réconfort affectif face aux angoisses humaines."
+            },
+            {
+                "titre": "« La démarche scientifique ne conduit pas à une vérité définitive, mais à des certitudes provisoires et révisables. »",
+                "auteur": "Karl Popper",
+                "source": "La Logique de la découverte scientifique",
+                "explication": "Savoir prévoir ne signifie pas détenir une vérité absolue ; une théorie scientifique reste toujours faillible et réfutable."
+            },
+            {
+                "titre": "« La puissance que nous donne la science moderne exige une sagesse morale que cette même science est incapable d'enseigner. »",
+                "auteur": "François Jacob",
+                "source": "Le Jeu des possibles",
+                "explication": "La science fournit les moyens d'agir mais ne définit pas les fins morales ou éthiques, pouvant ainsi devenir source de catastrophes si elle est surestimée."
+            }
+        ]
+    },
+    {
+        "citation": "« Je me plaisais surtout aux mathématiques à cause de la certitude de leurs raisons. »",
+        "auteur": "René Descartes",
+        "source": "Discours de la méthode",
+        "explication": "René Descartes exprime son admiration pour l'évidence et la démonstration mathématique. Pour lui, la rigueur logique et le raisonnement déductif procurent un savoir absolu, indubitable et universel, exempt des doutes et des erreurs des sciences empiriques.",
+        "citations_meme_avis": [
+            {
+                "titre": "« Les vérités scientifiques sont des vérités universelles. »",
+                "auteur": "Gustave Le Bon",
+                "source": "Les Incertitudes de l'heure présente",
+                "explication": "Contrairement aux opinions ou aux croyances subjectives, la vérité scientifique repose sur des lois objectives et impersonnelles qui s'imposent universellement à tout esprit rationnel."
+            },
+            {
+                "titre": "« L'expérimentation est une démonstration pratique qui permet de vérifier la théorie de manière indiscutable. »",
+                "auteur": "Claude Bernard",
+                "source": "Introduction à l'étude de la médecine expérimentale",
+                "explication": "Lorsque la méthode expérimentale confirme l'hypothèse par le fait observable et reproductible, elle confère à la découverte scientifique une validité solide et incontestable."
+            },
+            {
+                "titre": "« Ce qui est démontré en mathématiques demeure vrai pour l'éternité, car la vérité y découle nécessairement de la non-contradiction des principes. »",
+                "auteur": "Gottfried Wilhelm Leibniz",
+                "source": "Nouveaux Essais sur l'entendement humain",
+                "explication": "Les vérités formelles et logiques ne dépendent pas des aléas du monde sensible et conservent une certitude définitive au sein de leur système."
+            }
+        ],
+        "citations_opposees": [
+            {
+                "titre": "« Une théorie qui n'est réfutable par aucun événement qui se puisse concevoir est dépourvue de caractère scientifique. »",
+                "auteur": "Karl Popper",
+                "source": "Conjectures et Réfutations",
+                "explication": "Pour Popper, une théorie n'est jamais prouvée définitivement ; elle est seulement provisoirement corroborée tant qu'elle résiste aux tentatives de falsification."
+            },
+            {
+                "titre": "« La vérité scientifique est une erreur rectifiée. »",
+                "auteur": "Gaston Bachelard",
+                "source": "La Formation de l'esprit scientifique",
+                "explication": "La science ne proprogresse pas par accumulation de certitudes absolues, mais par ruptures épistémologiques et rectification constante des erreurs passées."
+            },
+            {
+                "titre": "« Ce que nous observons n'est pas la nature en soi, mais la nature exposée à notre méthode d'interrogation. »",
+                "auteur": "Werner Heisenberg",
+                "source": "La Physique du noyau",
+                "explication": "En physique moderne, la vérité dépend du cadre théorique et des instruments de mesure utilisés, ce qui interdit de la considérer comme un absolu figé."
+            },
+            {
+                "titre": "« Les révolutions scientifiques remplacent un paradigme par un autre, modifiant la vision même que les savants ont de la vérité. »",
+                "auteur": "Thomas Kuhn",
+                "source": "La Structure des révolutions scientifiques",
+                "explication": "La vérité scientifique est relative au paradigme dominant d'une époque ; lors d'une révolution scientifique, les vérités établies sont remplacées par un nouveau modèle."
+            }
+        ]
+    }
+]

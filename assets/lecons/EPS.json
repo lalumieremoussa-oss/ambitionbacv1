@@ -1,0 +1,90 @@
+[
+  {
+    "id": "EPSA001",
+    "titre": "Course d’endurance",
+    "sections": [
+      { "id": "EPSA001_C", "titre": "Cours" },
+      { "id": "EPSA001_E", "titre": "Exercices" },
+      { "id": "EPSA001_Q1", "titre": "Quiz 1" },
+      { "id": "EPSA001_Q2", "titre": "Quiz 2" },
+      { "id": "EPSA001_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSA002",
+    "titre": "Course de vitesse",
+    "sections": [
+      { "id": "EPSA002_C", "titre": "Cours" },
+      { "id": "EPSA002_E", "titre": "Exercices" },
+      { "id": "EPSA002_Q1", "titre": "Quiz 1" },
+      { "id": "EPSA002_Q2", "titre": "Quiz 2" },
+      { "id": "EPSA002_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSA003",
+    "titre": "Triple saut",
+    "sections": [
+      { "id": "EPSA003_C", "titre": "Cours" },
+      { "id": "EPSA003_E", "titre": "Exercices" },
+      { "id": "EPSA003_Q1", "titre": "Quiz 1" },
+      { "id": "EPSA003_Q2", "titre": "Quiz 2" },
+      { "id": "EPSA003_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSA004",
+    "titre": "Saut en hauteur",
+    "sections": [
+      { "id": "EPSA004_C", "titre": "Cours" },
+      { "id": "EPSA004_E", "titre": "Exercices" },
+      { "id": "EPSA004_Q1", "titre": "Quiz 1" },
+      { "id": "EPSA004_Q2", "titre": "Quiz 2" },
+      { "id": "EPSA004_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSA005",
+    "titre": "Saut en longueur",
+    "sections": [
+      { "id": "EPSA005_C", "titre": "Cours" },
+      { "id": "EPSA005_E", "titre": "Exercices" },
+      { "id": "EPSA005_Q1", "titre": "Quiz 1" },
+      { "id": "EPSA005_Q2", "titre": "Quiz 2" },
+      { "id": "EPSA005_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSA006",
+    "titre": "Lancer de poids",
+    "sections": [
+      { "id": "EPSA006_C", "titre": "Cours" },
+      { "id": "EPSA006_E", "titre": "Exercices" },
+      { "id": "EPSA006_Q1", "titre": "Quiz 1" },
+      { "id": "EPSA006_Q2", "titre": "Quiz 2" },
+      { "id": "EPSA006_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSG001",
+    "titre": "Gymnastique au sol",
+    "sections": [
+      { "id": "EPSG001_C", "titre": "Cours" },
+      { "id": "EPSG001_E", "titre": "Exercices" },
+      { "id": "EPSG001_Q1", "titre": "Quiz 1" },
+      { "id": "EPSG001_Q2", "titre": "Quiz 2" },
+      { "id": "EPSG001_Q3", "titre": "Quiz 3" }
+    ]
+  },
+  {
+    "id": "EPSC001",
+    "titre": "Handball",
+    "sections": [
+      { "id": "EPSC001_C", "titre": "Cours" },
+      { "id": "EPSC001_E", "titre": "Exercices" },
+      { "id": "EPSC001_Q1", "titre": "Quiz 1" },
+      { "id": "EPSC001_Q2", "titre": "Quiz 2" },
+      { "id": "EPSC001_Q3", "titre": "Quiz 3" }
+    ]
+  }
+]

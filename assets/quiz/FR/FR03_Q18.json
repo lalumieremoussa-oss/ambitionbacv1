@@ -1,0 +1,206 @@
+{
+    "title": "Quiz 2 - Partie B : Fonction Didactique et Histoire (Trouve l'intrus)",
+    "id": "FR001_Q2_B_V3",
+    "questions": {
+        "question n°1": {
+            "question": "La fonction didactique de la littérature suppose principalement que : – Trouve l'intrus",
+            "reponses": {
+                "A": "L'auteur cherche à divertir ses lecteurs par des histoires légères",
+                "B": "L'œuvre d'art doit avant tout instruire et éduquer son lectorat attentif",
+                "C": "Le texte littéraire transmet un savoir ou une leçon morale implicite",
+                "D": "L'écrivain utilise son art pour éclairer les consciences endormies"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "La dimension culturelle de la fonction didactique se manifeste quand : – Trouve l'intrus",
+            "reponses": {
+                "A": "L'œuvre transmet les valeurs et les coutumes d'un peuple à ses lecteurs",
+                "B": "L'écrivain reproduit des dialogues réalistes sans visée éducative",
+                "C": "Le texte célèbre les traditions et la mémoire collective d'une nation",
+                "D": "L'auteur immortalise les rites et les croyances de sa communauté"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°3": {
+            "question": "Une œuvre didactique cherche avant tout à : – Trouve l'intrus",
+            "reponses": {
+                "A": "Faire réfléchir le lecteur sur le monde et ses contradictions profondes",
+                "B": "Éveiller la conscience critique du public face aux réalités sociales",
+                "C": "Décrire la beauté du langage poétique sans aucune visée morale",
+                "D": "Transmettre des valeurs morales et des leçons de vie essentielles"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°4": {
+            "question": "Dans une littérature à visée didactique, l'écrivain endosse le rôle de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Conseiller moral et éducateur éclairant les esprits de son époque",
+                "B": "Témoin lucide et passeur de connaissances pour les générations futures",
+                "C": "Guide spirituel et intellectuel orientant la pensée de ses lecteurs",
+                "D": "Historien officiel chargé de glorifier les régimes politiques en place"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°5": {
+            "question": "Le lien entre éducation et littérature dans la perspective didactique est que : – Trouve l'intrus",
+            "reponses": {
+                "A": "L'éducation détourne les jeunes esprits de la lecture des œuvres littéraires",
+                "B": "La littérature éclaire le lecteur et contribue à sa maturation intellectuelle",
+                "C": "L'éducation utilise la littérature comme outil de formation morale et civique",
+                "D": "La littérature enseigne des vérités universelles sur la condition humaine"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°6": {
+            "question": "L'écrivain est qualifié de « secrétaire de son époque » car il : – Trouve l'intrus",
+            "reponses": {
+                "A": "Immortalise des faits historiques pour nourrir la mémoire collective des peuples",
+                "B": "Raconte des anecdotes amusantes sans se soucier de la vérité historique",
+                "C": "Transcrit fidèlement les événements marquants de sa génération pour l'avenir",
+                "D": "Devient le gardien vigilant de la mémoire et des traces du passé humain"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°7": {
+            "question": "Dans La Prise de Sikasso, le théâtre didactique est utilisé pour : – Trouve l'intrus",
+            "reponses": {
+                "A": "Revaloriser une figure héroïque africaine face à l'envahisseur colonial français",
+                "B": "Enseigner la bravoure et la résistance héroïque du peuple sénoufo opprimé",
+                "C": "Reconstituer une intrigue amoureuse au temps de la colonie sans portée morale",
+                "D": "Transmettre la mémoire de la résistance et la fierté des peuples dominés"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "Soundjata ou l'épopée mandingue est didactique car cette œuvre : – Trouve l'intrus",
+            "reponses": {
+                "A": "Transmet des savoirs historiques et culturels sur l'Empire du Mali ancien",
+                "B": "Célèbre les grandes figures africaines et les valeurs politiques de l'époque",
+                "C": "Relate la fondation d'un empire à travers une tradition orale authentique",
+                "D": "Utilise un vocabulaire complexe pour impressionner les lecteurs savants"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "La littérature historique est considérée comme didactique car elle : – Trouve l'intrus",
+            "reponses": {
+                "A": "Utilise toujours des archives réelles sans aucune part d'invention créatrice",
+                "B": "Donne des clés de lecture sur le présent à partir des leçons du passé",
+                "C": "Éclaire les réalités contemporaines en les confrontant à l'histoire humaine",
+                "D": "Permet de comprendre les racines des conflits et des héritages culturels"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°10": {
+            "question": "Une œuvre didactique qui repose sur une tradition orale valorisée est : – Trouve l'intrus",
+            "reponses": {
+                "A": "Le Père Goriot de Balzac qui dépeint la société parisienne du XIXe siècle",
+                "B": "Soundjata ou l'épopée mandingue de Djibril Tamsir Niane le célèbre griot",
+                "C": "La Princesse de Clèves qui explore les tourments amoureux dans la cour royale",
+                "D": "Les Contemplations de Hugo qui mêle lyrisme intime et réflexions politiques"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°11": {
+            "question": "L'illustration de comportements à suivre ou à éviter dans une œuvre est : – Trouve l'intrus",
+            "reponses": {
+                "A": "Une stratégie narrative pour rendre le récit plus vivant et captivant",
+                "B": "Un procédé littéraire qui transforme les personnages en modèles exemplaires",
+                "C": "Une forme de fonction didactique morale au service de l'éducation civique",
+                "D": "Une technique d'écriture qui renforce l'identification du lecteur aux héros"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°12": {
+            "question": "Selon François Roumiac, « les héros du roman ont toujours une signification » car : – Trouve l'intrus",
+            "reponses": {
+                "A": "Ils incarnent des valeurs ou des défauts qui enseignent une leçon au lecteur",
+                "B": "Leur destinée contient toujours une morale ou un enseignement implicite",
+                "C": "Leurs actions illustrent des principes éthiques universels et intemporels",
+                "D": "Ils sont inspirés de faits divers sans aucune portée symbolique particulière"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Dans une œuvre à visée didactique, un personnage immoral sert souvent à : – Trouve l'intrus",
+            "reponses": {
+                "A": "Détourner l'attention du lecteur des véritables enjeux du texte littéraire",
+                "B": "Servir de contre-exemple moral et montrer les conséquences des mauvais choix",
+                "C": "Créer un contrepoint comique qui détend l'atmosphère du récit sérieux",
+                "D": "Illustrer les dangers de l'orgueil et de la démesure dans les sociétés humaines"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Une leçon morale dans une œuvre se manifeste souvent par : – Trouve l'intrus",
+            "reponses": {
+                "A": "Un dénouement tragique illustrant les conséquences désastreuses d'une faute",
+                "B": "Des dialogues longs et inutiles qui ralentissent la progression du récit",
+                "C": "La punition du méchant et la récompense du juste à la fin de l'histoire",
+                "D": "Une fin heureuse sans signification profonde qui comble le lecteur naïf"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Un auteur insère des dilemmes moraux dans ses récits pour : – Trouve l'intrus",
+            "reponses": {
+                "A": "Ajouter des intrigues secondaires sans lien avec le propos principal de l'œuvre",
+                "B": "Ralentir l'action et créer un suspense artificiel pour maintenir l'attention",
+                "C": "Montrer la complexité des choix humains et éveiller la conscience du lecteur",
+                "D": "Éviter de donner une opinion claire sur les sujets controversés de son temps"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°16": {
+            "question": "Soundjata ou l'épopée mandingue de Djibril Tamsir Niane est un texte qui : – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la colonisation et glorifie la résistance héroïque des peuples africains",
+                "B": "Célèbre l'unité et la puissance de l'empire mandingue avant l'arrivée des colons",
+                "C": "Transmet les valeurs politiques et religieuses de l'Afrique médiévale prospère",
+                "D": "Ignore totalement les réalités politiques pour ne célébrer que la beauté du récit"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°17": {
+            "question": "Le type de texte utilisé pour exprimer une opinion personnelle argumentée est : – Trouve l'intrus",
+            "reponses": {
+                "A": "L'essai qui développe une thèse personnelle sur un sujet précis et débattu",
+                "B": "Le récit qui raconte une histoire fictive sans prise de position explicite",
+                "C": "La fable qui utilise des animaux pour transmettre une morale aux lecteurs",
+                "D": "Le poème qui exprime des émotions sans chercher à convaincre son auditoire"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°18": {
+            "question": "L'objectif principal d'un texte poétique dans sa fonction didactique est de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Informer sur des faits historiques avec précision et rigueur documentaire",
+                "B": "Faire rêver et émouvoir tout en transmettant une vision profonde du monde",
+                "C": "Convaincre le lecteur d'adopter une thèse politique ou une idéologie précise",
+                "D": "Analyser froidement les mécanismes sociaux sans part d'affectivité"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°19": {
+            "question": "Parmi les écrivains suivants, lequel a reçu un prix Nobel de littérature ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Wole Soyinka, le dramaturge nigérian engagé et critique des dictatures",
+                "B": "Ahmadou Kourouma, le romancier ivoirien dénonçant les indépendances trahies",
+                "C": "Jean-Marie Adiaffi, le poète et romancier ivoirien de la génération montante",
+                "D": "Léopold Sédar Senghor, le poète-président sénégalais de la négritude"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°20": {
+            "question": "Le genre littéraire d'un récit qui retrace une aventure personnelle réelle est : – Trouve l'intrus",
+            "reponses": {
+                "A": "La poésie qui exprime les sentiments intimes sans souci de vérité factuelle",
+                "B": "Le roman fantastique qui mêle le merveilleux et le réel dans une fiction pure",
+                "C": "La fable qui utilise des animaux pour illustrer des vérités morales universelles",
+                "D": "L'autobiographie qui raconte la vie réelle de l'auteur avec sincérité et authenticité"
+            },
+            "bonne reponse": "D"
+        }
+    }
+}

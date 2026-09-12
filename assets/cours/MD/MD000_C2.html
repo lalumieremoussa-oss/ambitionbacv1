@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+            padding: 15px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+            border-top: 6px solid var(--vert);
+        }
+
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+        }
+
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+
+        .buttons {
+            margin-top: 20px;
+            display: flex;
+            gap: 10px;
+        }
+
+        button {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 10px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="card">
+            <h2>Factorisation de fonction du second degré – Formateur Coulibaly</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+            [
+                {
+                    "title": "Étape 1 : Factorisation des formes incomplètes $ax^2 + bx = 0$ et $ax^2 - b = 0$",
+                    "content": "Pour les équations du second degré où il manque un terme (c'est-à-dire quand $c=0$ ou $b=0$), il n'est pas nécessaire d'utiliser le discriminant $\\Delta$. On utilise des méthodes de factorisation directe plus rapides.\n\n**Cas 1 : Forme $ax^2 + bx = 0$ (le terme constant est nul)**\nDans ce cas, $x$ est un facteur commun évident. On factorise par $x$ pour obtenir un produit de facteurs nuls :\n$x(ax + b) = 0$.\nLes solutions sont toujours $x = 0$ ou $x = -\\frac{b}{a}$.\n\n**Cas 2 : Forme $ax^2 - b = 0$ (le terme en $x$ est nul et le signe est négatif)**\nSi $a$ et $b$ sont de signes contraires, on peut utiliser l'identité remarquable $A^2 - B^2 = (A - B)(A + B)$.\nOn écrit l'expression sous la forme $(\\sqrt{a}x)^2 - (\\sqrt{b})^2 = 0$.\nLa factorisation devient : $(\\sqrt{a}x - \\sqrt{b})(\\sqrt{a}x + \\sqrt{b}) = 0$.",
+                    "example": "Résolvons et factorisons les deux cas suivants :\n\n**Exemple pour $ax^2 + bx$ :** Soit $3x^2 + 6x = 0$.\nOn identifie le facteur commun $x$ :\n$x(3x + 6) = 0$.\nLes solutions sont $x = 0$ ou $x = -2$. L'ensemble de solution est $S = \\{0 ; -2\\}$.\n\n**Exemple pour $ax^2 - b$ :** Soit $x^2 - 9 = 0$.\nOn reconnaît $x^2 - 3^2 = 0$.\nLa forme factorisée est $(x - 3)(x + 3) = 0$.\nLes solutions sont $x = 3$ ou $x = -3$. L'ensemble de solution est $S = \\{3 ; -3\\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons $2x^2 - 8 = 0$. On factorise par 2 d'abord : $2(x^2 - 4) = 0$. Puis l'identité remarquable : $2(x - 2)(x + 2) = 0$. Les solutions sont $S = \\{-2 ; 2\\}$.",
+                        "Exemple complet : Résolvons $5x^2 - 10x = 0$. On factorise par $5x$ : $5x(x - 2) = 0$. Les solutions sont $x = 0$ ou $x = 2$. $S = \\{0 ; 2\\}$.",
+                        "Exemple complet : Résolvons $4x^2 - 25 = 0$. On écrit $(2x)^2 - 5^2 = 0$. Factorisation : $(2x - 5)(2x + 5) = 0$. Solutions : $x = 2,5$ ou $x = -2,5$.",
+                        "Exemple complet : Résolvons $x^2 + \\sqrt{3}x = 0$. On factorise par $x$ : $x(x + \\sqrt{3}) = 0$. Solutions : $S = \\{0 ; -\\sqrt{3}\\}$.",
+                        "Remarque : Pour la forme $ax^2 + bx$, il y a toujours deux solutions dont l'une est obligatoirement zéro."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Cas particulier $ax^2 + b = 0$ sans solution réelle",
+                    "content": "Le cas $ax^2 + b = 0$ (avec $a$ et $b$ de même signe) est une situation où l'équation n'admet aucune solution dans l'ensemble des réels ($\\mathbb{R}$).\n\nEn effet, si on essaie d'isoler $x^2$, on obtient $ax^2 = -b$, soit $x^2 = -\\frac{b}{a}$.\nSi $a$ et $b$ sont tous les deux positifs (ou tous les deux négatifs), le rapport $-\\frac{b}{a}$ est un nombre strictement négatif.\nOr, dans $\\mathbb{R}$, le carré d'un nombre réel est toujours positif ou nul ($x^2 \\geq 0$).\n\n**Conclusion géométrique :** La parabole représentative de la fonction $f(x) = ax^2 + b$ ne traverse jamais l'axe des abscisses. Elle est entièrement située au-dessus de l'axe (si $a>0$) ou en dessous (si $a<0$).\nLa factorisation est impossible dans $\\mathbb{R}$.",
+                    "example": "Analysons l'équation $x^2 + 4 = 0$ :\nIci $a = 1$ et $b = 4$.\nSi on tente de résoudre : $x^2 = -4$.\nComme $-4$ est strictement négatif, il n'existe aucun nombre réel $x$ dont le carré vaut $-4$.\nL'ensemble de solution est vide : $S = \\emptyset$.\nLe trinôme $x^2 + 4$ est strictement positif pour tout $x$ réel et ne peut pas être factorisé.",
+                    "extras": [
+                        "Exemple complet : Résolvons $2x^2 + 10 = 0$. On obtient $2x^2 = -10$ soit $x^2 = -5$. Impossible dans $\\mathbb{R}$, donc $S = \\emptyset$.",
+                        "Exemple complet : Résolvons $-3x^2 - 27 = 0$. On a $-3x^2 = 27$ soit $x^2 = -9$. Impossible, donc $S = \\emptyset$.",
+                        "Interprétation graphique : Pour $f(x) = x^2 + 1$, le sommet de la parabole est $(0, 1)$ et elle est tournée vers le haut. Elle ne touche jamais l'axe $x$.",
+                        "Comparaison : Contrairement à $x^2 - 1$ qui se factorise en $(x-1)(x+1)$, l'expression $x^2 + 1$ est dite irréductible dans $\\mathbb{R}$.",
+                        "Lien avec le discriminant : Pour $x^2 + 4 = 0$, $\\Delta = 0^2 - 4(1)(4) = -16$. On retrouve bien $\\Delta < 0$, confirmant l'absence de solution."
+                    ]
+                }
+            ]
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

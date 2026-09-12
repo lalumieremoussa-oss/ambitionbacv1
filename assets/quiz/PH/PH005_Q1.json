@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 1",
+  "id": "PH005_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Thème du quiz: L'homme et son histoire . Soit le Sujet : L'homme est-il le sujet ou l'objet de son histoire ?\" Quelle est la meilleure définition du terme \"Homme\" dans le contexte de ce sujet philosophique ?",
+      "réponses": {
+        "A": "Un être purement biologique et instinctif, soumis aux lois de la nature comme n'importe quelle autre espèce.",
+        "B": "Un être doué de raison, de conscience, capable d’action et de jugement, vivant en société et évoluant dans le temps.",
+        "C": "Une entité spirituelle dénuée de corps physique, dont l'existence est indépendante du monde matériel.",
+        "D": "Un simple élément statistique dans la masse des événements historiques, sans réelle individualité ou influence."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie être \"Sujet\" de l'histoire ?",
+      "réponses": {
+        "A": "Être celui qui est interrogé et analysé par les historiens pour comprendre le passé.",
+        "B": "Subir passivement les événements et être déterminé par des forces extérieures sans pouvoir réagir.",
+        "C": "Agir, décider, être maître de ses choix et participer librement au déroulement de l'histoire.",
+        "D": "Se conformer strictement aux traditions et aux normes établies par les générations précédentes sans les remettre en question."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quand on dit que l'histoire est l'ensemble des événements passés vécus par les sociétés humaines, quelle autre dimension du terme \"Histoire\" est également incluse dans cette problématique ?",
+      "réponses": {
+        "A": "L'étude des mythes fondateurs et des légendes populaires qui n'ont pas de base factuelle avérée.",
+        "B": "Le processus par lequel ces sociétés se transforment, impliquant une dynamique de changement et d'évolution.",
+        "C": "La simple compilation chronologique de faits bruts, sans aucune interprétation ni analyse.",
+        "D": "La prédiction des événements futurs grâce à l'analyse des tendances passées et des cycles prévisibles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La problématique \"L’homme est-il réellement l’auteur de sa propre histoire ou bien cette dernière lui échappe-t-elle en grande partie ?\" suggère que la relation entre l'homme et l'histoire est :",
+      "réponses": {
+        "A": "Simple et univoque, l'homme étant toujours entièrement maître de son destin.",
+        "B": "Purement déterministe, l'homme n'ayant aucune influence sur le cours des événements.",
+        "C": "Complexe et ambivalente, impliquant à la fois une capacité d'action et une part de soumission à des forces extérieures.",
+        "D": "Uniquement spéculative, sans aucune application concrète à la réalité des sociétés humaines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "L'axe \"L’homme est sujet de son histoire\" est soutenu par l'argument principal que l'homme est :",
+      "réponses": {
+        "A": "Un acteur conscient et libre, capable de réfléchir, de décider et de transformer la société par ses actions.",
+        "B": "Un être soumis aux lois de la nature, dont les actions sont entièrement prédéterminées par son environnement.",
+        "C": "Un observateur passif des événements, documentant le passé sans y prendre part.",
+        "D": "Un simple exécutant des volontés divines, sans initiative propre ni capacité de changement."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel philosophe est associé à l'affirmation : \"Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement…\" ?",
+      "réponses": {
+        "A": "Karl Marx, soulignant l'action humaine dans l'histoire, tout en reconnaissant des conditions matérielles données.",
+        "B": "Emmanuel Kant, pour sa philosophie de l'histoire universelle à visée cosmopolitique.",
+        "C": "Jean-Paul Sartre, pour sa théorie de la liberté radicale de l'homme.",
+        "D": "Michel Foucault, pour son analyse des structures de pouvoir et des discours qui façonnent la réalité sociale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "La citation de Karl Marx, \"Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement…\", signifie que :",
+      "réponses": {
+        "A": "L'histoire est le fruit du pur hasard et de décisions prises sans aucune logique ni intention.",
+        "B": "Les hommes ont une influence sur l'histoire, mais leurs actions sont contraintes par des conditions héritées du passé et par la structure sociale.",
+        "C": "Seuls les individus les plus puissants et les plus influents sont capables de changer le cours de l'histoire.",
+        "D": "L'histoire est écrite par les vainqueurs, et la volonté humaine est entièrement soumise à leur pouvoir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel philosophe a déclaré : \"L’histoire est l’œuvre propre de toute l’activité de tous les hommes\" ?",
+      "réponses": {
+        "A": "Georg Wilhelm Friedrich Hegel, pour sa conception de l'Esprit Absolu se réalisant dans l'histoire.",
+        "B": "Albert Camus, pour sa réflexion sur l'absurde et la révolte individuelle.",
+        "C": "Sigmund Freud, pour sa théorie des pulsions inconscientes qui régissent les comportements humains.",
+        "D": "Jean-Paul Sartre, soulignant la responsabilité collective de l'humanité dans la construction de l'histoire."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "L'affirmation que \"l’homme est responsable de ses choix, même dans un contexte contraint\" est un argument qui met l'accent sur :",
+      "réponses": {
+        "A": "La fatalité du destin, où les actions humaines n'ont aucune incidence réelle sur les événements.",
+        "B": "La liberté existentielle de l'individu, qui garde une marge d'action et de signification, même face aux déterminismes.",
+        "C": "La simple réaction aux stimuli extérieurs, sans aucune capacité d'anticipation ou de planification.",
+        "D": "L'influence écrasante des institutions sociales et des structures économiques sur la volonté individuelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La formule de Sartre \"L’existence précède l’essence\" signifie que :",
+      "réponses": {
+        "A": "L'homme naît avec une nature humaine prédéfinie, et il doit découvrir son essence pour la réaliser pleinement.",
+        "B": "L'homme est d'abord, puis il se définit par ses choix et ses actions, sans nature préétablie ou finalité divine.",
+        "C": "L'essence divine de l'homme est révélée avant son existence terrestre, lui donnant un sens prédéterminé.",
+        "D": "La conscience est une illusion, et l'homme est le produit pur et simple de son environnement matériel."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'idée que \"chaque révolution, chaque invention, chaque progrès témoigne de cette capacité à façonner le monde\" appuie l'argument selon lequel l'homme est :",
+      "réponses": {
+        "A": "Un être purement réactif, s'adaptant passivement aux changements imposés par la nature.",
+        "B": "Un créateur et un transformateur actif, doté d'une capacité d'initiative qui influe sur le cours de l'histoire.",
+        "C": "Un simple témoin des événements, enregistrant les faits sans jamais les influencer.",
+        "D": "Une victime impuissante des forces économiques et sociales qui le dépassent."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "La notion de \"marge de liberté\" dont dispose l'homme, même contraint, est centrale pour l'argument qui le considère comme sujet de son histoire. Cette marge est liée à :",
+      "réponses": {
+        "A": "Son pouvoir absolu de dicter les événements, indépendamment de toute réalité extérieure.",
+        "B": "Sa capacité à choisir sa réaction et à donner un sens à sa situation, malgré les déterminismes.",
+        "C": "Le hasard et l'imprévisibilité des événements, qui le libèrent de toute responsabilité.",
+        "D": "L'influence des puissances célestes qui guident secrètement ses décisions les plus importantes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'expression \"être doué de raison, de conscience, capable d’action et de jugement\" pour définir l'homme met en évidence ses qualités qui le distinguent des autres êtres et le rendent potentiellement sujet de l'histoire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'affirmation que l'homme est \"objet\" de l'histoire implique qu'il est principalement l'acteur qui décide du déroulement des événements.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La citation de Marx \"Les hommes font leur propre histoire, mais ils ne la font pas arbitrairement…\" soutient l'idée que l'homme est un sujet absolument libre, sans aucune contrainte matérielle ou sociale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Selon Sartre, si \"l'existence précède l'essence\", cela signifie que l'homme est fondamentalement prédestiné et ne peut échapper à sa nature.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Le fait que l'homme soit capable de révolutions et d'inventions est un argument en faveur de son rôle d'objet de l'histoire, soumis à des forces externes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Le concept d'histoire comme \"processus par lequel les sociétés se transforment\" met l'accent sur la dimension dynamique de l'histoire, où l'homme peut être un moteur de changement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'introduction du sujet met en évidence la dualité de la question : l'homme semble agir sur l'histoire, mais est aussi parfois impuissant face à des événements qui le dépassent.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Si l'homme n'était qu'un instrument de l'histoire, il serait incapable de réfléchir à son passé ou de chercher à comprendre les causes de son présent.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

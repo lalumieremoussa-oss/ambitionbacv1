@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 2",
+  "id": "HI002_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quand s’est tenue la conférence de Yalta ?",
+      "réponses": {
+        "A": "Juillet 1945",
+        "B": "Juin 1945",
+        "C": "Février 1945",
+        "D": "Août 1945"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Où s’est tenue la conférence de Potsdam ?",
+      "réponses": {
+        "A": "Yalta",
+        "B": "Moscou",
+        "C": "Juillet-août 1945",
+        "D": "San Francisco"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle décision a été prise concernant l’Allemagne à Yalta et Potsdam ?",
+      "réponses": {
+        "A": "Allemagne unifiée sous contrôle soviétique",
+        "B": "Allemagne divisée en deux zones",
+        "C": "Allemagne et Berlin divisées en quatre zones d’occupation",
+        "D": "Allemagne indépendante et neutre"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel organisme devait gérer collectivement l’Allemagne après la guerre ?",
+      "réponses": {
+        "A": "L’Assemblée générale de l’ONU",
+        "B": "Conseil économique européen",
+        "C": "Conseil de contrôle quadripartite",
+        "D": "OTAN"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Berlin est située dans :",
+      "réponses": {
+        "A": "La zone américaine",
+        "B": "La zone soviétique",
+        "C": "La zone française",
+        "D": "La zone britannique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Comment Berlin a-t-elle été divisée après la guerre ?",
+      "réponses": {
+        "A": "En deux secteurs",
+        "B": "En trois secteurs",
+        "C": "En quatre secteurs (soviétique, américain, britannique, français)",
+        "D": "En cinq secteurs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle action ont pris les Alliés occidentaux en janvier 1948 ?",
+      "réponses": {
+        "A": "Fusion de leurs zones d’occupation en Allemagne et Berlin",
+        "B": "Retrait de leurs troupes",
+        "C": "Organisation d’un référendum",
+        "D": "Instauration du communisme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel était l’objectif de cette fusion des zones occidentales ?",
+      "réponses": {
+        "A": "Aider l’URSS",
+        "B": "Reconstruire une économie résistante au communisme",
+        "C": "Créer un gouvernement commun avec l’URSS",
+        "D": "Organiser une nouvelle guerre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle a été la réaction de Staline face à la fusion des zones occidentales ?",
+      "réponses": {
+        "A": "Acceptation et coopération",
+        "B": "Renforcement du Plan Marshall",
+        "C": "Blocus de Berlin et retrait du Conseil de contrôle",
+        "D": "Construction du mur de Berlin"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quand le blocus de Berlin a-t-il commencé ?",
+      "réponses": {
+        "A": "17 juillet 1947",
+        "B": "23 juin 1948",
+        "C": "15 août 1949",
+        "D": "1er janvier 1948"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Que comprenait le blocus de Berlin ?",
+      "réponses": {
+        "A": "Fermeture des aéroports uniquement",
+        "B": "Fermeture des routes maritimes",
+        "C": "Coupure des accès terrestres et interruption d’électricité",
+        "D": "Retrait des troupes alliées"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Comment les Alliés ont-ils répondu au blocus ?",
+      "réponses": {
+        "A": "En attaquant l’URSS",
+        "B": "En négociant un traité",
+        "C": "En organisant un pont aérien massif",
+        "D": "En évacuant Berlin-Ouest"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Combien de tonnes de marchandises ont été apportées à Berlin-Ouest durant le pont aérien ?",
+      "réponses": {
+        "A": "1 million",
+        "B": "500 000",
+        "C": "2,5 millions",
+        "D": "10 millions"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel a été le résultat principal de la crise de Berlin ?",
+      "réponses": {
+        "A": "Victoire de l’URSS",
+        "B": "Fusion des deux Allemagne",
+        "C": "Échec de l’URSS et succès du containment américain",
+        "D": "Fin de la guerre froide"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel pays a été créé à l’ouest de l’Allemagne en 1949 ?",
+      "réponses": {
+        "A": "RDA",
+        "B": "RFA",
+        "C": "Allemagne Unie",
+        "D": "République Socialiste Allemande"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la capitale de la RFA ?",
+      "réponses": {
+        "A": "Berlin-Est",
+        "B": "Bonn",
+        "C": "Munich",
+        "D": "Francfort"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel État a été créé à l’est de l’Allemagne en 1949 ?",
+      "réponses": {
+        "A": "RFA",
+        "B": "RDA",
+        "C": "République d’Allemagne Unie",
+        "D": "République Socialiste d’Europe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est la capitale de la RDA ?",
+      "réponses": {
+        "A": "Bonn",
+        "B": "Berlin-Est (Pankow)",
+        "C": "Hambourg",
+        "D": "Dresde"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle expression symbolise la séparation de l’Europe en deux blocs ?",
+      "réponses": {
+        "A": "Mur de Berlin",
+        "B": "Rideau d’acier",
+        "C": "Rideau de fer",
+        "D": "Ligne Maginot"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel terme décrit la politique américaine visant à empêcher l’expansion du communisme ?",
+      "réponses": {
+        "A": "Détente",
+        "B": "Isolationnisme",
+        "C": "Containment (endiguement)",
+        "D": "Libéralisme"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

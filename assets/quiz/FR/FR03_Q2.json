@@ -1,0 +1,126 @@
+{
+    "title": "Quiz 1",
+    "id": "FR001_Q1",
+    "questions": {
+        "question n°1": {
+            "question": "En dissertation, si le principe de « l’art pour l’art » représente la thèse, le principe « l’art pour le progrès » constituerait l’antithèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "La fonction didactique peut être considérée comme une thèse possible dans une dissertation sur l’art engagé.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "Le principe de « l’art pour l’art » nie toute valeur morale ou sociale à la littérature, ce qui en fait une position antithétique à l’art engagé.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Si la thèse est que la littérature deve avant tout divertir et émouvoir, l’antithèse pourrait affirmer qu’elle deve surtout dénoncer et instruire.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°5": {
+            "question": "La thèse peut affirmer que la littérature deve changer la société, et l’antithèse que la littérature n'ait aucun impact sur la société .",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "L’art pour le progrès comme antithèse nie toute dimension esthétique dans la littérature.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Dans une dissertation équilibrée, la thèse et l’antithèse devent s’opposer clairement sur le plan des fonctions de la littérature ; l’art engagé peut être la thèse de l’auteur et l’art didactique, son antithèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "L’art pour l’art et l’art pour le progrès sont toujours incompatibles et ne peuvent jamais être conciliés.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Une dissertation peut présenter la fonction ludique comme thèse, et la fonction engagée comme antithèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "La thèse dans une dissertation peut soutenir que la littérature n’a aucune fonction sociale ni morale, ce qui serait contesté par l’antithèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Sujet : « Le rôle de l’écrivain (...) est de combattre l’injustice... » La reformulation est : La mission de l’écrivain consiste à dénoncer les injustices sociales.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°12": {
+            "question": "Sujet sur le combat contre l'injustice : Le thème principal du sujet est la beauté du style littéraire.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Sujet sur le combat contre l'injustice : Ce sujet invite à discuter le rôle social de l’écrivain.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Sujet sur le combat contre l'injustice : L’auteur soutient ici une conception engagée de la littérature.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Sujet sur le combat contre l'injustice : Pour réfuter cette assertion, on pourra insister sur les fonctions esthétiques et ludiques.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

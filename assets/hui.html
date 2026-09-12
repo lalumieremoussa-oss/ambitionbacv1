@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Accueil - Ambition+BAC</title>
+  <!-- Font Awesome pour les icônes -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', Roboto, system-ui, -apple-system, sans-serif;
+      background: #f5f5f5;
+      color: #1e2a2f;
+      padding: 0 0 20px 0;
+    }
+    .container {
+      max-width: 420px;
+      margin: 0 auto;
+      background: #f8faf9;
+      box-shadow: 0 0 20px rgba(0,0,0,0.05);
+      min-height: 100vh;
+    }
+    /* AppBar simulée */
+    .app-bar {
+      background: #FF8C00;
+      padding: 16px 18px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: white;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .app-bar .title {
+      font-weight: 700;
+      font-size: 20px;
+      letter-spacing: 0.5px;
+    }
+    .app-bar .logo {
+      width: 32px;
+      height: 32px;
+      background: white;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .app-bar .logo img {
+      width: 24px;
+      height: 24px;
+      object-fit: contain;
+    }
+
+    /* Section title */
+    .section-title {
+      padding: 18px 18px 8px 18px;
+      font-weight: 800;
+      font-size: 18px;
+      color: #126B43;
+      letter-spacing: 0.2px;
+    }
+    .section-title .sub {
+      font-size: 12px;
+      color: #888;
+      font-weight: 400;
+      margin-top: 2px;
+    }
+
+    /* Carte calendrier */
+    .cal-card {
+      margin: 16px 16px 8px 16px;
+      border-radius: 24px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(18, 107, 67, 0.14);
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+    .cal-card:hover {
+      transform: scale(1.01);
+    }
+    .cal-card .gradient {
+      background: linear-gradient(135deg, #FF8C00 0%, #FF8C00 46%, #2D8A5C 48%, #126B43 100%);
+      padding: 20px;
+      color: white;
+    }
+    .cal-card .top-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+    .cal-card .icon-box {
+      width: 42px;
+      height: 42px;
+      background: rgba(255,255,255,0.18);
+      border-radius: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+    }
+    .cal-card .label {
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 1px;
+      flex: 1;
+    }
+    .cal-card .small-arrow {
+      width: 32px;
+      height: 32px;
+      background: rgba(255,255,255,0.82);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #126B43;
+      font-size: 16px;
+    }
+    .cal-card .main-title {
+      font-weight: 900;
+      font-size: 22px;
+      margin-bottom: 6px;
+    }
+    .cal-card .sub-text {
+      font-size: 13px;
+      opacity: 0.88;
+      line-height: 1.35;
+    }
+    .cal-card .date-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.15);
+      padding: 8px 14px;
+      border-radius: 13px;
+      margin-top: 14px;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .cal-card .event-card {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.16);
+      border-radius: 16px;
+      padding: 13px;
+      margin-top: 16px;
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+    }
+    .cal-card .event-card .icon {
+      font-size: 20px;
+    }
+    .cal-card .event-card .event-detail .event-type {
+      font-size: 11px;
+      opacity: 0.72;
+      font-weight: 600;
+    }
+    .cal-card .event-card .event-detail .event-name {
+      font-weight: 800;
+    }
+    .cal-card .event-card .event-detail .event-date {
+      font-size: 12px;
+      opacity: 0.82;
+    }
+    .cal-card .footer-link {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 5px;
+      margin-top: 14px;
+      font-weight: 700;
+      font-size: 12px;
+      opacity: 0.95;
+    }
+
+    /* Rappels */
+    .rappel-card {
+      margin: 6px 16px;
+      background: white;
+      border-radius: 21px;
+      box-shadow: 0 5px 13px rgba(0,0,0,0.12);
+      overflow: hidden;
+      transition: box-shadow 0.2s;
+      cursor: pointer;
+    }
+    .rappel-card:hover {
+      box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    }
+    .rappel-card .inner {
+      padding: 17px;
+      display: flex;
+      gap: 13px;
+      align-items: flex-start;
+    }
+    .rappel-card .icon-round {
+      width: 46px;
+      height: 46px;
+      background: #EAF6EF;
+      border-radius: 15px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #126B43;
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+    .rappel-card .content {
+      flex: 1;
+    }
+    .rappel-card .matiere {
+      font-weight: 900;
+      font-size: 13px;
+      color: #126B43;
+      letter-spacing: 0.6px;
+    }
+    .rappel-card .citation {
+      font-size: 15px;
+      font-style: italic;
+      font-weight: 500;
+      line-height: 1.35;
+      margin: 8px 0 4px 0;
+    }
+    .rappel-card .auteur {
+      font-weight: 600;
+      font-size: 12px;
+      color: #555;
+    }
+    .rappel-card .source {
+      font-size: 11px;
+      color: #999;
+    }
+    .rappel-card .read-more {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      gap: 4px;
+      margin-top: 10px;
+      font-weight: 700;
+      font-size: 11px;
+      color: #126B43;
+    }
+    .rappel-card .read-more i {
+      font-size: 14px;
+    }
+
+    /* Épreuve du jour */
+    .epreuve-card {
+      margin: 6px 16px;
+      border-radius: 21px;
+      overflow: hidden;
+      background: linear-gradient(135deg, #126B43, #169B62);
+      box-shadow: 0 6px 15px rgba(18, 107, 67, 0.16);
+      cursor: pointer;
+    }
+    .epreuve-card .inner {
+      padding: 18px;
+      color: white;
+    }
+    .epreuve-card .top {
+      display: flex;
+      justify-content: space-between;
+      font-weight: 900;
+      font-size: 12px;
+      letter-spacing: 1px;
+    }
+    .epreuve-card .citation {
+      font-style: italic;
+      font-size: 16px;
+      line-height: 1.4;
+      margin: 12px 0 8px 0;
+    }
+    .epreuve-card .auteur {
+      opacity: 0.78;
+      font-weight: 600;
+      font-size: 12px;
+    }
+
+    /* Vidéo */
+    .video-container {
+      margin: 18px 16px 16px 16px;
+    }
+    .video-container .title {
+      font-weight: 800;
+      font-size: 18px;
+      color: #126B43;
+      margin-bottom: 8px;
+    }
+    .video-placeholder {
+      background: #000;
+      border-radius: 20px;
+      overflow: hidden;
+      aspect-ratio: 16/9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      box-shadow: 0 5px 12px rgba(0,0,0,0.12);
+      cursor: pointer;
+    }
+    .video-placeholder .play-icon {
+      color: rgba(255,255,255,0.7);
+      font-size: 58px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    .video-placeholder .mute-indicator {
+      position: absolute;
+      bottom: 9px;
+      right: 9px;
+      background: rgba(0,0,0,0.5);
+      padding: 6px 10px;
+      border-radius: 10px;
+      color: white;
+      font-size: 16px;
+    }
+    .video-placeholder .label {
+      color: white;
+      font-size: 14px;
+    }
+    .video-caption {
+      font-size: 11px;
+      color: #999;
+      margin-top: 6px;
+      padding-left: 2px;
+    }
+
+    /* Animation simple pour les cartes (hover) */
+    .animated-card {
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .animated-card:hover {
+      transform: translateY(-2px);
+    }
+
+    /* Badge "indisponible" */
+    .empty-state {
+      background: white;
+      border-radius: 18px;
+      padding: 18px;
+      margin: 6px 16px;
+      color: #888;
+      text-align: center;
+      font-size: 14px;
+    }
+
+    /* Responsive fine */
+    @media (max-width: 420px) {
+      .cal-card .main-title { font-size: 20px; }
+      .rappel-card .citation { font-size: 14px; }
+    }
+
+    /* Séparation */
+    .spacer { height: 8px; }
+  </style>
+</head>
+<body>
+<div class="container">
+
+  <!-- App Bar simulée -->
+  <div class="app-bar">
+    <div></div>
+    <div class="title">ACCUEIL</div>
+    <div class="logo">
+      <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23FF8C00'%3E%3Cpath d='M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5'/%3E%3C/svg%3E" alt="logo">
+    </div>
+  </div>
+
+  <!-- Calendrier -->
+  <div class="cal-card animated-card" onclick="alert('Ouvrir calendrier complet (simulé)')">
+    <div class="gradient">
+      <div class="top-row">
+        <div class="icon-box"><i class="fas fa-calendar-alt"></i></div>
+        <span class="label">CALENDRIER SCOLAIRE</span>
+        <div class="small-arrow"><i class="fas fa-arrow-right"></i></div>
+      </div>
+      <div class="main-title">1er Trimestre</div>
+      <div class="sub-text">Fin du trimestre</div>
+      <div class="date-chip"><i class="fas fa-clock"></i> 23 décembre 2026</div>
+      <!-- Prochain événement -->
+      <div class="event-card">
+        <div class="icon"><i class="fas fa-calendar-check"></i></div>
+        <div class="event-detail">
+          <div class="event-type">Prochaine date</div>
+          <div class="event-name">Vacances de Noël</div>
+          <div class="event-date">23 décembre 2026</div>
+        </div>
+      </div>
+      <div class="footer-link">
+        <span>Voir le calendrier complet</span>
+        <i class="fas fa-arrow-right"></i>
+      </div>
+    </div>
+  </div>
+
+  <!-- Titre Rappels -->
+  <div class="section-title">
+    RAPPELS DE LA SEMAINE
+    <div class="sub">Citation du jour par matière</div>
+  </div>
+
+  <!-- Rappel 1 : Français (type A) -->
+  <div class="rappel-card animated-card" onclick="alert('Ouvrir rappel complet (simulé)')">
+    <div class="inner">
+      <div class="icon-round"><i class="fas fa-book-open"></i></div>
+      <div class="content">
+        <div class="matiere">FRANÇAIS</div>
+        <div class="citation">« Lire une œuvre littéraire, c'est être amené à se reconnaître. »</div>
+        <div class="auteur">Marcel Proust</div>
+        <div class="source">Du côté de chez Swann</div>
+        <div class="read-more">
+          <span>Lire le rappel</span>
+          <i class="fas fa-arrow-right"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Rappel 2 : Géographie (type B) -->
+  <div class="rappel-card animated-card" onclick="alert('Ouvrir rappel complet (simulé)')">
+    <div class="inner">
+      <div class="icon-round"><i class="fas fa-globe-africa"></i></div>
+      <div class="content">
+        <div class="matiere">GÉOGRAPHIE</div>
+        <div class="citation">« La Terre est un village global. »</div>
+        <div class="auteur">Marshall McLuhan</div>
+        <div class="source">Pour comprendre les médias</div>
+        <div class="read-more">
+          <span>Lire le rappel</span>
+          <i class="fas fa-arrow-right"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Épreuve du jour (dimanche simulé) — on la cache si on est pas dimanche, mais ici on la montre pour l'exemple -->
+  <div class="epreuve-card animated-card" onclick="alert('Ouvrir résolution de l\'épreuve (simulé)')">
+    <div class="inner">
+      <div class="top">
+        <span>ÉPREUVE DU JOUR</span>
+        <i class="fas fa-arrow-right"></i>
+      </div>
+      <div class="citation">« La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui. »</div>
+      <div class="auteur">Déclaration des Droits de l'Homme et du Citoyen</div>
+    </div>
+  </div>
+
+  <!-- Vidéo -->
+  <div class="video-container">
+    <div class="title">VIDÉO DE LA SEMAINE</div>
+    <div class="video-placeholder" onclick="alert('Ouvrir vidéo en plein écran (simulé)')">
+      <div class="play-icon"><i class="fas fa-play-circle"></i></div>
+      <div style="color:rgba(255,255,255,0.3); font-size:12px; position:absolute; bottom:40px;">Vidéo de présentation</div>
+      <div class="mute-indicator"><i class="fas fa-volume-mute"></i></div>
+    </div>
+    <div class="video-caption">Appuyez sur la vidéo pour l’agrandir</div>
+  </div>
+
+</div>
+
+<!-- Petit script pour simuler un peu d'interaction (rien de spécial) -->
+<script>
+  // Aucun besoin, tout est statique
+  console.log('Maquette Accueil Ambition+BAC');
+</script>
+</body>
+</html>

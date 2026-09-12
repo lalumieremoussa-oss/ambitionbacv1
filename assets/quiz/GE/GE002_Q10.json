@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 10",
+  "id": "GE002_Q10",
+  "questions": {
+    "question n°1": {
+      "question": "Quel atout géographique favorise le commerce ivoirien ?",
+      "réponses": {
+        "A": "L’absence totale de frontières terrestres avec ses voisins africains",
+        "B": "La position en zone désertique favorable au troc nomade",
+        "C": "La proximité de la Cordillère des Andes pour des échanges miniers",
+        "D": "L’ouverture sur l’extérieur grâce à la façade maritime et sa position de carrefour"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quel secteur d’activité est principalement dominé par les commerçants non nationaux ?",
+      "réponses": {
+        "A": "La vente de produits forestiers dans les zones rurales profondes",
+        "B": "L’exploitation des mines souterraines et des circuits pétroliers artisanaux",
+        "C": "Le commerce maritime de haute mer assuré par des marins locaux",
+        "D": "Le commerce intérieur, notamment les circuits de distribution agro-alimentaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle maison de commerce est présente dans les circuits intérieurs ?",
+      "réponses": {
+        "A": "La Société Nationale d’Approvisionnement Agricole de Gagnoa",
+        "B": "L’Union des Marchés Communautaires d’Abobo",
+        "C": "Le Marché International d’Échange de Grand-Béréby",
+        "D": "SOCOCE, qui distribue des produits industriels à l’intérieur du pays"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quel est le principal moteur du commerce extérieur ivoirien ?",
+      "réponses": {
+        "A": "L’importation des produits de luxe pour la classe moyenne montante",
+        "B": "La contrebande de marchandises artisanales issues de la CEDEAO",
+        "C": "Le développement des zones économiques maritimes artisanales",
+        "D": "Les exportations agricoles telles que le café, le cacao et le bois"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la part du café-cacao dans les exportations ivoiriennes ?",
+      "réponses": {
+        "A": "75% des exportations totales du pays en valeur brute",
+        "B": "9% seulement, mais à très forte valeur ajoutée par le raffinage",
+        "C": "17% répartis entre 12 grandes entreprises de commerce",
+        "D": "41% des exportations, faisant de ce secteur une source majeure de devises"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle zone du monde est le premier partenaire commercial de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "L’Europe avec un volume d’échange de plus de 52,1%, France en tête",
+        "B": "L’Amérique latine, notamment le Brésil et la Colombie",
+        "C": "L’Asie du Sud, dirigée par les accords avec la Birmanie",
+        "D": "L’Australie et ses partenaires du Pacifique, grâce au commerce maritime"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la balance commerciale ivoirienne est-elle excédentaire ?",
+      "réponses": {
+        "A": "Car la Côte d’Ivoire produit tout ce dont elle a besoin sans dépendre de l’étranger",
+        "B": "Parce que les exportations agricoles et minières rapportent plus que les importations",
+        "C": "En raison des transferts d’argent massifs des diasporas ivoiriennes",
+        "D": "Parce que les dépenses publiques sont financées uniquement par l’agriculture vivrière"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel type de produit l’Asie fournit-elle principalement à la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Du riz et des appareils électroménagers",
+        "B": "Des vêtements en laine fabriqués au Pakistan et en Birmanie",
+        "C": "Des armes et des avions de chasse destinés aux zones rurales",
+        "D": "Des produits artisanaux sculptés à la main en provenance du Tibet"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle structure est chargée de collecter et d’informer sur le commerce extérieur ?",
+      "réponses": {
+        "A": "L’OIC (Office Ivoirien de la Coopération Marchande)",
+        "B": "La Chambre de Commerce et d’Industrie de Côte d’Ivoire (CCIA)",
+        "C": "L’Administration des Flux Économiques Unifiés de l’Ouest",
+        "D": "Le Marché Régional des Produits Ruraux du Grand Centre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle faiblesse nuit au développement du commerce intérieur ?",
+      "réponses": {
+        "A": "Le refus des commerçants de respecter les jours fériés dans les zones rurales",
+        "B": "La mauvaise organisation du secteur, dominé par l’informel",
+        "C": "La décentralisation trop poussée des grandes entreprises commerciales",
+        "D": "Le gel volontaire des prix pour protéger les investisseurs étrangers"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle solution est proposée pour améliorer la consommation locale ?",
+      "réponses": {
+        "A": "Augmenter le prix des produits étrangers pour les rendre inaccessibles",
+        "B": "Faire la promotion du slogan « Consommer ivoirien » et améliorer la qualité locale",
+        "C": "Rendre obligatoire l’achat d’un panier de produits nationaux chaque mois",
+        "D": "Réduire les taxes uniquement sur les produits agricoles transformés à l’étranger"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Pourquoi faut-il transformer localement les matières premières ?",
+      "réponses": {
+        "A": "Pour créer plus de valeur ajoutée, réduire les importations et accroître les devises",
+        "B": "Pour faire de la Côte d’Ivoire un pays exclusivement tourné vers le secteur artisanal",
+        "C": "Pour garantir l’autosuffisance alimentaire de tous les foyers ruraux",
+        "D": "Pour remplacer les universités commerciales par des centres d’agriculture intensive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel est un problème structurel du commerce ivoirien à l'international ?",
+      "réponses": {
+        "A": "Une spécialisation excessive dans le commerce de poissons séchés",
+        "B": "L’absence de relations diplomatiques avec les pays de l’OPEP",
+        "C": "La détérioration des termes de l’échange pour les matières premières",
+        "D": "Le manque de culture commerciale chez les chefs de village"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Pourquoi le commerce ivoirien dépend-il encore de capitaux étrangers ?",
+      "réponses": {
+        "A": "Car les banques ivoiriennes n’ont pas de licence internationale valide",
+        "B": "Car les producteurs refusent de financer eux-mêmes leurs exportations",
+        "C": "Parce que l’épargne nationale est faible et les investissements locaux limités",
+        "D": "Car les coopératives agricoles ont un monopole total sur les devises"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle structure facilite l’exportation des produits agricoles ?",
+      "réponses": {
+        "A": "Le Comité National des Foires et Marchés de Côte d’Ivoire",
+        "B": "L’OCPV (Office d’Aide à la Commercialisation des Produits Vivriers)",
+        "C": "Le Programme National de Répartition des Produits à l’Export (PNRPE)",
+        "D": "L’Agence Africaine de la Transformation Solidaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel facteur rend la distribution commerciale inefficace ?",
+      "réponses": {
+        "A": "L’excès de véhicules de livraison causant des embouteillages",
+        "B": "La préférence des consommateurs pour les produits en vrac",
+        "C": "Les circuits de distribution mal organisés et insuffisants",
+        "D": "Le manque d’électricité dans les magasins de grande distribution"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle solution structurelle améliorerait les échanges avec les pays de la sous-région ?",
+      "réponses": {
+        "A": "Imposer des taxes supplémentaires sur les produits CEDEAO",
+        "B": "Diversifier les partenaires commerciaux et promouvoir l’intégration régionale",
+        "C": "Réserver le commerce sous-régional uniquement aux produits transformés",
+        "D": "Remplacer les devises utilisées par une monnaie communautaire fictive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle action peut améliorer les compétences commerciales locales ?",
+      "réponses": {
+        "A": "Imposer des tests de moralité à tous les commerçants en activité",
+        "B": "Mettre en place des formations qualifiantes et encadrer les commerçants nationaux",
+        "C": "Déléguer l’organisation des marchés aux chefs traditionnels uniquement",
+        "D": "Réduire la scolarisation au profit de l’apprentissage direct du troc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est un défi majeur face aux produits locaux ?",
+      "réponses": {
+        "A": "Leur non-conformité avec les coutumes religieuses des régions du Nord",
+        "B": "Leur surcharge fiscale uniquement en période électorale",
+        "C": "Leur dépendance exclusive au coton tissé localement",
+        "D": "Leur faible compétitivité face aux produits étrangers souvent moins chers"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Pourquoi faut-il moderniser les circuits de distribution ?",
+      "réponses": {
+        "A": "Pour permettre la livraison par drones dans les villages reculés",
+        "B": "Pour limiter le rôle des commerçants traditionnels au profit des entreprises étrangères",
+        "C": "Pour améliorer l'efficacité, réduire les pertes et mieux approvisionner le marché",
+        "D": "Pour supprimer tous les intermédiaires et favoriser le commerce en ligne direct"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

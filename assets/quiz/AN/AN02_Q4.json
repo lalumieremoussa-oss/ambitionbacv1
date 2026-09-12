@@ -1,0 +1,359 @@
+{
+  "title": "Quiz 4",
+  "id": "AN02_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Choisissez la réponse la plus appropriée à la question : \"How are you?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My name is fine.",
+        "B": "I has fine.",
+        "C": "You are fine.",
+        "D": "I am fine."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Choisissez la question qui correspond à la réponse : \"My name is Konan.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Who is Konan?",
+        "B": "What is your name?",
+        "C": "How is Konan?",
+        "D": "Where is your name?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Complétez le dialogue : A: Good morning, teacher. B: _____",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good evening, student.",
+        "B": "Good night, student.",
+        "C": "Hello.",
+        "D": "Good morning."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Choisissez la question qui demande le nom d'un homme (utilisez His dans la réponse).",
+      "type": "QCM",
+      "réponses": {
+        "A": "What is your sister's name?",
+        "B": "What is her friend's name?",
+        "C": "What is his name?",
+        "D": "What is my name?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Choisissez la réponse à la question : \"Are you a student?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Yes, I am a student.",
+        "B": "Yes, I have a student.",
+        "C": "No, I is a teacher.",
+        "D": "Yes, my name is a student."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est la réponse appropriée à la salutation : \"Good night, Mariam.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good morning.",
+        "B": "Good night.",
+        "C": "Good evening.",
+        "D": "How are you?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Choisissez la question qui demande un prénom.",
+      "type": "QCM",
+      "réponses": {
+        "A": "What is your surname?",
+        "B": "What is your first name?",
+        "C": "What is your family?",
+        "D": "What is your nickname?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Choisissez la question dont la réponse utilise le déterminant possessif \"Her\".",
+      "type": "QCM",
+      "réponses": {
+        "A": "What is your brother's name?",
+        "B": "Is this your car?",
+        "C": "What is his sister's name?",
+        "D": "What is her name?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Complétez la phrase : I am Aminata. _____ name is Traoré.",
+      "type": "QCM",
+      "réponses": {
+        "A": "My first",
+        "B": "My family",
+        "C": "Your first",
+        "D": "His family"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel pronom interrogatif (question word) utiliseriez-vous pour demander où se trouve quelqu'un ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "What",
+        "B": "Who",
+        "C": "How",
+        "D": "Where"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Répondez à la question : \"What is your name?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "am",
+        "name",
+        "the",
+        "is",
+        "John",
+        "I",
+        "book"
+      ],
+      "bonne réponse": "My name is John"
+    },
+    "question n°12": {
+      "question": "Répondez à la question : \"How are you?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fine",
+        "I",
+        "is",
+        "am",
+        "you",
+        "sad"
+      ],
+      "bonne réponse": "I am fine"
+    },
+    "question n°13": {
+      "question": "Formulez la question qui donne cette réponse : \"His name is Ali.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "are",
+        "is",
+        "her",
+        "his",
+        "name",
+        "My",
+        "the"
+      ],
+      "bonne réponse": "What is his name"
+    },
+    "question n°14": {
+      "question": "Complétez la réponse à : \"Are you a teacher?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "student",
+        "not",
+        "am",
+        "a",
+        "you",
+        "are",
+        "I",
+        "teacher"
+      ],
+      "bonne réponse": "I am a student"
+    },
+    "question n°15": {
+      "question": "Formulez la question pour la réponse : \"My family name is Traoré.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "your",
+        "name",
+        "family",
+        "My",
+        "first",
+        "Traoré",
+        "What",
+        "are",
+        "have"
+      ],
+      "bonne réponse": "What is your family name"
+    },
+    "question n°16": {
+      "question": "Complétez le dialogue : A: Good evening, Sir. B: _____",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "morning",
+        "evening",
+        "night"
+      ],
+      "bonne réponse": "Good evening"
+    },
+    "question n°17": {
+      "question": "Répondez à la question : \"What is her nickname?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Her",
+        "nickname",
+        "is",
+        "Lulu",
+        "My",
+        "his",
+        "are",
+        "the"
+      ],
+      "bonne réponse": "Her nickname is Lulu"
+    },
+    "question n°18": {
+      "question": "Traduisez la question : \"D'où viens-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "your",
+        "from",
+        "What",
+        "Where",
+        "is",
+        "you",
+        "name"
+      ],
+      "bonne réponse": "Where are you from"
+    },
+    "question n°19": {
+      "question": "Complétez la réponse à : \"Where are you?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "am",
+        "school",
+        "the",
+        "class",
+        "You",
+        "are",
+        "in",
+        "at",
+        "classroom",
+        "have"
+      ],
+      "bonne réponse": "I am in the classroom"
+    },
+    "question n°20": {
+      "question": "Formulez la question pour la réponse : \"My sister has a phone.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "Who",
+        "What",
+        "has",
+        "a",
+        "phone",
+        "you",
+        "have"
+      ],
+      "bonne réponse": "Who has a phone"
+    },
+    "question n°21": {
+      "question": "Complétez le dialogue : A: Hi! B: _____",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hello",
+        "is"
+      ],
+      "bonne réponse": "Hello"
+    },
+    "question n°22": {
+      "question": "Répondez à la question : \"Is he sad?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "He",
+        "am",
+        "sad",
+        "she",
+        "is",
+        "happy"
+      ],
+      "bonne réponse": "He is sad"
+    },
+    "question n°23": {
+      "question": "Formulez la question pour la réponse : \"It is my car.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "What",
+        "your",
+        "car",
+        "my",
+        "name",
+        "it",
+        "book"
+      ],
+      "bonne réponse": "What is it"
+    },
+    "question n°24": {
+      "question": "Répondez à la question : \"What is your first name?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "My",
+        "surname",
+        "first",
+        "name",
+        "is",
+        "Aminata",
+        "family",
+        "your",
+        "at"
+      ],
+      "bonne réponse": "My first name is Aminata"
+    },
+    "question n°25": {
+      "question": "Formulez la question pour la réponse : \"We are good students.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "We",
+        "Are",
+        "teacher",
+        "you",
+        "good",
+        "students",
+        "is",
+        "the"
+      ],
+      "bonne réponse": "Are you good students"
+    },
+    "question n°26": {
+      "question": "Quelle question poser pour obtenir cette réponse : \"It is a pen.\"",
+      "type": "short_answer",
+      "bonne réponse": "What is it?"
+    },
+    "question n°27": {
+      "question": "Quel pronom interrogatif est utilisé pour demander qui est la personne ?",
+      "type": "short_answer",
+      "bonne réponse": "Who"
+    },
+    "question n°28": {
+      "question": "Comment salueriez-vous votre ami si vous le rencontrez à 16h00 ?",
+      "type": "short_answer",
+      "bonne réponse": "Good afternoon"
+    },
+    "question n°29": {
+      "question": " Répondez \"What is your name?\" (Moussa)",
+      "type": "short_answer",
+      "bonne réponse": "My name is Moussa"
+    },
+    "question n°30": {
+      "question": "Traduisez la question : \"Comment vas-tu ?\"",
+      "type": "short_answer",
+      "bonne réponse": "How are you?"
+    }
+  }
+}

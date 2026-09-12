@@ -1,0 +1,314 @@
+{
+  "title": "Quiz 1",
+  "id": "SVT002_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Dans la phrase suivante :\nLe nerf est constitué de plusieurs ..., regroupées en ...\nQuels sont les mots manquants ?",
+      "réponses": {
+        "A": "cellules – nœuds",
+        "B": "fibres nerveuses – faisceaux",
+        "C": "synapses – réseaux",
+        "D": "neurones – branches"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Complétez :\nCertaines fibres sont ..., d'autres ne le sont pas. Le neurone est une [……] nerveuse",
+      "réponses": {
+        "A": "Myélinisées – fibre.",
+        "B": "isolées - cellule",
+        "C": "myélinisées – cellule",
+        "D": "Isolées – fibre"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Choisis la bonne réponse.",
+      "réponses": {
+        "A": "Épinèvre : entoure l’ensemble du nerf",
+        "B": "Périnèvre : entoure chaque faisceau de fibres",
+        "C": "Endonèvre : entoure chaque fibre nerveuse",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle est la structure représentée par la lettre a?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Noyau",
+        "B": "Gaine de myéline",
+        "C": "Axone",
+        "D": "Dendrite"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la structure représentée par la lettre b?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Axone",
+        "B": "Dendrite",
+        "C": "Bouton synaptique",
+        "D": "Nœud de Ranvier"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est la structure représentée par la lettre C?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Collatorale",
+        "B": "Corps cellulaire",
+        "C": "Terminaison axonale",
+        "D": "Nœud de Ranvier"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quelle est la structure représentée par la lettre d?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Collatorale",
+        "B": "Synapse neuro-neuronique",
+        "C": "Cellule de Schwann",
+        "D": "Dendrite"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la structure représentée par la lettre e?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Arborisation terminale",
+        "B": "Dendrite",
+        "C": "Noyau",
+        "D": "bouton synaptique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle est la partie du neurone désignée par la lettre f?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Arborisation terminale",
+        "B": "Corps cellulaire",
+        "C": "Substance blanche",
+        "D": "Synapse"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle est la structure représentée par la lettre g?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Dendrite",
+        "B": "Axone",
+        "C": "Gaine de myéline",
+        "D": "Nœud de Ranvier"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle est la partie du neurone désignée par la lettre h?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Corps cellulaire",
+        "B": "Axone",
+        "C": "Arborisation terminale",
+        "D": "Collatorale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Expérience 1 : Deux microélectrodes sont posées sur une fibre nerveuse au repos. Que montre l’oscillographe ?",
+      "réponses": {
+        "A": "Une chute brutale de potentiel jusqu’à -70 mV suivie d’une phase de plateau",
+        "B": "Une inversion transitoire de potentiel liée à un influx nerveux",
+        "C": "Une différence de potentiel de -70 mV entre les deux électrodes",
+        "D": "Une différence de potentiel (ddp) de 0 mV entre les électrodes car elles sont toutes deux à l’extérieur"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "La ddp de 0 mV enregistrée dans l’expérience précédente est appelée :",
+      "réponses": {
+        "A": "Le potentiel d’action, car aucun gradient de concentration n’est observé",
+        "B": "Potentiel de repos ou de référence mesuré à la surface de la fibre",
+        "C": "Potentiel de membrane qui reste constant dans toute fibre non excitée",
+        "D": "Potentiel zéro ou de référence car les deux électrodes baignent dans le même milieu extracellulaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Expérience 2 : Une des microélectrodes est introduite à l’intérieur de la fibre. Que constate-t-on ?",
+      "réponses": {
+        "A": "Le potentiel augmente progressivement vers +70 mV par diffusion d’ions",
+        "B": "La ddp chute d’abord à 0 mV puis se stabilise à +30 mV",
+        "C": "Le potentiel chute brusquement à -70 mV et reste stable à cette valeur",
+        "D": "Toutes ces propositions sont exactes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Le potentiel de -70 mV observé à l’expérience 2 correspond à :",
+      "réponses": {
+        "A": "Un potentiel d’action généré par l’excitation spontanée de la fibre",
+        "B": "Le potentiel de repos ou de membrane, état stable de la cellule non excitée",
+        "C": "Le potentiel zéro qui s’établit après ouverture des canaux ioniques",
+        "D": "Le potentiel de seuil atteint lors de la stimulation efficace"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Expérience 3 : Une stimulation efficace est appliquée à la fibre déjà sondée (exp. 2). Que mesure-t-on ?",
+      "réponses": {
+        "A": "Un potentiel d’action monophasique à inversion prolongée",
+        "B": "Un potentiel de repos amplifié en raison d’un afflux d’ions",
+        "C": "Un potentiel d’action diphasique, avec inversion et retour à la normale",
+        "D": "Une augmentation linéaire du potentiel membranaire sans retour"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Le potentiel d’action est constitué de :",
+      "réponses": {
+        "A": "Une stimulation suivie immédiatement de dépolarisation",
+        "B": "Un temps de latence, une dépolarisation, une repolarisation et une hyperpolarisation",
+        "C": "Un artefact de stimulation, un temps de latence, une dépolarisation, une repolarisation et une hyperpolarisation",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Le potentiel zéro observé dans l’expérience 1 signifie que :",
+      "réponses": {
+        "A": "Il y a un équilibre entre les charges intracellulaires et extracellulaires",
+        "B": "Le courant d’influx a atteint sa valeur maximale",
+        "C": "Toute la surface de l’axone est au même potentiel électrique",
+        "D": "Aucune des électrodes ne détecte un gradient membranaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Le potentiel de membrane au repos indique que :",
+      "réponses": {
+        "A": "Les charges intracellulaires et extracellulaires sont égales",
+        "B": "L’intérieur de la fibre est électropositif par rapport à l’extérieur",
+        "C": "La fibre est électriquement neutre dans son état basal",
+        "D": "L’intérieur de la fibre est négatif, l’extérieur positif, traduisant une polarisation"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "La membrane au repos est dite :",
+      "réponses": {
+        "A": "Neutre car elle ne laisse passer aucun ion",
+        "B": "Polarisée, car une ddp existe entre l’intérieur et l’extérieur",
+        "C": "Saturée en ions positifs, empêchant toute diffusion",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Lors d’une stimulation efficace d’une fibre nerveuse, on observe :",
+      "réponses": {
+        "A": "Une augmentation continue du potentiel sans retour",
+        "B": "Une inversion de charges : intérieur devient positif, extérieur négatif",
+        "C": "La propagation d’une onde appelée influx nerveux",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "La dépolarisation est observée :",
+      "réponses": {
+        "A": "Lors de la stimulation infraliminaire, sans franchissement du seuil",
+        "B": "Lors de l’arrivée de l’influx nerveux sous l’électrode R1, avec inversion de potentiel",
+        "C": "Quand l’axone cesse de conduire l’influx nerveux",
+        "D": "Lors du retour passif au potentiel de repos"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "La repolarisation correspond à :",
+      "réponses": {
+        "A": "L’entrée rapide de sodium pour rétablir le repos",
+        "B": "La stabilisation des charges grâce à la pompe Na+/K+",
+        "C": "Le départ de l’onde de dépolarisation sous l’électrode",
+        "D": "La diffusion passive de tous les ions vers l’extérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "L’hyperpolarisation est définie comme :",
+      "réponses": {
+        "A": "La repolarisation exagérée due à une entrée continue de Na+",
+        "B": "Une repolarisation exagérée provoquée par une augmentation d’activité synaptique au repos.",
+        "C": "Une repolarisation exagérée par laquelle l’intérieur devient encore plus négatif que le potentiel de repos",
+        "D": "Un retour rapide au potentiel d’action en l’absence de stimulation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Le potentiel d’action monophasique est observé :",
+      "réponses": {
+        "A": "Lorsque les deux électrodes sont placées à l’intérieur de la fibre",
+        "B": "Lorsqu’une seule électrode est utilisée pour mesurer l’influx",
+        "C": "Quand les deux électrodes sont sur la fibre avant stimulation",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°26": {
+      "question": "La dépolarisation est provoquée par :",
+      "réponses": {
+        "A": "L’ouverture des canaux K+ provoquant l’entrée massive des ions potassium (K+) dans l’axone",
+        "B": "L’ouverture des canaux Na+ provoquant l’entrée massive des ions sodium (Na+) dans la fibre",
+        "C": "L’ouverture des canaux K+ provoquant la sortie rapide des ions potassium (K+) vers l’intérieur",
+        "D": "L’ouverture des canaux Na+ provoquant la sortie massif des ions sodium (Na+) de la fibre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "La repolarisation est causée par :",
+      "réponses": {
+        "A": "La fermeture des canaux K+ et l’ouverture des canaux Na+ et l’entrée des ions Na+",
+        "B": "La fermeture des canaux Na+ et l’ouverture des canaux K+, provoquant la sortie des ions K+",
+        "C": "Le maintien des canaux K+ fermés et entrée de Cl−",
+        "D": "L’action du calcium pour rétablir l’équilibre de charge"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "L’hyperpolarisation est due au fait que les canaux K+ restent ouverts. Il se produit alors une sortie [a] d’ions K+. Le retour au potentiel de [b] se fait par la fermeture des canaux K+ voltage-dépendants et par l’action accélérée de [c].",
+      "réponses": {
+        "A": "a : supplémentaire.    b : repos.     c : pompe ionique",
+        "B": "a : supplémentaire.    b : membrane.      c : pompe Na+/K+",
+        "C": "a : supplémentaire.       b : base.       c : pompe électrogénique",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Le potentiel de repos de -70 mV mesuré à l’intérieur d’une fibre nerveuse est principalement dû :",
+      "réponses": {
+        "A": "À une concentration égale d’ions Na⁺ et K⁺ de part et d’autre de la membrane, induisant une neutralité électrique globale.",
+        "B": "À une sortie continue des ions Na⁺ par des canaux sodiques toujours ouverts, créant un excès de charges positives à l’extérieur.",
+        "C": "À une perméabilité sélective de la membrane, favorisant la sortie des ions K⁺ selon leur gradient de concentration.",
+        "D": "À une entrée passive de Cl⁻, rendant l’intérieur excessivement négatif par inversion instantanée du potentiel membranaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Au repos, quelle combinaison décrit le mieux l’état ionique de part et d’autre de la membrane d’un neurone ?",
+      "réponses": {
+        "A": "[Na⁺]↑ à l’intérieur, [K⁺]↑ à l’extérieur, membrane perméable surtout aux Na⁺.",
+        "B": "[Na⁺]↑ à l’extérieur, [K⁺]↑ à l’intérieur, membrane plus perméable aux K⁺ qu’aux Na⁺.",
+        "C": "[K⁺] équilibré de part et d’autre, avec une perméabilité nulle pour tous les ions.",
+        "D": "[Na⁺] et [K⁺] identiques mais piégés par la pompe Na⁺/K⁺ active uniquement durant l’excitation."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

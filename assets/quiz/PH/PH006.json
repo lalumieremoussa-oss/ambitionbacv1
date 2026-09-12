@@ -1,0 +1,763 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "PH006_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème \"la valeur de la philosophie\". On considère le sujet suivant : \"La philosophie est-elle un luxe ?\". Que signifie \"considérer la philosophie comme un luxe\" ?",
+      "réponses": {
+        "A": "Une activité essentielle et indispensable pour l'épanouissement intégral de l'être humain, sans laquelle la société ne pourrait progresser de manière significative et durable.",
+        "B": "Une discipline universitaire complexe et abstraite, réservée à une élite intellectuelle, qui permet d'accéder à des connaissances supérieures sans application directe au quotidien.",
+        "C": "Une activité superflue, non nécessaire ou inutile, qui n'apporte pas de solutions concrètes aux préoccupations pratiques et immédiates des hommes dans la vie quotidienne.",
+        "D": "Un investissement coûteux en temps et en ressources, mais dont les bénéfices à long terme sont indéniables pour le développement de la pensée critique et de la sagesse universelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le \"scepticisme\" développé par la philosophie, selon l'Argument (la philosophie développe chez l’homme le scepticisme.), est caractérisé comme :",
+      "réponses": {
+        "A": "Une méthode rigoureuse de vérification des faits, conduisant à une connaissance certaine et incontestable de la vérité universelle et objective.",
+        "B": "Un doute permanent qui plonge la conscience de l'homme dans la contradiction, l'empêchant de s'orienter ou de trouver des certitudes stables dans le monde.",
+        "C": "Une attitude de prudence intellectuelle, incitant à la remise en question constructive des dogmes pour favoriser l'innovation et le progrès scientifique continu.",
+        "D": "Un refus catégorique de toute forme de croyance ou de connaissance, conduisant à une absence totale de jugement et à une passivité intellectuelle radicale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Le \"verbiage creux\" reproché à la philosophie (Argument 3: La philosophie se discrédite par son verbiage creux) implique que la philosophie est perçue comme :",
+      "réponses": {
+        "A": "Un discours profondément abstrait et complexe, mais dont la richesse conceptuelle est essentielle pour l'approfondissement des grandes questions existentielles.",
+        "B": "Une rhétorique vide de sens pratique, qui n'offre aucune solution concrète aux défis réels auxquels les individus et les sociétés sont confrontés au quotidien.",
+        "C": "Une manière de s'exprimer avec une éloquence raffinée, permettant de persuader les auditeurs de la pertinence des idées philosophiques dans le débat public.",
+        "D": "Un langage métaphorique et poétique, dont la beauté et la subtilité permettent d'explorer des dimensions de l'expérience humaine inaccessibles à la rationalité pure."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel philosophe est associé à l'affirmation que \"Toute la philosophie est comme un champ de bataille où personne ne sortira vainqueur\" ?",
+      "réponses": {
+        "A": "Georg Wilhelm Friedrich Hegel, pour sa dialectique du progrès de l'Esprit vers la connaissance absolue et la réconciliation des contradictions.",
+        "B": "Emmanuel Kant, exprimant une critique de la philosophie dogmatique, où les systèmes s'affrontent sans parvenir à une vérité unifiée ou un consensus durable.",
+        "C": "René Descartes, pour sa recherche d'une première vérité indubitable capable de fonder un système philosophique solide et cohérent.",
+        "D": "Ludwig Wittgenstein, pour ses analyses du langage qui visent à dissoudre les problèmes philosophiques en montrant qu'ils résultent de confusions linguistiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La citation de Jean-Jacques Rousseau : \"Tous les philosophes sont des charlatans\", s'inscrit dans un courant de pensée qui :",
+      "réponses": {
+        "A": "Fait l'éloge de la raison et de la science comme seuls guides de la vérité, discréditant les spéculations philosophiques sans fondement empirique.",
+        "B": "Critiqua la philosophie pour son éloignement de la nature humaine et de la simplicité des mœurs, la jugeant corruptrice et artificielle par ses discours vains.",
+        "C": "Affirme la nécessité de la philosophie pour éclairer les esprits et dénoncer les préjugés, la considérant comme l'instrument essentiel du progrès social et politique.",
+        "D": "S'intéresse à la construction de systèmes métaphysiques complexes, cherchant à dévoiler les vérités ultimes sur l'être et la connaissance universelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe a déclaré : \"Les philosophes n’ont fait qu’interpréter le monde de diverses manières, ce qui importe à présent, c’est de le transformer\" ?",
+      "réponses": {
+        "A": "Platon, pour sa théorie des Idées où la connaissance philosophique permet d'accéder à la réalité intelligible et de comprendre la Vérité éternelle.",
+        "B": "Friedrich Nietzsche, pour sa généalogie de la morale et son appel à une transvaluation des valeurs pour une nouvelle manière d'exister.",
+        "C": "Karl Marx, critiquant l'aspect contemplatif et non-pratique de la philosophie traditionnelle, et appelant à une philosophie de l'action révolutionnaire.",
+        "D": "Socrate, pour sa méthode de la maïeutique, visant à faire accoucher les esprits de leurs propres connaissances par l'interrogation continue."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Le scepticisme développé par la philosophie a pour conséquence de :",
+      "réponses": {
+        "A": "Renforcer la confiance de l'homme en ses propres jugements et lui donner une direction claire et précise dans la vie quotidienne.",
+        "B": "Plonger la conscience de l'homme dans la contradiction, au point où il ne sait plus s'orienter, créant une confusion intellectuelle persistante.",
+        "C": "Développer une capacité d'analyse critique aiguisée, permettant de distinguer le vrai du faux avec une grande précision et sans hésitation.",
+        "D": "Faciliter l'acceptation inconditionnelle des dogmes établis et des traditions ancestrales, assurant ainsi la stabilité sociale et morale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "L'idée que l'activité philosophique est \"inachevée, remise en cause perpétuelle et controversée\" souligne :",
+      "réponses": {
+        "A": "Le caractère définitif et immuable des vérités découvertes par la philosophie, qui s'imposent à tous les esprits de manière universelle et indéniable.",
+        "B": "La nature cumulative et progressive de la philosophie, où chaque nouvelle théorie s'appuie sur les précédentes pour atteindre des conclusions plus solides et vérifiables.",
+        "C": "La difficulté inhérente à la philosophie de parvenir à des réponses uniques et consensuelles, se caractérisant par une exploration continue et des désaccords persistants.",
+        "D": "Le manque de rigueur méthodologique de la philosophie, qui l'empêche de construire des systèmes de pensée cohérents et logiquement fondés."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La distinction entre la philosophie et la technoscience repose sur le fait que la technoscience :",
+      "réponses": {
+        "A": "Développe des théories purement spéculatives, sans aucune application pratique ou incidence sur la réalité matérielle.",
+        "B": "Se discrédite par un verbiage creux et des discussions abstraites qui ne mènent à aucune conclusion tangible.",
+        "C": "Apporte des solutions concrètes et pratiques aux préoccupations quotidiennes des hommes, à l'inverse de la philosophie perçue comme inefficace.",
+        "D": "Se concentre uniquement sur l'interprétation du monde, sans jamais chercher à le transformer ou à agir sur lui de manière significative."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La citation de Kant, \"Toute la philosophie est comme un champ de bataille où personne ne sortira vainqueur\", implique que :",
+      "réponses": {
+        "A": "Les débats philosophiques mènent inévitablement à des solutions claires et définitives qui résolvent toutes les contradictions du savoir humain.",
+        "B": "Les différentes écoles de pensée philosophique s'affrontent sans qu'aucune ne puisse imposer sa vérité de manière universelle, aboutissant à une impasse constante.",
+        "C": "La philosophie est une discipline collaborative où les idées se combinent harmonieusement pour construire un savoir unifié et consensuel au fil du temps.",
+        "D": "La seule issue possible pour la philosophie est de renoncer à la recherche de la vérité et de se contenter de la multiplicité des opinions subjectives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'idée que les philosophes sont des \"charlatans\", selon Rousseau, est basée sur la perception que leurs discours sont :",
+      "réponses": {
+        "A": "Profondément honnêtes et désintéressés, cherchant la vérité pour elle-même et au bénéfice de l'humanité entière.",
+        "B": "Utiles et efficaces, apportant des solutions concrètes aux problèmes sociaux et politiques de leur époque.",
+        "C": "Trompeurs, vains et éloignés de la véritable sagesse ou de l'utilité pratique, masquant une prétention au savoir sans substance.",
+        "D": "Modestes et humbles, reconnaissant les limites de la raison humaine et la complexité des questions abordées."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "L'appel de Marx à \"transformer\" le monde plutôt que de seulement l'interpréter, met en lumière :",
+      "réponses": {
+        "A": "Une valorisation de l'action politique et sociale comme le véritable objectif de la pensée philosophique, par opposition à la contemplation passive.",
+        "B": "Un rejet de toute forme de connaissance ou de réflexion intellectuelle, au profit d'une activité purement matérielle et irréfléchie.",
+        "C": "Une affirmation de la supériorité de la théorie sur la pratique, où la compréhension du monde est suffisante sans nécessiter d'intervention active.",
+        "D": "Un encouragement à la spéculation métaphysique, où la philosophie s'éloigne de la réalité concrète pour se consacrer aux questions ultimes de l'être."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "La philosophie est parfois considérée comme inutile à une époque dominée par la technologie et la rentabilité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Le scepticisme philosophique, en développant le doute, aide l'homme à trouver plus facilement son orientation et des certitudes inébranlables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Jean-Jacques Rousseau, en qualifiant les philosophes de \"charlatans\", critique leur superficialité et leur éloignement de la vraie sagesse et de l'utilité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "La technoscience, contrairement à la philosophie, est présentée comme une discipline qui apporte des solutions concrètes et pratiques aux préoccupations quotidiennes des hommes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Karl Marx, dans Idéologie Allemande, critique la philosophie pour son incapacité à transformer réellement le monde, se contentant de l'interpréter.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La philosophie est caractérisée comme une activité inachevée et controversée, ce qui signifie qu'elle atteint rarement des conclusions définitives et unanimes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Emmanuel Kant, avec son idée de la philosophie comme \"champ de bataille\", suggère qu'elle mène toujours à des victoires écrasantes pour certaines écoles de pensée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La question \"La philosophie est-elle un superflu ?\" introduit une problématique qui explore la valeur et la pertinence de la philosophie dans le monde contemporain.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "PH006_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Ce Quiz est la deuxième partie du précédent. Dans l'Antiquité, le terme \"philosophie\" était utilisé pour désigner :",
+      "réponses": {
+        "A": "Une simple discipline parmi d'autres, spécialisée dans les questions morales et éthiques, sans lien avec les sciences.",
+        "B": "Exclusivement l'art de la rhétorique et de la persuasion, visant à influencer les débats publics sans souci de vérité.",
+        "C": "L'ensemble du savoir et de la connaissance, car la science moderne avec ses méthodes de vérification n'existait pas encore.",
+        "D": "Une forme de sagesse populaire, transmise oralement de génération en génération, sans écriture ni formalisation conceptuelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le fait que Pythagore et Thalès soient considérés comme de grands philosophes, en plus d'être mathématiciens et physiciens, démontre que la philosophie, à l'époque antique, :",
+      "réponses": {
+        "A": "Englobait un vaste champ de savoirs incluant les sciences, témoignant de son rôle fondamental dans la compréhension du monde.",
+        "B": "Était une activité marginale, pratiquée par quelques penseurs isolés sans lien avec les réalités du monde.",
+        "C": "N'avait aucune influence sur le développement des connaissances scientifiques et techniques, restant une pure spéculation abstraite.",
+        "D": "Était principalement un divertissement intellectuel, sans aucune implication sérieuse dans la recherche de la vérité ou l'explication des phénomènes naturels."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": " illustrant l'Argument: Dans l’Antiquité, la philosophie désigne l’ensemble du savoir, la \"totalité du savoir dans la mesure du possible\" était une caractéristique attribuée à quel type de penseur dans l'Antiquité ?",
+      "réponses": {
+        "A": "Le philosophe, perçu comme celui qui détenait l'ensemble des connaissances accessibles à l'esprit humain à cette .",
+        "B": "Le scientifique, dont les découvertes révolutionnaires unifiaient toutes les branches de la connaissance de manière incontestable.",
+        "C": "époqueL'historien, capable de compiler l'intégralité des événements passés pour en tirer des leçons universelles.",
+        "D": "L'artiste, dont l'œuvre exprime la synthèse de toutes les formes d'expression culturelle et esthétique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle figure de l'Antiquité est associée à la déclaration : \"Nous concevons d'abord le philosophe comme possédant la totalité du savoir dans la mesure du possible\" ?",
+      "réponses": {
+        "A": "Socrate, célèbre pour son affirmation de ne rien savoir, soulignant l'humilité du véritable philosophe.",
+        "B": "Platon, pour sa théorie des Idées et la distinction entre le monde sensible et le monde intelligible.",
+        "C": "Héraclite, pour sa doctrine du changement perpétuel et l'impossibilité de saisir une vérité stable dans le monde.",
+        "D": "Aristote, dont l'œuvre encyclopédique couvrait de nombreux domaines de la connaissance, de la logique à la métaphysique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "L'exemple de l'ouvrage de Newton, Principes Mathématiques de philosophie naturelle, au XVIIe siècle, illustre que le mot \"philosophie\" était encore synonyme de :",
+      "réponses": {
+        "A": "Métaphysique pure, étudiant les principes premiers de l'être et de la connaissance sans lien avec l'expérience.",
+        "B": "Science-physique, démontrant la continuité entre la recherche des lois naturelles et la démarche philosophique de l'époque.",
+        "C": "Art de la rhétorique, axé sur l'éloquence et la persuasion plutôt que sur la découverte de vérités objectives.",
+        "D": "Théologie, cherchant à interpréter les textes sacrés et à comprendre la nature de Dieu et des phénomènes divins."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe du XVIIe siècle prétendait que \"toute la philosophie est comme un arbre dont les racines sont la métaphysique, le tronc la physique, et les trois maîtresses branches, la mécanique, la médecine et la morale\" ?",
+      "réponses": {
+        "A": "Baruch Spinoza, pour sa philosophie de l'identité de Dieu et de la Nature, et sa méthode géométrique.",
+        "B": "Gottfried Wilhelm Leibniz, pour sa conception des monades et de l'harmonie préétablie de l'univers.",
+        "C": "René Descartes, décrivant la structure du savoir philosophique, de ses fondations à ses applications pratiques dans les sciences.",
+        "D": "John Locke, pour sa théorie de l'empirisme et de l'origine des idées à partir de l'expérience sensorielle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La métaphore de Descartes de la philosophie comme un arbre suggère que :",
+      "réponses": {
+        "A": "La philosophie est une discipline isolée, sans aucun lien avec les autres champs de la connaissance ou de l'activité humaine.",
+        "B": "La philosophie est une science purement abstraite, dont les racines ne produisent aucun fruit concret ou utile pour l'humanité.",
+        "C": "La philosophie est la base fondamentale (racines) d'où procèdent les sciences (tronc et branches), démontrant son rôle unificateur et fondateur du savoir.",
+        "D": "Les différentes branches du savoir (mécanique, médecine, morale) sont indépendantes les unes des autres et n'ont pas besoin d'un fondement commun."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'Argument 1 insiste sur le fait que la science moderne, avec son idéal de mesure et de vérification, :",
+      "réponses": {
+        "A": "Est née en même temps que la philosophie antique, démontrant une coexistence harmonieuse depuis les origines.",
+        "B": "N'était pas encore née dans l'Antiquité, ce qui explique pourquoi la philosophie englobait alors l'ensemble du savoir.",
+        "C": "A complètement supplanté la philosophie, rendant cette dernière obsolète et inutile dans le monde contemporain.",
+        "D": "Est une invention récente, sans aucun lien historique ou conceptuel avec les réflexions des philosophes du passé."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Le fait que le mot \"philosophie\" soit resté synonyme de \"science-physique\" au XVIIe siècle indique que :",
+      "réponses": {
+        "A": "La philosophie était déjà en déclin, incapable de se distinguer des avancées rapides des sciences expérimentales.",
+        "B": "Les philosophes de cette époque se désintéressaient des questions scientifiques pour se concentrer sur la métaphysique pure.",
+        "C": "La science physique n'avait pas encore développé ses propres méthodes, et dépendait entièrement des spéculations philosophiques.",
+        "D": "La distinction entre la philosophie et les sciences de la nature était moins nette qu'aujourd'hui, soulignant le rôle englobant de la philosophie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "La présence de mathématiciens et physiciens comme Pythagore et Thalès parmi les grands philosophes de l'Antiquité met en évidence :",
+      "réponses": {
+        "A": "Leur capacité à isoler la pensée philosophique de toute préoccupation empirique ou scientifique.",
+        "B": "La conception ancienne où la recherche du savoir ne faisait pas de distinction rigide entre les disciplines, considérant la philosophie comme une quête universelle de la vérité.",
+        "C": "Leur rejet total de la spéculation métaphysique au profit d'une approche purement technique et pratique du monde.",
+        "D": "Le caractère purement contemplatif de la philosophie antique, sans aucune application aux phénomènes naturels ou aux lois mathématiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Selon le texte, la philosophie est \"nécessaire et non un luxe\" parce qu'elle :",
+      "réponses": {
+        "A": "Apporte des solutions économiques immédiates aux problèmes de subsistance et de production.",
+        "B": "Représente une activité purement esthétique, divertissante, sans aucune incidence sur la vie réelle.",
+        "C": "A historiquement joué un rôle fondamental en tant que fondement et englobant de l'ensemble du savoir, y compris les sciences.",
+        "D": "Se limite à la critique des sciences, sans proposer elle-même de nouvelles connaissances ou de perspectives constructives."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La structure de l'arbre philosophique proposée par Descartes, avec la métaphysique comme racines, illustre que :",
+      "réponses": {
+        "A": "La métaphysique est le fondement indispensable de toute connaissance, fournissant les principes premiers à partir desquels les autres sciences se développent.",
+        "B": "Les branches (mécanique, médecine, morale) peuvent exister et se développer indépendamment des racines métaphysiques.",
+        "C": "La métaphysique est la partie la plus superficielle et la moins importante de la philosophie, sans réel impact sur les sciences.",
+        "D": "Le but de la philosophie est de s'éloigner des réalités concrètes du monde pour se réfugier dans des spéculations abstraites."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "L'Argument 1 suggère que la philosophie, dans l'Antiquité, englobait l'ensemble du savoir car la science moderne n'avait pas encore développé ses propres méthodes spécifiques.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La citation d'Aristote met en évidence que le philosophe était considéré comme celui qui possédait une connaissance fragmentée et limitée, ne couvrant qu'une petite partie du savoir.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "L'ouvrage de Newton, intitulé Principes Mathématiques de philosophie naturelle, témoigne de la distinction claire et rigide entre la philosophie et la science physique au XVIIe siècle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Descartes utilise la métaphore de l'arbre pour montrer que la métaphysique, la physique, la mécanique, la médecine et la morale sont des disciplines sans aucun lien hiérarchique ou fondamental entre elles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Le fait que des figures comme Pythagore et Thalès soient à la fois mathématiciens, physiciens et philosophes souligne le caractère originellement holistique de la philosophie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La nécessité de la philosophie est affirmée par le texte en raison de son rôle historique de précurseur et d'englobant des sciences.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'Argument 2 démontre que la philosophie a toujours été perçue comme un luxe, sans aucune application concrète ou scientifique à travers les époques.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La phrase conclusive \"Elle est donc nécessaire et non un luxe dont on le pense\" résume la thèse de cette deuxième partie, affirmant la valeur intrinsèque et le rôle fondamental de la philosophie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "PH006_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Thème : le lien entre la Raison et le Mythe. Sujet: La Raison récuse-t-elle le Mythe ? Quelle est la meilleure définition de la \"Raison\" dans le cadre de ce Sujet ?",
+      "réponses": {
+        "A": "Une simple capacité d'accumulation d'informations et de mémorisation de faits divers, sans réelle faculté d'analyse ou de synthèse critique.",
+        "B": "La faculté humaine permettant de penser de manière logique, de distinguer le vrai du faux, et d’établir des liens de cause à effet pour une compréhension objective du monde.",
+        "C": "L'ensemble des préjugés et des croyances populaires qui guident les actions humaines, souvent sans fondement rationnel ou vérifiable.",
+        "D": "Une intuition spontanée et irréfléchie, qui permet de prendre des décisions rapides sans passer par une étape de délibération ou de jugement conscient."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie le terme \"Récuser\" lorsque l'on dit que la raison récuse le mythe ?",
+      "réponses": {
+        "A": "Chercher à mieux comprendre et à interpréter les éléments symboliques et traditionnels contenus dans le mythe pour en extraire une sagesse cachée.",
+        "B": "Adopter une approche critique et analyser le mythe à travers le prisme de la logique et de la vérification, sans pour autant rejeter son contenu intégralement.",
+        "C": "Rejeter ou refuser d'admettre la validité, la crédibilité ou la pertinence de quelque chose, en l'occurrence du mythe, en le considérant comme dénué de fondement.",
+        "D": "Intégrer les récits mythiques dans un système de pensée rationnel, en leur donnant une nouvelle signification qui les rend compatibles avec les exigences de la démonstration scientifique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Un \"Mythe\" est décrit comme un récit traditionnel ou imaginaire servant à expliquer des phénomènes. Ce récit est souvent caractérisé par son origine :",
+      "réponses": {
+        "A": "Purement scientifique et empirique, s'appuyant sur des observations rigoureuses et des expérimentations reproductibles pour valider ses hypothèses.",
+        "B": "Religieuse ou symbolique, visant à donner du sens à l'existence, à l'origine du monde ou à des pratiques sociales par des narrations non vérifiables.",
+        "C": "Philosophique et conceptuelle, élaborant des systèmes de pensée abstraits pour résoudre les grandes énigmes de l'univers et de la conscience humaine.",
+        "D": "Historique et factuelle, se basant sur des événements réels et documentés pour reconstituer le passé de manière objective et fidèle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La problématique \"La raison peut-elle véritablement se passer du mythe ?\" suggère que l'opposition entre raison et mythe est :",
+      "réponses": {
+        "A": "Absolument irréductible et totale, sans aucune possibilité de coexistence ou de dialogue entre les deux modes de pensée.",
+        "B": "Une pure illusion, car la raison et le mythe sont, en réalité, deux facettes d'une même approche de la connaissance humaine.",
+        "C": "Temporaire et destinée à disparaître avec le progrès inéluctable de la science, rendant le mythe entièrement obsolète et sans intérêt.",
+        "D": "Complexe et nuancée, invitant à explorer si, malgré l'opposition apparente, il n'existe pas une complémentarité ou une dépendance mutuelle."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Le mythe repose sur l'imaginaire et la croyance, tandis que la raison exige des preuves et des démonstrations. Cette distinction met en évidence la différence de :",
+      "réponses": {
+        "A": "Niveau de complexité du langage utilisé par chacun, l'un étant simple et l'autre sophistiqué.",
+        "B": "Nature de leur fondement et de leur méthode d'accès à la vérité, l'un étant intuitif et l'autre logique et vérifiable.",
+        "C": "Impact émotionnel sur l'individu, le mythe étant plus touchant et la raison plus froide et impersonnelle.",
+        "D": "Ancienneté chronologique, le mythe étant toujours antérieur à la raison dans l'histoire des civilisations."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe est associé à l'idée que l'imagination est une \"maîtresse d'erreur et de fausseté\" ?",
+      "réponses": {
+        "A": "René Descartes, pour sa méfiance envers les sens et l'imagination dans la recherche de vérités claires et distinctes.",
+        "B": "Baruch Spinoza, pour sa distinction entre la connaissance intuitive et la connaissance rationnelle, où l'imagination est source d'idées confuses.",
+        "C": "David Hume, pour son empirisme radical et sa suspicion envers les idées abstraites et les raisonnements spéculatifs qui dépassent l'expérience.",
+        "D": "Blaise Pascal, dans ses Pensées, critiquant le rôle de l'imagination dans l'égarement de l'esprit humain et sa propension à l'illusion."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "La citation de Blaise Pascal sur l'imagination comme \"maîtresse d'erreur et de fausseté\" signifie que :",
+      "réponses": {
+        "A": "L'imagination, qui nourrit les récits mythiques, est une force puissante capable d'induire en erreur et de produire des illusions, s'opposant ainsi à la recherche rationnelle de la vérité.",
+        "B": "L'imagination, bien que parfois source d'illusions, est un guide fiable pour atteindre la vérité divine et les mystères de la foi, supplantant la raison.",
+        "C": "L'imagination est une faculté créatrice indispensable, qui permet à l'homme d'inventer de nouvelles réalités et de se libérer des contraintes du monde sensible.",
+        "D": "L'imagination est une fonction psychologique neutre, qui se contente de reproduire les perceptions du monde extérieur sans jamais altérer la réalité des faits observés."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "La science, en tant que produit de la raison, a supplanté les explications mythologiques en :",
+      "réponses": {
+        "A": "S'appuyant sur des récits symboliques plus élaborés et des croyances collectives plus profondes que les mythes traditionnels.",
+        "B": "Développant des lois naturelles démontrables, des relations de cause à effet et des explications vérifiables, remplaçant ainsi les narrations imaginaires.",
+        "C": "Reléguant les phénomènes inexplicables à des forces surnaturelles, reconnaissant ainsi la supériorité du mythe dans les domaines du mystère et de l'ineffable.",
+        "D": "Se contentant d'accumuler des observations sans jamais chercher à en tirer des conclusions générales ou des lois universelles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel philosophe est l'auteur de la théorie des \"trois états\" (théologique, métaphysique, positif) de l'humanité ?",
+      "réponses": {
+        "A": "Émile Durkheim, pour sa sociologie des religions et l'étude des fonctions sociales du mythe.",
+        "B": "Auguste Comte, fondateur du positivisme, décrivant l'évolution de l'esprit humain vers l'état scientifique où la raison domine.",
+        "C": "Carl Gustav Jung, pour sa théorie des archétypes et de l'inconscient collectif qui nourrit les mythes.",
+        "D": "Friedrich Wilhelm Joseph Schelling, pour sa philosophie de la nature et sa réhabilitation de la mythologie comme source de connaissance primordiale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La théorie des \"trois états\" d'Auguste Comte, en particulier l'état théologique, suggère que :",
+      "réponses": {
+        "A": "Les explications par les dieux et les mythes sont la forme la plus évoluée et la plus parfaite de la connaissance humaine.",
+        "B": "Les hommes ont commencé par expliquer le monde par des forces surnaturelles et des mythes, ce qui constitue une étape primitive de l'esprit humain.",
+        "C": "Le mythe est une forme de pensée qui coexiste éternellement et harmonieusement avec la science et la raison, sans jamais être dépassée.",
+        "D": "L'état théologique est le résultat d'une régression de la raison, où l'humanité perd sa capacité à distinguer le vrai du faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'explication de l'Argument 1 met en lumière l'opposition entre le mythe comme \"récit symbolique, souvent religieux ou traditionnel, sans méthode de vérification\" et la raison qui \"s’appuie sur des démonstrations logiques\". Cette opposition porte sur :",
+      "réponses": {
+        "A": "La finalité éthique de leurs discours, l'un visant le bien et l'autre la vérité.",
+        "B": "La capacité à émouvoir l'auditoire, le mythe étant plus performatif que la raison.",
+        "C": "La méthode d'accès à la connaissance et la nature de la validité de leurs affirmations.",
+        "D": "Le public visé par chaque discours, le mythe s'adressant aux masses et la raison à une élite."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Selon la perspective d'Auguste Comte, lorsque l'humanité atteint l'état positif, cela signifie que :",
+      "réponses": {
+        "A": "Les mythes retrouvent leur place centrale comme principale forme d'explication du monde, reléguant la science au second plan.",
+        "B": "La science et la raison dominent la connaissance, et les explications mythiques sont alors considérées comme des étapes révolues de l'esprit humain.",
+        "C": "Il y a un équilibre parfait entre le mythe et la raison, chacun apportant une contribution égale à la compréhension du monde.",
+        "D": "L'humanité cesse toute forme de recherche de connaissance, s'étant résignée à l'inexplicable et à l'arbitraire des phénomènes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La raison, selon sa définition, est la faculté humaine permettant de distinguer le vrai du faux et d'établir des liens de cause à effet.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'expression \"récuser le mythe\" implique de l'accepter pleinement comme une forme de connaissance valide et démontrable, sans aucune contestation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Le mythe est un récit imaginaire souvent d'origine religieuse, qui ne cherche pas à expliquer l'origine du monde ou des phénomènes naturels.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Blaise Pascal considère l'imagination, qui nourrit les mythes, comme une ennemie de la vérité et donc de la raison.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Auguste Comte, dans sa théorie des trois états, suggère que l'état positif, où la science et la raison dominent, précède l'état théologique (mythique).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La science, en cherchant les causes réelles et les lois universelles, remplace les explications imaginaires du mythe par des vérités démontrables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "La problématique du sujet met en évidence une opposition si radicale entre la raison et le mythe qu'elle exclut toute possibilité de complémentarité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le fait que le mythe repose sur l'imaginaire collectif et la croyance, sans méthode de vérification, est l'une des raisons pour lesquelles la raison le récuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 4",
+  "id": "PH006_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Ce quiz est la suite du précédent. L'Axe 2 de cette problématique soutient que le mythe peut être compris comme une forme de rationalité :",
+      "réponses": {
+        "A": "Exclusivement supérieure à la raison scientifique, car il est le seul à pouvoir révéler des vérités absolues et immuables.",
+        "B": "Complètement opposée à toute logique, ne servant qu'à divertir l'imagination sans aucun sens structuré.",
+        "C": "Complémentaire ou primitive, capable d'organiser l'expérience humaine et d'offrir du sens là où la raison atteint ses limites.",
+        "D": "Définitivement dépassée et sans aucune pertinence pour la compréhension du monde contemporain ou les préoccupations existentielles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le mythe, bien que symbolique, est structuré selon une logique qui aide à :",
+      "réponses": {
+        "A": "Confondre l'esprit et l'empêcher de distinguer la réalité de la fiction, en le plongeant dans un monde purement imaginaire.",
+        "B": "Penser le monde, notamment par des récits symboliques construits sur des oppositions (comme vie/mort, nature/culture), montrant une cohérence interne.",
+        "C": "Supprimer toute forme de raisonnement critique, en imposant des croyances dogmatiques sans aucune remise en question ou analyse.",
+        "D": "Rendre l'humanité incapable de progresser scientifiquement, en la maintenant dans un état d'ignorance et de superstition primitives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La \"pensée mythique\", selon Claude Lévi-Strauss, est décrite comme une forme de pensée qui :",
+      "réponses": {
+        "A": "Procède uniquement par concepts abstraits et démonstrations logiques rigoureuses, sans aucune référence aux sens ou à l'émotion.",
+        "B": "Est ni absurde ni illogique, mais fonctionne par oppositions sensibles et structures binaires, révélant sa propre rationalité.",
+        "C": "Est entièrement dépendante de la volonté arbitraire des dieux, sans aucune structure interne ou cohérence narrative reconnaissable.",
+        "D": "Se limite à la simple répétition de traditions ancestrales, sans aucune capacité à créer de nouvelles significations ou à s'adapter aux changements du monde."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La référence à Claude Lévi-Strauss dans La Pensée sauvage souligne que le mythe est un mode de pensée rationnel à sa manière, fondé sur des structures :",
+      "réponses": {
+        "A": "Purement aléatoires et chaotiques, sans aucune régularité ou pattern identifiable qui pourrait organiser l'expérience humaine.",
+        "B": "Binaires, utilisant des paires d'oppositions pour construire du sens et organiser la perception du monde de manière cohérente.",
+        "C": "Linéaires et progressives, visant à l'accumulation de faits vérifiables et à la construction d'un savoir objectif par étapes successives.",
+        "D": "Cycliques et répétitives, reproduisant indéfiniment les mêmes événements sans aucune évolution ou transformation significative au fil du temps."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Le mythe répond à des grandes questions existentielles, telles que la mort, le mal ou la destinée, parce que ces dimensions de l'existence :",
+      "réponses": {
+        "A": "Peuvent être entièrement expliquées et résolues par la démonstration logique et la rigueur scientifique, rendant le mythe superflu.",
+        "B": "Sont de pures inventions de l'imagination humaine, sans aucune réalité objective ou impact sur la condition humaine.",
+        "C": "Échappent souvent à la démonstration logique et aux explications purement rationnelles, nécessitant une approche différente pour donner du sens.",
+        "D": "Sont réservées à la seule foi religieuse, qui les explique par des dogmes sans laisser aucune place à la réflexion ou à l'interprétation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel philosophe considère que le mythe \"donne à penser\" et est \"porteur de sens, non de démonstration\" ?",
+      "réponses": {
+        "A": "Sigmund Freud, pour son interprétation des mythes comme des expressions symboliques des pulsions inconscientes et des conflits psychiques fondamentaux.",
+        "B": "Carl Gustav Jung, pour sa théorie des archétypes et son exploration des mythes comme manifestations de l'inconscient collectif universel.",
+        "C": "Mircea Eliade, pour son étude du sacré et du profane, et la fonction du mythe dans la révélation du sacré et l'établissement des modèles exemplaires.",
+        "D": "Paul Ricœur, pour sa philosophie herméneutique qui explore le rôle du mythe dans la quête de sens existentiel face aux limites de la raison."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "La citation de Paul Ricœur sur le mythe comme \"porteur de sens, non de démonstration\" implique que :",
+      "réponses": {
+        "A": "Le mythe est un discours dénué de toute signification, incapable d'apporter une quelconque compréhension ou direction à l'existence humaine.",
+        "B": "Le mythe doit être traité comme une vérité scientifique, exigeant des preuves empiriques et des vérifications logiques pour être validé.",
+        "C": "Le mythe a une fonction existentielle et interprétative, offrant une signification profonde aux réalités humaines sans recourir à la logique formelle.",
+        "D": "Le mythe est une forme de connaissance primitive qui doit être rejetée car elle empêche le développement de la rationalité scientifique et de la pensée critique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'explication de l'Argument 1 insiste sur la \"cohérence propre\" du mythe et son rôle \"structurant pour l'intelligence humaine\", même s'il s'agit de récits symboliques. Cela signifie que :",
+      "réponses": {
+        "A": "Le mythe est un ensemble de superstitions aléatoires, sans aucun ordre ni logique interne reconnaissable par la pensée humaine.",
+        "B": "Le mythe, malgré son caractère non scientifique, possède une organisation interne et une logique symbolique qui aident l'esprit à organiser sa perception du réel.",
+        "C": "La cohérence du mythe est une illusion, le résultat de la projection de nos propres désirs inconscients sur des narrations fragmentées et incohérentes.",
+        "D": "La seule fonction du mythe est de masquer la vérité et d'empêcher l'émergence d'une pensée rationnelle et critique chez les individus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "La capacité du mythe à offrir une \"vision globale de la vie humaine\" face aux questions existentielles (Argument 2) est due au fait qu'il :",
+      "réponses": {
+        "A": "Se limite à une explication superficielle et fragmentaire des phénomènes, sans jamais aborder les préoccupations profondes de l'homme.",
+        "B": "Prétend résoudre tous les mystères de l'univers par une démonstration scientifique rigoureuse et universellement vérifiable.",
+        "C": "Dissout les questions existentielles en montrant qu'elles sont de simples constructions linguistiques sans aucune réalité objective ou significative.",
+        "D": "Fournit un cadre narratif et symbolique pour comprendre la place de l'homme dans le cosmos, ses origines et sa destinée, au-delà de la simple causalité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "La pensée mythique est considérée comme \"ni absurde ni illogique\" par Lévi-Strauss parce qu'elle :",
+      "réponses": {
+        "A": "Adopte la même méthode de vérification empirique et de démonstration formelle que la science moderne.",
+        "B": "Possède sa propre rationalité structurale, organisant le monde par des classifications et des relations, même si elle ne procède pas par concepts abstraits.",
+        "C": "Est une forme de pensée purement émotionnelle et intuitive, qui rejette toute forme de raisonnement ou de cohérence intellectuelle.",
+        "D": "Se conforme strictement aux règles de la logique aristotélicienne, en évitant toute contradiction interne dans ses récits."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Paul Ricœur considère que le mythe ne doit pas être rejeté, mais compris comme une manière profonde de faire sens là où la raison seule atteint ses limites. Cela implique que :",
+      "réponses": {
+        "A": "Le mythe est une forme de régression de l'esprit humain, un retour à des explications primitives et irrationnelles.",
+        "B": "La raison est la seule voie légitime vers la connaissance, et le mythe est un obstacle à son développement et à sa progression.",
+        "C": "La raison doit déconstruire et dissoudre complètement tous les mythes, afin de libérer l'esprit humain de toute forme d'illusion ou de superstition.",
+        "D": "Le mythe est un discours symbolique irremplaçable qui complète la raison en offrant des réponses aux questions de sens qui ne sont pas du ressort de la démonstration logique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "L'idée que le mythe \"organise l’expérience humaine par le biais de récits symboliques\" renforce la notion que le mythe n'est pas simplement une fiction, mais une structure qui :",
+      "réponses": {
+        "A": "Confond et désoriente l'individu en lui présentant une réalité chaotique et incompréhensible.",
+        "B": "Donne une intelligibilité et un cadre pour interpréter le monde et les événements de la vie, même sans être une explication scientifique.",
+        "C": "Se limite à la reproduction passive des faits observés, sans aucune capacité à créer du sens ou à influencer la perception du réel.",
+        "D": "Est uniquement destinée à divertir, sans aucune fonction cognitive ou structurante pour la pensée humaine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'Argument 1 sur le mythe souligne que, malgré son caractère symbolique, il est structuré selon une logique interne qui aide l'homme à penser le monde.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La pensée mythique, selon Lévi-Strauss, est intrinsèquement absurde et illogique, ce qui la rend incompatible avec toute forme de rationalité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Paul Ricœur soutient que le mythe doit être purement et simplement rejeté par la raison, car il n'apporte aucune démonstration ni preuve.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Les récits mythiques, construits sur des oppositions comme vie/mort, démontrent une cohérence qui aide à structurer l'intelligence humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Le mythe offre une explication scientifique des questions existentielles comme la mort ou le mal, en s'appuyant sur des démonstrations logiques vérifiables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La \"pensée sauvage\" de Lévi-Strauss suggère que la pensée mythique procède par concepts abstraits, à l'instar de la science moderne.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Selon Paul Ricœur, la raison atteint ses limites face à certaines dimensions de l'existence, et le mythe vient alors compléter cette insuffisance en offrant du sens.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Le fait que le mythe repose sur l'imaginaire collectif et la croyance, sans méthode de vérification, est l'une des raisons pour lesquelles la raison le récuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}
+]

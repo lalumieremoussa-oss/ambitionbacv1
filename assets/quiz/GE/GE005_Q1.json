@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "GE005_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel traité a fondé la Communauté Économique Européenne ?",
+      "réponses": {
+        "A": "Le traité de Maastricht",
+        "B": "Le traité de Georgetown",
+        "C": "Le traité de Rome",
+        "D": "Le traité d’Amsterdam"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "L’acronyme ACP désigne :",
+      "réponses": {
+        "A": "Association des Colonies du Pacifique",
+        "B": "Alliés des Colonies Productrices",
+        "C": "Afrique, Caraïbes, Pacifique",
+        "D": "Accord Commercial Partagé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "En quelle année la CECA a-t-elle été créée ?",
+      "réponses": {
+        "A": "1951",
+        "B": "1957",
+        "C": "1963",
+        "D": "1975"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle structure a précédé la CEE dans le processus d’intégration européenne ?",
+      "réponses": {
+        "A": "L’OMC",
+        "B": "L’OTAN",
+        "C": "La CECA",
+        "D": "Le G7"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel événement économique marque la naissance officielle de l'espace ACP ?",
+      "réponses": {
+        "A": "La création de l’Union Africaine",
+        "B": "La signature du traité de Maastricht",
+        "C": "L’entrée de la Grande-Bretagne dans la CEE",
+        "D": "La conférence de Georgetown en 1975"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "En 1973, l’élargissement de la CEE inclut :",
+      "réponses": {
+        "A": "Le Portugal et la Grèce",
+        "B": "Le Royaume-Uni et le Danemark",
+        "C": "La Suède et la Norvège",
+        "D": "L’Espagne et la Finlande"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "À quoi sert le Fonds Européen de Développement (FED) ?",
+      "réponses": {
+        "A": "Financer les partis politiques européens",
+        "B": "Encourager l’industrie européenne",
+        "C": "Soutenir les États ACP dans leurs projets",
+        "D": "Favoriser la défense commune de l’UE"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Le traité de Maastricht institue officiellement :",
+      "réponses": {
+        "A": "La coopération ACP-CEE",
+        "B": "L’Union Européenne",
+        "C": "L’accord de Yaoundé",
+        "D": "Le pacte de Lomé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Combien d’États ACP sont liés à l’UE aujourd’hui ?",
+      "réponses": {
+        "A": "86",
+        "B": "58",
+        "C": "77",
+        "D": "46"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quel est l’un des objectifs essentiels de la coopération UE-ACP ?",
+      "réponses": {
+        "A": "Garantir l’accès des produits ACP au marché de l’UE",
+        "B": "Accorder le droit à un pays africain.",
+        "C": "Favoriser les exportations asiatiques",
+        "D": "Créer une monnaie unique ACP"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Qu’est-ce que les APE ont changé dans la coopération UE-ACP ?",
+      "réponses": {
+        "A": "Ils ont supprimé toute aide au développement",
+        "B": "Ils ont créé une zone de libre-échange",
+        "C": "Ils ont imposé un embargo commercial",
+        "D": "Ils ont réduit les accords commerciaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que signifie le caractère 'asymétrique' des APE ?",
+      "réponses": {
+        "A": "L’UE paie plus de taxes que les ACP",
+        "B": "L’UE ouvre son marché entièrement, les ACP partiellement",
+        "C": "Les ACP dominent les échanges",
+        "D": "Aucun pays ne bénéficie d’avantages"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Combien de conventions de Lomé ont été signées ?",
+      "réponses": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quelle est la principale critique faite aux APE ?",
+      "réponses": {
+        "A": "Ils sont contraires aux accords de Yaoundé",
+        "B": "Ils fragilisent les économies ACP",
+        "C": "Ils augmentent les droits de douane pour l’UE",
+        "D": "Ils empêchent l’intégration régionale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est l’intérêt principal de l’UE dans la coopération avec les ACP ?",
+      "réponses": {
+        "A": "L’envoi de troupes militaires",
+        "B": "La sécurisation des flux migratoires",
+        "C": "La préservation de relations historiques et commerciales",
+        "D": "Le soutien aux États-Unis dans leurs projets"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelles régions sont concernées par les APE ?",
+      "réponses": {
+        "A": "L’Amérique latine et l’Europe de l’Est",
+        "B": "Les pays asiatiques partenaires",
+        "C": "Les six grandes régions ACP",
+        "D": "Les États membres de l’OTAN"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce qui a remplacé la Convention de Lomé après 2000 ?",
+      "réponses": {
+        "A": "L’accord de Yaoundé III",
+        "B": "L’accord de Lisbonne",
+        "C": "L’accord de Cotonou",
+        "D": "Le traité de Libreville"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Le passage de la CEE à l’UE a été officialisé par :",
+      "réponses": {
+        "A": "Le traité de Rome",
+        "B": "Le traité de Maastricht",
+        "C": "Le traité de Nice",
+        "D": "Le traité de Vienne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle était la motivation initiale de la France et de la Belgique pour une coopération CEE-EAMA ?",
+      "réponses": {
+        "A": "Rompre avec leurs anciennes colonies",
+        "B": "Empêcher la Chine d'influencer l’Afrique",
+        "C": "Maintenir un lien économique post-colonial",
+        "D": "Imposer une langue unique aux ACP"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Que garantissait la Convention de Yaoundé ?",
+      "réponses": {
+        "A": "Une union militaire entre l’Europe et l’Afrique",
+        "B": "L’indépendance économique totale des ACP",
+        "C": "Un cadre de coopération entre la CEE et les pays africains",
+        "D": "Une monnaie unique ACP-UE"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

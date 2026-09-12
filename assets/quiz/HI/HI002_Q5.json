@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 5",
+  "id": "HI002_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Qu’est-ce que la coexistence pacifique ?",
+      "réponses": {
+        "A": "Une alliance militaire entre les deux blocs",
+        "B": "Une stratégie visant à éviter la guerre malgré les tensions idéologiques",
+        "C": "Une trêve signée entre l’OTAN et le Pacte de Varsovie",
+        "D": "Une capitulation de l’URSS"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel objectif principal vise la coexistence pacifique ?",
+      "réponses": {
+        "A": "Imposer le communisme dans le monde",
+        "B": "Éviter les conflits armés directs entre USA et URSS",
+        "C": "Organiser un gouvernement mondial",
+        "D": "Supprimer les alliances militaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Parmi les principes suivants, lequel ne fait pas partie de la coexistence pacifique ?",
+      "réponses": {
+        "A": "Respect de la souveraineté",
+        "B": "Non-ingérence",
+        "C": "Égalité entre nations",
+        "D": "Guerre préventive"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle ligne de communication a été mise en place après la crise de Cuba ?",
+      "réponses": {
+        "A": "Radio libre Moscou-Washington",
+        "B": "Le téléphone rouge",
+        "C": "Une ligne de télégraphie nucléaire",
+        "D": "La hotline de l’ONU"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel traité illustre la volonté de coexistence pacifique ?",
+      "réponses": {
+        "A": "Le traité de Versailles",
+        "B": "Le pacte de Varsovie",
+        "C": "Le traité de Yalta",
+        "D": "Le traité de non-prolifération nucléaire (1968)"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Pourquoi la crise de Cuba a-t-elle renforcé la nécessité de coexistence pacifique ?",
+      "réponses": {
+        "A": "Elle a montré les risques d’une guerre nucléaire mondiale",
+        "B": "Elle a prouvé que l’URSS était militairement supérieure",
+        "C": "Elle a causé l’effondrement de l’OTAN",
+        "D": "Elle a abouti à une réunification allemande"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Qu’est-il arrivé à Khrouchtchev après la crise de Cuba ?",
+      "réponses": {
+        "A": "Il a perdu en crédibilité et a été écarté du pouvoir en 1964",
+        "B": "Il a été promu secrétaire général de l’ONU",
+        "C": "Il a envahi Berlin-Ouest",
+        "D": "Il est devenu président des États-Unis"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quelle conséquence la crise de Cuba a-t-elle eue sur Kennedy ?",
+      "réponses": {
+        "A": "Il a été décoré par l’URSS",
+        "B": "Il est sorti affaibli malgré l’évitement de la guerre",
+        "C": "Il a annexé Cuba",
+        "D": "Il a rompu avec l’OTAN"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Pourquoi l’équilibre des forces favorise-t-il la coexistence pacifique ?",
+      "réponses": {
+        "A": "Car une guerre nucléaire mènerait à une destruction mutuelle assurée",
+        "B": "Car les deux pays ont signé un pacte d’union",
+        "C": "Car les deux blocs avaient le même système politique",
+        "D": "Car ils avaient une monnaie commune"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle était la position de l’URSS sur le plan économique après la crise ?",
+      "réponses": {
+        "A": "Elle était en pleine croissance",
+        "B": "Elle souffrait d’un retard technologique et d’une économie inefficace",
+        "C": "Elle dominait les marchés mondiaux",
+        "D": "Elle avait adopté le capitalisme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle était la principale difficulté des États-Unis après la crise ?",
+      "réponses": {
+        "A": "Un afflux massif de réfugiés soviétiques",
+        "B": "L’opposition de l’opinion publique aux dépenses militaires",
+        "C": "La perte du Texas",
+        "D": "La dissolution du Congrès"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelles régions illustrent les tensions internes dans le bloc soviétique ?",
+      "réponses": {
+        "A": "Portugal et Espagne",
+        "B": "Hongrie 1956 et Tchécoslovaquie 1968",
+        "C": "Japon et Corée du Sud",
+        "D": "Égypte et Libye"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La coexistence pacifique a-t-elle exclu toute forme de rivalité ?",
+      "réponses": {
+        "A": "Oui, elle a mis fin à toutes les tensions",
+        "B": "Non, la rivalité idéologique et indirecte a continué",
+        "C": "Oui, une paix durable a été signée",
+        "D": "Non, mais elle a entraîné une guerre totale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle était la forme principale de la rivalité dans l’espace ?",
+      "réponses": {
+        "A": "La colonisation martienne",
+        "B": "La course à la Lune",
+        "C": "L’envoi de missiles sur Mars",
+        "D": "La conquête de l’Afrique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est un exemple concret d’accord favorisant la coexistence pacifique ?",
+      "réponses": {
+        "A": "Le pacte germano-soviétique",
+        "B": "La Conférence de Téhéran",
+        "C": "Les accords d’Helsinki",
+        "D": "Le blocus de Berlin"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "La coexistence pacifique peut-elle être considérée comme réelle selon les faits ?",
+      "réponses": {
+        "A": "Totalement illusoire",
+        "B": "Oui, elle a supprimé toute forme de conflit",
+        "C": "Partiellement réelle mais avec tensions permanentes",
+        "D": "Elle a remplacé la guerre froide"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel est le paradoxe de la coexistence pacifique ?",
+      "réponses": {
+        "A": "Elle a entraîné plus de guerres",
+        "B": "Elle a mis fin à la guerre froide",
+        "C": "Elle a coexisté avec la méfiance, la propagande et les conflits indirects",
+        "D": "Elle a fusionné les deux blocs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel slogan illustre le climat de méfiance entre USA et URSS pendant cette période ?",
+      "réponses": {
+        "A": "La paix armée",
+        "B": "Un monde, une nation",
+        "C": "Unis dans la guerre",
+        "D": "Le Mur pour la Paix"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle innovation diplomatique a permis un dialogue plus rapide après Cuba ?",
+      "réponses": {
+        "A": "L’ONU mobile",
+        "B": "Le téléphone rouge",
+        "C": "Le protocole spatial",
+        "D": "La carte bleue bilatérale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quel est le rôle de la diplomatie dans la coexistence pacifique ?",
+      "réponses": {
+        "A": "Nul",
+        "B": "Pour manipuler l’opinion",
+        "C": "Pour déclencher les guerres",
+        "D": "Pour apaiser les tensions et éviter l’escalade militaire"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

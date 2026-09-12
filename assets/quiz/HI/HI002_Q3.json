@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 3",
+  "id": "HI002_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi la première crise de Berlin a-t-elle provoqué la seconde crise ?",
+      "réponses": {
+        "A": "À cause de la guerre nucléaire imminente",
+        "B": "À cause du blocus terrestre uniquement",
+        "C": "Parce qu’elle a officialisé la division Est-Ouest, causant des migrations massives",
+        "D": "Parce que l’ONU a refusé d’intervenir"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel phénomène a déclenché la seconde crise de Berlin ?",
+      "réponses": {
+        "A": "La construction du Mur de Berlin",
+        "B": "La migration massive d’Allemands de l’Est vers l’Ouest",
+        "C": "La fusion des zones d’occupation occidentales",
+        "D": "La chute du communisme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Combien d’Allemands ont fui de Berlin-Est vers Berlin-Ouest avant la construction du Mur ?",
+      "réponses": {
+        "A": "500 000",
+        "B": "Plus de 2 millions",
+        "C": "1 million",
+        "D": "3 millions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Pourquoi les Allemands fuyaient-ils Berlin-Est ?",
+      "réponses": {
+        "A": "Pour rejoindre l’armée soviétique",
+        "B": "À cause de la crise économique et la répression communiste",
+        "C": "Pour fuir la démocratie",
+        "D": "Pour étudier en URSS"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle a été la première réaction officielle de Khrouchtchev face à l’exode des Berlinois de l’Est ?",
+      "réponses": {
+        "A": "Construction immédiate du Mur",
+        "B": "Ultimatum en 1958 pour réviser le statut de Berlin",
+        "C": "Appel à l’ONU",
+        "D": "Demande d’aide américaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quand a été construit le Mur de Berlin ?",
+      "réponses": {
+        "A": "1958",
+        "B": "1959",
+        "C": "Nuit du 12 au 13 août 1961",
+        "D": "1963"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel était l’objectif principal de la construction du Mur de Berlin ?",
+      "réponses": {
+        "A": "Éviter les bombardements",
+        "B": "Créer une frontière commerciale",
+        "C": "Bloquer l’exode des Allemands de l’Est vers l’Ouest",
+        "D": "Faciliter les échanges culturels"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle conférence n’a pas eu lieu pendant les discussions sur Berlin ?",
+      "réponses": {
+        "A": "Conférence de Genève",
+        "B": "Sommet de Paris",
+        "C": "Conférence de Yalta",
+        "D": "Rencontre Khrouchtchev-Kennedy à Vienne"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Où s’est tenue la rencontre Khrouchtchev-Eisenhower en 1959 ?",
+      "réponses": {
+        "A": "Paris",
+        "B": "Camp David",
+        "C": "Genève",
+        "D": "Vienne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle est la date de la rencontre Khrouchtchev-Kennedy à Vienne ?",
+      "réponses": {
+        "A": "Mai 1960",
+        "B": "Septembre 1959",
+        "C": "3-4 juin 1961",
+        "D": "Août 1961"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle expression les Occidentaux ont-ils donnée au Mur de Berlin ?",
+      "réponses": {
+        "A": "Mur de la paix",
+        "B": "Mur de la honte",
+        "C": "Mur d’acier",
+        "D": "Mur de la liberté"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Combien d’années la ville de Berlin est-elle restée divisée par le Mur ?",
+      "réponses": {
+        "A": "15 ans",
+        "B": "20 ans",
+        "C": "28 ans",
+        "D": "35 ans"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel impact humain a eu la construction du Mur de Berlin ?",
+      "réponses": {
+        "A": "Il a renforcé la liberté de circulation",
+        "B": "Il a séparé des familles pendant des décennies",
+        "C": "Il a amélioré les relations Est-Ouest",
+        "D": "Il a permis la réunification immédiate"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel effet la construction du Mur a-t-elle eu sur la guerre idéologique ?",
+      "réponses": {
+        "A": "Elle a détendu les relations Est-Ouest",
+        "B": "Elle a amélioré l’image du communisme",
+        "C": "Elle a renforcé la guerre froide et dégradé l’image du communisme",
+        "D": "Elle a été ignorée par la communauté internationale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle conférence a eu lieu le 11 mai 1959 sur la question de Berlin ?",
+      "réponses": {
+        "A": "Sommet de Paris",
+        "B": "Conférence de Genève",
+        "C": "Rencontre à Camp David",
+        "D": "Rencontre à Vienne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel sommet s’est tenu le 14 mai 1960 concernant Berlin ?",
+      "réponses": {
+        "A": "Sommet de Genève",
+        "B": "Sommet de Paris",
+        "C": "Rencontre à Vienne",
+        "D": "Sommet de Potsdam"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel président américain a rencontré Khrouchtchev à Camp David ?",
+      "réponses": {
+        "A": "John F. Kennedy",
+        "B": "Dwight D. Eisenhower",
+        "C": "Lyndon B. Johnson",
+        "D": "Richard Nixon"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel président américain a rencontré Khrouchtchev à Vienne ?",
+      "réponses": {
+        "A": "John F. Kennedy",
+        "B": "Dwight D. Eisenhower",
+        "C": "Lyndon B. Johnson",
+        "D": "Richard Nixon"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quel était le principal enjeu des négociations entre Khrouchtchev et les États-Unis ?",
+      "réponses": {
+        "A": "La réunification de l’Allemagne",
+        "B": "L’adhésion de la RDA à l’ONU",
+        "C": "Le statut de Berlin",
+        "D": "Le contrôle de la RFA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quelle conséquence politique a eu la construction du Mur ?",
+      "réponses": {
+        "A": "La fin immédiate de la guerre froide",
+        "B": "La réunification allemande",
+        "C": "Un durcissement des relations Est-Ouest",
+        "D": "Le retrait des troupes soviétiques"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 3",
+  "id": "HI006_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le rôle initial du CRUA dans le contexte algérien de 1954 ?",
+      "réponses": {
+        "A": "Il organisait des manifestations pacifiques contre les lois coloniales.",
+        "B": "Il regroupait des nationalistes modérés favorables à un compromis avec la France.",
+        "C": "Il organisait des soulèvements armés pour arracher l’indépendance.",
+        "D": "Il cherchait à négocier des réformes économiques avec le gouvernement français."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi le 1er novembre 1954 est-il considéré comme une date fondatrice ?",
+      "réponses": {
+        "A": "C’est le jour où la France reconnaît l’autonomie de l’Algérie.",
+        "B": "C’est la date d’adoption du manifeste du FLN.",
+        "C": "C’est le début de la guerre d’Algérie, avec une série d’attentats.",
+        "D": "C’est le jour de l’indépendance proclamée par l’ALN."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle affirmation est correcte concernant le FLN ?",
+      "réponses": {
+        "A": "Il est fondé à Tunis par des anciens du MTLD.",
+        "B": "Il succède au CRUA et est créé à Alger.",
+        "C": "Il est exclusivement dirigé par des militaires.",
+        "D": "Il regroupe uniquement des membres du parti PPA-MTLD."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le FLN a pour but :",
+      "réponses": {
+        "A": "De négocier un statut autonome sous contrôle français.",
+        "B": "De conserver les structures sociales traditionnelles.",
+        "C": "D’instaurer une monarchie constitutionnelle.",
+        "D": "De créer un État moderne et indépendant en Algérie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Le type de violence utilisé dans la guerre d’indépendance algérienne inclut :",
+      "réponses": {
+        "A": "Des bombardements nucléaires contre des zones rurales.",
+        "B": "Des assassinats ciblés d’hommes politiques uniquement.",
+        "C": "Des exactions contre les civils, les tortures et les attentats.",
+        "D": "Une guerre purement frontale entre deux armées régulières."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "En quoi la guerre d’Algérie diffère-t-elle des autres conflits coloniaux français ?",
+      "réponses": {
+        "A": "Elle n’a impliqué aucun civil.",
+        "B": "Elle s’est déroulée entièrement en dehors du territoire français.",
+        "C": "Elle a connu un usage massif de la torture et une guerre psychologique.",
+        "D": "Elle s’est terminée par une victoire militaire française."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’objectif de la Toussaint rouge ?",
+      "réponses": {
+        "A": "Célébrer l’unité entre les communautés algériennes.",
+        "B": "Réaliser un test d’armes dans le désert.",
+        "C": "Organiser une journée nationale de deuil pour les martyrs.",
+        "D": "Marquer symboliquement le début de la lutte armée."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "En quoi l'action du FLN a-t-elle été décisive dans l’internationalisation du conflit ?",
+      "réponses": {
+        "A": "En obtenant une reconnaissance immédiate de l’ONU.",
+        "B": "En limitant le conflit au territoire algérien.",
+        "C": "En médiatisant la cause et en mobilisant les pays du Tiers Monde.",
+        "D": "En signant un traité avec les États-Unis."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel fut le rôle de l’armée française durant la guerre ?",
+      "réponses": {
+        "A": "Elle s’est abstenue de tout acte répressif.",
+        "B": "Elle a pratiqué une répression brutale, incluant la torture.",
+        "C": "Elle a exclusivement défendu les civils.",
+        "D": "Elle a soutenu l’indépendance dès le début du conflit."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle est une conséquence sociale majeure de la guerre ?",
+      "réponses": {
+        "A": "L’amélioration des relations franco-algériennes.",
+        "B": "La disparition de toute violence communautaire.",
+        "C": "Un traumatisme durable dans la mémoire collective des deux pays.",
+        "D": "La création immédiate d’un régime démocratique stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi le FLN se distingue-t-il des mouvements nationalistes précédents ?",
+      "réponses": {
+        "A": "Il privilégie le dialogue interreligieux.",
+        "B": "Il utilise le terrorisme urbain comme stratégie majeure.",
+        "C": "Il ne compte aucun ancien militant du MTLD.",
+        "D": "Il rejette tout contact avec la population paysanne."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle était l’attitude du gouvernement français au début de la guerre ?",
+      "réponses": {
+        "A": "Il reconnaît la guerre et propose un cessez-le-feu immédiat.",
+        "B": "Il nie qu’il s’agisse d’une guerre et parle d’opérations de maintien de l’ordre.",
+        "C": "Il accepte une médiation de l’ONU.",
+        "D": "Il retire ses troupes dès 1955 pour éviter l’escalade."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel rôle a joué le Général Massu pendant la bataille d’Alger ?",
+      "réponses": {
+        "A": "Il a négocié avec le FLN un accord de paix.",
+        "B": "Il a refusé d’utiliser la torture dans les interrogatoires.",
+        "C": "Il a dirigé la répression violente contre les indépendantistes.",
+        "D": "Il a combattu aux côtés des nationalistes algériens."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "La bataille d’Alger illustre :",
+      "réponses": {
+        "A": "L’absence totale de résistance armée.",
+        "B": "L’échec de la guérilla dans les villes.",
+        "C": "La brutalité de la répression française contre les civils.",
+        "D": "Le soutien populaire massif à la présence française."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle fut la position de l’ONU sur la guerre d’Algérie ?",
+      "réponses": {
+        "A": "Elle a reconnu l’Algérie indépendante dès 1954.",
+        "B": "Elle n’a jamais abordé le sujet officiellement.",
+        "C": "Elle a envoyé des troupes pour arbitrer le conflit.",
+        "D": "Elle a évoqué la question algérienne sous pression des pays non-alignés."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel rôle la diaspora algérienne a-t-elle joué dans la guerre ?",
+      "réponses": {
+        "A": "Aucun rôle significatif dans le conflit.",
+        "B": "Soutien moral sans implication politique.",
+        "C": "Financement du FLN et relais de propagande à l’étranger.",
+        "D": "Refus total de la lutte armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel fut le sort des Harkis après l’indépendance ?",
+      "réponses": {
+        "A": "Ils furent intégrés dans l’armée algérienne.",
+        "B": "Ils restèrent en Algérie dans la sécurité.",
+        "C": "Ils reçurent la nationalité française automatiquement.",
+        "D": "Beaucoup furent massacrés ou abandonnés."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "L’ALN (Armée de Libération Nationale) agit principalement :",
+      "réponses": {
+        "A": "En dehors du territoire algérien uniquement.",
+        "B": "Par des actions diplomatiques.",
+        "C": "Comme le bras armé du FLN contre la France.",
+        "D": "Comme une force de maintien de la paix."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est la spécificité du conflit algérien dans le cadre de la décolonisation ?",
+      "réponses": {
+        "A": "Il fut réglé rapidement sans intervention extérieure.",
+        "B": "Il opposa principalement deux armées étrangères.",
+        "C": "Il fut l’un des plus longs et sanglants des conflits coloniaux.",
+        "D": "Il aboutit à une colonisation renforcée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel accord met fin officiellement à la guerre d’Algérie ?",
+      "réponses": {
+        "A": "Les Accords de Genève signés en 1959.",
+        "B": "Les Accords de Bamako conclus avec le FLN.",
+        "C": "Les Accords d’Évian signés en mars 1962.",
+        "D": "Le Pacte d’Alger négocié par l’ONU."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

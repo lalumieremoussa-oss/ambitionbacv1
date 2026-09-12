@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 6",
+  "id": "PH004_Q6",
+  "questions": {
+    "question n°1": {
+      "question": " Ce quiz est la suite du précédent à savoir<<l'homme peut-il économiser la religion ?>> Selon vous , pour réfuter, pourquoi la religion serait-elle nécessaire à l'homme ?",
+      "réponses": {
+        "A": "Pour accumuler des richesses matérielles et assurer son confort personnel.",
+        "B": "Pour justifier l'inégalité sociale et le maintien des privilèges de certaines classes.",
+        "C": "Pour développer des technologies avancées et améliorer sa productivité.",
+        "D": "Pour répondre à son besoin de sens face à la finitude et au caractère tragique de sa condition humaine."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "La formule de Blaise Pascal : \"L’homme est un roseau pensant\" souligne que l'homme est :",
+      "réponses": {
+        "A": "Un être fragile physiquement, mais doué d'une grandeur par sa capacité de penser et de chercher un sens.",
+        "B": "Un être entièrement déterminé par ses instincts naturels, sans aucune capacité de réflexion.",
+        "C": "Un simple instrument de la nature, sans volonté propre ni destinée particulière.",
+        "D": "Un être puissant et autonome, capable de tout maîtriser par sa seule intelligence."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "La citation de Pascal, \"Tout le malheur des hommes vient d’une seule chose, qui est de ne pas savoir demeurer en repos dans une chambre\", signifie que :",
+      "réponses": {
+        "A": "Le bonheur est atteint en évitant toute activité physique et en restant immobile.",
+        "B": "L'agitation permanente est la seule voie vers la découverte de soi et l'épanouissement personnel.",
+        "C": "La solitude et le silence sont des conditions propices au développement de maladies mentales et à l'isolement social.",
+        "D": "Le malheur provient de l'incapacité de l'homme à faire face à son existence et à ses pensées profondes sans distraction, le poussant à chercher des diversions."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Selon l'argument proposé, comment la religion aide-t-elle l'homme face aux questions existentielles comme la souffrance et la mort ?",
+      "réponses": {
+        "A": "En niant l'existence de la souffrance et en promettant une vie éternelle sans défis.",
+        "B": "En offrant des réponses, des récits et des cadres de sens qui donnent une perspective sur ces expériences universelles.",
+        "C": "En encourageant la fuite de la réalité par l'imagination et le déni des problèmes.",
+        "D": "En imposant une doctrine stricte qui décourage toute réflexion personnelle sur ces sujets."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel sociologue est associé à l'idée que la religion est un \"fait social total\" et un \"ciment moral qui structure les sociétés\" ?",
+      "réponses": {
+        "A": "Max Weber, pour son analyse des formes d'autorité charismatique.",
+        "B": "Karl Marx, pour sa théorie de l'aliénation du travail.",
+        "C": "Émile Durkheim, pour son étude de la fonction intégrative et normative de la religion.",
+        "D": "Auguste Comte, pour sa loi des trois états et l'avènement de la science."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pour Durkheim, la religion est nécessaire à la société car elle :",
+      "réponses": {
+        "A": "Permet le développement de l'individu en dehors de toute contrainte sociale.",
+        "B": "Fournit une base pour la morale, les valeurs (bien, mal, justice, pardon) et un cadre pour la cohésion sociale.",
+        "C": "Est un résidu archaïque des sociétés primitives, appelé à disparaître avec le progrès.",
+        "D": "Est principalement une affaire de foi personnelle sans impact significatif sur la vie collective."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "\"La société ne peut se passer de religion, car elle ne peut se passer de morale.\" Cette citation met en évidence :",
+      "réponses": {
+        "A": "Le rôle de la religion dans la création d'un cadre éthique et de valeurs partagées, essentiel à l'existence d'une société.",
+        "B": "La supériorité de la morale religieuse sur toute autre forme de morale séculière.",
+        "C": "La dépendance de la religion vis-à-vis des institutions étatiques pour faire respecter ses lois.",
+        "D": "L'idée que la morale est un concept obsolète et inutile dans les sociétés modernes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Selon l'argumentaire, pourquoi la crainte de Dieu pourrait-elle obliger l'homme à respecter ses prochains et la loi étatique ?",
+      "réponses": {
+        "A": "Parce que la peur est le seul sentiment capable de modérer la violence naturelle de l'homme.",
+        "B": "Parce que la crainte de Dieu implique la reconnaissance d'une autorité supérieure et de commandements moraux qui guident le comportement juste.",
+        "C": "Parce que la religion promet des richesses matérielles à ceux qui obéissent aux lois divines et humaines.",
+        "D": "Parce que l'homme est incapable de comprendre la rationalité des lois sans une intervention divine directe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "La religion crée du lien social et une identité collective, notamment grâce aux :",
+      "réponses": {
+        "A": "Débats philosophiques complexes et aux spéculations métaphysiques individuelles.",
+        "B": "Innovations technologiques et aux avancées scientifiques qui unissent les chercheurs.",
+        "C": "Cultes collectifs et aux fêtes religieuses qui rythment la vie et donnent un sentiment d'appartenance.",
+        "D": "Compétitions sportives et aux divertissements de masse qui rassemblent les foules."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "L'un des arguments solides pour la nécessité de la religion est qu'aucune société, même la plus primitive, n'en est totalement dépourvue. Cela suggère que la religion répond à des besoins :",
+      "réponses": {
+        "A": "Temporaires, spécifiques à certaines époques historiques révolues.",
+        "B": "Économiques, liés à l'organisation de la production et de la distribution des biens.",
+        "C": "Fondamentaux et anthropologiques, universels à l'expérience humaine.",
+        "D": "Superficiels, liés à la mode et aux tendances culturelles passagères."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Selon Durkheim, qu'est-ce qui distingue la religion par rapport à l'art, la science ou la philosophie dans l'histoire des sociétés ?",
+      "réponses": {
+        "A": "La religion est la seule activité humaine qui ait été capable de produire de grandes œuvres d'art et d'architecture.",
+        "B": "La religion est la seule qui ait toujours été présente dans toutes les sociétés connues, contrairement aux autres.",
+        "C": "La religion est la seule à pouvoir expliquer les mystères de l'univers avec une précision scientifique.",
+        "D": "La religion est la seule à pouvoir garantir un bonheur individuel et une paix intérieure à tous ses adeptes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "En réponse au besoin de sens face à la finitude, la religion offre une perspective qui :",
+      "réponses": {
+        "A": "Permet à l'homme de comprendre sa place dans le cosmos, de donner un sens à son existence et d'espérer au-delà de sa condition mortelle.",
+        "B": "Néglige la souffrance et la mort, en se concentrant uniquement sur les aspects positifs de la vie.",
+        "C": "Pousse l'homme à renoncer à toute forme de réflexion ou de questionnement sur le monde.",
+        "D": "Le conduit à se sentir écrasé par l'immensité de l'univers et l'insignifiance de sa propre vie."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "L'argument de Pascal sur l'homme comme \"roseau pensant\" met en avant la faiblesse de l'homme, mais aussi sa dignité liée à sa capacité de penser.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Pour Durkheim, la religion est un \"fait social total\" parce qu'elle englobe tous les aspects de la vie humaine, y compris les lois, la morale et les rituels.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "La citation de Pascal sur \"ne pas savoir demeurer en repos dans une chambre\" suggère que le bonheur se trouve dans l'agitation perpétuelle et le divertissement constant.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Selon Mircea Eliade, le \"sacré\" est un concept purement subjectif et ne joue aucun rôle dans la construction d'un ordre symbolique collectif.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "L'absence de société sans religion dans l'histoire humaine prouve de manière irréfutable que la religion est une nécessité biologique pour l'homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La religion est considérée comme un ciment moral car elle offre un cadre de valeurs partagées (bien, mal, justice) qui permettent de réguler les comportements sociaux.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'idée que la religion répond à des \"besoins fondamentaux\" de l'homme (sens, explication de l'inexplicable, morale) contredit l'idée qu'elle pourrait être \"économisée\".",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "La présence universelle de la religion dans l'histoire est un argument suffisant pour affirmer qu'elle est la seule source possible de lien social et d'identité collective.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

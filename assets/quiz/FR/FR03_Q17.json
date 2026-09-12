@@ -1,0 +1,156 @@
+{
+    "title": "Quiz 5",
+    "id": "FR001_Q5",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « La littérature n'est pas un substitut à l'expérience, elle est une expérience en soi. » Quelle est la reformulation adéquate ?",
+            "réponses": {
+                "A": "La lecture remplace la vie réelle",
+                "B": "La littérature constitue une épreuve vécue par le lecteur",
+                "C": "La littérature est inutile face aux expériences concrètes",
+                "D": "La littérature n'est qu'un résumé de la vie."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Dans un sujet traitant de l'utilité de la littérature, quel argument correspond à la fonction 'évasive' ?",
+            "réponses": {
+                "A": "Le livre permet de dénoncer la corruption",
+                "B": "Le livre aide le lecteur à oublier son quotidien pénible",
+                "C": "Le livre enseigne des valeurs morales",
+                "D": "Le livre permet d'analyser la psychologie humaine."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "Sujet : « Un livre doit être la hache qui brise la mer gelée en nous. » (Kafka). Que signifie cette métaphore ?",
+            "réponses": {
+                "A": "La littérature doit nous laisser indifférents",
+                "B": "La littérature doit provoquer un choc émotionnel ou intellectuel",
+                "C": "La littérature est un outil de destruction massive",
+                "D": "La littérature ne sert qu'à divertir."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°4": {
+            "question": "Quelle œuvre est l'exemple parfait de la fonction didactique (qui vise à enseigner) ?",
+            "réponses": {
+                "A": "Les Contemplations de Victor Hugo",
+                "B": "Les Fables de La Fontaine",
+                "C": "Madame Bovary de Flaubert",
+                "D": "Le Spleen de Paris de Baudelaire."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Sujet : « La poésie est le miroir de l'âme ». Quelle thèse est ici privilégiée ?",
+            "réponses": {
+                "A": "La fonction engagée",
+                "B": "La fonction lyrique",
+                "C": "La fonction satirique",
+                "D": "La fonction ornementale."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "Sujet : « Le romancier est celui qui met de l'ordre dans le chaos du monde ». Quelle est l'antithèse possible ?",
+            "réponses": {
+                "A": "Le roman doit refléter le désordre réel de la vie",
+                "B": "Le roman doit être bien structuré",
+                "C": "Le romancier est un architecte",
+                "D": "Le roman aide à comprendre la vie."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°7": {
+            "question": "Quel auteur est célèbre pour avoir prôné 'l'Art pour l'Art' (l'esthétique pure sans message) ?",
+            "réponses": {
+                "A": "Jean-Paul Sartre",
+                "B": "Théophile Gautier",
+                "C": "Émile Zola",
+                "D": "Albert Camus."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "Sujet : « L'écrivain est le témoin de son temps ». Quel courant littéraire illustre le mieux cette thèse ?",
+            "réponses": {
+                "A": "Le Surréalisme",
+                "B": "Le Réalisme",
+                "C": "Le Romantisme",
+                "D": "Le Symbolisme."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Sujet : « La littérature n'est qu'un jeu de mots ». Quel argument réfute cette idée ?",
+            "réponses": {
+                "A": "La littérature porte des messages profonds sur la condition humaine",
+                "B": "La littérature utilise des figures de style",
+                "C": "La littérature est une distraction",
+                "D": "La littérature est un passe-temps agréable."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Quelle citation soutient la fonction engagée de l'écrivain ?",
+            "réponses": {
+                "A": "« L'art ne doit servir qu'à lui-même »",
+                "B": "« L'écrivain est embarqué dans son époque »",
+                "C": "« La poésie est un chant intérieur »",
+                "D": "« Le beau est l'unique but de l'écrivain »."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Sujet : « Le théâtre est une tribune politique ». Quelle est l'antithèse ?",
+            "réponses": {
+                "A": "Le théâtre est un lieu d'éducation populaire",
+                "B": "Le théâtre est d'abord un spectacle visant le plaisir esthétique",
+                "C": "Le théâtre doit dénoncer les rois",
+                "D": "Le théâtre est un miroir de la cité."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Quelle est la fonction principale du genre autobiographique ?",
+            "réponses": {
+                "A": "Dénoncer les crimes d'autrui",
+                "B": "Se connaître soi-même en racontant sa vie",
+                "C": "Inventer un monde merveilleux",
+                "D": "Expliquer des théories scientifiques."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Sujet : « Le style est l'homme même ». Que signifie cette citation de Buffon ?",
+            "réponses": {
+                "A": "L'écriture d'un auteur révèle sa personnalité profonde",
+                "B": "Il faut bien s'habiller pour écrire",
+                "C": "L'écrivain ne doit pas soigner son style",
+                "D": "Le style n'a aucun lien avec l'auteur."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Dans une dissertation sur l'engagement, quel exemple d'auteur africain peut-on citer ?",
+            "réponses": {
+                "A": "Aimé Césaire",
+                "B": "Sembène Ousmane",
+                "C": "Ahmadou Kourouma",
+                "D": "Toutes ces propositions."
+            },
+            "bonne réponse": "D"
+        },
+        "question n°15": {
+            "question": "Sujet : « La littérature ne donne pas de solutions, elle pose des problèmes ». Quelle est l'antithèse idéale ?",
+            "réponses": {
+                "A": "La littérature doit se taire",
+                "B": "La littérature éveille l'esprit critique sans imposer de dogme",
+                "C": "La littérature doit donner des ordres au peuple",
+                "D": "La littérature n'a aucune importance."
+            },
+            "bonne réponse": "B"
+        }
+    }
+}

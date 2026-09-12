@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "GE004_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quel organe donne les directives générales à la CEDEAO ?",
+      "réponses": {
+        "A": "La Conférence des chefs d'État et de gouvernement",
+        "B": "Le Conseil économique et social",
+        "C": "Le Parlement de la Communauté",
+        "D": "La Commission des Affaires Sociales et Culturelles"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Qui compose la Conférence des chefs d'État et de gouvernement ?",
+      "réponses": {
+        "A": "Les chefs d’État et de gouvernement des États membres",
+        "B": "Les ministres des finances des pays membres",
+        "C": "Les députés issus des États membres",
+        "D": "Les membres du Tribunal de la CEDEAO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Comment est assurée la présidence de la Conférence des chefs d'État ?",
+      "réponses": {
+        "A": "Par un ministre des affaires étrangères",
+        "B": "Par un chef d’État élu à vie",
+        "C": "Chaque année par un chef d’État des pays membres",
+        "D": "Par le président du Parlement de la Communauté"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le rôle principal du Conseil des ministres dans la CEDEAO ?",
+      "réponses": {
+        "A": "Voter les lois communautaires",
+        "B": "Veiller au bon fonctionnement et au développement de l’organisation",
+        "C": "Organiser les élections dans les États membres",
+        "D": "Gérer le fonds de coopération"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel organe prépare la Conférence des chefs d’État et de gouvernement ?",
+      "réponses": {
+        "A": "Le Tribunal de la CEDEAO",
+        "B": "Le Conseil économique et social",
+        "C": "Le Conseil des ministres",
+        "D": "La Commission des Transports, des Télécommunications et de l’Énergie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel est le rôle du Parlement de la Communauté ?",
+      "réponses": {
+        "A": "Exécuter les décisions de la conférence",
+        "B": "Voter les lois communautaires",
+        "C": "Gérer le fonds de compensation",
+        "D": "Rédiger les traités internationaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Où se trouve le siège du Parlement de la Communauté ?",
+      "réponses": {
+        "A": "Abuja",
+        "B": "Dakar",
+        "C": "Lagos",
+        "D": "Abidjan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Parmi les organes suivants, lesquels sont des organes d’exécution ?",
+      "réponses": {
+        "A": "Conférence des chefs d’État, Parlement, Conseil économique",
+        "B": "Tribunal, Conseil économique, Parlement",
+        "C": "Commissions techniques spécialisées, Fonds de coopération, Commission de la CEDEAO",
+        "D": "Conseil des ministres, Tribunal, Parlement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel organe est chargé d’exécuter les décisions de la Conférence des chefs d’État ?",
+      "réponses": {
+        "A": "La Commission de la CEDEAO",
+        "B": "Le Parlement de la Communauté",
+        "C": "Le Conseil économique et social",
+        "D": "Le Tribunal de la CEDEAO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Que fait le Fonds de Coopération et de Compensation de la CEDEAO ?",
+      "réponses": {
+        "A": "Finance les projets dans les États membres",
+        "B": "Prépare les lois communautaires",
+        "C": "Organise des élections",
+        "D": "Gère les conflits entre États"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle Commission technique spécialisée traite des questions commerciales et douanières ?",
+      "réponses": {
+        "A": "La Commission des Transports et de l’Énergie",
+        "B": "La Commission du Commerce, des Douanes, de l’Immigration, des Questions Monétaires et de Paiement",
+        "C": "La Commission des Affaires Sociales et Culturelles",
+        "D": "La Commission de l’Industrie et de l’Agriculture"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle commission s’occupe de l’industrie, de l’agriculture et des ressources naturelles ?",
+      "réponses": {
+        "A": "La Commission du Commerce et des Douanes",
+        "B": "La Commission de l’Industrie, de l’Agriculture et des Ressources Naturelles",
+        "C": "La Commission des Affaires Sociales",
+        "D": "La Commission des Transports"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La Commission des Transports, des Télécommunications et de l’Énergie est une commission :",
+      "réponses": {
+        "A": "De consultation",
+        "B": "Technique et spécialisée",
+        "C": "Judiciaire",
+        "D": "Financière"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle commission gère les affaires sociales et culturelles ?",
+      "réponses": {
+        "A": "La Commission des Affaires Sociales et Culturelles",
+        "B": "La Commission de l’Industrie",
+        "C": "La Commission des Transports",
+        "D": "La Commission du Commerce"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quels sont les organes consultatifs de la CEDEAO ?",
+      "réponses": {
+        "A": "Conférence des chefs d’État et Conseil des ministres",
+        "B": "Tribunal de la CEDEAO et Conseil économique et social",
+        "C": "Parlement et Fonds de Coopération",
+        "D": "Commissions techniques et Fonds de compensation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel est le rôle du Tribunal de la CEDEAO ?",
+      "réponses": {
+        "A": "Donner des avis sur les problèmes économiques",
+        "B": "Faire respecter les accords et régler les litiges entre pays membres",
+        "C": "Voter les lois communautaires",
+        "D": "Gérer le budget de la CEDEAO"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel rôle joue le Conseil économique et social ?",
+      "réponses": {
+        "A": "Exécute les décisions de la Conférence",
+        "B": "Donne des avis sur les problèmes de la CEDEAO",
+        "C": "Gère le fonds de coopération",
+        "D": "Organise les sessions parlementaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel organe élabore les programmes et les budgets de la CEDEAO ?",
+      "réponses": {
+        "A": "La Commission de la CEDEAO",
+        "B": "Le Parlement de la Communauté",
+        "C": "Le Conseil économique et social",
+        "D": "Le Tribunal de la CEDEAO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle institution préside la Commission de la CEDEAO ?",
+      "réponses": {
+        "A": "Un chef d’État",
+        "B": "Un président nommé par le Conseil des ministres",
+        "C": "Le président du Parlement",
+        "D": "Un représentant du Tribunal"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Parmi ces propositions, laquelle décrit le mieux la structure de la CEDEAO ?",
+      "réponses": {
+        "A": "Une organisation composée uniquement d’un Parlement et d’un Tribunal",
+        "B": "Une organisation avec des organes de décision, d’exécution et de consultation",
+        "C": "Une organisation dirigée par un seul État membre",
+        "D": "Une organisation sans organes techniques spécialisés"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

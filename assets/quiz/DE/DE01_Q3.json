@@ -1,0 +1,341 @@
+{
+  "title": "Quiz 3 - Deutsch (Sein & Haben)",
+  "id": "DE01_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"J'ai un livre.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin ein Buch.",
+        "B": "Ich ist ein Buch.",
+        "C": "Ich sind ein Buch.",
+        "D": "Ich habe ein Buch."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Nous sommes à l'école.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir hat in der Schule.",
+        "B": "Wir sind in der Schule.",
+        "C": "Wir haben in der Schule.",
+        "D": "Wir ist in der Schule."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Il a un chien.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er bin einen Hund.",
+        "B": "Er haben einen Hund.",
+        "C": "Er hat einen Hund.",
+        "D": "Er sind einen Hund."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Tu es professeur.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Du hat ein Lehrer.",
+        "B": "Du ist ein Lehrer.",
+        "C": "Du bin ein Lehrer.",
+        "D": "Du bist Lehrer."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction correcte de \"Elle a les crayons\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie sind die Bleistifte.",
+        "B": "Sie hat die Bleistifte.",
+        "C": "Sie bin die Bleistifte.",
+        "D": "Sie haben die Bleistifte."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte pour le sujet \"Sie\" (Ils) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie ist / Sie hat",
+        "B": "Sie bin / Sie haben",
+        "C": "Sie sind / Sie haben",
+        "D": "Sie seid / Sie haben"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Complétez : \"Meine Mutter _____ glücklich.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "sind",
+        "B": "ist",
+        "C": "haben",
+        "D": "hat"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"J'ai une sœur.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich ist eine Schwester.",
+        "B": "Ich habe eine Schwester.",
+        "C": "Ich bin eine Schwester.",
+        "D": "Ich hat eine Schwester."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Ils sont mes amis.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie sind meine Freunde.",
+        "B": "Sie hat meine Freunde.",
+        "C": "Sie ist meine Freunde.",
+        "D": "Sie bin meine Freunde."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Complétez : \"Wir _____ ein schönes Haus.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "hat",
+        "B": "sind",
+        "C": "ist",
+        "D": "haben"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Nous avons faim.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Wir", "haben", "Hunger", "sie", "hat", "ein"],
+      "bonne réponse": "Wir haben Hunger"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Tu as une règle.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Du", "Lineal", "sie", "ist", "hast", "das", "ein", "Katze"],
+      "bonne réponse": "Du hast ein Lineal"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Il est à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Er", "Hause", "ist", "zu", "Ich", "habe", "ein", "Buch"],
+      "bonne réponse": "Er ist zu Hause"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Elle est jolie.\"",
+      "type": "drag_and_drop",
+      "réponses": ["ist", "Sie", "hübsch", "er", "hat", "das"],
+      "bonne réponse": "Sie ist hübsch"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"J'ai deux frères.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Ich", "Brüder", "wir", "sind", "habe", "an", "zwei", "Schule"],
+      "bonne réponse": "Ich habe zwei Brüder"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Ils sont dans le jardin.\"",
+      "type": "drag_and_drop",
+      "réponses": ["sind", "Schwester", "im", "Sie", "haben", "der", "Garten", "Ich", "ein", "ist"],
+      "bonne réponse": "Sie sind im Garten"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Mon père a un téléphone.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Vater", "hat", "Mein", "ein", "Schüler", "Handy", "wir", "sind", "das", "haben"],
+      "bonne réponse": "Mein Vater hat ein Handy"
+    },
+    "question n°18": {
+      "question": "Réécrivez : \"Du _____ ein nettes Lächeln.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Du", "Lächeln", "sie", "hast", "ein", "nettes", "ist", "das"],
+      "bonne réponse": "Du hast ein nettes Lächeln"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Nous avons les clés.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Wir", "Ich", "haben", "Hause", "die", "Schlüssel", "bin", "zu"],
+      "bonne réponse": "Wir haben die Schlüssel"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Elle est malade.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Sie", "hat", "ist", "er", "krank", "ein"],
+      "bonne réponse": "Sie ist krank"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Il est mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Freund", "ist", "hat", "mein", "sie", "das", "Er", "Auto"],
+      "bonne réponse": "Er ist mein Freund"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"J'ai une idée.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Ich", "an", "eine", "Idee", "wir", "sind", "habe", "Arbeit"],
+      "bonne réponse": "Ich habe eine Idee"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Vous êtes intelligents.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Ihr", "Ich", "seid", "bin", "intelligent", "ein"],
+      "bonne réponse": "Ihr seid intelligent"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Le chat a faim.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Die", "Hunger", "ist", "wir", "hat", "ein", "Katze", "Spielzeug"],
+      "bonne réponse": "Die Katze hat Hunger"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Nous sommes de bons élèves.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Wir", "Schüler", "sind", "ist", "gute", "sie", "haben", "ein", "Auto", "die"],
+      "bonne réponse": "Wir sind gute Schüler"
+    },
+    "question n°26": {
+      "question": "Traduisez le verbe \"être\" (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "sein"
+    },
+    "question n°27": {
+      "question": "Donnez la forme du verbe \"haben\" pour le pronom personnel \"Er\".",
+      "type": "short_answer",
+      "bonne réponse": "Er hat"
+    },
+    "question n°28": {
+      "question": "Traduisez le groupe de mots \"Ils ont\".",
+      "type": "short_answer",
+      "bonne réponse": "Sie haben"
+    },
+    "question n°29": {
+      "question": "Traduisez le groupe de mots \"Tu es\".",
+      "type": "short_answer",
+      "bonne réponse": "Du bist"
+    },
+    "question n°30": {
+      "question": "Quelle est la forme du verbe \"sein\" qui correspond à \"Meine Schwester\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Meine Schwester ist"
+    },
+    "question n°31": {
+      "question": "Complétez : \"Meine Eltern _____ ein großes Haus.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "ist",
+        "B": "sind",
+        "C": "haben",
+        "D": "hat"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°32": {
+      "question": "Complétez : \"Die Bleistifte _____ auf dem Tisch.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "ist",
+        "B": "sind",
+        "C": "hat",
+        "D": "haben"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°33": {
+      "question": "Complétez : \"Ich _____ ein wunderbarer Lehrer.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "hat",
+        "B": "bin",
+        "C": "habe",
+        "D": "ist"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°34": {
+      "question": "Complétez : \"Sie _____ eine Erkältung (froid/rhume).\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "ist",
+        "B": "bin",
+        "C": "haben",
+        "D": "hat"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°35": {
+      "question": "Complétez : \"Wir _____ jetzt im Park.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "hat",
+        "B": "sind",
+        "C": "haben",
+        "D": "bin"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°36": {
+      "question": "Complétez : \"Mein Freund und ich _____ gute Noten.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "sind",
+        "B": "ist",
+        "C": "hat",
+        "D": "haben"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°37": {
+      "question": "Complétez : \"Das Buch _____ interessant.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "haben",
+        "B": "sind",
+        "C": "hat",
+        "D": "ist"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°38": {
+      "question": "Quel pronom peut remplacer \"Ali und Mariam\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er",
+        "B": "Sie (elle)",
+        "C": "Wir",
+        "D": "Sie (ils)"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°39": {
+      "question": "Complétez : \"Du _____ eine Frage.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "bist",
+        "B": "ist",
+        "C": "hast",
+        "D": "bin"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°40": {
+      "question": "Complétez : \"Ich _____ neunzehn Jahre alt.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "habe",
+        "B": "hat",
+        "C": "ist",
+        "D": "bin"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

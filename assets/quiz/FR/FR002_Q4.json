@@ -1,0 +1,141 @@
+{
+  "title": "Quiz 2 - Partie B",
+  "id": "FR002_Q2_B",
+  "questions": {
+    "question n°1": {
+      "question": "La figure qui 'martèle une idée' par répétition en début de phrase est :",
+      "réponses": {
+        "A": "La métonymie",
+        "B": "L'anaphore",
+        "C": "L'accumulation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Une question dont on connaît déjà la réponse est dite :",
+      "réponses": {
+        "A": "Oratoire ou rhétorique",
+        "B": "Parallèle",
+        "C": "Hyperbolique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Si je dit 'C'est un génie' pour parler d'un élève brillant, j'utilise :",
+      "réponses": {
+        "A": "Une hyperbole",
+        "B": "Un euphémisme",
+        "C": "Une litote"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "L'accumulation se distingue de la gradation car :",
+      "réponses": {
+        "A": "Elle n'est pas forcément ordonnée par intensité",
+        "B": "Elle utilise moins de trois mots",
+        "C": "Elle est toujours négative"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "« Ici c’était le paradis, ailleurs l’enfer. » est cité comme exemple de :",
+      "réponses": {
+        "A": "Anaphore",
+        "B": "Euphémisme",
+        "C": "Litote"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle figure d'atténuation utilise souvent une négation (ex: 'pas mal') ?",
+      "réponses": {
+        "A": "La litote",
+        "B": "L'hyperbole",
+        "C": "Le parallélisme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Le terme 'exagération' définit quelle figure ?",
+      "réponses": {
+        "A": "L'euphémisme",
+        "B": "L'hyperbole",
+        "C": "La gradation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Dans 'Va, cours, vole', l'intensité des verbes montre :",
+      "réponses": {
+        "A": "Une gradation croissante",
+        "B": "Une gradation décroissante",
+        "C": "Un euphémisme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle figure permet d'affirmer indirectement quelque chose ?",
+      "réponses": {
+        "A": "La question oratoire",
+        "B": "L'accumulation",
+        "C": "L'anaphore"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Un 'Zola' pour désigner un livre de cet auteur est une hyperbole dans votre cours car :",
+      "réponses": {
+        "A": "C'est une exagération de la lecture",
+        "B": "Cela met en valeur l'importance de l'œuvre",
+        "C": "Cela remplace le titre par l'auteur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Laquelle de ces phrases contient une gradation ?",
+      "réponses": {
+        "A": "Je me meurs, je suis mort, je suis enterré.",
+        "B": "Le vent hurle et la pluie tombe.",
+        "C": "Paris est la capitale de la France."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Désigner les non-voyants par 'malvoyants' est un :",
+      "réponses": {
+        "A": "Euphémisme",
+        "B": "Hyperbole",
+        "C": "Parallélisme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "L'anaphore sert principalement à :",
+      "réponses": {
+        "A": "Atténuer une vérité pénible",
+        "B": "Créer un effet d'insistance ou de rythme",
+        "C": "Comparer deux éléments"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "« Je t'aime un peu, beaucoup, passionnément... » est une :",
+      "réponses": {
+        "A": "Accumulation",
+        "B": "Litote",
+        "C": "Gradation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Une phrase qui présente deux membres de même construction syntaxique est :",
+      "réponses": {
+        "A": "Un parallélisme",
+        "B": "Un euphémisme",
+        "C": "Une question rhétorique"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

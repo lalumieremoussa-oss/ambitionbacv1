@@ -1,0 +1,368 @@
+{
+  "title": "Quiz 2",
+  "id": "AN03_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Complétez la phrase : \"My sister _____ a letter every week.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "write",
+        "B": "do write",
+        "C": "writes",
+        "D": "is writing"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Ils font leurs devoirs.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "They does their homework.",
+        "B": "They do their homework.",
+        "C": "They go their homework.",
+        "D": "They has their homework."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la forme correcte du verbe \"to eat\" pour le sujet \"The dog\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "eat",
+        "B": "do eat",
+        "C": "eatses",
+        "D": "eats"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Nous écoutons notre professeur.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "We listens our teacher.",
+        "B": "We listen our teacher.",
+        "C": "We listen to our teacher.",
+        "D": "We do listen our teacher."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Complétez la phrase : \"The children _____ to play outside.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "likes",
+        "B": "like",
+        "C": "is liking",
+        "D": "does like"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte de \"to watch\" pour le sujet \"He\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "he watch",
+        "B": "he watchs",
+        "C": "he watches",
+        "D": "he does watchs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Je vais au travail.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I goes to work.",
+        "B": "I go to work.",
+        "C": "I do work.",
+        "D": "I am going work."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel verbe signifie \"écrire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To do",
+        "B": "To sing",
+        "C": "To read",
+        "D": "To write"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quel sujet ne prend PAS de -s à la fin du verbe au présent simple ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "He",
+        "B": "You",
+        "C": "She",
+        "D": "My mother"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La phrase \"She drinks juice.\" signifie :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Elle écrit son jus.",
+        "B": "Elle fait du jus.",
+        "C": "Elle va au jus.",
+        "D": "Elle boit du jus."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Mon père va à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "work",
+        "goes",
+        "father",
+        "at",
+        "home",
+        "do",
+        "mother",
+        "My",
+        "go",
+        "the"
+      ],
+      "bonne réponse": "My father goes home"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Elle chante dans la chorale.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "the",
+        "do",
+        "choir",
+        "sing",
+        "in",
+        "we",
+        "sings",
+        "is",
+        "he",
+        "She"
+      ],
+      "bonne réponse": "She sings in the choir"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous mangeons ensemble.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "together",
+        "he",
+        "eat",
+        "do",
+        "eats",
+        "We"
+      ],
+      "bonne réponse": "We eat together"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Tu aides ta mère.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mother",
+        "helps",
+        "help",
+        "father",
+        "your",
+        "do",
+        "my",
+        "You"
+      ],
+      "bonne réponse": "You help your mother"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Il lit un livre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "book",
+        "is",
+        "reads",
+        "she",
+        "read",
+        "the",
+        "a",
+        "He"
+      ],
+      "bonne réponse": "He reads a book"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Je fais du shopping.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "the",
+        "she",
+        "do",
+        "shopping",
+        "a",
+        "does",
+        "her",
+        "I"
+      ],
+      "bonne réponse": "I do the shopping"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Les enfants jouent au parc.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "at",
+        "plays",
+        "park",
+        "children",
+        "go",
+        "the",
+        "home",
+        "The",
+        "play",
+        "is"
+      ],
+      "bonne réponse": "The children play at the park"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Elle aime l'anglais.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "English",
+        "like",
+        "the",
+        "likes",
+        "do",
+        "She"
+      ],
+      "bonne réponse": "She likes English"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Ils vont à l'hôpital.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "to",
+        "is",
+        "hospital",
+        "goes",
+        "the",
+        "do",
+        "go",
+        "They"
+      ],
+      "bonne réponse": "They go to the hospital"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Je me lève tôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "early",
+        "she",
+        "up",
+        "at",
+        "wake",
+        "the",
+        "wakes",
+        "I"
+      ],
+      "bonne réponse": "I wake up early"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Mon frère regarde la télévision.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "brother",
+        "watch",
+        "television",
+        "do",
+        "a",
+        "watches",
+        "is",
+        "My"
+      ],
+      "bonne réponse": "My brother watches television"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Nous écrivons dans nos cahiers.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "notebooks",
+        "writes",
+        "write",
+        "go",
+        "our",
+        "in",
+        "is",
+        "a",
+        "the",
+        "We"
+      ],
+      "bonne réponse": "We write in our notebooks"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Il écoute de la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "music",
+        "listen",
+        "listens",
+        "a",
+        "the",
+        "to",
+        "she",
+        "He"
+      ],
+      "bonne réponse": "He listens to music"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ma mère fait la lessive.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "laundry",
+        "go",
+        "mother",
+        "do",
+        "the",
+        "is",
+        "does",
+        "My"
+      ],
+      "bonne réponse": "Ma mère fait la lessive"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Je mange le petit-déjeuner.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "breakfast",
+        "he",
+        "eat",
+        "do",
+        "eats",
+        "I"
+      ],
+      "bonne réponse": "I eat breakfast"
+    },
+    "question n°26": {
+      "question": "Donnez la forme du verbe \"To like\" pour le sujet \"My friend\".",
+      "type": "short_answer",
+      "bonne réponse": "likes"
+    },
+    "question n°27": {
+      "question": "Traduisez le verbe \"To watch\" (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "Regarder"
+    },
+    "question n°28": {
+      "question": "Traduisez l'expression : \"Nous faisons\".",
+      "type": "short_answer",
+      "bonne réponse": "We do"
+    },
+    "question n°29": {
+      "question": "Quel est le verbe anglais pour \"aller\" (forme infinitive) ?",
+      "type": "short_answer",
+      "bonne réponse": "To go"
+    },
+    "question n°30": {
+      "question": "Traduisez la phrase \"Il dort\".",
+      "type": "short_answer",
+      "bonne réponse": "He sleeps"
+    }
+  }
+}

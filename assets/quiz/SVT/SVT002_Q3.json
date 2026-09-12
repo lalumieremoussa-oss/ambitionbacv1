@@ -1,0 +1,333 @@
+{
+  "title": "Quiz 3",
+  "id": "SVT002_Q3",
+  "questions": {
+    "question n°1": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "La vitesse de propagation du message nerveux dépend principalement du :",
+      "réponses": {
+        "A": "Type de neurotransmetteur.",
+        "B": "Diamètre de la fibre nerveuse.",
+        "C": "Nombre de synapses.",
+        "D": "Longueur de l'axone."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Comment se déplace l'influx nerveux dans les fibres de gros diamètre qui sont myélinisées ?",
+      "réponses": {
+        "A": "De proche en proche.",
+        "B": "Par conduction continue.",
+        "C": "Uniquement entre les nœuds de Ranvier.",
+        "D": "À travers la membrane entière."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Quelle affirmation est vraie concernant les fibres myélinisées ?",
+      "réponses": {
+        "A": "Elles sont de petit diamètre.",
+        "B": "Elles conduisent le message plus lentement.",
+        "C": "Elles sont caractérisées par une conduction saltatoire.",
+        "D": "L'influx nerveux s'y déplace de proche en proche."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Les fibres non myélinisées se caractérisent par :",
+      "réponses": {
+        "A": "Un gros diamètre.",
+        "B": "Une conduction saltatoire.",
+        "C": "Un déplacement de l'influx nerveux de proche en proche.",
+        "D": "Des mœurs de Ranvier très espacés."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Les fibres nerveuses de petit diamètre conduisent le message plus vite que celles de gros diamètre.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "La conduction saltatoire est caractéristique des fibres non myélinisées.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Les nœuds de Ranvier sont essentiels à la conduction saltatoire.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Le diamètre de la fibre nerveuse n'a aucune influence sur la vitesse de propagation du message.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Les fibres de gros diamètre sont les fibres les plus .....A...... Dans ces fibres, l’influx nerveux se déplace uniquement entre les .....B..... : c’est la conduction .....C......",
+      "réponses": {
+        "A": "A: myélinisées, B: nœuds de Ranvier, C: saltatoire",
+        "B": "A: non myélinisées, B: synapses, C: continue",
+        "C": "A: sensorielles, B: axones, C: neuronale",
+        "D": "A: motrices, B: dendrites, C: électrique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "section": "Vitesse de Propagation du Message",
+      "question": "Les fibres non myélinisées sont des fibres à plus .....A..... diamètre. L’influx nerveux se déplace de proche à .....B......",
+      "réponses": {
+        "A": "A: grand, B: loin",
+        "B": "A: petit, B: proche",
+        "C": "A: moyen, B: segment",
+        "D": "A: variable, B: bout"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Quelle est la première étape de la transmission synaptique mentionnée ?",
+      "réponses": {
+        "A": "L'entrée d'ions Ca2+ dans le bouton synaptique.",
+        "B": "L'arrivée de l'influx nerveux au niveau du bouton présynaptique.",
+        "C": "La libération d'acétylcholine dans la fente synaptique.",
+        "D": "La dépolarisation de la membrane postsynaptique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Quel ion entre dans le bouton synaptique suite à l'arrivée de l'influx nerveux ?",
+      "réponses": {
+        "A": "Ions Na+.",
+        "B": "Ions K+.",
+        "C": "Ions Ca2+.",
+        "D": "Ions Cl-."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Quel neurotransmetteur est libéré dans la fente synaptique selon le texte ?",
+      "réponses": {
+        "A": "Dopamine.",
+        "B": "Sérotonine.",
+        "C": "Acétylcholine.",
+        "D": "GABA."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Sur quels récepteurs l'acétylcholine se fixe-t-elle sur la membrane postsynaptique ?",
+      "réponses": {
+        "A": "Récepteurs à K+.",
+        "B": "Récepteurs à Cl-.",
+        "C": "Récepteurs à Ca2+.",
+        "D": "Récepteurs à Na+."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Que se passe-t-il après la fixation de l'acétylcholine sur ses récepteurs à Na+ ?",
+      "réponses": {
+        "A": "Fermeture des canaux à Na+.",
+        "B": "Libération de K+.",
+        "C": "Ouverture des canaux à Na+ et entrée d'ions Na+.",
+        "D": "Hyperpolarisation de la membrane."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Quel est le résultat de la dépolarisation de la membrane postsynaptique ?",
+      "réponses": {
+        "A": "Un Potentiel postsynaptique inhibiteur (PPSI).",
+        "B": "Un Potentiel postsynaptique excitateur (PPSE).",
+        "C": "Une repolarisation.",
+        "D": "Un potentiel d'action."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Quelle enzyme est responsable de l'inactivation de l'acétylcholine dans la fente synaptique ?",
+      "réponses": {
+        "A": "Amylase.",
+        "B": "Lipase.",
+        "C": "Acétylcholinestérase.",
+        "D": "Protéase."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "L'arrivée de l'influx nerveux au niveau du bouton présynaptique est la dernière étape de la transmission synaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "L'entrée d'ions Ca2+ est nécessaire pour la libération de l'acétylcholine.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Le PPSE est une hyperpolarisation de la membrane postsynaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "L'acétylcholine est inactivée dans le bouton présynaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "La recapture de l'acétylcholine est une étape de la transmission synaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "L’arrivée de l’influx nerveux au niveau du bouton .....A..... provoque l'entrée d’ions .....B..... dans ce bouton.",
+      "réponses": {
+        "A": "A: postsynaptique, B: K+",
+        "B": "A: présynaptique, B: Ca2+",
+        "C": "A: dendritique, B: Na+",
+        "D": "A: axonal, B: Cl-"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "La libération d’acétylcholine dans la fente .....A..... est suivie par la fixation d’acétylcholine sur les récepteurs à .....B..... de la membrane postsynaptique.",
+      "réponses": {
+        "A": "A: neuronale, B: K+",
+        "B": "A: synaptique, B: Na+",
+        "C": "A: axonale, B: Ca2+",
+        "D": "A: dendritique, B: Cl-"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "L’inactivation de l’acétylcholine dans la fente par une enzyme appelée .....A..... aboutit à des produits de l’.....B..... de l’acétylcholine.",
+      "réponses": {
+        "A": "A: protéase, B: synthèse",
+        "B": "A: lipase, B: absorption",
+        "C": "A: acétylcholinestérase, B: hydrolyse",
+        "D": "A: amylase, B: polymérisation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Ordonnez les étapes suivantes de la transmission synaptique du plus précoce au plus tardif :\n* Libération d’acétylcholine dans la fente synaptique.\n* Arrivée de l’influx nerveux au niveau du bouton présynaptique.\n* Entrée d’ions Ca2+ dans le bouton synaptique.",
+      "ordre": [
+        "Arrivée de l’influx nerveux au niveau du bouton présynaptique.",
+        "Entrée d’ions Ca2+ dans le bouton synaptique.",
+        "Libération d’acétylcholine dans la fente synaptique."
+      ],
+      "réponses": {
+        "A": "1, 2, 3",
+        "B": "2, 1, 3",
+        "C": "3, 2, 1",
+        "D": "2, 3, 1"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°27": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Ordonnez les étapes suivantes de la transmission synaptique :\n* Dépolarisation de la membrane postsynaptique.\n* Fixation d’acétylcholine sur les récepteurs à Na+ de la membrane postsynaptique.\n* Ouverture des canaux à Na+ et entrée d’ions Na+ dans la membrane postsynaptique.",
+      "ordre": [
+        "Fixation d’acétylcholine sur les récepteurs à Na+ de la membrane postsynaptique.",
+        "Ouverture des canaux à Na+ et entrée d’ions Na+ dans la membrane postsynaptique.",
+        "Dépolarisation de la membrane postsynaptique."
+      ],
+      "réponses": {
+        "A": "2, 1, 3",
+        "B": "1, 2, 3",
+        "C": "2, 3, 1",
+        "D": "3, 2, 1"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "section": "Les Étapes de la Transmission Synaptique",
+      "question": "Ordonnez les étapes finales de l'acétylcholine dans la fente synaptique :\n* Recapture ou réabsorption de l’acétylcholine par le bouton synaptique.\n* L’inactivation de l’acétylcholine dans la fente par une enzyme appelée acétylcholinestérase.\n* Formation des produits de l’hydrolyse de l’acétylcholine.",
+      "ordre": [
+        "L’inactivation de l’acétylcholine dans la fente par une enzyme appelée acétylcholinestérase.",
+        "Formation des produits de l’hydrolyse de l’acétylcholine.",
+        "Recapture ou réabsorption de l’acétylcholine par le bouton synaptique."
+      ],
+      "réponses": {
+        "A": "1, 2, 3",
+        "B": "2, 3, 1",
+        "C": "3, 2, 1",
+        "D": "2, 1, 3"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "section": "Facteurs influençant la vitesse",
+      "question": "Pour une fibre nerveuse donnée, la vitesse de conduction est constante sur toute sa longueur. Cependant, elle peut être modifiée par certains .....A...... À une température constante, la vitesse de conduction de l'influx varie en fonction du .....B..... de la fibre. Plus le diamètre est .....C....., plus la vitesse de conduction de l'influx est grande.",
+      "réponses": {
+        "A": "A: facteurs, B: diamètre, C: grand",
+        "B": "A: phénomènes, B: longueur, C: petit",
+        "C": "A: enzymes, B: type, C: fin",
+        "D": "A: neurotransmetteurs, B: milieu, C: large"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°30": {
+      "section": "Facteurs influençant la vitesse",
+      "question": "Pour le même diamètre de la fibre nerveuse, la vitesse de conduction .....A..... en fonction de la température. Pour le même diamètre et à température constante, la vitesse de conduction de l'influx varie en fonction du gaine de la fibre nerveuse, c'est-à-dire en présence ou en absence de .....D...... La vitesse de conduction est plus grande au niveau de .....E......",
+      "réponses": {
+        "A": "A: diminue, D: ions, E: synapses",
+        "B": "A: augmente, D: myéline, E: fibres myélinisées",
+        "C": "A: reste stable, D: potassium, E: fibres non myélinisées",
+        "D": "A: varie, D: sodium, E: dendrites."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

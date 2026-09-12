@@ -1,0 +1,332 @@
+{
+  "title": "Quiz 1",
+  "id": "AN04_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez le groupe de mots : \"aller au marché\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "go in market",
+        "B": "go on market",
+        "C": "go for market",
+        "D": "go to market"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle préposition est utilisée pour indiquer la composition ou la quantité, comme dans \"a glass _____ water\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "WITH",
+        "B": "IN",
+        "C": "AT",
+        "D": "OF"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle est la préposition correcte pour parler d'une période de temps comme \"le matin\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "On the morning",
+        "B": "At the morning",
+        "C": "In the morning",
+        "D": "To the morning"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez l'expression française : \"à 7 heures\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in 7 o’clock",
+        "B": "on 7 o’clock",
+        "C": "at 7 o’clock",
+        "D": "for 7 o’clock"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Complétez la phrase : \"_____ Monday\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "At",
+        "B": "In",
+        "C": "With",
+        "D": "On"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Traduisez le groupe de mots : \"avec mon ami\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "for my friend",
+        "B": "with my friend",
+        "C": "at my friend",
+        "D": "by my friend"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle préposition est utilisée pour exprimer l'origine ou la provenance (de) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "TO",
+        "B": "AT",
+        "C": "FROM",
+        "D": "OF"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Traduisez le moyen de transport : \"en voiture\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in car",
+        "B": "with car",
+        "C": "by car",
+        "D": "on car"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle est la traduction française de \"in the house\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "dans la maison",
+        "B": "sur la maison",
+        "C": "à la maison",
+        "D": "de la maison"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Complétez la phrase : \"This gift is _____ you\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "with",
+        "B": "by",
+        "C": "to",
+        "D": "for"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"une tasse de thé\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "a",
+        "tea",
+        "of",
+        "cup",
+        "the",
+        "water",
+        "in",
+        "for"
+      ],
+      "bonne réponse": "a cup of tea"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"dans Abidjan\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "in",
+        "Abidjan",
+        "on",
+        "the"
+      ],
+      "bonne réponse": "in Abidjan"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"sur la table\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "the",
+        "at",
+        "table",
+        "to",
+        "on",
+        "a"
+      ],
+      "bonne réponse": "on the table"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"à l'école\" (lieu précis)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "at",
+        "school",
+        "the",
+        "on"
+      ],
+      "bonne réponse": "at school"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"aller à l'école\" (Direction)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "to",
+        "go",
+        "at",
+        "school",
+        "the",
+        "on"
+      ],
+      "bonne réponse": "go to school"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"à partir d'Abidjan\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "from",
+        "Abidjan",
+        "to",
+        "in",
+        "by",
+        "the"
+      ],
+      "bonne réponse": "from Abidjan"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"avec ma mère\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "my",
+        "mother",
+        "with",
+        "her",
+        "father",
+        "to"
+      ],
+      "bonne réponse": "with my mother"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"pour toi\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "for",
+        "you",
+        "me",
+        "with"
+      ],
+      "bonne réponse": "for you"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"en bus\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "by",
+        "bus",
+        "car",
+        "on"
+      ],
+      "bonne réponse": "by bus"
+    },
+    "question n°20": {
+      "question": "Complétez la traduction : \"a bottle _____ juice\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "a",
+        "of",
+        "juice",
+        "bottle",
+        "the",
+        "for",
+        "by",
+        "water"
+      ],
+      "bonne réponse": "a bottle of juice"
+    },
+    "question n°21": {
+      "question": "Complétez la phrase : \"_____ 2025\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "in",
+        "2025",
+        "at",
+        "on"
+      ],
+      "bonne réponse": "in 2025"
+    },
+    "question n°22": {
+      "question": "Complétez la phrase : \"go to _____ market\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "go",
+        "to",
+        "market",
+        "school",
+        "the",
+        "in"
+      ],
+      "bonne réponse": "go to market"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"de l'école\" (Origine)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "from",
+        "school",
+        "in",
+        "to"
+      ],
+      "bonne réponse": "from school"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"avec mon ami\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "with",
+        "my",
+        "friend",
+        "father",
+        "for",
+        "mother"
+      ],
+      "bonne réponse": "with my friend"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"à pied\" (déplacement à pied)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "by",
+        "foot",
+        "on",
+        "bus"
+      ],
+      "bonne réponse": "on foot"
+    },
+    "question n°26": {
+      "question": "Quelle préposition anglaise est utilisée pour indiquer une surface (sur) ?",
+      "type": "short_answer",
+      "bonne réponse": "ON"
+    },
+    "question n°27": {
+      "question": "Quelle préposition est utilisée pour indiquer le bénéficiaire (pour) ?",
+      "type": "short_answer",
+      "bonne réponse": "FOR"
+    },
+    "question n°28": {
+      "question": "Quel pronom interrogatif (question word) utiliseriez-vous pour demander où se trouve quelqu'un ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "What",
+        "B": "Who",
+        "C": "How",
+        "D": "Where"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Quelle préposition est utilisée pour indiquer la Direction ?",
+      "type": "short_answer",
+      "bonne réponse": "TO"
+    },
+    "question n°30": {
+      "question": "Quel est le sens de la préposition \"WITH\" ?",
+      "type": "short_answer",
+      "bonne réponse": "avec"
+    }
+  }
+}

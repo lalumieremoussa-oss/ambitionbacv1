@@ -1,0 +1,112 @@
+{
+  "title": "Quiz 2: la mitochondrie",
+  "id": "SVTC003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "En milieu anaérobie, quel est l’état des mitochondries chez les levures ?",
+      "réponses": {
+        "A": "Elles sont très nombreuses et hyperactives.",
+        "B": "Elles sont normales et entièrement fonctionnelles",
+        "C": "Elles sont absentes et entièrement dissoutes.",
+        "D": "Elles sont très peu nombreuses et atrophiées."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "En milieu aérobie, comment sont les mitochondries des levures ?",
+      "réponses": {
+        "A": "Elles sont peu nombreuses mais de grande taille.",
+        "B": "Elles sont nombreuses et bien développées.",
+        "C": "Elles sont absentes car inutiles dans ce milieu.",
+        "D": "Elles sont inactives malgré une morphologie normale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "L’activité des mitochondries en milieu aérobie consiste à dégrader complètement le glucose en présence d’oxygène, par quelle réaction ?",
+      "réponses": {
+        "A": "La respiration ou l’oxydation respiratoire.",
+        "B": "La photosynthèse, pour produire des sucres complexes.",
+        "C": "La fermentation, pour produire de l’éthanol.",
+        "D": "La polymérisation, pour former de grandes chaînes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "« La fermentation se déroule dans le __________ de la cellule en dehors des __________. La cellule produit l’énergie grâce à une structure __________ appelée la mitochondrie. »",
+      "réponses": {
+        "A": "hyaloplasme / mitochondries / spécialisée",
+        "B": "noyau / vacuoles / temporaire",
+        "C": "cytoplasme / parois / défectueuse",
+        "D": "réticulum / lysosomes / rudimentaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle structure de la mitochondrie est représentée par la lettre ‘a’ dans le schéma ?",
+      "image": "assets/images/svt/mitochondrie.png",
+      "réponses": {
+        "A": "Le ribosome, une petite particule impliquée dans la synthèse des protéines cellulaires.",
+        "B": "La crête mitochondriale, une invagination de la membrane interne augmentant sa surface.",
+        "C": "La membrane externe, la couche la plus superficielle et perméable de l’organite.",
+        "D": "L’ADN mitochondrial, le matériel génétique circulaire contenu à l’intérieur de l’organite."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La lettre ‘b’ dans le schéma de la mitochondrie désigne quelle partie ?",
+      "image": "assets/images/svt/mitochondrie.png",
+      "réponses": {
+        "A": "Le cytosol, la partie liquide du cytoplasme où se déroule la glycolyse initiale.",
+        "B": "La matrice, la substance gélatineuse où se déroulent des cycles métaboliques majeurs.",
+        "C": "La membrane interne, caractérisée par des replis appelés crêtes pour l’activité.",
+        "D": "La vacuole, un organite de stockage qui maintient la turgescence cellulaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la partie de la mitochondrie indiquée par la lettre ‘c’ dans le diagramme ?",
+      "image": "assets/images/svt/mitochondrie.png",
+      "réponses": {
+        "A": "Le noyau, le centre de contrôle génétique de la cellule eucaryote.",
+        "B": "Le ribosome, impliqué dans la traduction de l’ARNm en séquences protéiques.",
+        "C": "La membrane externe, la barrière sélective qui délimite l’organite entier.",
+        "D": "Le ribosome, une structure granulaire responsable de la synthèse protéique in situ."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "La lettre ‘d’ sur le schéma de la mitochondrie correspond à quelle structure ?",
+      "image": "assets/images/svt/mitochondrie.png",
+      "réponses": {
+        "A": "La membrane externe, qui forme la première couche protectrice de l’organite.",
+        "B": "Le hyaloplasme, le composant semi-liquide qui remplit la cellule entière.",
+        "C": "L’ADN mitochondrial, la molécule génétique circulaire présente dans la matrice.",
+        "D": "La crête mitochondriale, repli interne de la membrane pour augmenter la surface d’échange."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle structure est représentée par la lettre ‘e’ dans le schéma de la mitochondrie ?",
+      "image": "assets/images/svt/mitochondrie.png",
+      "réponses": {
+        "A": "L’espace intermembranaire, la zone située entre les deux membranes externes.",
+        "B": "La matrice mitochondriale, le compartiment interne où le cycle de Krebs opère.",
+        "C": "La paroi cellulaire, une couche rigide externe aux cellules végétales et fongiques.",
+        "D": "Le réticulum endoplasmique, un réseau de membranes impliqué dans la synthèse des lipides."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La lettre ‘f’ dans le schéma de la mitochondrie indique quelle caractéristique spécifique de la membrane interne ?",
+      "image": "assets/images/svt/mitochondrie.png",
+      "réponses": {
+        "A": "La crête mitochondriale, un repli de la membrane interne augmentant sa surface fonctionnelle.",
+        "B": "La double membrane, une caractéristique de certains organites avec une double couche lipidique.",
+        "C": "Le canal ionique, une protéine transmembranaire qui permet le passage sélectif d’ions.",
+        "D": "La vacuole contractile, une structure de régulation osmotique présente chez les protozoaires."
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

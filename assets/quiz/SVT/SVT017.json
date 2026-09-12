@@ -1,0 +1,1519 @@
+[{
+  "id": "SVT017_Q1",
+  "titre": "Quiz 1 : les caractéristiques d’un sol fertile",
+  "questions": {
+    "question n°1": {
+      "question": "La texture du sol désigne :",
+      "reponses": {
+        "A": "La couleur du sol selon sa composition chimique",
+        "B": "La répartition des particules minérales : sable, limon et argile",
+        "C": "La quantité de matière organique dans le sol",
+        "D": "La présence de vers de terre et de micro-organismes"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Une structure grumeleuse (granuleuse) signifie que :",
+      "reponses": {
+        "A": "Le sol est compact et difficile à travailler",
+        "B": "Le sol est constitué de gros blocs durs et sans pores",
+        "C": "Les particules du sol forment des agrégats stables, favorisant l’aération et l’infiltration de l’eau",
+        "D": "Le sol est sec et dépourvu d’humus"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "La texture du sol correspond à :",
+      "reponses": {
+        "A": "La quantité d’humus présente dans le sol",
+        "B": "L’équilibre entre sable, limon et argile",
+        "C": "La quantité d’air dans les pores du sol",
+        "D": "La compacité du sol"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Une structure grumeleuse et stable du sol est due principalement à :",
+      "reponses": {
+        "A": "L’absence totale d’eau",
+        "B": "La présence d’argile pure",
+        "C": "L’humus et l’activité des vers de terre",
+        "D": "La forte compaction du sol"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "Un sol idéal doit :",
+      "reponses": {
+        "A": "Retenir toute l’eau pour éviter le dessèchement",
+        "B": "Ne jamais retenir d’eau",
+        "C": "Être totalement imperméable",
+        "D": "Avoir une rétention suffisante mais un bon drainage"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°6": {
+      "question": "Une bonne aération du sol permet :",
+      "reponses": {
+        "A": "De favoriser la respiration des racines et des micro-organismes",
+        "B": "D’empêcher les micro-organismes de se développer",
+        "C": "De limiter l’infiltration de l’eau",
+        "D": "De rendre le sol plus compact"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "Un sol meuble et non compacté :",
+      "reponses": {
+        "A": "Favorise le développement des racines",
+        "B": "Empêche l’aération du sol",
+        "C": "Freine la croissance des racines",
+        "D": "Retient excessivement l’eau"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°8": {
+      "question": "Les éléments nutritifs d’un sol fertile sont :",
+      "reponses": {
+        "A": "Un ensemble de micro-organismes décomposant la matière organique sans fournir de minéraux essentiels.",
+        "B": "Des substances minérales et organiques qui améliorent la texture du sol mais non sa fertilité chimique.",
+        "C": "Des nutriments essentiels tels que l’azote, le phosphore, le potassium, le calcium et le magnésium, indispensables à la croissance des plantes.",
+        "D": "Des gaz atmosphériques absorbés par les racines, comme l’oxygène et le dioxyde de carbone."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "La capacité d’échange cationique (CEC) d’un sol exprime :",
+      "reponses": {
+        "A": "La rapidité avec laquelle l’eau s’infiltre et s’évapore à la surface du sol.",
+        "B": "La proportion de particules d’argile et de sable influençant uniquement la texture physique du sol.",
+        "C": "Le pouvoir du sol à produire des anions comme le nitrate et le phosphate.",
+        "D": "La capacité du sol à retenir et à échanger les cations nutritifs comme Ca²⁺, Mg²⁺ et K⁺, assurant ainsi une bonne fertilité."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°10": {
+      "question": "Le pH du sol joue un rôle essentiel car :",
+      "reponses": {
+        "A": "Il mesure la quantité de sels dissous, permettant de déterminer la salinité globale du sol.",
+        "B": "Il détermine la vitesse de décomposition de la matière organique en absence de micro-organismes.",
+        "C": "Il évalue la densité du sol et la répartition entre sable, limon et argile.",
+        "D": "Il indique le taux d’acidité ou d’alcalinité, influençant directement la disponibilité des nutriments pour les plantes."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°11": {
+      "question": "L’humus et la matière organique du sol :",
+      "reponses": {
+        "A": "Se dégradent très rapidement sans apporter de nutriments durables aux plantes.",
+        "B": "Fournissent progressivement des nutriments comme N, P et K, tout en contribuant à maintenir la fertilité du sol sur le long terme.",
+        "C": "Empêchent la formation d’agrégats stables et favorisent la compaction du sol.",
+        "D": "N’ont aucune influence sur la rétention d’eau ni sur la structure du sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Une faible salinité est souhaitable car :",
+      "reponses": {
+        "A": "Une forte concentration en sels solubles favorise la germination et la croissance rapide des racines.",
+        "B": "Trop de sels dans le sol diminuent la fertilité et peuvent perturber l’absorption d’eau par les plantes.",
+        "C": "Les sels solubles augmentent la capacité du sol à retenir les nutriments et l’humidité.",
+        "D": "Les plantes utilisent directement le sel comme source principale d’énergie chimique."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "Les micro-organismes du sol se distinguent principalement par :",
+      "reponses": {
+        "A": "Leur dimension microscopique et leur appartenance à des groupes comme les bactéries, champignons et algues.",
+        "B": "Leur taille visible à l’œil nu et leur rôle dans le creusement de galeries souterraines.",
+        "C": "Leur capacité à former des agrégats de sol perceptibles à la main lors du travail du sol.",
+        "D": "Leur taille intermédiaire entre les racines et les vers de terre, facilitant la décomposition lente."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "Parmi les exemples suivants, lesquels sont considérés comme micro-organismes du sol ?",
+      "reponses": {
+        "A": "Vers de terre, fourmis et larves de coléoptères.",
+        "B": "Cloportes, acariens et nématodes visibles à l’œil nu",
+        "C": "Racines fines, mycorhizes et mollusques terrestres.",
+        "D": "Bactéries, champignons, actinomycètes et algues microscopiques."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°15": {
+      "question": "Le rôle principal des micro-organismes du sol est :",
+      "reponses": {
+        "A": "De creuser des galeries pour aérer le sol et faciliter la circulation de l’eau.",
+        "B": "De créer une couche imperméable empêchant l’infiltration de l’eau.",
+        "C": "De décomposer la matière organique en humus et de recycler les nutriments essentiels aux plantes.",
+        "D": "De stocker mécaniquement les sels minéraux dans leurs tissus sans les libérer."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°16": {
+      "question": "Certaines bactéries du sol (comme Rhizobium) ont la capacité de :",
+      "reponses": {
+        "A": "Transformer le phosphore du sol en matière organique stable.",
+        "B": "Fixer l’azote de l’air pour le rendre assimilable par les plantes.",
+        "C": "Réduire la quantité d’oxygène disponible dans la rhizosphère.",
+        "D": "Convertir les sels minéraux en substances hydrophobes."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "Les macro-organismes du sol se reconnaissent parce qu’ils :",
+      "reponses": {
+        "A": "Sont visibles à l’œil nu, comme les vers de terre, insectes et larves.",
+        "B": "Sont invisibles au microscope et se limitent aux bactéries et champignons.",
+        "C": "Se nourrissent exclusivement de matières minérales sans creuser le sol.",
+        "D": "Sont confinés à la surface du sol sans aucune activité biologique interne."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Les vers de terre jouent un rôle essentiel car ils :",
+      "reponses": {
+        "A": "Compactent le sol pour le rendre plus dense et moins perméable.",
+        "B": "Réduisent la fertilité chimique en éliminant les minéraux disponibles.",
+        "C": "Détruisent les racines en consommant les tissus végétaux vivants.",
+        "D": "Ingèrent la matière organique, produisent des déjections riches en nutriments et améliorent l’aération du sol."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°19": {
+      "question": "Les deux groupes d’organismes qui contribuent à la formation de l’humus sont :",
+      "reponses": {
+        "A": "Les plantes supérieures et les microalgues marines.",
+        "B": "Les micro-organismes (bactéries, champignons) et les macro-organismes (vers, insectes).",
+        "C": "Les minéraux argileux et les sels solubles présents dans la nappe phréatique.",
+        "D": "Les gaz atmosphériques et les précipitations acides."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "Les macro-organismes améliorent la structure et la fertilité du sol en :",
+      "reponses": {
+        "A": "Sécrétant des acides organiques qui dissolvent la matière minérale sans aération.",
+        "B": "Produisant des déjections et en creusant des galeries qui facilitent l’aération et le drainage.",
+        "C": "Consommant les micro-organismes bénéfiques et réduisant la porosité du sol.",
+        "D": "Compactant le sol pour limiter la circulation de l’air et de l’eau."
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT017_Q2",
+  "titre": "Quiz 2 : Les techniques culturales",
+  "questions": {
+    "question n°1": {
+      "question": "L’érosion des sols en pente provoque principalement :",
+      "reponses": {
+        "A": "Une accumulation de nutriments et d’eau sur les hauteurs, favorisant une fertilité durable.",
+        "B": "Un appauvrissement du sol des pentes, avec perte de fertilité et diminution de la capacité de rétention d’eau.",
+        "C": "Une homogénéisation de la composition du sol entre le haut et le bas de la pente.",
+        "D": "Une concentration de matière organique dans les zones hautes par ruissellement ascendant."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Dans les zones de bas-fonds, l’érosion entraîne :",
+      "reponses": {
+        "A": "Une perte rapide des sédiments et des nutriments vers les zones supérieures.",
+        "B": "Un enrichissement du sol par accumulation de matières organiques et de sédiments.",
+        "C": "Une baisse de fertilité causée par le drainage excessif des minéraux.",
+        "D": "Une disparition des micro-organismes due à l’absence de débris organiques."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "L’érosion crée un déséquilibre entre zones hautes et basses car :",
+      "reponses": {
+        "A": "Les deux zones reçoivent la même quantité de nutriments et d’eau, rendant leur productivité identique.",
+        "B": "Les zones hautes deviennent moins fertiles tandis que les zones basses s’enrichissent en sédiments.",
+        "C": "Les zones basses perdent leur structure à cause d’un excès d’oxygène dans le sol.",
+        "D": "Les zones hautes accumulent trop d’humus au détriment des basses plaines."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Le terrassement est une technique agricole consistant à :",
+      "reponses": {
+        "A": "Aplanir totalement la pente pour empêcher la rétention d’eau.",
+        "B": "Aménager les pentes en escaliers ou paliers afin de ralentir le ruissellement.",
+        "C": "Supprimer la végétation naturelle pour faciliter l’érosion contrôlée.",
+        "D": "Ajouter du sable sur les pentes pour augmenter la perméabilité du sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Le terrassement est avantageux car :",
+      "reponses": {
+        "A": "Il accélère le ruissellement de l’eau et concentre les nutriments dans les zones basses.",
+        "B": "Il empêche toute infiltration d’eau dans les couches profondes du sol." ,
+        "C":"Il limite l’érosion en ralentissant l’eau et favorise la rétention d’humidité dans le sol.",
+        "D": "Il provoque un assèchement rapide des pentes après les pluies."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "La jachère désigne :",
+      "reponses": {
+        "A": "Une technique consistant à cultiver la même plante pendant plusieurs saisons pour épuiser le sol.",
+        "B": "Un système d’irrigation visant à saturer le sol en eau avant la plantation.",
+        "C": "Une période où la parcelle est laissée au repos, sans culture, afin de régénérer sa fertilité naturelle.",
+        "D": "Une méthode de défrichement rapide par brûlage pour libérer les nutriments du sol."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°7": {
+      "question": "La jachère améliore la qualité du sol car elle :",
+      "reponses": {
+        "A": "Diminue la biodiversité pour éviter la concurrence entre les espèces végétales.",
+        "B": "Réduit la matière organique par exposition prolongée du sol au soleil.",
+        "C": "Provoque une compaction du sol empêchant la croissance des adventices.",
+        "D":"Régénère la fertilité du sol, favorise la biodiversité et limite l’épuisement des nutriments." 
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°8": {
+      "question": "L’assolement est une pratique agricole qui consiste à :",
+      "reponses": {
+        "A": "Cultiver en continu la même espèce sur la même parcelle pour augmenter le rendement.",
+        "B":"Mélanger simultanément plusieurs plantes sur le même champ pour saturer le sol." ,
+        "C": "Laisser la terre nue pendant plusieurs années pour éviter les maladies végétales.",
+        "D":"Alterner différentes cultures sur une même parcelle selon un cycle planifié afin d’améliorer le sol." 
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "L’assolement présente plusieurs avantages, notamment :",
+      "reponses": {
+        "A": "L’appauvrissement progressif du sol et la propagation rapide des parasites.",
+        "B": "L’amélioration de la structure du sol, la réduction des maladies et le maintien de la fertilité.",
+        "C": "La suppression des matières organiques et la perte de biodiversité dans la zone cultivée.",
+        "D": "La concentration des éléments nutritifs dans une seule couche du sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Le paillage contribue à la conservation des sols parce qu’il :",
+      "reponses": {
+        "A": "Réduit la fertilité du sol en bloquant l’activité biologique et les échanges gazeux.",
+        "B": "Augmente l’érosion en favorisant le ruissellement de l’eau sur la surface.",
+        "C": "Empêche la rétention d’humidité et expose le sol à la chaleur directe du soleil.",
+        "D":"Recouvre le sol pour limiter l’érosion, conserver l’humidité et apporter de la matière organique." 
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est le rôle principal du terrassement dans la lutte contre l’érosion ?",
+      "reponses": {
+        "A": "Favoriser le ruissellement rapide de l’eau pour évacuer les excédents.",
+        "B": "Ralentir le ruissellement de l’eau et diminuer l’érosion des pentes.",
+        "C": "Accélérer le lessivage des éléments minéraux du sol.",
+        "D": "Créer des pentes plus abruptes pour améliorer l’écoulement naturel."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Pourquoi le terrassement améliore-t-il la fertilité du sol ?",
+      "reponses": {
+        "A": "Parce qu’il empêche totalement l’infiltration de l’eau dans le sol.",
+        "B": "Parce qu’il favorise l’infiltration et la rétention d’eau dans les paliers.",
+        "C": "Parce qu’il bloque le drainage naturel et concentre les sels minéraux.",
+        "D": "Parce qu’il réduit la surface cultivable mais augmente la densité du sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "La jachère est une technique qui consiste à :",
+      "reponses": {
+        "A":"Couvrir le sol avec des engrais chimiques pour stimuler les racines." ,
+        "B": "Maintenir une monoculture pour stabiliser le rendement.",
+        "C": "Laisser le sol au repos pour régénérer naturellement sa fertilité.",
+        "D": "Remplacer les cultures par des pierres pour éviter la dégradation du sol."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est l’un des avantages écologiques majeurs de la jachère ?",
+      "reponses": {
+        "A": "Elle augmente la salinité du sol et bloque la photosynthèse.",
+        "B": "Elle empêche toute forme de vie microbienne et végétale.",
+        "C": "Elle favorise la biodiversité en laissant les organismes se régénérer.",
+        "D": "Elle réduit le taux de matière organique et la vie du sol."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "L’assolement ou rotation des cultures a pour effet principal de :",
+      "reponses": {
+        "A": "Maintenir la même culture sur une longue durée pour la stabiliser.",
+        "B": "Alterner les cultures afin d’éviter l’appauvrissement du sol.",
+        "C": "Remplacer les cultures par du paillage permanent.",
+        "D": "Limiter la diversité des plantes cultivées pour uniformiser le sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment la rotation des cultures contribue-t-elle à la santé des plantes ?",
+      "reponses": {
+        "A": "En favorisant la propagation continue des mêmes maladies.",
+        "B": "En réduisant les maladies et parasites grâce à l’alternance des espèces.",
+        "C": "En concentrant les pathogènes dans une même zone pour les contrôler.",
+        "D": "En empêchant toute interaction biologique entre les cultures."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "Le paillage agit contre l’érosion principalement parce que :",
+      "reponses": {
+        "A": "Il recouvre le sol et limite l’impact direct des gouttes de pluie.",
+        "B": "Il accélère l’évaporation et favorise le dessèchement du sol.",
+        "C": "Il rend le sol plus compact et moins perméable à l’eau.",
+        "D": "Il empêche complètement la circulation de l’air dans le sol."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle est une conséquence positive du paillage sur la température du sol ?",
+      "reponses": {
+        "A": "Il stabilise la température en réduisant les variations extrêmes.",
+        "B": "Il augmente fortement la chaleur au point de tuer les micro-organismes.",
+        "C": "Il refroidit le sol de manière excessive, bloquant la germination.",
+        "D": "Il rend la surface du sol imperméable à la lumière et à la chaleur."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "En quoi le paillage contribue-t-il à la fertilité du sol à long terme ?",
+      "reponses": {
+        "A": "Il apporte de la matière organique en se décomposant progressivement.",
+        "B": "Il empêche toute décomposition et bloque la production d’humus.",
+        "C": "Il élimine la microflore du sol et réduit la porosité.",
+        "D": "Il évacue les éléments nutritifs en surface par ruissellement."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Parmi les techniques suivantes, laquelle associe la préservation du sol et la durabilité de la production ?",
+      "reponses": {
+        "A": "L’emploi exclusif d’engrais chimiques pour stimuler la croissance.",
+        "B": "La rotation des cultures associée au paillage et à la jachère.",
+        "C": "Le défrichement continu pour renouveler les zones fertiles.",
+        "D": "L’abandon de la matière organique au profit des produits minéraux."
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT017_Q3",
+  "titre": "Quiz 3: les engrais chimiques et organiques.",
+  "questions": {
+    "question n°1": {
+      "question": "Les engrais chimiques ont pour rôle principal :",
+      "reponses": {
+        "A": "D’améliorer la structure physique du sol en augmentant la proportion d’humus et d’argile.",
+        "B": "D’enrichir directement la réserve minérale du sol en éléments nutritifs immédiatement assimilables par les plantes.",
+        "C": "De remplacer totalement les apports organiques naturels comme le compost et le fumier.",
+        "D": "D’augmenter uniquement la température du sol pour accélérer la germination des graines."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Les engrais chimiques sont principalement :",
+      "reponses": {
+        "A": "Des micro-organismes vivants servant à enrichir la microflore du sol.",
+        "B": "Des déchets organiques issus de la fermentation de la biomasse végétale et animale.",
+        "C": "Des substances minérales fabriquées pour fournir aux plantes des nutriments essentiels rapidement disponibles.",
+        "D": "Des matériaux inertes servant uniquement à améliorer la texture du sol."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "L’application d’engrais chimiques provoque :",
+      "reponses": {
+        "A": "Une neutralisation de la capacité d’échange cationique empêchant toute absorption d’éléments nutritifs.",
+        "B": "Une dégradation immédiate de la fertilité naturelle du sol par élimination des minéraux essentiels.",
+        "C": "Une amélioration rapide de la fertilité du sol grâce à un apport direct d’éléments minéraux assimilables.",
+        "D": "Une augmentation de la quantité d’humus par décomposition biologique lente."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Les engrais simples dits N-P-K contiennent :",
+      "reponses": {
+        "A": "Carbone, oxygène et hydrogène, composants principaux de la matière organique",
+        "B": "Calcium, magnésium et soufre, essentiels à la structure du sol.",
+        "C": "Azote, phosphore et potassium, qui sont les trois nutriments majeurs pour les plantes.",
+        "D": "Fer, cuivre et zinc, destinés à corriger les carences micronutritionnelles."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "L’azote (N) dans les engrais favorise :",
+      "reponses": {
+        "A": "Le développement des feuilles et des tiges, stimulant la croissance végétative.",
+        "B": "L’endurcissement des racines et la résistance aux maladies fongiques.",
+        "C": "L’augmentation de la teneur en sucres et la maturation précoce des fruits.",
+        "D": "L’amélioration de la structure grumeleuse et la porosité du sol."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°6": {
+      "question": "Le phosphore (P) contenu dans les engrais chimiques :",
+      "reponses": {
+        "A": "Stimule l’enracinement et favorise la floraison des plantes.",
+        "B": "Accélère uniquement la formation des tiges secondaires et la production de feuilles.",
+        "C": "Réduit la croissance racinaire pour privilégier la photosynthèse.",
+        "D": "Sert surtout à solidifier les parois cellulaires et à limiter la transpiration foliaire."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "Le potassium (K) joue un rôle essentiel en :",
+      "reponses": {
+        "A": "Renforçant la résistance des plantes aux maladies et en améliorant la qualité des fruits et tubercules.",
+        "B": "Favorisant uniquement la germination des graines dans les sols secs.",
+        "C": "Remplaçant les fonctions de l’azote et du phosphore dans le développement végétatif.",
+        "D": "Accélérant la décomposition de la matière organique présente dans le sol."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°8": {
+      "question": "Vitesse d’action des engrais chimiques",
+      "reponses": {
+        "A": "Très lentement, car ils doivent être transformés par les micro-organismes du sol.",
+        "B": "Rapidement, car leurs éléments nutritifs sont immédiatement assimilables par les plantes.",
+        "C": "De manière aléatoire, selon la présence ou non de matière organique.",
+        "D": "Seulement après plusieurs saisons agricoles d’application continue."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°9": {
+      "question": "Un excès d’engrais chimiques peut :",
+      "reponses": {
+        "A": "Rendre le sol plus fertile et plus stable sur le long terme.",
+        "B": "Stabiliser le pH du sol en neutralisant toute acidité.",
+        "C": "Favoriser la multiplication des micro-organismes bénéfiques sans conséquence négative.",
+        "D": "Devenir toxique pour les plantes et nuire à leur croissance."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°10": {
+      "question": "Une utilisation excessive d’engrais chimiques :",
+      "reponses": {
+        "A": "Améliore la structure du sol en augmentant la proportion d’humus et la porosité.",
+        "B": "Stabilise la texture du sol sans modifier sa composition biologique.",
+        "C": "Renforce la cohésion du sol grâce à la formation de complexes argilo-humiques.",
+        "D": "Appauvrit la structure du sol en réduisant la matière organique et la biodiversité."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°11": {
+      "question": "L’usage intensif d’engrais chimiques peut entraîner :",
+      "reponses": {
+        "A": "Une dépollution naturelle des eaux souterraines par absorption des nutriments excédentaires.",
+        "B": "Une pollution des nappes phréatiques due au lessivage des nitrates et phosphates.",
+        "C": "Une amélioration de la qualité de l’eau grâce à la rétention totale des minéraux dans le sol.",
+        "D": "Une réduction de la salinité et une meilleure oxygénation des eaux profondes."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "L’application répétée d’engrais chimiques :",
+      "reponses": {
+        "A": "Augmente la diversité microbienne en stimulant les bactéries fixatrices d’azote.",
+        "B": "N’a aucun effet sur les organismes vivants présents dans la rhizosphère.",
+        "C": "Favorise la multiplication de champignons symbiotiques bénéfiques pour les racines.",
+        "D": "Peut réduire la biodiversité microbienne en déséquilibrant l’écosystème du sol."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°13": {
+      "question": "Contrairement aux engrais organiques, les engrais chimiques :",
+      "reponses": {
+        "A": "Agissent plus lentement mais de façon plus durable.",
+        "B": "Ne contiennent que des éléments d’origine biologique sans ajout minéral.",
+        "C": "Ont une action identique sur la vie microbienne et la structure du sol.",
+        "D": "Agissent plus rapidement mais ont des effets à court terme sur la fertilité."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°14": {
+      "question": "Pour préserver la durabilité du sol, les engrais chimiques doivent être :",
+      "reponses": {
+        "A": "Utilisés sans restriction pour maximiser la productivité agricole immédiate.",
+        "B": "Dosés de manière raisonnée et combinés à des apports organiques comme le compost ou la fumure.",
+        "C": "Appliqués systématiquement avant chaque pluie pour garantir leur absorption complète.",
+        "D": "Substitués à l’irrigation pour réguler l’humidité du sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle est la principale différence entre un engrais organique et un engrais chimique ?",
+      "reponses": {
+        "A": "L’engrais organique agit rapidement sur les plantes en libérant tous ses nutriments d’un coup.",
+        "B": "L’engrais organique libère ses nutriments lentement, assurant une fertilité durable.",
+        "C": "L’engrais organique appauvrit la structure du sol à long terme.",
+        "D": "L’engrais organique ne contient pas d’éléments nutritifs assimilables par les plantes."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la principale origine des engrais organiques ?",
+      "reponses": {
+        "A": "Exclusivement minérale, issue de la décomposition des roches phosphatées.",
+        "B": "D’origine végétale ou animale, provenant de déchets organiques naturels.",
+        "C": "Entièrement synthétique, fabriquée à partir d’éléments azotés industriels.",
+        "D": "Issue uniquement des boues d’épuration des villes industrielles."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "Le fumier est défini comme :",
+      "reponses": {
+        "A": "Un mélange de sable, d’eau et de cendres utilisé pour enrichir le sol.",
+        "B": "Un mélange de déjections animales et de litière végétale.",
+        "C": "Un sous-produit minéral résultant de la décomposition de roches calcaires.",
+        "D": "Un liquide organique issu de la fermentation des engrais verts."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle caractéristique distingue les engrais d’origine animale ?",
+      "reponses": {
+        "A": "Ils apportent un azote à décomposition lente et favorisent la microflore du sol.",
+        "B": "Ils sont immédiatement assimilables et dépourvus de micro-organismes.",
+        "C": "Ils contiennent uniquement du phosphore et du potassium.",
+        "D": "Ils rendent le sol imperméable et limitent l’activité biologique."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle est la nature du lisier ?",
+      "reponses": {
+        "A": "Une matière solide composée de débris végétaux séchés.",
+        "B": "Une poudre minérale utilisée pour corriger le pH du sol",
+        "C": "Un liquide contenant les déjections animales mélangées à de l’eau.",
+        "D": "Un résidu de compostage riche en sable et en argile."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Les fientes sont :",
+      "reponses": {
+        "A": "Les excréments liquides des bovins utilisés pour le compostage.",
+        "B": "Les déchets de poissons utilisés dans la fertilisation marine",
+        "C": "Les résidus végétaux séchés sans valeur nutritive",
+        "D": "Les excréments solides des volailles riches en azote."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°21": {
+      "question": "Quelle affirmation décrit le mieux les engrais verts ?",
+      "reponses": {
+        "A": "Ce sont des plantes cultivées pour être récoltées et vendues comme fourrage.",
+        "B": "Ce sont des résidus végétaux séchés sans valeur nutritive",
+        "C": "Ce sont des engrais chimiques enrichis en azote vert biodégradable.",
+        "D": "Ce sont des plantes cultivées pour être enfouies dans le sol afin de l’enrichir."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°22": {
+      "question": "Que devient la matière organique végétale après décomposition complète ?",
+      "reponses": {
+        "A": "Elle se transforme en sable enrichi et stérile.",
+        "B": "Elle se volatilise sous forme de gaz azotés sans utilité.",
+        "C": "Elle produit du calcaire qui durcit la structure du sol.",
+        "D": "Elle devient un humus stable et riche en nutriments."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°23": {
+      "question": "Le rôle principal de l’humus dans le sol est :",
+      "reponses": {
+        "A": "D’augmenter uniquement la teneur en eau sans effets sur les nutriments.",
+        "B": "D’améliorer durablement la fertilité chimique, physique et biologique du sol.",
+        "C": "De bloquer la décomposition microbienne et stabiliser le pH.",
+        "D": "De réduire la porosité et rendre le sol plus compact."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°24": {
+      "question": "Pourquoi les engrais organiques sont-ils dits « durables » ?",
+      "reponses": {
+        "A": "Parce qu’ils épuisent rapidement les éléments minéraux du sol.",
+        "B": "Parce qu’ils entretiennent la fertilité sur le long terme grâce à l’humus.",
+        "C": "Parce qu’ils agissent uniquement en surface et non en profondeur.",
+        "D": "Parce qu’ils se dissolvent complètement dès la première pluie."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°25": {
+      "question": "Quelle est la particularité du compost issu de résidus végétaux ?",
+      "reponses": {
+        "A": "Il enrichit le sol en matière organique mais sans effet sur la structure.",
+        "B": "Il améliore la structure du sol et libère lentement des nutriments.",
+        "C": "Il acidifie fortement le sol et appauvrit les micro-organismes.",
+        "D": "Il remplace totalement la nécessité de jachère."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°26": {
+      "question": "Quelle est une limite majeure des engrais organiques ?",
+      "reponses": {
+        "A": "Leur décomposition est lente, donc les effets sont moins immédiats.",
+        "B": "Leur utilisation rend les sols totalement imperméables.",
+        "C": "Ils provoquent une acidification excessive du sol en quelques jours.",
+        "D": "Ils ne contiennent aucun élément nutritif essentiel aux plantes."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°27": {
+      "question": "Quel sous-produit d’abattoir est couramment utilisé comme engrais ?",
+      "reponses": {
+        "A": "Le sable calciné et tamisé.",
+        "B": "Le sang desséché et les cornes torréfiées.",
+        "C": "La sciure de bois et les copeaux minéralisés.",
+        "D": "Le calcaire broyé mélangé à de la cendre."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°28": {
+      "question": "Quelle affirmation est exacte concernant les boues d’épuration ?",
+      "reponses": {
+        "A": "Elles sont utilisées uniquement pour l’irrigation des cultures aquatiques.",
+        "B": "Elles sont dépourvues d’azote et uniquement minérales.",
+        "C": "Elles sont riches en azote et peuvent être utilisées comme amendement organique.",
+        "D": "Elles détruisent complètement la microflore du sol."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°29": {
+      "question": "Quel lien unit la microflore du sol et les engrais organiques ?",
+      "reponses": {
+        "A": "La microflore transforme les engrais organiques en sels minéraux toxiques.",
+        "B": "Les engrais organiques bloquent la croissance des micro-organismes.",
+        "C": "Les engrais organiques nourrissent la microflore, qui décompose la matière en humus.",
+        "D": "Les engrais organiques stérilisent le sol et empêchent toute activité biologique."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°30": {
+      "question": "Quelle différence essentielle existe entre les engrais chimiques et les engrais organiques ?",
+      "reponses": {
+        "A": "Les engrais chimiques libèrent lentement leurs nutriments tandis que les engrais organiques agissent immédiatement après l’application.",
+        "B": "Les engrais chimiques contiennent de l’humus stabilisé, contrairement aux engrais organiques.",
+        "C": "Les engrais chimiques apportent des éléments minéraux directement assimilables, alors que les organiques les libèrent lentement grâce à la décomposition.",
+        "D": "Les engrais organiques favorisent uniquement la croissance aérienne sans effet sur le sol."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°31": {
+      "question": "Quelle conséquence découle d’un usage excessif d’engrais chimiques ?",
+      "reponses": {
+        "A": "Une amélioration durable de la structure du sol grâce à la formation d’humus stable.",
+        "B": "Une diminution progressive de la teneur en sels minéraux dans la solution du sol",
+        "C": "Une augmentation naturelle de la microflore du sol et une meilleure aération.",
+        "D": "Une pollution des nappes phréatiques et un appauvrissement de la biodiversité microbienne."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°32": {
+      "question": "Les engrais organiques favorisent la fertilité à long terme parce que :",
+      "reponses": {
+        "A": "Ils stimulent la formation d’humus qui améliore les propriétés physiques et biologiques du sol.",
+        "B": "Ils agissent uniquement sur les racines et non sur la structure du sol.",
+        "C": "Ils bloquent la respiration des micro-organismes et ralentissent la décomposition.",
+        "D": "Ils remplacent totalement la matière minérale sans interaction biologique."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°33": {
+      "question": "Quelle est la principale limite des engrais chimiques ?",
+      "reponses": {
+        "A": "Leur effet rapide peut entraîner des déséquilibres nutritionnels et une toxicité en cas d’excès.",
+        "B": "Ils n’apportent jamais de nutriments directement assimilables par les plantes.",
+        "C": "Ils enrichissent la microflore du sol mais diminuent la croissance des plantes.",
+        "D": "Ils empêchent la photosynthèse par accumulation de sels organiques."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°34": {
+      "question": "Pourquoi l’usage combiné des engrais chimiques et organiques est-il recommandé ?",
+      "reponses": {
+        "A": "Parce qu’ils ont des effets contraires qui se neutralisent mutuellement.",
+        "B": "Parce que les chimiques rendent inutile toute matière organique.",
+        "C": "Parce que les organiques accélèrent la toxicité des chimiques dans le sol.",
+        "D": "Parce que les organiques apportent de l’humus et les chimiques comblent les besoins immédiats."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°35": {
+      "question": "Parmi ces affirmations, laquelle décrit le mieux les engrais organiques d’origine animale ?",
+      "reponses": {
+        "A": "Ils appauvrissent la teneur en matière organique stable",
+        "B": "Ils sont constitués de sels minéraux immédiatement assimilables.",
+        "C": "Ils sont composés de roches broyées riches en potassium.",
+        "D": "Ils contiennent de l’azote à décomposition lente et stimulent la microflore du sol."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°36": {
+      "question": "Les engrais chimiques de type N-P-K apportent :",
+      "reponses": {
+        "A": "Azote pour la floraison, phosphore pour la résistance, potassium pour la croissance.",
+        "B": "Azote pour la croissance végétative, phosphore pour l’enracinement, potassium pour la résistance.",
+        "C": "Azote pour la décomposition, phosphore pour l’humidification, potassium pour l’aération.",
+        "D": "Azote pour l’acidification, phosphore pour la minéralisation, potassium pour la décomposition."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°37": {
+      "question": "L’humus issu des engrais organiques a un rôle majeur car :",
+      "reponses": {
+        "A": "Il améliore durablement la structure, la rétention d’eau et la vie microbienne du sol.",
+        "B": "Il accélère la perte de nutriments et la compaction du sol.",
+        "C": "Il bloque l’échange d’air et la respiration des racines.",
+        "D": "Il rend le sol imperméable et stérile à long terme."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°38": {
+      "question": "Dans la gestion durable des sols, pourquoi privilégier les engrais organiques ?",
+      "reponses": {
+        "A": "Parce qu’ils entretiennent la fertilité sans pollution et améliorent la biodiversité du sol.",
+        "B": "Parce qu’ils permettent une croissance rapide même en absence d’eau.",
+        "C": "Parce qu’ils remplacent complètement les éléments minéraux nécessaires aux plantes.",
+        "D": "Parce qu’ils suppriment toute activité microbienne du sol après décomposition."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°39": {
+      "question": "Quel est l’impact écologique comparé des deux types d’engrais ?",
+      "reponses": {
+        "A": "Les engrais chimiques préservent mieux les nappes phréatiques que les organiques.",
+        "B": "Les engrais organiques sont moins polluants et améliorent la vie du sol, contrairement aux chimiques.",
+        "C": "Les deux types d’engrais ont exactement le même effet sur la faune du sol.",
+        "D": "Les engrais organiques détruisent les micro-organismes tandis que les chimiques les protègent."
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT017_Q4",
+  "titre": "Quiz 2: les amendements humifère et calcaire",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est une propriété physique du sol humifère ?",
+      "reponses": {
+        "A": "Une structure non organisée",
+        "B": "Une texture non équilibrée",
+        "C": "Une mauvaise perméabilité à l’eau et à l’air",
+        "D": "Une bonne perméabilité à l’eau et à l’air"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°2": {
+      "question": "Une propriété chimique du sol humifère est :",
+      "reponses": {
+        "A": "Un pH alcalin",
+        "B": "Un pH acide et absence de sels minéraux",
+        "C": "Une forte concentration en calcaire",
+        "D": "Une absence totale de minéraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "Une propriété biologique du sol humifère est :",
+      "reponses": {
+        "A": "Une activité biologique faible",
+        "B": "Une production élevée d’oxygène",
+        "C": "Une forte présence de micro-organismes",
+        "D": "Une activité biologique faible ou absente"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°4": {
+      "question": "Pourquoi le sol humifère n’est-il pas propice à l’agriculture ?",
+      "reponses": {
+        "A": "Il est impropre à l’agriculture parce qu’il est trop riche en nutriments.",
+        "B": "Il est impropre à l’agriculture parce qu’il contient trop d’eau.",
+        "C": "Il est impropre à l’agriculture parce qu’il est trop compact.",
+        "D": "Il est impropre à l’agriculture parce qu’il a perdu ses caractéristiques de fertilité."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce que l’amendement humifère implique ?",
+      "reponses": {
+        "A": "L’ajout de sels minéraux",
+        "B": "La suppression de toute matière organique",
+        "C": "L’augmentation de l’acidité du sol",
+        "D": "L’apport d’humus"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°6": {
+      "question": "À quoi sert l’amendement calcaire ?",
+      "reponses": {
+        "A": "À diminuer le pH du sol et à régulariser l’état ionique",
+        "B": "À rendre le sol plus compact et à régulariser l’état ionique",
+        "C": "À apporter du calcium au sol et à régulariser l’état ionique",
+        "D": "À augmenter la teneur en eau et à régulariser l’état ionique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°7": {
+      "question": "Qu’est-ce que la chaux vive (CaO) devient une fois hydratée dans le sol ?",
+      "reponses": {
+        "A": "De l’eau pure (H2O)",
+        "B": "Du dioxyde de carbone (CO2)",
+        "C": "De l’hydroxyde de calcium (Ca(OH)2)",
+        "D": "Du chlorure de sodium (NaCl)"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est l’effet des ions Ca$^{2+}$ sur le complexe argilo-humique ?",
+      "reponses": {
+        "A": "Ils le rendent instable ce qui permettent d’avoir une structure organisée",
+        "B": "Ils le rendent imperméable ce qui permettent d’avoir une structure organisée",
+        "C": "Ils augmentent l’acidité du sol ce qui permettent d’avoir une structure organisée",
+        "D": "Ils échangent d’ions H$^{+}$ ce qui permettent d’avoir une structure organisée."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "Que forment les ions OH$^{-}$ combinés aux ions H$^{+}$ libérés ?",
+      "reponses": {
+        "A": "Du calcaire",
+        "B": "De l’eau",
+        "C": "Des sels minéraux",
+        "D": "Du dioxyde de carbone"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Qu’est-ce qui se passe au pH du milieu si aucun acide résidu n’apparaît ?",
+      "reponses": {
+        "A": "Le pH diminue.",
+        "B": "Le pH devient neutre.",
+        "C": "Le pH reste stable.",
+        "D": "Le pH s’élève."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est le rôle principal de l’amendement humifère ?",
+      "reponses": {
+        "A": "Diminuer la perméabilité du sol.",
+        "B": "Contribuer à l’amélioration des propriétés physiques, chimiques et biologiques du sol.",
+        "C": "Augmenter le pH du sol.",
+        "D": "Rendre le sol stérile."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment l’amendement humifère améliore-t-il les propriétés physiques du sol ?",
+      "reponses": {
+        "A": "En augmentant sa densité.",
+        "B": "En formant le complexe argilo-humique qui assure la stabilité de l’eau.",
+        "C": "En rendant le sol plus compact.",
+        "D": "En diminuant la porosité."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "Comment l’amendement humifère améliore-t-il les propriétés chimiques du sol ?",
+      "reponses": {
+        "A": "En diminuant la disponibilité des éléments minéraux.",
+        "B": "En améliorant la mise à la disposition des plantes des éléments minéraux.",
+        "C": "En augmentant la toxicité des sols.",
+        "D": "En bloquant l’assimilation des nutriments."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est l’effet de l’humus sur les propriétés biologiques du sol ?",
+      "reponses": {
+        "A": "Il diminue l’activité micro-organique.",
+        "B": "Il inhibe la croissance des plantes.",
+        "C": "Il sert de support et d’aliments aux micro-organismes qui améliorent la structure.",
+        "D": "Il n’a aucun impact sur la vie microbienne."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "De quoi est composée la matière organique humifère ?",
+      "reponses": {
+        "A": "De sels minéraux uniquement.",
+        "B": "De matière organique de couleur brune ou noirâtre d’origine exclusivement végétale.",
+        "C": "D’éléments inorganiques.",
+        "D": "De matière organique de couleur brune ou noirâtre d’origine exclusivement végétale."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°16": {
+      "question": "Le sol humifère est un sol qui a des caractéristiques de fertilité optimales.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "L’amendement calcaire permet d’apporter du calcium au sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Les ions Ca2+ contribuent à la formation d’une structure organisée du sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "L’hydroxyde de calcium (Ca(OH)2) est une base forte.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Les ions OH$^{-}$ augmentent l’acidité du sol en se combinant aux ions H$^{+}$.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX (Ils forment de l’eau, ce qui réduit l’acidité.)"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "L’amendement humifère dégrade les propriétés physiques du sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°22": {
+      "question": "Le complexe argilo-humique est important pour la stabilité de l’eau dans le sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°23": {
+      "question": "L’humus diminue la disponibilité des éléments minéraux pour les plantes.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°24": {
+      "question": "Les micro-organismes du sol ne dépendent pas de l’humus pour leur alimentation.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°25": {
+      "question": "« Le sol est impropre à l’agriculture parce qu’il a __________ ses caractéristiques de __________. Il faut donc l’amender en lui apportant du calcium (amendement __________). «",
+      "reponses": {
+        "A": "perdu / fertilité / calcaire",
+        "B": "amélioré / composition / organique",
+        "C": "conservé / structure / chimique",
+        "D": "modifié / texture / minéral"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°26": {
+      "question": "« Faire l’amendement calcaire c’est apporter du __________ au sol qui permettra de __________ l’argile et l’humus pour former le complexe argilo-humique et de __________ l’état ionique de ce sol. »",
+      "reponses": {
+        "A": "soufre / durcir / stabiliser",
+        "B": "calcium / floculer / régulariser",
+        "C": "azote / disperser / acidifier",
+        "D": "potassium / liquéfier / déséquilibrer"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "« Le précipité de CaCO3 contribue à l’__________ des propriétés physiques, chimiques et biologiques du sol. Des amendements humifères servent de supports et d’__________ aux micro-organismes et sont la __________ de l’humus. »",
+      "reponses": {
+        "A": "amélioration / d’aliments / source",
+        "B": "détérioration / de poisons / cause",
+        "C": "altération / de freins / fin",
+        "D": "diminution / de protections / matière"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°28": {
+      "question": "« L’humus est une matière organique variée de couleur __________ ou __________ de composition __________ mais est la seule qui résulte de la décomposition de matière organique d’origine __________ végétale. »",
+      "reponses": {
+        "A": "brune / noirâtre / chimique / exclusivement",
+        "B": "verte / blanche / physique / partiellement",
+        "C": "rouge / jaune / biologique / uniquement",
+        "D": "grise / bleue / minérale / synthétique"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°29": {
+      "question": "« On peut effectivement __________ la fertilité d’un sol par __________ d’engrais chimiques, mais aussi par des techniques de __________. »",
+      "reponses": {
+        "A": "améliorer / l’apport / protection",
+        "B": "dégrader / l’absence / pollution",
+        "C": "ignorer / l’utilisation / destruction",
+        "D": "perturber / le retrait / restauration"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°30": {
+      "question": "« L’humus, par ses propriétés physiques, contribue à la __________ de l’eau, tandis que par ses propriétés chimiques, il __________ la mise à la disposition des plantes des __________ minéraux directement assimilables. »",
+      "reponses": {
+        "A": "stabilité / améliore / éléments",
+        "B": "imperméabilité / bloque / composés",
+        "C": "évaporation / diminue / nutriments",
+        "D": "absorption / réduit / ressources"
+      },
+      "bonne_reponse": "A"
+    }
+  }
+},
+{
+  "id": "SVT017_Q5",
+  "titre": "Quiz 3: perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "La protection des sols est assurée par la mise en œuvre de plusieurs :",
+      "reponses": {
+        "A": "Techniques",
+        "B": "Produits chimiques",
+        "C": "Animaux",
+        "D": "Machines"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°2": {
+      "question": "Le paillage consiste à mettre en place une couverture de :",
+      "reponses": {
+        "A": "Plastique",
+        "B": "Matière végétale morte (paille)",
+        "C": "Pierre",
+        "D": "Sable"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "L’objectif du paillage est d’enrichir le sol et de le protéger contre :",
+      "reponses": {
+        "A": "Les maladies des plantes",
+        "B": "La battance des pluies, l’érosion et l’insolation",
+        "C": "Les insectes nuisibles",
+        "D": "La sécheresse prolongée"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "La jachère est une technique qui consiste à laisser le sol au repos pendant un certain temps afin de lui permettre de :",
+      "reponses": {
+        "A": "Diminuer sa fertilité",
+        "B": "Reconstituer naturellement sa fertilité",
+        "C": "Devenir plus compact",
+        "D": "Perdre ses minéraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "L’assolement ou rotation est une alternance de cultures n’ayant pas :",
+      "reponses": {
+        "A": "Le même rendement",
+        "B": "Les mêmes besoins en éléments minéraux",
+        "C": "La même couleur",
+        "D": "La même période de croissance"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "Le but de l’assolement ou rotation est d’assurer la conservation de la fertilité du sol en retardant :",
+      "reponses": {
+        "A": "L’enrichissement du sol",
+        "B": "La prolifération des mauvaises herbes",
+        "C": "La croissance des plantes",
+        "D": "L’épuisement en éléments minéraux"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Le terrassement consiste à faire des cultures en :",
+      "reponses": {
+        "A": "Rond",
+        "B": "Spirale",
+        "C": "en forme d’escaliers",
+        "D": "Ligne droite"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "Le terrassement permet de lutter contre :",
+      "reponses": {
+        "A": "Le vent",
+        "B": "L’écoulement rapide des eaux",
+        "C": "Les inondations",
+        "D": "La pollution"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°9": {
+      "question": "Les plantes de couverture ou engazonnements consistent à :",
+      "reponses": {
+        "A": "Laisser le sol nu",
+        "B": "Recouvrir le sol par la mise en place d’une plante de couverture",
+        "C": "Planter des arbres uniquement",
+        "D": "Utiliser des bâches en plastique"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Les plantes de couverture ont pour rôle de protéger contre l’érosion et de reconstituer :",
+      "reponses": {
+        "A": "Le niveau de l’eau",
+        "B": "La couche d’ozone",
+        "C": "La faune et la flore du sol",
+        "D": "Les vents dominants"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°11": {
+      "question": "La protection des sols n’est pas nécessaire si on utilise des engrais.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Le paillage aide à protéger le sol de l’insolation.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°13": {
+      "question": "La jachère a pour but de rendre le sol stérile.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "L’assolement aide à l’épuisement rapide du sol en éléments minéraux.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "« On peut effectivement __________ la fertilité d’un sol par des techniques de __________ telles que le paillage qui __________ contre la battance des pluies, l’érosion et l’insolation. »",
+      "reponses": {
+        "A": "améliorer / protection / lutte",
+        "B": "détériorer / destruction / protège",
+        "C": "maintenir / conservation / prévient",
+        "D": "ignorer / négligence / favorise"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle technique culturale consiste à mettre en place une couverture de matière végétale morte sur le sol ?",
+      "reponses": {
+        "A": "Assolement",
+        "B": "Jachère",
+        "C": "Paillage",
+        "D": "Terrassement"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°17": {
+      "question": "La technique de la jachère a pour objectif de :",
+      "reponses": {
+        "A": "Réaliser des bandes planes de culture.",
+        "B": "Alterner des cultures n’ayant pas les mêmes besoins.",
+        "C": "Mettre en place une couverture de matière végétale.",
+        "D": "Mettre au repos un sol après la récolte en vue de la reconstitution de sa fertilité."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°18": {
+      "question": "Le terrassement implique :",
+      "reponses": {
+        "A": "La réalisation de bandes planes de culture établies en travers d’une pente.",
+        "B": "La mise au repos du sol.",
+        "C": "La mise en place d’une couverture végétale morte.",
+        "D": "L’alternance de cultures différentes."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "L’assolement est une technique qui se caractérise par :",
+      "reponses": {
+        "A": "Le repos du sol.",
+        "B": "La création de terrasses.",
+        "C": "L’alternance de cultures n’ayant pas les mêmes besoins en éléments minéraux sur un même sol.",
+        "D": "La mise en place de paillis."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Les engrais organiques sont minéralisés avant d’être assimilés.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°21": {
+      "question": "L’amendement calcaire élève le pH des sols acides.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°22": {
+      "question": "L’amendement humifère sert de support et d’aliments aux microorganismes du sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°23": {
+      "question": "Les engrais organiques réduisent uniquement de l’humus au sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX (Le texte ne mentionne pas cela et il est implicite qu’ils l’enrichissent)."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°24": {
+      "question": "Le paillage des surfaces lutte uniquement contre l’érosion.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX (Le texte mentionne aussi la battance des pluies et l’insolation)."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°25": {
+      "question": "« Les engrais chimiques se présentent sous forme de __________ que l’on répand sur le sol. Ils se __________ dans la solution du sol dans laquelle ils libèrent des __________ directement assimilables par les plantes. »",
+      "reponses": {
+        "A": "sels / dissolvent / éléments minéraux",
+        "B": "gaz / évaporent / substances organiques",
+        "C": "liquides / solidifient / déchets",
+        "D": "solides / flottent / nutriments"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°26": {
+      "question": "« Les engrais organiques sont des __________ organiques ou ils sont __________ en éléments minéraux __________ par les plantes. »",
+      "reponses": {
+        "A": "substances / transformés / utilisables",
+        "B": "composés / rejetés / nocifs",
+        "C": "minéraux / créés / non-assimilables",
+        "D": "liquides / conservés / inefficaces"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°27": {
+      "question": "« L’effet des engrais chimiques est __________ mais il ne dure que le temps d’__________. »",
+      "reponses": {
+        "A": "important / une récolte",
+        "B": "insignifiant / un mois",
+        "C": "permanent / plusieurs années",
+        "D": "toxique / un jour"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°28": {
+      "question": "Le processus par lequel les vers de terre décomposent la matière organique pour libérer des sels minéraux est spécifiquement appelé :",
+      "reponses": {
+        "A": "Photosynthèse",
+        "B": "Nitrification",
+        "C": "Humification",
+        "D": "Minéralisation"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°29": {
+      "question": "Parmi les exemples de débris animaux et végétaux constituant un type d’engrais organique, on retrouve :",
+      "reponses": {
+        "A": "Le sable",
+        "B": "L’argile",
+        "C": "Le fumier",
+        "D": "Le calcaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°30": {
+      "question": "En conclusion, la fertilité d’un sol peut être améliorée par l’apport d’engrais chimiques et également par :",
+      "reponses": {
+        "A": "La diminution des apports organiques",
+        "B": "L’apport d’engrais organiques",
+        "C": "L’augmentation de l’érosion",
+        "D": "La suppression des vers de terre"
+      },
+      "bonne_reponse": "B"
+    },
+      "question n°31": {
+      "question": "Un engrais vert est défini comme :",
+      "reponses": {
+        "A": "Un engrais chimique de couleur verte.",
+        "B": "Une plante qui pousse lentement.",
+        "C": "Une culture de végétation rapide à incorporer au sol.",
+        "D": "Un engrais uniquement animal."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°32": {
+      "question": "Quel est l’objectif principal de l’incorporation des engrais verts au sol ?",
+      "reponses": {
+        "A": "Diminuer le rendement agricole.",
+        "B": "Améliorer la fertilité du sol.",
+        "C": "Réduire la teneur en eau du sol.",
+        "D": "Augmenter l’érosion du sol."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°33": {
+      "question": "Les engrais verts favorisent :",
+      "reponses": {
+        "A": "La compaction du sol",
+        "B": "La nutrition minérale",
+        "C": "L’acidification du sol",
+        "D": "La propagation des maladies"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°34": {
+      "question": "En plus de favoriser la nutrition minérale, les engrais verts ont d’autres fonctions bénéfiques, lesquelles ?",
+      "reponses": {
+        "A": "Ils augmentent la toxicité du sol.",
+        "B": "Ils dégradent la structure du sol.",
+        "C": "Ils protègent et améliorent la structure du sol.",
+        "D": "Ils réduisent l’activité microbienne."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°35": {
+      "question": "L’augmentation du rendement est attribuée à l’enrichissement de la réserve minérale du sol par :",
+      "reponses": {
+        "A": "Les engrais chimiques",
+        "B": "Le sable",
+        "C": "La lumière du soleil",
+        "D": "L’eau"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°36": {
+      "question": "Les éléments minéraux apportés sont directement :",
+      "reponses": {
+        "A": "Inutilisables par les plantes",
+        "B": "Toxiques pour les plantes à toutes doses",
+        "C": "Assimilables par les plantes",
+        "D": "Absorbés par l’air"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°37": {
+      "question": "Parmi les éléments nutritifs, on trouve des engrais simples tels que :",
+      "reponses": {
+        "A": "L’oxygène et le carbone",
+        "B": "N-P-K",
+        "C": "L’eau et le vent",
+        "D": "Les roches"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°38": {
+      "question": "À des doses très élevées, les engrais chimiques ont un effet sur les plantes :",
+      "reponses": {
+        "A": "Bénéfique",
+        "B": "Neutre",
+        "C": "Toxique",
+        "D": "Stimulant"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°39": {
+      "question": "Les vers de terre contribuent à une teneur élevée en éléments minéraux dans le sol en :",
+      "reponses": {
+        "A": "Apportant de nouveaux minéraux",
+        "B": "Décomposant la matière organique non assimilable",
+        "C": "Creusant des galeries",
+        "D": "Consommant les minéraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°40": {
+      "question": "L’apport d’engrais chimique diminue le rendement agricole.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°41": {
+      "question": "Les engrais verts sont des cultures de végétation rapide incorporées au sol pour en améliorer la fertilité.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°42": {
+      "question": "La matière organique décomposée par les vers de terre est appelée engrais inorganique.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°43": {
+      "question": "« L’augmentation du rendement est due au fait que les engrais chimiques apportés au sol __________ la réserve minérale de ce sol. Ces éléments minéraux apportés sont directement __________ par les plantes. Ce sont donc des éléments nutritifs parmi lesquels on a les engrais simples : __________. »",
+      "reponses": {
+        "A": "enrichissent / assimilables / N-P-K",
+        "B": "réduisent / inutilisables / H2O",
+        "C": "transforment / rejetés / CO2",
+        "D": "absorbent / indigestes / O2"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°44": {
+      "question": "« On peut effectivement améliorer la fertilité d’un sol par __________ d’engrais chimiques. De plus, la fertilité peut être améliorée par l’apport d’engrais __________ comme les __________ et les engrais verts. »",
+      "reponses": {
+        "A": "l’apport / organiques / débris animaux et végétaux",
+        "B": "la suppression / synthétiques / minéraux",
+        "C": "l’absence / inorganiques / substances chimiques",
+        "D": "la diminution / artificiels / pesticides"
+      },
+      "bonne_reponse": "A"
+    }
+  }
+}  
+]

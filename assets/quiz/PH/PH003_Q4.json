@@ -1,0 +1,203 @@
+
+{
+  "title": "Quiz 4",
+  "id": "PH003_Q4",
+  "questions": {
+    "question n°1": {
+      "question": " Toujours sur le thème <<l'Etat et la liberté>>. Quelle est la fonction première de l’État selon la théorie de Hobbes ?",
+      "réponses": {
+        "A": "Permettre aux plus forts d’imposer leur volonté sans obstacle.",
+        "B": "Garantir la sécurité et sortir l’homme de l’état de nature chaotique.",
+        "C": "Offrir aux citoyens une vie de confort matériel dans une société technologique.",
+        "D": "Réduire l’homme à un rôle administratif au sein d’un ordre établi."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "En quoi l’État démocratique se distingue-t-il des autres formes de pouvoir ?",
+      "réponses": {
+        "A": "Il impose la volonté d’un seul au détriment de la majorité.",
+        "B": "Il fait de la majorité une machine oppressive contre les minorités.",
+        "C": "Il permet au peuple de se gouverner lui-même par des lois qu’il adopte.",
+        "D": "Il limite la liberté en réduisant le choix à celui de quelques représentants."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’est-ce que la loi, dans une démocratie selon Rousseau ?",
+      "réponses": {
+        "A": "Une norme décidée par une élite éclairée pour le bien du peuple.",
+        "B": "Un outil de répression déguisé destiné à protéger l’ordre établi",
+        "C": "Un ensemble de contraintes sociales imposées sans consentement réel.",
+        "D": "Une règle librement acceptée par tous qui garantit la liberté de chacun."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "À quel courant philosophique rattache-t-on Hobbes dans sa vision de l’État ?",
+      "réponses": {
+        "A": "Contractualisme autoritaire et réalisme politique",
+        "B": "Anarchisme individualiste",
+        "C": "Utilitarisme égalitaire",
+        "D": "Socialisme utopique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Rousseau appartient à quel courant concernant l’origine légitime du pouvoir ?",
+      "réponses": {
+        "A": "Absolutisme monarchique traditionnel",
+        "B": "Démocratie participative fondée sur la volonté générale",
+        "C": "Libéralisme économique et individualiste",
+        "D": "Rationalisme aristocratique inspiré de Platon"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est le regard marxiste porté sur l’État ?",
+      "réponses": {
+        "A": "L’État est un médiateur entre classes sociales pour préserver l’harmonie.",
+        "B": "L’État est un instrument de domination de la bourgeoisie sur les autres classes.",
+        "C": "L’État est une abstraction morale neutre qui vise la justice.",
+        "D": "L’État représente l’union fraternelle des citoyens sans distinction de classe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi l’État est-il vu comme nécessaire dans le contexte de l’état de nature ?",
+      "réponses": {
+        "A": "Parce qu’il met fin à l’insécurité permanente où chacun menace la vie d’autrui.",
+        "B": "Parce qu’il protège la liberté naturelle contre toute forme d’autorité.",
+        "C": "Parce qu’il permet aux hommes de se replier sur leur intérêt personnel.",
+        "D": "Parce qu’il abolit la violence institutionnelle en l’absence de lois."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "En quoi l’État démocratique peut-il être un facteur d’émancipation ?",
+      "réponses": {
+        "A": "Parce qu’il délègue le pouvoir à des entités privées non responsables.",
+        "B": "Parce qu’il permet à chacun d’être à la fois gouverné et gouvernant.",
+        "C": "Parce qu’il garantit l’obéissance aveugle à des lois impersonnelles.",
+        "D": "Parce qu’il impose des normes collectives au nom de l’harmonie sociale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Comment la loi peut-elle être synonyme de liberté ?",
+      "réponses": {
+        "A": "Parce qu’elle garantit les mêmes droits à tous et limite les abus.",
+        "B": "Parce qu’elle est imposée de manière rigide, donc juste.",
+        "C": "Parce qu’elle remplace le jugement moral par des sanctions légales.",
+        "D": "Parce qu’elle empêche l’expression spontanée des désirs individuels."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Pourquoi obéir à une loi qu’on s’est prescrite est-il une forme de liberté ? (Rousseau)",
+      "réponses": {
+        "A": "Parce que cela nous oblige à agir contre nos désirs personnels.",
+        "B": "Parce que l’obéissance est toujours préférable à l’anarchie.",
+        "C": "Parce que la loi limite forcément la liberté mais de manière légitime.",
+        "D": "Parce que cette obéissance est le résultat d’un choix collectif assumé."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Comment l’État peut-il promouvoir les talents individuels ?",
+      "réponses": {
+        "A": "En protégeant certains groupes par favoritisme.",
+        "B": "En laissant chaque individu se débrouiller seul dans un marché libre.",
+        "C": "En assurant l’égalité des chances par des politiques éducatives, sociales et culturelles.",
+        "D": "En empêchant toute forme d’inégalité naturelle d’exister."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel rôle joue la représentation dans l’État démocratique ?",
+      "réponses": {
+        "A": "Elle permet aux citoyens d’exercer indirectement leur pouvoir politique.",
+        "B": "Elle supprime toute forme de contrôle populaire.",
+        "C": "Elle institue une hiérarchie fondée sur la naissance.",
+        "D": "Elle établit l’autorité militaire comme seul pouvoir décisionnel."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "« Sans le pouvoir d’un État, la vie de l’homme est solitaire, pauvre, méchante, brutale et courte. » (Hobbes)",
+      "réponses": {
+        "A": "L’État protège l’homme de sa propre violence en créant la paix sociale.",
+        "B": "L’État impose la misère en empêchant le commerce libre.",
+        "C": "L’État réduit les individus à un état de dépendance totale.",
+        "D": "L’État est incapable de créer la moindre sécurité durable."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "« L’obéissance à la loi qu’on s’est prescrite est liberté. » (Rousseau)",
+      "réponses": {
+        "A": "Cette citation exprime une contradiction entre liberté et obligation.",
+        "B": "Cette phrase signifie que la vraie liberté est d’accepter les règles qu’on a choisies.",
+        "C": "Cette phrase affirme qu’on est libre tant qu’on obéit aux lois des autres.",
+        "D": "Cette citation justifie la soumission à l’État comme une nécessité absolue."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« L’État est le conseil d’administration qui gère les affaires communes de la bourgeoisie. » (Marx)",
+      "réponses": {
+        "A": "Marx critique le fait que l’État sert uniquement les intérêts d’une classe dominante.",
+        "B": "Marx félicite l’État pour sa neutralité économique.",
+        "C": "Marx considère que l’État est un espace neutre au service de tous.",
+        "D": "Marx fait l’éloge de l’administration bourgeoise comme modèle d’efficacité."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Pourquoi Hobbes décrit-il l’état de nature comme brutal et dangereux ?",
+      "réponses": {
+        "A": "Parce qu’il glorifie la force et le courage individuels.",
+        "B": "Parce qu’il veut démontrer que seul l’État peut civiliser l’homme.",
+        "C": "Parce qu’il pense que la violence naturelle est bénéfique à long terme.",
+        "D": "Parce qu’il souhaite légitimer la révolte permanente contre l’ordre établi."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "En quoi Rousseau associe-t-il liberté et loi dans une démocratie ?",
+      "réponses": {
+        "A": "Parce que les citoyens restent libres en obéissant à des lois qu’ils ont acceptées.",
+        "B": "Parce que les lois démocratiques sont toujours plus morales que les lois naturelles.",
+        "C": "Parce que les lois permettent de contrôler la majorité contre elle-même.",
+        "D": "Parce que la liberté est définie par l’obéissance à une autorité extérieure."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Que dénonce Marx dans sa vision de l’État ?",
+      "réponses": {
+        "A": "Il accuse l’État d’être un outil de conservation des intérêts bourgeois.",
+        "B": "Il salue l’État comme un vecteur de redistribution économique.",
+        "C": "Il dénonce la bureaucratie comme trop égalitaire.",
+        "D": "Il considère que l’État est trop centré sur les masses populaires."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Pour Hobbes, la liberté véritable est l’absence de toute autorité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Rousseau affirme que plus l’État est autoritaire, plus la liberté est menacée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

@@ -1,0 +1,197 @@
+
+{
+  "title": "Quiz 3",
+  "id": "PH002_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne principalement l’inconscient dans la pensée freudienne ?",
+      "réponses": {
+        "A": "Une absence d’intelligence émotionnelle",
+        "B": "L’ensemble des comportements d’une personne qui ne réfléchit pas",
+        "C": "L’ensemble des phénomènes psychiques échappant à la conscience",
+        "D": "L’état passager de perte de mémoire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle de l’inconscient dans l’économie psychique selon Freud ?",
+      "réponses": {
+        "A": "Il amène un individu à se comporter comme un animal.",
+        "B": "Il contient des idées claires mais oubliées",
+        "C": "Il n’intervient que dans les rêves",
+        "D": "Il influence nos pensées et comportements malgré nous"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Pourquoi les automatismes sont-ils une preuve de l’existence de l’inconscient ?",
+      "réponses": {
+        "A": "Parce qu’ils sont des signes visibles de la raison",
+        "B": "Parce qu’ils montrent que tout acte est contrôlé rationnellement",
+        "C": "Parce qu’ils prouvent qu’une partie de notre activité échappe à la conscience",
+        "D": "Parce qu’ils relèvent de l’intuition divine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Pourquoi Freud s’intéresse-t-il aux lapsus ?",
+      "réponses": {
+        "A": "Parce qu’ils montrent des troubles purement linguistiques",
+        "B": "Parce qu’ils expriment une volonté de mentir",
+        "C": "Parce qu’ils illustrent la perte du langage",
+        "D": "Parce qu’ils révèlent des pensées refoulées agissant à notre insu"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Que montre le rêve, selon Freud ?",
+      "réponses": {
+        "A": "Qu’un désir inconscient peut s’exprimer de manière déguisée",
+        "B": "Que la raison contrôle toujours l’imagination",
+        "C": "Qu’il ne faut pas totalement faire confiance à la conscience",
+        "D": "Qu’une imagination reste imagination, contraire à la réalité."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est la valeur des actes manqués pour prouver l’inconscient ?",
+      "réponses": {
+        "A": "Ils sont liés à des distractions mineures sans signification",
+        "B": "Ils révèlent des conflits internes ignorés par la conscience",
+        "C": "Ils prouvent l’erreur naturelle du langage",
+        "D": "Ils témoignent d’un manque d’éducation logique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi peut-on dire que l’être humain n’est pas pleinement maître de lui-même ?",
+      "réponses": {
+        "A": "Parce qu’à force de réfléchit, il devient prisonnier de des angoisses, désillusions, la peur.",
+        "B": "Parce que ses gestes sont toujours conditionnés par la gravité",
+        "C": "Parce que ses pensées conscientes sont traversées par des contenus inconscients",
+        "D": "Parce qu’il est constamment influencé par la météo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi certains automatismes sont-ils révélateurs d’un inconscient actif ?",
+      "réponses": {
+        "A": "Parce qu’ils sont programmés par autrui",
+        "B": "Parce qu’ils résultent de processus mentaux non réfléchis",
+        "C": "Parce qu’ils se répètent sans but",
+        "D": "Parce qu’ils n'ont rien à voir avec la volonté"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle citation de Freud illustre le rôle dominant de l’inconscient ?",
+      "réponses": {
+        "A": "« Je pense donc je suis. »",
+        "B": "« L’essentiel de l’activité psychique demeure inconscient. »",
+        "C": "« Le désir est l’essence de l’homme. »",
+        "D": "« Il n’est rien dans l’intellect qui ne soit d’abord dans les sens. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel penseur écrit : « Je veux ce que je pense » ?",
+      "réponses": {
+        "A": "Alain",
+        "B": "Freud",
+        "C": "Rousseau",
+        "D": "Spinoza"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle citation de Freud affirme la nécessité de subordonner l’inconscient à la conscience ?",
+      "réponses": {
+        "A": "« Je suis une chose qui pense. »",
+        "B": "« Là où ça était, je dois advenir. »",
+        "C": "« La conscience est un juge suprême. »",
+        "D": "« L’instinct gouverne tout. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle citation illustre la confiance de Rousseau en la conscience morale ?",
+      "réponses": {
+        "A": "« La conscience règne mais ne gouverne pas. »",
+        "B": "« Conscience ! Instinct divin, juge infaillible du bien et du mal… »",
+        "C": "« L’homme est condamné à être libre. »",
+        "D": "« L’inconscient est une hypothèse inutile. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Pourquoi Freud dit-il : « L’essentiel de l’activité psychique demeure inconscient » ?",
+      "réponses": {
+        "A": "Parce qu’il nie l’utilité de la pensée consciente",
+        "B": "Parce qu’il veut dire que tout est déterminé socialement",
+        "C": "Parce qu’il soutient que la majorité de nos processus mentaux échappent à notre vigilance",
+        "D": "Parce qu’il rejette la mémoire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle idée Sartre rejette-t-il dans l’inconscient freudien ?",
+      "réponses": {
+        "A": "Que l’homme agit parfois sans réfléchir, de façon inconsciente.",
+        "B": "Que l’homme peut se déresponsabiliser en imputant ses actes à une force obscure",
+        "C": "Que les rêves expriment des désirs irréalisables.",
+        "D": "Que le passé influence le présent"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le sens de la citation d’Alain : « Je veux ce que je pense » ?",
+      "réponses": {
+        "A": "Que tout désir est rationnel",
+        "B": "Que volonté et pensée sont toujours opposées",
+        "C": "Que l’inconscient n’existe pas",
+        "D": "Que volonté et pensée sont indissociables dans l’acte libre"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Freud considère que la conscience est un mensonge. Pour lui, l’homme est purement inconscient.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pour Jean Jacques Rousseau, seule la raison distingue l’homme de l’animal.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Sartre pense que l’homme est toujours conscient de ses motivations profondes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Alain rejette l’existence d’un inconscient psychique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Les rêves sont, pour Freud, des preuves de la raison triomphante.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

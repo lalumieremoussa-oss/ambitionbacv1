@@ -1,0 +1,400 @@
+[
+  {
+    "id": "PH000",
+    "titre": "La dissertation philosophique",
+    "sections": [
+      {
+        "id": "PH001_C1",
+        "titre": "Méthodologie de rédaction de dissertation"
+      }
+    ]
+  },
+  {
+    "id": "PH001",
+    "titre": "Le commentaire philosophique",
+    "sections": [
+      {
+        "id": "PH001_C3",
+        "titre": "Méthodologie de rédaction de commentaire philosophique"
+      },
+      {
+        "id": "PH001_C4",
+        "titre": "Exemples de rédaction de commentaire philosophique"
+      }
+    ]
+  },
+  {
+    "id": "PH002",
+    "titre": "Connaissance de l’homme",
+    "sections": [
+      {
+        "id": "PH002_C1",
+        "titre": "Pouvoir de la conscience"
+      },
+      {
+        "id": "PH002_C2",
+        "titre": "La conscience et la liberté"
+      },
+      {
+        "id": "PH002_C3",
+        "titre": "L’inconscient psychique"
+      },
+      {
+        "id": "PH002_C4",
+        "titre": "L’inconscient et la liberté"
+      },
+      {
+        "id": "PH002_C5",
+        "titre": "La violence"
+      },
+      {
+        "id": "PH002_Q1",
+        "titre": "Quiz 1: conscience"
+      },
+      {
+        "id": "PH002_Q2",
+        "titre": "Quiz 2: conscience et liberté"
+      },
+      {
+        "id": "PH002_Q3",
+        "titre": "Quiz 3: inconscient"
+      },
+      {
+        "id": "PH002_Q4",
+        "titre": "Quiz 4: inconscient et liberté"
+      },
+      {
+        "id": "PH002_Q5",
+        "titre": "Quiz 5: violence"
+      }
+    ]
+  },
+  {
+    "id": "PH003",
+    "titre": "La vie en société",
+    "sections": [
+      {
+        "id": "PH003_C1",
+        "titre": "La relation avec autrui"
+      },
+      {
+        "id": "PH003_C2",
+        "titre": "L’Etat et la liberté"
+      },
+      {
+        "id": "PH003_C3",
+        "titre": "L’Etat et la violence"
+      },
+      {
+        "id": "PH003_C4",
+        "titre": "Droit et justice"
+      },
+      {
+        "id": "PH003_Q1",
+        "titre": "Quiz 1: relation avec autrui 1"
+      },
+      {
+        "id": "PH003_Q2",
+        "titre": "Quiz 2: relation avec autrui 2"
+      },
+      {
+        "id": "PH003_Q3",
+        "titre": "Quiz 3: l’Etat et la liberté 1"
+      },
+      {
+        "id": "PH003_Q4",
+        "titre": "Quiz 4: l’Etat et la liberté 2"
+      },
+      {
+        "id": "PH003_Q5",
+        "titre": "Quiz 5: l’Etat et la violence 1"
+      },
+      {
+        "id": "PH003_Q6",
+        "titre": "Quiz 6: l’Etat et la violence 2"
+      }
+    ]
+  },
+  {
+    "id": "PH004",
+    "titre": "Dieu et la religion",
+    "sections": [
+      {
+        "id": "PH004_C1",
+        "titre": "L’existence de Dieu"
+      },
+      {
+        "id": "PH004_C2",
+        "titre": "La religion et l’humanité"
+      },
+      {
+        "id": "PH004_C3",
+        "titre": "La religion et la liberté"
+      },
+      {
+        "id": "PH004_Q1",
+        "titre": "Quiz 1: preuve d'existence de Dieu"
+      },
+      {
+        "id": "PH004_Q2",
+        "titre": "Quiz 2: la remise en cause de l'existence de Dieu"
+      },
+      {
+        "id": "PH004_Q3",
+        "titre": "Quiz 3: la religion et l'humanité 1"
+      },
+      {
+        "id": "PH004_Q4",
+        "titre": "Quiz 4: la religion et l'humanité 2"
+      },
+      {
+        "id": "PH004_Q5",
+        "titre": "Quiz 5: la religion et la liberté 1"
+      },
+      {
+        "id": "PH004_Q6",
+        "titre": "Quiz 6: la religion et la liberté 2"
+      }
+    ]
+  },
+  {
+    "id": "PH005",
+    "titre": "L’histoire de l’humanité",
+    "sections": [
+      {
+        "id": "PH005_C1",
+        "titre": "L’homme et son histoire"
+      },
+      {
+        "id": "PH005_C2",
+        "titre": "L’humanité et la culture"
+      },
+      {
+        "id": "PH005_C3",
+        "titre": "Le travail et l’humanité"
+      },
+      {
+        "id": "PH005_Q1",
+        "titre": "Quiz 1: L’homme et son histoire 1"
+      },
+      {
+        "id": "PH005_Q2",
+        "titre": "Quiz 2: L’homme et son histoire 2"
+      },
+      {
+        "id": "PH005_Q3",
+        "titre": "Quiz 3: L’humanité et la culture 1"
+      },
+      {
+        "id": "PH008_Q4",
+        "titre": "Quiz 4; L’humanité et la culture 2"
+      },
+      {
+        "id": "PH008_Q5",
+        "titre": "Quiz 5: Le travail et l’humanité 1"
+      },
+      {
+        "id": "PH008_Q6",
+        "titre": "Quiz 6: Le travail et l’humanité 2"
+      }
+    ]
+  },
+  {
+    "id": "PH006",
+    "titre": "La valeur de la philosophie",
+    "sections": [
+      {
+        "id": "PH006_C1",
+        "titre": "La valeur de la philosophie"
+      },
+      {
+        "id": "PH006_C2",
+        "titre": "Le mythe et la raison"
+      },
+      {
+        "id": "PH006_Q1",
+        "titre": "Quiz 1: la valeur de la philosophie 1"
+      },
+      {
+        "id": "PH006_Q2",
+        "titre": "Quiz 2: la valeur de la philosophie 2"
+      },
+      {
+        "id": "PH006_Q3",
+        "titre": "Quiz 3: le mythe et la raison 1"
+      },
+      {
+        "id": "PH006_Q4",
+        "titre": "Quiz 4: le mythe et la raison 2"
+      }
+    ]
+  },
+  {
+    "id": "PH007",
+    "titre": "Le progrès et le bonheur",
+    "sections": [
+      {
+        "id": "PH007_C1",
+        "titre": "Le progrès technique"
+      },
+      {
+        "id": "PH007_C2",
+        "titre": "Le bonheur"
+      },
+      {
+        "id": "PH007_Q1",
+        "titre": "Quiz 1: progrès technique 1"
+      },
+      {
+        "id": "PH007_Q2",
+        "titre": "Quiz 2: progrès technique 2"
+      },
+      {
+        "id": "PH007_Q3",
+        "titre": "Quiz 3: le bonheur 1"
+      },
+      {
+        "id": "PH007_Q4",
+        "titre": "Quiz 4: le bonheur 2"
+      }
+    ]
+  },
+  {
+    "id": "PH008",
+    "titre": "Langage et vérité",
+    "sections": [
+      {
+        "id": "PH008_C1",
+        "titre": "Le langage et la pensée"
+      },
+      {
+        "id": "PH008_C2",
+        "titre": "Le langage et la vérité"
+      },
+      {
+        "id": "PH008_C3",
+        "titre": "La pensée et la vérité"
+      },
+      {
+        "id": "PH008_Q1",
+        "titre": "Quiz 1: Le langage et la pensée 1"
+      },
+      {
+        "id": "PH008_Q2",
+        "titre": "Quiz 2 Le langage et la pensée 2"
+      },
+      {
+        "id": "PH008_Q3",
+        "titre": "Quiz 3: Le langage et la vérité 1"
+      },
+      {
+        "id": "PH008_Q4",
+        "titre": "Quiz 4: Le langage et la vérité 2"
+      },
+      {
+        "id": "PH008_Q5",
+        "titre": "Quiz 5: La pensée et la vérité 1"
+      },
+      {
+        "id": "PH008_Q6",
+        "titre": "Quiz 6: La pensée et la vérité 2"
+      }
+    ]
+  },
+  {
+    "id": "PH009",
+    "titre": "La connaissance scientifique",
+    "sections": [
+      {
+        "id": "PH009_C1",
+        "titre": "La valeur de la science"
+      },
+      {
+        "id": "PH009_C2",
+        "titre": "La science et l’expérience"
+      },
+      {
+        "id": "PH009_C3",
+        "titre": "La vérité scientifique"
+      },
+      {
+        "id": "PH009_C4",
+        "titre": "Les mathématiques"
+      },
+      {
+        "id": "PH009_Q1",
+        "titre": "Quiz 1: La valeur de la science 1"
+      },
+      {
+        "id": "PH009_Q2",
+        "titre": "Quiz 2: La valeur de la science 2"
+      },
+      {
+        "id": "PH009_Q3",
+        "titre": "Quiz 3: La science et l’expérience 1"
+      },
+      {
+        "id": "PH009_Q4",
+        "titre": "Quiz 4: La science et l’expérience 2"
+      },
+      {
+        "id": "PH009_Q5",
+        "titre": "Quiz 5: La vérité scientifique 1"
+      },
+      {
+        "id": "PH009_Q6",
+        "titre": "Quiz 6: La vérité scientifique 2"
+      },
+      {
+        "id": "PH009_Q7",
+        "titre": "Quiz 7: Les mathématiques 1"
+      },
+      {
+        "id": "PH009_Q8",
+        "titre": "Quiz 8; Les mathématiques 2"
+      }
+    ]
+  },
+  {
+    "id": "PH010",
+    "titre": "Révision générale et prépa BAC",
+    "sections": [
+      {
+        "id": "PH010_C1",
+        "titre": "Sujets de dissertation"
+      },
+      {
+        "id": "PH010_C2",
+        "titre": "Corrigés des sujets de dissertation"
+      },
+      {
+        "id": "PH010_C3",
+        "titre": "Sujets de commentaires"
+      },
+      {
+        "id": "PH010_C4",
+        "titre": "Corrigés des sujets de commentaires"
+      },
+      {
+        "id": "PH010_Q1",
+        "titre": "Quiz 1: révision 1"
+      },
+      {
+        "id": "PH010_Q2",
+        "titre": "Quiz 2: révision 2"
+      },
+      {
+        "id": "PH010_Q3",
+        "titre": "Quiz 3: révision 3"
+      },
+      {
+        "id": "PH010_Q4",
+        "titre": "Quiz 4: révision 4"
+      },
+      {
+        "id": "PH010_Q5",
+        "titre": "Quiz 5: révision 5"
+      }
+    ]
+  }
+]

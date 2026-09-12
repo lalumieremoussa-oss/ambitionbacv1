@@ -1,0 +1,288 @@
+{
+  "title": "Quiz 1",
+  "id": "SVT003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Les drogues à effet exciteur agissent de quelle manière pour maintenir une activité neuronale élevée ?",
+      "réponses": {
+        "A": "Elles diminuent la production de neuromédiateurs dans le corps entier.",
+        "B": "Elles favorisent une libération continue du neuromédiateur dans la fente synaptique.",
+        "C": "Elles augmentent la dégradation enzymatique des substances chimiques.",
+        "D": "Elles réduisent la sensibilité des récepteurs post-synaptiques aux stimuli externes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est un autre mode d'action des drogues à effet exciteur au niveau synaptique ?",
+      "réponses": {
+        "A": "Elles accélèrent la destruction des récepteurs des neurotransmetteurs.",
+        "B": "Elles ralentissent la production de l'influx nerveux dans les neurones.",
+        "C": "Elles empêchent la recapture du neuromédiateur par le neurone présynaptique.",
+        "D": "Elles bloquent l'activation des canaux ioniques sur la membrane cellulaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Les drogues à effet inhibiteur peuvent agir en bloquant quoi au niveau d'une synapse ?",
+      "réponses": {
+        "A": "La régénération des neurones dans le cerveau.",
+        "B": "La stimulation des neurones par des signaux externes.",
+        "C": "La libération du neuromédiateur dans la fente synaptique.",
+        "D": "L'augmentation de la vitesse de transmission de l'influx nerveux."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Une autre façon pour les drogues à effet inhibiteur d'agir est d'empêcher la fixation du neuromédiateur sur :",
+      "réponses": {
+        "A": "Les membranes des cellules gliales environnantes.",
+        "B": "Les structures de soutien des axones neuronaux.",
+        "C": "Son site de liaison sur le neurone post-synaptique.",
+        "D": "Les protéines de transport dans le cytoplasme neuronal."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Les drogues à effet excitateur provoquent une accélération de l'activité de quel système ?",
+      "réponses": {
+        "A": "Le système digestif périphérique.",
+        "B": "Le système immunitaire adaptatif.",
+        "C": "Le système circulatoire et respiratoire.",
+        "D": "Le système nerveux central."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "La libération de quels neuromédiateurs est favorisée par certaines drogues excitatrices ?",
+      "réponses": {
+        "A": "L'acétylcholine et le GABA.",
+        "B": "La sérotonine et l'endorphine.",
+        "C": "L’histamine et la mélatonine.",
+        "D": "La dopamine et la noradrénaline."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Un exemple de drogue à effet excitateur mentionnée est :",
+      "réponses": {
+        "A": "La morphine pour soulager la douleur intense.",
+        "B": "Le LSD avec ses effets hallucinogènes.",
+        "C": "Les amphétamines pour stimuler la vigilance.",
+        "D": "Les tranquillisants pour réduire l'anxiété."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'hyper-excitabilité peut résulter de drogues qui s'opposent à quel processus ?",
+      "réponses": {
+        "A": "La recapture du neuromédiateur par le neurone présynaptique.",
+        "B": "La dégradation des récepteurs synaptiques existants.",
+        "C": "La synthèse de nouvelles protéines neuronales.",
+        "D": "La formation de nouvelles synapses dans le cortex cérébral."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Lorsque les neuromédiateurs ne sont pas recapturés, leur concentration dans la fente synaptique devient :",
+      "réponses": {
+        "A": "Particulièrement faible et insuffisante pour l'action.",
+        "B": "Très élevée, provoquant une stimulation anormalement prolongée.",
+        "C": "Relativement constante et sans grand changement notable.",
+        "D": "Éphémère, dissipée rapidement par des enzymes spécialisées."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Un potentiel post-synaptique excitateur très élevé est le résultat d'un nombre de récepteurs en activité :",
+      "réponses": {
+        "A": "Globalement bas, empêchant la transmission du signal.",
+        "B": "Relativement équilibré, assurant une régulation fine.",
+        "C": "Beaucoup plus important, amplifiant la réponse neuronale.",
+        "D": "Totalement inexistant, causant une paralysie nerveuse complète."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l'effet de la cocaïne, une drogue qui s'oppose à la recapture de la dopamine ?",
+      "réponses": {
+        "A": "Des effets excitateurs ou psychostimulants sur l’état mental.",
+        "B": "Des effets analgésiques ou antalgiques sur la perception de la douleur.",
+        "C": "Des effets dépresseurs ou sédatifs sur le système nerveux central.",
+        "D": "Des effets hallucinogènes ou perturbateurs sur la conscience."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Les sujets qui consomment des drogues excitatrices sont dans un état :",
+      "réponses": {
+        "A": "De fatigue extrême et de léthargie.",
+        "B": "De calme profond et de relaxation musculaire.",
+        "C": "D'excitation physique et psychique intense.",
+        "D": "D'apathie générale et d'indifférence émotionnelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Les drogues à effet inhibiteur ont pour conséquence générale de ralentir l'activité de quel système ?",
+      "réponses": {
+        "A": "Le système nerveux central.",
+        "B": "Le système cardiovasculaire.",
+        "C": "Le système nerveux périphérique autonome.",
+        "D": "Le système lymphatique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'insensibilité peut se manifester quand une drogue bloque quoi au niveau de la membrane présynaptique ?",
+      "réponses": {
+        "A": "La croissance des dendrites neuronales.",
+        "B": "La production d'énergie cellulaire.",
+        "C": "La libération du neuromédiateur.",
+        "D": "Le transport des ions à travers la membrane."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel est un exemple de drogue inhibiteur qui bloque la libération de la substance P, responsable de la douleur ?",
+      "réponses": {
+        "A": "L'héroïne, connue pour ses propriétés euphorisantes.",
+        "B": "Le cannabis, avec ses effets relaxants.",
+        "C": "La morphine, utilisée comme puissant analgésique.",
+        "D": "L'alcool, un dépresseur du système nerveux central."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Les drogues à effet exciteur diminuent la concentration du neuromédiateur dans la fente synaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Les drogues à effet inhibiteur peuvent empêcher la fixation du neuromédiateur sur le neurone post-synaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Les amphétamines sont un exemple de drogues à effet inhibiteur.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "La cocaïne est une drogue qui s'oppose à la recapture de la sérotonine.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L'insensibilité peut résulter du blocage de la libération du neuromédiateur au niveau de la membrane présynaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°21": {
+      "question": "Le LSD inhibe l'action de la dopamine.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Les tranquillisants bloquent la transmission des messages nerveux.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "Un potentiel post-synaptique excitateur très élevé est le résultat d'un faible nombre de récepteurs en activité.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Les drogues à effet excitateur entraînent une excitation prolongée et maintenue de l'influx nerveux.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "\"Les drogues à effet exciteur ont deux modes d'action : certaines favorisent une __________ continue du __________ dans la fente synaptique tandis que d'autres empêchent la __________ du neuromédiateur par le neurone présynaptique.\"",
+      "réponses": {
+        "A": "diminution / récepteur / stimulation",
+        "B": "destruction / enzyme / libération",
+        "C": "libération / neuromédiateur / recapture",
+        "D": "synthèse / protéine / absorption"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "\"Les drogues à effet inhibiteur ralentissent l'activité du système nerveux central de deux manières. L'insensibilité se manifeste lorsqu'une drogue agit en __________ au niveau de la membrane présynaptique la __________ du neuromédiateur. Ce type de drogue agit également en se __________ sur les récepteurs situés au niveau de la membrane post-synaptique.\"",
+      "réponses": {
+        "A": "bloquant / libération / fixant",
+        "B": "stimulant / production / libérant",
+        "C": "augmentant / recapture / détruisant",
+        "D": "accélérant / dégradation / inhibant"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "\"L'hyper-excitabilité peut être due aux drogues qui s'opposent à la __________ du neuromédiateur par le neurone __________. Ainsi, les neuromédiateurs non recapturés atteignent une forte __________ dans la fente synaptique et provoquent une stimulation anormalement prolongée du neurone post-synaptique.\"",
+      "réponses": {
+        "A": "synthèse / sensoriel / quantité",
+        "B": "libération / post-synaptique / dilution",
+        "C": "dégradation / glial / stabilité",
+        "D": "recapture / présynaptique / concentration"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "\"Le potentiel post-synaptique excitateur qui en résulte est très __________ car le nombre de __________ en activité est beaucoup plus __________. La cocaïne qui est une drogue qui s'oppose à la recapture de la dopamine, a des effets __________ ou psychostimulants.\"",
+      "réponses": {
+        "A": "élevé / récepteurs / important / excitateurs",
+        "B": "faible / canaux / limité / inhibiteurs",
+        "C": "stable / enzymes / constant / dépresseurs",
+        "D": "insignifiant / molécules / réduit / calmants"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "\"La morphine __________ la libération de la substance P (enképhaline) __________ de la douleur. L'influx nerveux n'est donc pas __________ à la cellule post-synaptique, d'où l'état __________ de l'individu concerné.\"",
+      "réponses": {
+        "A": "stimule / réductrice / augmenté / euphorique",
+        "B": "bloque / responsable / transmis / dépressif",
+        "C": "augmente / activatrice / ralenti / agité",
+        "D": "facilite / atténuatrice / inversé / hyperactif"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "\"Le LSD (Acide Lysergique Diéthylamide) __________ l'action de la Sérotonine. Les tranquillisants __________ la transmission des messages nerveux, ce qui peut conduire à un état de __________ ou de sédation chez l'individu.\"",
+      "réponses": {
+        "A": "renforce / augmentent / excitation",
+        "B": "stimule / facilitent / nervosité",
+        "C": "améliore / accélèrent / vigilance",
+        "D": "inhibe / bloquent / relaxation"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

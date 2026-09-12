@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 4",
+  "id": "PH004_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Ce quiz est la suite du précédent à savoir l'impact de la religion sur la liberté. Selon l'argumentaire proposé, quelle est l'une des valeurs sociales que la religion promeut pour éduquer l'homme et favoriser la cohésion ?",
+      "réponses": {
+        "A": "L'individualisme radical et la compétition économique.",
+        "B": "L'amour, la paix et la solidarité entre les membres de la communauté.",
+        "C": "Le scepticisme systématique et la remise en question de toute autorité.",
+        "D": "L'autosuffisance matérielle et l'indépendance vis-à-vis des autres."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel sociologue est associé à l'idée que \"la religion est une chose éminemment sociale\", suggérant son rôle dans la vie en société ?",
+      "réponses": {
+        "A": "Max Weber, pour sa théorie de l'éthique protestante et l'esprit du capitalisme.",
+        "B": "Karl Marx, pour sa critique de la religion comme opium du peuple.",
+        "C": "Émile Durkheim, pour son analyse des fonctions sociales et intégratives de la religion.",
+        "D": "Sigmund Freud, pour sa perspective sur les origines psychologiques des croyances religieuses."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quand Durkheim affirme que la religion est \"éminemment sociale\", il veut dire qu'elle :",
+      "réponses": {
+        "A": "Est un phénomène privé qui n'a d'impact que sur la conscience individuelle.",
+        "B": "Est une construction arbitraire qui n'a aucune influence concrète sur la vie collective.",
+        "C": "Est avant tout une institution qui structure les relations humaines et permet aux individus de vivre ensemble.",
+        "D": "Est une invention des élites pour contrôler les masses et maintenir l'ordre établi."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "L'argument selon lequel \"l'homme peut être heureux lorsqu'il pratique la religion en faveur de crainte\" suggère que :",
+      "réponses": {
+        "A": "La peur de la punition divine est le seul véritable moteur du comportement moral.",
+        "B": "Une certaine forme de respect ou de révérence envers le divin peut conduire à un bonheur profond et transcendant.",
+        "C": "Le bonheur religieux est une illusion construite sur la répression des désirs naturels.",
+        "D": "La religion garantit un bonheur immédiat et matériel à tous ses pratiquants dévoués."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "À quel penseur est attribuée la citation : \"l'extase du Saint-Esprit est au-dessus de toute espérance du bonheur\" ?",
+      "réponses": {
+        "A": "Thomas d'Aquin, défenseur de la théologie scolastique.",
+        "B": "Saint Augustin, pour sa vision du bonheur ultime trouvé en Dieu dans la Cité de Dieu.",
+        "C": "Blaise Pascal, pour son pari sur l'existence de Dieu.",
+        "D": "Søren Kierkegaard, pour son concept de saut dans la foi."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Que signifie l'\"extase du Saint-Esprit\" dans la pensée de Saint Augustin, en rapport avec le bonheur ?",
+      "réponses": {
+        "A": "Une joie passagère et superficielle liée à des émotions intenses.",
+        "B": "Un bonheur qui dépasse toutes les attentes et les joies terrestres, car il vient de la communion avec le divin.",
+        "C": "Un état de confusion mentale provoqué par une foi excessive et irrationnelle.",
+        "D": "La satisfaction d'avoir accompli son devoir moral sans aucune récompense attendue."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "L'idée que \"la religion est le fondement de la paix et de la solidarité entre les individus\" repose sur l'hypothèse que :",
+      "réponses": {
+        "A": "Les hommes sont naturellement bons et que la religion ne fait que confirmer cette bonté innée.",
+        "B": "Sans un cadre transcendant, l'homme est incapable de respecter les lois et les autres, rendant la vie en société difficile.",
+        "C": "La religion est une construction politique visant à imposer l'ordre par la force et la contrainte extérieure.",
+        "D": "La solidarité est une illusion, car les individus sont toujours motivés par leur seul intérêt personnel."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Selon l'argumentaire, pourquoi la crainte de Dieu pourrait-elle obliger l'homme à respecter ses prochains et la loi étatique ?",
+      "réponses": {
+        "A": "Parce que la peur est le seul sentiment capable de modérer la violence naturelle de l'homme.",
+        "B": "Parce que la crainte de Dieu implique la reconnaissance d'une autorité supérieure et de commandements moraux qui guident le comportement juste.",
+        "C": "Parce que la religion promet des richesses matérielles à ceux qui obéissent aux lois divines et humaines.",
+        "D": "Parce que l'homme est incapable de comprendre la rationalité des lois sans une intervention divine directe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "L'affirmation que \"l'homme est naturellement violent, il est incapable de respecter la loi prescrite par lui-même, un être naturellement injuste\" rappelle les conceptions de philosophes comme :",
+      "réponses": {
+        "A": "Jean-Jacques Rousseau, qui croit en la bonté naturelle de l'homme.",
+        "B": "Thomas Hobbes, qui décrit l'état de nature comme une \"guerre de tous contre tous\".",
+        "C": "John Locke, qui défend l'idée de droits naturels inaliénables.",
+        "D": "Baruch Spinoza, pour sa vision de la raison comme guide de la vie éthique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Si la religion favorise la cohésion sociale par des valeurs comme l'amour et la solidarité, cela contredit directement l'idée qu'elle est :",
+      "réponses": {
+        "A": "Un instrument de libération individuelle et d'épanouissement personnel.",
+        "B": "Une source de division et de fanatisme qui nuit à l'harmonie collective.",
+        "C": "Une force conservatrice qui s'oppose à tout changement social.",
+        "D": "Un système de pensée complexe réservé à une élite intellectuelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'extase décrite par Saint Augustin est liée au concept de bonheur :",
+      "réponses": {
+        "A": "Immanent, c'est-à-dire qui se trouve uniquement dans l'expérience du monde sensible.",
+        "B": "Conditionnel, dépendant de l'accumulation de biens matériels et de succès sociaux.",
+        "C": "Transcendant, découlant d'une connexion avec une réalité divine qui dépasse l'existence terrestre.",
+        "D": "Négatif, défini par l'absence de souffrance plutôt que par une présence positive."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "L'argument selon lequel la religion éduque l'homme par ses valeurs implique une fonction de la religion qui est :",
+      "réponses": {
+        "A": "Purement dogmatique, exigeant une obéissance aveugle sans compréhension.",
+        "B": "Pédagogique et moralisatrice, formant le caractère et le comportement des individus.",
+        "C": "Subversive, cherchant à renverser l'ordre établi et les normes sociales.",
+        "D": "Esthétique, se limitant à l'appréciation de l'art et de la beauté sacrée."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'argumentaire de Durkheim sur la religion comme \"chose éminemment sociale\" soutient que la religion est avant tout une affaire privée, sans impact sur la vie collective.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Selon l'argument du bonheur par la crainte, la religion offre une liberté illusoire et n'apporte aucun véritable épanouissement personnel.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "L'idée que l'homme est naturellement violent et injuste justifie la nécessité d'une contrainte externe, comme la crainte de Dieu, pour garantir la paix sociale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Les valeurs d'amour, de paix et de solidarité, promues par la religion, sont des concepts purement théoriques qui ne se traduisent jamais dans la pratique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "La religion, en tant que fondement de la paix et de la solidarité, est perçue comme un facteur de liberté car elle permet à l'homme de vivre en harmonie et d'éviter l'auto-destruction.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La citation de Saint Augustin sur l'extase du Saint-Esprit est un exemple d'un bonheur matériel et éphémère.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'approche de Durkheim sur la religion contredit fondamentalement celle de Marx, car l'une insiste sur l'intégration sociale et l'autre sur l'aliénation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Si la religion est un facteur de liberté, cela signifie qu'elle ne comporte absolument aucune règle ou contrainte pour ses pratiquants.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

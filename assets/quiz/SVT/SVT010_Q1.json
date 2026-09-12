@@ -1,0 +1,179 @@
+{
+  "id": "SVT010_Q1",
+  "title": "Quiz 1: Génétique humaine et arbres généalogiques",
+  "questions": {
+    "question n°1": {
+      "question": "I1 désigne un homme.",
+      "image": "assets/images/svt/mono(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "I2 désigne un homme.",
+      "image": "assets/images/svt/mono(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "I1 et I2 forment un couple.",
+      "image": "assets/images/svt/mono(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "II3, II4 et II5 sont les enfants de I1 et I2.",
+      "image": "assets/images/svt/mono(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Les parents I1 et I2 sont apparemment sains.",
+      "image": "assets/images/svt/mono(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Le garçon II5 est apparemment sain.",
+      "image": "assets/images/svt/mono(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Les parents II1 et II2, apparemment sains, ont eu cinq enfants dont trois sont albinos. Cela signifie qu’ils portent l’allèle albinos sous forme non masquée.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Les parents II1 et II2, apparemment sains, ayant trois enfants albinos sur cinq, sont forcément hétérozygotes.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "L’allèle responsable de l’albinisme est dominant.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Il est possible de déterminer si une maladie est liée au sexe ou autosomique en observant la transmission père-fille et mère-fils, même sans échiquier de croisement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Si la maladie est due à un allèle récessif lié au sexe, alors un homme sain doit avoir toutes ses filles saines. Dans le cas contraire, l’allèle n’est pas lié au sexe.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Dans une anomalie récessive liée au sexe, deux parents apparemment sains peuvent avoir un garçon malade sur deux (soit 25 % des enfants), ce qui soutient l’hypothèse d’un gène lié au sexe.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "L’allèle responsable de l’albinisme est lié au sexe, selon l’arbre généalogique.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "L’allèle responsable de l’albinisme n’est pas lié au sexe, car le père I2 est sain mais a une fille malade.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Les parents I1 et I2 sont homozygotes.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Les enfants III2, III3 et III5 sont homozygotes.",
+      "image": "assets/images/svt/mono(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Un individu atteint par une maladie récessive homozygote a obligatoirement reçu un allèle défectueux de chacun de ses deux parents.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Un homme porteur sain d’une maladie autosomique récessive ne présente aucun symptôme mais peut transmettre l’allèle à sa descendance.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Si deux parents porteurs sains (hétérozygotes) d’une maladie autosomique récessive ont des enfants, il est possible qu’un enfant soit totalement sain (non porteur).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Lorsqu’un allèle est dominant, il s’exprime même à l’état hétérozygote.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

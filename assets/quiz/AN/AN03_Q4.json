@@ -1,0 +1,787 @@
+{
+  "title": "Quiz de Traduction",
+  "id": "AN03_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"My name is Ali.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je m'appelle Ali.",
+        "B": "Mon ami est Ali.",
+        "C": "Son nom est Ali.",
+        "D": "Mon nom est Ali."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Je suis un élève.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am student.",
+        "B": "I am a student.",
+        "C": "I have a student.",
+        "D": "He is a student."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"I live with my parents.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je travaille avec mes parents.",
+        "B": "Mes parents vivent.",
+        "C": "Je vis avec mes parents.",
+        "D": "Je reste avec mes parents."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Chaque matin, je me lève tôt.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Every morning, I sleep early.",
+        "B": "Every day, I wake up early.",
+        "C": "Morning, I go up early.",
+        "D": "Every morning, I wake up early."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"I wash my face.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je lave ma tête.",
+        "B": "Je lave mon corps.",
+        "C": "Je me brosse le visage.",
+        "D": "Je me lave le visage."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Je bois de l'eau.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I drink water.",
+        "B": "I eat water.",
+        "C": "I have water.",
+        "D": "He drinks water."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"I eat breakfast.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je mange le déjeuner.",
+        "B": "Je mange le dîner.",
+        "C": "Je mange des œufs.",
+        "D": "Je mange le petit-déjeuner."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Je vais à l’école en bus.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I go to school with bus.",
+        "B": "I go to school for bus.",
+        "C": "I go to bus school.",
+        "D": "I go to school by bus."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Ma sœur va aussi à l'école.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My sister goes to school for me.",
+        "B": "My sister goes to school too.",
+        "C": "My sister is going to school.",
+        "D": "My sister go to school too."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"She goes with her friends.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Elle est avec ses amis.",
+        "B": "Elle va chercher ses amis.",
+        "C": "Elle va avec ses amis.",
+        "D": "Elle va chez ses amis."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"À l’école, nous étudions l’anglais.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "In school, we learn English.",
+        "B": "At school, we study English.",
+        "C": "School, we study English.",
+        "D": "We study English at home."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"We write in our notebooks.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nous lisons dans nos cahiers.",
+        "B": "Nous écrivons nos leçons.",
+        "C": "Nous avons nos cahiers.",
+        "D": "Nous écrivons dans nos cahiers."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous lisons des textes simples.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "We write simple texts.",
+        "B": "We read simple texts.",
+        "C": "We read complicated texts.",
+        "D": "They read simple texts."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"We do exercises.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nous faisons du sport.",
+        "B": "Nous allons aux exercices.",
+        "C": "Ils font des exercices.",
+        "D": "Nous faisons des exercices."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Notre professeur nous aide.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Our teacher helps them.",
+        "B": "My teacher helps us.",
+        "C": "Our teacher helps us.",
+        "D": "The teacher helps us."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"À la récréation, nous parlons.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "At break time, we sing.",
+        "B": "At break time, we talk.",
+        "C": "At talk time, we break.",
+        "D": "At play time, we talk."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"We sing songs sometimes.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nous écoutons des chansons parfois.",
+        "B": "Nous chantons des chansons parfois.",
+        "C": "Nous chantons souvent des chansons.",
+        "D": "Ils chantent des chansons parfois."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Dans l'après-midi, je rentre à la maison.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "In the evening, I go home.",
+        "B": "In the afternoon, I go home.",
+        "C": "In the morning, I go home.",
+        "D": "I go home in the afternoon."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"At home, I do my homework.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Au travail, je fais mes devoirs.",
+        "B": "À la maison, je fais mes devoirs.",
+        "C": "À l'école, je fais mes devoirs.",
+        "D": "Je fais mes devoirs à la maison."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"J'écris mes leçons.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I read my lessons.",
+        "B": "He writes my lessons.",
+        "C": "I write my lessons.",
+        "D": "I do my lessons."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"My mother does the cooking.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ma mère va à la cuisine.",
+        "B": "Ma mère mange.",
+        "C": "Ma mère fait la cuisine.",
+        "D": "Mon père fait la cuisine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Mon père va au travail.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My father does the work.",
+        "B": "My father goes to work.",
+        "C": "My father goes home.",
+        "D": "My father works."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"In the evening, we eat together.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Le matin, nous mangeons ensemble.",
+        "B": "Nous mangeons ensemble.",
+        "C": "Le soir, nous mangeons.",
+        "D": "Le soir, nous mangeons ensemble."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Nous buvons de l'eau ou du jus.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "We drink water and juice.",
+        "B": "We drink water.",
+        "C": "We drink water or juice.",
+        "D": "They drink water or juice."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"My little brother sings.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mon petit frère chante.",
+        "B": "Ma petite sœur chante.",
+        "C": "Mon petit frère écoute.",
+        "D": "Il chante très bien."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"Il chante très bien.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "He is singing very well.",
+        "B": "He sings very well.",
+        "C": "He does sing very well.",
+        "D": "He sings good."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"My sister writes a letter.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ma sœur lit une lettre.",
+        "B": "Ma sœur reçoit une lettre.",
+        "C": "Ma sœur écrit une lettre.",
+        "D": "Ma sœur écrit à son ami."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"Elle écrit à son amie.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "She writes to her sister.",
+        "B": "She writes her friend.",
+        "C": "She writes to her friend.",
+        "D": "He writes to his friend."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"On Saturdays, we go to the market.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Les dimanches, nous allons au marché.",
+        "B": "Nous allons au marché.",
+        "C": "Les samedis, nous allons au marché.",
+        "D": "Nous allons au magasin le samedi."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"Ma mère fait les courses.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My mother does the cooking.",
+        "B": "My mother goes to the shop.",
+        "C": "My mother does shopping.",
+        "D": "My mother does the shopping."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"I help my mother.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mère",
+        "père",
+        "mon",
+        "boit",
+        "ma",
+        "J'aide"
+      ],
+      "bonne réponse": "J'aide ma mère"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"Nous portons les sacs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "go",
+        "bags",
+        "carry",
+        "carries",
+        "do",
+        "We",
+        "the",
+        "sacks"
+      ],
+      "bonne réponse": "We carry the bags"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"On Sundays, we stay at home.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "son",
+        "à",
+        "nous",
+        "samedi",
+        "dimanches",
+        "restons",
+        "la",
+        "allons",
+        "tôt",
+        "maison",
+        "Les",
+        "parents"
+      ],
+      "bonne réponse": "Les dimanches nous restons à la maison"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"Nous nous reposons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "resting",
+        "sleep",
+        "rest",
+        "are",
+        "We",
+        "do"
+      ],
+      "bonne réponse": "We rest"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"We read books.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mangeons",
+        "livres",
+        "lisons",
+        "des",
+        "cahiers",
+        "simple",
+        "Nous"
+      ],
+      "bonne réponse": "Nous lisons des livres"
+    },
+    "question n°36": {
+      "question": "Traduisez : \"Nous regardons la télévision.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "the",
+        "television",
+        "watch",
+        "do",
+        "We",
+        "watches"
+      ],
+      "bonne réponse": "We watch television"
+    },
+    "question n°37": {
+      "question": "Traduisez : \"In the evening, I revise.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "matin",
+        "nous",
+        "révises",
+        "soir",
+        "révise",
+        "je",
+        "Le",
+        "il"
+      ],
+      "bonne réponse": "Le soir je révise"
+    },
+    "question n°38": {
+      "question": "Traduisez : \"Je fais mes exercices d'anglais.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "home",
+        "do",
+        "English",
+        "a",
+        "I",
+        "does",
+        "my",
+        "go",
+        "his",
+        "exercises"
+      ],
+      "bonne réponse": "I do my English exercises"
+    },
+    "question n°39": {
+      "question": "Traduisez : \"I write new words.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "de",
+        "parle",
+        "anciens",
+        "lis",
+        "nouveaux",
+        "phrase",
+        "mots",
+        "J'écris"
+      ],
+      "bonne réponse": "J'écris de nouveaux mots"
+    },
+    "question n°40": {
+      "question": "Traduisez : \"Je les lis à voix haute.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "them",
+        "aloud",
+        "do",
+        "listen",
+        "I",
+        "to",
+        "read",
+        "go"
+      ],
+      "bonne réponse": "I read them aloud"
+    },
+    "question n°41": {
+      "question": "Traduisez : \"My teacher says practice is good.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "est",
+        "que",
+        "bonne",
+        "mauvaise",
+        "ami",
+        "professeur",
+        "étudie",
+        "la",
+        "Mon",
+        "pratique",
+        "dit",
+        "sœur"
+      ],
+      "bonne réponse": "Mon professeur dit que la pratique est bonne"
+    },
+    "question n°42": {
+      "question": "Traduisez : \"J'écoute mon professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "teacher",
+        "am",
+        "listen",
+        "mother",
+        "talk",
+        "my",
+        "him",
+        "to",
+        "I"
+      ],
+      "bonne réponse": "I listen to my teacher"
+    },
+    "question n°43": {
+      "question": "Traduisez : \"I learn every day.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "jour",
+        "semaine",
+        "chaque",
+        "J'apprends",
+        "dormir",
+        "parle"
+      ],
+      "bonne réponse": "J'apprends chaque jour"
+    },
+    "question n°44": {
+      "question": "Traduisez : \"L'anglais est intéressant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "interesting",
+        "French",
+        "English",
+        "are",
+        "is",
+        "good"
+      ],
+      "bonne réponse": "English is interesting"
+    },
+    "question n°45": {
+      "question": "Traduisez : \"I like English.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "français",
+        "J'aime",
+        "aide",
+        "l'anglais",
+        "parler",
+        "mange"
+      ],
+      "bonne réponse": "J'aime l'anglais"
+    },
+    "question n°46": {
+      "question": "Traduisez : \"Je parle un anglais simple.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "speak",
+        "writes",
+        "do",
+        "simple",
+        "I",
+        "a",
+        "English",
+        "listen"
+      ],
+      "bonne réponse": "I speak simple English"
+    },
+    "question n°47": {
+      "question": "Traduisez : \"I go to school happily.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "écris",
+        "joyeusement",
+        "l'école",
+        "vais",
+        "triste",
+        "travail",
+        "à",
+        "maison",
+        "parle",
+        "Je"
+      ],
+      "bonne réponse": "Je vais à l'école joyeusement"
+    },
+    "question n°48": {
+      "question": "Traduisez : \"Mes amis m'aident.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "me",
+        "My",
+        "brother",
+        "help",
+        "teacher",
+        "helps",
+        "friends"
+      ],
+      "bonne réponse": "My friends help me"
+    },
+    "question n°49": {
+      "question": "Traduisez : \"We study together.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mangeons",
+        "étudions",
+        "travaillons",
+        "ensemble",
+        "dormons",
+        "Nous"
+      ],
+      "bonne réponse": "Nous étudions ensemble"
+    },
+    "question n°50": {
+      "question": "Traduisez : \"Nous chantons ensemble.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "songs",
+        "play",
+        "sing",
+        "do",
+        "together",
+        "We"
+      ],
+      "bonne réponse": "We sing together"
+    },
+    "question n°51": {
+      "question": "Traduisez : \"I write my lessons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "leçons",
+        "lis",
+        "mes",
+        "écoute",
+        "livres",
+        "J'écris"
+      ],
+      "bonne réponse": "J'écris mes leçons"
+    },
+    "question n°52": {
+      "question": "Traduisez : \"Nous faisons notre travail.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "the",
+        "homework",
+        "our",
+        "work",
+        "go",
+        "are",
+        "We"
+      ],
+      "bonne réponse": "We do our work"
+    },
+    "question n°53": {
+      "question": "Traduisez : \"We drink water.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thé",
+        "il",
+        "l'eau",
+        "jus",
+        "buvons",
+        "de",
+        "mangeons",
+        "Nous"
+      ],
+      "bonne réponse": "Nous buvons de l'eau"
+    },
+    "question n°54": {
+      "question": "Traduisez : \"Nous rentrons à la maison en toute sécurité.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "safely",
+        "walk",
+        "home",
+        "the",
+        "go",
+        "are",
+        "school",
+        "We"
+      ],
+      "bonne réponse": "We go home safely"
+    },
+    "question n°55": {
+      "question": "Traduisez : \"At night, I rest.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mange",
+        "nuit",
+        "dors",
+        "son",
+        "me",
+        "repose",
+        "il",
+        "jour",
+        "je",
+        "La"
+      ],
+      "bonne réponse": "La nuit je me repose"
+    },
+    "question n°56": {
+      "question": "Traduisez : \"Je pense à ma journée.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "about",
+        "think",
+        "day",
+        "his",
+        "do",
+        "night",
+        "the",
+        "my",
+        "sleep",
+        "I"
+      ],
+      "bonne réponse": "I think about my day"
+    },
+    "question n°57": {
+      "question": "Traduisez : \"I prepare my bag.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "la",
+        "mon",
+        "ma",
+        "sac",
+        "porte",
+        "sœur",
+        "prépare",
+        "Je"
+      ],
+      "bonne réponse": "Je prépare mon sac"
+    },
+    "question n°58": {
+      "question": "Traduisez : \"Je dors tôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "sleep",
+        "wake",
+        "at",
+        "early",
+        "I"
+      ],
+      "bonne réponse": "I sleep early"
+    },
+    "question n°59": {
+      "question": "Traduisez : \"Tomorrow, I go to school again.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nuit",
+        "à",
+        "encore",
+        "mon",
+        "vais",
+        "l'école",
+        "je",
+        "fais",
+        "lire",
+        "aujourd'hui",
+        "Demain",
+        "travail"
+      ],
+      "bonne réponse": "Demain je vais encore à l'école"
+    },
+    "question n°60": {
+      "question": "Traduisez : \"Je veux apprendre plus d'anglais.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "to",
+        "English",
+        "learn",
+        "a",
+        "study",
+        "I",
+        "more",
+        "do",
+        "the",
+        "want"
+      ],
+      "bonne réponse": "I want to learn more English"
+    }
+  }
+}

@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+
+        <div id="quizForm" class="tex2jax_process"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data =
+            [
+                {
+                    "ex": "Définitions",
+                    "q": "Une épreuve de Bernoulli est une expérience aléatoire qui admet :",
+                    "options": { "A": "Une infinité d'issues", "B": "Exactement deux issues", "C": "Exactement n issues", "D": "Trois issues (Succès, Échec, Neutre)" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Schéma de Bernoulli",
+                    "q": "Un schéma de Bernoulli de paramètres n et p correspond à la répétition de n épreuves de Bernoulli :",
+                    "options": { "A": "Dépendantes", "B": "Identiques et indépendantes", "C": "Successives avec remise uniquement", "D": "Ayant des probabilités différentes à chaque tour" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Paramètres",
+                    "q": "Si le succès S a une probabilité p, quelle est la probabilité q de l'échec ?",
+                    "options": { "A": "q = p - 1", "B": "q = 1/p", "C": "q = 1 - p", "D": "q = p" },
+                    "r": "C"
+                },
+                {
+                    "ex": "Situation 1 (Dé)",
+                    "q": "Dans le lancer d'un dé à 6 faces, quelle est la probabilité de l'échec pour l'événement A : 'Obtenir le 6' ?",
+                    "options": { "A": "1/6", "B": "5/6", "C": "0", "D": "1" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Loi Binomiale",
+                    "q": "La formule P(X=k) pour une loi binomial B(n, p) est :",
+                    "options": { "A": "n * p^k", "B": "C(n,k) * p^k * (1-p)^(n-k)", "C": "p^k * q^(n-k)", "D": "C(n,k) * p^n * q^k" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Calcul (n=6)",
+                    "q": "Quelle est la probabilité d'obtenir 0 fois le chiffre 6 lors de 6 lancers indépendants ?",
+                    "options": { "A": "(1/6)^6", "B": "1 - (5/6)^6", "C": "(5/6)^6", "D": "6/6" },
+                    "r": "C"
+                },
+                {
+                    "ex": "Événement contraire",
+                    "q": "Que signifie l'expression '1 - P(X = 0)' dans un schéma de Bernoulli ?",
+                    "options": { "A": "Obtenir au moins un succès", "B": "Obtenir au moins un échec", "C": "Obtenir exactement un succès", "D": "La probabilité est nulle" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Logarithmes",
+                    "q": "Pour p_n = 1 - (5/6)^n, quelle condition traduit 'p_n >= 0,95' ?",
+                    "options": { "A": "(5/6)^n >= 0,05", "B": "(5/6)^n <= 0,05", "C": "(1/6)^n <= 0,05", "D": "n * (5/6) >= 0,95" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Situation 2 (Tétraèdre)",
+                    "q": "Si on jette deux dés à 4 faces, combien y a-t-il d'issues possibles dans l'univers Ω ?",
+                    "options": { "A": "8", "B": "16", "C": "4", "D": "12" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Sommes (Tétraèdre)",
+                    "q": "Quelle est la probabilité d'obtenir une somme égale à 2 avec deux dés à 4 faces ?",
+                    "options": { "A": "1/4", "B": "2/16", "C": "1/16", "D": "1/8" },
+                    "r": "C"
+                },
+                {
+                    "ex": "Espérance",
+                    "q": "Pour la somme X de deux dés à 4 faces, quelle est l'espérance E(X) ?",
+                    "options": { "A": "4", "B": "5", "C": "4,5", "D": "2" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Fonction de répartition",
+                    "q": "Si F est la fonction de répartition de X, que vaut F(x) pour x < 2 ?",
+                    "options": { "A": "0", "B": "1", "C": "1/16", "D": "0,5" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Variance",
+                    "q": "La formule de la variance V(X) est :",
+                    "options": { "A": "E(X) - E(X^2)", "B": "E(X^2) - [E(X)]^2", "C": "√E(X)", "D": "E(X) / n" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Écart-type",
+                    "q": "Si la variance V(X) = 2,5, quelle est la valeur approximative de l'écart-type σ(X) ?",
+                    "options": { "A": "6,25", "B": "1,25", "C": "1,58", "D": "2,5" },
+                    "r": "C"
+                },
+                {
+                    "ex": "Analyse",
+                    "q": "Dans une loi binomiale B(n, p), si n augmente, la probabilité d'obtenir au moins un succès :",
+                    "options": { "A": "Diminue", "B": "Reste constante", "C": "Augmente vers 1", "D": "Devient nulle" },
+                    "r": "C"
+                }
+            ]
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

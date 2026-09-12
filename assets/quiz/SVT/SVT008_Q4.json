@@ -1,0 +1,186 @@
+{
+  "title": "Quiz 4 : Le Cycle Utérin",
+  "id": "SVT008_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "La muqueuse utérine, également connue sous le nom d'endomètre, est l'endroit spécifique où :",
+      "réponses": {
+        "A": "La formation des ovules matures a lieu chaque mois.",
+        "B": "La fécondation du gamète femelle se produit naturellement.",
+        "C": "L'embryon s'implante en cas de succès de la fécondation.",
+        "D": "Les spermatozoïdes complètent leur maturation finale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Dès qu'une jeune fille atteint la puberté, le premier signe du cycle utérin est la dégénération de la muqueuse de l'utérus, entraînant :",
+      "réponses": {
+        "A": "L'épaississement progressif de l'endomètre pour une éventuelle grossesse.",
+        "B": "Un écoulement de sang composé de sécrétions vaginales et autres substances.",
+        "C": "La production abondante de glycogène pour préparer l'implantation.",
+        "D": "Une augmentation soudaine de la vascularisation de l'utérus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Les menstruations sont un écoulement de sang évacué par le vagin, qui contient également :",
+      "réponses": {
+        "A": "Des fragments d'ovules non fécondés et dégénérés.",
+        "B": "Des cellules ovariennes non viables et des débris tissulaires.",
+        "C": "Des sécrétions vaginales et diverses autres substances.",
+        "D": "Des résidus de sperme non évacués du cycle précédent."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La durée moyenne des règles ou menstrues, période d'écoulement sanguin, est typiquement de :",
+      "réponses": {
+        "A": "Moins de 24 heures sans interruption significative.",
+        "B": "1 à 3 jours au maximum selon les individus.",
+        "C": "2 à 7 jours.",
+        "D": "Plus de 10 jours de façon régulière et prolongée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle phase du cycle utérin est spécifiquement caractérisée par la reconstruction de l'endomètre, accompagnée de la formation de nouvelles glandes et vaisseaux sanguins ?",
+      "réponses": {
+        "A": "La phase menstruelle initiale, juste après l'écoulement.",
+        "B": "La phase sécrétoire tardive, avant une nouvelle dégénération.",
+        "C": "La phase proliférative.",
+        "D": "La phase post-ménopausique, où l'endomètre reste stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La phase sécrétoire du cycle utérin a pour objectif principal de :",
+      "réponses": {
+        "A": "Provoquer la dégénération de la muqueuse en l'absence de fécondation.",
+        "B": "Préparer l'utérus à une éventuelle grossesse.",
+        "C": "Évacuer les débris cellulaires et sanguins accumulés.",
+        "D": "Stimuler la production d'ovules par les ovaires féminins."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pendant la phase sécrétoire, l'utérus se prépare à une éventuelle grossesse en :",
+      "réponses": {
+        "A": "Réduisant l'épaisseur de la muqueuse utérine pour la rendre plus fine.",
+        "B": "Produisant des hormones stimulant directement l'ovulation.",
+        "C": "Épaississant la muqueuse et produisant du mucus et du glycogène.",
+        "D": "Contractant activement ses parois pour éliminer les sécrétions."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "En l'absence de fécondation, quel événement précis se produit au niveau de la muqueuse utérine ?",
+      "réponses": {
+        "A": "Elle continue de s'épaissir indéfiniment sans interruption.",
+        "B": "Elle se maintient en état de préparation constante sans changement.",
+        "C": "Elle se dégénère à nouveau et le cycle recommence.",
+        "D": "Elle se transforme en une structure glandulaire permanente."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La durée moyenne du cycle utérin complet, de la puberté à la ménopause, est de :",
+      "réponses": {
+        "A": "Environ 14 jours, correspondant précisément à la période d'ovulation.",
+        "B": "Une semaine complète, incluant uniquement la période des règles.",
+        "C": "28 jours.",
+        "D": "Variable selon les individus, sans aucune moyenne établie."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Le cycle utérin, d'une durée moyenne de 28 jours, débute à compter du :",
+      "réponses": {
+        "A": "Dernier jour des règles précédentes.",
+        "B": "Premier jour des règles.",
+        "C": "Jour exact de l'ovulation.",
+        "D": "Jour supposé de la fécondation de l'ovule."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : L'endomètre est l'endroit où l'embryon s'implante en cas de fécondation pour initier le développement du bébé.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La menstruation est la période des premières règles, caractérisée par un écoulement de sang et de sécrétions évacués par le vagin.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : La phase proliférative est responsable de la dégénération de l'endomètre après les règles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : Durant la phase sécrétoire, la muqueuse utérine s'épaissit et produit du mucus et du glycogène pour préparer une éventuelle grossesse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Le cycle utérin dure en moyenne 28 jours et se déroule de la puberté à la ménopause.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Le premier jour des règles marque le début du cycle utérin.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Si aucune fécondation n'a lieu, la muqueuse utérine se dégénère à nouveau, et le cycle se termine définitivement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La phase sécrétoire a pour but de bloquer toute possibilité de grossesse future en amincissant la muqueuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : La phase proliférative se caractérise par la formation de glandes et de vaisseaux sanguins dans l'endomètre reconstruit.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : Le cycle utérin dure en moyenne 28 jours, soit quatre semaines, à compter du premier jour des règles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

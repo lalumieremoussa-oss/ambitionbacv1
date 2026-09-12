@@ -1,0 +1,197 @@
+
+{
+  "title": "Quiz 2",
+  "id": "PH002_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Soit le sujet : Toute prise de conscience est-elle libératrice ? Que signifie prise de conscience dans ce sujet ?",
+      "réponses": {
+        "A": "L’acte d’agir moralement",
+        "B": "Un retour passif sur des émotions anciennes",
+        "C": "L’acte par lequel un individu devient lucide sur une réalité donnée",
+        "D": "Une simple perception sensorielle"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Dans ce contexte, que signifie libératrice ?",
+      "réponses": {
+        "A": "Ce qui enferme dans le doute",
+        "B": "Ce qui nie la possibilité du choix.",
+        "C": "Ce qui favorise l’obéissance inconsciente",
+        "D": "Ce qui permet de sortir d’une forme de dépendance ou d’ignorance"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Pourquoi peut-on dire que la conscience favorise la liberté ?",
+      "réponses": {
+        "A": "Parce qu’elle impose un choix collectif",
+        "B": "Parce qu’elle supprime les contraintes sociales",
+        "C": "Parce qu’elle permet de réfléchir avant d’agir",
+        "D": "Parce qu’elle rend impossible toute responsabilité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La conscience permet à l’homme de se distinguer de l’animal car :",
+      "réponses": {
+        "A": "Elle lui donne la capacité de juger ses propres actes",
+        "B": "Elle lui permet d’anticiper des dangers immédiats",
+        "C": "Elle est fondée sur des réflexes naturels",
+        "D": "Elle supprime totalement ses instincts"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Selon Sartre, la conscience est liée à la liberté car :",
+      "réponses": {
+        "A": "Elle rend l’homme responsable de ses choix",
+        "B": "Elle impose toujours le bien",
+        "C": "Elle le libère de toute angoisse",
+        "D": "Elle fonctionne comme un automatisme moral"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Pourquoi Descartes parle-t-il de la conscience comme puissance d’élire ?",
+      "réponses": {
+        "A": "Parce qu’elle permet de choisir librement entre plusieurs options",
+        "B": "Parce qu’elle détermine l’issue de la réflexion",
+        "C": "Parce qu’elle commande automatiquement l’action",
+        "D": "Parce qu’elle nie toute hésitation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "En quoi Pascal relie-t-il la pensée à la dignité humaine ?",
+      "réponses": {
+        "A": "Parce qu’elle vient de Dieu",
+        "B": "Parce qu’elle révèle la misère humaine",
+        "C": "Parce qu’elle repose sur l’émotion",
+        "D": "Parce qu’elle élève l’homme au-dessus de l’animal par la réflexion"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quel est le rôle de la conscience dans la responsabilité morale ?",
+      "réponses": {
+        "A": "Elle permet d’oublier ses fautes",
+        "B": "Elle impose des remords sans choix",
+        "C": "Elle éclaire l’action pour la rendre assumée",
+        "D": "Elle supprime les conséquences"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Qui a affirmé : « La seule liberté possible suppose la prise de conscience » ?",
+      "réponses": {
+        "A": "Sartre",
+        "B": "Spinoza",
+        "C": "Freud",
+        "D": "Marx"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Que signifie la citation de Pascal : « Ce n’est point de l’espace que je dois chercher ma dignité, mais du règlement de ma pensée » ?",
+      "réponses": {
+        "A": "L’espace conditionne la valeur de l’homme",
+        "B": "La dignité vient de l’ordre dans la pensée",
+        "C": "L’homme n’a aucune dignité sans espace",
+        "D": "La pensée doit rester instinctive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Que veut dire Sartre lorsqu’il affirme : « L’homme est condamné à être libre » ?",
+      "réponses": {
+        "A": "Il n’a pas d’autre choix que de fuir la liberté",
+        "B": "La liberté est réservée à une élite",
+        "C": "La liberté est une illusion provoquée par la société",
+        "D": "Il ne peut échapper à la nécessité de choisir"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Qui a écrit : « L’angoisse est le vertige de la liberté » ?",
+      "réponses": {
+        "A": "Freud",
+        "B": "Nietzsche",
+        "C": "Kierkegaard",
+        "D": "Alain"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi Kierkegaard associe-t-il angoisse et liberté ?",
+      "réponses": {
+        "A": "L’angoisse prouve qu’on n’est pas libre",
+        "B": "L’angoisse apparaît devant la responsabilité du choix",
+        "C": "L’angoisse détruit toute volonté",
+        "D": "L’angoisse est le contraire de la conscience"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi Nietzsche valorise-t-il l’oubli ?",
+      "réponses": {
+        "A": "Parce qu’il permet de nier le passé",
+        "B": "Parce qu’il libère de la culpabilité et du remords",
+        "C": "Parce qu’il détruit l’histoire collective",
+        "D": "Parce qu’il fait perdre la mémoire logique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le risque d’une conscience trop réflexive ?",
+      "réponses": {
+        "A": "Elle conduit à des ruminations obsessionnelles",
+        "B": "Elle favorise l’action rapide",
+        "C": "Elle développe l’empathie",
+        "D": "Elle supprime la culpabilité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "La prise de conscience rend toujours libre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "La liberté commence lorsque l’on devient lucide sur sa condition.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "L’angoisse empêche l’homme d’être libre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "« Celui qui revient sur ses actes passés prend conscience de leurs défauts. Cette lucidité peut entraîner le regret, la culpabilité ou la honte. » Cet argument soutient que la conscience fait de l’homme un être libre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La conscience sociale est toujours un signe de liberté individuelle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

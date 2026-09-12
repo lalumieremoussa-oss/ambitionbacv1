@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 2",
+  "id": "SVT003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est une des conséquences principales de la consommation de drogues au niveau de l’organisme du consommateur ?",
+      "réponses": {
+        "A": "Une amélioration notable des fonctions cognitives et de la mémoire à long terme.",
+        "B": "Un renforcement progressif du système immunitaire face aux infections diverses.",
+        "C": "Une dégénérescence graduelle des neurones, pouvant entraîner des pertes de mémoire.",
+        "D": "Un gain de poids significatif dû à une augmentation de l’appétit de l’individu."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Parmi les conséquences physiques directes de la consommation régulière de drogues sur l’individu, laquelle est explicitement mentionnée ?",
+      "réponses": {
+        "A": "Une augmentation notable de la masse musculaire avec le temps.",
+        "B": "Un développement accru de la résistance physique à l’effort intense.",
+        "C": "Une amélioration globale de la santé cardiovasculaire et respiratoire.",
+        "D": "Un amaigrissement prononcé du sujet dû à des troubles métaboliques importants."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle est une des principales conséquences sociales de la consommation de drogues au sein de la communauté ?",
+      "réponses": {
+        "A": "Une cohésion accrue entre les membres de la société dans leur ensemble.",
+        "B": "Un renforcement des valeurs morales et éthiques partagées par tous.",
+        "C": "La délinquance, caractérisée par une augmentation des comportements criminels divers.",
+        "D": "Une diminution générale de l’insécurité, grâce à une vigilance accrue des citoyens."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La consommation de drogues peut entraîner une conséquence négative majeure au niveau de l’unité familiale. Laquelle est citée ?",
+      "réponses": {
+        "A": "Le renforcement des liens affectifs et de la communication intrafamiliale.",
+        "B": "L’amélioration de la stabilité économique et financière du foyer familial.",
+        "C": "L’éclatement de la cellule familiale, pouvant mener à la séparation de ses membres.",
+        "D": "L’établissement de relations plus harmonieuses et apaisées entre parents et enfants."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pour lutter contre la consommation de drogues, quelle est une des mesures préventives recommandées ?",
+      "réponses": {
+        "A": "Procéder systématiquement à une cure de désintoxication forcée pour tous les individus.",
+        "B": "Effectuer une large sensibilisation des populations sur les méfaits des stupéfiants.",
+        "C": "Mettre en place des centres de rééducation spécialisés après l’apparition de l’addiction.",
+        "D": "Ignorer le problème, en espérant que la situation s’améliorera d’elle-même progressivement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle mesure fait partie de l’approche curative pour contrer les effets de la consommation de drogue ?",
+      "réponses": {
+        "A": "Préconiser activement un mode de vie sans aucune drogue ni substance illicite.",
+        "B": "Faire une large campagne de sensibilisation aux dangers associés à l’abus.",
+        "C": "Organiser des ateliers de prévention dans les écoles et les quartiers locaux.",
+        "D": "Procéder à une cure de désintoxication pour aider les personnes dépendantes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Outre la désintoxication, quelle autre mesure curative est envisagée pour aider les personnes dépendantes aux drogues ?",
+      "réponses": {
+        "A": "L’établissement de lois strictes pour interdire la vente de substances illicites.",
+        "B": "La mise en place de programmes de sensibilisation aux jeunes dans les écoles.",
+        "C": "L’initiation de programmes de rééducation pour favoriser leur réinsertion sociale.",
+        "D": "La promotion d’activités sportives et culturelles comme alternatives saines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel effet global les drogues ont-elles sur l’homme, tel que mentionné dans la conclusion générale ?",
+      "réponses": {
+        "A": "Elles améliorent les capacités physiques et intellectuelles de façon significative.",
+        "B": "Elles agissent sur le système nerveux en ayant divers effets et entraînent des conséquences.",
+        "C": "Elles n’ont aucun impact ou influence sur le système nerveux central de l’individu.",
+        "D": "Elles contribuent à renforcer la santé mentale et le bien-être émotionnel durablement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "La dégradation des mœurs est une conséquence de la consommation de drogues qui se manifeste au niveau :",
+      "réponses": {
+        "A": "Du tissu social et des normes comportementales de la société.",
+        "B": "De l’équilibre chimique interne des neurones cérebraux.",
+        "C": "De l’organisme individuel du consommateur directement.",
+        "D": "Du fonctionnement optimal des organes vitaux du corps humain."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quel est un exemple de mesure préventive qui incite à adopter un mode de vie sain ?",
+      "réponses": {
+        "A": "La mise en place de thérapies intensives pour les toxicomanes en phase avancée.",
+        "B": "L’augmentation des effectifs policiers pour réprimer le trafic de drogues illégales.",
+        "C": "La préconisation d’une vie sans drogue par des campagnes d’éducation continues.",
+        "D": "La construction de nouveaux centres de traitement pour les cas de rechute fréquente."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle est une des façons dont les drogues à effet exciteur agissent au niveau synaptique pour influencer la transmission neuronale ?",
+      "réponses": {
+        "A": "Elles provoquent une diminution progressive de la synthèse des neuromédiateurs.",
+        "B": "Elles favorisent une libération continue du neuromédiateur dans la fente synaptique.",
+        "C": "Elles accélèrent la dégradation enzymatique des substances chimiques actives.",
+        "D": "Elles réduisent de manière significative la sensibilité des récepteurs membranaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment certaines drogues à effet exciteur peuvent-elles prolonger l’activité des neuromédiateurs dans le cerveau ?",
+      "réponses": {
+        "A": "Elles augmentent l’efficacité des enzymes responsables de la dégradation.",
+        "B": "Elles favorisent l’absorption rapide des neuromédiateurs par les cellules gliales.",
+        "C": "Elles empêchent la recapture du neuromédiateur par le neurone présynaptique.",
+        "D": "Elles diminuent la concentration des ions essentiels à la transmission électrique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Une des stratégies des drogues à effet inhibiteur pour ralentir l’activité nerveuse est de :",
+      "réponses": {
+        "A": "Stimuler excessivement la production de nouveaux neuromédiateurs dans les neurones.",
+        "B": "Accélérer le transport des signaux électriques le long des fibres nerveuses.",
+        "C": "Bloquer la libération du neuromédiateur dans la fente synaptique à la source.",
+        "D": "Augmenter la régénération des récepteurs spécifiques sur la membrane cellulaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Outre le blocage de la libération, comment les drogues à effet inhibiteur peuvent-elles influencer la transmission synaptique ?",
+      "réponses": {
+        "A": "En activant de nouveaux circuits neuronaux non fonctionnels.",
+        "B": "En accélérant la dégradation des protéines de la membrane cellulaire.",
+        "C": "En empêchant la fixation du neuromédiateur sur son site de liaison spécifique.",
+        "D": "En augmentant la perméabilité de la membrane aux ions négatifs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "L’accélération de l’activité du système nerveux par les drogues excitatrices résulte notamment de la libération de quels types de neuromédiateurs ?",
+      "réponses": {
+        "A": "L’histamine et la mélatonine qui régulent les cycles circadiens.",
+        "B": "La dopamine et la noradrénaline, des substances stimulantes clés.",
+        "C": "L’endorphine et l’acétylcholine qui influencent l’humeur.",
+        "D": "Le GABA et la sérotonine, des neurotransmetteurs inhibiteurs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "L’hyper-excitabilité observée chez les consommateurs de certaines drogues est expliquée par le fait que ces substances s’opposent à quel processus physiologique essentiel ?",
+      "réponses": {
+        "A": "La synthèse de nouvelles molécules de neuromédiateurs.",
+        "B": "La recapture du neuromédiateur par le neurone présynaptique.",
+        "C": "La destruction rapide des complexes neuromédiateur-récepteur.",
+        "D": "L’assemblage des vésicules synaptiques dans le cytoplasme."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Lorsque les neuromédiateurs ne sont pas recapturés, quelle est la conséquence principale sur leur concentration dans la fente synaptique ?",
+      "réponses": {
+        "A": "Elle atteint une forte concentration, provoquant une stimulation anormale.",
+        "B": "Elle reste constante, sans effet notable sur le neurone post-synaptique.",
+        "C": "Leur concentration diminue, entraînant une réduction de l’activité.",
+        "D": "Elle fluctue de manière imprévisible, rendant la transmission chaotique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel exemple de drogue excitatrice est spécifiquement mentionné comme s’opposant à la recapture de la dopamine, entraînant des effets psychostimulants ?",
+      "réponses": {
+        "A": "La morphine, connue pour ses puissantes propriétés analgésiques.",
+        "B": "Les amphétamines, utilisées pour leur capacité à augmenter la vigilance.",
+        "C": "Le LSD, qui provoque des altérations profondes de la perception.",
+        "D": "La cocaïne, fréquemment associée à une intense excitation."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quel est l’effet de la morphine, une drogue à action inhibitrice, sur la libération de la substance P ?",
+      "réponses": {
+        "A": "Elle stimule fortement la libération de cette substance P.",
+        "B": "Elle n’a aucun effet direct sur la libération de la substance P.",
+        "C": "Elle modifie la structure chimique de la substance P la rendant inactive.",
+        "D": "Elle bloque la libération de la substance P, réduisant ainsi la douleur."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Comment les drogues à effet inhibiteur, comme le LSD, peuvent-elles empêcher la transmission de l’influx nerveux à la cellule post-synaptique ?",
+      "réponses": {
+        "A": "En accélérant la production de nouvelles protéines réceptrices sur la membrane.",
+        "B": "En augmentant le nombre de canaux ioniques ouverts en permanence.",
+        "C": "En se fixant sur les récepteurs post-synaptiques, bloquant la liaison du neuromédiateur.",
+        "D": "En stimulant la dégradation rapide des neuromédiateurs avant leur fixation."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

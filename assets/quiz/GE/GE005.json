@@ -1,0 +1,721 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "GE005_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel traité a fondé la Communauté Économique Européenne ?",
+      "réponses": {
+        "A": "Le traité de Maastricht",
+        "B": "Le traité de Georgetown",
+        "C": "Le traité de Rome",
+        "D": "Le traité d’Amsterdam"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "L’acronyme ACP désigne :",
+      "réponses": {
+        "A": "Association des Colonies du Pacifique",
+        "B": "Alliés des Colonies Productrices",
+        "C": "Afrique, Caraïbes, Pacifique",
+        "D": "Accord Commercial Partagé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "En quelle année la CECA a-t-elle été créée ?",
+      "réponses": {
+        "A": "1951",
+        "B": "1957",
+        "C": "1963",
+        "D": "1975"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle structure a précédé la CEE dans le processus d’intégration européenne ?",
+      "réponses": {
+        "A": "L’OMC",
+        "B": "L’OTAN",
+        "C": "La CECA",
+        "D": "Le G7"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel événement économique marque la naissance officielle de l'espace ACP ?",
+      "réponses": {
+        "A": "La création de l’Union Africaine",
+        "B": "La signature du traité de Maastricht",
+        "C": "L’entrée de la Grande-Bretagne dans la CEE",
+        "D": "La conférence de Georgetown en 1975"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "En 1973, l’élargissement de la CEE inclut :",
+      "réponses": {
+        "A": "Le Portugal et la Grèce",
+        "B": "Le Royaume-Uni et le Danemark",
+        "C": "La Suède et la Norvège",
+        "D": "L’Espagne et la Finlande"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "À quoi sert le Fonds Européen de Développement (FED) ?",
+      "réponses": {
+        "A": "Financer les partis politiques européens",
+        "B": "Encourager l’industrie européenne",
+        "C": "Soutenir les États ACP dans leurs projets",
+        "D": "Favoriser la défense commune de l’UE"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Le traité de Maastricht institue officiellement :",
+      "réponses": {
+        "A": "La coopération ACP-CEE",
+        "B": "L’Union Européenne",
+        "C": "L’accord de Yaoundé",
+        "D": "Le pacte de Lomé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Combien d’États ACP sont liés à l’UE aujourd’hui ?",
+      "réponses": {
+        "A": "86",
+        "B": "58",
+        "C": "77",
+        "D": "46"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quel est l’un des objectifs essentiels de la coopération UE-ACP ?",
+      "réponses": {
+        "A": "Garantir l’accès des produits ACP au marché de l’UE",
+        "B": "Accorder le droit à un pays africain.",
+        "C": "Favoriser les exportations asiatiques",
+        "D": "Créer une monnaie unique ACP"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Qu’est-ce que les APE ont changé dans la coopération UE-ACP ?",
+      "réponses": {
+        "A": "Ils ont supprimé toute aide au développement",
+        "B": "Ils ont créé une zone de libre-échange",
+        "C": "Ils ont imposé un embargo commercial",
+        "D": "Ils ont réduit les accords commerciaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que signifie le caractère 'asymétrique' des APE ?",
+      "réponses": {
+        "A": "L’UE paie plus de taxes que les ACP",
+        "B": "L’UE ouvre son marché entièrement, les ACP partiellement",
+        "C": "Les ACP dominent les échanges",
+        "D": "Aucun pays ne bénéficie d’avantages"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Combien de conventions de Lomé ont été signées ?",
+      "réponses": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quelle est la principale critique faite aux APE ?",
+      "réponses": {
+        "A": "Ils sont contraires aux accords de Yaoundé",
+        "B": "Ils fragilisent les économies ACP",
+        "C": "Ils augmentent les droits de douane pour l’UE",
+        "D": "Ils empêchent l’intégration régionale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est l’intérêt principal de l’UE dans la coopération avec les ACP ?",
+      "réponses": {
+        "A": "L’envoi de troupes militaires",
+        "B": "La sécurisation des flux migratoires",
+        "C": "La préservation de relations historiques et commerciales",
+        "D": "Le soutien aux États-Unis dans leurs projets"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelles régions sont concernées par les APE ?",
+      "réponses": {
+        "A": "L’Amérique latine et l’Europe de l’Est",
+        "B": "Les pays asiatiques partenaires",
+        "C": "Les six grandes régions ACP",
+        "D": "Les États membres de l’OTAN"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce qui a remplacé la Convention de Lomé après 2000 ?",
+      "réponses": {
+        "A": "L’accord de Yaoundé III",
+        "B": "L’accord de Lisbonne",
+        "C": "L’accord de Cotonou",
+        "D": "Le traité de Libreville"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Le passage de la CEE à l’UE a été officialisé par :",
+      "réponses": {
+        "A": "Le traité de Rome",
+        "B": "Le traité de Maastricht",
+        "C": "Le traité de Nice",
+        "D": "Le traité de Vienne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle était la motivation initiale de la France et de la Belgique pour une coopération CEE-EAMA ?",
+      "réponses": {
+        "A": "Rompre avec leurs anciennes colonies",
+        "B": "Empêcher la Chine d'influencer l’Afrique",
+        "C": "Maintenir un lien économique post-colonial",
+        "D": "Imposer une langue unique aux ACP"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Que garantissait la Convention de Yaoundé ?",
+      "réponses": {
+        "A": "Une union militaire entre l’Europe et l’Afrique",
+        "B": "L’indépendance économique totale des ACP",
+        "C": "Un cadre de coopération entre la CEE et les pays africains",
+        "D": "Une monnaie unique ACP-UE"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "GE005_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Combien de conventions de Yaoundé ont été signées entre la CEE et les EAMA ?",
+      "réponses": {
+        "A": "Trois conventions renouvelables",
+        "B": "Une seule convention de principe",
+        "C": "Quatre conventions décennales",
+        "D": "Deux conventions de cinq ans chacune"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L’un des objectifs majeurs des conventions de Yaoundé était :",
+      "réponses": {
+        "A": "Supprimer les dettes des pays ACP",
+        "B": "Interdire les exportations agricoles vers l’Europe",
+        "C": "Créer une zone d’échange entre la CEE et les EAMA",
+        "D": "Instaurer un tarif douanier commun"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle institution européenne finançait l’aide technique aux EAMA ?",
+      "réponses": {
+        "A": "La Banque Européenne d’Investissement (BEI)",
+        "B": "Le Conseil Européen",
+        "C": "La Banque Centrale Européenne",
+        "D": "Le Parlement Européen"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quel dispositif a été mis en place par les conventions de Lomé pour les produits agricoles ?",
+      "réponses": {
+        "A": "Le PRADA",
+        "B": "Le PACTE",
+        "C": "Le STABEX",
+        "D": "Le TROPICA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Le SYSMIN concerne :",
+      "réponses": {
+        "A": "Les produits miniers exportés par les ACP",
+        "B": "Les produits artisanaux",
+        "C": "Les recettes fiscales des ACP",
+        "D": "Les aides alimentaires européennes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel type d’accord remplace les conventions de Yaoundé et de Lomé après 2000 ?",
+      "réponses": {
+        "A": "L’accord de Bamako",
+        "B": "L’accord de Cotonou",
+        "C": "L’accord d’Abidjan",
+        "D": "L’accord de Rome"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Où la convention de Cotonou devait-elle initialement être signée ?",
+      "réponses": {
+        "A": "Dakar",
+        "B": "Kingston",
+        "C": "Abidjan",
+        "D": "Suva, aux îles Fidji"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi la convention de Cotonou a-t-elle été déplacée de Suva à Cotonou ?",
+      "réponses": {
+        "A": "Pour des raisons de sécurité climatique",
+        "B": "À cause d’un coup d’État aux îles Fidji",
+        "C": "Suite à une crise sanitaire locale",
+        "D": "Pour honorer les relations avec le Bénin"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Une nouveauté de la convention de Cotonou est :",
+      "réponses": {
+        "A": "L’interdiction de tout prêt à taux variable",
+        "B": "La suppression de la coopération culturelle",
+        "C": "La révision périodique de l’accord",
+        "D": "L’exclusion des pays non francophones"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle condition politique est exigée dans la convention de Cotonou ?",
+      "réponses": {
+        "A": "L'adoption du multipartisme obligatoire",
+        "B": "Le respect de l’État de droit et de la bonne gouvernance",
+        "C": "L’adhésion automatique à l’UE",
+        "D": "La reconnaissance du français comme langue officielle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Les conventions de Lomé ont été signées entre :",
+      "réponses": {
+        "A": "L’UE et les EAMA",
+        "B": "L’ONU et les ACP",
+        "C": "La CEE et les ACP",
+        "D": "L’UE et l’ASEAN"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La durée de validité de la convention de Cotonou était initialement :",
+      "réponses": {
+        "A": "30 ans",
+        "B": "10 ans renouvelables",
+        "C": "20 ans",
+        "D": "Indéterminée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel était l’un des objectifs des conventions de Lomé ?",
+      "réponses": {
+        "A": "Interdire les exportations vers les pays ACP",
+        "B": "Rétablir la colonisation indirecte",
+        "C": "Fusionner les économies ACP et UE",
+        "D": "Garantir la stabilité des prix des produits des ACP"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Parmi ces domaines, lequel fait partie de la coopération UE-ACP ?",
+      "réponses": {
+        "A": "Défense nucléaire",
+        "B": "Contrôle des migrations illégales",
+        "C": "Uniformisation linguistique",
+        "D": "Éducation et culture"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "L’un des buts de la coopération UE-ACP est :",
+      "réponses": {
+        "A": "L’exclusion des acteurs privés",
+        "B": "L’interdiction de toute aide au développement",
+        "C": "L’intégration des ACP dans l’économie mondiale",
+        "D": "La séparation économique entre les deux blocs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Le FED (Fonds Européen de Développement) intervient notamment dans :",
+      "réponses": {
+        "A": "Le financement des projets dans les ACP",
+        "B": "La production cinématographique",
+        "C": "La fabrication d’armes",
+        "D": "Les opérations boursières en Europe"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La coopération UE-ACP couvre :",
+      "réponses": {
+        "A": "Plusieurs domaines économiques, sociaux et politiques",
+        "B": "Uniquement les secteurs militaires",
+        "C": "Exclusivement les domaines commerciaux",
+        "D": "Les sports et les loisirs uniquement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle affirmation reflète un domaine d’intervention de la coopération ?",
+      "réponses": {
+        "A": "La lutte contre les exportations ACP",
+        "B": "La lutte contre les déséquilibres structurels",
+        "C": "La création d’une monnaie unique",
+        "D": "L’imposition du régime parlementaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelles sont les grandes catégories de produits concernés par la stabilisation ?",
+      "réponses": {
+        "A": "Produits technologiques",
+        "B": "Produits agricoles et miniers",
+        "C": "Produits pétroliers uniquement",
+        "D": "Produits pharmaceutiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle aide est prévue par la coopération en cas de catastrophes dans les ACP ?",
+      "réponses": {
+        "A": "Aide symbolique et diplomatique uniquement",
+        "B": "Aucune assistance n’est prévue",
+        "C": "Un renvoi vers les ONG internationales",
+        "D": "Une aide humanitaire, logistique et financière"
+      },
+      "bonne réponse": "D"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "GE005_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel type de zone la coopération UE-ACP a-t-elle permis de créer ?",
+      "réponses": {
+        "A": "Une zone de libre-échange avec contrôle douanier",
+        "B": "Une zone d’échanges préférentiels entre les deux espaces",
+        "C": "Une zone militaire de sécurité renforcée",
+        "D": "Une zone de libre circulation des personnes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel intérêt stratégique représentent les ACP pour l’UE ?",
+      "réponses": {
+        "A": "Une réserve de travailleurs agricoles",
+        "B": "Un terrain pour les essais nucléaires",
+        "C": "Une opportunité pour renforcer ses frontières",
+        "D": "Un marché pour ses produits manufacturés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "L’UE tire des ACP :",
+      "réponses": {
+        "A": "Des ressources en produits agricoles uniquement",
+        "B": "Des brevets technologiques avancés",
+        "C": "Des produits électroniques fabriqués localement",
+        "D": "Des matières premières et de l’énergie pour son industrie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle affirmation montre le rôle diplomatique de l’UE dans la coopération ?",
+      "réponses": {
+        "A": "L’UE impose des régimes autoritaires",
+        "B": "L’UE soutient les coups d’État",
+        "C": "L’UE devient un partenaire privilégié du monde en développement",
+        "D": "L’UE interdit les investissements étrangers"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "L’un des avantages pour les produits ACP sur le marché européen est :",
+      "réponses": {
+        "A": "Une taxation préférentielle",
+        "B": "Une interdiction de réexportation",
+        "C": "Une évaluation systématique par l’OMC",
+        "D": "Un accès libre sans réciprocité"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle institution a financé de nombreux projets dans les États ACP ?",
+      "réponses": {
+        "A": "L’OMC",
+        "B": "Le FED (Fonds Européen de Développement)",
+        "C": "La BAD (Banque africaine de développement)",
+        "D": "L’ONU"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "L’un des formes de soutien financier européen passe aussi par :",
+      "réponses": {
+        "A": "La BAD (Banque africaine de développement)",
+        "B": "La Banque Européenne d’Investissement (BEI)",
+        "C": "La BCE",
+        "D": "Le Trésor Public"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Les systèmes STABEX et SYSMIN garantissent :",
+      "réponses": {
+        "A": "La stabilité des prix des produits agricoles et miniers",
+        "B": "La sécurité alimentaire des populations rurales",
+        "C": "Une stabilité politique dans les ACP",
+        "D": "Une hausse constante des revenus"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle est l’une des principales limites de l’aide de l’UE aux ACP ?",
+      "réponses": {
+        "A": "Elle est jugée insuffisante et limitée à certains secteurs",
+        "B": "Elle est ponctuelle mais extrêmement efficace",
+        "C": "Elle est mal orientée vers l’armement",
+        "D": "Elle finance uniquement les écoles privées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Une critique majeure du STABEX et SYSMIN est :",
+      "réponses": {
+        "A": "Leur application aux seuls pays asiatiques",
+        "B": "Leur efficacité excessive qui étouffe les économies",
+        "C": "Leur couverture incomplète et leurs ressources limitées",
+        "D": "Leur priorité donnée aux États riches"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Qu’est-ce qui persiste malgré la coopération ?",
+      "réponses": {
+        "A": "Une réduction massive de la dette",
+        "B": "Une industrialisation des ACP",
+        "C": "Un déficit commercial et une détérioration des échanges",
+        "D": "Une autarcie économique ACP"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La dette des ACP est :",
+      "réponses": {
+        "A": "Stable grâce aux conventions de Lomé",
+        "B": "Partiellement annulée par l’UE",
+        "C": "Provoquée par l’investissement excessif",
+        "D": "Accentuée par la fragilité des termes de l’échange"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Le déséquilibre dans les relations UE-ACP est caractérisé par :",
+      "réponses": {
+        "A": "Une domination des ACP sur l’UE",
+        "B": "Une parfaite réciprocité des échanges",
+        "C": "Un désengagement total des Européens",
+        "D": "Une dépendance forte des ACP vis-à-vis de l’UE"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quelle tendance affaiblit la coopération multilatérale UE-ACP ?",
+      "réponses": {
+        "A": "La hausse des prix mondiaux",
+        "B": "L’isolement volontaire des ACP",
+        "C": "La création d’un marché commun africain",
+        "D": "La préférence pour la coopération bilatérale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "En matière de commerce, les échanges UE-ACP sont :",
+      "réponses": {
+        "A": "Strictement contrôlés par l’ONU",
+        "B": "Toujours équilibrés entre partenaires",
+        "C": "Gérés par des entreprises privées",
+        "D": "Défavorable aux ACP sur la base des termes d’échange"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "L’aide de l’UE est souvent critiquée pour être :",
+      "réponses": {
+        "A": "Trop ciblée et pas assez globale",
+        "B": "Excessivement intrusive",
+        "C": "Trop rapide et massive",
+        "D": "Principalement orientée vers les pays riches"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel type de projets l’UE a-t-elle soutenu dans les pays ACP ?",
+      "réponses": {
+        "A": "Des équipements socioéconomiques",
+        "B": "Des projets d’exploration spatiale",
+        "C": "Des armements et matériels militaires",
+        "D": "Des campagnes de propagande"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Une des forces de la coopération est :",
+      "réponses": {
+        "A": "L’interdiction des produits ACP en Europe",
+        "B": "Le soutien constant à la dette extérieure",
+        "C": "La diversité des domaines couverts par la coopération",
+        "D": "Le retrait progressif de l’UE des investissements"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "La coopération UE-ACP est vue comme :",
+      "réponses": {
+        "A": "Un échec diplomatique majeur",
+        "B": "Un modèle de relation entre pays riches et pauvres",
+        "C": "Une initiative de la Banque mondiale",
+        "D": "Un pacte militaire stratégique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le traité fondateur de la coopération UE-ACP est :",
+      "réponses": {
+        "A": "Le traité de Lisbonne",
+        "B": "Le traité de Lomé",
+        "C": "Le traité de Rome",
+        "D": "Le traité de Maastricht"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Quelle affirmation correspond à une réussite des conventions ?",
+      "réponses": {
+        "A": "Les ACP ont été exclus du marché européen",
+        "B": "La coopération a ruiné les économies africaines",
+        "C": "Des programmes de développement ont été mis en place",
+        "D": "Le commerce ACP a été freiné par les taxes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Le FED et la BEI sont connus pour :",
+      "réponses": {
+        "A": "Financer des projets structurants dans les ACP",
+        "B": "Protéger les frontières extérieures de l’UE",
+        "C": "Offrir des crédits étudiants",
+        "D": "Réduire les salaires des fonctionnaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "Le terme 'chasse gardée' dans ce contexte signifie :",
+      "réponses": {
+        "A": "Un espace sous forte influence de l’UE",
+        "B": "Une zone de non-droit économique",
+        "C": "Une zone d’accès libre pour tous",
+        "D": "Un territoire dominé par l’ONU"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Quelle est une limite persistante malgré les accords ?",
+      "réponses": {
+        "A": "La suppression de toutes taxes douanières",
+        "B": "La trop grande compétitivité des ACP",
+        "C": "L’endettement croissant des États ACP",
+        "D": "L’expansion militaire des ACP"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Le commerce bilatéral signifie que :",
+      "réponses": {
+        "A": "Un seul pays négocie pour tous",
+        "B": "Deux partenaires établissent une coopération directe",
+        "C": "Le commerce est collectif",
+        "D": "L’ONU contrôle les termes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Les termes d’échange désignent :",
+      "réponses": {
+        "A": "Les conditions de visas pour les ACP",
+        "B": "Le rapport entre les prix des exportations et importations",
+        "C": "Les taux de scolarisation",
+        "D": "Le temps de transport des marchandises"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "La coopération UE-ACP est multiforme car :",
+      "réponses": {
+        "A": "Elle ne concerne que l’éducation",
+        "B": "Elle ne couvre que le commerce",
+        "C": "Elle change tous les cinq ans",
+        "D": "Elle touche plusieurs secteurs variés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "Un succès de cette coopération réside dans :",
+      "réponses": {
+        "A": "L’exclusion des langues africaines",
+        "B": "La disparition des ressources naturelles",
+        "C": "L’accès privilégié des ACP aux marchés européens",
+        "D": "L’arrêt des investissements sociaux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "L’endettement des ACP est lié à :",
+      "réponses": {
+        "A": "La chute de la natalité",
+        "B": "L’inefficacité du FMI",
+        "C": "La faiblesse des revenus d’exportation",
+        "D": "L’abandon du système bancaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Le bilan général des relations UE-ACP peut être résumé comme :",
+      "réponses": {
+        "A": "Totalement déséquilibré et inutile",
+        "B": "Positif mais marqué par des limites réelles",
+        "C": "Strictement technologique",
+        "D": "Un modèle exclusivement européen"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}
+]

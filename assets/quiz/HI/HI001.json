@@ -1,0 +1,619 @@
+[
+
+[
+  "Quiz 1",
+  "Id: HI001_Q1",
+  {
+    "question n°1": {
+      "question": "Quand la Charte de l’Atlantique a-t-elle été signée ?",
+      "réponses": {
+        "A": "25 avril 1945",
+        "B": "1er janvier 1942",
+        "C": "28 novembre 1943",
+        "D": "14 août 1941"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Où a eu lieu la conférence qui a signé la Charte de l’Atlantique ?",
+      "réponses": {
+        "A": "Terre-Neuve",
+        "B": "Washington",
+        "C": "Moscou",
+        "D": "San Francisco"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Quel événement a eu lieu le 1er janvier 1942 ?",
+      "réponses": {
+        "A": "La conférence de Moscou",
+        "B": "La Déclaration des Nations Unies",
+        "C": "La conférence de Téhéran",
+        "D": "La conférence de Washington"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel terme a été utilisé pour la première fois lors de la conférence de Washington pour désigner les Nations Unies ?",
+      "réponses": {
+        "A": "Organisation mondiale",
+        "B": "Nations alliées",
+        "C": "Forum mondial",
+        "D": "Nations unies"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quand la conférence de Moscou a-t-elle eu lieu ?",
+      "réponses": {
+        "A": "Du 1er au 15 octobre 1943",
+        "B": "Du 28 novembre au 1er décembre 1943",
+        "C": "Du 19 au 30 octobre 1943",
+        "D": "Du 21 septembre au 7 octobre 1944"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel était le principal objectif de la conférence de Téhéran ?",
+      "réponses": {
+        "A": "Créer une organisation de paix internationale",
+        "B": "Résoudre les problèmes économiques",
+        "C": "Mettre en place une coalition militaire",
+        "D": "Définir le droit de veto"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Où a eu lieu la conférence de Dumbarton Oaks ?",
+      "réponses": {
+        "A": "Londres",
+        "B": "New York",
+        "C": "Washington",
+        "D": "Moscou"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel principe a été abordé lors de la conférence de Dumbarton Oaks ?",
+      "réponses": {
+        "A": "L'admission de nouveaux membres",
+        "B": "Le droit de veto",
+        "C": "La création d’une armée permanente",
+        "D": "La structure de l’ONU"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle conférence a permis d’élaborer la première ébauche de la Charte des Nations Unies ?",
+      "réponses": {
+        "A": "La conférence de Dumbarton Oaks",
+        "B": "La conférence de San Francisco",
+        "C": "La conférence de Yalta",
+        "D": "La conférence de Téhéran"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "En quelle année la Charte des Nations Unies a-t-elle été adoptée ?",
+      "réponses": {
+        "A": "1944",
+        "B": "1945",
+        "C": "1946",
+        "D": "1943"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quand l’ONU a-t-elle commencé à fonctionner ?",
+      "réponses": {
+        "A": "24 octobre 1945",
+        "B": "1er janvier 1946",
+        "C": "1er octobre 1945",
+        "D": "15 décembre 1945"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Combien de membres comptait l’ONU en 2012 ?",
+      "réponses": {
+        "A": "198",
+        "B": "190",
+        "C": "180",
+        "D": "193"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Quel pays a été le dernier à adhérer à l’ONU ?",
+      "réponses": {
+        "A": "Le Vatican",
+        "B": "Le Kosovo",
+        "C": "Le Monténégro",
+        "D": "Le Soudan du Sud"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quel est le principal objectif de l’ONU ?",
+      "réponses": {
+        "A": "Organiser des élections",
+        "B": "Renforcer l’armée mondiale",
+        "C": "Promouvoir les relations commerciales",
+        "D": "Maintenir la paix et la sécurité mondiale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quel principe est essentiel pour les membres de l’ONU ?",
+      "réponses": {
+        "A": "La priorité des puissances mondiales",
+        "B": "L’adhésion à un pacte militaire",
+        "C": "L’égalité souveraine des États",
+        "D": "La soumission des petites nations"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle organisation a été remplacée par l’ONU ?",
+      "réponses": {
+        "A": "Le Conseil de l’Europe",
+        "B": "La Conférence de la Paix",
+        "C": "L’OTAN",
+        "D": "La Société des Nations"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Pourquoi la Société des Nations a-t-elle échoué ?",
+      "réponses": {
+        "A": "Elle n’avait pas de siège fixe",
+        "B": "Elle n’était pas soutenue par les États-Unis",
+        "C": "Elle n’a pas pu empêcher la Seconde Guerre mondiale",
+        "D": "Elle soutenait le colonialisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Combien de membres permanents composent le Conseil de Sécurité ?",
+      "réponses": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quels sont les membres permanents du Conseil de Sécurité avec droit de veto ?",
+      "réponses": {
+        "A": "États-Unis, Russie, Chine, France, Royaume-Uni",
+        "B": "Russie, Espagne, France, Japon, États-Unis",
+        "C": "Canada, Italie, France, Afrique du Sud, Russie",
+        "D": "Allemagne, Japon, Chine, Brésil, Inde"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Lors de quelle conférence l’ONU est-elle officiellement née ?",
+      "réponses": {
+        "A": "San Francisco",
+        "B": "Téhéran",
+        "C": "Dumbarton Oaks",
+        "D": "Yalta"
+      },
+      "bonne réponse": "A"
+    }
+  }
+],
+[
+  "Quiz 2",
+  "Id: HI001_Q2",
+  {
+    "question n°1": {
+      "question": "Quels sont les deux organes de décision de l’ONU ?",
+      "réponses": {
+        "A": "Assemblée générale et Conseil de sécurité",
+        "B": "Conseil de sécurité et Cour internationale",
+        "C": "Assemblée générale et Conseil économique",
+        "D": "Conseil des droits de l’homme et Conseil de sécurité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Combien de membres comprend l’Assemblée générale de l’ONU ?",
+      "réponses": {
+        "A": "160",
+        "B": "193",
+        "C": "51",
+        "D": "198"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Que signifie le droit de veto à l’ONU ?",
+      "réponses": {
+        "A": "Droit d’opposition des membres permanents du Conseil de sécurité",
+        "B": "Droit d’envoyer des troupes",
+        "C": "Droit de vote sur tous les sujets",
+        "D": "Droit de quitter une session à tout moment"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quels sont les cinq membres permanents du Conseil de sécurité de l’ONU ?",
+      "réponses": {
+        "A": "Chine, Japon, France, Russie, Inde",
+        "B": "États-Unis, Russie, Chine, France, Royaume-Uni",
+        "C": "Russie, France, Allemagne, Espagne, Canada",
+        "D": "États-Unis, Brésil, Chine, France, Allemagne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel est le rôle de l’organe administratif de l’ONU ?",
+      "réponses": {
+        "A": "Mettre en œuvre les décisions prises par les organes principaux",
+        "B": "Représenter l’Union européenne",
+        "C": "Diriger le Conseil de sécurité",
+        "D": "Voter les lois internationales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quels sont les trois organes consultatifs de l’ONU ?",
+      "réponses": {
+        "A": "ECOSOC, Cour internationale de Justice, Secrétariat général",
+        "B": "FMI, HCR, UNICEF",
+        "C": "L’OMS, la Banque mondiale, l’UNESCO",
+        "D": "Conseil des droits de l’homme, FAO, FMI"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quel est l’organe exécutif de l’ONU ?",
+      "réponses": {
+        "A": "Le Conseil économique et social",
+        "B": "Le Bureau permanent",
+        "C": "Le Secrétariat général",
+        "D": "L’Assemblée générale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Parmi les institutions spécialisées de l’ONU, lesquelles sont à caractère social ?",
+      "réponses": {
+        "A": "OMS, HCR, BIT",
+        "B": "UNESCO, PNUD, HCR",
+        "C": "FMI, AIEA, FAO",
+        "D": "OMC, FAO, UNICEF"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelles institutions sont à caractère culturel et scientifique ?",
+      "réponses": {
+        "A": "UNESCO et IAEA",
+        "B": "BIT et OMS",
+        "C": "FMI et Banque mondiale",
+        "D": "HCR et PNUD"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelles institutions sont à caractère économique ?",
+      "réponses": {
+        "A": "FMI et Banque mondiale",
+        "B": "PNUD et UNICEF",
+        "C": "BIT et HCR",
+        "D": "OMS et UNESCO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Que signifie OMS ?",
+      "réponses": {
+        "A": "Organisation des Missions Spatiales",
+        "B": "Organisation Mondiale de la Santé",
+        "C": "Organisation Militaire Soviétique",
+        "D": "Office Mondial de la Santé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quand l’OMS a-t-elle été créée et où se trouve son siège ?",
+      "réponses": {
+        "A": "1946, New York",
+        "B": "1945, Londres",
+        "C": "1948, Genève",
+        "D": "1950, Paris"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle est la mission principale de l’OMS ?",
+      "réponses": {
+        "A": "Surveiller les conflits armés",
+        "B": "Protéger les droits de l’homme",
+        "C": "Organiser des élections",
+        "D": "Promouvoir la santé dans le monde"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quel organe de l’ONU est issu du traité de Versailles et a été rattaché à l’ONU en 1946 ?",
+      "réponses": {
+        "A": "FAO",
+        "B": "FMI",
+        "C": "HCR",
+        "D": "Bureau International du Travail (BIT)"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Où se trouve le siège du BIT et quelle est sa mission ?",
+      "réponses": {
+        "A": "Genève, promouvoir les droits des travailleurs",
+        "B": "Paris, protéger les langues",
+        "C": "New York, surveiller les conflits",
+        "D": "Bruxelles, favoriser le commerce mondial"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Que signifie UNESCO ?",
+      "réponses": {
+        "A": "Organisation des Nations Unies pour l’Éducation, la Science et la Culture",
+        "B": "Union Européenne pour la Coopération Scolaire",
+        "C": "Université Nationale des Sciences Économiques",
+        "D": "Union Nationale des Écoles Scolaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Où et quand l’UNESCO a-t-elle été créée ?",
+      "réponses": {
+        "A": "Paris, 1948",
+        "B": "Londres, 1945",
+        "C": "New York, 1945",
+        "D": "Genève, 1950"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est la mission de l’UNESCO ?",
+      "réponses": {
+        "A": "Promouvoir la culture, l’éducation et la science",
+        "B": "Protéger les droits de l’homme",
+        "C": "Promouvoir la santé",
+        "D": "Promouvoir la sécurité nucléaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Que signifie AIEA et où est son siège ?",
+      "réponses": {
+        "A": "Agence Internationale de l’Énergie Atomique – Vienne",
+        "B": "Agence Internationale de l’Éducation Avancée – Londres",
+        "C": "Agence Internationale pour l’Énergie Africaine – Genève",
+        "D": "Association Internationale de l’Environnement Aérien – Nairobi"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quelle est la mission de l’AIEA ?",
+      "réponses": {
+        "A": "Produire de l’énergie nucléaire",
+        "B": "Promouvoir l’usage pacifique de l’énergie nucléaire",
+        "C": "Lutter contre les armes chimiques",
+        "D": "Contrôler les centrales à charbon"
+      },
+      "bonne réponse": "B"
+    }
+  }],
+[
+ "Quiz 3",
+  "id",":", "HI001_Q3",
+  "questions",":", {
+    "question n°1": {
+      "question": "La mission de maintien de la paix au Libéria par l’ONU est considérée comme :",
+      "réponses": {
+        "A": "Une neutralité passive",
+        "B": "Une initiative non officielle",
+        "C": "Un échec complet",
+        "D": "Une réussite"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L’ONU a joué un rôle essentiel dans le règlement du conflit :",
+      "réponses": {
+        "A": "Israélo-palestinien",
+        "B": "En Namibie",
+        "C": "Au Rwanda",
+        "D": "En Afghanistan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Une entreprise réussie de l’ONU a été observée dans le conflit :",
+      "réponses": {
+        "A": "En Sierra Leone",
+        "B": "En Syrie",
+        "C": "En Irak",
+        "D": "En Ukraine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle de ces opérations est une réussite de l’ONU ?",
+      "réponses": {
+        "A": "La guerre en Tchétchénie",
+        "B": "L’intervention au Timor oriental",
+        "C": "L’intervention au Mali",
+        "D": "La guerre du Golfe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle de ces missions de l’ONU est une réussite ?",
+      "réponses": {
+        "A": "L’échec au Darfour",
+        "B": "L’enlisement en Centrafrique",
+        "C": "La supervision des élections en Afrique du Sud",
+        "D": "Le conflit du Cachemire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Le génocide rwandais de 1994 est considéré comme :",
+      "réponses": {
+        "A": "Une affaire régionale sans implication",
+        "B": "Un échec de l’ONU à prévenir un génocide",
+        "C": "Une intervention militaire réussie",
+        "D": "Une grande réussite diplomatique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "L’ONU a échoué à empêcher une guerre majeure en 2003, laquelle ?",
+      "réponses": {
+        "A": "Guerre de Libye",
+        "B": "Guerre de Corée",
+        "C": "Guerre du Congo",
+        "D": "Guerre d’Irak"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Parmi ces événements, lequel représente un échec sécuritaire de l’ONU ?",
+      "réponses": {
+        "A": "Crise sanitaire au Liberia",
+        "B": "Élections en Namibie",
+        "C": "Conflit en ex-Yougoslavie",
+        "D": "Décolonisation du Togo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Parmi ces actions, laquelle est une œuvre humanitaire réussie de l’ONU ?",
+      "réponses": {
+        "A": "Guerre du Vietnam",
+        "B": "Coup d’État en Égypte",
+        "C": "Blocage économique de Cuba",
+        "D": "Lutte contre la famine au Sahel"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "L’éradication de la variole grâce à l’OMS est une réussite :",
+      "réponses": {
+        "A": "Contestée",
+        "B": "Inexistante",
+        "C": "Limitée à l’Occident",
+        "D": "Mondiale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle organisation dépendante de l’ONU intervient efficacement dans les catastrophes naturelles ?",
+      "réponses": {
+        "A": "FMI",
+        "B": "BIT",
+        "C": "OMC",
+        "D": "HCR"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "L’UNICEF agit efficacement dans le domaine de :",
+      "réponses": {
+        "A": "L’énergie nucléaire",
+        "B": "La protection de l’enfance",
+        "C": "La lutte antiterroriste",
+        "D": "L’intelligence artificielle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quelle action humanitaire de l’ONU est jugée limitée ?",
+      "réponses": {
+        "A": "Supervision des élections au Libéria",
+        "B": "Lutte contre le VIH/SIDA",
+        "C": "Aide aux réfugiés palestiniens",
+        "D": "Éradication de la variole"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Une action humanitaire partiellement réussie de l’ONU est :",
+      "réponses": {
+        "A": "Soutien scolaire en Europe",
+        "B": "Réformes politiques en Chine",
+        "C": "Aide au retour des réfugiés en Syrie",
+        "D": "Construction d’aéroports en Russie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Une action politique réussie de l’ONU fut :",
+      "réponses": {
+        "A": "La guerre du Golfe",
+        "B": "L’inaction en Syrie",
+        "C": "L'intervention militaire en Irak",
+        "D": "Le soutien à la fin de l’Apartheid en Afrique du Sud"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle action politique de l’ONU a eu des résultats limités ?",
+      "réponses": {
+        "A": "Transition au Timor oriental",
+        "B": "Fin du régime de Pinochet",
+        "C": "Dénucléarisation de l’Inde",
+        "D": "Résolution du conflit israélo-palestinien"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle est une des raisons des échecs de l’ONU ?",
+      "réponses": {
+        "A": "Son manque de secrétaires",
+        "B": "Le droit de veto des grandes puissances",
+        "C": "Son financement par des syndicats",
+        "D": "L'absence de langues officielles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel autre facteur explique les limites de l’action de l’ONU ?",
+      "réponses": {
+        "A": "Le manque de volonté des États membres",
+        "B": "Le contrôle du Vatican",
+        "C": "La décolonisation rapide",
+        "D": "La surveillance excessive des États-Unis"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle solution pourrait améliorer l’efficacité de l’ONU ?",
+      "réponses": {
+        "A": "La réforme du droit de veto",
+        "B": "La fin des missions humanitaires",
+        "C": "La suppression de l’Assemblée Générale",
+        "D": "L’augmentation des membres permanents à 50"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quelle autre solution renforcerait le rôle de l’ONU ?",
+      "réponses": {
+        "A": "Un engagement plus ferme des États membres",
+        "B": "La dissolution du Conseil de sécurité",
+        "C": "La réduction des financements",
+        "D": "L’abolition des missions de paix"
+      },
+      "bonne réponse": "A"
+    }
+  }]
+]

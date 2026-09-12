@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 6",
+  "id": "HI002_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Qui a colonisé le Vietnam avant son indépendance ?",
+      "réponses": {
+        "A": "Le Royaume-Uni",
+        "B": "Le Japon",
+        "C": "La France",
+        "D": "Les États-Unis"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Comment le Vietnam a-t-il obtenu son indépendance ?",
+      "réponses": {
+        "A": "Par la guerre d’Indochine remportée en 1954",
+        "B": "Par un traité signé avec les États-Unis",
+        "C": "Par référendum",
+        "D": "Par le retrait volontaire de la France"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Qui dirigeait le Nord Vietnam après 1954 ?",
+      "réponses": {
+        "A": "N’Goh Dinh Diem",
+        "B": "Mao Zedong",
+        "C": "Joseph Staline",
+        "D": "Hô Chi Minh"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quel régime dominait le Sud Vietnam après 1954 ?",
+      "réponses": {
+        "A": "Capitaliste et soutenu par les États-Unis",
+        "B": "Communiste",
+        "C": "Monarchiste",
+        "D": "Fédéraliste"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Pourquoi les élections de réunification prévues en 1956 n’ont-elles pas eu lieu ?",
+      "réponses": {
+        "A": "L’ONU s’y est opposée",
+        "B": "Diem a refusé, craignant sa défaite",
+        "C": "Hô Chi Minh a rejeté les accords",
+        "D": "Les États-Unis ont imposé un veto militaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Qu’était le Viêt-Cong ?",
+      "réponses": {
+        "A": "Une guérilla communiste opposée au régime de Diem",
+        "B": "Une force de l’armée américaine",
+        "C": "Un parti politique pacifique",
+        "D": "Une agence d’espionnage chinoise"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quand a commencé la seconde guerre du Vietnam ?",
+      "réponses": {
+        "A": "1954",
+        "B": "1960",
+        "C": "1958",
+        "D": "1975"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel événement a justifié l’entrée militaire des USA en 1964 ?",
+      "réponses": {
+        "A": "Le bombardement de Saigon",
+        "B": "L’assassinat de Diem",
+        "C": "L’incident du Golfe du Tonkin",
+        "D": "Le refus de l’ONU d’intervenir"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle était la stratégie américaine face à l’influence communiste au Vietnam ?",
+      "réponses": {
+        "A": "Contourner le Vietnam",
+        "B": "Soutenir la Chine",
+        "C": "Pratiquer le containment",
+        "D": "Recoloniser la région"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi la guerre du Vietnam est-elle une guerre de la guerre froide ?",
+      "réponses": {
+        "A": "Car elle a eu lieu en Europe",
+        "B": "Car elle a été arbitrée par l’ONU",
+        "C": "Car elle opposait USA et URSS par alliés interposés",
+        "D": "Car elle n’a fait aucune victime"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle fut l’importance de l’offensive du Têt en 1968 ?",
+      "réponses": {
+        "A": "Elle a libéré Saigon",
+        "B": "Elle a montré la vulnérabilité américaine et affaibli leur soutien intérieur",
+        "C": "Elle a mis fin à la guerre",
+        "D": "Elle a renversé Hô Chi Minh"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Qui a soutenu militairement le Nord Vietnam ?",
+      "réponses": {
+        "A": "L’URSS et la Chine",
+        "B": "La France et la Grande-Bretagne",
+        "C": "L’OTAN",
+        "D": "Le Japon"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel président américain a intensifié l’engagement au Vietnam ?",
+      "réponses": {
+        "A": "John F. Kennedy",
+        "B": "Lyndon B. Johnson",
+        "C": "Richard Nixon",
+        "D": "Dwight Eisenhower"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle a été l’issue des accords de Paris de 1973 ?",
+      "réponses": {
+        "A": "La réunification immédiate",
+        "B": "Le retrait des troupes américaines et la poursuite du conflit",
+        "C": "L’arrêt total des combats",
+        "D": "La victoire du Sud Vietnam"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quand la guerre du Vietnam s’est-elle terminée ?",
+      "réponses": {
+        "A": "1973",
+        "B": "1975",
+        "C": "1980",
+        "D": "1969"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel régime politique est instauré après la guerre ?",
+      "réponses": {
+        "A": "La République Socialiste du Vietnam",
+        "B": "Une fédération à deux présidents",
+        "C": "Une monarchie populaire",
+        "D": "Une démocratie dirigée par Diem"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel pays a vu son prestige mondial affaibli par cette guerre ?",
+      "réponses": {
+        "A": "URSS",
+        "B": "États-Unis",
+        "C": "Chine",
+        "D": "Royaume-Uni"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle organisation s’est dissoute après la guerre du Vietnam ?",
+      "réponses": {
+        "A": "L’OTAN",
+        "B": "Le pacte de Varsovie",
+        "C": "L’OTASE",
+        "D": "L’ONU"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Combien de morts approximativement cette guerre a-t-elle causés ?",
+      "réponses": {
+        "A": "Environ 100 000",
+        "B": "Plusieurs millions",
+        "C": "Moins de 500 000",
+        "D": "Moins de 50 000"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Pourquoi la guerre du Vietnam est-elle considérée comme une grande défaite pour les États-Unis ?",
+      "réponses": {
+        "A": "Elle a causé leur perte économique",
+        "B": "Elle a montré les limites de leur puissance militaire et idéologique",
+        "C": "Elle a provoqué une guerre civile",
+        "D": "Elle a permis la montée de l’Allemagne"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

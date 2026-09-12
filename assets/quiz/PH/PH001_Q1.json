@@ -1,0 +1,276 @@
+{
+  "title": "Quiz ",
+  "id": "PH001_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la première étape de l'étude parcellaire selon le document ?",
+      "réponses": {
+        "A": "Poser le problème",
+        "B": "Définir les termes clés du sujet",
+        "C": "Rédiger l'introduction"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Dans le sujet 'L'avenir est-il une page blanche ?', que signifie l'expression 'page blanche' ?",
+      "réponses": {
+        "A": "Un destin déjà écrit par avance",
+        "B": "Une absence totale de mémoire",
+        "C": "Ce qui n'est pas encore tracé ou déterminé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle étape suit immédiatement la reformulation du sujet ?",
+      "réponses": {
+        "A": "Faire ressortir le thème",
+        "B": "Énumérer les axes de recherche",
+        "C": "Rédiger la conclusion"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Pour le sujet sur l'homme et le loup, quel est le thème identifié ?",
+      "réponses": {
+        "A": "La protection des animaux",
+        "B": "La relation avec autrui",
+        "C": "La définition de la raison"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Que représente le 'loup' dans la métaphore 'L'homme est un loup pour l'homme' ?",
+      "réponses": {
+        "A": "Un prédateur naturel des forêts",
+        "B": "Le pire ennemi, un monstre pour son semblable",
+        "C": "Un guide spirituel pour l'humanité"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Combien de parties principales compose l'introduction selon la méthodologie ?",
+      "réponses": {
+        "A": "Trois parties",
+        "B": "Deux parties",
+        "C": "Quatre parties"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle partie de l'introduction sert à amener la contradiction ?",
+      "réponses": {
+        "A": "L'explicité de la généralité",
+        "B": "L'annonce des axes",
+        "C": "La définition du thème uniquement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Par quels moyens peut-on faire une 'Généralité' ?",
+      "réponses": {
+        "A": "Par une définition, un constat ou une citation",
+        "B": "Uniquement par une question directe",
+        "C": "En donnant immédiatement son opinion personnelle"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Dans l'exemple sur la conscience, quel est le problème posé ?",
+      "réponses": {
+        "A": "La conscience est-elle une illusion ?",
+        "B": "La conscience peut-elle nous trahir ?",
+        "C": "L'inconscient existe-t-il ?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Dans le sujet sur l'avenir, quel terme définit le futur comme 'indéterminé' ?",
+      "réponses": {
+        "A": "L'indéterminisme",
+        "B": "Le fatalisme",
+        "C": "La chronologie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Que signifie 'Alter ego' dans l'étude du sujet sur l'homme ?",
+      "réponses": {
+        "A": "Un ennemi juré",
+        "B": "Un autre soi-même, son semblable",
+        "C": "Une force supérieure"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "L'annonce des aspects du problème se fait généralement sous quelle forme ?",
+      "réponses": {
+        "A": "Sous forme affirmative",
+        "B": "Sous forme de tirets sans verbes",
+        "C": "Sous forme interrogative"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Dans le sujet sur la conscience, quel est l'Axe 2 ?",
+      "réponses": {
+        "A": "La conscience est une faculté infaillible",
+        "B": "L'inconscient dirige nos pensées",
+        "C": "La conscience nous trompe toujours"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'expression 'enfer pour son prochain' correspond à quel aspect du sujet sur l'homme ?",
+      "réponses": {
+        "A": "L'aspect positif de la relation",
+        "B": "L'aspect négatif (l'homme comme danger)",
+        "C": "La définition de la raison humaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle est la fonction du 'Cependant' dans l'annonce des aspects ?",
+      "réponses": {
+        "A": "Marquer une transition vers une thèse opposée",
+        "B": "Conclure définitivement le sujet",
+        "C": "Répéter la première idée"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Dans l'étude parcellaire, comment définit-on l'homme ?",
+      "réponses": {
+        "A": "Un être purement biologique",
+        "B": "Un être doué de raison",
+        "C": "Un animal solitaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "L'explicité de la généralité sert à...",
+      "réponses": {
+        "A": "Découler sur une contradiction",
+        "B": "Donner la réponse finale",
+        "C": "Remercier le correcteur"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Le thème 'le pouvoir de la conscience' se rapporte à quel sujet exemple ?",
+      "réponses": {
+        "A": "L'homme est-il un loup ?",
+        "B": "L'avenir est-il une page blanche ?",
+        "C": "La conscience peut-elle nous tromper ?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "L'étude parcellaire est-elle une étape de la rédaction finale de l'introduction ?",
+      "réponses": {
+        "A": "Oui, on recopie tout",
+        "B": "Non, c'est une étape préparatoire au brouillon",
+        "C": "Seulement pour les définitions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L'annonce des aspects du problème suit quelle partie dans l'introduction ?",
+      "réponses": {
+        "A": "La généralité",
+        "B": "Le problème",
+        "C": "La conclusion"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Dans l'exemple de rédaction par définition, comment est définie la conscience ?",
+      "réponses": {
+        "A": "Comme un instinct divin",
+        "B": "Comme la faculté permettant de reconnaître et de juger",
+        "C": "Comme une partie de l'inconscient"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Que cherche-t-on à faire avec les 'aspects du problème' ?",
+      "réponses": {
+        "A": "Expliquer pourquoi le sujet n'a aucun sens",
+        "B": "Montrer les deux faces (tensions) de la question",
+        "C": "Raconter l'histoire de la philosophie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Un 'Axe' de dissertation est synonyme de :",
+      "réponses": {
+        "A": "Une grande partie du développement",
+        "B": "La bibliographie du sujet",
+        "C": "L'opinion du voisin"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Quel terme le document utilise-t-il pour dire que le futur n'est pas écrit ?",
+      "réponses": {
+        "A": "Indéterminisme",
+        "B": "Déterminisme",
+        "C": "Fatalisme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Dans l'introduction sur la conscience, quelle est la 'Contradiction' ?",
+      "réponses": {
+        "A": "La conscience sait tout",
+        "B": "Il se passe en nous des choses qu'elle ne connaît pas",
+        "C": "L'homme est un animal comme les autres"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "L'épanouissement de l'Alter ego est un axe pour quel sujet ?",
+      "réponses": {
+        "A": "L'homme est-il un loup pour l'homme ?",
+        "B": "La conscience est-elle trompeuse ?",
+        "C": "L'avenir est-il écrit ?"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Comment appelle-t-on l'action de redire le sujet avec ses propres mots ?",
+      "réponses": {
+        "A": "La reformulation",
+        "B": "La citation",
+        "C": "La problématique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "L'annonce des aspects commence souvent par des expressions comme :",
+      "réponses": {
+        "A": "En conclusion...",
+        "B": "Dans quelle mesure... ? Cependant... ?",
+        "C": "Je pense que..."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Le sujet 'L'avenir est-il une page blanche ?' porte sur quel grand thème ?",
+      "réponses": {
+        "A": "L'avenir / Le futur",
+        "B": "L'écriture",
+        "C": "La nature humaine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°30": {
+      "question": "L'ordre 'Généralité -> Contradiction -> Problème -> Annonce' est-il obligatoire ?",
+      "réponses": {
+        "A": "Non, on peut commencer par le problème",
+        "B": "Oui, c'est la structure logique de l'introduction",
+        "C": "Seulement si le sujet est difficile"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

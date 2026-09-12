@@ -1,0 +1,306 @@
+{
+  "id": "SVT017_Q1",
+  "title": "Quiz 1 Bassin sédimentaire et formation des hydrocarbures (Côte d’Ivoire)",
+  "questions": {
+    "question n°1": {
+      "question": "Le bassin sédimentaire de Côte d’Ivoire est principalement formé de :",
+      "réponses": {
+        "A": "Roches métamorphiques riches en quartz et micas.",
+        "B": "Roches sédimentaires composées de sables, grès et argiles.",
+        "C": "Roches volcaniques issues du refroidissement du magma.",
+        "D": "Roches granitiques du socle ancien précambrien."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Où s’étend le bassin sédimentaire terrestre ivoirien ?",
+      "réponses": {
+        "A": "De San Pedro à Korhogo, couvrant la zone forestière.",
+        "B": "Du mont Tonkpi au golfe de Guinée, en zone montagneuse.",
+        "C": "De Yamoussoukro à Man, sur la dorsale guinéenne.",
+        "D": "De Sassandra jusqu’à la frontière ivoiro-ghanéenne."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Le bassin sédimentaire marin de Côte d’Ivoire est situé :",
+      "réponses": {
+        "A": "Sous le plateau continental, dans la partie océanique.",
+        "B": "En altitude, à l’intérieur du massif du Nimba.",
+        "C": "Le long du fleuve Bandama, dans la vallée intérieure.",
+        "D": "Entre Bouaké et Abengourou, dans la zone forestière."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle est la principale richesse naturelle du bassin sédimentaire marin ?",
+      "réponses": {
+        "A": "Les gisements d’or et de diamants.",
+        "B": "Les gisements d’hydrocarbures : pétrole et gaz naturel.",
+        "C": "Les réserves de bauxite et de manganèse.",
+        "D": "Les dépôts de phosphate et de calcaire marin."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "À Grand-Bassam, le sous-sol contient principalement :",
+      "réponses": {
+        "A": "Du pétrole brut à forte densité.",
+        "B": "Du charbon sédimentaire d’origine végétale.",
+        "C": "Uniquement du gaz naturel.",
+        "D": "Du pétrole associé à du calcaire marin."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Le bassin sédimentaire ivoirien s’est formé :",
+      "réponses": {
+        "A": "Par l’accumulation de magma refroidi au contact de l’air.",
+        "B": "Par dépôt progressif de sédiments au fond de bassins marins et lacustres.",
+        "C": "Par fusion partielle du socle cristallin précambrien.",
+        "D": "Par érosion éolienne et transport glaciaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle est la principale différence entre les zones terrestre et marine du bassin sédimentaire ?",
+      "réponses": {
+        "A": "La zone terrestre contient du charbon, la zone marine contient des métaux lourds.",
+        "B": "La zone terrestre est imperméable, la zone marine est sans porosité",
+        "C": "La zone terrestre est volcanique, la zone marine est granitique.",
+        "D": "La zone terrestre est pauvre en hydrocarbures, la zone marine en renferme la majorité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi dit-on que le bassin sédimentaire de Côte d’Ivoire est « côtier » ?",
+      "réponses": {
+        "A": "Parce qu’il longe tout le littoral atlantique du pays.",
+        "B": "Parce qu’il s’étend uniquement sur les plateaux intérieurs.",
+        "C": "Parce qu’il est entièrement situé sous la zone forestière.",
+        "D": "Parce qu’il dépend de la nappe phréatique continentale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle caractéristique rend les roches sédimentaires favorables à la formation d’hydrocarbures ?",
+      "réponses": {
+        "A": "Leur composition métallique favorisant la condensation du carbone.",
+        "B": "Leur dureté et résistance aux transformations chimiques.",
+        "C": "Leur porosité, permettant de stocker et de faire circuler les fluides.",
+        "D": "Leur origine magmatique riche en silicates."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la particularité géologique majeure de la région de Sassandra ?",
+      "réponses": {
+        "A": "Elle contient les plus grands dépôts de calcaire du pays.",
+        "B": "Elle abrite les plus anciens volcans de Côte d’Ivoire.",
+        "C": "Elle est située sur une faille tectonique active.",
+        "D": "Elle marque la limite entre le bassin sédimentaire et le socle cristallin."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle est la première étape de la formation du pétrole ?",
+      "réponses": {
+        "A": "La transformation du kérogène par pyrolyse.",
+        "B": "L’accumulation de matières organiques au fond des bassins.",
+        "C": "La migration des hydrocarbures vers les roches réservoirs.",
+        "D": "Le piégeage sous les roches imperméables."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Les matières organiques à l’origine du pétrole proviennent de :",
+      "réponses": {
+        "A": "Résidus minéraux et poussières volcaniques.",
+        "B": "Restes de plantes et d’animaux aquatiques déposés dans les sédiments.",
+        "C": "Cristallisation des roches carbonatées sous pression.",
+        "D": "Condensation des gaz atmosphériques riches en azote."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Dans la deuxième étape, la matière organique devient du kérogène grâce à :",
+      "réponses": {
+        "A": "L’action combinée de bactéries anaérobies, de la pression et de la chaleur.",
+        "B": "La présence d’oxygène libre et de lumière solaire.",
+        "C": "L’érosion mécanique des roches mères.",
+        "D": "La dissolution des sels minéraux dans l’eau de mer."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Le kérogène est contenu dans :",
+      "réponses": {
+        "A": "La roche réservoir poreuse et perméable.",
+        "B": "Les sables de surface riches en silice.",
+        "C": "Les roches volcaniques à texture granitique.",
+        "D": "La roche mère où s’accumule la matière organique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "La formation du pétrole et du gaz résulte d’un processus appelé :",
+      "réponses": {
+        "A": "Cristallisation progressive des sels minéraux.",
+        "B": "Fusion chimique entre carbone et azote.",
+        "C": "Évaporation lente des sédiments marins.",
+        "D": "Pyrolyse ou craquage thermique du kérogène."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Que libère la pyrolyse du kérogène ?",
+      "réponses": {
+        "A": "Du carbone et de l’hydrogène formant pétrole et gaz.",
+        "B": "De l’oxygène et du chlore formant des sels marins.",
+        "C": "Du soufre et du phosphore formant des roches noires.",
+        "D": "Du silicium et du sodium formant des grès."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La migration primaire correspond à :",
+      "réponses": {
+        "A": "Le déplacement des hydrocarbures de la roche mère vers la roche réservoir.",
+        "B": "La diffusion du pétrole dans l’atmosphère.",
+        "C": "L’infiltration des eaux souterraines dans la roche mère.",
+        "D": "La remontée du gaz par capillarité dans les sols."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La migration secondaire correspond à :",
+      "réponses": {
+        "A": "Le déplacement des hydrocarbures à l’intérieur des roches réservoirs.",
+        "B": "L’enfouissement de la matière organique sous les sables.",
+        "C": "L’oxydation du kérogène en surface.",
+        "D": "Le refroidissement du pétrole dans la roche mère."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "La décantation naturelle des fluides se fait selon la densité :",
+      "réponses": {
+        "A": "Gaz → Pétrole → Eau.",
+        "B": "Eau (la plus lourde) → Pétrole → Gaz (le plus léger).",
+        "C": "Pétrole → Eau → Gaz.",
+        "D": "Gaz → Eau → Pétrole."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Les hydrocarbures s’accumulent sous des roches dites :",
+      "réponses": {
+        "A": "Perméables et poreuses.",
+        "B": "Métamorphiques, riches en quartz",
+        "C": "Imperméables, appelées roches de couverture.",
+        "D": "Granitiques, issues du socle ancien."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Les pièges structuraux sont liés :",
+      "réponses": {
+        "A": "À la composition chimique du pétrole brut",
+        "B": "À la variation de salinité des eaux souterraines.",
+        "C": "Aux failles, plis et dômes de la croûte terrestre.",
+        "D": "À la dissolution des argiles dans les sédiments."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Les pièges stratigraphiques dépendent :",
+      "réponses": {
+        "A": "De la disposition et de l’interruption des couches sédimentaires.",
+        "B": "De la pression atmosphérique à la surface du bassin.",
+        "C": "Du refroidissement brutal du magma sous-marin.",
+        "D": "De la teneur en sels dissous dans le pétrole."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "La roche réservoir est caractérisée par :",
+      "réponses": {
+        "A": "Une forte porosité et une perméabilité permettant de stocker les fluides.",
+        "B": "Une texture compacte empêchant toute infiltration.",
+        "C": "Une structure cristalline de type granitique.",
+        "D": "Une absence totale d’espace interstitiel."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "La roche mère joue un rôle essentiel car :",
+      "réponses": {
+        "A": "Elle concentre uniquement les sels minéraux.",
+        "B": "Elle permet la filtration de l’eau de mer dans le réservoir.",
+        "C": "Elle empêche la migration des gaz vers la surface.",
+        "D": "Elle est le siège de la formation du kérogène et donc de l’hydrocarbure."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°25": {
+      "question": "Les hydrocarbures ne peuvent être exploités que s’ils sont :",
+      "réponses": {
+        "A": "Libres dans la roche mère sans piège.",
+        "B": "Accumulés dans un réservoir recouvert d’une roche imperméable.",
+        "C": "Mélangés à l’eau et au sel dans les sédiments.",
+        "D": "Dispersés dans le sol sans pression."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Quelle différence existe entre le pétrole et le gaz naturel ?",
+      "réponses": {
+        "A": "Le pétrole est plus léger et se trouve toujours au-dessus du gaz.",
+        "B": "Le gaz est plus léger et se trouve au-dessus du pétrole dans les pièges.",
+        "C": "Le gaz est liquide à température ambiante.",
+        "D": "Le pétrole se forme uniquement en surface."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Pourquoi les hydrocarbures ne remontent-ils pas jusqu’à la surface ?",
+      "réponses": {
+        "A": "Parce qu’ils se cristallisent dans la roche mère.",
+        "B": "Parce qu’ils sont dissous dans l’eau de mer.",
+        "C": "Parce qu’ils s’évaporent immédiatement sous la chaleur.",
+        "D": "Parce qu’ils sont retenus par des roches imperméables formant un piège."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "La formation des hydrocarbures nécessite :",
+      "réponses": {
+        "A": "Des millions d’années sous l’effet de la pression et de la chaleur.",
+        "B": "Quelques semaines dans un environnement volcanique actif.",
+        "C": "Quelques jours à basse température dans les fonds marins.",
+        "D": "Une seule phase de condensation rapide de la matière organique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "Quelle combinaison de conditions favorise le mieux la formation du pétrole ?",
+      "réponses": {
+        "A": "Vent + Érosion + Sécheresse + Évaporation",
+        "B": "Air + Oxygène + Lumière + Température basse.",
+        "C": "Matière organique + Pression + Chaleur + Temps.",
+        "D": "Magma + Roche dure + Cristallisation rapide."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Quelle affirmation décrit le mieux la formation du pétrole ?",
+      "réponses": {
+        "A": "C’est une transformation rapide de minéraux en gaz sous haute pression.",
+        "B": "C’est une transformation lente de matières organiques en hydrocarbures dans les roches sédimentaires.",
+        "C": "C’est une fusion chimique de silice et de calcaire dans les fonds marins.",
+        "D": "C’est une réaction biologique directe entre l’eau et le carbone."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

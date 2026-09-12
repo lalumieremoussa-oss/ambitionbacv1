@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE (BAC 2020)</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "Dans l’expérience 1, les dipoles sont alimentés par un courant continu et non alternative sinusoïdale comme d'habitude (voir le générateur sur la figure) la tension continue permet de déterminer la résistance interne $r$ de la bobine :",
+                "img": "rlc_exp1.png",
+                "options": { "A": "Vrai", "B": "Faux" },
+                "r": "B"
+            },
+            {
+                "q": "En courant continu, la bobine se comporte comme :",
+                "img": "rlc_exp1.png",
+                "options": { "A": "Un interrupteur ouvert", "B": "Un court-circuit", "C": "Une résistance égale à $r$", "D": "Une inductance pure" },
+                "r": "C"
+            },
+            {
+                "q": "La loi d’Ohm dans l’expérience 1 s’écrit :",
+                "img": "rlc_exp1.png",
+                "options": { "A": "$U_{AE} = (R + r) I_1$", "B": "$U_{AE} = R I_1$", "C": "$U_{AE} = r I_1$", "D": "$U_{AE} = (R – r) I_1$" },
+                "r": "A"
+            },
+            {
+                "q": "On suppose que dans un courant continu, $R + r = \\frac{U}{I}$. Avec $U_{AE} = 9$ V, $I_1 = 0,2$ A et $R = 30$ $\\Omega$, la valeur de $r$ est :",
+                "img": "rlc_exp1.png",
+                "options": { "A": "15 $\\Omega$", "B": "45 $\\Omega$", "C": "10 $\\Omega$", "D": "30 $\\Omega$" },
+                "r": "A"
+            },
+            {
+                "q": "La résistance totale du circuit en continu vaut :",
+                "img": "rlc_exp1.png",
+                "options": { "A": "30 $\\Omega$", "B": "15 $\\Omega$", "C": "45 $\\Omega$", "D": "9 $\\Omega$" },
+                "r": "C"
+            },
+            {
+                "q": "Dans l’expérience 2, l’impédance $Z_{AE}$ du circuit se calcule par :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "$Z_{AE} = U_{AE} / I_2$", "B": "$Z_{AE} = U_{AE} \\times I_2$", "C": "$Z_{AE} = \\sqrt{U_{AE} / I_2}$", "D": "$Z_{AE} = (U_{AE})^2 / I_2$" },
+                "r": "A"
+            },
+            {
+                "q": "Avec $U_{AE} = 9$ V et $I_2 = 50$ mA, $Z_{AE}$ vaut :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "180 $\\Omega$", "B": "0,45 $\\Omega$", "C": "450 $\\Omega$", "D": "18 $\\Omega$" },
+                "r": "A"
+            },
+            {
+                "q": "L’impédance d’un circuit RL série s’écrit :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "$Z = R + r + L\\omega$", "B": "$Z = \\sqrt{(R+r)^2 + (L\\omega)^2}$", "C": "$Z = \\sqrt{R^2 + (L\\omega)^2} + r$", "D": "$Z = (R+r) + L\\omega$" },
+                "r": "B"
+            },
+            {
+                "q": "La pulsation $\\omega$ à la fréquence $f = 277$ Hz vaut :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "$277\\pi$ rad/s", "B": "277 rad/s", "C": "$554\\pi$ rad/s", "D": "554 rad/s" },
+                "r": "C"
+            },
+            {
+                "q": "La valeur de $(R+r)$ calculée précédemment est :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "30 $\\Omega$", "B": "15 $\\Omega$", "C": "45 $\\Omega$", "D": "60 $\\Omega$" },
+                "r": "C"
+            },
+            {
+                "q": "La réactance inductive $Z_L$ vaut :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "$\\approx 174,3$ $\\Omega$", "B": "135 $\\Omega$", "C": "$\\approx 185,5$ $\\Omega$", "D": "4 $\\Omega$" },
+                "r": "A"
+            },
+            {
+                "q": "L’inductance $L$ est environ :",
+                "img": "rlc_exp2.png",
+                "options": { "A": "0,1 H", "B": "1 H", "C": "0,01 H", "D": "10 H" },
+                "r": "A"
+            },
+            {
+                "q": "Dans l’expérience 3, le phénomène observé est :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "La surtension", "B": "La résonance d’intensité", "C": "L’effet capacitif", "D": "L’amortissement critique" },
+                "r": "B"
+            },
+            {
+                "q": "La fréquence de résonance $f_0$ est donnée par :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$1/(2\\pi\\sqrt{LC})$", "B": "$2\\pi\\sqrt{LC}$", "C": "$\\sqrt{LC}/(2\\pi)$", "D": "$1/(2\\pi LC)$" },
+                "r": "A"
+            },
+            {
+                "q": "La pulsation $\\omega_0$ vaut environ :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$356\\pi$ rad/s", "B": "$712\\pi$ rad/s", "C": "2237 rad/s", "D": "1118 rad/s" },
+                "r": "C"
+            },
+            {
+                "q": "La relation de résonance est :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$L = 1/(C \\omega_0^2)$", "B": "$L = C \\omega_0^2$", "C": "$L = 1/(C \\omega_0)$", "D": "$L = \\omega_0^2/C$" },
+                "r": "A"
+            },
+            {
+                "q": "La valeur de $L$ est environ :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "0,1 H", "B": "1 H", "C": "0,01 H", "D": "10 H" },
+                "r": "A"
+            },
+            {
+                "q": "À la résonance, l’impédance vaut :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$R + r$", "B": "$\\sqrt{(R+r)^2 + ...}$", "C": "$L\\omega_0$", "D": "$1/(C\\omega_0)$" },
+                "r": "A"
+            },
+            {
+                "q": "L’intensité maximale vaut :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$U/(R+r)$", "B": "$U/\\sqrt{(R+r)^2}$", "C": "$U/(L\\omega_0)$", "D": "$U\\times(R+r)$" },
+                "r": "A"
+            },
+            {
+                "q": "Avec les valeurs données, $I_0$ vaut :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "0,2 A", "B": "0,5 A", "C": "0,05 A", "D": "0,1 A" },
+                "r": "A"
+            },
+            {
+                "q": "Le facteur de qualité $Q$ s’exprime par :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$(L\\omega_0)/(R+r)$", "B": "$(R+r)/(L\\omega_0)$", "C": "$(R+r)/(1/(C\\omega_0))$", "D": "$1/(R+r)\\sqrt{L/C}$" },
+                "r": "A"
+            },
+            {
+                "q": "La bande passante $\\Delta f$ est donnée par :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "$f_0 / Q$", "B": "$Q / f_0$", "C": "$f_0 \\times Q$", "D": "$1/(2\\pi\\sqrt{LC})$" },
+                "r": "A"
+            },
+            {
+                "q": "Le déphasage à la résonance est :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "0 rad", "B": "$\\pi/2$", "C": "$-\\pi/2$", "D": "$\\pi$" },
+                "r": "A"
+            },
+            {
+                "q": "Avant résonance, le circuit RL est :",
+                "img": "rlc_exp3.png",
+                "options": { "A": "Inductif", "B": "Capacitif", "C": "Résistif", "D": "Court-circuit" },
+                "r": "A"
+            },
+            {
+                "q": "Le diagramme de Fresnel à la résonance est :",
+                "img": "diagrame.png",
+                "options": { "A": "Figure 1", "B": "Figure 2", "C": "Figure 3" },
+                "r": "A"
+            },
+            {
+                "q": "Si on double $C$, la fréquence devient :",
+                "options": { "A": "$f_0 / \\sqrt{2}$", "B": "$f_0 \\sqrt{2}$", "C": "$f_0 / 2$", "D": "$2f_0$" },
+                "r": "A"
+            },
+            {
+                "q": "L’unité de $L$ est :",
+                "options": { "A": "Henry", "B": "Farad", "C": "Ohm", "D": "Hertz" },
+                "r": "A"
+            },
+            {
+                "q": "Si on inverse la polarité en continu :",
+                "options": { "A": "Le courant change de signe", "B": "Devient nul", "C": "Augmente", "D": "Diminue" },
+                "r": "A"
+            }
+        ];
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

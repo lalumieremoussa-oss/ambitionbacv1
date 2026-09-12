@@ -1,0 +1,392 @@
+[
+  {
+    "id": "CHIM001",
+    "titre": "Les alcools",
+    "sections": [
+      {
+        "id": "CHIM001_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM001_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM001_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM001_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM001_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM001_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM002",
+    "titre": "Composés carbonylés : aldéhydes et cétones",
+    "sections": [
+      {
+        "id": "CHIM002_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM002_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM002_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM002_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM002_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM002_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIMREV1",
+    "titre": "Révision 1: alcools, aldéhydes et cétones",
+    "sections": [
+      {
+        "id": "CHIMREV1_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIMREV1_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIMREV1_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIMREV1_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIMREV1_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIMREV1_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM003",
+    "titre": "Les amines",
+    "sections": [
+      {
+        "id": "CHIM003_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM003_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM003_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM003_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM003_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM003_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM004",
+    "titre": "Acides carboxyliques et dérivés",
+    "sections": [
+      {
+        "id": "CHIM004_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM004_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM004_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM004_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM004_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM004_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM005",
+    "titre": "Fabrication d’un savon ",
+    "sections": [
+      {
+        "id": "CHIM005_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM005_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM005_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM005_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM005_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM005_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM006",
+    "titre": "Les acides aminés",
+    "sections": [
+      {
+        "id": "CHIM006_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM006_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM006_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM006_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM006_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM006_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM007",
+    "titre": "Solutions aqueuses et notion de pH",
+    "sections": [
+      {
+        "id": "CHIM007_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM007_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM007_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM007_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM007_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM007_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM008",
+    "titre": "Acide fort – Base forte",
+    "sections": [
+      {
+        "id": "CHIM008_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM008_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM008_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM008_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM008_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM008_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM009",
+    "titre": "Acide faible – Base faible",
+    "sections": [
+      {
+        "id": "CHIM009_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM009_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM009_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM009_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM009_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM009_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM010",
+    "titre": "Couples acide/base – Classification",
+    "sections": [
+      {
+        "id": "CHIM010_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM010_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM010_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM010_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM010_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM010_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIM011",
+    "titre": "Couples acide/base – Constante d’acidité",
+    "sections": [
+      {
+        "id": "CHIM011_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIM011_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIM011_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIM011_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIM011_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIM011_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "CHIMREV2",
+    "titre": "Préparations au Bac",
+    "sections": [
+      {
+        "id": "CHIMREV2_C",
+        "titre": "Cours et exercices"
+      },
+      {
+        "id": "CHIMREV2_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "CHIMREV2_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "CHIMREV2_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "CHIMREV2_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "CHIMREV2_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  }
+]

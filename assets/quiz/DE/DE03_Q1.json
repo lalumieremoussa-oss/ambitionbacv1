@@ -1,0 +1,370 @@
+{
+  "title": "Quiz 1 - Deutsch (Konjugation)",
+  "id": "DE03_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Choisissez la forme correcte du verbe pour : \"Nous allons au marché.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir geht zum Markt.",
+        "B": "Wir ist gehen zum Markt.",
+        "C": "Wir gehen zum Markt.",
+        "D": "Wir machen zum Markt."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Elle fait ses devoirs.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie machen ihre Hausaufgaben.",
+        "B": "Sie macht ihre Hausaufgaben.",
+        "C": "Sie gehen ihre Hausaufgaben.",
+        "D": "Sie schreiben ihre Hausaufgaben."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la traduction correcte de : \"Mon père va au travail.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Vater gehen zur Arbeit.",
+        "B": "Mein Vater ist gehen zur Arbeit.",
+        "C": "Mein Vater machen zur Arbeit.",
+        "D": "Mein Vater geht zur Arbeit."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Complétez la phrase : \"Ich _____ morgens Wasser.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "trinkt",
+        "B": "trinke",
+        "C": "macht",
+        "D": "geht"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"Ils écrivent leurs leçons.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie schreibt ihre Lektionen.",
+        "B": "Sie machen ihre Lektionen.",
+        "C": "Sie singt ihre Lektionen.",
+        "D": "Sie schreiben ihre Lektionen."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte du verbe \"machen\" pour le sujet \"Er\" (Il) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er machen.",
+        "B": "Er geht.",
+        "C": "Er macht.",
+        "D": "Er machst."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Complétez la phrase : \"Fanta _____ zum Busbahnhof.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "geht",
+        "B": "gehen",
+        "C": "macht",
+        "D": "ist gehen"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quelle phrase signifie : \"Je fais le ménage.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich gehe den Haushalt.",
+        "B": "Ich mache den Haushalt.",
+        "C": "Ich schreibe den Haushalt.",
+        "D": "Ich trinke den Haushalt."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Complétez la phrase : \"Die Schüler _____ einfache Texte.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "liest",
+        "B": "lesen",
+        "C": "geht",
+        "D": "macht"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle est la règle principale pour la 3e personne du singulier au présent en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Le verbe prend toujours -en.",
+        "B": "Le radical du verbe prend généralement la terminaison -t.",
+        "C": "Le verbe ne change jamais.",
+        "D": "On ajoute \"ist\" avant le verbe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Elle va au marché.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Markt",
+        "gehen",
+        "Sie",
+        "ist",
+        "zum",
+        "machen",
+        "den",
+        "geht",
+        "wir",
+        "ein"
+      ],
+      "bonne réponse": "Sie geht zum Markt"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Nous faisons de l'allemand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gehen",
+        "Deutsch",
+        "sind",
+        "machen",
+        "Wir",
+        "das"
+      ],
+      "bonne réponse": "Wir machen Deutsch"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Je bois de l'eau.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wasser",
+        "geht",
+        "trinke",
+        "er",
+        "mache",
+        "Ich"
+      ],
+      "bonne réponse": "Ich trinke Wasser"
+    },
+    "question n°14": {
+      "question": "Complétez la phrase : \"Meine Mutter _____ das Essen.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mutter",
+        "machen",
+        "Essen",
+        "macht",
+        "schreibt",
+        "das",
+        "singt",
+        "ist",
+        "geht",
+        "Meine"
+      ],
+      "bonne réponse": "Meine Mutter macht das Essen"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Ils dorment à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zu",
+        "ist",
+        "Sie",
+        "schläft",
+        "Hause",
+        "machen",
+        "schlafen",
+        "gehen"
+      ],
+      "bonne réponse": "Sie schlafen zu Hause"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Je vais à l'école en bus.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Bus",
+        "geht",
+        "zur",
+        "bin",
+        "gehe",
+        "die",
+        "Schule",
+        "mache",
+        "mit",
+        "dem",
+        "Ich",
+        "Hause"
+      ],
+      "bonne réponse": "Ich gehe mit dem Bus zur Schule"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Il chante très bien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gut",
+        "singen",
+        "Er",
+        "ist",
+        "singt",
+        "macht",
+        "sehr",
+        "geht"
+      ],
+      "bonne réponse": "Er singt sehr gut"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Nous lisons des livres.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Bücher",
+        "ist",
+        "lesen",
+        "machen",
+        "liest",
+        "Wir"
+      ],
+      "bonne réponse": "Wir lesen Bücher"
+    },
+    "question n°19": {
+      "question": "Complétez : \"Alice _____ her homework.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ihre",
+        "machen",
+        "Alice",
+        "ist",
+        "Hausaufgaben",
+        "schreibt",
+        "macht",
+        "geht"
+      ],
+      "bonne réponse": "Alice macht ihre Hausaufgaben"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Je regarde la télévision.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fern",
+        "schaut",
+        "Ich",
+        "gehe",
+        "sehe",
+        "mache"
+      ],
+      "bonne réponse": "Ich sehe fern"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Mon frère écrit une lettre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Brief",
+        "schreiben",
+        "Mein",
+        "ist",
+        "schreibt",
+        "macht",
+        "einen",
+        "geht",
+        "Bruder",
+        "den"
+      ],
+      "bonne réponse": "Mein Bruder schreibt einen Brief"
+    },
+    "question n°22": {
+      "question": "Complétez : \"Sie _____ in den Park.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Park",
+        "geht",
+        "Sie",
+        "ist",
+        "in",
+        "zu",
+        "gehen",
+        "machen",
+        "den",
+        "bin"
+      ],
+      "bonne réponse": "Sie gehen in den Park"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Elle fait la lessive.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wäsche",
+        "machen",
+        "Sie",
+        "geht",
+        "macht",
+        "meine",
+        "die",
+        "ist"
+      ],
+      "bonne réponse": "Sie macht die Wäsche"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Nous chantons ensemble.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zusammen",
+        "singt",
+        "Wir",
+        "gehen",
+        "singen",
+        "machen"
+      ],
+      "bonne réponse": "Wir singen zusammen"
+    },
+    "question n°25": {
+      "question": "Complétez : \"Er _____ jeden Tag Deutsch.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Tag",
+        "lernen",
+        "Er",
+        "macht",
+        "lernt",
+        "ist",
+        "Deutsch",
+        "den",
+        "jeden",
+        "geht"
+      ],
+      "bonne réponse": "Er lernt jeden Tag Deutsch"
+    },
+    "question n°26": {
+      "question": "Quelle est la forme du verbe \"gehen\" pour le sujet \"Sie\" (Elle) ?",
+      "type": "short_answer",
+      "bonne réponse": "Sie geht"
+    },
+    "question n°27": {
+      "question": "Traduisez l'expression : \"Je fais\".",
+      "type": "short_answer",
+      "bonne réponse": "Ich mache"
+    },
+    "question n°28": {
+      "question": "Quel est le verbe allemand pour \"boire\" (forme infinitive) ?",
+      "type": "short_answer",
+      "bonne réponse": "trinken"
+    },
+    "question n°29": {
+      "question": "Traduisez le groupe de mots : \"Elle écrit\".",
+      "type": "short_answer",
+      "bonne réponse": "Sie schreibt"
+    },
+    "question n°30": {
+      "question": "Donnez la forme du verbe \"machen\" pour le sujet \"Meine Mutter\".",
+      "type": "short_answer",
+      "bonne réponse": "Meine Mutter macht"
+    }
+  }
+}

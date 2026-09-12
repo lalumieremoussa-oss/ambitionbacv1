@@ -1,0 +1,528 @@
+{
+  "title": "Quiz 2",
+  "id": "AN05_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la traduction de : \"Ravi de vous rencontrer également.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nice to meet you.",
+        "B": "Goodbye.",
+        "C": "Nice to meet you too.",
+        "D": "Where are you from?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse correcte à : \"How old are you?\" (J'ai 17 ans.)",
+      "type": "QCM",
+      "réponses": {
+        "A": "I have 17 years.",
+        "B": "I was 17.",
+        "C": "I live 17.",
+        "D": "I am 17 years old."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Complétez le dialogue : Samira: Where are you from? Andy: ____________",
+      "type": "QCM",
+      "réponses": {
+        "A": "I live in Divo.",
+        "B": "I am from Divo.",
+        "C": "I was born in Divo.",
+        "D": "I come to Divo."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Traduisez l'expression : \"mon nom de famille\" (en utilisant le texte Daouda)",
+      "type": "QCM",
+      "réponses": {
+        "A": "My name",
+        "B": "My full name",
+        "C": "My surname",
+        "D": "My family name"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction de : \"Je suis né(e) à Abengourou.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am born in Abengourou.",
+        "B": "I live in Abengourou.",
+        "C": "I will be born in Abengourou.",
+        "D": "I was born in Abengourou."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quel est le synonyme anglais de \"free time\" (temps libre) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "spare age",
+        "B": "spare time",
+        "C": "free age",
+        "D": "free hobby"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Complétez correctement : \"I want to ______ a doctor.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "am",
+        "B": "live",
+        "C": "become",
+        "D": "is"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Que signifie l'expression \"I am not interested in politics\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'aime la politique.",
+        "B": "La politique ne m'intéresse pas.",
+        "C": "Je suis politicien.",
+        "D": "Je n'aime pas les films de politique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle question pose Samira à Andy après qu'il ait dit : \"I am from Divo.\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "How are you?",
+        "B": "What is your name?",
+        "C": "And you?",
+        "D": "How old are you?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la traduction du dialogue : Je dois y aller. À bientôt !",
+      "type": "QCM",
+      "réponses": {
+        "A": "I like to go. See you!",
+        "B": "I must go. See you later!",
+        "C": "I live there. Goodbye!",
+        "D": "I want to go. Thank you!"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Choisissez l'expression correcte pour un dialogue :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hi Andy! Nice to meet you too.",
+        "B": "Hello, My surname is Andy.",
+        "C": "Hello, I am Andy.",
+        "D": "Hi Andy, I live."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle est la traduction de \"I am 1 meter 53 tall\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'ai 1m53.",
+        "B": "Je vis à 1m53.",
+        "C": "Je mesure 1m53.",
+        "D": "Mon âge est 1m53."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est le synonyme anglais de \"movies\" (dans le texte Fatima) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "books",
+        "B": "hobbies",
+        "C": "films",
+        "D": "dramas"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle est la forme correcte du dialogue pour saluer Samira ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hi Andy.",
+        "B": "Nice to meet you.",
+        "C": "How are you?",
+        "D": "Hi Andy!"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "D'après le texte de Fatima, que veut-elle devenir dans le futur ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "a scientist",
+        "B": "an English teacher",
+        "C": "a politician",
+        "D": "a doctor"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Salut ! Je m'appelle Daouda. Comment vas-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "am",
+        "name",
+        "I",
+        "you",
+        "How",
+        "is",
+        "from",
+        "Daouda.",
+        "Hi!",
+        "are",
+        "My"
+      ],
+      "bonne réponse": "Hi! My name is Daouda. How are you?"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Je vais bien aussi, merci.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "too,",
+        "am",
+        "is",
+        "thanks",
+        "fine",
+        "you",
+        "live",
+        "I"
+      ],
+      "bonne réponse": "I am fine too, thanks"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"D'où viens-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "are",
+        "do",
+        "am",
+        "you",
+        "Where",
+        "live",
+        "from?"
+      ],
+      "bonne réponse": "Where are you from?"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je viens de Bouaké.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "come",
+        "you",
+        "I",
+        "to",
+        "live",
+        "Bouaké",
+        "am",
+        "from"
+      ],
+      "bonne réponse": "I come from Bouaké"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"J'habite à Yamoussoukro maintenant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "live",
+        "at",
+        "I",
+        "now",
+        "in",
+        "am",
+        "Divo",
+        "Yamoussoukro"
+      ],
+      "bonne réponse": "I live in Yamoussoukro now"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Je suis né à N'douci.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "in",
+        "to",
+        "was",
+        "live",
+        "I",
+        "N'douci",
+        "born"
+      ],
+      "bonne réponse": "I was born in N'douci"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"J'ai 17 ans.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "have",
+        "am",
+        "old",
+        "you",
+        "I",
+        "years",
+        "was",
+        "17"
+      ],
+      "bonne réponse": "I am 17 years old"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Dans mon temps libre, j'aime regarder le théâtre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "dramas",
+        "time,",
+        "read",
+        "watch",
+        "to",
+        "I",
+        "am",
+        "free",
+        "books",
+        "my",
+        "like",
+        "in"
+      ],
+      "bonne réponse": "In my free time, I like to watch dramas"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je suis passionné par la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "passionate",
+        "English",
+        "I'm",
+        "am",
+        "about",
+        "love",
+        "music"
+      ],
+      "bonne réponse": "I'm passionate about music"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Bon, je dois y aller. Au revoir !\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "later",
+        "Goodbye",
+        "go.",
+        "to",
+        "I",
+        "see",
+        "is",
+        "you",
+        "Well,",
+        "must"
+      ],
+      "bonne réponse": "Well, I must go. Goodbye!"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"Mon nom de famille est Ouattara.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "name",
+        "is",
+        "Ouattara",
+        "I",
+        "surname",
+        "am",
+        "My",
+        "live"
+      ],
+      "bonne réponse": "My surname is Ouattara"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"J'ai également de la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "have",
+        "read",
+        "is",
+        "also",
+        "I",
+        "music",
+        "like"
+      ],
+      "bonne réponse": "I also like music"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"J'étudie assidûment.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "study",
+        "easy",
+        "I",
+        "go",
+        "hard",
+        "am",
+        "school"
+      ],
+      "bonne réponse": "I study hard"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"Je veux devenir une bonne personne.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "become",
+        "a",
+        "doctor",
+        "want",
+        "am",
+        "I",
+        "bad",
+        "good",
+        "person",
+        "to"
+      ],
+      "bonne réponse": "I want to become a good person"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"Quel âge aimes-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "old",
+        "your",
+        "is",
+        "am",
+        "What",
+        "age?",
+        "like",
+        "do"
+      ],
+      "bonne réponse": "What is your age?"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Je vis à N’douci avec ma famille.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "N'douci",
+        "is",
+        "mother",
+        "in",
+        "at",
+        "am",
+        "family",
+        "I",
+        "with",
+        "live",
+        "my",
+        "her"
+      ],
+      "bonne réponse": "I live in N'douci with my family"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"J'aime la science-fiction.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "music",
+        "science",
+        "read",
+        "fiction",
+        "movies",
+        "I",
+        "is",
+        "love"
+      ],
+      "bonne réponse": "I love science fiction movies"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"Je n'aime pas les films d'horreur du tout.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "all",
+        "movies",
+        "love",
+        "horror",
+        "I",
+        "films",
+        "don't",
+        "am",
+        "at",
+        "like"
+      ],
+      "bonne réponse": "I don't like horror films at all"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"Et toi ? Qui es-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "you?",
+        "am",
+        "do",
+        "from",
+        "Who",
+        "is",
+        "you?",
+        "And",
+        "What"
+      ],
+      "bonne réponse": "And you? Who are you?"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"Quel est le problème ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "problem",
+        "is",
+        "question?",
+        "do",
+        "the",
+        "are",
+        "What"
+      ],
+      "bonne réponse": "What is the problem?"
+    },
+    "question n°36": {
+      "question": "Traduisez l'expression \"Je veux devenir\".",
+      "type": "short_answer",
+      "bonne réponse": "I want to become"
+    },
+    "question n°37": {
+      "question": "Quel est le mot anglais pour \"nom de famille\" ?",
+      "type": "short_answer",
+      "bonne réponse": "surname"
+    },
+    "question n°38": {
+      "question": "Traduisez l'expression \"très bien\" ou \"beaucoup\".",
+      "type": "short_answer",
+      "bonne réponse": "very much"
+    },
+    "question n°39": {
+      "question": "Quel verbe utilise-t-on pour parler de sa taille en anglais ? (forme infinitive)",
+      "type": "short_answer",
+      "bonne réponse": "To be"
+    },
+    "question n°40": {
+      "question": "Traduisez : \"Et toi ? Qui es-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "you?",
+        "am",
+        "do",
+        "from",
+        "Who",
+        "is",
+        "you?",
+        "And",
+        "What"
+      ],
+      "bonne réponse": "And you? Who are you?"
+    }
+  }
+}  

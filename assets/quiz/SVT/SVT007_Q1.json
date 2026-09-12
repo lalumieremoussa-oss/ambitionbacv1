@@ -1,0 +1,279 @@
+{
+  "title": "Quiz 1 : Tissu Nodal et Automatisme Cardiaque",
+  "id": "SVT007_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "De quelle nature sont les deux sortes de tissu qui constituent le cœur ?",
+      "réponses": {
+        "A": "Le tissu musculaire cardiaque ordinaire et le tissu nodal, essentiels pour son fonctionnement autonome.",
+        "B": "Le tissu conjonctif fibreux dense et le tissu adipeux brun, pour son isolation thermique et sa forme.",
+        "C": "Le tissu nerveux centralisé et le tissu épithélial de revêtement, pour sa régulation hormonale.",
+        "D": "Le tissu cartilagineux hyalin et le tissu osseux spongieux, pour sa rigidité structurelle interne."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Vrai ou Faux : Le nœud sinusal est localisé dans la partie des ventricules.",
+      "réponses": {
+        "A": "Vrai, il contrôle la contraction ventriculaire directement.",
+        "B": "Faux, il est situé dans la partie des oreillettes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Texte à compléter : Le faisceau de His est divisé en deux branches, chaque ventricule en reçoit [...].",
+      "réponses": {
+        "A": "une.",
+        "B": "deux.",
+        "C": "trois."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Où est localisé le nœud septal dans le cœur ?",
+      "réponses": {
+        "A": "Dans la partie supérieure de l'oreillette gauche, près de l'aorte ascendante principale.",
+        "B": "Entre l'oreillette et le ventricule, permettant la transmission du signal.",
+        "C": "Au niveau de l'apex ventriculaire, régulant la pression diastolique.",
+        "D": "Dans la paroi externe du ventricule droit, près de la grande veine cave."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Vrai ou Faux : Le réseau de Purkinje est du type embryonnaire riche en cytoplasme.",
+      "réponses": {
+        "A": "Vrai, sa structure cellulaire favorise une conduction rapide.",
+        "B": "Faux, il est principalement composé de fibres élastiques matures."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est la caractéristique principale du tissu musculaire cardiaque ordinaire ?",
+      "réponses": {
+        "A": "Il est semblable aux fibres musculaires lisses du système digestif.",
+        "B": "Il comprend la plus grande partie du cœur et est semblable aux fibres musculaires striées.",
+        "C": "Il est un tissu nerveux spécialisé dans la production d'hormones.",
+        "D": "Il est un tissu cartilagineux dense, apportant un soutien structurel important."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle conclusion est tirée de l'expérience où un cœur isolé de mammifère continue de battre lorsqu'il est plongé dans un liquide physiologique ?",
+      "réponses": {
+        "A": "Les éléments responsables du battement sont situés dans le cœur lui-même, démontrant son indépendance.",
+        "B": "Le liquide physiologique contient des substances stimulant la contraction musculaire externe du cœur isolé.",
+        "C": "Le cœur ne peut battre que s'il reste connecté au système nerveux autonome de l'organisme d'origine.",
+        "D": "Cette observation prouve que le cœur dépend entièrement des signaux électriques provenant du cerveau."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Vrai ou Faux : Un cœur dépourvu de tissu nodal cesse de battre car le tissu nodal est le siège de l'automatisme cardiaque.",
+      "réponses": {
+        "A": "Vrai, l'automatisme est une propriété intrinsèque de ce tissu.",
+        "B": "Faux, c'est l'absence de sang qui entraîne l'arrêt des battements dans ce cas."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Texte à compléter : Sur un cœur isolé, si on sectionne le faisceau de His, il y a un [...].",
+      "réponses": {
+        "A": "arrêt immédiat de toutes les contractions cardiaques, sans exception.",
+        "B": "ralentissement du rythme au niveau des ventricules.",
+        "C": "augmentation significative du rythme auriculaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Que signifie l'interprétation selon laquelle le cœur fonctionne d'une manière indépendante et automatique ?",
+      "réponses": {
+        "A": "Il peut changer sa taille et sa forme selon les besoins de l'organisme, sans intervention externe.",
+        "B": "Il est capable de se déplacer librement dans le thorax pour s'adapter à la posture.",
+        "C": "Il est totalement insensible aux variations hormonales ou nerveuses de l'organisme.",
+        "D": "Il continue de battre sans stimulation externe de l'organisme, grâce à ses propres éléments."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le nœud septal est précisément l'élément responsable du battement des oreillettes.",
+      "réponses": {
+        "A": "Vrai, il initie directement la dépolarisation auriculaire.",
+        "B": "Faux, le nœud sinusal est l'élément responsable du battement des oreillettes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que démontre l'expérience de destruction du tissu nodal sur un cœur isolé et perfusé ?",
+      "réponses": {
+        "A": "Le cœur se met à battre plus rapidement, de manière anarchique.",
+        "B": "Le cœur cesse de battre, prouvant le rôle central du tissu nodal dans l'automatisme.",
+        "C": "Seules les oreillettes continuent de fonctionner, les ventricules s'arrêtent.",
+        "D": "Le cœur commence à produire des battements irréguliers, mais ne s'arrête pas complètement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Qu'est-ce qui rend la cellule du nœud sinusal très excitable au repos ?",
+      "réponses": {
+        "A": "Sa richesse exceptionnelle en mitochondries, qui produisent une grande quantité d'énergie.",
+        "B": "Une perméabilité exceptionnelle de sa membrane aux ions Na+ et Ca²+, entraînant une dépolarisation lente.",
+        "C": "La présence de nombreux récepteurs à l'acétylcholine, augmentant sa sensibilité aux neurotransmetteurs.",
+        "D": "Son faible potentiel de repos, qui la rend résistante à toute stimulation externe prolongée."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : La dépolarisation lente du nœud sinusal est due à une sortie d'ions K+.",
+      "réponses": {
+        "A": "Vrai, la sortie de K+ rend la membrane plus positive.",
+        "B": "Faux, elle est due à l'entrée d'ions Na+ et Ca²+."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Texte à compléter : Dès que le potentiel pacemaker est atteint, il se produit un PA spontané qui se transmet aux cellules musculaires auriculaires et déclenche la [...].",
+      "réponses": {
+        "A": "régénération tissulaire.",
+        "B": "contraction des oreillettes.",
+        "C": "relaxation ventriculaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la première phase du PA cardiaque et qu'est-ce qui la caractérise ?",
+      "réponses": {
+        "A": "Le plateau, où les canaux lents des ions calcium se ferment.",
+        "B": "La dépolarisation ascendante, avec une entrée explosive des ions sodium (Na+) dans la cellule.",
+        "C": "La repolarisation, marquée par une entrée massive d'ions potassium (K+).",
+        "D": "Le repos diastolique, où toutes les pompes ioniques sont inactivées."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Pendant le plateau ou la dépolarisation maintenue, il y a une sortie prolongée d'ions sodium.",
+      "réponses": {
+        "A": "Vrai, ce qui contribue à la phase de relaxation.",
+        "B": "Faux, il y a une entrée des ions calcium et sodium qui se maintient."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Comment le potentiel d'action (PA) cardiaque se transmet-il après avoir quitté le nœud septal ?",
+      "réponses": {
+        "A": "Il passe directement des oreillettes aux ventricules sans intermédiaire.",
+        "B": "Il passe ensuite aux faisceaux de HIS et au réseau de Purkinje, entraînant la contraction ventriculaire.",
+        "C": "Il est bloqué par des valves cardiaques, empêchant toute contraction.",
+        "D": "Il est renvoyé vers le nœud sinusal pour une nouvelle dépolarisation rapide."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Texte à compléter : Lors de la repolarisation, les canaux d’ions [...] s’ouvrent, il y a une sortie d’ions de même nature.",
+      "réponses": {
+        "A": "potassium (K+)",
+        "B": "calcium (Ca²)",
+        "C": "sodium (Na+)"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : La dépolarisation lente du nœud sinusal rapproche la cellule du potentiel pacemaker.",
+      "réponses": {
+        "A": "Vrai, ce mécanisme est essentiel pour l'automatisme.",
+        "B": "Faux, elle l'éloigne du potentiel pacemaker, inhibant l'excitation."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°21": {
+      "question": "Quel appareil permet d'enregistrer le mouvement du cœur et comment est appelé l'enregistrement obtenu ?",
+      "réponses": {
+        "A": "L'électrocardiographe qui produit un électrocardiogramme, mesurant l'activité électrique uniquement.",
+        "B": "Le cardiographe à balancier qui produit un cardiogramme, enregistrant les mouvements mécaniques.",
+        "C": "Le stéthoscope, qui permet d'écouter les bruits du cœur, mais n'enregistre pas les mouvements.",
+        "D": "L'échocardiographe, qui utilise les ultrasons pour visualiser les structures et les flux sanguins cardiaques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Vrai ou Faux : Le cardiogramme comprend uniquement un systole ventriculaire.",
+      "réponses": {
+        "A": "Vrai, car seul le mouvement des ventricules est significatif pour cet enregistrement.",
+        "B": "Faux, il comprend un systole et diastole auriculaire, un systole ventriculaire et un diastole général."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Texte à compléter : L'ensemble des phases du cardiogramme (systole auriculaire, systole ventriculaire, diastole général) est appelé la [...].",
+      "réponses": {
+        "A": "révolution cardiaque.",
+        "B": "phase de repos prolongée.",
+        "C": "dépolarisation ventriculaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "À quoi correspond l'onde P sur un électrocardiogramme humain ?",
+      "réponses": {
+        "A": "À la contraction des ventricules, indiquant une activité mécanique intense.",
+        "B": "À la dépolarisation et à la repolarisation des oreillettes, entraînant le systole et diastole auriculaire.",
+        "C": "Au relâchement complet du muscle cardiaque, signifiant un arrêt de l'activité électrique.",
+        "D": "À la phase de remplissage ventriculaire rapide, avant toute contraction auriculaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Vrai ou Faux : Le complexe QRS correspond à la repolarisation des ventricules.",
+      "réponses": {
+        "A": "Vrai, c'est la phase de relaxation après la contraction.",
+        "B": "Faux, il correspond à la dépolarisation des ventricules."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Quelle phase de la révolution cardiaque est entraînée par le complexe QRS sur l'électrocardiogramme ?",
+      "réponses": {
+        "A": "Le diastole général du cœur, marquant la période de relaxation complète.",
+        "B": "Le systole ventriculaire, correspondant à la contraction des ventricules.",
+        "C": "Le systole auriculaire, indiquant la contraction des oreillettes uniquement.",
+        "D": "La phase de remplissage passif des ventricules, sans activité contractile."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Texte à compléter : L'onde T sur l'électrocardiogramme correspond à la [...] des ventricules.",
+      "réponses": {
+        "A": "repolarisation.",
+        "B": "dépolarisation.",
+        "C": "contraction."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "Vrai ou Faux : Le diastole général correspond au repos complet du cœur dans le cardiogramme.",
+      "réponses": {
+        "A": "Vrai, c'est la période de relâchement et de remplissage.",
+        "B": "Faux, il s'agit d'une phase de contraction auriculaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "Combien d'ondes principales comprend l'électrocardiogramme humain selon le texte ?",
+      "réponses": {
+        "A": "Une onde majeure, représentant l'activité globale du cœur.",
+        "B": "Deux ondes spécifiques, pour les oreillettes et les ventricules séparément.",
+        "C": "Trois ondes distinctes : l'onde P, le complexe QRS et l'onde T.",
+        "D": "Quatre ondes complexes, incluant des subdivisions pour chaque cycle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Texte à compléter : La dépolarisation des ventricules, qui entraîne le systole ventriculaire, est représentée sur l'ECG par [...].",
+      "réponses": {
+        "A": "le complexe QRS.",
+        "B": "l'onde P.",
+        "C": "l'onde T."
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

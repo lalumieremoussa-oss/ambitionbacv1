@@ -1,0 +1,1259 @@
+[
+{
+  "title": "Quiz 1",
+  "id": "PH002_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "La conscience peut être définie comme :",
+      "réponses": {
+        "A": "Une forme d’intelligence animale capable de répéter mécaniquement des gestes utiles à la survie",
+        "B": "Une capacité biologique propre aux êtres humains à interagir instinctivement avec leur environnement",
+        "C": "La force qui pousse l’homme à dominer son instinct pour accomplir des exploits",
+        "D": "La faculté qu’a l’homme de se représenter ses actes, ses pensées et de se juger lui-même"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle distinction fondamentale existe-t-il entre conscience psychologique et conscience morale ?",
+      "réponses": {
+        "A": "L’une relève de la logique et l’autre de l’imagination",
+        "B": "La conscience psychologique juge le mal ; la conscience morale connaît les pensées",
+        "C": "La conscience psychologique permet de se connaître ; la conscience morale permet de se juger",
+        "D": "Elles n’ont pas de différence, ce sont des synonymes exacts"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel courant philosophique affirme que la conscience est une propriété essentielle de l’homme, le distinguant de tous les autres êtres ?",
+      "réponses": {
+        "A": "Le matérialisme athée de Marx",
+        "B": "L’humanisme rationaliste de Descartes",
+        "C": "Le nihilisme de Nietzsche",
+        "D": "L’empirisme sceptique de Hume"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle école critique l’idée de la suprématie de la conscience en insistant sur les pulsions inconscientes ?",
+      "réponses": {
+        "A": "Le personnalisme de Mounier",
+        "B": "Le stoïcisme antique",
+        "C": "L’idéalisme transcendantal",
+        "D": "La psychanalyse freudienne"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quel argument permet de soutenir que l’homme se distingue des animaux ?",
+      "réponses": {
+        "A": "L’homme peut réfléchir sur ses actes et en évaluer la portée",
+        "B": "L’homme agit toujours instinctivement",
+        "C": "L’animal peut juger moralement ses propres comportements",
+        "D": "Les humains ont une mémoire émotionnelle plus vive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "En quoi la conscience morale rend-elle l’homme unique ?",
+      "réponses": {
+        "A": "Elle permet de prévoir l’avenir avec précision",
+        "B": "Elle rend l’homme capable de distinguer l’opinion du goût",
+        "C": "Elle lui permet d’orienter ses actions en fonction du bien et du mal",
+        "D": "Elle garantit l’obéissance aux lois humaines et animales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Que signifie l’introspection ?",
+      "réponses": {
+        "A": "L’étude psychologique des autres",
+        "B": "L’acte de projeter ses émotions sur autrui",
+        "C": "La capacité à juger les autres à travers soi",
+        "D": "L’action de se retourner sur soi pour comprendre ses pensées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi dit-on que l’homme est conscient de sa dignité ?",
+      "réponses": {
+        "A": "Parce qu’il est supérieur physiquement aux autres êtres",
+        "B": "Parce qu’il peut se penser comme sujet moral et responsable",
+        "C": "Parce qu’il obéit à ses pulsions mieux que les animaux",
+        "D": "Parce qu’il survit dans tous les milieux hostiles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "En quoi la conscience morale est-elle une « boussole intérieure » ?",
+      "réponses": {
+        "A": "Elle mesure l’intelligence émotionnelle et les performances sociales",
+        "B": "Elle guide nos actes en fonction de règles extérieures",
+        "C": "Elle aide à évaluer nos actes à partir de valeurs intimes de bien ou de mal",
+        "D": "Elle oblige toujours à agir selon les lois de la société"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la fonction essentielle de la conscience psychologique ?",
+      "réponses": {
+        "A": "Contrôler les émotions involontaires",
+        "B": "Diriger les instincts refoulés",
+        "C": "Observer les erreurs morales des autres",
+        "D": "Permettre la connaissance de soi, ses sentiments, ses pensées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle citation illustre la conscience de soi selon Descartes ?",
+      "réponses": {
+        "A": "« Je suis une machine pensante. »",
+        "B": "« L’animal est un automate divin. »",
+        "C": "« Je pense, donc je suis. »",
+        "D": "« Le moi est haïssable. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle citation met en valeur la conscience morale selon Rousseau ?",
+      "réponses": {
+        "A": "« La volonté générale est toujours juste. »",
+        "B": "« La liberté consiste à faire ce que l’on veut. »",
+        "C": "« L’homme naît bon, la société le corrompt. »",
+        "D": "« Conscience ! Conscience ! Instinct divin… »"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Quelle citation exprime la puissance de l’introspection selon Pascal ?",
+      "réponses": {
+        "A": "« L’homme est un roseau pensant. »",
+        "B": "« La grandeur de l’homme est grande en ce qu’il se connaît misérable. »",
+        "C": "« L’habitude est une seconde nature. »",
+        "D": "« Le cœur a ses raisons que la raison ignore. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle citation soutient l’ouverture à autrui par la conscience selon Sartre ?",
+      "réponses": {
+        "A": "« L’enfer, c’est les autres. »",
+        "B": "« Par le cogito, je découvre les autres… »",
+        "C": "« L’existence précède l’essence. »",
+        "D": "« Je suis condamné à être libre. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel sens donne-t-on à « Je pense, donc je suis » ?",
+      "réponses": {
+        "A": "La conscience de soi prouve l’existence de Dieu",
+        "B": "L’âme survit à la mort grâce à la pensée",
+        "C": "Le fait de penser atteste de notre existence comme sujet",
+        "D": "L’homme est un être pensant parmi d’autres"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Pourquoi Rousseau qualifie-t-il la conscience d’« instinct divin » ?",
+      "réponses": {
+        "A": "Parce qu’elle remplace Dieu dans le cœur de l’homme",
+        "B": "Parce qu’elle nous relie à une vérité éternelle, au-delà des lois humaines",
+        "C": "Parce qu’elle est réservée aux sages et philosophes",
+        "D": "Parce qu’elle est innée chez tous les êtres"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Que signifie Pascal lorsqu’il écrit : « Il se connaît misérable » ?",
+      "réponses": {
+        "A": "L’homme reconnaît sa faiblesse et en tire sa grandeur",
+        "B": "L’homme est dominé par ses émotions",
+        "C": "L’homme nie son intelligence par orgueil",
+        "D": "L’homme n’est pas capable de se juger lui-même"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Vrai ou faux : « La conscience est ce qui permet à l’homme d’agir par instinct. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou faux : « L’introspection est le retour de la conscience de la conscience sur elle-même. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou faux : « La conscience est une simple illusion linguistique selon Freud. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Que désigne Leibniz par le concept de « petites perceptions » ?",
+      "réponses": {
+        "A": "Des émotions visibles qui perturbent la conscience de l’homme",
+        "B": "Des sensations conscientes mais difficiles à exprimer en mots",
+        "C": "Des représentations mentales confuses mais partagées socialement",
+        "D": "Des phénomènes mentaux inconscients qui échappent à l’attention immédiate"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Quelle idée remet en cause l'affirmation selon laquelle la conscience saisit toute notre vie psychique ?",
+      "réponses": {
+        "A": "La conscience peut gouverner les rêves et les impulsions nocturnes",
+        "B": "Les émotions conscientes sont toujours parfaitement identifiables",
+        "C": "La mémoire refoule toutes les pensées conscientes pour les organiser",
+        "D": "Il existe une infinité de micro-perceptions qui nous traversent à notre insu"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°23": {
+      "question": "Pourquoi Nietzsche critique-t-il la conscience ?",
+      "réponses": {
+        "A": "Il pense que la conscience n'existe pas réellement",
+        "B": "Il estime que la conscience est le fruit d’un excès d’introspection pathologique",
+        "C": "Il croit que la conscience est exclusivement animale et non humaine",
+        "D": "Il considère que la conscience est un produit dérivé de la vie sociale et du langage"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Quelle hiérarchie Nietzsche renverse-t-il ?",
+      "réponses": {
+        "A": "Celle qui place la pensée avant la vie sensorielle",
+        "B": "Celle qui place l’âme avant le corps",
+        "C": "Celle qui place la conscience au-dessus de l’inconscient",
+        "D": "Celle qui place l’instinct au-dessus du raisonnement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Selon Freud, quelle affirmation est la plus juste ?",
+      "réponses": {
+        "A": "L’inconscient n’intervient que dans les rêves et les traumatismes",
+        "B": "Le moi conscient dirige toutes les décisions morales",
+        "C": "La conscience représente une fraction faible de notre activité mentale réelle",
+        "D": "Le cerveau humain n’a pas de zones inconscientes repérables"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Quelle citation illustre le mieux la position freudienne ?",
+      "réponses": {
+        "A": "« Je pense donc je suis. »",
+        "B": "« Toute conscience est d’abord intuition. »",
+        "C": "« L’instinct divin guide la volonté. »",
+        "D": "« Le moi n’est pas maître dans sa propre maison. »"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°27": {
+      "question": "Que signifie : « La conscience règne mais ne gouverne pas » ?",
+      "réponses": {
+        "A": "La conscience décide de tout mais ne dirige rien",
+        "B": "Elle est présente mais soumise à des forces plus profondes, inconscientes",
+        "C": "Elle est une illusion fabriquée par l’imaginaire collectif",
+        "D": "Elle est toujours active, mais inutile pour l'action humaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Pourquoi Bergson rejette-t-il l’idée que la conscience fasse de l’homme une exception radicale ?",
+      "réponses": {
+        "A": "Parce qu’il considère que la conscience humaine est instable",
+        "B": "Parce qu’il affirme que la différence entre l’homme et l’animal est une question de degré, non de nature",
+        "C": "Parce qu’il nie que les animaux aient la moindre conscience",
+        "D": "Parce qu’il considère l’intelligence humaine comme inférieure à l’instinct"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Vrai ou faux : Nietzsche critique la conscience comme illusion de supériorité et affirme que l’inconscient est la partie la plus noble de l’homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Vrai ou faux : Selon Freud, l’homme est pleinement libre tant qu’il suit sa conscience.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "PH002_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Soit le sujet : Toute prise de conscience est-elle libératrice ? Que signifie prise de conscience dans ce sujet ?",
+      "réponses": {
+        "A": "L’acte d’agir moralement",
+        "B": "Un retour passif sur des émotions anciennes",
+        "C": "L’acte par lequel un individu devient lucide sur une réalité donnée",
+        "D": "Une simple perception sensorielle"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Dans ce contexte, que signifie libératrice ?",
+      "réponses": {
+        "A": "Ce qui enferme dans le doute",
+        "B": "Ce qui nie la possibilité du choix.",
+        "C": "Ce qui favorise l’obéissance inconsciente",
+        "D": "Ce qui permet de sortir d’une forme de dépendance ou d’ignorance"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Pourquoi peut-on dire que la conscience favorise la liberté ?",
+      "réponses": {
+        "A": "Parce qu’elle impose un choix collectif",
+        "B": "Parce qu’elle supprime les contraintes sociales",
+        "C": "Parce qu’elle permet de réfléchir avant d’agir",
+        "D": "Parce qu’elle rend impossible toute responsabilité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La conscience permet à l’homme de se distinguer de l’animal car :",
+      "réponses": {
+        "A": "Elle lui donne la capacité de juger ses propres actes",
+        "B": "Elle lui permet d’anticiper des dangers immédiats",
+        "C": "Elle est fondée sur des réflexes naturels",
+        "D": "Elle supprime totalement ses instincts"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Selon Sartre, la conscience est liée à la liberté car :",
+      "réponses": {
+        "A": "Elle rend l’homme responsable de ses choix",
+        "B": "Elle impose toujours le bien",
+        "C": "Elle le libère de toute angoisse",
+        "D": "Elle fonctionne comme un automatisme moral"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Pourquoi Descartes parle-t-il de la conscience comme puissance d’élire ?",
+      "réponses": {
+        "A": "Parce qu’elle permet de choisir librement entre plusieurs options",
+        "B": "Parce qu’elle détermine l’issue de la réflexion",
+        "C": "Parce qu’elle commande automatiquement l’action",
+        "D": "Parce qu’elle nie toute hésitation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "En quoi Pascal relie-t-il la pensée à la dignité humaine ?",
+      "réponses": {
+        "A": "Parce qu’elle vient de Dieu",
+        "B": "Parce qu’elle révèle la misère humaine",
+        "C": "Parce qu’elle repose sur l’émotion",
+        "D": "Parce qu’elle élève l’homme au-dessus de l’animal par la réflexion"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quel est le rôle de la conscience dans la responsabilité morale ?",
+      "réponses": {
+        "A": "Elle permet d’oublier ses fautes",
+        "B": "Elle impose des remords sans choix",
+        "C": "Elle éclaire l’action pour la rendre assumée",
+        "D": "Elle supprime les conséquences"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Qui a affirmé : « La seule liberté possible suppose la prise de conscience » ?",
+      "réponses": {
+        "A": "Sartre",
+        "B": "Spinoza",
+        "C": "Freud",
+        "D": "Marx"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Que signifie la citation de Pascal : « Ce n’est point de l’espace que je dois chercher ma dignité, mais du règlement de ma pensée » ?",
+      "réponses": {
+        "A": "L’espace conditionne la valeur de l’homme",
+        "B": "La dignité vient de l’ordre dans la pensée",
+        "C": "L’homme n’a aucune dignité sans espace",
+        "D": "La pensée doit rester instinctive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Que veut dire Sartre lorsqu’il affirme : « L’homme est condamné à être libre » ?",
+      "réponses": {
+        "A": "Il n’a pas d’autre choix que de fuir la liberté",
+        "B": "La liberté est réservée à une élite",
+        "C": "La liberté est une illusion provoquée par la société",
+        "D": "Il ne peut échapper à la nécessité de choisir"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Qui a écrit : « L’angoisse est le vertige de la liberté » ?",
+      "réponses": {
+        "A": "Freud",
+        "B": "Nietzsche",
+        "C": "Kierkegaard",
+        "D": "Alain"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi Kierkegaard associe-t-il angoisse et liberté ?",
+      "réponses": {
+        "A": "L’angoisse prouve qu’on n’est pas libre",
+        "B": "L’angoisse apparaît devant la responsabilité du choix",
+        "C": "L’angoisse détruit toute volonté",
+        "D": "L’angoisse est le contraire de la conscience"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi Nietzsche valorise-t-il l’oubli ?",
+      "réponses": {
+        "A": "Parce qu’il permet de nier le passé",
+        "B": "Parce qu’il libère de la culpabilité et du remords",
+        "C": "Parce qu’il détruit l’histoire collective",
+        "D": "Parce qu’il fait perdre la mémoire logique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le risque d’une conscience trop réflexive ?",
+      "réponses": {
+        "A": "Elle conduit à des ruminations obsessionnelles",
+        "B": "Elle favorise l’action rapide",
+        "C": "Elle développe l’empathie",
+        "D": "Elle supprime la culpabilité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "La prise de conscience rend toujours libre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "La liberté commence lorsque l’on devient lucide sur sa condition.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "L’angoisse empêche l’homme d’être libre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "« Celui qui revient sur ses actes passés prend conscience de leurs défauts. Cette lucidité peut entraîner le regret, la culpabilité ou la honte. » Cet argument soutient que la conscience fait de l’homme un être libre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La conscience sociale est toujours un signe de liberté individuelle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "PH002_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne principalement l’inconscient dans la pensée freudienne ?",
+      "réponses": {
+        "A": "Une absence d’intelligence émotionnelle",
+        "B": "L’ensemble des comportements d’une personne qui ne réfléchit pas",
+        "C": "L’ensemble des phénomènes psychiques échappant à la conscience",
+        "D": "L’état passager de perte de mémoire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle de l’inconscient dans l’économie psychique selon Freud ?",
+      "réponses": {
+        "A": "Il amène un individu à se comporter comme un animal.",
+        "B": "Il contient des idées claires mais oubliées",
+        "C": "Il n’intervient que dans les rêves",
+        "D": "Il influence nos pensées et comportements malgré nous"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Pourquoi les automatismes sont-ils une preuve de l’existence de l’inconscient ?",
+      "réponses": {
+        "A": "Parce qu’ils sont des signes visibles de la raison",
+        "B": "Parce qu’ils montrent que tout acte est contrôlé rationnellement",
+        "C": "Parce qu’ils prouvent qu’une partie de notre activité échappe à la conscience",
+        "D": "Parce qu’ils relèvent de l’intuition divine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Pourquoi Freud s’intéresse-t-il aux lapsus ?",
+      "réponses": {
+        "A": "Parce qu’ils montrent des troubles purement linguistiques",
+        "B": "Parce qu’ils expriment une volonté de mentir",
+        "C": "Parce qu’ils illustrent la perte du langage",
+        "D": "Parce qu’ils révèlent des pensées refoulées agissant à notre insu"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Que montre le rêve, selon Freud ?",
+      "réponses": {
+        "A": "Qu’un désir inconscient peut s’exprimer de manière déguisée",
+        "B": "Que la raison contrôle toujours l’imagination",
+        "C": "Qu’il ne faut pas totalement faire confiance à la conscience",
+        "D": "Qu’une imagination reste imagination, contraire à la réalité."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est la valeur des actes manqués pour prouver l’inconscient ?",
+      "réponses": {
+        "A": "Ils sont liés à des distractions mineures sans signification",
+        "B": "Ils révèlent des conflits internes ignorés par la conscience",
+        "C": "Ils prouvent l’erreur naturelle du langage",
+        "D": "Ils témoignent d’un manque d’éducation logique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi peut-on dire que l’être humain n’est pas pleinement maître de lui-même ?",
+      "réponses": {
+        "A": "Parce qu’à force de réfléchit, il devient prisonnier de des angoisses, désillusions, la peur.",
+        "B": "Parce que ses gestes sont toujours conditionnés par la gravité",
+        "C": "Parce que ses pensées conscientes sont traversées par des contenus inconscients",
+        "D": "Parce qu’il est constamment influencé par la météo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi certains automatismes sont-ils révélateurs d’un inconscient actif ?",
+      "réponses": {
+        "A": "Parce qu’ils sont programmés par autrui",
+        "B": "Parce qu’ils résultent de processus mentaux non réfléchis",
+        "C": "Parce qu’ils se répètent sans but",
+        "D": "Parce qu’ils n'ont rien à voir avec la volonté"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle citation de Freud illustre le rôle dominant de l’inconscient ?",
+      "réponses": {
+        "A": "« Je pense donc je suis. »",
+        "B": "« L’essentiel de l’activité psychique demeure inconscient. »",
+        "C": "« Le désir est l’essence de l’homme. »",
+        "D": "« Il n’est rien dans l’intellect qui ne soit d’abord dans les sens. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel penseur écrit : « Je veux ce que je pense » ?",
+      "réponses": {
+        "A": "Alain",
+        "B": "Freud",
+        "C": "Rousseau",
+        "D": "Spinoza"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle citation de Freud affirme la nécessité de subordonner l’inconscient à la conscience ?",
+      "réponses": {
+        "A": "« Je suis une chose qui pense. »",
+        "B": "« Là où ça était, je dois advenir. »",
+        "C": "« La conscience est un juge suprême. »",
+        "D": "« L’instinct gouverne tout. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle citation illustre la confiance de Rousseau en la conscience morale ?",
+      "réponses": {
+        "A": "« La conscience règne mais ne gouverne pas. »",
+        "B": "« Conscience ! Instinct divin, juge infaillible du bien et du mal… »",
+        "C": "« L’homme est condamné à être libre. »",
+        "D": "« L’inconscient est une hypothèse inutile. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Pourquoi Freud dit-il : « L’essentiel de l’activité psychique demeure inconscient » ?",
+      "réponses": {
+        "A": "Parce qu’il nie l’utilité de la pensée consciente",
+        "B": "Parce qu’il veut dire que tout est déterminé socialement",
+        "C": "Parce qu’il soutient que la majorité de nos processus mentaux échappent à notre vigilance",
+        "D": "Parce qu’il rejette la mémoire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle idée Sartre rejette-t-il dans l’inconscient freudien ?",
+      "réponses": {
+        "A": "Que l’homme agit parfois sans réfléchir, de façon inconsciente.",
+        "B": "Que l’homme peut se déresponsabiliser en imputant ses actes à une force obscure",
+        "C": "Que les rêves expriment des désirs irréalisables.",
+        "D": "Que le passé influence le présent"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le sens de la citation d’Alain : « Je veux ce que je pense » ?",
+      "réponses": {
+        "A": "Que tout désir est rationnel",
+        "B": "Que volonté et pensée sont toujours opposées",
+        "C": "Que l’inconscient n’existe pas",
+        "D": "Que volonté et pensée sont indissociables dans l’acte libre"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Freud considère que la conscience est un mensonge. Pour lui, l’homme est purement inconscient.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pour Jean Jacques Rousseau, seule la raison distingue l’homme de l’animal.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Sartre pense que l’homme est toujours conscient de ses motivations profondes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Alain rejette l’existence d’un inconscient psychique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Les rêves sont, pour Freud, des preuves de la raison triomphante.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 4",
+  "id": "PH002_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne l’inconscient dans la pensée freudienne ?",
+      "réponses": {
+        "A": "Un espace obscur de la mémoire volontaire, totalement maîtrisé",
+        "B": "Un ensemble de souvenirs conscients refoulés intentionnellement",
+        "C": "Une partie de l’esprit échappant à la conscience, gouvernée par des désirs refoulés",
+        "D": "Une construction morale de l’individu pour justifier ses fautes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Que signifie la notion philosophique de liberté ?",
+      "réponses": {
+        "A": "L’absence totale de contraintes dans le monde physique et social",
+        "B": "La capacité à suivre toutes ses envies sans condition",
+        "C": "La faculté d’agir selon sa propre volonté, en connaissance de cause",
+        "D": "Le droit naturel d’obéir à son imagination sans limites"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel courant philosophique a mis au cœur de sa réflexion le rôle des pulsions inconscientes ?",
+      "réponses": {
+        "A": "Le scepticisme pyrrhonien",
+        "B": "La psychanalyse freudienne",
+        "C": "Le matérialisme antique",
+        "D": "L’existentialisme sartrien"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle doctrine nie le libre arbitre au nom d’un déterminisme des désirs et des affects ?",
+      "réponses": {
+        "A": "L’humanisme kantien",
+        "B": "Le rationalisme cartésien",
+        "C": "Le spinozisme",
+        "D": "Le personnalisme chrétien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pourquoi l’inconscient est-il vu comme une menace pour la liberté selon Freud ?",
+      "réponses": {
+        "A": "Parce qu’il est le siège du raisonnement logique",
+        "B": "Parce qu’il contient des souvenirs douloureux toujours facilement contrôlables",
+        "C": "Parce qu’il commande en partie nos pensées et nos actions sans que nous en ayons conscience",
+        "D": "Parce qu’il est uniquement dirigé par la morale sociale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment Spinoza conçoit-il la prétendue liberté de celui qui suit ses désirs ?",
+      "réponses": {
+        "A": "Il la considère comme l’expression de la vraie liberté",
+        "B": "Il y voit une illusion : l’homme est en réalité dominé par ses pulsions",
+        "C": "Il la justifie comme une ruse de la raison",
+        "D": "Il l’approuve s’il s’agit de désirs nobles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi le moi ne peut-il se prétendre souverain selon Freud ?",
+      "réponses": {
+        "A": "Parce qu’il est seulement en conflit avec le corps",
+        "B": "Parce qu’il est écartelé entre les injonctions du surmoi, les pulsions du ça et les contraintes du réel",
+        "C": "Parce qu’il ignore les lois de la logique",
+        "D": "Parce qu’il est sans lien avec les émotions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "En quoi l’enfant n’est-il pas libre selon Spinoza ?",
+      "réponses": {
+        "A": "Il est incapable de comprendre le langage de l’éthique",
+        "B": "Il agit par caprice et non par raisonnement",
+        "C": "Il suit uniquement le principe de plaisir sans distance critique",
+        "D": "Il vit en société et doit respecter l’autorité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle est la fonction de l’oubli dans la perspective nietzschéenne ?",
+      "réponses": {
+        "A": "Cacher la vérité pour manipuler les autres",
+        "B": "Supprimer les désirs pour devenir sage",
+        "C": "Permettre à l’esprit de se libérer des charges morales et affectives du passé",
+        "D": "Interdire tout souvenir de souffrance même utile"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Comment le rêve peut-il jouer un rôle libérateur, selon Freud ?",
+      "réponses": {
+        "A": "Il permet au cerveau de s’évader du monde réel par des images fictives",
+        "B": "Il donne à la pensée le pouvoir d’oublier totalement le monde",
+        "C": "Il réalise symboliquement des désirs inconscients refoulés",
+        "D": "Il efface toute mémoire et toute souffrance durablement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle citation illustre l’idée que le moi n’est pas libre selon Freud ?",
+      "réponses": {
+        "A": "« Le moi n’est pas maître dans sa propre maison. »",
+        "B": "« La liberté est la reconnaissance de la nécessité. »",
+        "C": "« L’homme est un roseau pensant. »",
+        "D": "« Le ça parle et je ne suis pas là. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quelle citation montre que l’attachement au plaisir peut devenir esclavage ?",
+      "réponses": {
+        "A": "« Celui qui est captif de son propre plaisir (…) est soumis au pire esclavage. »",
+        "B": "« La volonté n’est jamais sans désir. »",
+        "C": "« Le bonheur est dans l’obéissance à la raison. »",
+        "D": "« Le plaisir guide les âmes faibles. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quelle citation soutient que l’oubli est une condition de liberté intérieure ?",
+      "réponses": {
+        "A": "« L’oubli est une trahison de la mémoire. »",
+        "B": "« Nul bonheur, nulle sérénité, nulle espérance ne pourrait exister sans la faculté de l’oubli. »",
+        "C": "« L’oubli du passé garantit le progrès. »",
+        "D": "« L’homme libre est celui qui se souvient. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle citation exprime l’idée que le rêve réalise un désir inconscient ?",
+      "réponses": {
+        "A": "« Le rêve est le messager du divin. »",
+        "B": "« Le rêve est la voie royale vers l’inconscient. »",
+        "C": "« Un désir irréalisable peut trouver son mode de réalisation dans les rêves. »",
+        "D": "« Le rêve échappe à tout contrôle rationnel. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que signifie « Le moi n’est pas maître dans sa propre maison » ?",
+      "réponses": {
+        "A": "L’homme est dominé par ses parents et son éducation",
+        "B": "La raison humaine dirige mal les émotions",
+        "C": "Le sujet n’a pas la pleine maîtrise de lui-même à cause des forces inconscientes qui l’habitent",
+        "D": "L’esprit est toujours tourné vers l’extérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Pourquoi Spinoza parle-t-il d’esclavage à propos du plaisir ?",
+      "réponses": {
+        "A": "Parce qu’il méprise les joies du corps",
+        "B": "Parce qu’il associe toute sensation à une faute",
+        "C": "Parce qu’un homme guidé par ses désirs est en réalité déterminé de l’intérieur sans le savoir",
+        "D": "Parce qu’il prône le déni du plaisir pour atteindre la sagesse"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Que signifie pour Nietzsche : « Nul bonheur (…) sans faculté de l’oubli » ?",
+      "réponses": {
+        "A": "Le bonheur consiste à ignorer totalement son passé",
+        "B": "L’oubli est nécessaire pour éviter les douleurs morales et avancer",
+        "C": "Oublier, c’est se libérer des autres",
+        "D": "L’oubli n’a de valeur que pour les faibles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou faux : l’inconscient rend l’homme totalement libre de ses actes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou faux : Le rêve permet de libérer le moi en le renforçant contre le ça.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Vrai ou faux : L’oubli, chez Nietzsche, est vu comme une faiblesse psychique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 5",
+  "id": "PH002_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne la violence dans une approche philosophique ?",
+      "réponses": {
+        "A": "Une réaction à une injustice subie par une personne plus faible.",
+        "B": "Toute forme d’agression exercée volontairement contre autrui ou contre soi",
+        "C": "Une manifestation d’amour contrarié",
+        "D": "Un acte toujours justifié dans la nature"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Qu’est-ce que la nature humaine selon les penseurs classiques ?",
+      "réponses": {
+        "A": "Ce qui résulte exclusivement de l’éducation et de la culture.",
+        "B": "Ce que l’homme devient en société",
+        "C": "Ce qui varie selon les civilisations.",
+        "D": "Ce qui est inné, stable et commun à tous les hommes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "En quoi la pulsion de mort freudienne est-elle un argument pour expliquer la violence ?",
+      "réponses": {
+        "A": "Elle prouve que tout acte violent est rationnel",
+        "B": "Elle révèle une énergie sexuelle non canalisée",
+        "C": "Elle montre qu’une force destructrice habite inconsciemment l’homme",
+        "D": "Elle nie toute forme de responsabilité morale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Pourquoi Hobbes affirme-t-il que l’homme est naturellement en conflit avec autrui ?",
+      "réponses": {
+        "A": "Parce qu’il aime souffrir",
+        "B": "Parce qu’il vit dans une société où les lois ne sont respectées par les autorités.",
+        "C": "Parce que l’État garantit la paix",
+        "D": "Parce qu’en l’absence de lois, chacun défend ses intérêts contre les autres"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la fonction de la violence dans l’état de nature selon certains penseurs ?",
+      "réponses": {
+        "A": "Elle permet une paix durable entre les hommes",
+        "B": "Elle est une stratégie rationnelle de survie",
+        "C": "Elle sert à punir l’injustice divine",
+        "D": "Elle est illégale, donc illogique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Pourquoi peut-on dire que l’agressivité est instinctive selon Freud ?",
+      "réponses": {
+        "A": "Parce qu’elle est enracinée dans l’inconscient",
+        "B": "Parce qu’elle est apprise en société",
+        "C": "Parce que toute violence est un choix moral",
+        "D": "Parce qu’elle est propre à l’éducation chrétienne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la vision hobbesienne de la violence est-elle pessimiste ?",
+      "réponses": {
+        "A": "Car elle suppose que l’homme peut vivre sans conflit avec les autres.",
+        "B": "Car elle voit la société comme naturellement paisible, où chaque individu se sent libre et heureux",
+        "C": "Car elle décrit l’homme comme naturellement porté à la guerre sans lois",
+        "D": "Car elle exclut toute solution pacifique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi certains philosophes associent-ils violence et volonté irrationnelle ?",
+      "réponses": {
+        "A": "Parce que la volonté est un pur raisonnement",
+        "B": "Parce que la volonté, comme chez Schopenhauer, est aveugle et source de conflit",
+        "C": "Parce que la volonté est orientée uniquement vers le bien",
+        "D": "Parce qu’elle est toujours gouvernée par la raison"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle citation de Freud soutient l’idée d’un instinct d’agressivité inné ?",
+      "réponses": {
+        "A": "« L’homme est un loup pour l’homme. »",
+        "B": "« L’homme doit compter au nombre de ses données instinctives une bonne somme d’agressivité. »",
+        "C": "« Le moi n’est pas maître dans sa propre maison. »",
+        "D": "« L’agression est une invention sociale. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle pensée exprime le pessimisme de Schopenhauer sur la nature humaine ?",
+      "réponses": {
+        "A": "« L’homme est condamné à être libre. »",
+        "B": "« La volonté, aveugle et irrationnelle, engendre conflits et souffrances. »",
+        "C": "« L’homme est libre même en prison. »",
+        "D": "« L’éducation fait l’homme. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle phrase de Hobbes illustre le caractère conflictuel de l’état de nature ?",
+      "réponses": {
+        "A": "« La guerre est le père de toutes choses. »",
+        "B": "« L’homme est un loup pour l’homme. »",
+        "C": "« L’homme est bon par nature. »",
+        "D": "« L’État est l’âme du peuple. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que souligne Joseph de Maistre dans sa citation sur la violence ?",
+      "réponses": {
+        "A": "Que la guerre est une exception",
+        "B": "Que la violence n’existe que chez les barbares",
+        "C": "Que l’homme tue pour vivre, mais aussi pour le plaisir de tuer",
+        "D": "Que la nature humaine est toujours morale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que veut dire Hobbes par « l’homme est un loup pour l’homme » ?",
+      "réponses": {
+        "A": "Que l’homme est naturellement solidaire",
+        "B": "Que l’homme défend toujours les plus faibles",
+        "C": "Que l’homme est une menace pour autrui sans autorité supérieure",
+        "D": "Que l’homme est un animal loyal"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est le sens profond de la citation de Freud sur l’agressivité instinctive ?",
+      "réponses": {
+        "A": "Que l’homme est uniquement une victime de la violence",
+        "B": "Que l’homme utilise la violence uniquement en cas de guerre",
+        "C": "Que la violence est toujours rationnelle",
+        "D": "Que la violence fait partie de sa constitution psychique profonde"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quel message Schopenhauer fait-il passer avec sa citation ?",
+      "réponses": {
+        "A": "Que seule la raison mène à la paix",
+        "B": "Que la morale est sans fondement",
+        "C": "Que la volonté humaine est irrationnelle et productrice de souffrance",
+        "D": "Que l’homme ne souffre que dans l’enfance"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Pour Freud, la violence humaine est uniquement due à l’éducation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Schopenhauer affirme que la volonté humaine est toujours dirigée par la raison.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Hobbes pense que l’homme est naturellement violent.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Joseph de Maistre nie toute violence inutile chez l’homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Comment définir la violence dans une perspective sociale ?",
+      "réponses": {
+        "A": "Un instinct de destruction pure",
+        "B": "Une réponse automatique à la douleur",
+        "C": "Une manifestation d’amour contrarié",
+        "D": "Un acte dirigé contre autrui, souvent causé par des frustrations ou inégalités sociales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°21": {
+      "question": "Que désigne l’organisation sociale en philosophie politique ?",
+      "réponses": {
+        "A": "L’ensemble des choix individuels au hasard",
+        "B": "Le cadre moral d’un peuple",
+        "C": "La manière dont les lois, les institutions et les hiérarchies structurent la société",
+        "D": "L’héritage biologique d’une population"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Pourquoi peut-on dire que la société produit elle-même de la violence ?",
+      "réponses": {
+        "A": "Parce qu’elle punit toujours les criminels",
+        "B": "Parce que les lois protègent tous les citoyens",
+        "C": "Parce que la morale naturelle disparaît",
+        "D": "Parce que les structures sociales engendrent des rapports d’exclusion et d’oppression"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°23": {
+      "question": "Pourquoi les inégalités sociales sont-elles une source de violence selon Rousseau ?",
+      "réponses": {
+        "A": "Parce qu’elles rendent tous les hommes puissants",
+        "B": "Parce qu’elles donnent aux riches l’obligation d’aider les pauvres",
+        "C": "Parce qu’elles assurent la paix sociale",
+        "D": "Parce qu’elles créent humiliation, jalousie et rivalité"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Pourquoi la violence d’un marginal ne peut-elle pas être considérée comme purement naturelle ?",
+      "réponses": {
+        "A": "Parce qu’il est biologiquement pacifique",
+        "B": "Parce qu’il n’a aucun rapport avec la société",
+        "C": "Parce qu’il est écrasé par un ordre établi qui peut provoquer sa révolte",
+        "D": "Parce qu’il agit toujours par plaisir"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Pourquoi la structure sociale peut-elle engendrer des formes de colère ou de révolte ?",
+      "réponses": {
+        "A": "Parce qu’elle donne trop de liberté aux individus",
+        "B": "Parce qu’elle garantit trop d’égalité",
+        "C": "Parce qu’elle supprime les privilèges",
+        "D": "Parce qu’elle crée des frustrations et sentiments d’injustice chez les dominés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°26": {
+      "question": "Pourquoi les rapports de domination sont-ils problématiques ?",
+      "réponses": {
+        "A": "Parce qu’ils sont visibles à la télévision",
+        "B": "Parce qu’ils empêchent les citoyens d’obéir aux lois",
+        "C": "Parce qu’ils créent un déséquilibre profond entre individus, menant à la violence",
+        "D": "Parce qu’ils sont trop bien organisés"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°27": {
+      "question": "Que montre la réaction violente d’un individu face à l’ordre établi ?",
+      "réponses": {
+        "A": "Qu’il n’a pas de conscience morale",
+        "B": "Qu’il cherche à imposer la paix",
+        "C": "Qu’il subit une oppression sociale et tente de s’en libérer",
+        "D": "Qu’il est naturellement dangereux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Quelle citation illustre le lien entre structure sociale et oppression selon Sartre ?",
+      "réponses": {
+        "A": "« L’homme est un loup pour l’homme. »",
+        "B": "« Ce n’est pas l’antisémitisme qui fait le Juif, c’est le bourgeois qui fait le prolétaire. »",
+        "C": "« L’homme est naturellement violent. »",
+        "D": "« La violence est le langage des faibles. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Quelle est la célèbre affirmation de Rousseau sur la nature humaine ?",
+      "réponses": {
+        "A": "« L’homme est né violent. »",
+        "B": "« L’homme est un animal rationnel. »",
+        "C": "« L’homme est naturellement bon, c’est la société qui le corrompt. »",
+        "D": "« La société nous libère. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Quelle pensée de Joseph de Maistre exprime la brutalité sociale ?",
+      "réponses": {
+        "A": "« L’homme tue pour se nourrir, il tue pour se défendre, il tue pour tuer. »",
+        "B": "« La morale est le fondement de la société. »",
+        "C": "« L’homme est naturellement doux. »",
+        "D": "« La société régule la cruauté. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°31": {
+      "question": "Quelle citation illustre la critique de la propriété privée par Rousseau ?",
+      "réponses": {
+        "A": "« Le premier qui, ayant enclos un terrain, s’avisa de dire ‘ceci est à moi’, fut le véritable fondateur de la société civile. »",
+        "B": "« Tout ce que l’homme possède vient de Dieu. »",
+        "C": "« La propriété rend les hommes frères. »",
+        "D": "« L’État doit garantir l’inégalité. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°32": {
+      "question": "Quel est le sens de « c’est le bourgeois qui fait le prolétaire » ?",
+      "réponses": {
+        "A": "Le riche transforme les pauvres en bourgeois",
+        "B": "Le prolétariat crée la classe dominante",
+        "C": "Ce sont les structures économiques qui créent les dominés",
+        "D": "La violence est un choix personnel"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°33": {
+      "question": "En affirmant que « l’homme est naturellement bon », que remet en question Rousseau ?",
+      "réponses": {
+        "A": "L'idée selon laquelle la nature humaine est corrompue par essence",
+        "B": "La doctrine selon laquelle le mal découle de la technique et de la science",
+        "C": "La vision optimiste de l’éducation comme remède aux vices humains",
+        "D": "La conception moderne de la liberté comme absence de contraintes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°34": {
+      "question": "Que signifie « l’homme tue pour tuer » chez Maistre ?",
+      "réponses": {
+        "A": "Que tuer est un art chez l’homme",
+        "B": "Que la violence humaine dépasse souvent la nécessité",
+        "C": "Que la guerre est toujours juste .",
+        "D": "Que la loi impose de tuer"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°35": {
+      "question": "Rousseau pense que la propriété privée a renforcé l’égalité entre les hommes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°36": {
+      "question": "Pour Sartre, l’antisémite existe avant la société.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°37": {
+      "question": "Les inégalités sociales peuvent déclencher des formes de révolte ou de colère.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°38": {
+      "question": "L’organisation sociale empêche toutes les formes de violence.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}]

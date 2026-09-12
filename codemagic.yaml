@@ -1,0 +1,19 @@
+workflows:
+  android-workflow:
+    name: Ambition Bac Android Build
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+    environment:
+      flutter: stable
+    scripts:
+      - name: Activer Swift Package Manager
+        script: flutter config --enable-swift-package-manager
+      - name: Flutter Clean and Fetch
+        script: |
+          flutter pub cache clean --force
+          flutter pub get
+      - name: Build Android APK
+        script: |
+          flutter build apk --release
+    artifacts:
+      - build/app/outputs/flutter-apk/*.apk

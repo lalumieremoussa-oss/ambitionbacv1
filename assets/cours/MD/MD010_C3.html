@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+
+            [
+                {
+                    "title": "Étape 1 : Limites de référence et Comportements aux bornes de $\\mathbb{R}$",
+                    "content": "L'étude des limites de la fonction exponentielle commence par la compréhension de son comportement aux extrémités de son ensemble de définition. La fonction $f(x) = e^x$ est strictement positive et croissante sur $\\mathbb{R}$.\n\n**Propriétés fondamentales :**\n- En $+\\infty$, la fonction croît sans borne : $\\lim_{x \\to +\\infty} e^x = +\\infty$.\n- En $-\\infty$, la courbe s'approche de l'axe des abscisses sans jamais le toucher : $\\lim_{x \\to -\\infty} e^x = 0$. Cela signifie que la droite d'équation $y = 0$ est une asymptote horizontale à la courbe en $-\\infty$.\n- Pour les opérations sur les limites (somme, produit, quotient), on applique les règles usuelles en gardant à l'esprit que l'exponentielle ne s'annule jamais.",
+                    "example": "Calculons la limite de $f(x) = 2e^x - 3x + 1$ en $-\\infty$ :\n\nOn décompose la fonction en plusieurs termes :\n1. $\\lim_{x \\to -\\infty} 2e^x = 2 \\times 0 = 0$\n2. $\\lim_{x \\to -\\infty} -3x = +\\infty$\n3. $\\lim_{x \\to -\\infty} 1 = 1$\n\nPar somme des limites :\n$\\lim_{x \\to -\\infty} (2e^x - 3x + 1) = 0 + (+\\infty) + 1 = +\\infty$.\n\nLa fonction tend donc vers $+\\infty$ quand $x$ tend vers $-\\infty$.",
+                    "extras": [
+                        "Exemple complet : $\\lim_{x \\to -\\infty} (e^x + 5)$.\nOn sait que $\\lim_{x \\to -\\infty} e^x = 0$.\nPar addition : $0 + 5 = 5$.\nL'ensemble de la fonction tend vers $5$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} (x^2 + e^x)$.\n$\\lim_{x \\to +\\infty} x^2 = +\\infty$ et $\\lim_{x \\to +\\infty} e^x = +\\infty$.\nPar somme : $+\\infty + (+\\infty) = +\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} \\frac{3}{e^x + 1}$.\n$\\lim_{x \\to -\\infty} e^x = 0$, donc le dénominateur tend vers $0 + 1 = 1$.\nLe quotient tend vers $3/1 = 3$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} (1 - e^x)$.\n$\\lim_{x \\to +\\infty} e^x = +\\infty$, donc $-e^x$ tend vers $-\\infty$.\nPar somme avec 1, on obtient $-\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} e^x(x+2)$.\nCeci est une forme de croissance comparée. Comme $\\lim_{x \\to -\\infty} xe^x = 0$ et $\\lim_{x \\to -\\infty} 2e^x = 0$, la limite totale est $0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} e^{-x}$.\nPosons $X = -x$. Quand $x \\to +\\infty, X \\to -\\infty$.\n$\\lim_{X \\to -\\infty} e^X = 0$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} (2 - 3e^x)$.\n$\\lim_{x \\to -\\infty} e^x = 0$, donc $-3e^x$ tend vers $0$.\nLa limite finale est $2$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} \\frac{e^x}{e^x + 1}$.\nEn $+\\infty$, on factorise par $e^x$ : $\\frac{e^x(1)}{e^x(1 + e^{-x})} = \\frac{1}{1 + e^{-x}}$.\nComme $e^{-x} \\to 0$, la limite est $1$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} \\frac{e^x}{x}$.\n$\\lim_{x \\to -\\infty} e^x = 0$ et $\\lim_{x \\to -\\infty} x = -\\infty$.\nPar quotient : $0 / (-\\infty) = 0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} e^{x-x^2}$.\nL'exposant $x-x^2$ tend vers $-\\infty$ en $+\\infty$.\nPar composition, $\\lim_{X \\to -\\infty} e^X = 0$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Croissances comparées et Levée des formes indéterminées",
+                    "content": "Face à des formes indéterminées (FI) de type $\\infty - \\infty$ ou $0 \\times \\infty$, on utilise les théorèmes de croissances comparées. Ces théorèmes affirment que l'exponentielle « l'emporte » sur n'importe quelle puissance de $x$.\n\n**Théorèmes clés :**\n- $\\lim_{x \\to +\\infty} \\frac{e^x}{x^n} = +\\infty$ ($n > 0$)\n- $\\lim_{x \\to -\\infty} x^n e^x = 0$ ($n > 0$)\n\nPour lever une indétermination en $+\\infty$, la méthode classique consiste à factoriser l'expression par le terme dominant (généralement $e^x$).",
+                    "example": "Calculons $\\lim_{x \\to +\\infty} (e^x - x^2)$ :\n\nNous avons une forme indéterminée $+\\infty - (+\\infty)$.\nFactorisons par $e^x$ :\n$e^x - x^2 = e^x (1 - \\frac{x^2}{e^x})$\n\nAnalysons les termes :\n1. $\\lim_{x \\to +\\infty} e^x = +\\infty$\n2. D'après le cours sur les croissances comparées, $\\lim_{x \\to +\\infty} \\frac{e^x}{x^2} = +\\infty$, donc son inverse $\\lim_{x \\to +\\infty} \\frac{x^2}{e^x} = 0$.\n\nPar produit :\n$\\lim_{x \\to +\\infty} e^x (1 - 0) = +\\infty \\times 1 = +\\infty$.",
+                    "extras": [
+                        "Exemple complet : $\\lim_{x \\to +\\infty} \\frac{e^x}{x^3 + x}$.\nOn factorise le dénominateur par $x^3$ : $\\frac{e^x}{x^3(1 + 1/x^2)}$.\nComme $\\frac{e^x}{x^3} \\to +\\infty$ et $1 + 1/x^2 \\to 1$, la limite est $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} (x^2 + 1)e^x$.\nDéveloppement : $x^2e^x + e^x$.\nPar croissances comparées, $\\lim_{x \\to -\\infty} x^2e^x = 0$ et $\\lim_{x \\to -\\infty} e^x = 0$.\nLa limite est $0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} \\frac{x}{e^x}$.\nC'est l'inverse de $\\frac{e^x}{x}$. Comme $\\frac{e^x}{x} \\to +\\infty$, son inverse tend vers $0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} (e^{2x} - e^x)$.\nFactorisation par $e^{2x}$ : $e^{2x}(1 - e^{-x})$.\n$e^{2x} \\to +\\infty$ et $(1 - e^{-x}) \\to 1$. Résultat : $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} (x^3 e^x)$.\nC'est une application directe : $\\lim_{x \\to -\\infty} x^n e^x = 0$. Résultat : $0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} \\frac{e^x + x}{x^2}$.\nOn sépare : $\\frac{e^x}{x^2} + \\frac{x}{x^2} = \\frac{e^x}{x^2} + \\frac{1}{x}$.\n$+\\infty + 0 = +\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} e^x - x$.\nFactorisation : $e^x(1 - x/e^x) \\to +\\infty(1-0) = +\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} x^2 e^{x+1}$.\nOn peut écrire $x^2 e^x \\times e^1$. Comme $x^2 e^x \\to 0$, la limite est $0 \\times e = 0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} \\frac{3e^x - x}{e^x + 1}$.\nFactorisation par $e^x$ en haut et en bas : $\\frac{e^x(3 - x/e^x)}{e^x(1 + e^{-x})} = \\frac{3 - x/e^x}{1 + e^{-x}}$.\nLimite : $(3-0)/(1+0) = 3$.",
+                        "Exemple complet : $\\lim_{x \to +\infty} \sqrt{x} e^{-x}$.\nOn écrit $\frac{\sqrt{x}}{e^x}$. Comme $e^x$ l'emporte sur toute puissance (même $x^{1/2}$), la limite est $0$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Limites par composition et Taux d'accroissement",
+                    "content": "Lorsque l'argument de l'exponentielle est une fonction $u(x)$, on utilise le théorème de composition : si $\\lim_{x \\to a} u(x) = L$ et $\\lim_{X \\to L} e^X = M$, alors $\\lim_{x \\to a} e^{u(x)} = M$.\n\nUn autre outil puissant est le nombre dérivé en $0$ :\n$\\lim_{x \\to 0} \\frac{e^x - 1}{x} = 1$.\nCela permet de lever des formes indéterminées de type $0/0$.",
+                    "example": "Calculons $\\lim_{x \\to 0} \\frac{e^{3x} - 1}{x}$ :\n\nC'est une forme indéterminée $0/0$. Multiplions et divisons par $3$ pour faire apparaître le taux d'accroissement :\n$\\frac{e^{3x} - 1}{x} = 3 \\times \\frac{e^{3x} - 1}{3x}$\n\nPosons $X = 3x$. Quand $x \\to 0$, alors $X \\to 0$.\nOn sait que $\\lim_{X \\to 0} \\frac{e^X - 1}{X} = 1$.\n\nPar produit :\n$\\lim_{x \\to 0} 3 \\times \\frac{e^{3x} - 1}{3x} = 3 \\times 1 = 3$.",
+                    "extras": [
+                        "Exemple complet : $\\lim_{x \\to +\\infty} e^{1/x}$.\n$\\lim_{x \\to +\\infty} 1/x = 0$. Or $e^0 = 1$. La limite est $1$.",
+                        "Exemple complet : $\\lim_{x \\to 1} \\frac{e^x - e}{x - 1}$.\nOn factorise par $e$ : $e \\times \\frac{e^{x-1} - 1}{x-1}$. En posant $X=x-1$, on obtient $e \\times 1 = e$.",
+                        "Exemple complet : $\\lim_{x \\to 0^+} e^{-1/x}$.\n$1/x \\to +\\infty$, donc $-1/x \\to -\\infty$.\n$\\lim_{X \\to -\\infty} e^X = 0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} e^{\\frac{2x+1}{x-3}}$.\n$\\lim_{x \\to +\\infty} \\frac{2x+1}{x-3} = 2$ (quotient des termes de plus haut degré).\nLa limite est $e^2$.",
+                        "Exemple complet : $\\lim_{x \\to 0} \\frac{e^x - 1}{x^2}$.\nOn écrit $\\frac{e^x - 1}{x} \\times \\frac{1}{x}$.\n$1 \\times (\\pm \\infty)$ selon le signe. La limite n'existe pas en $0$ mais tend vers $\\pm \\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} e^{x^2}$.\n$x^2 \\to +\\infty$, donc $e^{x^2} \\to +\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to 0} \\frac{e^{x^2} - 1}{x^2}$.\nPosons $X = x^2$. Quand $x \\to 0, X \\to 0$. La limite est $1$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} x(e^{1/x} - 1)$.\nOn pose $X = 1/x$. Quand $x \\to +\\infty, X \\to 0$.\nL'expression devient $\\frac{1}{X}(e^X - 1) = \\frac{e^X - 1}{X}$. La limite est $1$.",
+                        "Exemple complet : $\\lim_{x \\to 2} e^{\\frac{1}{x-2}}$ à droite.\n$1/(x-2) \\to +\\infty$, donc la limite est $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to 0} \\frac{e^{2x} - e^x}{x}$.\nOn écrit $\\frac{e^{2x} - 1 - (e^x - 1)}{x} = \\frac{e^{2x}-1}{x} - \\frac{e^x-1}{x} = 2 - 1 = 1$."
+                    ]
+                },
+                {
+                    "title": "Étape 4 : Étude de fonctions exponentielles complexes et Asymptotes",
+                    "content": "Pour des fonctions plus riches, on combine les limites pour en déduire les asymptotes à la courbe représentative.\n- Si $\\lim_{x \\to a} f(x) = \\pm \\infty$, alors $x = a$ est une asymptote verticale.\n- Si $\\lim_{x \\to \\pm \\infty} f(x) = L$, alors $y = L$ est une asymptote horizontale.\n- Si $\\lim_{x \\to \\pm \\infty} [f(x) - (ax + b)] = 0$, alors $y = ax + b$ est une asymptote oblique.",
+                    "example": "Soit $f(x) = \\frac{2e^x - 1}{e^x + 1}$. Étudions les limites en $-\\infty$ et $+\\infty$.\n\n**En $-\\infty$ :**\n$\\lim_{x \\to -\\infty} e^x = 0$. Donc :\n$\\lim_{x \\to -\\infty} f(x) = \\frac{2(0) - 1}{0 + 1} = \\frac{-1}{1} = -1$.\nLa droite $y = -1$ est asymptote horizontale en $-\\infty$.\n\n**En $+\\infty$ :**\nIndétermination $\\infty/\\infty$. Factorisons par $e^x$ :\n$f(x) = \\frac{e^x(2 - e^{-x})}{e^x(1 + e^{-x})} = \\frac{2 - e^{-x}}{1 + e^{-x}}$.\nComme $\\lim_{x \\to +\\infty} e^{-x} = 0$, on a :\n$\\lim_{x \\to +\\infty} f(x) = \\frac{2 - 0}{1 + 0} = 2$.\nLa droite $y = 2$ est asymptote horizontale en $+\\infty$.",
+                    "extras": [
+                        "Exemple complet : $f(x) = x + 1 + e^{-x}$. En $+\\infty$.\n$e^{-x} \\to 0$. Donc $f(x) - (x+1) \\to 0$.\n$y = x + 1$ est une asymptote oblique.",
+                        "Exemple complet : $f(x) = \\frac{1}{e^x - 1}$ en $0^+$.\n$e^x - 1 \\to 0^+$. Donc $f(x) \\to +\\infty$.\n$x = 0$ est une asymptote verticale.",
+                        "Exemple complet : $f(x) = e^x - x$. En $-\\infty$.\n$e^x \\to 0$ et $-x \\to +\\infty$. La limite est $+\\infty$.",
+                        "Exemple complet : $f(x) = \\frac{x}{e^x - 1}$. En $0$.\nOn reconnaît l'inverse du taux d'accroissement. La limite est $1/1 = 1$.",
+                        "Exemple complet : $f(x) = e^x / (x-1)$ en $1^+$.\n$e^1 = e$ et $(x-1) \\to 0^+$. Résultat : $+\\infty$.",
+                        "Exemple complet : $f(x) = (1-x)e^x$ en $+\\infty$.\n$1-x \\to -\\infty$ et $e^x \\to +\\infty$. Produit : $-\\infty$.",
+                        "Exemple complet : $f(x) = (1-x)e^x$ en $-\\infty$.\n$e^x - xe^x$. $0 - 0 = 0$. Asymptote $y=0$.",
+                        "Exemple complet : $f(x) = e^{1/x} - x$ en $+\\infty$.\n$e^0 - (+\\infty) = 1 - \\infty = -\\infty$.",
+                        "Exemple complet : $f(x) = \\frac{e^x}{x^2-1}$ en $+\\infty$.\nCroissance comparée : $+\\infty$.",
+                        "Exemple complet : $f(x) = \\frac{e^x}{x^2-1}$ en $1^+$.\n$e^1 / 0^+ = +\\infty$. Asymptote $x=1$."
+                    ]
+                },
+                {
+                    "title": "Étape 5 : Synthèse et Applications aux problèmes de Bac",
+                    "content": "Cette étape regroupe des calculs de limites rencontrés dans les problèmes de synthèse, impliquant souvent des changements de variables astucieux ou des mises en facteur multiples pour traiter des fonctions hybrides (mélange de polynômes, d'exponentielles et de fractions).\n\n**Conseils pour l'examen :**\n- Toujours préciser la limite de l'exposant avant de conclure par composition.\n- Citer explicitement « par croissance comparée » pour justifier les limites de type $e^x/x$.\n- Vérifier la cohérence graphique : une exponentielle positive ne peut pas tendre vers $-\\infty$ seule.",
+                    "example": "Déterminer $\\lim_{x \\to +\\infty} \\frac{e^{x} - x^2}{e^{x} + x}$ :\n\nOn a une FI $\\infty/\\infty$. Factorisons par le terme dominant $e^x$ au numérateur et au dénominateur.\n$f(x) = \\frac{e^x(1 - \\frac{x^2}{e^x})}{e^x(1 + \\frac{x}{e^x})} = \\frac{1 - \\frac{x^2}{e^x}}{1 + \\frac{x}{e^x}}$\n\nJustification des termes :\n1. $\\lim_{x \\to +\\infty} \\frac{x^2}{e^x} = 0$ par croissance comparée.\n2. $\\lim_{x \\to +\\infty} \\frac{x}{e^x} = 0$ par croissance comparée.\n\nCalcul final :\n$\\lim_{x \\to +\\infty} f(x) = \\frac{1 - 0}{1 + 0} = 1$.\n\nLa courbe admet une asymptote horizontale d'équation $y = 1$ en $+\\infty$.",
+                    "extras": [
+                        "Exemple complet : $\\lim_{x \\to +\\infty} e^{x - \\sqrt{x}}$.\n$x - \\sqrt{x} = x(1 - 1/\\sqrt{x}) \\to +\\infty$. Donc la limite est $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to 0} \\frac{e^{\\sin x} - 1}{x}$.\nOn écrit $\\frac{e^{\\sin x} - 1}{\\sin x} \\times \\frac{\\sin x}{x}$.\nComme $\\sin x \\to 0$, le premier terme tend vers $1$, et le second vers $1$. Résultat : $1$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} \\frac{e^{2x}}{x^3}$.\nOn pose $X = 2x$, donc $x = X/2$. $\\frac{e^X}{(X/2)^3} = 8 \\frac{e^X}{X^3}$.\nPar croissance comparée, cela tend vers $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} e^x \\ln(-x)$.\nPosons $t = -x$. Quand $x \\to -\\infty, t \\to +\\infty$. $e^{-t} \\ln(t) = \\frac{\\ln t}{e^t}$.\nL'exponentielle l'emporte sur le logarithme : limite $0$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} (x+1)^2 e^{-x}$.\n$(x^2+2x+1)e^{-x} = \\frac{x^2}{e^x} + \\frac{2x}{e^x} + \\frac{1}{e^x}$.\nChaque terme tend vers $0$ en $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} \\frac{e^{-x}}{x}$.\nPosons $X = -x$. $\\frac{e^X}{-X} = -\\frac{e^X}{X}$.\nComme $X \\to +\\infty$, la limite est $-\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} x^2 e^{-x^2}$.\nPosons $X = x^2$. $X e^{-X} = \\frac{X}{e^X}$.\nLimite quand $X \\to +\\infty$ est $0$.",
+                        "Exemple complet : $\\lim_{x \\to 0} \\frac{e^x - e^{-x}}{x}$.\n$\\frac{e^x - 1 - (e^{-x} - 1)}{x} = \\frac{e^x-1}{x} + \\frac{e^{-x}-1}{-x}$.\n$1 + 1 = 2$.",
+                        "Exemple complet : $\\lim_{x \\to +\\infty} (e^{x^2} - e^x)$.\n$e^{x^2}(1 - e^{x-x^2})$. Comme $x-x^2 \\to -\\infty$, $e^{x-x^2} \\to 0$.\nRésultat : $+\\infty$.",
+                        "Exemple complet : $\\lim_{x \\to -\\infty} \\frac{e^{2x} + e^x}{x^2}$.\nLe numérateur tend vers $0$ et le dénominateur vers $+\\infty$. La limite est $0$."
+                    ]
+                }
+            ]
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

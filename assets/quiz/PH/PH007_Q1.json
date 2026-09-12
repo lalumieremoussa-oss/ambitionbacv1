@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 1",
+  "id": "PH007_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quiz sur le Progrès Technique : Le Progrès Technique Éradique-t-il la Misère de l'Homme ? Quelle est la meilleure définition du \"progrès technique\" dans ce sujet ?",
+      "réponses": {
+        "A": "Un processus linéaire et ininterrompu d'accumulation de richesses matérielles, garanti par l'exploitation des ressources naturelles sans considération pour l'environnement.",
+        "B": "L'ensemble des avancées et innovations dans les outils, les méthodes et les connaissances scientifiques appliquées, visant à améliorer les capacités humaines à transformer le monde.",
+        "C": "La régression constante des capacités humaines à dominer la nature, menant inévitablement à un retour à un état primitif et une dépendance accrue envers l'environnement.",
+        "D": "Un développement aléatoire et imprévisible des compétences artistiques et spirituelles de l'homme, sans aucun lien avec la production matérielle ou l'organisation sociale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Le terme \"misère\" dans le contexte de ce sujet est défini comme :",
+      "réponses": {
+        "A": "Exclusivement la pauvreté matérielle et le manque de ressources financières, sans aucune autre dimension humaine ou existentielle.",
+        "B": "Une condition de souffrance et de privation qui peut être matérielle, sociale, morale ou spirituelle, affectant la dignité et le bien-être de l'homme.",
+        "C": "Un état de bonheur absolu et de plénitude, atteint grâce à la satisfaction de tous les désirs et besoins humains par l'abondance technique.",
+        "D": "Une maladie psychologique rare, qui affecte uniquement les individus incapables de s'adapter aux exigences de la société moderne et technologique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La \"Reformulation du sujet\" invite à considérer si la technique est un \"leurre\". Dans ce contexte, un leurre est :",
+      "réponses": {
+        "A": "Une véritable solution à tous les problèmes humains, offrant un chemin direct et sans ambiguïté vers un bonheur durable et universel.",
+        "B": "Une illusion ou une fausse promesse qui, en masquant d'autres formes de difficultés, donne l'impression de résoudre la misère sans y parvenir réellement.",
+        "C": "Un outil neutre, dont l'efficacité dépend entièrement de l'usage que l'homme en fait, sans aucune influence inhérente sur sa condition morale ou spirituelle.",
+        "D": "Un signe de la sagesse humaine, capable de créer des artifices pour améliorer la perception de la réalité, sans que cela n'ait d'impact sur la vérité des faits."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Selon Un Argument , le progrès technique a conféré à l'homme un pouvoir \"inédit\" sur la nature. Ce pouvoir se manifeste par :",
+      "réponses": {
+        "A": "Une soumission totale de l'homme aux caprices et aux forces dévastatrices de l'environnement naturel, sans aucune capacité de résistance ou d'adaptation.",
+        "B": "Une transformation radicale de la nature, qui a perdu toute sa beauté et sa diversité en raison des interventions humaines.",
+        "C": "La capacité de l'homme à se protéger des aléas naturels (maladies, famines) et à dominer son environnement grâce à des innovations spécifiques.",
+        "D": "Un retour à un état de pure contemplation de la nature, où l'homme renonce à toute action ou transformation de son environnement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel philosophe affirme que le but de la science et de la technique est de \"nous rendre comme maîtres et possesseurs de la nature\" ?",
+      "réponses": {
+        "A": "Francis Bacon, pour son empirisme et sa vision de la science comme instrument de domination de la nature.",
+        "B": "Baruch Spinoza, pour sa philosophie de l'immanence et l'idée que l'homme doit suivre l'ordre de la nature plutôt que de la dominer.",
+        "C": "René Descartes, dans son Discours de la méthode, exprimant une vision anthropocentrique de la technique au service de l'homme.",
+        "D": "Friedrich Nietzsche, pour sa critique de la volonté de puissance et son appel à dépasser la morale traditionnelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La citation de René Descartes, \"nous rendre comme maîtres et possesseurs de la nature\", signifie principalement que :",
+      "réponses": {
+        "A": "L'homme doit se soumettre à la nature et accepter ses limites, renonçant à toute tentative de la transformer ou de la contrôler.",
+        "B": "La technique permet à l'homme d'acquérir une connaissance purement contemplative de la nature, sans aucune application pratique ou intervention active.",
+        "C": "La science et la technique ont pour objectif de donner à l'homme le pouvoir de comprendre, de manipuler et de maîtriser les forces naturelles pour son propre bénéfice.",
+        "D": "La maîtrise de la nature est une illusion, car l'homme reste fondamentalement impuissant face aux forces cosmiques et aux lois universelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Un autre Argument met en évidence que le progrès technique améliore considérablement les conditions de vie de l'homme par :",
+      "réponses": {
+        "A": "Une augmentation des conflits sociaux et une détérioration de la santé publique due à la pollution industrielle et aux avancées médicales limitées.",
+        "B": "Une production massive de biens, une meilleure hygiène, une espérance de vie accrue et un accès facilité à l'information et à l'éducation.",
+        "C": "Une réduction des échanges entre les peuples et une diminution drastique des libertés individuelles en raison de la surveillance technologique généralisée.",
+        "D": "Un retour à des modes de vie primitifs, où le confort matériel est sacrifié au profit d'une spiritualité plus profonde et d'une connexion plus forte avec la nature."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel philosophe mentionne l'utilisation de la technologie pour obtenir la \"cohésion des forces sociales\" dans L'Homme unidimensionnel ?",
+      "réponses": {
+        "A": "Jean-Jacques Rousseau, pour sa critique de la société civilisée et l'éloge de l'état de nature comme source de liberté originelle.",
+        "B": "Max Horkheimer, pour son analyse de la raison instrumentale et de la dialectique de la modernisation dans l'école de Francfort.",
+        "C": "Herbert Marcuse, critiquant la société industrielle avancée où la technologie engendre un conformisme et une fausse liberté en offrant un confort matériel.",
+        "D": "Jürgen Habermas, pour sa théorie de l'agir communicationnel et sa défense de la raison critique dans les sociétés démocratiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La problématique du sujet se demande si le progrès technique, au lieu d'éradiquer la misère, ne pourrait pas \"contribuer à une nouvelle forme d'aliénation\". Cela implique que :",
+      "réponses": {
+        "A": "L'aliénation est une condition inévitable de l'existence humaine, indépendamment de tout développement technique ou social.",
+        "B": "Le progrès technique est toujours et uniquement un facteur de libération et d'émancipation pour l'individu et la société.",
+        "C": "Le progrès technique pourrait créer des dépendances ou des contraintes subtiles qui, malgré l'apparence de bien-être, nuisent à l'autonomie et au sens de l'existence humaine.",
+        "D": "La misère humaine est un concept purement matériel, qui ne peut être affecté par des dimensions psychologiques, sociales ou spirituelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "L'explication de l'Argument 1 souligne que l'homme a appris à se protéger et à dominer son environnement grâce à :",
+      "réponses": {
+        "A": "Une simple adaptation génétique aux conditions climatiques et aux maladies, sans aucune intervention technologique ou scientifique.",
+        "B": "La médecine, l'agriculture moderne et les infrastructures techniques, qui ont permis de contrôler les aléas naturels et d'améliorer la survie.",
+        "C": "Une prière constante et une foi inébranlable dans des forces surnaturelles, qui le protègent de toute catastrophe naturelle ou maladie.",
+        "D": "Un retour à un mode de vie de chasseur-cueilleur, abandonnant toutes les formes de technologie et de civilisation avancée."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Selon Herbert Marcuse, la \"cohésion des forces sociales\" obtenue par la technologie, plutôt que la terreur, suggère que :",
+      "réponses": {
+        "A": "La technologie est un instrument de domination douce, qui intègre les individus dans le système en leur offrant un confort et des divertissements, les rendant conformistes.",
+        "B": "La terreur est le seul moyen efficace pour maintenir l'ordre social, et la technologie ne peut en aucun cas la remplacer ou la suppléer.",
+        "C": "La technologie est un moyen de renforcer la conscience critique des individus et de les pousser à se rebeller contre les systèmes de pouvoir établis.",
+        "D": "La cohésion sociale est un phénomène purement spontané, qui ne nécessite aucune intervention technologique ou politique pour se maintenir."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Le fait que le progrès technique promette un avenir meilleur avec \"moins de souffrances, plus de confort et une vie prolongée\" est une illustration de sa contribution au bonheur de l'humanité en agissant sur :",
+      "réponses": {
+        "A": "Les dimensions purement spirituelles de l'existence, sans aucun impact sur le corps ou les conditions matérielles de vie.",
+        "B": "Les aspects négatifs de la condition humaine (souffrance, durée de vie limitée) et en augmentant le bien-être matériel et physique.",
+        "C": "La capacité de l'homme à accepter la misère comme une fatalité inévitable, sans chercher à la combattre ou à l'améliorer.",
+        "D": "La seule production de biens de luxe, sans s'intéresser aux besoins fondamentaux ou à la qualité de vie de la majorité des individus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'introduction indique que, malgré les avancées techniques, la misère sous diverses formes (matérielle, sociale, morale, spirituelle) semble toujours exister, ce qui pose une contradiction.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "René Descartes, dans le Discours de la méthode, soutient que la science et la technique ont pour objectif de libérer l'homme de sa soumission à la nature en le rendant maître de son environnement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "La problématique du sujet suggère que la misère humaine peut être réduite à ses seules dimensions matérielles, et que la technique ne peut pas entraîner de nouvelles formes d'aliénation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Herbert Marcuse, dans L'Homme unidimensionnel, perçoit la technologie comme un facteur de confort et de cohésion sociale, mais dans une perspective critique d'une société de contrôle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Le progrès technique, par l'amélioration de l'hygiène et l'augmentation de l'espérance de vie, contribue directement à l'amélioration des conditions de vie humaines.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La reformulation du sujet invite à se demander si la technique ne serait qu'un leurre, masquant d'autres formes de misère, ce qui interroge sa capacité à apporter un bonheur plein.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'Argument sur le pouvoir de l'homme sur la nature implique que l'homme est désormais totalement indépendant des aléas naturels et n'a plus besoin de se protéger contre eux.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La révolution industrielle a marqué une accélération fulgurante des innovations techniques, promettant un avenir meilleur pour l'humanité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

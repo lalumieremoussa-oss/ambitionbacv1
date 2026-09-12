@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+
+        <div id="quizForm" class="tex2jax_process"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data =
+            [
+                {
+                    "ex": "Limites aux bornes - Asymptotes",
+                    "q": "Si $\\lim_{x \\to a} f(x) = \\pm\\infty$, quelle est l'interprétation graphique pour la courbe $(C_f)$ ?",
+                    "options": {
+                        "A": "La droite d'équation $y = a$ est une asymptote horizontale",
+                        "B": "La droite d'équation $x = a$ est une asymptote verticale",
+                        "C": "La courbe admet une branche parabolique",
+                        "D": "La droite d'équation $y = x$ est une asymptote oblique"
+                    },
+                    "r": "B"
+                },
+                {
+                    "ex": "Limites aux bornes - Calcul",
+                    "q": "Pour la fonction $f(x) = \\frac{x^2 - 7}{x - 4}$, quelle est la limite à droite de 4 ($x \\to 4^+$) ?",
+                    "options": {
+                        "A": "$-\\infty$",
+                        "B": "$+\\infty$",
+                        "C": "9",
+                        "D": "0"
+                    },
+                    "r": "B"
+                },
+                {
+                    "ex": "Limites aux bornes - Signe",
+                    "q": "Quelle est la valeur de $\\lim_{x \\to 4^-} \\frac{1}{x - 4}$ ?",
+                    "options": {
+                        "A": "$+\\infty$",
+                        "B": "$0$",
+                        "C": "$-\\infty$",
+                        "D": "$4$"
+                    },
+                    "r": "C"
+                },
+                {
+                    "ex": "Limites aux bornes - Produit",
+                    "q": "Pour $f(x) = \\frac{-2x + 3}{3x - 9}$ en $a = 3$, pourquoi $\\lim_{x \\to 3^-} f(x) = +\\infty$ ?",
+                    "options": {
+                        "A": "Car c'est le produit de deux limites positives",
+                        "B": "Car le numérateur tend vers 0",
+                        "C": "Car c'est le produit de deux limites négatives ($-3$ et $-\\infty$)",
+                        "D": "Car le dénominateur est toujours positif"
+                    },
+                    "r": "C"
+                },
+                {
+                    "ex": "Forme Indéterminée",
+                    "q": "Quelle forme obtient-on par remplacement direct dans $\\lim_{x \\to 0} \\frac{x^2 + x}{x}$ ?",
+                    "options": {
+                        "A": "$\\frac{\\infty}{\\infty}$",
+                        "B": "$0 \\times \\infty$",
+                        "C": "$\\frac{0}{0}$",
+                        "D": "$\\infty - \\infty$"
+                    },
+                    "r": "C"
+                },
+                {
+                    "ex": "Méthode de Levée d'Indétermination",
+                    "q": "Quelle est la première étape pour calculer $\\lim_{x \\to 0} \\frac{x^2 + x}{x}$ ?",
+                    "options": {
+                        "A": "Calculer le discriminant $\\Delta$",
+                        "B": "Factoriser le numérateur par $x$",
+                        "C": "Multiplier par la quantité conjuguée",
+                        "D": "Utiliser la règle de l'hôpital"
+                    },
+                    "r": "B"
+                },
+                {
+                    "ex": "Factorisation et Racines",
+                    "q": "Si le numérateur $x^2 + 5x + 6$ a pour racines $-3$ et $-2$, sa forme factorisée est :",
+                    "options": {
+                        "A": "$(x-3)(x-2)$",
+                        "B": "$(x+3)(x+2)$",
+                        "C": "$(x+3)(x-2)$",
+                        "D": "$(x-3)(x+2)$"
+                    },
+                    "r": "B"
+                },
+                {
+                    "ex": "Calcul de Limite finie",
+                    "q": "Calculer $\\lim_{x \\to -3} \\frac{x^2+5x+6}{x+3}$ après simplification.",
+                    "options": {
+                        "A": "$0$",
+                        "B": "$1$",
+                        "C": "$-1$",
+                        "D": "$-5$"
+                    },
+                    "r": "C"
+                },
+                {
+                    "ex": "Identités Remarquables",
+                    "q": "Quelle est la factorisation de $x^2 - 9$ utilisée pour calculer la limite en $a=3$ ?",
+                    "options": {
+                        "A": "$(x-3)^2$",
+                        "B": "$(x+3)^2$",
+                        "C": "$(x-3)(x+3)$",
+                        "D": "$x(x-9)$"
+                    },
+                    "r": "C"
+                },
+                {
+                    "ex": "Synthèse - Limite Rationnelle",
+                    "q": "Quelle est la valeur de $\\lim_{x \\to 3} \\frac{x^2-x-6}{x^2-9}$ ?",
+                    "options": {
+                        "A": "$\\frac{5}{6}$",
+                        "B": "$0$",
+                        "C": "$+\\infty$",
+                        "D": "$\\frac{1}{3}$"
+                    },
+                    "r": "A"
+                }
+            ]
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,365 @@
+{
+  "title": "Quiz Allemand 1 - Salutations et Présentation",
+  "id": "DE05_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la traduction de : \"Comment vas-tu ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Woher kommst du?",
+        "B": "Wie geht es Ihnen?",
+        "C": "Wie geht es dir?",
+        "D": "Was machst du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse correcte à \"Wie alt bist du?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich habe 15 Jahre.",
+        "B": "Ich mache 15.",
+        "C": "Ich wohne 15.",
+        "D": "Ich bin 15."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Traduisez l'expression : \"Ravi de vous rencontrer.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schön dich zu sehen.",
+        "B": "Wie geht es dir?",
+        "C": "Freut mich, dich kennenzulernen.",
+        "D": "Woher kommst du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle question signifie : \"Où habites-tu ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Woher kommst du?",
+        "B": "Wo wohnst du?",
+        "C": "Wann bist du geboren?",
+        "D": "Was magst du?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Complétez la traduction : \"Je suis de Bouaké.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich wohne in Bouaké.",
+        "B": "Ich komme nach Bouaké.",
+        "C": "Ich bin zu Bouaké.",
+        "D": "Ich komme aus Bouaké."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est la traduction de : \"Quand es-tu né(e) ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie alt bist du?",
+        "B": "Wo bist du geboren?",
+        "C": "Wann bist du geboren?",
+        "D": "Wann geboren du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Choisissez la traduction de \"J'aime lire.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich liebe Musik.",
+        "B": "Ich bin gut im Lesen.",
+        "C": "Ich lese gern.",
+        "D": "Ich bin lesen."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la traduction de l'expression pour prendre congé : \"À plus tard\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Auf Wiedersehen",
+        "B": "Tschüss",
+        "C": "Danke",
+        "D": "Bis später"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Que signifie l'expression \"Ich bin 1998 geboren\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'ai 1998 ans.",
+        "B": "Je suis né à 1998.",
+        "C": "J'habite à 1998.",
+        "D": "Je suis né(e) en 1998."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quel est le sens de : \"Ich bin gut in Deutsch.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'aime l'allemand.",
+        "B": "Je n'aime pas l'allemand.",
+        "C": "Je suis professeur d'allemand.",
+        "D": "Je suis bon(ne) en allemand."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Je vais bien, merci.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bin",
+        "schlecht",
+        "gut",
+        "danke",
+        "du",
+        "Ich",
+        "ist"
+      ],
+      "bonne réponse": "Ich bin gut, danke"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Je vis à Yamoussoukro.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "wohne",
+        "Ich",
+        "mache",
+        "in",
+        "aus",
+        "bei",
+        "Yamoussoukro",
+        "du"
+      ],
+      "bonne réponse": "Ich wohne in Yamoussoukro"
+    },
+    "question n°13": {
+      "question": "Complétez le dialogue : A: Freut mich. B: Freut mich ___________.",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Freut",
+        "mich",
+        "dich",
+        "auch",
+        "bin",
+        "zu",
+        "ist",
+        "wohne"
+      ],
+      "bonne réponse": "Freut mich auch"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"J'ai 17 ans.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bin",
+        "17",
+        "alt",
+        "Ich",
+        "habe",
+        "du",
+        "Jahre",
+        "ist"
+      ],
+      "bonne réponse": "Ich bin 17 Jahre alt"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Je viens de Tiassalé.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "aus",
+        "Ich",
+        "komme",
+        "wohne",
+        "zu",
+        "Tiassalé",
+        "bin",
+        "du"
+      ],
+      "bonne réponse": "Ich komme aus Tiassalé"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"J'adore la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Musik",
+        "Ich",
+        "mag",
+        "zu",
+        "liebe",
+        "lesen",
+        "bin",
+        "ist"
+      ],
+      "bonne réponse": "Ich liebe Musik"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Je suis passionné(e) par le football.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bin",
+        "von",
+        "Ich",
+        "Fußball",
+        "ist",
+        "begeistert",
+        "liebe",
+        "Deutsch"
+      ],
+      "bonne réponse": "Ich bin begeistert von Fußball"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"De rien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bitte",
+        "Gern",
+        "bin",
+        "gut",
+        "geschehen",
+        "mache",
+        "ist",
+        "sehen"
+      ],
+      "bonne réponse": "Gern geschehen"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"À bientôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Bis",
+        "bin",
+        "später",
+        "zu",
+        "morgen",
+        "bald",
+        "wohne",
+        "ist"
+      ],
+      "bonne réponse": "Bis bald"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Où es-tu né(e) ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "du",
+        "bist",
+        "geboren",
+        "Wann",
+        "sind",
+        "Wo",
+        "mache",
+        "wohnen"
+      ],
+      "bonne réponse": "Wo bist du geboren?"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"J'aime faire du sport.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ich",
+        "mache",
+        "gern",
+        "Sport",
+        "zu",
+        "lesen",
+        "Musik",
+        "bin"
+      ],
+      "bonne réponse": "Ich mache gern Sport"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Quel âge as-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bist",
+        "Wie",
+        "du",
+        "alt",
+        "machst",
+        "was",
+        "ist",
+        "bin"
+      ],
+      "bonne réponse": "Wie alt bist du?"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Je suis né(e) le 29 février.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "geboren",
+        "Ich",
+        "am",
+        "bin",
+        "Februar",
+        "29.",
+        "war",
+        "im"
+      ],
+      "bonne réponse": "Ich bin am 29. Februar geboren"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Et toi ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "dir",
+        "machst",
+        "Und",
+        "bist",
+        "wohnst",
+        "ist",
+        "aus",
+        "bin"
+      ],
+      "bonne réponse": "Und dir?"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"J'habite en ville.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "wohne",
+        "Ich",
+        "Stadt",
+        "der",
+        "Dorf",
+        "in",
+        "bin",
+        "mache"
+      ],
+      "bonne réponse": "Ich wohne in der Stadt"
+    },
+    "question n°26": {
+      "question": "Quelle est la question pour demander l'origine de quelqu'un ?",
+      "type": "short_answer",
+      "bonne réponse": "Woher kommst du?"
+    },
+    "question n°27": {
+      "question": "Quel verbe utilise-t-on pour dire son âge en allemand ? (forme infinitive)",
+      "type": "short_answer",
+      "bonne réponse": "Sein"
+    },
+    "question n°28": {
+      "question": "Traduisez le mot de salutation qui signifie \"Au revoir\".",
+      "type": "short_answer",
+      "bonne réponse": "Auf Wiedersehen"
+    },
+    "question n°29": {
+      "question": "Quel est le mot allemand pour \"temps libre\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Freizeit"
+    },
+    "question n°30": {
+      "question": "Traduisez \"Comment allez-vous ?\" (formel).",
+      "type": "short_answer",
+      "bonne réponse": "Wie geht es Ihnen?"
+    }
+  }
+}

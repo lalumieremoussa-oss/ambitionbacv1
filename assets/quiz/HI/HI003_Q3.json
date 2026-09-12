@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "HI003_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Que signifie l’acronyme BRICS ?",
+      "réponses": {
+        "A": "Bloc Réformiste International pour la Coopération Sud-Sud",
+        "B": "Brésil, Russie, Inde, Chine, Afrique du Sud",
+        "C": "Banque Régionale pour l’Investissement Commercial Sud",
+        "D": "Bloc Révolutionnaire Islamo-Chrétien du Sud"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi les BRICS représentent-ils une alternative au leadership américain ?",
+      "réponses": {
+        "A": "Ils cherchent à rejoindre l’OTAN",
+        "B": "Ils soutiennent les interventions américaines",
+        "C": "Ils contestent l’hégémonie du dollar et veulent un monde multipolaire",
+        "D": "Ils sont membres permanents du G7"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle banque a été créée par les BRICS pour concurrencer la Banque mondiale ?",
+      "réponses": {
+        "A": "Banque Asiatique de Développement",
+        "B": "Nouvelle Banque de Développement (NDB)",
+        "C": "Banque Populaire Internationale",
+        "D": "Banque Mondiale d’Afrique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle est la monnaie d’échange que les BRICS veulent promouvoir pour remplacer le dollar ?",
+      "réponses": {
+        "A": "Le yuan uniquement",
+        "B": "Une monnaie commune des BRICS (en projet)",
+        "C": "Le bitcoin",
+        "D": "L’euro"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quels objectifs géopolitiques visent les BRICS ?",
+      "réponses": {
+        "A": "Soutenir le modèle occidental",
+        "B": "Renforcer la souveraineté des États et limiter l’ingérence occidentale",
+        "C": "Abandonner le droit de véto à l’ONU",
+        "D": "S’aligner sur l’OTAN"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle puissance économique mondiale représentent les BRICS en termes de PIB global ?",
+      "réponses": {
+        "A": "Moins que les pays du G7",
+        "B": "Plus que le G7 en parité de pouvoir d’achat",
+        "C": "Autant que l’Afrique seule",
+        "D": "Un tiers de l’Asie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "En quoi les BRICS concurrencent-ils les États-Unis en Afrique ?",
+      "réponses": {
+        "A": "En soutenant les sanctions américaines",
+        "B": "En imposant la présence militaire",
+        "C": "Par des investissements massifs dans les infrastructures et l'énergie",
+        "D": "En bloquant l’aide humanitaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel sommet régulier renforce la coordination politique des BRICS ?",
+      "réponses": {
+        "A": "G20",
+        "B": "Conférence de Paris sur le climat",
+        "C": "Le Sommet annuel des BRICS",
+        "D": "COP29"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel pays parmi les BRICS joue un rôle central dans la stratégie numérique et technologique ?",
+      "réponses": {
+        "A": "Le Brésil",
+        "B": "La Chine",
+        "C": "L’Afrique du Sud",
+        "D": "L’Inde"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle critique majeure les BRICS formulent-ils à l’encontre de l’ONU ?",
+      "réponses": {
+        "A": "Trop d’aides aux pays pauvres",
+        "B": "Le Conseil de sécurité est dominé par l’Occident et bloque les réformes",
+        "C": "L’ONU soutient trop les BRICS",
+        "D": "Les USA n’y ont aucun droit de véto"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Pourquoi l’Union Européenne peut-elle être vue comme un contrepoids aux États-Unis ?",
+      "réponses": {
+        "A": "Elle n’a pas de monnaie propre",
+        "B": "Elle est dépendante du FMI",
+        "C": "Elle dispose d’un marché économique très puissant et d’une monnaie forte, l’euro",
+        "D": "Elle suit les directives américaines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi l’euro s’oppose-t-il au dollar ?",
+      "réponses": {
+        "A": "Il est plus utilisé pour les transactions pétrolières",
+        "B": "Il est imposé dans toute l’Afrique",
+        "C": "C’est une monnaie de réserve mondiale utilisée dans de nombreux échanges",
+        "D": "Il est convertible uniquement en dollars"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel domaine démontre l’autonomie stratégique croissante de l’UE face aux États-Unis ?",
+      "réponses": {
+        "A": "Le sport",
+        "B": "La politique environnementale et numérique (RGPD)",
+        "C": "Les guerres nucléaires",
+        "D": "La colonisation spatiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle politique commune permet à l’UE de s’émanciper économiquement des USA ?",
+      "réponses": {
+        "A": "La PAC (Politique Agricole Commune)",
+        "B": "Le Pacte Vert pour l’Europe (Green Deal)",
+        "C": "L’Accord de Bretton Woods",
+        "D": "L’Initiative Belt and Road"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle crise a révélé les divisions entre l’UE et les États-Unis ?",
+      "réponses": {
+        "A": "La guerre de Sécession",
+        "B": "La guerre en Irak (2003), refus de la France et de l’Allemagne d’y participer",
+        "C": "La crise du Brexit",
+        "D": "Le 11 septembre 2001"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la position de la Russie sur la domination du dollar ?",
+      "réponses": {
+        "A": "Elle propose de renforcer le dollar",
+        "B": "Elle interdit le rouble à l’international",
+        "C": "Elle cherche à le contourner en utilisant le yuan et les monnaies locales",
+        "D": "Elle le soutient dans le G7"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle initiative énergétique de la Russie renforce son influence mondiale ?",
+      "réponses": {
+        "A": "Le barrage d’Assouan",
+        "B": "Le pipeline Transafricain",
+        "C": "Le gazoduc Nord Stream vers l’Europe",
+        "D": "Le canal de Suez"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel conflit a montré l’opposition directe de la Russie à l’OTAN et aux États-Unis ?",
+      "réponses": {
+        "A": "Le conflit au Mali",
+        "B": "Le Brexit",
+        "C": "L’invasion de l’Ukraine en 2022",
+        "D": "La guerre du Golfe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel est le rôle de la Russie dans les BRICS ?",
+      "réponses": {
+        "A": "Elle est un membre passif",
+        "B": "Elle finance seul le groupe",
+        "C": "Elle joue un rôle militaire et énergétique central",
+        "D": "Elle veut quitter les BRICS"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Pourquoi la Russie est-elle considérée comme une puissance de rupture dans l’ordre mondial ?",
+      "réponses": {
+        "A": "Parce qu’elle est candidate à l’UE",
+        "B": "Parce qu’elle rejette l’unipolarité américaine et propose un monde multipolaire",
+        "C": "Parce qu’elle soutient l’OTAN",
+        "D": "Parce qu’elle dépend du dollar"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

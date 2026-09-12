@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "Sur la voie 1 de l'oscilloscope, on visualise :",
+                "img": "rlc_tp1.png",
+                "options": {
+                    "A": "La tension du GBF",
+                    "B": "La tension du condensateur",
+                    "C": "La tension $u_R$",
+                    "D": "La tension de la bobine"
+                },
+                "r": "C"
+            },
+            {
+                "q": "Sur la voie 2 de l'oscilloscope, on visualise :",
+                "img": "rlc_tp1.png",
+                "options": {
+                    "A": "La tension du dipôle RLC",
+                    "B": "La tension de la bobine",
+                    "C": "L'intensité",
+                    "D": "La tension du condensateur"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Si $1\\ \\text{div} = 1\\ \\text{ms}$ alors T = :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$0,25\\ \\text{ms}$",
+                    "B": "$4\\ \\text{ms}$",
+                    "C": "$4\\ \\text{s}$",
+                    "D": "$0,004\\ \\text{s}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "La pulsation vaut :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$250\\pi$",
+                    "B": "$500\\pi$",
+                    "C": "$1000\\pi$",
+                    "D": "$2000\\pi$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Si $1\\ \\text{div} = 0,1\\ \\text{V}$, alors $u_{Rmax}$ vaut :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$0,2\\ \\text{V}$",
+                    "B": "$2\\ \\text{V}$",
+                    "C": "$0,1\\ \\text{V}$",
+                    "D": "$0,5\\ \\text{V}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Si $1\\ \\text{div} = 0,25\\ \\text{V}$, alors $u_{max}$ vaut :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$1\\ \\text{V}$",
+                    "B": "$0,25\\ \\text{V}$",
+                    "C": "$4\\ \\text{V}$",
+                    "D": "$0,5\\ \\text{V}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "L'amplitude de l'intensité du circuit est donnée par :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$I_{max} = \\frac{U_{Rmax}}{R}$",
+                    "B": "$I_{max} = U_{Rmax} \\cdot R$",
+                    "C": "$I_{max} = \\frac{u_{max}}{R}$",
+                    "D": "$I_{max} = U_{max} \\cdot R$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Si $R = 4\\ \\Omega$, alors $I_{max}$ vaut :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$0,8\\ \\text{A}$",
+                    "B": "$0,05\\ \\text{A}$",
+                    "C": "$20\\ \\text{A}$",
+                    "D": "$5\\ \\text{A}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "L'impédance est définie par :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$Z = \\frac{U_{max}}{I_{max}}$",
+                    "B": "$Z = \\frac{U_{Rmax}}{I_{max}}$",
+                    "C": "$Z = R + (L\\omega - \\frac{1}{C\\omega})$",
+                    "D": "$Z = U_{Rmax} \\cdot I_{max}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Si $u_{max} = 1\\ \\text{V}$ et $i_{max} = 0,05\\ \\text{A}$, alors $Z$ vaut :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$20\\ \\Omega$",
+                    "B": "$0,05\\ \\Omega$",
+                    "C": "$50\\ \\Omega$",
+                    "D": "$0,02\\ \\Omega$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "L'expression de $Z$ est :",
+                "options": {
+                    "A": "$Z = \\sqrt{R^2 + (L\\omega - \\frac{1}{C\\omega})^2}$",
+                    "B": "$Z = R + L\\omega + \\frac{1}{C\\omega}$",
+                    "C": "$Z = \\sqrt{R^2 + (L\\omega + \\frac{1}{C\\omega})^2}$",
+                    "D": "$Z = \\sqrt{R^2 + (L\\omega)^2} + \\frac{1}{C\\omega}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Pour calculer L en passant par Z on exprime la réactance $X=|L\\omega - \\frac{1}{C\\omega}|$ :",
+                "options": {
+                    "A": "$X = \\sqrt{Z^2 - R^2}$",
+                    "B": "$X = Z^2 - R^2$",
+                    "C": "$X = \\sqrt{Z^2 + R^2}$",
+                    "D": "$X = Z - R$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Si $Z = 20\\ \\Omega$ et $R = 4\\ \\Omega$, alors $X$ vaut :",
+                "options": {
+                    "A": "$19,6\\ \\Omega$",
+                    "B": "$20,4\\ \\Omega$",
+                    "C": "$16\\ \\Omega$",
+                    "D": "$24\\ \\Omega$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Apres la réactance, on determine $\\frac{1}{C\\omega}$. Elle vaut :",
+                "options": {
+                    "A": "$79,6\\ \\Omega$",
+                    "B": "$250\\ \\Omega$",
+                    "C": "$39,8\\ \\Omega$",
+                    "D": "$12,5\\ \\Omega$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Expression de X sans valeur absolue: si le circuit est inductif, $X=L\\omega - \\frac{1}{C\\omega}$ mais si le circuit est capacitif $X=\\frac{1}{C\\omega} - L\\omega$ ",
+                "options": {
+                    "A": "$Vrai$",
+                    "B": "$Faux$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Si $X = 19,6$ et $\\frac{1}{C\\omega} = 79,6$, alors $L\\omega$ vaut :",
+                "img": "rlc_tp2.png",
+                "options": {
+                    "A": "$99,2$",
+                    "B": "$60$",
+                    "C": "$19,6$",
+                    "D": "$79,6$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "L'inductance vaut environ :",
+                "options": {
+                    "A": "$0,063\\ \\text{H}$",
+                    "B": "$0,126\\ \\text{H}$",
+                    "C": "$0,032\\ \\text{H}$",
+                    "D": "$0,25\\ \\text{H}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Le circuit est :",
+                "img": "rlc_tp3.png",
+                "options": {
+                    "A": "Inductif",
+                    "B": "Capacitif",
+                    "C": "À la résonance",
+                    "D": "Résistif pur"
+                },
+                "r": "C"
+            },
+            {
+                "q": "La condition de résonance est :",
+                "img": "rlc_tp3.png",
+                "options": {
+                    "A": "$\\omega_0 = \\frac{1}{\\sqrt{LC}}$",
+                    "B": "$\\omega_0 = \\sqrt{LC}$",
+                    "C": "$\\omega_0 = \\frac{1}{LC}$",
+                    "D": "$\\omega_0 = LC$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "À la résonance avec $C = 8\\ \\mu F$, $L$ vaut :",
+                "img": "rlc_tp3.png",
+                "options": {
+                    "A": "$0,5\\ \\text{H}$",
+                    "B": "$0,25\\ \\text{H}$",
+                    "C": "$0,125\\ \\text{H}$",
+                    "D": "$0,063\\ \\text{H}$"
+                },
+                "r": "C"
+            }
+        ];
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,336 @@
+{
+  "title": "Quiz 1",
+  "id": "AN02_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Good evening.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bonne nuit.",
+        "B": "Au revoir.",
+        "C": "Bonjour (le matin).",
+        "D": "Bonsoir."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Bonjour, mon ami.\" (Utilisé le matin)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good afternoon, my friend.",
+        "B": "Good morning, my friend.",
+        "C": "Hello, my friend.",
+        "D": "Good night, my friend."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel est le sens de l'expression \"What is your name?\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Quelle est ta profession ?",
+        "B": "Quel est ton nom ?",
+        "C": "Comment vas-tu ?",
+        "D": "Où es-tu ?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Je m'appelle Aïcha.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am Aïcha.",
+        "B": "My name is Aïcha.",
+        "C": "A et B sont correctes.",
+        "D": "I have Aïcha."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle salutation utiliseriez-vous pour souhaiter une bonne nuit avant de dormir ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good evening",
+        "B": "Good afternoon",
+        "C": "Good night",
+        "D": "Good morning"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Bonjour, Madame.\" (Utilisé l'après-midi)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good morning, Madam.",
+        "B": "Good afternoon, Madam.",
+        "C": "Good evening, Madam.",
+        "D": "Good night, Madam."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Le mot \"Hi\" en anglais signifie :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Au revoir.",
+        "B": "Bonne nuit.",
+        "C": "Comment allez-vous ?",
+        "D": "Salut."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Comment dit-on \"Bonsoir, professeur\" en anglais ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good morning, teacher.",
+        "B": "Good afternoon, teacher.",
+        "C": "Good evening, teacher.",
+        "D": "Good night, teacher."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Complétez : \"Hello, my name _____ Siata.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "have",
+        "B": "are",
+        "C": "am",
+        "D": "is"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quel est le pronom utilisé pour se présenter avec \"I am...\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Tu",
+        "B": "Il",
+        "C": "Nous",
+        "D": "Je"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Bonjour, professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hello",
+        "is",
+        "teacher",
+        "my"
+      ],
+      "bonne réponse": "Hello teacher"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Mon nom est Konan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "is",
+        "the",
+        "Konan",
+        "I",
+        "am",
+        "name",
+        "book"
+      ],
+      "bonne réponse": "My name is Konan"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Je suis Sylvain.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "Sylvain",
+        "is",
+        "am",
+        "name",
+        "she"
+      ],
+      "bonne réponse": "I am Sylvain"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Bon après-midi, Monsieur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "night",
+        "Sir",
+        "morning",
+        "afternoon",
+        "is"
+      ],
+      "bonne réponse": "Good afternoon Sir"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Salut, je m'appelle Soumahoro.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hi",
+        "the",
+        "my",
+        "am",
+        "name",
+        "is",
+        "Soumahoro",
+        "morning",
+        "I",
+        "book"
+      ],
+      "bonne réponse": "Hi my name is Soumahoro"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Bonsoir, Madame.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "my",
+        "Madam",
+        "is",
+        "evening",
+        "name"
+      ],
+      "bonne réponse": "Good evening Madam"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Bonne nuit, mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "is",
+        "my",
+        "friend",
+        "at",
+        "home",
+        "the",
+        "night"
+      ],
+      "bonne réponse": "Good night my friend"
+    },
+    "question n°18": {
+      "question": "Complétez : \"A: What is your name? B: My _____ is Konan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "am",
+        "have",
+        "name",
+        "is",
+        "teacher"
+      ],
+      "bonne réponse": "My name is"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Salut, Aïcha.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Aïcha",
+        "is",
+        "my",
+        "Hello"
+      ],
+      "bonne réponse": "Hello Aïcha"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Bonjour, Monsieur.\" (le matin)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "Sir",
+        "morning",
+        "evening"
+      ],
+      "bonne réponse": "Good morning"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Quel est ton nom ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "at",
+        "your",
+        "is",
+        "name",
+        "I",
+        "am",
+        "home"
+      ],
+      "bonne réponse": "What is your name"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Je suis Soumahoro.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "am",
+        "Soumahoro",
+        "name"
+      ],
+      "bonne réponse": "I am Soumahoro"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Bon après-midi.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "morning",
+        "afternoon",
+        "evening"
+      ],
+      "bonne réponse": "Good afternoon"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Salut, professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hi",
+        "my",
+        "teacher",
+        "name"
+      ],
+      "bonne réponse": "Hi teacher"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Mon nom est Sylvain Konan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "is",
+        "name",
+        "Konan",
+        "I",
+        "am",
+        "Sylvain",
+        "the"
+      ],
+      "bonne réponse": "My name is Sylvain Konan"
+    },
+    "question n°26": {
+      "question": "Traduisez le mot \"Salut\" (forme courte et informelle).",
+      "type": "short_answer",
+      "bonne réponse": "Hi"
+    },
+    "question n°27": {
+      "question": "Traduisez l'expression \"Mon nom est\".",
+      "type": "short_answer",
+      "bonne réponse": "My name is"
+    },
+    "question n°28": {
+      "question": "Comment salueriez-vous quelqu'un en début de soirée ?",
+      "type": "short_answer",
+      "bonne réponse": "Good evening"
+    },
+    "question n°29": {
+      "question": "Traduisez le mot \"Bonjour\" (utilisé le matin).",
+      "type": "short_answer",
+      "bonne réponse": "Good morning"
+    },
+    "question n°30": {
+      "question": "Quelle expression signifie \"Quel est ton nom ?\" en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "What is your name"
+    }
+  }
+}

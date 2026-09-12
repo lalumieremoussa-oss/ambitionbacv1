@@ -1,0 +1,2063 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "GE002_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le relief ivoirien favorise-t-il l’agriculture ?",
+      "réponses": {
+        "A": "Parce qu’il est peu accidenté, ce qui permet la création de grandes surfaces agricoles",
+        "B": "Parce qu’il est montagneux et difficile d’accès, ce qui protège les cultures",
+        "C": "Parce qu’il est désertique et évite l’érosion des sols",
+        "D": "Parce qu’il empêche les inondations fréquentes en saison des pluies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Comment les sols et la végétation contribuent-t-ils à l’agriculture ?",
+      "réponses": {
+        "A": "Ils limitent les cultures à cause de leur pauvreté et leur sécheresse",
+        "B": "Ils sont humides, fertiles et variés, ce qui permet la diversification des cultures",
+        "C": "Ils sont très rocheux, donc peu favorables à la culture intensive",
+        "D": "Ils ne sont exploitables que dans les zones forestières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel rôle joue le réseau hydrographique dans l’agriculture ?",
+      "réponses": {
+        "A": "Il empêche l’agriculture en provoquant de fréquentes inondations",
+        "B": "Il est utilisé uniquement pour le tourisme rural",
+        "C": "Il permet l’irrigation des régions moins arrosées",
+        "D": "Il bloque l’expansion des cultures en zone nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Pourquoi la population est-elle un atout pour l’agriculture ivoirienne ?",
+      "réponses": {
+        "A": "Parce qu’elle est très âgée et préfère l’agriculture traditionnelle",
+        "B": "Parce qu’elle est jeune, nombreuse, dynamique et largement rurale",
+        "C": "Parce qu’elle est essentiellement urbaine et peu active dans le secteur agricole",
+        "D": "Parce qu’elle est concentrée dans les régions industrielles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel pourcentage de la population active travaille dans l’agriculture ?",
+      "réponses": {
+        "A": "Environ 57 % de la population active est engagée dans l’agriculture",
+        "B": "Moins de 10 % de la population active est concernée par ce secteur",
+        "C": "Environ 30 % travaille dans les industries agricoles uniquement",
+        "D": "Plus de 80 % est exclusivement employée par les multinationales agricoles"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Pourquoi dit-on que tous les peuples ivoiriens sont tournés vers l’agriculture ?",
+      "réponses": {
+        "A": "Parce qu’ils ont une longue tradition agricole renforcée par la colonisation",
+        "B": "Parce qu’ils ont été formés uniquement pour le secteur minier",
+        "C": "Parce qu’ils ont rejeté les pratiques agricoles traditionnelles",
+        "D": "Parce que l’agriculture ne fait pas partie de leur culture historique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quel rôle l'État joue-t-il dans le développement agricole ?",
+      "réponses": {
+        "A": "Il se désintéresse totalement du secteur agricole au profit des mines",
+        "B": "Il planifie, finance, forme et encadre les projets agricoles",
+        "C": "Il abandonne l’agriculture aux seules coopératives rurales",
+        "D": "Il interdit les cultures modernes pour préserver les traditions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Qu’est-ce que le PNASA ?",
+      "réponses": {
+        "A": "Un organisme de commerce international dédié à l’agroalimentaire",
+        "B": "Une organisation de distribution de pesticides étrangers",
+        "C": "Le Programme National d’Appui aux Structures Agricoles",
+        "D": "Une société privée d’importation de semences"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Que fait l’ANADER pour les paysans ?",
+      "réponses": {
+        "A": "Elle collecte les taxes agricoles dans les zones rurales",
+        "B": "Elle distribue les machines aux exploitants industriels uniquement",
+        "C": "Elle encadre, conseille et soutient les agriculteurs ivoiriens",
+        "D": "Elle vend les terres agricoles aux entreprises étrangères"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le rôle des structures comme l’IRHO, l’IRCC et le CNRA ?",
+      "réponses": {
+        "A": "Elles assurent la sécurité des exploitations agricoles",
+        "B": "Elles réalisent des recherches pour améliorer les productions agricoles",
+        "C": "Elles évaluent les pertes économiques des zones rurales",
+        "D": "Elles surveillent l’utilisation des produits importés"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est l’objectif des GVC en agriculture ?",
+      "réponses": {
+        "A": "Permettre à l’État de contrôler toutes les productions",
+        "B": "Regrouper les paysans pour faciliter la coopération et la productivité",
+        "C": "Installer des grandes surfaces commerciales rurales",
+        "D": "Interdire les cultures vivrières dans les zones forestières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que favorisent les écoles comme l’ESA et l’ERA ?",
+      "réponses": {
+        "A": "L’importation de matériel agricole étranger",
+        "B": "La formation de cadres et de chercheurs dans le secteur agricole",
+        "C": "Le commerce des produits alimentaires importés",
+        "D": "La production industrielle d'engrais chimiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Qu’est-ce qui caractérise l’agriculture traditionnelle ?",
+      "réponses": {
+        "A": "Elle repose sur des techniques rudimentaires et de faibles rendements",
+        "B": "Elle est entièrement automatisée avec des drones agricoles",
+        "C": "Elle est pratiquée uniquement en zone urbaine",
+        "D": "Elle ne concerne que la culture du coton et du cacao"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelles sont les techniques associées à l’agriculture traditionnelle ?",
+      "réponses": {
+        "A": "Usage d’engrais chimiques, irrigation contrôlée et biotechnologies",
+        "B": "Brûlis, jachère, outillage rudimentaire, métayage",
+        "C": "Récolte mécanisée et rotation intensive des cultures",
+        "D": "Exportation par containers et transformation industrielle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Pourquoi dit-on que l’agriculture traditionnelle est peu rentable ?",
+      "réponses": {
+        "A": "Parce qu’elle occupe de petites surfaces avec des moyens archaïques",
+        "B": "Parce qu’elle utilise trop d'engrais chimiques",
+        "C": "Parce qu’elle emploie uniquement des machines étrangères",
+        "D": "Parce qu’elle ne repose que sur la culture du blé"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Qu’est-ce qui caractérise l’agriculture moderne ?",
+      "réponses": {
+        "A": "Utilisation d’engrais, mécanisation, vastes surfaces et production intensive",
+        "B": "Absence totale de produits chimiques pour protéger l’environnement",
+        "C": "Repos complet sur la main-d’œuvre familiale et les dons communautaires",
+        "D": "Refus d’utiliser les résultats de la recherche agronomique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Qui pratique principalement l’agriculture moderne en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les petits producteurs ruraux dans les régions enclavées",
+        "B": "L’État, les entreprises privées et les grands exploitants",
+        "C": "Les jeunes formés dans les centres communautaires",
+        "D": "Les retraités engagés dans les projets associatifs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi l’agriculture moderne est-elle dite 'intensive' ?",
+      "réponses": {
+        "A": "Parce qu’elle maximise les rendements grâce à la technologie et à l’irrigation",
+        "B": "Parce qu’elle repose uniquement sur des plantes naturelles non modifiées",
+        "C": "Parce qu’elle nécessite peu de main-d’œuvre et aucune machine",
+        "D": "Parce qu’elle limite les productions à une seule saison"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quel est l’objectif des politiques de diversification des cultures ?",
+      "réponses": {
+        "A": "Empêcher les paysans de cultiver selon leurs habitudes",
+        "B": "Réduire la dépendance à quelques cultures d’exportation comme le cacao",
+        "C": "Créer des taxes sur les nouvelles cultures introduites",
+        "D": "Favoriser uniquement les cultures industrielles pour l’exportation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Pourquoi peut-on dire que l’agriculture ivoirienne est héritée du passé ?",
+      "réponses": {
+        "A": "Parce que la tradition agricole est ancienne et a été renforcée par la colonisation",
+        "B": "Parce qu’elle a été inventée par les entreprises modernes",
+        "C": "Parce qu’elle a remplacé toutes les activités artisanales",
+        "D": "Parce qu’elle est née avec l’exploitation pétrolière nationale"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "GE002_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Comment l’agriculture ivoirienne participe-t-elle à l’économie nationale ?",
+      "réponses": {
+        "A": "Elle repose uniquement sur les dons alimentaires étrangers",
+        "B": "Elle fournit 20,2 % du PIB et plus de 40 % des recettes d’exportation",
+        "C": "Elle ne sert qu’à l’alimentation des villages éloignés",
+        "D": "Elle est soutenue exclusivement par les ONG internationales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle fiscal de l’agriculture ?",
+      "réponses": {
+        "A": "Elle bénéficie d’exonérations et ne contribue pas à l’État",
+        "B": "Elle ne rapporte que des dons au gouvernement",
+        "C": "Elle rapporte des devises à l’État à travers taxes, impôts et vignettes",
+        "D": "Elle est financée uniquement par les bailleurs de fonds"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel pourcentage d’actifs l’agriculture emploie-t-elle en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Moins de 15 % dans les zones rurales uniquement",
+        "B": "30 % dans les zones industrielles du sud",
+        "C": "Plus de 60 % de la population active ivoirienne",
+        "D": "Près de 80 % des fonctionnaires d’État"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Comment l’agriculture contribue-t-elle à nourrir la population ?",
+      "réponses": {
+        "A": "En important massivement les aliments transformés",
+        "B": "En produisant localement des vivres comme le manioc, le riz, l’igname",
+        "C": "En cultivant uniquement des produits destinés à l’export",
+        "D": "En produisant uniquement des fruits exotiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la relation entre agriculture et industrie ?",
+      "réponses": {
+        "A": "L’agriculture fournit des matières premières aux usines agroalimentaires",
+        "B": "L’agriculture est totalement indépendante du secteur industriel",
+        "C": "L’agriculture remplace les activités industrielles dans les grandes villes",
+        "D": "L’agriculture ne produit que pour les marchés villageois"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "En quoi l’agriculture soutient-elle d’autres secteurs économiques ?",
+      "réponses": {
+        "A": "Elle empêche la croissance du tourisme et des services",
+        "B": "Elle alimente le commerce, l’industrie, les transports et l’exportation",
+        "C": "Elle rend inutile l’importation de produits manufacturés",
+        "D": "Elle remplace les secteurs miniers dans les recettes publiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel est le lien entre agriculture et aménagement du territoire ?",
+      "réponses": {
+        "A": "L’agriculture permet le développement rural par les infrastructures",
+        "B": "L’agriculture crée des tensions foncières en zones urbaines",
+        "C": "L’agriculture empêche la construction de routes modernes",
+        "D": "L’agriculture se pratique uniquement dans les zones industrialisées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel rôle joue le cacao dans l’économie agricole ?",
+      "réponses": {
+        "A": "Il représente plus du tiers des recettes d’exportation du pays",
+        "B": "Il est produit uniquement à des fins touristiques",
+        "C": "Il est réservé aux entreprises européennes installées en zone franche",
+        "D": "Il est en voie d’extinction à cause des faibles rendements"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Pourquoi dit-on que l’agriculture est un moteur de croissance ?",
+      "réponses": {
+        "A": "Elle ne crée pas d’emplois mais attire les investissements étrangers",
+        "B": "Parce qu’elle structure l’économie, crée de l’emploi et génère des revenus",
+        "C": "Parce qu’elle est sous contrôle exclusif des multinationales",
+        "D": "Parce qu’elle remplace l’économie numérique et la finance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle politique a favorisé les cultures vivrières ?",
+      "réponses": {
+        "A": "La politique de transformation numérique en milieu rural",
+        "B": "La politique d’autosuffisance alimentaire menée par l’État",
+        "C": "La fermeture des frontières agricoles aux voisins",
+        "D": "L’importation massive de produits agro-industriels"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le rang mondial de la Côte d’Ivoire en matière de production de cacao ?",
+      "réponses": {
+        "A": "4e producteur africain de cacao",
+        "B": "1er producteur mondial de cacao",
+        "C": "2e producteur mondial après la Chine",
+        "D": "3e producteur africain après le Nigéria et le Ghana"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le rang de la Côte d’Ivoire dans la production mondiale de banane douce ?",
+      "réponses": {
+        "A": "4e producteur mondial et 2e producteur africain",
+        "B": "1er africain et 1er mondial",
+        "C": "3e africain et 10e mondial",
+        "D": "5e africain et 6e mondial"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel est le rang mondial de la Côte d’Ivoire en production de café ?",
+      "réponses": {
+        "A": "13e producteur mondial et 3e producteur africain",
+        "B": "5e producteur mondial et 1er en Afrique",
+        "C": "20e producteur mondial, sans rang africain",
+        "D": "2e mondial juste après la Colombie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quel est le rang africain de la Côte d’Ivoire pour la production de caoutchouc ?",
+      "réponses": {
+        "A": "10e africain sans classement mondial",
+        "B": "1er producteur africain et 3e producteur mondial",
+        "C": "4e africain et 6e mondial",
+        "D": "2e africain et 8e mondial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le rang de la Côte d’Ivoire en production de noix de cajou ?",
+      "réponses": {
+        "A": "2e producteur africain et 6e mondial",
+        "B": "1er producteur africain et 1er producteur mondial",
+        "C": "4e producteur mondial et 9e en Afrique",
+        "D": "6e africain sans rang mondial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la particularité des cultures vivrières ?",
+      "réponses": {
+        "A": "Elles sont destinées à la consommation locale et au marché intérieur",
+        "B": "Elles sont réservées à l’exportation pour générer des devises",
+        "C": "Elles sont uniquement cultivées dans les zones industrielles",
+        "D": "Elles servent à nourrir le bétail dans les grandes exploitations"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quels sont les principaux produits vivriers en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Bananes, cacao, hévéa et coton",
+        "B": "Riz, manioc, igname, maïs, arachide, mil et sorgho",
+        "C": "Cacao, café, anacarde et banane douce",
+        "D": "Palmier à huile, coton, canne à sucre et soja"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Qu’est-ce qu’une culture commerciale ?",
+      "réponses": {
+        "A": "Une culture destinée à l’autoconsommation uniquement",
+        "B": "Une culture industrielle orientée vers l’exportation ou la transformation",
+        "C": "Une culture produite dans les fermes pédagogiques",
+        "D": "Une culture vendue exclusivement sur les marchés villageois"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quels sont des exemples de cultures commerciales ivoiriennes ?",
+      "réponses": {
+        "A": "Cacao, café, coton, hévéa, anacarde, palmier à huile",
+        "B": "Riz, igname, manioc, banane plantain",
+        "C": "Oignons, tomates, piments, gombos",
+        "D": "Avocats, fraises, maïs, laitue"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Pourquoi la production de riz reste-t-elle un défi malgré son importance ?",
+      "réponses": {
+        "A": "Le riz est interdit à l’importation et donc peu cultivé",
+        "B": "Il est uniquement réservé à l’exportation vers l’Europe",
+        "C": "La production locale est insuffisante, d’où des importations massives",
+        "D": "Le riz est abandonné au profit de la culture du coton et du café"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "GE002_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le sud et l’ouest de la Côte d’Ivoire sont-ils favorables à l’exploitation forestière ?",
+      "réponses": {
+        "A": "Ils sont situés dans des zones de savane aride impropre aux cultures",
+        "B": "Parce qu’ils disposent d’une vaste surface forestière estimée à environ 2 millions d’hectares",
+        "C": "Parce qu’ils sont fortement urbanisés et peu accessibles",
+        "D": "Parce qu’ils sont les seuls territoires classés comme déserts tropicaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelles sont les principales essences forestières exploitées en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Teck, eucalyptus, sapin, bambou",
+        "B": "Bété, acajou, kotibé, fromager, samba",
+        "C": "Palmier, cocotier, olivier, baobab",
+        "D": "Chêne, bouleau, séquoia, hêtre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel facteur humain favorise l’exploitation forestière ?",
+      "réponses": {
+        "A": "Une main-d’œuvre urbaine qualifiée mais très coûteuse",
+        "B": "Une population vieillissante spécialisée dans l’informatique",
+        "C": "Une main-d’œuvre abondante et bon marché disponible dans les zones forestières",
+        "D": "Un manque total de travailleurs dans les zones rurales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le rôle de la SODEFOR ?",
+      "réponses": {
+        "A": "Elle encadre, gère et favorise le reboisement et l’exploitation durable des forêts",
+        "B": "Elle finance uniquement les exploitations minières et agricoles",
+        "C": "Elle vend les terres forestières aux opérateurs étrangers",
+        "D": "Elle forme uniquement les étudiants en sciences forestières"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel organisme a réalisé les recherches forestières utilisées par la SODEFOR ?",
+      "réponses": {
+        "A": "L’INSAAC, institut national des sciences culturelles",
+        "B": "L’IDEFOR, institut de développement forestier",
+        "C": "L’ONI, office national d’identification",
+        "D": "Le ministère de l’Enseignement supérieur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Combien d’opérateurs forestiers sont officiellement recensés en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Moins de 100 dans les grandes villes uniquement",
+        "B": "Plus de 1 500 répartis entre le nord et l’ouest",
+        "C": "Près de 500 opérateurs recensés dans le secteur forestier",
+        "D": "Environ 50 opérateurs exclusivement basés à Abidjan"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle aide l’exploitation forestière reçoit-elle ?",
+      "réponses": {
+        "A": "Une assistance uniquement nationale avec peu de moyens",
+        "B": "Une assistance étrangère importante et des appuis logistiques",
+        "C": "Une aide militaire pour sécuriser les zones forestières",
+        "D": "Aucun soutien logistique ou financier connu"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel rôle joue l’État dans le développement forestier ?",
+      "réponses": {
+        "A": "Il construit les infrastructures, finance, crée des structures de gestion et encadre les opérateurs",
+        "B": "Il laisse le secteur forestier aux seules entreprises privées",
+        "C": "Il interdit l’exploitation des zones forestières pour cause de déforestation",
+        "D": "Il favorise uniquement l’importation de bois d’Asie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quels équipements facilitent l’exploitation forestière ?",
+      "réponses": {
+        "A": "Des ports et des aéroports exclusivement militaires",
+        "B": "Des stations de ski et des pistes cyclables aménagées",
+        "C": "Des barrages hydroélectriques en plein désert",
+        "D": "Des routes, ports, industries de transformation implantées par l’État"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quel type d’exploitation forestière est pratiqué en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Une exploitation uniquement artisanale par des paysans",
+        "B": "Une exploitation à la fois artisanale et industrielle selon les zones",
+        "C": "Une exploitation entièrement robotisée et contrôlée par satellite",
+        "D": "Une exploitation strictement informelle dans les marchés ruraux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Combien d’emplois l’exploitation forestière génère-t-elle ?",
+      "réponses": {
+        "A": "Environ 40 000 emplois directs et 100 000 emplois indirects",
+        "B": "5 000 emplois directs uniquement en zone urbaine",
+        "C": "150 000 postes dans l’administration forestière",
+        "D": "20 000 stagiaires dans les universités forestières"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel est le rang du bois dans les exportations ivoiriennes ?",
+      "réponses": {
+        "A": "5e produit exporté après le pétrole, le gaz, le coton et le sucre",
+        "B": "Produit secondaire réservé au marché local",
+        "C": "3e produit d’exportation après le cacao et la noix de cajou",
+        "D": "Produit interdit à l’exportation pour des raisons écologiques"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quels usages non industriels sont faits du bois en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Uniquement pour l’exportation des meubles d’art",
+        "B": "Bois de chauffe, charbon, pharmacopée traditionnelle",
+        "C": "Exclusivement pour la sculpture artisanale et les décorations",
+        "D": "Réservé aux énergies renouvelables uniquement"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quels opérateurs forestiers industriels sont cités ?",
+      "réponses": {
+        "A": "CIB et TRIBOIS dans la transformation du bois",
+        "B": "PETROCI et SIR spécialisés dans les hydrocarbures",
+        "C": "CNRA et ANADER qui gèrent les semences agricoles",
+        "D": "SODECI et CIE qui exploitent l’énergie solaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quel problème environnemental majeur découle de l’exploitation forestière ?",
+      "réponses": {
+        "A": "La déforestation, la baisse des pluies, et l’avancée de la savane",
+        "B": "La montée des eaux et les pluies diluviennes permanentes",
+        "C": "La surpopulation forestière due à l’abandon des villes",
+        "D": "L’apparition de maladies transmises par les forêts"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle est la principale conséquence écologique de la disparition des forêts ?",
+      "réponses": {
+        "A": "Déséquilibre climatique, perte de biodiversité, appauvrissement des sols",
+        "B": "Stabilisation des saisons sèches et réduction des cyclones",
+        "C": "Augmentation des déserts urbains dans le sud",
+        "D": "Extension des forêts vers les centres industriels"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quelle solution est mise en œuvre par la SODEFOR ?",
+      "réponses": {
+        "A": "La commercialisation directe de bois tropical sur les marchés",
+        "B": "Le reboisement et la création de forêts classées ou protégées",
+        "C": "La transformation des zones forestières en zones industrielles",
+        "D": "La conversion des forêts en villages agricoles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel organisme applique la réglementation forestière ?",
+      "réponses": {
+        "A": "L’ONI pour l’identification des terres",
+        "B": "Le CNRA pour la formation des bûcherons",
+        "C": "La police forestière : les eaux et forêts",
+        "D": "Le CEPICI pour les investissements agricoles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle mesure vise à réduire la coupe de bois pour l’énergie domestique ?",
+      "réponses": {
+        "A": "Le développement des plaques photovoltaïques agricoles",
+        "B": "La vulgarisation du gaz domestique comme énergie de cuisson",
+        "C": "L’importation de bois exotique d’Amérique du Sud",
+        "D": "La suppression des taxes sur les feux de brousse"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la limite géographique fixée pour interdire l’exploitation forestière ?",
+      "réponses": {
+        "A": "Le 5e parallèle nord en zone désertique",
+        "B": "Le fleuve Bandama pour éviter l’érosion",
+        "C": "Le 10e parallèle au-delà des zones montagneuses",
+        "D": "Le 8e parallèle nord pour protéger les forêts du Nord"
+      },
+      "bonne réponse": "D"
+    }
+  }
+},
+{
+  "title": "Quiz 4",
+  "id": "GE002_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le sud forestier est-il défavorable à l’élevage bovin et ovin ?",
+      "réponses": {
+        "A": "Parce que les populations y pratiquent exclusivement la pêche artisanale",
+        "B": "Parce qu’il y a une forte urbanisation qui empêche les installations d’élevage",
+        "C": "Parce que le climat y est très humide et la mouche tsé-tsé y transmet la trypanosomiase",
+        "D": "Parce que la végétation est totalement absente dans cette zone"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le principal atout de la zone nord pour l’élevage ?",
+      "réponses": {
+        "A": "La faible pluviométrie, les herbages abondants et l’absence de mouche tsé-tsé",
+        "B": "La présence des plantations industrielles de cacao et de café",
+        "C": "Le développement des zones industrielles et des autoroutes",
+        "D": "La proximité avec la lagune Ebrié et les ports"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Pourquoi les Ivoiriens ne dominent-ils pas l’activité d’élevage ?",
+      "réponses": {
+        "A": "Parce qu’ils n’ont pas de culture d’éleveurs et la tradition pastorale est absente",
+        "B": "Parce qu’ils vivent uniquement dans les zones forestières protégées",
+        "C": "Parce qu’ils sont spécialisés uniquement dans le commerce",
+        "D": "Parce qu’ils se consacrent exclusivement à l’industrie du bois"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quel organisme public encadre et promeut l’élevage en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La SODEFOR chargée du reboisement et de l’exploitation forestière",
+        "B": "Le CNRA qui mène les recherches sur le cacao et le café",
+        "C": "L’ANADER, chargée du développement rural, de l’agriculture et de l’élevage",
+        "D": "La GESTOCI chargée du stockage du gaz domestique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel est l’un des rôles de l’État dans la promotion de l’élevage ?",
+      "réponses": {
+        "A": "Il s’occupe exclusivement du transport et de la douane des animaux",
+        "B": "Il crée des infrastructures comme des fermes, abattoirs, ranchs et centres d’embouche",
+        "C": "Il impose des taxes sur tous les éleveurs et supprime les aides",
+        "D": "Il interdit l’élevage pour cause de dégradation des sols"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Citez deux centres d’embouche mis en place par l’État ivoirien :",
+      "réponses": {
+        "A": "Ferkessédougou et Katiola",
+        "B": "Abengourou et Yamoussoukro",
+        "C": "Man et San Pedro",
+        "D": "Adiaké et Bouaké"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la population est-elle un atout pour l’élevage ?",
+      "réponses": {
+        "A": "Elle constitue une main-d’œuvre disponible et un important marché de consommation",
+        "B": "Elle ne consomme que du poisson en raison de la proximité des lagunes",
+        "C": "Elle interdit la viande rouge pour des raisons religieuses",
+        "D": "Elle est trop dispersée pour favoriser le commerce de viande"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel est l’intérêt de la diversité des zones naturelles pour l’élevage ?",
+      "réponses": {
+        "A": "Elle favorise la diversification des espèces animales et des modes d’élevage",
+        "B": "Elle limite l’élevage aux seuls animaux de compagnie",
+        "C": "Elle interdit l’élevage industriel à cause du climat équatorial",
+        "D": "Elle réduit les possibilités de nourrir les animaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quels sont les deux types d’élevage en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "L’élevage traditionnel (nomade et domestique) et l’élevage moderne (fermes, ranchs)",
+        "B": "L’élevage industriel et l’élevage fluvial",
+        "C": "L’élevage maraîcher et l’élevage volcanique",
+        "D": "L’élevage de laboratoire et l’élevage en altitude"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle est la caractéristique de l’élevage traditionnel ?",
+      "réponses": {
+        "A": "Il utilise uniquement des drones pour surveiller les troupeaux",
+        "B": "Il emploie des vétérinaires diplômés dans chaque village",
+        "C": "Il repose sur des techniques archaïques et offre de faibles rendements",
+        "D": "Il est financé par des banques internationales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Qui pratique l’élevage moderne en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les chasseurs et les agriculteurs de zones enclavées",
+        "B": "Les entreprises privées, l’État et les grands exploitants",
+        "C": "Les élèves des lycées agricoles et les pêcheurs",
+        "D": "Les ONG internationales et les hôpitaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le niveau de couverture des besoins en viande de l’élevage national ?",
+      "réponses": {
+        "A": "Environ 70% de couverture",
+        "B": "90% grâce aux importations massives",
+        "C": "Environ 40% seulement, ce qui montre une production insuffisante",
+        "D": "Plus de 100%, car la Côte d’Ivoire exporte beaucoup"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle est la contribution du secteur de l’élevage au PIB ivoirien ?",
+      "réponses": {
+        "A": "Elle est faible : environ 0,8 % du PIB",
+        "B": "Elle est majeure : plus de 30 % du PIB",
+        "C": "Elle dépasse le cacao et le café",
+        "D": "Elle est équivalente à l’or et au diamant"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quels produits sont issus de l’élevage moderne ?",
+      "réponses": {
+        "A": "Cacao transformé, maïs grillé et sorgho fermenté",
+        "B": "Riz, banane plantain et manioc",
+        "C": "Œufs, viande, lait, produits transformés de Coq Ivoire et Foani",
+        "D": "Mangues, papayes et ananas séchés"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quels types d’élevage complémentaire sont en développement ?",
+      "réponses": {
+        "A": "Culture de coton, de karité, et de tabac",
+        "B": "Apiculture, aulacodiculture, héliciculture, cuniculture, raniculture",
+        "C": "Elevage d’éléphants, d’hippopotames, de zèbres et de gazelles",
+        "D": "Pêche sous-marine, chasse à courre et pisciculture intensive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel est l’un des principaux freins au développement de l’élevage ?",
+      "réponses": {
+        "A": "L’interdiction des animaux domestiques dans les villages",
+        "B": "L’absence de tradition pastorale chez les Ivoiriens",
+        "C": "La désertification rapide des zones agricoles",
+        "D": "L’excès de formation et de modernisation du secteur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est l’un des conflits liés à l’élevage ?",
+      "réponses": {
+        "A": "Les affrontements entre éleveurs et agriculteurs pour l’usage des terres",
+        "B": "Les litiges entre éleveurs et commerçants de pagnes",
+        "C": "Les rivalités entre pêcheurs et planteurs",
+        "D": "Les conflits entre ONG et vétérinaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Comment réduire la concurrence étrangère sur la viande ?",
+      "réponses": {
+        "A": "Interdire toute importation de viande par la douane",
+        "B": "Mettre en place un prélèvement compensatoire pour stabiliser les prix",
+        "C": "Interdire la consommation de viande importée dans les villes",
+        "D": "Subventionner l’importation de viande européenne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel animal élevé en centre d’embouche comme exemple de race productive ?",
+      "réponses": {
+        "A": "Le zébu d’Afrique du Sud",
+        "B": "Le mouton peul du Sahara",
+        "C": "Le bœuf Ndama",
+        "D": "Le buffle du Congo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel type d’élevage moderne est pratiqué sous palmeraie ?",
+      "réponses": {
+        "A": "L’élevage associé à l’agriculture, comme à Fresco et Ehania",
+        "B": "L’élevage de chevaux pour le tourisme",
+        "C": "L’élevage maritime en lagune Ebrié",
+        "D": "L’élevage de reptiles pour la maroquinerie"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 5",
+  "id": "GE002_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi la Côte d'Ivoire dispose-t-elle de conditions favorables à la pêche ?",
+      "réponses": {
+        "A": "Parce que le pays est complètement désertique et isolé",
+        "B": "Parce qu’elle importe tous ses produits de pêche",
+        "C": "Parce qu’elle a un réseau hydrographique dense et une grande diversité halieutique",
+        "D": "Parce qu’elle n’a pas de forêt et aucune montagne"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel type de main-d’œuvre est disponible pour la pêche ?",
+      "réponses": {
+        "A": "Des experts étrangers uniquement",
+        "B": "Des commerçants formés dans les écoles maritimes d’Europe",
+        "C": "Une main-d’œuvre locale abondante, disponible et bon marché",
+        "D": "Des diplomates affectés dans les ports"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel est le rôle des peuples vivant en bordure de lagunes et de la mer ?",
+      "réponses": {
+        "A": "Ils pratiquent l’élevage intensif de bovins",
+        "B": "Ils sont des pêcheurs traditionnels et actifs dans la pêche artisanale",
+        "C": "Ils se consacrent uniquement au tourisme balnéaire",
+        "D": "Ils ne mangent pas de poisson pour des raisons culturelles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel peuple étranger ne fait pas partie des communautés de pêcheurs en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Mandingue (Guinée)",
+        "B": "Fanti (Ghana)",
+        "C": "Awran (Togo)",
+        "D": "Bozo (Mali)"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel équipement l'État a-t-il mis en place pour promouvoir la pêche ?",
+      "réponses": {
+        "A": "Des ports de pêche, chambres froides, thoniers, et école de pêche à Grand-Lahou",
+        "B": "Des hôtels de luxe, des barrages et des universités de biologie",
+        "C": "Des marchés de cacao, usines de textile, et stations-service",
+        "D": "Des barrages hydrauliques, raffineries, et aéroports"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel rôle joue l’État dans le développement de la pêche ?",
+      "réponses": {
+        "A": "Il empêche les étrangers d’exploiter les ressources marines",
+        "B": "Il ferme les ports artisanaux pour des raisons de sécurité",
+        "C": "Il investit dans les équipements, les structures d’encadrement et la modernisation",
+        "D": "Il impose une taxe spéciale sur tous les pêcheurs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle pêche est pratiquée sur tous les plans d’eau avec des techniques rudimentaires ?",
+      "réponses": {
+        "A": "La pêche traditionnelle et artisanale",
+        "B": "La pêche nucléaire et chimique",
+        "C": "La pêche industrielle uniquement lagunaire",
+        "D": "La pêche magnétique en haute mer"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quelle est la principale zone de la pêche industrielle en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le fleuve Bandama et les monts du Tonkpi",
+        "B": "Le port d’Abidjan et le port de San Pedro",
+        "C": "Les forêts classées et les plantations de banane",
+        "D": "Le parc national de Taï et le Mont Peko"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est le poisson qui domine dans la pêche industrielle en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le tilapia des eaux douces du nord",
+        "B": "Le thon capturé en mer au large d’Abidjan",
+        "C": "Le silure des lacs artificiels",
+        "D": "Le hareng des fleuves tropicaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel est le rôle de la pêche semi-industrielle ?",
+      "réponses": {
+        "A": "Elle regroupe l’aquaculture, la pisciculture et la crévetticulture",
+        "B": "Elle concerne les espèces menacées en mer",
+        "C": "Elle exploite exclusivement le poisson fumé",
+        "D": "Elle ne concerne que les produits importés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Combien de tonnes ont été produites par la pêche industrielle en 2004 ?",
+      "réponses": {
+        "A": "Environ 19.000 tonnes",
+        "B": "Plus de 3 millions de tonnes",
+        "C": "Exactement 100.000 tonnes",
+        "D": "Moins de 500 tonnes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel type de pêche représente la plus grande part de la production ?",
+      "réponses": {
+        "A": "La pêche industrielle pratiquée par l’État",
+        "B": "La pêche traditionnelle aux mains des étrangers",
+        "C": "La pêche continentale fluviale à Korhogo",
+        "D": "La pêche illégale contrôlée par les pirates"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est le taux de couverture de la consommation nationale par la pêche locale ?",
+      "réponses": {
+        "A": "15 %",
+        "B": "100 %",
+        "C": "Environ 69 %",
+        "D": "Moins de 5 %"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle est la valeur financière estimée de la production halieutique ?",
+      "réponses": {
+        "A": "5 milliards de FCFA selon la BCEAO",
+        "B": "Plus de 100 milliards de FCFA selon les rapports officiels",
+        "C": "Moins de 1 milliard car la pêche est peu productive",
+        "D": "1.000 milliards car la Côte d’Ivoire est un géant halieutique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est l’intérêt alimentaire de la pêche pour les populations ?",
+      "réponses": {
+        "A": "Elle fournit des protéines essentielles à l’alimentation",
+        "B": "Elle favorise le tourisme balnéaire exclusivement",
+        "C": "Elle remplace totalement le riz et l’igname",
+        "D": "Elle sert uniquement à l’exportation en Europe"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quel est l’intérêt de la fiscalité appliquée à la pêche ?",
+      "réponses": {
+        "A": "Elle décourage les pêcheurs traditionnels par des taxes élevées",
+        "B": "Elle fournit des capitaux pour le développement du pays",
+        "C": "Elle empêche l’importation de poissons congelés",
+        "D": "Elle finance les campagnes de lutte contre le cacao frelaté"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est l’un des principaux problèmes liés aux cours d’eau ivoiriens ?",
+      "réponses": {
+        "A": "La présence de mines d’or qui rendent l’eau radioactive",
+        "B": "La présence de racines et de troncs qui gênent les pêcheurs",
+        "C": "L’assèchement total des rivières du Nord",
+        "D": "L’interdiction de pêcher pendant les périodes électorales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi la mer ivoirienne est-elle peu productive ?",
+      "réponses": {
+        "A": "Parce que le golfe de Guinée est classé zone de guerre",
+        "B": "Parce que le plateau continental est étroit et peu riche",
+        "C": "Parce que les poissons ont migré vers l’Europe",
+        "D": "Parce qu’elle est couverte par des plateformes pétrolières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle solution est proposée pour moderniser la pêche artisanale ?",
+      "réponses": {
+        "A": "L’usage de filets radioactifs pour gagner du temps",
+        "B": "L’interdiction des embarcations à moteur",
+        "C": "La modernisation des accessoires de pêche",
+        "D": "La suppression des ports et la création de marchés flottants"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quelle action permet de lutter contre la pêche illégale ?",
+      "réponses": {
+        "A": "L’évacuation des villages côtiers",
+        "B": "La fermeture des ports de pêche",
+        "C": "La sensibilisation et l’intervention de la police maritime",
+        "D": "L’obligation de consommer uniquement du poisson importé"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 6",
+  "id": "GE002_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le relief ivoirien est-il un atout pour l'industrie ?",
+      "réponses": {
+        "A": "Il permet l’installation facile d’infrastructures industrielles sur de vastes surfaces",
+        "B": "Il rend la construction difficile à cause des montagnes élevées",
+        "C": "Il favorise uniquement l’exploitation forestière traditionnelle",
+        "D": "Il empêche le développement industriel à cause de sa complexité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Comment l’ouverture maritime de la Côte d’Ivoire favorise-t-elle l’industrie ?",
+      "réponses": {
+        "A": "Elle facilite l’importation de matières premières et l’exportation de produits",
+        "B": "Elle limite les échanges internationaux pour préserver l’économie locale",
+        "C": "Elle oblige à dépendre uniquement des ressources de la forêt",
+        "D": "Elle rend obligatoire le transport aérien pour toutes les marchandises"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Pourquoi dit-on que la Côte d’Ivoire est un carrefour régional ?",
+      "réponses": {
+        "A": "Parce qu’elle permet les échanges entre pays voisins et le reste du monde",
+        "B": "Parce qu’elle est enclavée et entourée de montagnes",
+        "C": "Parce qu’elle est située à la frontière de trois océans",
+        "D": "Parce qu’elle ne possède aucun axe de communication moderne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quels types de matières premières profitent à l’industrie ivoirienne ?",
+      "réponses": {
+        "A": "Matières animales, agricoles, minières et sources d’énergie variées",
+        "B": "Uniquement les matières précieuses comme le diamant et le coltan",
+        "C": "Les importations de produits européens uniquement",
+        "D": "Les déchets recyclés et les produits usagés importés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel rôle jouent les ressources minières dans le développement industriel ?",
+      "réponses": {
+        "A": "Elles sont stockées uniquement à des fins de conservation",
+        "B": "Elles servent de matières premières essentielles pour les usines locales",
+        "C": "Elles sont exclusivement exportées sans transformation locale",
+        "D": "Elles sont interdites d’exploitation par la législation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Comment le système lagunaire contribue-t-il à l’activité industrielle ?",
+      "réponses": {
+        "A": "Il empêche l’accès aux régions côtières et isole les villes portuaires",
+        "B": "Il est réservé exclusivement aux activités de pêche artisanale",
+        "C": "Il facilite le transport maritime et les échanges commerciaux",
+        "D": "Il provoque des inondations qui ralentissent l’industrialisation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Pourquoi la population ivoirienne est-elle un atout pour l’industrie ?",
+      "réponses": {
+        "A": "Parce qu’elle est jeune, nombreuse, dynamique et bon marché",
+        "B": "Parce qu’elle est principalement rurale et analphabète",
+        "C": "Parce qu’elle est peu nombreuse et difficile à mobiliser",
+        "D": "Parce qu’elle refuse de participer à l’industrialisation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel est le niveau de qualification de la population ivoirienne ?",
+      "réponses": {
+        "A": "Elle n’a reçu aucune formation technique ou professionnelle",
+        "B": "Elle est de plus en plus qualifiée grâce aux formations et expériences",
+        "C": "Elle est exclusivement formée à l’agriculture vivrière",
+        "D": "Elle ne s’intéresse pas au secteur secondaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est l’un des obstacles humains au développement industriel ?",
+      "réponses": {
+        "A": "Le faible niveau de l’épargne nationale pour financer les projets",
+        "B": "La surpopulation industrielle dans les zones rurales",
+        "C": "L’excès de main-d’œuvre spécialisée dans les technologies spatiales",
+        "D": "La rareté de zones industrielles aménagées dans les capitales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quel est l’intérêt de la diversité de la population pour l’industrie ?",
+      "réponses": {
+        "A": "Elle entraîne des conflits ethniques qui freinent l’industrie",
+        "B": "Elle favorise une diversité d’initiatives et une capacité d’adaptation",
+        "C": "Elle ralentit la productivité à cause des divisions régionales",
+        "D": "Elle ne joue aucun rôle dans le développement économique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le rôle des investisseurs étrangers dans l’industrie ivoirienne ?",
+      "réponses": {
+        "A": "Ils empêchent la création d’emplois locaux",
+        "B": "Ils apportent capitaux, savoir-faire et main-d’œuvre qualifiée",
+        "C": "Ils remplacent les produits locaux par des importations",
+        "D": "Ils détournent les ressources sans aucune contrepartie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Qu’est-ce qui rend la main-d’œuvre ivoirienne attractive pour les industries ?",
+      "réponses": {
+        "A": "Elle est jeune, disponible, bon marché et de plus en plus qualifiée",
+        "B": "Elle est vieillissante, chère et demande des salaires élevés",
+        "C": "Elle est concentrée uniquement dans le secteur primaire",
+        "D": "Elle est hostile à l’implantation des entreprises étrangères"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel système économique la Côte d’Ivoire a-t-elle adopté ?",
+      "réponses": {
+        "A": "Le collectivisme industriel totalitaire",
+        "B": "Le libéralisme économique avec ouverture sur l’extérieur",
+        "C": "Le protectionnisme dirigé par l’armée",
+        "D": "L’économie fermée basée sur l’auto-consommation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Que signifie le désengagement de l’État dans l’industrie ?",
+      "réponses": {
+        "A": "L’interdiction de créer des entreprises",
+        "B": "La nationalisation forcée de toutes les sociétés",
+        "C": "La privatisation des entreprises publiques et leur vente au privé",
+        "D": "La suppression du secteur industriel au profit de l’agriculture"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel est le rôle du CEPICI ?",
+      "réponses": {
+        "A": "Promouvoir les investissements et faciliter les démarches des investisseurs",
+        "B": "Contrôler les prix des denrées alimentaires et du transport",
+        "C": "Réprimer les entreprises illégales et collecter les impôts",
+        "D": "Fournir des semences et engrais aux planteurs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Que contient le code d’investissement ivoirien ?",
+      "réponses": {
+        "A": "Des sanctions contre les entreprises étrangères",
+        "B": "Une obligation d’exporter tous les produits industriels",
+        "C": "Des mesures incitatives : exonérations fiscales, réductions de taxes",
+        "D": "Un quota limité à dix entreprises par an"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi l'État crée-t-il des forums d’investissement ?",
+      "réponses": {
+        "A": "Pour attirer des capitaux et valoriser les potentialités économiques du pays",
+        "B": "Pour obliger les jeunes à entreprendre",
+        "C": "Pour interdire l’entrée des investisseurs étrangers",
+        "D": "Pour subventionner les industries agricoles uniquement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelles infrastructures l’État met-il en place pour l’industrie ?",
+      "réponses": {
+        "A": "Routes, ports, réseaux télécoms, énergie, rails",
+        "B": "Pistes rurales, canaux agricoles, marchés villageois",
+        "C": "Universités de médecine et stations balnéaires",
+        "D": "Décharges publiques et parcs d’attractions"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Pourquoi l’État crée-t-il une Chambre d’Industrie ?",
+      "réponses": {
+        "A": "Pour informer et encadrer les nouveaux investisseurs industriels",
+        "B": "Pour organiser les concours scolaires et les examens",
+        "C": "Pour surveiller la qualité des aliments importés",
+        "D": "Pour fixer les prix de l’électricité et du carburant"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel est l’effet de la liberté d’entreprise sur l’industrie ?",
+      "réponses": {
+        "A": "Elle ralentit l’innovation et provoque le chômage",
+        "B": "Elle attire les investisseurs et stimule la création d’entreprises",
+        "C": "Elle supprime les grandes entreprises au profit des PME",
+        "D": "Elle empêche l’exportation des produits industriels"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 7",
+  "id": "GE002_Q7",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle était la situation de l'industrie ivoirienne avant l'indépendance ?",
+      "réponses": {
+        "A": "Elle produisait des véhicules pour l’Afrique de l’Ouest",
+        "B": "Elle était très développée grâce aux investissements locaux",
+        "C": "Elle concurrençait les industries européennes",
+        "D": "Elle était embryonnaire et dominée par la métropole"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Que signifie la politique d'import-substitution entre 1960 et 1970 ?",
+      "réponses": {
+        "A": "Favoriser l’importation de produits agricoles étrangers",
+        "B": "Investir uniquement dans les produits d’exportation",
+        "C": "Importer des produits de substitution de l’Europe",
+        "D": "Réduire les importations en valorisant les ressources locales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quel secteur a été particulièrement soutenu durant la période 1970-1980 ?",
+      "réponses": {
+        "A": "L’industrie lourde",
+        "B": "Le secteur des télécommunications",
+        "C": "Le secteur textile et agroalimentaire",
+        "D": "Le secteur des transports"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est la conséquence principale de la crise économique de 1980 à 1993 ?",
+      "réponses": {
+        "A": "Une modernisation massive des usines",
+        "B": "L’ouverture à de nouveaux marchés internationaux",
+        "C": "Le ralentissement de l'activité industrielle",
+        "D": "Une hausse de la consommation intérieure"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle structure a été créée en 1995 pour promouvoir l’investissement privé ?",
+      "réponses": {
+        "A": "SIR",
+        "B": "CIE",
+        "C": "CEPICI",
+        "D": "SODEFOR"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle industrie est considérée comme le « poumon » de l’économie industrielle ivoirienne ?",
+      "réponses": {
+        "A": "L’agroalimentaire",
+        "B": "L’industrie automobile",
+        "C": "L’industrie pétrolière",
+        "D": "Le textile"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle ville concentre plus de 60% de l'activité industrielle en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Bouaké",
+        "B": "Abidjan",
+        "C": "San-Pédro",
+        "D": "Yamoussoukro"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel problème majeur freine le développement industriel ivoirien ?",
+      "réponses": {
+        "A": "La surproduction industrielle",
+        "B": "Le manque de matières premières",
+        "C": "L’excès de main-d’œuvre qualifiée",
+        "D": "Le coût élevé de production"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle du code d’investissement ?",
+      "réponses": {
+        "A": "Favoriser l’importation massive",
+        "B": "Créer des sociétés publiques",
+        "C": "Accorder des avantages fiscaux aux investisseurs",
+        "D": "Nationaliser les entreprises étrangères"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la principale raison de la baisse de l’industrie textile ?",
+      "réponses": {
+        "A": "L’augmentation du prix de l’électricité",
+        "B": "L’interdiction de l’exportation du coton",
+        "C": "La concurrence de la friperie et la contrebande",
+        "D": "La fermeture des ports"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l’un des objectifs des forums d’investissement organisés par le CEPICI ?",
+      "réponses": {
+        "A": "Promouvoir le tourisme balnéaire",
+        "B": "Nationaliser les entreprises étrangères",
+        "C": "Stimuler la consommation locale",
+        "D": "Montrer les potentialités économiques du pays"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quel pourcentage du PNB est fourni par le secteur industriel en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "10 %",
+        "B": "24 %",
+        "C": "36 %",
+        "D": "50 %"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quelle industrie emploie plus de 10 000 personnes dans environ 75 sociétés ?",
+      "réponses": {
+        "A": "L’industrie textile",
+        "B": "L’industrie métallurgique",
+        "C": "L’industrie du bois",
+        "D": "L’industrie chimique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle est une solution proposée face à la non-compétitivité des produits ivoiriens ?",
+      "réponses": {
+        "A": "Augmenter les taxes douanières",
+        "B": "Fermer les marchés aux produits étrangers",
+        "C": "Créer une monnaie parallèle",
+        "D": "Améliorer la qualité et baisser les prix des produits locaux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Pourquoi parle-t-on de concentration industrielle à Abidjan ?",
+      "réponses": {
+        "A": "Parce qu’Abidjan est le siège de la présidence",
+        "B": "Car Abidjan possède une majorité d’entreprises agricoles",
+        "C": "Parce qu’Abidjan concentre plus de 60 % du tissu industriel",
+        "D": "Parce qu’elle est la capitale politique du pays"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelles sont les industries qui transforment les matières premières agricoles ?",
+      "réponses": {
+        "A": "Les industries pétrolières",
+        "B": "Les industries minières",
+        "C": "Les industries textiles",
+        "D": "Les industries agroalimentaires"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce qui freine l’essor des industries locales malgré les ressources disponibles ?",
+      "réponses": {
+        "A": "L'excès de formation technique",
+        "B": "La faiblesse du pouvoir d’achat et l’étroitesse du marché intérieur",
+        "C": "La disponibilité massive de capitaux",
+        "D": "L’ouverture limitée vers l’extérieur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle politique a marqué le redémarrage de l’industrie après 1994 ?",
+      "réponses": {
+        "A": "La guerre civile",
+        "B": "La suppression des taxes douanières",
+        "C": "La fermeture du CEPICI",
+        "D": "Le nouveau code d’investissement de 1995"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quelle est la contribution de l'industrie pétrolière et chimique dans le chiffre d'affaires industriel ?",
+      "réponses": {
+        "A": "10 %",
+        "B": "27 %",
+        "C": "37 %",
+        "D": "58,5 %"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Pourquoi promouvoir l’industrie lourde selon le document ?",
+      "réponses": {
+        "A": "Pour faire plaisir aux investisseurs étrangers",
+        "B": "Pour faciliter l'importation des machines",
+        "C": "Pour nationaliser les entreprises minières",
+        "D": "Parce qu’elle est la base de tout développement industriel"
+      },
+      "bonne réponse": "D"
+    }
+  }
+},
+{
+  "title": "Quiz 8",
+  "id": "GE002_Q8",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l’une des conditions naturelles qui favorisent le développement du transport en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Une main-d'œuvre jeune et instruite contribuant à la logistique des réseaux",
+        "B": "L’abondance des ressources halieutiques dans les fleuves du Nord-Est",
+        "C": "La présence de plans d’eau comme la mer, les lagunes et les fleuves",
+        "D": "Une importante production industrielle située en zone de savane humide"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la contribution majeure de l'État au développement du transport ?",
+      "réponses": {
+        "A": "L’implantation d’usines de fabrication de camions dans les zones portuaires",
+        "B": "La construction de réseaux routiers, ferroviaires et aériens",
+        "C": "La mise en place de péages automatisés sur les routes nationales",
+        "D": "L’obligation faite aux entreprises de construire leurs propres routes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle entreprise gère actuellement le chemin de fer ivoirien ?",
+      "réponses": {
+        "A": "La SODEFOR, société spécialisée dans l’exploitation des forêts",
+        "B": "La SOTRA, entreprise publique de transport urbain à Abidjan",
+        "C": "La CIE, société d’électricité pour les trains interurbains",
+        "D": "La SITARAIL, société responsable de la gestion du réseau ferroviaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle est la longueur totale du réseau routier ivoirien ?",
+      "réponses": {
+        "A": "Environ 82 000 km dont 6 500 km de routes bitumées",
+        "B": "Près de 120 000 km avec 10 000 km de voies bitumées",
+        "C": "Environ 50 000 km dont 20 000 km de routes bitumées",
+        "D": "Moins de 70 000 km dont 8 200 km de routes en pavés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel rôle économique joue le transport maritime ?",
+      "réponses": {
+        "A": "Il facilite uniquement le transport des passagers entre les ports",
+        "B": "Il permet le transit de 90 % des marchandises importées et exportées",
+        "C": "Il est surtout utilisé pour des activités touristiques sur la lagune",
+        "D": "Il contribue exclusivement à l’évacuation des produits agricoles locaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est le principal port maritime de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le Port Autonome d’Abidjan qui réalise l’essentiel des échanges commerciaux",
+        "B": "Le port de Jacqueville spécialisé dans l’accueil de bateaux de croisière",
+        "C": "Le port de Grand-Bassam réservé aux importations de produits alimentaires",
+        "D": "Le port de Dabou dédié au commerce intérieur et à la pêche artisanale"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle compagnie aérienne assure principalement le trafic national ?",
+      "réponses": {
+        "A": "Emirates qui dessert toutes les capitales régionales du pays",
+        "B": "Lufthansa, partenaire du programme de développement des transports",
+        "C": "La RAM, spécialisée dans les vols domestiques en Afrique de l’Ouest",
+        "D": "Air Ivoire, compagnie nationale desservant l’intérieur du pays"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quel est le rôle économique des transports terrestres ?",
+      "réponses": {
+        "A": "Ils favorisent uniquement le déplacement des touristes étrangers",
+        "B": "Ils permettent l’évacuation des déchets industriels vers les ports",
+        "C": "Ils assurent les échanges entre l’intérieur du pays et le port d’Abidjan",
+        "D": "Ils desservent exclusivement les zones urbaines du littoral sud"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle ville abrite le principal aéroport international ivoirien ?",
+      "réponses": {
+        "A": "San Pedro avec son terminal pétrolier et minier modernisé",
+        "B": "Bouaké, ville centrale pour les échanges avec le Burkina Faso",
+        "C": "Yamoussoukro, siège du gouvernement et capitale politique",
+        "D": "Abidjan avec l’aéroport international Félix Houphouët-Boigny"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quelle est la conséquence positive des transports sur l’économie ?",
+      "réponses": {
+        "A": "Ils favorisent la migration clandestine vers les pays voisins",
+        "B": "Ils entraînent l’augmentation du prix du carburant à l’importation",
+        "C": "Ils bloquent le développement des régions intérieures du pays",
+        "D": "Ils créent des emplois et génèrent des revenus pour l'État"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est l’un des problèmes majeurs du transport en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La vétusté et la dégradation des infrastructures de transport",
+        "B": "Le coût élevé des taxes imposées aux sociétés minières",
+        "C": "L’absence de réseau Internet sur les aires de repos routières",
+        "D": "Le trop grand nombre de ports dans les zones forestières"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel est l’un des objectifs du recours au secteur privé dans les transports ?",
+      "réponses": {
+        "A": "Réduire la surveillance douanière sur les routes nationales",
+        "B": "Assurer la construction, la gestion et l’entretien des infrastructures",
+        "C": "Limiter l’accès au transport aux zones urbaines uniquement",
+        "D": "Diminuer la fréquentation des réseaux ferroviaires et maritimes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est le rôle des bateaux-bus à Abidjan ?",
+      "réponses": {
+        "A": "Transporter les touristes vers les plages de Grand-Bassam",
+        "B": "Assurer le transport interurbain sur la lagune Ebrié",
+        "C": "Evacuer les déchets liquides vers les stations d’épuration",
+        "D": "Fournir un soutien logistique aux opérations militaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle structure est responsable de la gestion de l’aéroport d’Abidjan ?",
+      "réponses": {
+        "A": "L’Agence Nationale des Infrastructures Aériennes",
+        "B": "L’Organisation Internationale du Trafic Aérien (OITA)",
+        "C": "La Fédération Aéronautique Ivoirienne et Étrangère",
+        "D": "La société AERIA chargée de l’exploitation aéroportuaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Pourquoi le réseau ferroviaire est-il important ?",
+      "réponses": {
+        "A": "Il transporte les passagers entre les aéroports du pays",
+        "B": "Il est utilisé pour la culture intensive du riz et du manioc",
+        "C": "Il est exclusivement réservé au transport de poissons",
+        "D": "Il permet le transport de marchandises lourdes et de bétail"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle est une solution proposée pour renforcer les réseaux de transport ?",
+      "réponses": {
+        "A": "La suppression des péages sur les routes bitumées",
+        "B": "L’augmentation des taxes sur les carburants importés",
+        "C": "La fermeture temporaire des réseaux vétustes",
+        "D": "La réhabilitation et le renforcement des infrastructures"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle ville abrite aussi un aéroport international en dehors d’Abidjan ?",
+      "réponses": {
+        "A": "Daloa avec son centre logistique régional de fret aérien",
+        "B": "Bouaké, deuxième ville dotée d’un aéroport international",
+        "C": "Korhogo, plaque tournante du transport maritime",
+        "D": "San Pedro, reliée uniquement au réseau ferroviaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel est le rôle des pinasses à Abidjan ?",
+      "réponses": {
+        "A": "Effectuer des croisières de luxe dans la lagune Ébrié",
+        "B": "Transporter exclusivement les militaires entre les bases",
+        "C": "Assurer la liaison lagunaire entre plusieurs communes",
+        "D": "Exporter les produits agricoles vers les ports étrangers"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est une cause de l’inégale répartition des transports ?",
+      "réponses": {
+        "A": "Le nombre trop élevé de compagnies aériennes étrangères",
+        "B": "La concentration des infrastructures à Abidjan et ses environs",
+        "C": "Le manque de population dans les grandes villes ivoiriennes",
+        "D": "La rareté des ressources agricoles dans les régions du Nord"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est une mesure prise pour améliorer la qualité du personnel du secteur ?",
+      "réponses": {
+        "A": "L’automatisation des véhicules de transport scolaire",
+        "B": "La création de péages intelligents sur les voies express",
+        "C": "L’interdiction d’importer des véhicules anciens",
+        "D": "La formation et l’encadrement du personnel national"
+      },
+      "bonne réponse": "D"
+    }
+  }
+},
+{
+  "title": "Quiz 9",
+  "id": "GE002_Q9",
+  "questions": {
+    "question n°1": {
+      "question": "Quel relief naturel attire les touristes dans l’Ouest de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les vastes plaines désertiques entourant la Comoé",
+        "B": "Les marécages salés utilisés pour la pêche artisanale",
+        "C": "Les montagnes telles que le Mont Tonkoui et la cascade de Man",
+        "D": "Les dunes rouges situées entre Bondoukou et Bouna"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle zone balnéaire ivoirienne est particulièrement réputée pour ses plages ?",
+      "réponses": {
+        "A": "Korhogo et ses mangroves sacrées bordant le fleuve Bandama",
+        "B": "Assinie et Grand-Bassam connues pour leurs plages touristiques",
+        "C": "Bouna et ses dunes de sable du nord-est",
+        "D": "Man et ses forêts marécageuses accessibles en pirogue"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel élément du patrimoine religieux attire les visiteurs à Yamoussoukro ?",
+      "réponses": {
+        "A": "Le musée national d’architecture ivoirienne",
+        "B": "La Basilique Notre-Dame de la Paix, un édifice monumental",
+        "C": "Le temple traditionnel de Gagnoa construit en terre battue",
+        "D": "Le grand couvent mystique de Zuénoula ouvert en 1994"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel parc national ivoirien est réputé pour sa biodiversité exceptionnelle ?",
+      "réponses": {
+        "A": "Le parc de Djékanou avec ses cocotiers millénaires",
+        "B": "Le parc floral de Koumassi à Abidjan",
+        "C": "Le parc national de Taï, riche en espèces animales et végétales",
+        "D": "Le parc des montagnes rouges de Toumodi"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel est un atout humain majeur pour le tourisme en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La diversité culturelle avec plus de 60 ethnies et des danses traditionnelles",
+        "B": "L’uniformité ethnique facilitant la création de spectacles",
+        "C": "L’absence de conflits culturels favorisant le tourisme religieux",
+        "D": "La spécialisation unique de toutes les régions en artisanat de cuir"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est une spécialité artisanale du Nord ivoirien ?",
+      "réponses": {
+        "A": "La poterie modelée par les chasseurs Akan",
+        "B": "Les boubous Senoufo tissés à Waraniéré",
+        "C": "Les tapis en soie tissés à Grand-Bassam",
+        "D": "Les masques en osier sculptés dans le Zanzan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle institution soutient activement la promotion touristique ?",
+      "réponses": {
+        "A": "Le Ministère des Forêts et du Développement rural",
+        "B": "La SODEFOR, structure en charge des sites sacrés",
+        "C": "Le Conseil des Transports et de l’Énergie",
+        "D": "Côte d’Ivoire Tourisme, structure officielle de promotion"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quelle infrastructure hôtelière prestigieuse est située à Abidjan ?",
+      "réponses": {
+        "A": "L’hôtel Kourouma, premier palace forestier de Yopougon",
+        "B": "L’Hôtel Ivoire, complexe de standing à Cocody",
+        "C": "L’hôtel Président, situé dans la cité balnéaire d’Assinie",
+        "D": "L’hôtel Man Club, connu pour ses toits de palmiers rouges"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel événement culturel attire des visiteurs à Grand-Bassam ?",
+      "réponses": {
+        "A": "Le festival du feu sacré et des chasseurs du Sud-Est",
+        "B": "Le marché international des cultures invisibles",
+        "C": "La fête de l’Abissa, célébration de la tradition Nzima",
+        "D": "Le carnaval des colons masqués de l’époque coloniale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel lieu sacré est lié aux silures vénérés en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le lac rouge de Bingerville et ses pirogues ancestrales",
+        "B": "Le village de Sahué, connu pour ses silures sacrés",
+        "C": "Le fleuve Bandama, réputé pour ses poissons lumineux",
+        "D": "Les étangs secrets de Toulepleu dans la région de l’ouest"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est l’un des rôles économiques du tourisme ?",
+      "réponses": {
+        "A": "Il renforce les recettes agricoles et la déforestation planifiée",
+        "B": "Il soutient les usines de transformation du manioc",
+        "C": "Il remplace l’industrie pétrolière dans les zones rurales",
+        "D": "Il fournit des devises, des emplois et stimule l’économie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quel est un problème majeur du tourisme en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "L’excès de visiteurs dans les villages reculés du Zanzan",
+        "B": "La vétusté des infrastructures hôtelières et d’accueil",
+        "C": "La pollution visuelle due aux affiches commerciales",
+        "D": "La surabondance des vols internationaux à faible coût"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est l’un des sites touristiques religieux majeurs de Bondoukou ?",
+      "réponses": {
+        "A": "Le temple souterrain des masques blancs",
+        "B": "Le mausolée de Nanan Kwaku Yao, roi spirituel Akan",
+        "C": "Les anciennes mosquées de style soudanais",
+        "D": "La statue géante du fondateur du royaume Abron"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel lieu touristique est connu pour ses caïmans ?",
+      "réponses": {
+        "A": "Le lac aux caïmans situé à Yamoussoukro",
+        "B": "Le fleuve Comoé à Grand-Bassam",
+        "C": "La rivière rouge de Duékoué en période sèche",
+        "D": "La crique mystique de Grand-Lahou"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle est une solution proposée pour améliorer le tourisme ?",
+      "réponses": {
+        "A": "Limiter l’accès aux plages aux touristes nationaux uniquement",
+        "B": "Imposer de nouvelles taxes d’entrée dans les villes historiques",
+        "C": "Réduire le nombre d’évènements culturels dans les régions rurales",
+        "D": "Réhabiliter les routes et les infrastructures touristiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle est une conséquence de l'insécurité sur le tourisme ?",
+      "réponses": {
+        "A": "Une augmentation des coûts de transport aérien pour les locaux",
+        "B": "Un afflux massif de visiteurs religieux pendant les conflits",
+        "C": "Une explosion de la construction hôtelière dans les zones à risque",
+        "D": "Une baisse de fréquentation touristique et un désintérêt croissant"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel festival contribue à valoriser la gastronomie ivoirienne ?",
+      "réponses": {
+        "A": "Le carnaval du riz noir d’Abobo",
+        "B": "La Biennale gastronomique et le Festival des Grillades",
+        "C": "Le festival du chocolat amer de Tiassalé",
+        "D": "Le marché des pains sacrés à Toumodi"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle mesure aide à former les acteurs du secteur touristique ?",
+      "réponses": {
+        "A": "La mise en place d’écoles d’hôtellerie et de centres de formation",
+        "B": "La fermeture des établissements touristiques peu rentables",
+        "C": "L’internationalisation forcée des services hôteliers nationaux",
+        "D": "La suppression des guides touristiques non diplômés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle région est connue pour les danses du Zaouli ?",
+      "réponses": {
+        "A": "Odienné avec les danses guerrières du Djiya",
+        "B": "Bouaflé avec ses masques Zaouli traditionnels",
+        "C": "Bondoukou avec ses défilés de torches nocturnes",
+        "D": "Aboisso et ses ballets d’eau de la rivière Comoé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est une structure dédiée à la régulation et à la relance du tourisme ?",
+      "réponses": {
+        "A": "Le Comité de Surveillance des Arts et Cultures Urbaines",
+        "B": "L’Office Ivoirien du Tourisme et de l’Hôtellerie (OITH)",
+        "C": "Le Fonds National des Grands Voyages Panafricains",
+        "D": "Le Conseil des Routes et Sites d’Intérêt Pédagogique"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 10",
+  "id": "GE002_Q10",
+  "questions": {
+    "question n°1": {
+      "question": "Quel atout géographique favorise le commerce ivoirien ?",
+      "réponses": {
+        "A": "L’absence totale de frontières terrestres avec ses voisins africains",
+        "B": "La position en zone désertique favorable au troc nomade",
+        "C": "La proximité de la Cordillère des Andes pour des échanges miniers",
+        "D": "L’ouverture sur l’extérieur grâce à la façade maritime et sa position de carrefour"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quel secteur d’activité est principalement dominé par les commerçants non nationaux ?",
+      "réponses": {
+        "A": "La vente de produits forestiers dans les zones rurales profondes",
+        "B": "L’exploitation des mines souterraines et des circuits pétroliers artisanaux",
+        "C": "Le commerce maritime de haute mer assuré par des marins locaux",
+        "D": "Le commerce intérieur, notamment les circuits de distribution agro-alimentaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle maison de commerce est présente dans les circuits intérieurs ?",
+      "réponses": {
+        "A": "La Société Nationale d’Approvisionnement Agricole de Gagnoa",
+        "B": "L’Union des Marchés Communautaires d’Abobo",
+        "C": "Le Marché International d’Échange de Grand-Béréby",
+        "D": "SOCOCE, qui distribue des produits industriels à l’intérieur du pays"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quel est le principal moteur du commerce extérieur ivoirien ?",
+      "réponses": {
+        "A": "L’importation des produits de luxe pour la classe moyenne montante",
+        "B": "La contrebande de marchandises artisanales issues de la CEDEAO",
+        "C": "Le développement des zones économiques maritimes artisanales",
+        "D": "Les exportations agricoles telles que le café, le cacao et le bois"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la part du café-cacao dans les exportations ivoiriennes ?",
+      "réponses": {
+        "A": "75% des exportations totales du pays en valeur brute",
+        "B": "9% seulement, mais à très forte valeur ajoutée par le raffinage",
+        "C": "17% répartis entre 12 grandes entreprises de commerce",
+        "D": "41% des exportations, faisant de ce secteur une source majeure de devises"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle zone du monde est le premier partenaire commercial de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "L’Europe avec un volume d’échange de plus de 52,1%, France en tête",
+        "B": "L’Amérique latine, notamment le Brésil et la Colombie",
+        "C": "L’Asie du Sud, dirigée par les accords avec la Birmanie",
+        "D": "L’Australie et ses partenaires du Pacifique, grâce au commerce maritime"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la balance commerciale ivoirienne est-elle excédentaire ?",
+      "réponses": {
+        "A": "Car la Côte d’Ivoire produit tout ce dont elle a besoin sans dépendre de l’étranger",
+        "B": "Parce que les exportations agricoles et minières rapportent plus que les importations",
+        "C": "En raison des transferts d’argent massifs des diasporas ivoiriennes",
+        "D": "Parce que les dépenses publiques sont financées uniquement par l’agriculture vivrière"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel type de produit l’Asie fournit-elle principalement à la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Du riz et des appareils électroménagers",
+        "B": "Des vêtements en laine fabriqués au Pakistan et en Birmanie",
+        "C": "Des armes et des avions de chasse destinés aux zones rurales",
+        "D": "Des produits artisanaux sculptés à la main en provenance du Tibet"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle structure est chargée de collecter et d’informer sur le commerce extérieur ?",
+      "réponses": {
+        "A": "L’OIC (Office Ivoirien de la Coopération Marchande)",
+        "B": "La Chambre de Commerce et d’Industrie de Côte d’Ivoire (CCIA)",
+        "C": "L’Administration des Flux Économiques Unifiés de l’Ouest",
+        "D": "Le Marché Régional des Produits Ruraux du Grand Centre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle faiblesse nuit au développement du commerce intérieur ?",
+      "réponses": {
+        "A": "Le refus des commerçants de respecter les jours fériés dans les zones rurales",
+        "B": "La mauvaise organisation du secteur, dominé par l’informel",
+        "C": "La décentralisation trop poussée des grandes entreprises commerciales",
+        "D": "Le gel volontaire des prix pour protéger les investisseurs étrangers"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle solution est proposée pour améliorer la consommation locale ?",
+      "réponses": {
+        "A": "Augmenter le prix des produits étrangers pour les rendre inaccessibles",
+        "B": "Faire la promotion du slogan « Consommer ivoirien » et améliorer la qualité locale",
+        "C": "Rendre obligatoire l’achat d’un panier de produits nationaux chaque mois",
+        "D": "Réduire les taxes uniquement sur les produits agricoles transformés à l’étranger"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Pourquoi faut-il transformer localement les matières premières ?",
+      "réponses": {
+        "A": "Pour créer plus de valeur ajoutée, réduire les importations et accroître les devises",
+        "B": "Pour faire de la Côte d’Ivoire un pays exclusivement tourné vers le secteur artisanal",
+        "C": "Pour garantir l’autosuffisance alimentaire de tous les foyers ruraux",
+        "D": "Pour remplacer les universités commerciales par des centres d’agriculture intensive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel est un problème structurel du commerce ivoirien à l'international ?",
+      "réponses": {
+        "A": "Une spécialisation excessive dans le commerce de poissons séchés",
+        "B": "L’absence de relations diplomatiques avec les pays de l’OPEP",
+        "C": "La détérioration des termes de l’échange pour les matières premières",
+        "D": "Le manque de culture commerciale chez les chefs de village"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Pourquoi le commerce ivoirien dépend-il encore de capitaux étrangers ?",
+      "réponses": {
+        "A": "Car les banques ivoiriennes n’ont pas de licence internationale valide",
+        "B": "Car les producteurs refusent de financer eux-mêmes leurs exportations",
+        "C": "Parce que l’épargne nationale est faible et les investissements locaux limités",
+        "D": "Car les coopératives agricoles ont un monopole total sur les devises"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle structure facilite l’exportation des produits agricoles ?",
+      "réponses": {
+        "A": "Le Comité National des Foires et Marchés de Côte d’Ivoire",
+        "B": "L’OCPV (Office d’Aide à la Commercialisation des Produits Vivriers)",
+        "C": "Le Programme National de Répartition des Produits à l’Export (PNRPE)",
+        "D": "L’Agence Africaine de la Transformation Solidaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel facteur rend la distribution commerciale inefficace ?",
+      "réponses": {
+        "A": "L’excès de véhicules de livraison causant des embouteillages",
+        "B": "La préférence des consommateurs pour les produits en vrac",
+        "C": "Les circuits de distribution mal organisés et insuffisants",
+        "D": "Le manque d’électricité dans les magasins de grande distribution"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle solution structurelle améliorerait les échanges avec les pays de la sous-région ?",
+      "réponses": {
+        "A": "Imposer des taxes supplémentaires sur les produits CEDEAO",
+        "B": "Diversifier les partenaires commerciaux et promouvoir l’intégration régionale",
+        "C": "Réserver le commerce sous-régional uniquement aux produits transformés",
+        "D": "Remplacer les devises utilisées par une monnaie communautaire fictive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle action peut améliorer les compétences commerciales locales ?",
+      "réponses": {
+        "A": "Imposer des tests de moralité à tous les commerçants en activité",
+        "B": "Mettre en place des formations qualifiantes et encadrer les commerçants nationaux",
+        "C": "Déléguer l’organisation des marchés aux chefs traditionnels uniquement",
+        "D": "Réduire la scolarisation au profit de l’apprentissage direct du troc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est un défi majeur face aux produits locaux ?",
+      "réponses": {
+        "A": "Leur non-conformité avec les coutumes religieuses des régions du Nord",
+        "B": "Leur surcharge fiscale uniquement en période électorale",
+        "C": "Leur dépendance exclusive au coton tissé localement",
+        "D": "Leur faible compétitivité face aux produits étrangers souvent moins chers"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Pourquoi faut-il moderniser les circuits de distribution ?",
+      "réponses": {
+        "A": "Pour permettre la livraison par drones dans les villages reculés",
+        "B": "Pour limiter le rôle des commerçants traditionnels au profit des entreprises étrangères",
+        "C": "Pour améliorer l'efficacité, réduire les pertes et mieux approvisionner le marché",
+        "D": "Pour supprimer tous les intermédiaires et favoriser le commerce en ligne direct"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}
+]

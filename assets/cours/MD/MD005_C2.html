@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Déterminer les racines carrées d'un nombre complexe $Z = a + ib$",
+                    "content": "Chercher les racines carrées d'un nombre complexe $Z = a + ib$, c'est trouver les nombres complexes $z = x + iy$ tels que $z^2 = Z$.\nPour cela, on utilise un système de trois équations fondé sur les propriétés algébriques et le module :\n1. $x^2 - y^2 = a$ (Égalité des parties réelles car $Re(z^2) = x^2 - y^2$)\n2. $x^2 + y^2 = \\sqrt{a^2 + b^2}$ (Égalité des modules car $|z^2| = |Z|$)\n3. $2xy = b$ (Égalité des parties imaginaires pour déterminer si $x$ et $y$ ont le même signe).\nEn additionnant et soustrayant les deux premières équations, on trouve les valeurs possibles de $x$ et $y$, puis on choisit les couples $(x, y)$ cohérents avec le signe de $b$.",
+                    "example": "Cherchons les racines carrées de $Z = 8 - 6i$ :\nIci $a = 8$ et $b = -6$.\nPosons $z = x + iy$ tel que $z^2 = Z$.\nLe système est :\n1) $x^2 - y^2 = 8$\n2) $x^2 + y^2 = \\sqrt{8^2 + (-6)^2} = \\sqrt{64 + 36} = 10$\n3) $2xy = -6 \\implies xy = -3$ (donc $x$ et $y$ sont de signes opposés).\n\nCalcul de $x$ :\nEn faisant (1) + (2), on obtient :\n$2x^2 = 18 \\implies x^2 = 9 \\implies x = 3$ ou $x = -3$.\n\nCalcul de $y$ :\nEn faisant (2) - (1), on obtient :\n$2y^2 = 2 \\implies y^2 = 1 \\implies y = 1$ ou $y = -1$.\n\nConclusion :\nComme $xy < 0$ (signe opposé), si $x = 3$ alors $y = -1$, et si $x = -3$ alors $y = 1$.\nLes deux racines carrées de $8 - 6i$ sont : $\\delta_1 = 3 - i$ et $\\delta_2 = -3 + i$.",
+                    "extras": [
+                        "Exemple complet pour $Z = -5$ :\nIci $b=0$, donc les racines sont purement imaginaires.\n$z^2 = -5 \\implies z^2 = 5i^2$.\nLes solutions sont directement $\\delta_1 = i\\sqrt{5}$ et $\\delta_2 = -i\\sqrt{5}$.",
+                        "Exemple complet pour $Z = 3 + 4i$ :\n$a=3, b=4$.\n1) $x^2 - y^2 = 3$\n2) $x^2 + y^2 = \\sqrt{3^2 + 4^2} = 5$\n3) $2xy = 4 \\implies xy = 2$ (même signe).\n$2x^2 = 8 \\implies x^2 = 4 \\implies x = 2$ ou $-2$.\n$2y^2 = 2 \\implies y^2 = 1 \\implies y = 1$ ou $-1$.\nComme $xy > 0$, les racines sont $\\delta_1 = 2 + i$ et $\\delta_2 = -2 - i$.",
+                        "Conseil : Toujours vérifier l'équation $2xy = b$ à la fin pour ne pas se tromper dans les signes des racines."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Résolution des équations du second degré $az^2 + bz + c = 0$ dans $\\mathbb{C}$",
+                    "content": "Dans l'ensemble des complexes $\\mathbb{C}$, toute équation du second degré admet au moins une solution (éventuellement une racine double).\nLa méthode est la suivante :\n1. On calcule le discriminant $\\Delta = b^2 - 4ac$.\n2. On cherche une racine carrée complexe de $\\Delta$, notée $\\delta$, telle que $\\delta^2 = \\Delta$.\n3. Les solutions sont alors données par les formules :\n$z_1 = \\frac{-b - \\delta}{2a}$\n$z_2 = \\frac{-b + \\delta}{2a}$\nNote : Si $\\Delta$ est un réel négatif, on écrit $\\Delta = i^2|\\Delta|$ pour trouver $\\delta$ immédiatement.",
+                    "example": "Résolvons dans $\\mathbb{C}$ l'équation $z^2 - 2iz - 2 = 0$ :\nIci $a = 1$, $b = -2i$ et $c = -2$.\nCalcul du discriminant :\n$\\Delta = (-2i)^2 - 4(1)(-2)$\n$\\Delta = 4i^2 + 8$\n$\\Delta = -4 + 8 = 4$.\nIci, $\\Delta$ est un réel positif, donc sa racine carrée est évidente : $\\delta = 2$.\n\nCalcul des racines :\n$z_1 = \\frac{-(-2i) - 2}{2 \\times 1} = \\frac{2i - 2}{2} = -1 + i$\n$z_2 = \\frac{-(-2i) + 2}{2 \\times 1} = \\frac{2i + 2}{2} = 1 + i$\nL'ensemble des solutions est $S = \\{-1 + i ; 1 + i\\}$.",
+                    "extras": [
+                        "Exemple complet pour $\\Delta$ réel négatif : $z^2 + z + 1 = 0$.\n$\\Delta = 1^2 - 4(1)(1) = -3$.\nOn pose $\\delta = i\\sqrt{3}$.\n$z_1 = \\frac{-1 - i\\sqrt{3}}{2}$ et $z_2 = \\frac{-1 + i\\sqrt{3}}{2}$.\n$S = \\{\\frac{-1 - i\\sqrt{3}}{2} ; \\frac{-1 + i\\sqrt{3}}{2}\\}$.",
+                        "Exemple complet avec $\\Delta$ complexe : Résolvons une équation où $\\Delta = 8 - 6i$.\nOn a vu à l'étape 1 que $\\delta = 3 - i$.\nSi $-b = 2$, alors $z_1 = \\frac{2 - (3-i)}{2a}$ et $z_2 = \\frac{2 + (3-i)}{2a}$.",
+                        "Remarque : Si les coefficients $a, b, c$ sont réels et $\\Delta < 0$, les solutions $z_1$ et $z_2$ sont toujours conjuguées."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Équations de degré 4 (Équations Bicarrées)",
+                    "content": "Une équation bicarrée est de la forme $az^4 + bz^2 + c = 0$.\nPour la résoudre, on effectue un changement de variable en posant $Z = z^2$.\nL'équation se transforme en une équation du second degré : $aZ^2 + bZ + c = 0$.\nLa procédure est la suivante :\n1. On résout l'équation en $Z$ pour trouver les solutions $Z_1$ et $Z_2$.\n2. On revient à la variable $z$ en résolvant $z^2 = Z_1$ et $z^2 = Z_2$.\nChaque valeur de $Z$ donne deux racines carrées pour $z$, ce qui fournit au total les 4 solutions de l'équation initiale.",
+                    "example": "Résolvons l'équation $z^4 + 3z^2 - 4 = 0$ :\nPosons $Z = z^2$. L'équation devient $Z^2 + 3Z - 4 = 0$.\nCalcul de $\\Delta_Z$ :\n$\\Delta_Z = 3^2 - 4(1)(-4) = 9 + 16 = 25$.\nLes solutions pour $Z$ sont :\n$Z_1 = \\frac{-3 - 5}{2} = -4$\n$Z_2 = \\frac{-3 + 5}{2} = 1$.\n\nRevenons à $z$ :\n- Pour $Z_1 = -4$ : $z^2 = -4 \\implies z^2 = 4i^2$. On a $z = 2i$ ou $z = -2i$.\n- Pour $Z_2 = 1$ : $z^2 = 1$. On a $z = 1$ ou $z = -1$.\n\nConclusion :\nL'ensemble des solutions est $S = \\{-2i ; 2i ; -1 ; 1\\}$.",
+                    "extras": [
+                        "Exemple complet : Résoudre $z^4 + z^2 + 1 = 0$.\nOn pose $Z = z^2$, d'où $Z^2 + Z + 1 = 0$.\nOn a $Z_1 = \\frac{-1-i\\sqrt{3}}{2}$ et $Z_2 = \\frac{-1+i\\sqrt{3}}{2}$.\nOn cherche ensuite les racines carrées de ces deux complexes pour trouver les 4 valeurs de $z$.",
+                        "Exemple complet : Résoudre $z^4 - 16 = 0$.\n$Z^2 = 16 \\implies Z = 4$ ou $Z = -4$.\nSi $Z = 4$, $z = 2$ ou $z = -2$.\nSi $Z = -4$, $z = 2i$ ou $z = -2i$.\n$S = \\{-2 ; 2 ; -2i ; 2i\\}$.",
+                        "Astuce : Une équation de degré 4 dans $\\mathbb{C}$ possède toujours exactement 4 racines (en comptant les multiplicités)."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

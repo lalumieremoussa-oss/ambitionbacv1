@@ -1,0 +1,307 @@
+
+{
+  "title": "Quiz 1",
+  "id": "GE003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la principale caractéristique de l’économie ivoirienne?",
+      "réponses": {
+        "A": "Une économie ultra-numérisée orientée vers l’intelligence artificielle",
+        "B": "Une économie secondaire spécialisée dans la robotique industrielle",
+        "C": "Une économie artisanale fermée au commerce extérieur",
+        "D": "Une économie primaire extravertie dépendant des exportations agricoles"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quel est le secteur dominant de l’économie ivoirienne ?",
+      "réponses": {
+        "A": "Le secteur agricole, notamment les cultures de rente comme le café et le cacao",
+        "B": "Le secteur bancaire fortement contrôlé par l’État",
+        "C": "Le secteur touristique tourné vers les zones côtières",
+        "D": "Le secteur militaire avec ses bases régionales autonomes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Pourquoi parle-t-on d’économie extravertie ?",
+      "réponses": {
+        "A": "Car les décisions économiques sont toujours prises par référendum",
+        "B": "Car l’économie repose exclusivement sur les activités minières souterraines",
+        "C": "Parce que la production et la consommation dépendent fortement de l’extérieur",
+        "D": "Parce que l’État privilégie le marché intérieur au détriment des exportations"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est la conséquence de cette extraversion économique ?",
+      "réponses": {
+        "A": "L’autonomie énergétique totale grâce aux ressources minières locales",
+        "B": "La fermeture des frontières pour protéger les industries locales",
+        "C": "L’indépendance monétaire grâce à une devise propre",
+        "D": "La perte de souveraineté économique et politique de l’État ivoirien"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Comment l’auteur qualifie-t-il la période de décroissance économique ?",
+      "réponses": {
+        "A": "Un redressement budgétaire équilibré",
+        "B": "Un mirage trompeur de croissance fictive",
+        "C": "Une transition agricole maîtrisée",
+        "D": "Une réorganisation énergétique durable"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est l’effet de la chute des prix mondiaux sur les produits d’exportation ?",
+      "réponses": {
+        "A": "Une croissance rapide du secteur technologique et des start-ups",
+        "B": "La stabilisation des réserves de devises et le financement des PME",
+        "C": "L’ouverture de nouveaux marchés par la promotion des marques locales",
+        "D": "Une réduction des recettes nationales et un affaiblissement de l’économie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Pourquoi l’économie ivoirienne est-elle qualifiée de fragile ?",
+      "réponses": {
+        "A": "Parce qu’elle repose uniquement sur le commerce artisanal",
+        "B": "Car elle ne dispose d’aucun marché intérieur organisé",
+        "C": "Parce que tous ses investissements sont dans le secteur du transport aérien",
+        "D": "Parce qu’elle dépend des fluctuations du marché mondial et des crises extérieures"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi l’État ivoirien fait-il appel à des investisseurs étrangers ?",
+      "réponses": {
+        "A": "Car les ressources locales sont insuffisantes pour financer les projets de développement",
+        "B": "Parce que les banques nationales refusent d’octroyer des prêts aux projets agricoles",
+        "C": "Parce que la législation interdit à l’État d’emprunter auprès de la BCEAO",
+        "D": "Car les autorités souhaitent réduire les impôts sur les PME locales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelles sont les principales sources de recettes intérieures ?",
+      "réponses": {
+        "A": "La vente des produits d’artisanat dans les foires régionales",
+        "B": "Les impôts et l’épargne nationale, bien que peu suffisants",
+        "C": "Les taxes sur les importations de voitures d’occasion",
+        "D": "Les revenus du tourisme côtier et des musées"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel problème découle de la faiblesse des ressources financières locales ?",
+      "réponses": {
+        "A": "Le manque de personnel médical dans les zones urbaines",
+        "B": "La fermeture des marchés de gros dans les zones frontalières",
+        "C": "La réduction des exportations de cacao vers les pays asiatiques",
+        "D": "La dépendance aux capitaux étrangers pour les projets économiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle est la cause principale de l’inflation en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La fermeture des marchés transfrontaliers par les pays voisins",
+        "B": "La dévaluation du FCFA en 1994 et la hausse du prix du pétrole",
+        "C": "Le développement massif des foires agricoles rurales",
+        "D": "La réduction des impôts sur les produits importés"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est l’impact de l’inflation sur la population ?",
+      "réponses": {
+        "A": "Une hausse du pouvoir d’achat et une augmentation des exportations",
+        "B": "Une réduction des recettes fiscales et une croissance agricole",
+        "C": "Un appauvrissement de la population et un ralentissement économique",
+        "D": "Un enrichissement des classes moyennes urbaines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle conséquence l’État risque-t-il s’il tente de satisfaire tous les besoins de la population ?",
+      "réponses": {
+        "A": "Une aggravation de l’endettement et un déséquilibre budgétaire",
+        "B": "Un contrôle total du commerce intérieur par les collectivités locales",
+        "C": "Une saturation des marchés agricoles vivriers",
+        "D": "Une disparition de la fiscalité informelle"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle est la situation de la dette ivoirienne en 2017 ?",
+      "réponses": {
+        "A": "5.000 milliards de FCFA avec excédent budgétaire",
+        "B": "8.850 milliards de FCFA, soit le double de la valeur des exportations",
+        "C": "1.200 milliards de FCFA financés par l’agriculture vivrière",
+        "D": "900 milliards de FCFA garantis par les banques nationales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle est l’origine de l’aggravation de la dette ivoirienne ?",
+      "réponses": {
+        "A": "L’achat massif d’armes à l’étranger pour renforcer la sécurité intérieure",
+        "B": "La mise en place d’un nouveau système de commerce communautaire",
+        "C": "La crise politique et militaire depuis 1999 qui a accru les dépenses de l’État",
+        "D": "La dépendance des ménages aux importations alimentaires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est l’impact de l’endettement sur le secteur privé ?",
+      "réponses": {
+        "A": "Une augmentation du financement agricole dans les zones rurales",
+        "B": "Une multiplication des entreprises technologiques nationales",
+        "C": "Un enrichissement des commerçants à travers le microcrédit",
+        "D": "Des impayés de l’État qui provoquent faillite et chômage"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel était l’objectif du PAS mis en place dans les années 1980 ?",
+      "réponses": {
+        "A": "Créer une zone franche technologique dans les régions rurales",
+        "B": "Redresser l’économie ivoirienne en prenant des mesures d’austérité",
+        "C": "Développer le tourisme et la commercialisation du textile",
+        "D": "Stimuler l’élevage bovin dans les régions forestières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi le PAS a-t-il échoué ?",
+      "réponses": {
+        "A": "Parce qu’il favorisait trop les régions du Nord au détriment du Sud",
+        "B": "Parce que les impôts sur les produits agricoles ont été supprimés",
+        "C": "Parce que l’État a augmenté les salaires des fonctionnaires",
+        "D": "Parce qu’il imposait des mesures antisociales impopulaires"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quel programme a remplacé le PAS après 2000 ?",
+      "réponses": {
+        "A": "Le programme PPTE (Pays Pauvres Très Endettés)",
+        "B": "L’initiative CLIMAT (Commerce, Libéralisation et Marché Agricole)",
+        "C": "Le programme régional de décentralisation économique",
+        "D": "Le fonds national de soutien aux foyers vulnérables"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel est l’objectif principal du programme PPTE ?",
+      "réponses": {
+        "A": "Créer des zones industrielles dans les pays forestiers",
+        "B": "Alléger, puis annuler la dette extérieure pour relancer l’économie",
+        "C": "Développer les marchés artisanaux à l’échelle régionale",
+        "D": "Augmenter les taxes d’importation sur les produits de luxe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelles sont les réformes économiques entreprises par l’État ?",
+      "réponses": {
+        "A": "L’installation de panneaux solaires dans tous les marchés",
+        "B": "Le remplacement de l’armée par des forces paramilitaires économiques",
+        "C": "La construction d’un tunnel reliant Abidjan à Yamoussoukro",
+        "D": "La modernisation des secteurs économiques et des outils de production"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Quel est un des objectifs des réformes engagées ?",
+      "réponses": {
+        "A": "Augmenter la dette extérieure pour relancer les crédits",
+        "B": "Rendre obligatoire l’usage de monnaies locales dans les échanges",
+        "C": "Améliorer la compétitivité économique du pays",
+        "D": "Réduire la population active au profit des retraités"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Quelle action vise à renforcer les ressources financières locales ?",
+      "réponses": {
+        "A": "La réduction des impôts sur les produits importés uniquement",
+        "B": "L’élargissement de l’assiette fiscale et la lutte contre la fraude",
+        "C": "L’élimination de la fiscalité dans les zones rurales pauvres",
+        "D": "La suppression des banques privées au profit des caisses villageoises"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Quel est un des domaines concernés par les réformes ?",
+      "réponses": {
+        "A": "Le secteur des loisirs uniquement dans les zones balnéaires",
+        "B": "Le système judiciaire et les finances publiques",
+        "C": "Le secteur musical et culturel rural",
+        "D": "Le sport de haut niveau et les compétitions olympiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Quelle mesure favorise la diversification de l’économie ?",
+      "réponses": {
+        "A": "Le maintien exclusif de la monoculture dans le sud forestier",
+        "B": "La fermeture des circuits agricoles traditionnels",
+        "C": "La valorisation des ressources nationales et le développement industriel",
+        "D": "Le remplacement du franc CFA par le bitcoin communautaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Pourquoi la réforme de l’éducation est-elle essentielle dans le texte ?",
+      "réponses": {
+        "A": "Parce qu’elle permet la création de clubs d’importateurs dans les lycées",
+        "B": "Car elle transforme les écoles primaires en centres commerciaux",
+        "C": "Parce qu’elle contribue à renforcer les compétences pour le développement économique",
+        "D": "Parce qu’elle limite l’accès aux universités pour les étudiants non boursiers"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°27": {
+      "question": "Quel type d’économie le texte dénonce-t-il ?",
+      "réponses": {
+        "A": "Une économie nationale à faible ouverture vers l’international",
+        "B": "Une économie minière ultra-contrôlée par les syndicats",
+        "C": "Une économie extravertie, dépendante des marchés étrangers",
+        "D": "Une économie autarcique à base de production artisanale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Quelles sont les limites de la réforme du tissu industriel ?",
+      "réponses": {
+        "A": "Son coût élevé pour les ménages de la diaspora uniquement",
+        "B": "La suppression des formations agricoles dans les universités",
+        "C": "Le refus des agriculteurs de vendre leurs produits dans les grandes villes",
+        "D": "Le manque de financement local et la lenteur des résultats"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Quel problème structurel freine l’investissement local ?",
+      "réponses": {
+        "A": "La multiplication des cybercafés ruraux à but lucratif",
+        "B": "La faiblesse de l’épargne nationale et des ressources fiscales",
+        "C": "L’interdiction d’achat de terres aux familles rurales",
+        "D": "L’instauration d’une journée sans commerce par semaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quel est l’impact des mesures économiques mal appliquées ?",
+      "réponses": {
+        "A": "L’augmentation du tourisme rural dans les zones minières",
+        "B": "La baisse des importations de téléphones portables",
+        "C": "La pauvreté persistante, le chômage et l’instabilité économique",
+        "D": "L’accroissement des fêtes régionales comme facteur de consommation"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

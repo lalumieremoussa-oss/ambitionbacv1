@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour le progrès – La fonction engagée (2) : Politique, militaire et socioculturel – Trouve l'intrus",
+    "id": "FR022_Q2_Engage_PolitiqueSocioculturel",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : Le Soleil des Indépendances d'Ahmadou Kourouma. – Trouve l'intrus",
+            "reponses": {
+                "A": "Célèbre la fidélité des nouveaux dirigeants aux promesses de l'indépendance",
+                "B": "Dénonce la trahison des idéaux postcoloniaux",
+                "C": "Met en scène Salimata, victime de l'excision",
+                "D": "Critique la corruption et les dérives du pouvoir en Afrique"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Œuvre : L'Abolition des privilèges de Bertrand Guillot. – Trouve l'intrus",
+            "reponses": {
+                "A": "Roman historique sur les inégalités avant la Révolution française",
+                "B": "Critique la corruption des dirigeants africains postcoloniaux",
+                "C": "Dénonce les injustices sociales et les privilèges abusifs",
+                "D": "Est un roman engagé sur la question des inégalités"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°3": {
+            "question": "Œuvre : Les Termitières de la savane de Chinua Achebe. – Trouve l'intrus",
+            "reponses": {
+                "A": "Critique les dérives du pouvoir en Afrique",
+                "B": "Est un roman politique engagé sur la dictature",
+                "C": "A pour auteur Wole Soyinka",
+                "D": "Dénonce l'oppression et la manipulation politique"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : La guerre de Troie n'aura pas lieu de Jean Giraudoux. – Trouve l'intrus",
+            "reponses": {
+                "A": "Fait la satire des discours bellicistes des dirigeants",
+                "B": "Est une pièce de théâtre engagée contre la guerre",
+                "C": "S'inspire de la mythologie grecque pour critiquer le pouvoir",
+                "D": "Dénonce la trahison des idéaux postcoloniaux africains"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : Commandant Chaka de Baba Moustapha. – Trouve l'intrus",
+            "reponses": {
+                "A": "A pour auteur Léopold Sédar Senghor",
+                "B": "Critique l'oppression militaire et la dictature",
+                "C": "Dénonce les dérives du pouvoir autoritaire",
+                "D": "Est un roman politique engagé"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°6": {
+            "question": "Œuvre : Chaka de Léopold Sédar Senghor. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "B": "Critique les dérives du pouvoir militaire en Afrique",
+                "C": "Est un poème engagé sur le plan politique",
+                "D": "Met en scène un roi zoulou et sa quête de pouvoir"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°7": {
+            "question": "Œuvre : Le Roman inachevé de Louis Aragon. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un manifeste poétique en faveur du communisme",
+                "B": "Est un recueil de poèmes engagés politiquement",
+                "C": "Dénonce l'exploitation des enfants à l'ère industrielle",
+                "D": "Soutient une idéologie politique de gauche"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "Œuvre : Les Larmes de Carène d'Élodie Yeboua. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce le mariage forcé de deux jeunes filles brillantes",
+                "B": "Met en scène des héroïnes victimes de traditions patriarcales",
+                "C": "Est un roman socioculturel engagé",
+                "D": "Dénonce les douleurs physiques de l'excision"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "Œuvre : L'Oracle de Guy Menga. – Trouve l'intrus",
+            "reponses": {
+                "A": "Fustige l'oppression militaire et la dictature",
+                "B": "Critique la réification de la femme dans la société",
+                "C": "Dénonce la condition féminine et les violences symboliques",
+                "D": "Est un roman qui interroge le poids des traditions"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°10": {
+            "question": "Œuvre : Le Mariage Forcé de Maïmouna Thiombiano. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un plaidoyer pour l'éradication du mariage forcé",
+                "B": "A pour auteur principal Charlotte Bousquet",
+                "C": "Dénonce les violences faites aux femmes",
+                "D": "Met en lumière les conséquences tragiques de cette pratique"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°11": {
+            "question": "Œuvre : Le jour où je suis partie de Charlotte Bousquet. – Trouve l'intrus",
+            "reponses": {
+                "A": "Évoque les conséquences tragiques du mariage forcé",
+                "B": "Raconte la fuite d'une jeune fille pour échapper à un mariage imposé",
+                "C": "Dénonce la colonisation et l'oppression raciale",
+                "D": "Est un roman engagé sur le plan socioculturel"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°12": {
+            "question": "Œuvre : Sous l'orage de Seydou Badian. – Trouve l'intrus",
+            "reponses": {
+                "A": "Conflit générationnel autour du mariage imposé",
+                "B": "Dénonce les tensions dans les familles polygames",
+                "C": "Roman socioculturel sur le mariage forcé",
+                "D": "Dénonce la division de l'Afrique par les puissances coloniales"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Œuvre : La femme de mon père n'est pas ma mère de Théodore Kafando. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce les abus de la colonisation française",
+                "B": "Dévoile les tensions dans les familles polygames",
+                "C": "Critique les violences culturelles liées au patriarcat",
+                "D": "Met en scène les conflits générationnels autour du mariage"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Auteur : Ahmadou Kourouma. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un écrivain ivoirien engagé",
+                "B": "A célébré la colonisation comme un progrès pour l'Afrique",
+                "C": "A écrit Les Soleils des Indépendances",
+                "D": "A dénoncé la trahison des idéaux postcoloniaux"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Auteur : Jean Giraudoux. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un dramaturge français du XXe siècle",
+                "B": "A écrit La guerre de Troie n'aura pas lieu",
+                "C": "A célébré la dictature militaire dans ses pièces",
+                "D": "A dénoncé les discours bellicistes et la manipulation politique"
+            },
+            "bonne reponse": "C"
+        }
+    }
+}

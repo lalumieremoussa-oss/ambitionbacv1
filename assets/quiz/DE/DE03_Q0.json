@@ -1,0 +1,226 @@
+{
+  "title": "Quiz - Deutsch (Verben)",
+  "id": "DE03_Q0",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez le verbe : \"Essen\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Machen",
+        "B": "Trinken",
+        "C": "Singen",
+        "D": "Manger"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"écouter\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schauen",
+        "B": "Lesen",
+        "C": "Helfen",
+        "D": "Hören"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Traduisez le verbe : \"Helfen\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Lieben",
+        "B": "Gehen",
+        "C": "Aider",
+        "D": "Schreiben"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"lire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Singen",
+        "B": "Lesen",
+        "C": "Schlafen",
+        "D": "Gehen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Traduisez le verbe : \"Singen\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schlafen",
+        "B": "Spielen",
+        "C": "Chanter",
+        "D": "Schauen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"faire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Gehen",
+        "B": "Machen",
+        "C": "Essen",
+        "D": "Trinken"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Traduisez le verbe : \"Trinken\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Essen",
+        "B": "Boire",
+        "C": "Schlafen",
+        "D": "Hören"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"jouer\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schreiben",
+        "B": "Machen",
+        "C": "Spielen",
+        "D": "Mögen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Traduisez le verbe : \"Schlafen\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Gehen",
+        "B": "Machen",
+        "C": "Dormir",
+        "D": "Helfen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"aimer\" (bien aimer) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schauen",
+        "B": "Schreiben",
+        "C": "Helfen",
+        "D": "Mögen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez le verbe : \"Schreiben\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Lesen",
+        "B": "Trinken",
+        "C": "Écrire",
+        "D": "Singen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"regarder\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hören",
+        "B": "Schauen",
+        "C": "Singen",
+        "D": "Essen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Traduisez le verbe \"Aller\" en allemand (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Machen",
+        "B": "Gehen",
+        "C": "Essen",
+        "D": "Schreiben"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"dormir\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Lesen",
+        "B": "Schlafen",
+        "C": "Spielen",
+        "D": "Gehen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Traduisez le verbe \"Manger\" en allemand (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Trinken",
+        "B": "Singen",
+        "C": "Essen",
+        "D": "Helfen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"écrire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hören",
+        "B": "Lieben",
+        "C": "Schreiben",
+        "D": "Machen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Traduisez le verbe \"Aimer\" (bien aimer) en allemand (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Gehen",
+        "B": "Machen",
+        "C": "Mögen",
+        "D": "Lesen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"boire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Singen",
+        "B": "Trinken",
+        "C": "Essen",
+        "D": "Spielen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Traduisez le verbe \"Regarder\" en allemand (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schlafen",
+        "B": "Hören",
+        "C": "Helfen",
+        "D": "Schauen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"aider\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Schreiben",
+        "B": "Helfen",
+        "C": "Gehen",
+        "D": "Lesen"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

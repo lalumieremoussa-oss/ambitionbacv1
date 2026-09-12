@@ -1,0 +1,239 @@
+{
+  "id": "SVT010_Q3",
+  "title": "Quiz 3: Génétique humaine et hérédité liée au sexe",
+  "questions": {
+    "question n°1": {
+      "question": "Le code de transmission père-fille dans le cas de l'allèle récessif d'une anomalie n'est valable que si le père est apparemment sain.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Le code de transmission père-fille dans le cas de l'allèle d'une anomalie dominante n'est valable que si le père est atteint.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Dans cet arbre généalogique, l’allèle responsable du daltonisme est dominant.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le couple d’allèles est S/s.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "L’allèle responsable de la maladie est récessif. On choisit un père apparemment sain comme 13, puis on observe ses filles pour vérifier si l’allèle est lié au sexe.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "L’allèle responsable de la maladie n’est pas lié au sexe parce que la transmission père-fille n’est pas respectée.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Comme l’allèle responsable du daltonisme est récessif, toute personne malade est forcément homozygote d//d.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Les filles saines sont génotypées par $X^D X^D$ ou $X^D X^d$.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Les hommes sains sont génotypés par $X^D Y$.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Une femme daltonienne a forcément le génotype $X^d X^d$.",
+      "image": "assets/images/svt/mono(5).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "L'allèle responsable de la maladie du pedigree A est :",
+      "image": "assets/images/svt/mono(6).png",
+      "réponses": {
+        "A": "Récessif",
+        "B": "Dominant"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "L'allèle responsable de la maladie du pedigree A est :",
+      "image": "assets/images/svt/mono(6).png",
+      "réponses": {
+        "A": "Autosomal",
+        "B": "Lié au sexe"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "L'allèle responsable de la maladie du pedigree B est :",
+      "image": "assets/images/svt/mono(6).png",
+      "réponses": {
+        "A": "Récessif",
+        "B": "Dominant"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'allèle responsable de la maladie du pedigree B est :",
+      "image": "assets/images/svt/mono(6).png",
+      "réponses": {
+        "A": "Autosomal",
+        "B": "Lié au sexe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Les individus 1 et 2 du pedigree A sont :",
+      "réponses": {
+        "A": "Hétérozygotes",
+        "B": "Homozygotes récessifs",
+        "C": "Homozygotes dominants"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Les individus 1 et 2 du pedigree B sont :",
+      "image": "assets/images/svt/mono(6).png",
+      "réponses": {
+        "A": "Hétérozygotes",
+        "B": "Homozygotes récessifs",
+        "C": "Homozygotes dominants"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "L'allèle de la maladie est récessif.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Le couple d'allèles est S/s.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'allèle responsable de la maladie est lié au sexe.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Tous les individus malades sont homozygotes dominants.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Les individus I-1 et II-4 sont hétérozygotes.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "L'individu II-1 a pour génotype $M/m$.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Tous les individus sains sont hétérozygotes.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "L’allèle défectueux est porté par le chromosome X.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Un homme atteint transmet forcément l’allèle malade à toutes ses filles.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Une femme hétérozygote peut transmettre l’allèle malade à ses enfants.",
+      "image": "assets/images/svt/mono(7).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

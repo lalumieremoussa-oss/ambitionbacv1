@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+
+            [
+                {
+                    "title": "Étape 1 : Calcul de primitives et intégrales fondamentales",
+                    "content": "Le calcul intégral repose sur la recherche de primitives. Si $F$ est une primitive de la fonction continue $f$ sur $[a, b]$, alors l'intégrale est définie par $\\int_{a}^{b} f(x) dx = F(b) - F(a)$.\nLes formes les plus fréquentes au BAC concernent les fonctions exponentielles et logarithmiques :\n1. Forme $\\frac{u'(x)}{u(x)}$ : La primitive est $\\ln|u(x)|$.\n2. Forme $u'(x)e^{u(x)}$ : La primitive est $e^{u(x)}$.\n3. Forme $u'(x)u(x)^n$ : La primitive est $\\frac{u(x)^{n+1}}{n+1}$.\nIl est crucial de savoir manipuler les constantes pour faire apparaître la dérivée $u'(x)$ manquante devant l'expression.",
+                    "example": "Calculons l'intégrale $I = \\int_{0}^{1} \\frac{e^x}{e^x + 2} dx$ :\nOn remarque que le numérateur $e^x$ est exactement la dérivée du dénominateur $u(x) = e^x + 2$.\nLa fonction est donc de la forme $\\frac{u'}{u}$.\nUne primitive est $F(x) = \\ln(e^x + 2)$ (on omet les barres de valeur absolue car $e^x + 2 > 0$).\n\n$I = [\\ln(e^x + 2)]_{0}^{1}$\n$I = \\ln(e^1 + 2) - \\ln(e^0 + 2)$\n$I = \\ln(e + 2) - \\ln(1 + 2)$\n$I = \\ln(e + 2) - \\ln(3)$\n$I = \\ln\\left(\\frac{e + 2}{3}\\right)$.",
+                    "extras": [
+                        "Exemple complet : Calcul de $K = \\int_{0}^{\\ln 3} \\frac{e^x}{1+e^x} dx$.\n$u(x) = 1 + e^x \\implies u'(x) = e^x$.\n$K = [\\ln(1+e^x)]_{0}^{\\ln 3} = \\ln(1+e^{\\ln 3}) - \\ln(1+e^0)$.\n$K = \\ln(1+3) - \\ln(2) = \\ln(4) - \\ln(2) = \\ln(2)$.",
+                        "Exemple complet : Calcul de $M = \\int_{0}^{\\pi} \\sin(2x) dx$.\nLa primitive de $\\sin(ax+b)$ est $-\\frac{1}{a}\\cos(ax+b)$.\n$M = [-\\frac{1}{2}\\cos(2x)]_{0}^{\\pi} = -\\frac{1}{2}\\cos(2\\pi) - (-\\frac{1}{2}\\cos(0))$.\n$M = -\\frac{1}{2}(1) + \\frac{1}{2}(1) = 0$.",
+                        "Exemple complet : Calcul de $P = \\int_{1}^{e} \\frac{\\ln x}{x} dx$.\nOn remarque la forme $u' \\cdot u^1$ avec $u(x) = \\ln x$ et $u'(x) = \\frac{1}{x}$.\n$P = [\\frac{1}{2}(\\ln x)^2]_{1}^{e} = \\frac{1}{2}(\\ln e)^2 - \\frac{1}{2}(\\ln 1)^2$.\n$P = \\frac{1}{2}(1)^2 - 0 = 0,5$.",
+                        "Exemple complet : Calcul de $Q = \\int_{0}^{1} (x^2 + 2x) dx$.\n$F(x) = \\frac{1}{3}x^3 + x^2$.\n$Q = (\\frac{1}{3} + 1) - (0) = \\frac{4}{3}$.",
+                        "Exemple complet : Calcul de $R = \\int_{0}^{2} e^{3x} dx$.\nOn ajuste pour avoir $u'e^u$ : $\\int \\frac{1}{3}(3e^{3x}) dx$.\n$R = [\\frac{1}{3}e^{3x}]_{0}^{2} = \\frac{1}{3}e^6 - \\frac{1}{3}e^0 = \\frac{e^6 - 1}{3}$.",
+                        "Exemple complet : Calcul de $S = \\int_{1}^{2} \\frac{1}{x+3} dx$.\n$F(x) = \\ln|x+3|$.\n$S = \\ln(5) - \\ln(4) = \\ln(1,25)$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : L'Intégration par Parties (IPP)",
+                    "content": "L'intégration par parties est une technique utilisée pour intégrer un produit de deux fonctions qui n'est pas de la forme $u'v$ ou $u'e^u$.\nLa formule est : $\\int_{a}^{b} u(x)v'(x) dx = [u(x)v(x)]_{a}^{b} - \\int_{a}^{b} u'(x)v(x) dx$.\nLe choix de $u(x)$ est primordial :\n- Si on a un produit Polynôme $\\times$ Exponentielle : on pose $u(x) = \\text{Polynôme}$ pour abaisser son degré.\n- Si on a un produit Polynôme $\\times$ Logarithme : on pose $u(x) = \\ln(x)$ car on sait dériver $\\ln(x)$ mais pas l'intégrer directement.",
+                    "example": "Calculons $L = \\int_{0}^{1} (x+1)e^{-x} dx$ par IPP :\nPosons :\n$u(x) = x + 1 \\implies u'(x) = 1$\n$v'(x) = e^{-x} \\implies v(x) = -e^{-x}$\n\nEn appliquant la formule :\n$L = [(x+1)(-e^{-x})]_{0}^{1} - \\int_{0}^{1} 1 \\cdot (-e^{-x}) dx$\n$L = [(2)(-e^{-1}) - (1)(-e^{0})] + \\int_{0}^{1} e^{-x} dx$\n$L = [-2e^{-1} + 1] + [-e^{-x}]_{0}^{1}$\n$L = -2e^{-1} + 1 + [-e^{-1} - (-e^{0})]$\n$L = -2e^{-1} + 1 - e^{-1} + 1$\n$L = 2 - 3e^{-1}$ ou $2 - \\frac{3}{e}$.",
+                    "extras": [
+                        "Exemple complet : Calcul de $I = \\int_{1}^{e} x \\ln x dx$.\n$u = \\ln x \\implies u' = 1/x$ et $v' = x \\implies v = x^2/2$.\n$I = [\\frac{x^2}{2}\\ln x]_{1}^{e} - \\int_{1}^{e} \\frac{x^2}{2} \\cdot \\frac{1}{x} dx = \\frac{e^2}{2} - [\\frac{x^2}{4}]_{1}^{e}$.\n$I = \\frac{e^2}{2} - (\\frac{e^2}{4} - \\frac{1}{4}) = \\frac{e^2 + 1}{4}$.",
+                        "Exemple complet : Calcul de $J = \\int_{0}^{\\pi} x \\sin x dx$.\n$u = x, v' = \\sin x \\implies u' = 1, v = -\\cos x$.\n$J = [-x \\cos x]_{0}^{\\pi} - \\int_{0}^{\\pi} -\\cos x dx = (-\\pi \\cos \\pi - 0) + [\\sin x]_{0}^{\\pi}$.\n$J = \\pi + 0 = \\pi$.",
+                        "Exemple complet : Calcul de $\\int_{1}^{e} \\ln x dx$.\nOn pose $u = \\ln x$ et $v' = 1$.\n$J = [x \\ln x]_{1}^{e} - \\int_{1}^{e} x \\cdot \\frac{1}{x} dx = e - [x]_{1}^{e} = e - (e - 1) = 1$.",
+                        "Exemple complet : Calcul de $\\int_{0}^{1} x^2 e^x dx$ (Double IPP).\nOn pose $u=x^2$, on réduit à une intégrale de $2xe^x$, puis on refait une IPP sur cette dernière.",
+                        "Exemple complet : Calcul de $\\int_{1}^{2} x^2 \\ln x dx$.\n$u = \\ln x, v' = x^2 \\implies u' = 1/x, v = x^3/3$.\n$K = [\\frac{x^3}{3}\\ln x]_{1}^{2} - \\int_{1}^{2} \\frac{x^2}{3} dx = \\frac{8}{3}\\ln 2 - [\\frac{x^3}{9}]_{1}^{2} = \\frac{8}{3}\\ln 2 - \\frac{7}{9}$.",
+                        "Exemple complet : Calcul de $\\int_{0}^{1} x e^{2x} dx$.\n$u = x, v' = e^{2x} \\implies u' = 1, v = \\frac{1}{2}e^{2x}$.\n$Res = [\\frac{x}{2}e^{2x}]_{0}^{1} - \\int_{0}^{1} \\frac{1}{2}e^{2x} dx = \\frac{1}{2}e^2 - [\\frac{1}{4}e^{2x}]_{0}^{1} = \\frac{e^2+1}{4}$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Calcul d'aires géométriques",
+                    "content": "L'aire d'un domaine délimité par la courbe d'une fonction continue $f$, l'axe des abscisses et les droites verticales $x=a$ et $x=b$ est donnée par $\\mathcal{A} = \\int_{a}^{b} |f(x)| dx$ en unités d'aire (u.a.).\n1. Si $f(x) \\geq 0$ sur $[a, b]$, l'aire est simplement $\\int_{a}^{b} f(x) dx$.\n2. Si $f(x) \\leq 0$ sur $[a, b]$, l'aire est $-\\int_{a}^{b} f(x) dx$ (pour obtenir une valeur positive).\n3. Si le domaine est entre deux courbes $f$ et $g$, l'aire est $\\int_{a}^{b} (f(x) - g(x)) dx$ en supposant que $f \\geq g$.\nPour convertir en $cm^2$, multipliez par l'aire d'une unité (ex: si $1u.a. = 2cm \\times 2cm = 4cm^2$).",
+                    "example": "Calculons l'aire du domaine délimité par $f(x) = e^x - 1$, l'axe des abscisses et les droites $x=0$ et $x=\\ln 2$ :\nSur l'intervalle $[0, \\ln 2]$, la fonction $e^x - 1$ est positive car $e^x \\geq e^0 = 1$.\n\n$\\mathcal{A} = \\int_{0}^{\\ln 2} (e^x - 1) dx$\n$\\mathcal{A} = [e^x - x]_{0}^{\\ln 2}$\n$\\mathcal{A} = (e^{\\ln 2} - \\ln 2) - (e^0 - 0)$\n$\\mathcal{A} = (2 - \\ln 2) - 1$\n$\\mathcal{A} = 1 - \\ln 2$ u.a.\nSi l'unité est $2 cm$, alors $1 u.a. = 4 cm^2$, l'aire est $4(1 - \\ln 2) cm^2$.",
+                    "extras": [
+                        "Exemple complet : Aire sous $f(x) = 1/x$ entre $x=1$ et $x=e$.\n$\\mathcal{A} = \\int_{1}^{e} \\frac{1}{x} dx = [\\ln x]_{1}^{e} = \\ln e - \\ln 1 = 1$ u.a.",
+                        "Exemple complet : Aire entre $f(x) = x^2$ et $g(x) = x$ sur $[0, 1]$.\nComme $x \\geq x^2$ sur cet intervalle :\n$\\mathcal{A} = \\int_{0}^{1} (x - x^2) dx = [\\frac{x^2}{2} - \\frac{x^3}{3}]_{0}^{1} = \\frac{1}{2} - \\frac{1}{3} = \\frac{1}{6}$ u.a.",
+                        "Exemple complet : Aire de $f(x) = \\cos x$ sur $[0, \\pi/2]$.\n$\\mathcal{A} = [\\sin x]_{0}^{\\pi/2} = \\sin(\\pi/2) - 0 = 1$ u.a.",
+                        "Exemple complet : Fonction négative $f(x) = -e^x$. Aire entre $0$ et $1$.\n$\\mathcal{A} = -\\int_{0}^{1} -e^x dx = \\int_{0}^{1} e^x dx = e - 1$ u.a.",
+                        "Exemple complet : Aire délimitée par $f(x) = \\frac{\\ln x}{x}$ entre $x=1$ et $x=e$.\n$\\mathcal{A} = [\\frac{1}{2}(\\ln x)^2]_{1}^{e} = 0,5$ u.a.",
+                        "Exemple complet : Changement d'unité.\nSi $1 u.a. = 10 cm^2$ et l'intégrale vaut $2,5$, l'aire réelle est $25 cm^2$."
+                    ]
+                }
+            ]
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

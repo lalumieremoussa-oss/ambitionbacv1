@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+            [
+                {
+                    "title": "Étape 1 : Primitives des fonctions usuelles (Puissances, constantes et identité)",
+                    "content": "On appelle primitive d'une fonction $f$ sur un intervalle $I$, une fonction $F$ telle que pour tout $x \\in I$, $F'(x) = f(x)$.\nLes formules de base découlent directement de l'inversion des formules de dérivation :\n\n1. **Fonction constante :** Si $f(x) = a$, alors $F(x) = ax + C$.\n2. **Fonction puissance ($x^n$ avec $n \\neq -1$) :** Si $f(x) = x^n$, alors $F(x) = \\frac{x^{n+1}}{n+1} + C$.\n3. **Fonction identité :** Si $f(x) = x$, alors $F(x) = \\frac{x^2}{2} + C$.\n4. **Fonction inverse :** Si $f(x) = \\frac{1}{x^2}$ (soit $x^{-2}$), alors $F(x) = -\\frac{1}{x} + C$.\n\n**Règles de calcul :**\n- La primitive de la somme est la somme des primitives : $\\int (u+v) = \\int u + \\int v$.\n- La primitive de $k \\cdot u$ est $k \\cdot \\int u$.\n- Le symbole $C$ représente une constante réelle arbitraire.",
+                    "example": "Déterminons la primitive $F$ de la fonction $f(x) = 3x^2 - 4x + 5$ :\n\nIci, nous appliquons la linéarité terme par terme :\n1. Pour $3x^2$ : la primitive est $3 \\times \\frac{x^3}{3} = x^3$.\n2. Pour $-4x$ : la primitive est $-4 \\times \\frac{x^2}{2} = -2x^2$.\n3. Pour $5$ : la primitive est $5x$.\n\nLa forme générale des primitives est donc :\n$F(x) = x^3 - 2x^2 + 5x + C$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = x^4 - x^3 + 1$.\n$F(x) = \\frac{x^5}{5} - \\frac{x^4}{4} + x + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{1}{x^2} + 2x$.\nOn sait que la primitive de $\\frac{1}{x^2}$ est $-\\frac{1}{x}$.\nCelle de $2x$ est $x^2$.\nAinsi, $F(x) = -\\frac{1}{x} + x^2 + C$.",
+                        "Exemple complet : Soit $f(x) = 7$.\n$f$ est une fonction constante.\n$F(x) = 7x + C$.",
+                        "Exemple complet : Soit $f(x) = x^n$ avec $n=5$.\n$F(x) = \\frac{x^{5+1}}{5+1} = \\frac{x^6}{6} + C$.",
+                        "Exemple de condition initiale : Trouver $F$ telle que $f(x) = 2x$ et $F(1) = 5$.\n$F(x) = x^2 + C$.\n$F(1) = 1^2 + C = 5 \\implies C = 4$.\nLa solution unique est $F(x) = x^2 + 4$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Primitives des fonctions trigonométriques et racine carrée",
+                    "content": "Cette étape aborde les primitives des fonctions circulaires et la fonction racine carrée élémentaire.\n\n1. **Fonction Sinus :** Si $f(x) = \\sin(x)$, alors $F(x) = -\\cos(x) + C$.\n2. **Fonction Cosinus :** Si $f(x) = \\cos(x)$, alors $F(x) = \\sin(x) + C$.\n3. **Fonction Racine carrée :** Si $f(x) = \\frac{1}{\\sqrt{x}}$, alors $F(x) = 2\\sqrt{x} + C$.\n\n**Propriétés trigonométriques étendues :**\nSi $f(x) = \\cos(ax + b)$, alors $F(x) = \\frac{1}{a}\\sin(ax + b) + C$.\nSi $f(x) = \\sin(ax + b)$, alors $F(x) = -\\frac{1}{a}\\cos(ax + b) + C$.",
+                    "example": "Déterminons la primitive de $f(x) = \\cos(2x) + \\frac{3}{\\sqrt{x}}$ :\n\n1. Pour $\\cos(2x)$ : C'est de la forme $\\cos(ax)$ avec $a=2$.\nLa primitive est $\\frac{1}{2}\\sin(2x)$.\n2. Pour $\\frac{3}{\\sqrt{x}}$ : On utilise la règle $k \\cdot \\frac{1}{\\sqrt{x}}$.\nLa primitive est $3 \\times (2\\sqrt{x}) = 6\\sqrt{x}$.\n\nLe résultat final est :\n$F(x) = \\frac{1}{2}\\sin(2x) + 6\\sqrt{x} + C$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = \\sin(3x)$.\n$a=3, b=0$.\n$F(x) = -\\frac{1}{3}\\cos(3x) + C$.",
+                        "Exemple complet : Soit $f(x) = 5\\cos(x) - 2\\sin(x)$.\n$F(x) = 5\\sin(x) - 2(-\\cos(x)) = 5\\sin(x) + 2\\cos(x) + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{1}{2\\sqrt{x}}$.\nC'est la dérivée directe de $\\sqrt{x}$.\n$F(x) = \\sqrt{x} + C$.",
+                        "Exemple complet : Soit $f(x) = \\cos(x + \\frac{\\pi}{4})$.\n$F(x) = \\sin(x + \\frac{\\pi}{4}) + C$.",
+                        "Exemple complet : Soit $f(x) = 4\\sin(2x)$.\n$F(x) = 4 \\times (-\\frac{1}{2}\\cos(2x)) = -2\\cos(2x) + C$."
+                    ]
+                }
+            ]
+
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

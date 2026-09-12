@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour le progrès – La fonction didactique (1) : Mémoire historique et leçons morales – Trouve l'intrus",
+    "id": "FR024_Q2_Didactique1",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : La Prise de Sikasso d'Abou Diarra. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce l'exploitation des enfants dans les mines",
+                "B": "Met en scène la résistance héroïque du roi Babemba Traoré face aux colons français",
+                "C": "Sert de mémoire historique pour éclairer le présent sur la colonisation",
+                "D": "Relate un épisode marquant de la conquête coloniale en Afrique de l'Ouest"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Œuvre : Soundjata ou l'épopée mandingue de Djibril Tamsir Niane. – Trouve l'intrus",
+            "reponses": {
+                "A": "Relate la fondation de l'Empire du Mali par Soundjata Kéita",
+                "B": "Dénonce les abus coloniaux à travers une grève ouvrière",
+                "C": "Met en lumière les grandes figures africaines et les valeurs politiques de l'époque",
+                "D": "Transmet des savoirs historiques et culturels sur l'Afrique médiévale"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°3": {
+            "question": "Œuvre : Cinna de Corneille. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une tragédie romaine sur la clémence impériale d'Auguste",
+                "B": "Met en scène des héros animés par des passions politiques et personnelles",
+                "C": "Célèbre les rites initiatiques de la culture guinéenne",
+                "D": "Sert de mémoire historique pour éclairer le présent sur les passions et le pouvoir"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : Soundjata, le lion du Mandingue de Laurent Gbagbo. – Trouve l'intrus",
+            "reponses": {
+                "A": "Met en valeur le courage, la persévérance et le leadership du héros mandingue",
+                "B": "Inspire le lecteur à s'approprier des vertus morales",
+                "C": "Transmet une leçon de ténacité et de détermination face à l'adversité",
+                "D": "Est un roman policier sur les enquêtes modernes"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : Les frasques d'Ebinto d'Amadou Koné. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce les violences culturelles liées à l'excision",
+                "B": "Met en lumière les conséquences désastreuses des erreurs de jeunesse",
+                "C": "Souligne la nécessité de faire preuve de sagesse et de discernement",
+                "D": "Est un roman didactique sur l'apprentissage et la maturité"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°6": {
+            "question": "Œuvre : Les Fables de Jean de La Fontaine. – Trouve l'intrus",
+            "reponses": {
+                "A": "Utilise des animaux pour illustrer des morales universelles",
+                "B": "Est un recueil de poèmes philosophiques abstraits sans portée morale",
+                "C": "Transmet des leçons de vie sur le comportement humain",
+                "D": "Enseigne la prudence, l'honnêteté, la justice et l'humilité"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°7": {
+            "question": "Auteur : Djibril Tamsir Niane. – Trouve l'intrus",
+            "reponses": {
+                "A": "A valorisé les grandes figures de l'Afrique médiévale dans ses écrits",
+                "B": "A écrit Soundjata ou l'épopée mandingue, roman historique inspiré de la tradition orale",
+                "C": "A dénoncé la corruption des dirigeants postcoloniaux",
+                "D": "Est un écrivain guinéen et historien reconnu"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "Auteur : Laurent Gbagbo. – Trouve l'intrus",
+            "reponses": {
+                "A": "A écrit Soundjata, le lion du Mandingue sur le leadership exemplaire",
+                "B": "A mis en valeur le courage et la persévérance du héros mandingue",
+                "C": "Est un écrivain ivoirien et homme politique",
+                "D": "A dénoncé la trahison des idéaux postcoloniaux"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "Auteur : Amadou Koné. – Trouve l'intrus",
+            "reponses": {
+                "A": "A dénoncé les douleurs physiques de l'excision rituelle",
+                "B": "A enseigné la sagesse et le discernement à travers Les frasques d'Ebinto",
+                "C": "A écrit un roman didactique sur les erreurs de jeunesse",
+                "D": "A souligné la nécessité de la prudence chez les jeunes"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°10": {
+            "question": "Auteur : Jean de La Fontaine. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un poète classique du XVIIe siècle français",
+                "B": "A critiqué les abus de la colonisation africaine",
+                "C": "A composé des fables animalières à portée morale",
+                "D": "A enseigné la prudence et l'humilité aux lecteurs"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°11": {
+            "question": "Argument : La littérature comme mémoire historique. – Trouve l'intrus",
+            "reponses": {
+                "A": "L'écrivain est un secrétaire de son époque qui retrace les faits passés",
+                "B": "Le roman historique éclaire le présent et nourrit la réflexion sur l'avenir",
+                "C": "La littérature historique doit célébrer sans critique les régimes en place",
+                "D": "Les œuvres historiques transmettent les leçons du passé aux générations futures"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°12": {
+            "question": "Argument : La littérature comme vecteur de leçons morales. – Trouve l'intrus",
+            "reponses": {
+                "A": "Les héros d'une œuvre ont toujours une signification morale",
+                "B": "Les personnages illustrent des valeurs ou des erreurs à éviter",
+                "C": "Les fables de La Fontaine sont des modèles d'enseignement moral",
+                "D": "La littérature didactique doit se limiter à une pure description esthétique"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Œuvre : La Prise de Sikasso d'Abou Diarra. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une tragédie moderne sur les conflits identitaires sans ancrage historique",
+                "B": "Relate un épisode de la conquête coloniale française au Soudan",
+                "C": "Enseigne aux lecteurs la bravoure et le patriotisme du peuple sénoufo",
+                "D": "Met en scène la résistance héroïque d'un peuple africain face à l'envahisseur"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Œuvre : Soundjata ou l'épopée mandingue de Djibril Tamsir Niane. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un roman historique inspiré de la tradition orale mandingue",
+                "B": "Ignore totalement les réalités politiques pour ne célébrer que la beauté du récit",
+                "C": "Célèbre l'unité et la puissance de l'empire mandingue avant l'arrivée des colons",
+                "D": "Met en scène des figures héroïques qui incarnent des idéaux"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Œuvre : Les frasques d'Ebinto d'Amadou Koné. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un roman d'apprentissage sur les erreurs de jeunesse",
+                "B": "Met en garde contre l'imprudence et les mauvais choix",
+                "C": "Célèbre les rites initiatiques de la culture mandingue",
+                "D": "Souligne le besoin de sagesse et de discernement à l'adolescence"
+            },
+            "bonne reponse": "C"
+        }
+    }
+}

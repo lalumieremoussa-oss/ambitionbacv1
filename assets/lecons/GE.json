@@ -1,0 +1,224 @@
+[
+  {
+    "id": "GE001",
+    "titre": "Les fondements du développement économique de la Côte d’Ivoire",
+    "sections": [
+      {
+        "id": "GE001_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "GE001_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "GE001_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "GE001_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "GE001_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "GE002",
+    "titre": "Les secteurs d’activités économiques de la Côte d’Ivoire",
+    "sections": [
+      {
+        "id": "GE002_C1",
+        "titre": "Cours 1: Méthodologie spéciale de rédaction"
+      },
+      {
+        "id": "GE002_C2",
+        "titre": "Cours 2: l'agriculture "
+      },
+      {
+        "id": "GE002_C3",
+        "titre": "Cours 3: l'élevage"
+      },
+      {
+        "id": "GE002_C4",
+        "titre": "Cours 4: la pêche"
+      },
+      {
+        "id": "GE002_C5",
+        "titre": "Cours 5: l'exploitation forestière"
+      },
+      {
+        "id": "GE002_C6",
+        "titre": "Cours 6: secteur industriel"
+      },
+      {
+        "id": "GE002_C7",
+        "titre": "Cours 6: le transport"
+      },
+      {
+        "id": "GE002_C8",
+        "titre": "Cours 6: le tourisme"
+      },
+      {
+        "id": "GE002_C9",
+        "titre": "Cours 6: le commerce"
+      },
+      {
+        "id": "GE002_Q1",
+        "titre": "Quiz partie 1: l'agriculture 1"
+      },
+      {
+        "id": "GE002_Q2",
+        "titre": "Quiz partie 2: l'agriculture 2"
+      },
+      {
+        "id": "GE002_Q3",
+        "titre": "Quiz partie 3: l'exploitation forestière"
+      },
+      {
+        "id": "GE002_Q4",
+        "titre": "Quiz partie 4: l'élevage"
+      },
+      {
+        "id": "GE002_Q5",
+        "titre": "Quiz partie 5: la pêche"
+      },
+      {
+        "id": "GE002_Q6",
+        "titre": "Quiz partie 6: secteur industriel 1"
+      },
+      {
+        "id": "GE002_Q7",
+        "titre": "Quiz partie 7: secteur industriel 2"
+      },
+      {
+        "id": "GE002_Q8",
+        "titre": "Quiz partie 8: le transport"
+      },
+      {
+        "id": "GE002_Q9",
+        "titre": "Quiz partie 9: le tourisme"
+      },
+      {
+        "id": "GE002_Q10",
+        "titre": "Quiz partie 10: le commerce"
+      }
+    ]
+  },
+  {
+    "id": "GE003",
+    "titre": "Les problèmes de développement économique de la Côte d’Ivoire",
+    "sections": [
+      {
+        "id": "GE003_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "GE003_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "GE003_C3",
+        "titre": "Cours 3"
+      },
+      {
+        "id": "GE003_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "GE003_Q2",
+        "titre": "Quiz 2"
+      }
+    ]
+  },
+  {
+    "id": "GE004",
+    "titre": "La CEDEAO : une organisation régionale à caractère économique",
+    "sections": [
+      {
+        "id": "GE004_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "GE004_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "GE004_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "GE004_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "GE005",
+    "titre": "Les relations UE/ACP : un exemple de coopération Nord-Sud",
+    "sections": [
+      {
+        "id": "GE005_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "GE005_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "GE005_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "GE005_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "GE006",
+    "titre": "Les fondements de l’économie de la France",
+    "sections": [
+      {
+        "id": "GE006_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "GE006_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "GE006_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "GE006_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "GE007",
+    "titre": "La France : une économie dominée par le tertiaire",
+    "sections": [
+      {
+        "id": "GE007_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "GE007_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "GE007_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "GE007_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  }
+]

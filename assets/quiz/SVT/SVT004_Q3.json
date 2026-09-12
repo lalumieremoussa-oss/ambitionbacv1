@@ -1,0 +1,288 @@
+{
+  "title": "Quiz 3",
+  "id": "SVT004_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quels éléments sont mesurés dans un muscle au repos et en activité, selon le document ?",
+      "réponses": {
+        "A": "Seulement l'oxygène et le glucose.",
+        "B": "L'oxygène, le glucose, le glycogène, l'ATP et l'acide lactique.",
+        "C": "Uniquement l'ATP et l'acide lactique.",
+        "D": "Le dioxyde de carbone et l'eau."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "L'objectif de mesurer ces substances est de comprendre :",
+      "réponses": {
+        "A": "La thermorégulation musculaire.",
+        "B": "Le mécanisme de la contraction musculaire.",
+        "C": "La croissance des fibres musculaires.",
+        "D": "La régénération nerveuse."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Vrai ou Faux : Le glycogène est une substance mesurée dans les muscles au repos et en activité pour comprendre les phénomènes chimiques.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Au cours de l'activité musculaire, que se passe-t-il avec la production d'oxygène et de glucose ?",
+      "réponses": {
+        "A": "Elle diminue.",
+        "B": "Elle reste constante.",
+        "C": "Elle augmente.",
+        "D": "Elle n'est pas mentionnée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Où l'oxygène et le glucose sont-ils principalement utilisés pour produire de l'ATP ?",
+      "réponses": {
+        "A": "Dans le cytoplasme.",
+        "B": "Dans le noyau de la cellule.",
+        "C": "Dans la mitochondrie.",
+        "D": "Dans le réticulum endoplasmique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel gaz est formé au cours de la production d'ATP par la voie aérobie ?",
+      "réponses": {
+        "A": "L'hydrogène (H2).",
+        "B": "Le monoxyde de carbone (CO).",
+        "C": "Le dioxyde de carbone (CO2).",
+        "D": "L'azote (N2)."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La réaction C6H12O6 + 6O2 -----> 6CO2 + 6H2O + 38ATP représente :",
+      "réponses": {
+        "A": "La fermentation lactique.",
+        "B": "La voie de la phosphocréatine.",
+        "C": "La respiration cellulaire.",
+        "D": "La voie de la myokinase."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Comment est qualifiée la voie de production d'ATP représentée par l'équation C6H12O6 + 6O2 -----> 6CO2 + 6H2O + 38ATP ?",
+      "réponses": {
+        "A": "Voie rapide.",
+        "B": "Voie anaérobie.",
+        "C": "Voie aérobie.",
+        "D": "Voie de la myokinase."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "En termes de vitesse, la voie aérobie est qualifiée de :",
+      "réponses": {
+        "A": "Très rapide.",
+        "B": "Rapide.",
+        "C": "Lente.",
+        "D": "Inconnue."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : La respiration cellulaire est une autre appellation de la voie aérobie.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le dioxyde de carbone (CO2) est un réactif utilisé dans la voie aérobie.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "La production d’oxygène et de glucose augmente car ils sont utilisés dans la .....A..... pour produire de l’ATP, et il se forme aussi le .....B...... Cette voie est appelée la voie .....C..... ou respiration cellulaire.",
+      "réponses": {
+        "A": "A: membrane, B: eau, C: anaérobie",
+        "B": "A: mitochondrie, B: dioxyde de carbone, C: aérobie",
+        "C": "A: vacuole, B: oxygène, C: rapide",
+        "D": "A: cytoplasme, B: acide lactique, C: lente"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Pourquoi la quantité d'ATP reste-t-elle constante au cours de la communication musculaire, même si elle est utilisée ?",
+      "réponses": {
+        "A": "Parce qu'elle est stockée en très grande quantité.",
+        "B": "Parce qu'elle est recyclée et renouvelée.",
+        "C": "Parce qu'elle n'est pas réellement consommée.",
+        "D": "Parce qu'elle est produite uniquement par la voie aérobie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle voie de production d'ATP est décrite par la réaction 2ADP → ATP + AMP ?",
+      "réponses": {
+        "A": "La voie de la phosphocréatine.",
+        "B": "La voie anaérobie.",
+        "C": "La voie de la myokinase.",
+        "D": "La respiration cellulaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle voie de production d'ATP est décrite par la réaction ADP + Phosphocréatine → ATP + Créatine ?",
+      "réponses": {
+        "A": "La voie aérobie.",
+        "B": "La voie de la myokinase.",
+        "C": "La voie de la phosphocréatine.",
+        "D": "La voie de la fermentation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Les voies de la myokinase et de la phosphocréatine sont qualifiées de :",
+      "réponses": {
+        "A": "Voies lentes.",
+        "B": "Voies rapides.",
+        "C": "Voies secondaires.",
+        "D": "Voies inefficaces."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est le produit de la voie de la phosphocréatine, en plus de l'ATP ?",
+      "réponses": {
+        "A": "L'AMP.",
+        "B": "La créatine.",
+        "C": "Le glucose.",
+        "D": "L'acide lactique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel est le rôle principal de l'ATP dans l'activité musculaire, selon le document ?",
+      "réponses": {
+        "A": "Accumuler de l'acide lactique.",
+        "B": "Dégrader le glucose.",
+        "C": "Être nécessaire à l'activité musculaire.",
+        "D": "Produire du dioxyde de carbone."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Selon le document, l'ATP est-il produit par une seule voie ou plusieurs voies ?",
+      "réponses": {
+        "A": "Une seule voie (aérobie).",
+        "B": "Une seule voie (myokinase).",
+        "C": "Plusieurs voies (aérobie, myokinase, phosphocréatine).",
+        "D": "Aucune voie spécifique n'est mentionnée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : La voie de la myokinase est une voie lente de production d'ATP.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Vrai ou Faux : La phosphocréatine est une source rapide d'ATP.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "Vrai ou Faux : La quantité d'ATP diminue drastiquement dans un muscle en activité car il n'est pas renouvelé.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Vrai ou Faux : Les voies de la myokinase et de la phosphocréatine sont des mécanismes de restauration ou de renouvellement rapide de l'ATP.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "La quantité de l’ATP reste .....A..... car il est renouvelé par la voie de la .....B..... (2ADP → ATP + AMP) et la voie de la .....C..... (ADP + Phosphocréatine → ATP + créatine). Ce sont des voies .....D..... de production de l’ATP.",
+      "réponses": {
+        "A": "A: instable, B: glycogène, C: glucose, D: lentes",
+        "B": "A: constante, B: myokinase, C: phosphocréatine, D: rapides",
+        "C": "A: faible, B: aérobie, C: anaérobie, D: longues",
+        "D": "A: élevée, B: acide lactique, C: oxygène, D: inefficaces"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Que se passe-t-il avec la quantité d'acide lactique dans un muscle en activité ?",
+      "réponses": {
+        "A": "Elle diminue.",
+        "B": "Elle reste constante.",
+        "C": "Elle augmente (croît).",
+        "D": "Elle disparaît."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Pourquoi l'acide lactique s'accumule-t-il ?",
+      "réponses": {
+        "A": "Il est utilisé pour produire de l'ATP.",
+        "B": "Il est produit lors de la production de l'ATP.",
+        "C": "Il est un déchet de la respiration cellulaire.",
+        "D": "Il est une source d'énergie principale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "L'acide lactique est-il directement utilisé par le muscle comme énergie pour la contraction ?",
+      "réponses": {
+        "A": "Oui, c'est une source d'énergie directe.",
+        "B": "Non, il est un produit de la production d'ATP.",
+        "C": "Seulement en présence d'oxygène.",
+        "D": "Seulement par la voie aérobie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Vrai ou Faux : L'accumulation d'acide lactique indique que le muscle est au repos.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Vrai ou Faux : L'acide lactique est un composé qui est entièrement consommé pendant l'activité musculaire.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "L’accumulation de l’acide lactique .....A..... car il est .....B..... lors de la production de l’ATP.",
+      "réponses": {
+        "A": "A: diminue, B: consommé",
+        "B": "A: reste constante, B: stocké",
+        "C": "A: croît, B: produit",
+        "D": "A: disparaît, B: utilisé"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

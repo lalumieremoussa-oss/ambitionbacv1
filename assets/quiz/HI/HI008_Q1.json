@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 1",
+  "id": "HI008_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Sur quoi repose la structure de la société négro-africaine traditionnelle ?",
+      "réponses": {
+        "A": "Sur l’autorité politique décentralisée et les marchés villageois.",
+        "B": "Sur l’individu autonome et l’initiative personnelle.",
+        "C": "Sur la famille, cellule de base assurant éducation, solidarité et transmission des valeurs.",
+        "D": "Sur les clans religieux chargés de réguler les coutumes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels sont les deux types fondamentaux de liens familiaux dans cette société ?",
+      "réponses": {
+        "A": "Les alliances politiques et les pactes commerciaux.",
+        "B": "Les liens de sang (lignage) et les liens sociaux (collectivité parentale).",
+        "C": "Les relations conjugales et les serments sacrés.",
+        "D": "Les parrainages initiatiques et les pactes générationnels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la place de la femme dans la société négro-africaine ?",
+      "réponses": {
+        "A": "Elle est effacée et absente de la sphère sociale.",
+        "B": "Elle est exclusivement ménagère et soumise.",
+        "C": "Elle est essentielle dans la famille, l’économie et la transmission des traditions.",
+        "D": "Elle n’intervient que dans les cérémonies rituelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Qu’est-ce qui caractérise une société dite égalitaire ?",
+      "réponses": {
+        "A": "L’absence d’inégalités dans l’accès à l’argent et à l’héritage.",
+        "B": "L’égalité devant la loi moderne imposée par l’État.",
+        "C": "L’indifférenciation entre hommes et femmes dans la chefferie.",
+        "D": "L’absence de classes sociales, fondée sur lignage ou génération"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce qui définit une société pyramidale dans le contexte africain ?",
+      "réponses": {
+        "A": "Une organisation politique inspirée des pharaons d’Égypte.",
+        "B": "Une structure où tous les membres partagent le pouvoir également.",
+        "C": ".Une société où l’âge détermine l’accès au pouvoir politique.",
+        "D": "Une hiérarchie stricte entre nobles, hommes libres et esclaves, fondée sur la naissance."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est l’idée centrale évoquée dans le dernier paragraphe du texte étudié ?",
+      "réponses": {
+        "A": "Le retour des traditions rurales face à la modernité.",
+        "B": "La stabilité des structures coutumières malgré le temps.",
+        "C": "La transformation rapide de la société africaine sous l’effet des mutations contemporaines.",
+        "D": "Le rejet des modèles occidentaux par les nouvelles générations."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle expression représente le mieux le concept de monarchie en Afrique traditionnelle ?",
+      "réponses": {
+        "A": "L’administration par des conseils mixtes de sages et de jeunes.",
+        "B": "Un système informel reposant sur des chefs itinérants.",
+        "C": "Un État structuré autour d’un empire, royaume ou chefferie.",
+        "D": "Une autorité religieuse partagée entre les anciens et les initiés."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi parle-t-on d’absolutisme dans certaines monarchies africaines ?",
+      "réponses": {
+        "A": "Parce que le roi gouverne par la force sans tenir compte des traditions.",
+        "B": "Car le monarque concentre les trois pouvoirs, avec un pouvoir sacré et héréditaire.",
+        "C": "Car l’État interdit toute contestation politique dans les villages.",
+        "D": "Parce que les rois étaient choisis par la divination ancestrale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelles sont les formes de démocratie traditionnelle observées en Afrique ?",
+      "réponses": {
+        "A": "Le parlement ancestral et la cour royale.",
+        "B": "Le commandement héréditaire et la chefferie militaire.",
+        "C": "La démocratie villageoise et la république villageoise par consensus.",
+        "D": "Le système féodal et la régence coutumière."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quels éléments permettent de distinguer les hommes dans la hiérarchie traditionnelle ?",
+      "réponses": {
+        "A": "La richesse accumulée et la possession de terres.",
+        "B": "L’âge, le sexe, la fonction sociale ou religieuse.",
+        "C": "Le nom de famille et la maîtrise des langues locales.",
+        "D": "La lignée paternelle et les titres militaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Pourquoi l’individu isolé est-il considéré comme inexistant dans la société africaine traditionnelle ?",
+      "réponses": {
+        "A": "Car la société le considère comme étranger et suspect.",
+        "B": "Parce que son existence est fondue dans l’autorité du chef politique.",
+        "C": "Car il est toujours intégré dans une communauté familiale.",
+        "D": "Parce qu’il n’a pas de nom avant l’initiation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi les femmes jouent-elles un rôle de stabilisation sociale ?",
+      "réponses": {
+        "A": "Elles garantissent la succession royale dans les familles nobles.",
+        "B": "Elles dirigent secrètement les conseils de village.",
+        "C": "Elles assurent la continuité des valeurs, la cohésion familiale et la médiation sociale.",
+        "D": "Elles imposent les normes religieuses grâce à leur pouvoir initiatique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que signifie une collectivité parentale dans cette société ?",
+      "réponses": {
+        "A": "Un groupe d’amis vivant sous le même toit.",
+        "B": "Une communauté de religieux exerçant le pouvoir politique.",
+        "C": "Un ensemble élargi de parents jouant un rôle éducatif et social.",
+        "D": "Une confrérie d’anciens chargée de l’initiation guerrière."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est le lien entre patriarcat et fonctionnement social ?",
+      "réponses": {
+        "A": "Le pouvoir est exclusivement détenu par les femmes âgées.",
+        "B": "Le système est fondé sur l’égalité parfaite entre tous les membres.",
+        "C": "L’autorité est exercée par un homme aîné qui organise la vie familiale.",
+        "D": "Les décisions sont prises en fonction de l’astrologie lignagère."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi les sociétés krou sont-elles qualifiées d’égalitaires ?",
+      "réponses": {
+        "A": "Parce que tous les citoyens détiennent le même revenu et le même terrain.",
+        "B": "Car elles ignorent les chefs et privilégient l’anarchie organisée.",
+        "C": "Car elles n’ont pas de classes sociales fixes, mais fonctionnent par lignage.",
+        "D": "Parce qu’elles sont régies par des lois modernes imposées par l’État."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle structure politique traditionnelle incarne le pouvoir décentralisé ?",
+      "réponses": {
+        "A": "La monarchie sacrée régie par un empereur absolu.",
+        "B": "Le village dirigé par un conseil d’anciens élus.",
+        "C": "L’État pyramidal à base militaire et religieuse.",
+        "D": "Le royaume fondé sur le pouvoir surnaturel du devin."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est le fondement du pouvoir dans un empire africain traditionnel ?",
+      "réponses": {
+        "A": "Le suffrage universel au sein de chaque village.",
+        "B": "Le charisme personnel du roi élu par les enfants.",
+        "C": "La concentration héréditaire des pouvoirs politiques, religieux et militaires.",
+        "D": "La rotation du pouvoir entre les ethnies de la région."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Qu’est-ce qui permet aux décisions politiques d’être acceptées dans une démocratie villageoise ?",
+      "réponses": {
+        "A": "Elles sont imposées par le chef sans discussion.",
+        "B": "Elles sont validées par une divination publique.",
+        "C": "Elles sont prises par consensus après discussions collectives.",
+        "D": "Elles sont annoncées par les ancêtres dans les rêves des notables."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel est l’effet des mutations contemporaines sur les sociétés africaines traditionnelles ?",
+      "réponses": {
+        "A": "Elles bouleversent les structures sociales, surtout en zone urbaine.",
+        "B": "Elles rendent les traditions plus visibles qu’avant.",
+        "C": "Elles renforcent l’attachement aux valeurs rurales.",
+        "D": "Elles restaurent les rites anciens à grande échelle."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel rôle joue l’âge dans la hiérarchie des sociétés africaines traditionnelles ?",
+      "réponses": {
+        "A": "Il ne compte que pour l’accès au mariage.",
+        "B": "Il est négligeable face à la richesse matérielle.",
+        "C": "Il détermine le respect, l’influence et la prise de décision.",
+        "D": "Il est utilisé seulement pour répartir les travaux agricoles."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

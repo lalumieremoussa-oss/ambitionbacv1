@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 4",
+  "id": "GE002_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le sud forestier est-il défavorable à l’élevage bovin et ovin ?",
+      "réponses": {
+        "A": "Parce que les populations y pratiquent exclusivement la pêche artisanale",
+        "B": "Parce qu’il y a une forte urbanisation qui empêche les installations d’élevage",
+        "C": "Parce que le climat y est très humide et la mouche tsé-tsé y transmet la trypanosomiase",
+        "D": "Parce que la végétation est totalement absente dans cette zone"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le principal atout de la zone nord pour l’élevage ?",
+      "réponses": {
+        "A": "La faible pluviométrie, les herbages abondants et l’absence de mouche tsé-tsé",
+        "B": "La présence des plantations industrielles de cacao et de café",
+        "C": "Le développement des zones industrielles et des autoroutes",
+        "D": "La proximité avec la lagune Ebrié et les ports"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Pourquoi les Ivoiriens ne dominent-ils pas l’activité d’élevage ?",
+      "réponses": {
+        "A": "Parce qu’ils n’ont pas de culture d’éleveurs et la tradition pastorale est absente",
+        "B": "Parce qu’ils vivent uniquement dans les zones forestières protégées",
+        "C": "Parce qu’ils sont spécialisés uniquement dans le commerce",
+        "D": "Parce qu’ils se consacrent exclusivement à l’industrie du bois"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quel organisme public encadre et promeut l’élevage en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La SODEFOR chargée du reboisement et de l’exploitation forestière",
+        "B": "Le CNRA qui mène les recherches sur le cacao et le café",
+        "C": "L’ANADER, chargée du développement rural, de l’agriculture et de l’élevage",
+        "D": "La GESTOCI chargée du stockage du gaz domestique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel est l’un des rôles de l’État dans la promotion de l’élevage ?",
+      "réponses": {
+        "A": "Il s’occupe exclusivement du transport et de la douane des animaux",
+        "B": "Il crée des infrastructures comme des fermes, abattoirs, ranchs et centres d’embouche",
+        "C": "Il impose des taxes sur tous les éleveurs et supprime les aides",
+        "D": "Il interdit l’élevage pour cause de dégradation des sols"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Citez deux centres d’embouche mis en place par l’État ivoirien :",
+      "réponses": {
+        "A": "Ferkessédougou et Katiola",
+        "B": "Abengourou et Yamoussoukro",
+        "C": "Man et San Pedro",
+        "D": "Adiaké et Bouaké"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la population est-elle un atout pour l’élevage ?",
+      "réponses": {
+        "A": "Elle constitue une main-d’œuvre disponible et un important marché de consommation",
+        "B": "Elle ne consomme que du poisson en raison de la proximité des lagunes",
+        "C": "Elle interdit la viande rouge pour des raisons religieuses",
+        "D": "Elle est trop dispersée pour favoriser le commerce de viande"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel est l’intérêt de la diversité des zones naturelles pour l’élevage ?",
+      "réponses": {
+        "A": "Elle favorise la diversification des espèces animales et des modes d’élevage",
+        "B": "Elle limite l’élevage aux seuls animaux de compagnie",
+        "C": "Elle interdit l’élevage industriel à cause du climat équatorial",
+        "D": "Elle réduit les possibilités de nourrir les animaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quels sont les deux types d’élevage en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "L’élevage traditionnel (nomade et domestique) et l’élevage moderne (fermes, ranchs)",
+        "B": "L’élevage industriel et l’élevage fluvial",
+        "C": "L’élevage maraîcher et l’élevage volcanique",
+        "D": "L’élevage de laboratoire et l’élevage en altitude"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle est la caractéristique de l’élevage traditionnel ?",
+      "réponses": {
+        "A": "Il utilise uniquement des drones pour surveiller les troupeaux",
+        "B": "Il emploie des vétérinaires diplômés dans chaque village",
+        "C": "Il repose sur des techniques archaïques et offre de faibles rendements",
+        "D": "Il est financé par des banques internationales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Qui pratique l’élevage moderne en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les chasseurs et les agriculteurs de zones enclavées",
+        "B": "Les entreprises privées, l’État et les grands exploitants",
+        "C": "Les élèves des lycées agricoles et les pêcheurs",
+        "D": "Les ONG internationales et les hôpitaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le niveau de couverture des besoins en viande de l’élevage national ?",
+      "réponses": {
+        "A": "Environ 70% de couverture",
+        "B": "90% grâce aux importations massives",
+        "C": "Environ 40% seulement, ce qui montre une production insuffisante",
+        "D": "Plus de 100%, car la Côte d’Ivoire exporte beaucoup"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle est la contribution du secteur de l’élevage au PIB ivoirien ?",
+      "réponses": {
+        "A": "Elle est faible : environ 0,8 % du PIB",
+        "B": "Elle est majeure : plus de 30 % du PIB",
+        "C": "Elle dépasse le cacao et le café",
+        "D": "Elle est équivalente à l’or et au diamant"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quels produits sont issus de l’élevage moderne ?",
+      "réponses": {
+        "A": "Cacao transformé, maïs grillé et sorgho fermenté",
+        "B": "Riz, banane plantain et manioc",
+        "C": "Œufs, viande, lait, produits transformés de Coq Ivoire et Foani",
+        "D": "Mangues, papayes et ananas séchés"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quels types d’élevage complémentaire sont en développement ?",
+      "réponses": {
+        "A": "Culture de coton, de karité, et de tabac",
+        "B": "Apiculture, aulacodiculture, héliciculture, cuniculture, raniculture",
+        "C": "Elevage d’éléphants, d’hippopotames, de zèbres et de gazelles",
+        "D": "Pêche sous-marine, chasse à courre et pisciculture intensive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel est l’un des principaux freins au développement de l’élevage ?",
+      "réponses": {
+        "A": "L’interdiction des animaux domestiques dans les villages",
+        "B": "L’absence de tradition pastorale chez les Ivoiriens",
+        "C": "La désertification rapide des zones agricoles",
+        "D": "L’excès de formation et de modernisation du secteur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est l’un des conflits liés à l’élevage ?",
+      "réponses": {
+        "A": "Les affrontements entre éleveurs et agriculteurs pour l’usage des terres",
+        "B": "Les litiges entre éleveurs et commerçants de pagnes",
+        "C": "Les rivalités entre pêcheurs et planteurs",
+        "D": "Les conflits entre ONG et vétérinaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Comment réduire la concurrence étrangère sur la viande ?",
+      "réponses": {
+        "A": "Interdire toute importation de viande par la douane",
+        "B": "Mettre en place un prélèvement compensatoire pour stabiliser les prix",
+        "C": "Interdire la consommation de viande importée dans les villes",
+        "D": "Subventionner l’importation de viande européenne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel animal élevé en centre d’embouche comme exemple de race productive ?",
+      "réponses": {
+        "A": "Le zébu d’Afrique du Sud",
+        "B": "Le mouton peul du Sahara",
+        "C": "Le bœuf Ndama",
+        "D": "Le buffle du Congo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel type d’élevage moderne est pratiqué sous palmeraie ?",
+      "réponses": {
+        "A": "L’élevage associé à l’agriculture, comme à Fresco et Ehania",
+        "B": "L’élevage de chevaux pour le tourisme",
+        "C": "L’élevage maritime en lagune Ebrié",
+        "D": "L’élevage de reptiles pour la maroquinerie"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

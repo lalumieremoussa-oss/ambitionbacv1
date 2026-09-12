@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "GE002_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le sud et l’ouest de la Côte d’Ivoire sont-ils favorables à l’exploitation forestière ?",
+      "réponses": {
+        "A": "Ils sont situés dans des zones de savane aride impropre aux cultures",
+        "B": "Parce qu’ils disposent d’une vaste surface forestière estimée à environ 2 millions d’hectares",
+        "C": "Parce qu’ils sont fortement urbanisés et peu accessibles",
+        "D": "Parce qu’ils sont les seuls territoires classés comme déserts tropicaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelles sont les principales essences forestières exploitées en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Teck, eucalyptus, sapin, bambou",
+        "B": "Bété, acajou, kotibé, fromager, samba",
+        "C": "Palmier, cocotier, olivier, baobab",
+        "D": "Chêne, bouleau, séquoia, hêtre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel facteur humain favorise l’exploitation forestière ?",
+      "réponses": {
+        "A": "Une main-d’œuvre urbaine qualifiée mais très coûteuse",
+        "B": "Une population vieillissante spécialisée dans l’informatique",
+        "C": "Une main-d’œuvre abondante et bon marché disponible dans les zones forestières",
+        "D": "Un manque total de travailleurs dans les zones rurales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le rôle de la SODEFOR ?",
+      "réponses": {
+        "A": "Elle encadre, gère et favorise le reboisement et l’exploitation durable des forêts",
+        "B": "Elle finance uniquement les exploitations minières et agricoles",
+        "C": "Elle vend les terres forestières aux opérateurs étrangers",
+        "D": "Elle forme uniquement les étudiants en sciences forestières"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel organisme a réalisé les recherches forestières utilisées par la SODEFOR ?",
+      "réponses": {
+        "A": "L’INSAAC, institut national des sciences culturelles",
+        "B": "L’IDEFOR, institut de développement forestier",
+        "C": "L’ONI, office national d’identification",
+        "D": "Le ministère de l’Enseignement supérieur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Combien d’opérateurs forestiers sont officiellement recensés en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Moins de 100 dans les grandes villes uniquement",
+        "B": "Plus de 1 500 répartis entre le nord et l’ouest",
+        "C": "Près de 500 opérateurs recensés dans le secteur forestier",
+        "D": "Environ 50 opérateurs exclusivement basés à Abidjan"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle aide l’exploitation forestière reçoit-elle ?",
+      "réponses": {
+        "A": "Une assistance uniquement nationale avec peu de moyens",
+        "B": "Une assistance étrangère importante et des appuis logistiques",
+        "C": "Une aide militaire pour sécuriser les zones forestières",
+        "D": "Aucun soutien logistique ou financier connu"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel rôle joue l’État dans le développement forestier ?",
+      "réponses": {
+        "A": "Il construit les infrastructures, finance, crée des structures de gestion et encadre les opérateurs",
+        "B": "Il laisse le secteur forestier aux seules entreprises privées",
+        "C": "Il interdit l’exploitation des zones forestières pour cause de déforestation",
+        "D": "Il favorise uniquement l’importation de bois d’Asie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quels équipements facilitent l’exploitation forestière ?",
+      "réponses": {
+        "A": "Des ports et des aéroports exclusivement militaires",
+        "B": "Des stations de ski et des pistes cyclables aménagées",
+        "C": "Des barrages hydroélectriques en plein désert",
+        "D": "Des routes, ports, industries de transformation implantées par l’État"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quel type d’exploitation forestière est pratiqué en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Une exploitation uniquement artisanale par des paysans",
+        "B": "Une exploitation à la fois artisanale et industrielle selon les zones",
+        "C": "Une exploitation entièrement robotisée et contrôlée par satellite",
+        "D": "Une exploitation strictement informelle dans les marchés ruraux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Combien d’emplois l’exploitation forestière génère-t-elle ?",
+      "réponses": {
+        "A": "Environ 40 000 emplois directs et 100 000 emplois indirects",
+        "B": "5 000 emplois directs uniquement en zone urbaine",
+        "C": "150 000 postes dans l’administration forestière",
+        "D": "20 000 stagiaires dans les universités forestières"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel est le rang du bois dans les exportations ivoiriennes ?",
+      "réponses": {
+        "A": "5e produit exporté après le pétrole, le gaz, le coton et le sucre",
+        "B": "Produit secondaire réservé au marché local",
+        "C": "3e produit d’exportation après le cacao et la noix de cajou",
+        "D": "Produit interdit à l’exportation pour des raisons écologiques"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quels usages non industriels sont faits du bois en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Uniquement pour l’exportation des meubles d’art",
+        "B": "Bois de chauffe, charbon, pharmacopée traditionnelle",
+        "C": "Exclusivement pour la sculpture artisanale et les décorations",
+        "D": "Réservé aux énergies renouvelables uniquement"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quels opérateurs forestiers industriels sont cités ?",
+      "réponses": {
+        "A": "CIB et TRIBOIS dans la transformation du bois",
+        "B": "PETROCI et SIR spécialisés dans les hydrocarbures",
+        "C": "CNRA et ANADER qui gèrent les semences agricoles",
+        "D": "SODECI et CIE qui exploitent l’énergie solaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quel problème environnemental majeur découle de l’exploitation forestière ?",
+      "réponses": {
+        "A": "La déforestation, la baisse des pluies, et l’avancée de la savane",
+        "B": "La montée des eaux et les pluies diluviennes permanentes",
+        "C": "La surpopulation forestière due à l’abandon des villes",
+        "D": "L’apparition de maladies transmises par les forêts"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle est la principale conséquence écologique de la disparition des forêts ?",
+      "réponses": {
+        "A": "Déséquilibre climatique, perte de biodiversité, appauvrissement des sols",
+        "B": "Stabilisation des saisons sèches et réduction des cyclones",
+        "C": "Augmentation des déserts urbains dans le sud",
+        "D": "Extension des forêts vers les centres industriels"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quelle solution est mise en œuvre par la SODEFOR ?",
+      "réponses": {
+        "A": "La commercialisation directe de bois tropical sur les marchés",
+        "B": "Le reboisement et la création de forêts classées ou protégées",
+        "C": "La transformation des zones forestières en zones industrielles",
+        "D": "La conversion des forêts en villages agricoles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel organisme applique la réglementation forestière ?",
+      "réponses": {
+        "A": "L’ONI pour l’identification des terres",
+        "B": "Le CNRA pour la formation des bûcherons",
+        "C": "La police forestière : les eaux et forêts",
+        "D": "Le CEPICI pour les investissements agricoles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle mesure vise à réduire la coupe de bois pour l’énergie domestique ?",
+      "réponses": {
+        "A": "Le développement des plaques photovoltaïques agricoles",
+        "B": "La vulgarisation du gaz domestique comme énergie de cuisson",
+        "C": "L’importation de bois exotique d’Amérique du Sud",
+        "D": "La suppression des taxes sur les feux de brousse"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la limite géographique fixée pour interdire l’exploitation forestière ?",
+      "réponses": {
+        "A": "Le 5e parallèle nord en zone désertique",
+        "B": "Le fleuve Bandama pour éviter l’érosion",
+        "C": "Le 10e parallèle au-delà des zones montagneuses",
+        "D": "Le 8e parallèle nord pour protéger les forêts du Nord"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

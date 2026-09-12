@@ -1,0 +1,1238 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "HI005_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le statut de la Côte d’Ivoire pendant la colonisation ?",
+      "réponses": {
+        "A": "Une colonie autonome",
+        "B": "Une colonie d’exploitation, soumise aux intérêts économiques français",
+        "C": "Un département français",
+        "D": "Une colonie britannique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels abus ont marqué l’exploitation coloniale ?",
+      "réponses": {
+        "A": "La liberté d’expression",
+        "B": "La création de syndicats",
+        "C": "L’expropriation, les impôts forcés, les corvées, le travail forcé",
+        "D": "L’égalité devant la loi"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’est-ce que la conférence de Brazzaville ?",
+      "réponses": {
+        "A": "Un sommet de la CEDEAO",
+        "B": "Une réunion de 1944 organisée par De Gaulle pour repenser la politique coloniale",
+        "C": "Un congrès du PDCI",
+        "D": "Une conférence syndicale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Pourquoi cette conférence a-t-elle été un tournant ?",
+      "réponses": {
+        "A": "Elle a proclamé l’indépendance immédiate",
+        "B": "Elle a supprimé tous les impôts",
+        "C": "Elle a permis aux colons de quitter l’Afrique",
+        "D": "Elle a ouvert la voie à la participation des Africains à la gestion de leur territoire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelles réformes furent proposées à Brazzaville ?",
+      "réponses": {
+        "A": "Fin du travail forcé, création de syndicats, accès à tous les emplois",
+        "B": "Suppression des écoles françaises",
+        "C": "Interdiction des partis politiques",
+        "D": "Droit au service militaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel impact ont eu ces résolutions sur les Ivoiriens ?",
+      "réponses": {
+        "A": "Elles ont renforcé la colonisation",
+        "B": "Elles ont été ignorées par les leaders africains",
+        "C": "Elles ont affaibli le mouvement nationaliste",
+        "D": "Elles ont renforcé les revendications d’autonomie et de liberté"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quel rôle a joué André Latrille ?",
+      "réponses": {
+        "A": "Il a réprimé toutes les revendications",
+        "B": "Il a imposé la loi martiale",
+        "C": "Il a permis la création de syndicats et l’organisation d’élections",
+        "D": "Il a fermé les écoles traditionnelles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel syndicat fut créé avec l’autorisation de Latrille, et par qui ?",
+      "réponses": {
+        "A": "Le Syndicat Agricole Africain (SAA), dirigé par Houphouët-Boigny",
+        "B": "La Confédération Ivoirienne des Travailleurs",
+        "C": "L’Union des Élites Noires",
+        "D": "Le Comité de Libération des Paysans"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quand et comment les Africains ont-ils accédé au Parlement français ?",
+      "réponses": {
+        "A": "En 1960, après l’indépendance",
+        "B": "En 1945, lors des premières élections légales organisées en Côte d’Ivoire",
+        "C": "En 1920, sous les Indigènes libres",
+        "D": "En 1958, par décret présidentiel"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel fut l’effet des mesures prises par Latrille sur le nationalisme ?",
+      "réponses": {
+        "A": "Elles ont permis la répression des leaders",
+        "B": "Elles ont affaibli le mouvement paysan",
+        "C": "Elles ont restauré l’administration coloniale",
+        "D": "Elles ont permis l’organisation légale de la lutte politique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est le principal moteur du nationalisme en Côte d’Ivoire dans les années 1940 ?",
+      "réponses": {
+        "A": "Le refus des injustices coloniales et le désir d’autonomie",
+        "B": "Le soutien massif des colons",
+        "C": "L’envie d’imiter les monarchies européennes",
+        "D": "La guerre civile"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Pourquoi la conférence de Brazzaville a-t-elle déçu certains Africains ?",
+      "réponses": {
+        "A": "Elle proclamait l’indépendance immédiate",
+        "B": "Elle proposait la création d’un État fédéral africain",
+        "C": "Elle refusait clairement toute idée d’indépendance à court terme",
+        "D": "Elle supprimait les syndicats africains"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle date correspond à la création du SAA ?",
+      "réponses": {
+        "A": "1945",
+        "B": "10 juillet 1944",
+        "C": "1958",
+        "D": "1er janvier 1960"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "En quoi Houphouët-Boigny fut-il un pionnier du nationalisme ivoirien ?",
+      "réponses": {
+        "A": "Il a refusé tout contact avec les Français",
+        "B": "Il a utilisé les institutions coloniales (Parlement, syndicats) pour faire avancer la cause africaine",
+        "C": "Il a mené une rébellion armée",
+        "D": "Il a rejeté toute forme d’administration"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle était l’attitude des colons face aux premières réformes ?",
+      "réponses": {
+        "A": "Ils les ont soutenues massivement",
+        "B": "Ils ont demandé l’indépendance immédiate",
+        "C": "Ils ont créé des écoles pour les Africains",
+        "D": "Ils les ont combattues car elles menaçaient leur domination"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Pourquoi les Ivoiriens voulaient-ils avoir des représentants politiques ?",
+      "réponses": {
+        "A": "Pour organiser une fête nationale",
+        "B": "Pour faire entendre leurs revendications au Parlement français",
+        "C": "Pour remplacer le gouverneur",
+        "D": "Pour gérer les plantations de cacao"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Que dénonçait particulièrement le SAA ?",
+      "réponses": {
+        "A": "L’exploitation injuste des paysans africains",
+        "B": "Le coût du cacao",
+        "C": "Le climat tropical",
+        "D": "Les mosquées coloniales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel élément prouve que la lutte des Ivoiriens était d’abord pacifique ?",
+      "réponses": {
+        "A": "La grève des cheminots de 1932",
+        "B": "L’usage de syndicats et d’élections pour revendiquer",
+        "C": "Les combats militaires contre la France",
+        "D": "Le boycott des fêtes religieuses"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel a été le premier effet concret de l’éveil nationaliste ivoirien ?",
+      "réponses": {
+        "A": "L’élection d’un député africain à l’Assemblée française",
+        "B": "L’abolition de la colonisation",
+        "C": "La reconnaissance du drapeau ivoirien",
+        "D": "Le retour des colons en France"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Comment peut-on qualifier la stratégie d’Houphouët-Boigny dans la lutte nationaliste ?",
+      "réponses": {
+        "A": "Violente et radicale",
+        "B": "Mystique et religieuse",
+        "C": "Institutionnelle et progressive",
+        "D": "Coloniale et autoritaire"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},{
+  "title": "Quiz 2",
+  "id": "HI005_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelles sont les deux lois majeures votées grâce à l’action des députés africains ?",
+      "réponses": {
+        "A": "La loi de l’Union Française et la loi Latrille sur la citoyenneté",
+        "B": "La loi Lamine Gueye (1946) et la loi Houphouët-Boigny (1946)",
+        "C": "La loi sur l’indépendance immédiate et la loi d’intégration scolaire",
+        "D": "La loi de transfert d’administration et la loi du droit coutumier africain"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels types de lutte ont caractérisé l’action des nationalistes ivoiriens ?",
+      "réponses": {
+        "A": "Essentiellement religieuse et coutumière, par les chefs traditionnels",
+        "B": "Militaire et révolutionnaire dans les zones rurales",
+        "C": "Parlementaire, syndicale et politique, en vue de faire valoir les droits",
+        "D": "Diplomatique, menée à l’ONU avec l’appui des métropoles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Que dénonçait le SAA dans sa lutte syndicale ?",
+      "réponses": {
+        "A": "Le manque d’églises dans les plantations rurales",
+        "B": "Le désintérêt des planteurs africains pour la politique",
+        "C": "Les taxes sur le cacao exporté vers la France",
+        "D": "Les inégalités entre planteurs européens et africains, et l’injustice coloniale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Pourquoi les colons s’opposaient-ient-ils aux actions nationalistes ?",
+      "réponses": {
+        "A": "Parce qu’ils craignaient de perdre leurs privilèges et leur pouvoir politique",
+        "B": "Parce qu’ils voulaient soutenir l’indépendance des Africains",
+        "C": "Parce qu’ils étaient en minorité numérique dans les colonies",
+        "D": "Parce qu’ils souhaitaient une nouvelle constitution"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle fut la réaction de l’administration coloniale après 1947 ?",
+      "réponses": {
+        "A": "Elle accorde une large autonomie locale aux Africains",
+        "B": "Elle remplace Latrille par Péchoux pour diviser le mouvement nationaliste",
+        "C": "Elle organise une conférence constitutionnelle à Abidjan",
+        "D": "Elle invite les leaders africains à Paris pour des négociations immédiates"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quels partis politiques existaient en Côte d’Ivoire vers 1951 ?",
+      "réponses": {
+        "A": "Le Parti Travailliste Ivoirien et le Front National",
+        "B": "Le PDCI-RDA, la SFIO et le MRP",
+        "C": "Le Parti Républicain des Colons et l’Union Patriotique",
+        "D": "L’UPCI, le Parti Gaulliste et l’UDECI"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel virage stratégique prend le PDCI-RDA à partir de 1951 ?",
+      "réponses": {
+        "A": "Il appelle à la lutte armée dans les plantations",
+        "B": "Il rompt avec le PCF pour collaborer pacifiquement avec l’administration",
+        "C": "Il rejoint le Parti de la Résistance Française",
+        "D": "Il adopte une ligne révolutionnaire marxiste-léniniste"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel fut le résultat électoral du PDCI-RDA après 1956 ?",
+      "réponses": {
+        "A": "Il remporte les élections territoriales et contrôle les municipalités",
+        "B": "Il est interdit pour cause d’agitation sociale",
+        "C": "Il perd face aux partis pro-coloniaux",
+        "D": "Il n’obtient que 2 sièges au Parlement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle conséquence la crise française de 1958 a-t-elle pour la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La dissolution du PDCI-RDA",
+        "B": "L’acceptation immédiate de l’indépendance",
+        "C": "La proposition d’une Communauté franco-africaine qui échoue, ouvrant la voie à l’indépendance",
+        "D": "L’instauration d’un protectorat ivoirien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle stratégie Houphouët-Boigny adopte-t-il pour obtenir l’indépendance ?",
+      "réponses": {
+        "A": "L’alliance avec les syndicats marxistes radicaux",
+        "B": "Le boycott de toutes les institutions coloniales",
+        "C": "La désobéissance civile et les révoltes populaires",
+        "D": "La négociation au sein des institutions françaises pour une transition légale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle était la portée réelle de la loi Lamine Gueye de 1946 ?",
+      "réponses": {
+        "A": "Elle accordait automatiquement l’indépendance aux colonies africaines",
+        "B": "Elle permettait aux Africains d’accéder à l’armée métropolitaine",
+        "C": "Elle accordait la citoyenneté française aux ressortissants des colonies",
+        "D": "Elle supprimait toutes les taxes coloniales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle fut la limite principale de la loi Houphouët-Boigny ?",
+      "réponses": {
+        "A": "Elle ne s’appliquait qu’aux ressortissants français de métropole",
+        "B": "Elle maintenait l’esclavage dans les zones rurales",
+        "C": "Son application fut lente et parfois contournée par les colons",
+        "D": "Elle abolissait les impôts sur le commerce intérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi certains Africains étaient sceptiques face à la Conférence de Brazzaville ?",
+      "réponses": {
+        "A": "Parce qu’elle excluait explicitement toute idée d’indépendance",
+        "B": "Parce qu’elle était organisée en Afrique centrale, loin des enjeux ivoiriens",
+        "C": "Parce qu’elle était dirigée par Houphouët-Boigny lui-même",
+        "D": "Parce qu’elle proposait des lois contraires à la coutume"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quel était le principal objectif du SAA lors de sa création ?",
+      "réponses": {
+        "A": "Mobiliser les planteurs pour soutenir la colonisation française",
+        "B": "Défendre les intérêts des planteurs africains contre les injustices économiques",
+        "C": "Favoriser l’intégration des Européens dans les syndicats africains",
+        "D": "Promouvoir la conversion religieuse des planteurs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel fut l’effet inattendu de l’entrée d’Africains au Parlement français ?",
+      "réponses": {
+        "A": "Ils furent nommés automatiquement gouverneurs des colonies",
+        "B": "Ils perdirent leur citoyenneté locale",
+        "C": "Ils influencèrent directement les lois coloniales depuis la métropole",
+        "D": "Ils furent interdits de retour dans leurs colonies"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "En quoi le passage de Latrille à Péchoux a-t-il changé la stratégie coloniale ?",
+      "réponses": {
+        "A": "Péchoux a milité pour l’indépendance immédiate",
+        "B": "Péchoux a proposé une nouvelle constitution pour l’Afrique",
+        "C": "Il a tenté de diviser les leaders nationalistes pour freiner la montée du PDCI",
+        "D": "Il a supprimé tous les syndicats africains"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel piège le pouvoir colonial utilise-t-il pour affaiblir le nationalisme ?",
+      "réponses": {
+        "A": "Il accorde trop de réformes d’un seul coup",
+        "B": "Il encourage la création de partis rivaux au PDCI pour semer la division",
+        "C": "Il laisse le pouvoir aux chefs traditionnels",
+        "D": "Il propose l’indépendance sous condition militaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi le PDCI se sépare-t-il du PCF en 1951 ?",
+      "réponses": {
+        "A": "Pour adopter une ligne plus révolutionnaire",
+        "B": "Parce que le PCF soutenait trop les colons",
+        "C": "Pour éviter d’être associé au communisme en pleine guerre froide",
+        "D": "Parce que le PCF exigeait l'indépendance immédiate"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Que permet la victoire électorale du PDCI en 1957 ?",
+      "réponses": {
+        "A": "La création d’un État ivoirien indépendant",
+        "B": "Le contrôle du Conseil de gouvernement, base vers l’indépendance",
+        "C": "Le rejet du suffrage universel",
+        "D": "La disparition des partis pro-coloniaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "En quoi l’année 1958 constitue-t-elle un tournant décisif pour la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Elle marque l’échec de la Communauté franco-africaine et accélère l’indépendance",
+        "B": "Elle impose le maintien de la tutelle française",
+        "C": "Elle rétablit le travail forcé dans les plantations",
+        "D": "Elle voit la naissance du premier parti politique ivoirien"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI005_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Que prévoit la nouvelle Constitution française de 1946 pour les colonies ?",
+      "réponses": {
+        "A": "Le droit à l’indépendance immédiate et l’abolition du système colonial",
+        "B": "La création d’Assemblées territoriales, la représentation parlementaire et l’Union Française",
+        "C": "L’intégration des colonies comme départements français à statut identique",
+        "D": "La fin du franc CFA et la création d’une monnaie africaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "En quoi ces réformes sont-elles similaires à celles de Brazzaville ?",
+      "réponses": {
+        "A": "Elles visent la fin de la colonisation à court terme",
+        "B": "Elles offrent aux colonies une armée autonome",
+        "C": "Elles intègrent les Africains à la gestion politique et créent des instances représentatives",
+        "D": "Elles organisent des élections présidentielles dans chaque colonie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’est-ce que l’Union Française ?",
+      "réponses": {
+        "A": "Une organisation visant à intégrer les colonies à la République tout en conservant la suprématie française",
+        "B": "Une alliance militaire entre les colonies africaines et la France",
+        "C": "Une structure fédérale indépendante de la France",
+        "D": "Une confédération d’États africains dirigée par Houphouët-Boigny"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Qu’a permis l’adoption de la loi-cadre de 1956 ?",
+      "réponses": {
+        "A": "Le transfert de la diplomatie aux colonies",
+        "B": "La création d’un parlement africain autonome",
+        "C": "L’autonomie administrative locale avec des conseils de gouvernement élus",
+        "D": "La sortie immédiate de l’Union Française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel était l’objectif de De Gaulle avec la Communauté franco-africaine ?",
+      "réponses": {
+        "A": "Maintenir l’influence française tout en offrant une autonomie limitée",
+        "B": "Proclamer l’indépendance des colonies sans condition",
+        "C": "Installer une souveraineté partagée entre les colonies et les États-Unis",
+        "D": "Supprimer tous les liens économiques entre la France et l’Afrique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Pourquoi la Communauté franco-africaine a-t-elle échoué ?",
+      "réponses": {
+        "A": "Parce qu’elle favorisait les pays anglophones",
+        "B": "Parce qu’elle interdisait les partis politiques africains",
+        "C": "Parce que plusieurs colonies ont préféré une indépendance totale à une autonomie sous contrôle français",
+        "D": "Parce qu’elle refusait tout commerce extérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la date officielle de l’indépendance de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "15 août 1960",
+        "B": "1er janvier 1960",
+        "C": "7 août 1960",
+        "D": "30 juin 1960"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel rôle Félix Houphouët-Boigny a-t-il joué dans l’accession à l’indépendance ?",
+      "réponses": {
+        "A": "Il a rédigé seul la Constitution ivoirienne de 1960",
+        "B": "Il a mené une lutte armée contre les troupes françaises",
+        "C": "Il a conduit la stratégie de négociation et porté les réformes nationales jusqu’à l’indépendance",
+        "D": "Il a fondé un gouvernement provisoire en exil"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle a été la contribution du député Lamine Gueye à la cause africaine ?",
+      "réponses": {
+        "A": "Il a défendu et obtenu la citoyenneté française pour tous les ressortissants des colonies",
+        "B": "Il a présidé la conférence de Brazzaville",
+        "C": "Il a été le premier président de la Côte d’Ivoire",
+        "D": "Il a organisé la première grève de planteurs contre la colonisation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quels sont les principaux acquis du combat nationaliste ivoirien entre 1944 et 1960 ?",
+      "réponses": {
+        "A": "Le rejet de toute influence extérieure et l’adhésion au bloc soviétique",
+        "B": "La création d’un État fédéral africain piloté depuis Abidjan",
+        "C": "L’autonomie administrative, la participation électorale, la fin du travail forcé et l’indépendance nationale",
+        "D": "Le retour à une société communautaire sans structure moderne"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle était la principale limite de l’Union Française ?",
+      "réponses": {
+        "A": "Le pouvoir central restait entre les mains de la France, malgré la participation symbolique des colonies",
+        "B": "Elle permettait une trop grande liberté commerciale aux colonies",
+        "C": "Elle imposait une armée africaine indépendante",
+        "D": "Elle autorisait les colonies à voter leurs propres lois fiscales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel fut l’effet inattendu de la loi-cadre de 1956 ?",
+      "réponses": {
+        "A": "Elle déclencha des révoltes violentes contre les chefs coutumiers",
+        "B": "Elle renforça l’autorité des gouverneurs coloniaux",
+        "C": "Elle accéléra la montée du PDCI et le contrôle africain des conseils territoriaux",
+        "D": "Elle supprima les élections dans les territoires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi la Communauté franco-africaine fut-elle perçue comme un piège par certains leaders africains ?",
+      "réponses": {
+        "A": "Elle imposait une armée panafricaine sans consultation",
+        "B": "Elle maintenait la France comme puissance décisionnelle sans réelle souveraineté pour les colonies",
+        "C": "Elle supprimait les partis politiques africains",
+        "D": "Elle interdisait le commerce intercolonial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle nuance distingue la citoyenneté obtenue par la loi Lamine Gueye ?",
+      "réponses": {
+        "A": "Elle était une citoyenneté politique sans égalité totale sur le plan économique ou juridique",
+        "B": "Elle permettait l’accès à la nationalité française sans condition",
+        "C": "Elle supprimait automatiquement le statut d’indigène",
+        "D": "Elle imposait le vote obligatoire dans toutes les colonies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quel enjeu caché se trouvait derrière les élections de 1957 ?",
+      "réponses": {
+        "A": "L’éventualité d’une indépendance immédiate sans consultation",
+        "B": "Le contrôle des futurs États par les leaders africains au sein d’institutions encore liées à la France",
+        "C": "La suppression des syndicats pro-français",
+        "D": "L’exclusion des chefs traditionnels du processus électoral"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi la loi Houphouët-Boigny fut-elle considérée comme révolutionnaire ?",
+      "réponses": {
+        "A": "Parce qu’elle instaurait l’indépendance immédiate",
+        "B": "Parce qu’elle abrogeait le droit coutumier",
+        "C": "Parce qu’elle mettait fin au travail forcé, symbole majeur du colonialisme",
+        "D": "Parce qu’elle interdisait les plantations industrielles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle contradiction existe dans la logique de la Communauté franco-africaine ?",
+      "réponses": {
+        "A": "Elle interdisait toute collaboration militaire",
+        "B": "Elle favorisait l’entrée des pays africains dans l’OTAN",
+        "C": "Elle proposait l’autonomie sans souveraineté réelle, sous tutelle française",
+        "D": "Elle reconnaissait l’indépendance des territoires français d’outre-mer"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle fut la tactique française pour garder l’influence après les indépendances ?",
+      "réponses": {
+        "A": "Rompre tout lien avec les anciens territoires",
+        "B": "Fermer les ambassades en Afrique",
+        "C": "Maintenir des accords de coopération économiques et militaires favorables à la France",
+        "D": "Imposer des constitutions fédéralistes identiques dans tous les pays"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel était le rôle des Assemblées Territoriales créées en 1946 ?",
+      "réponses": {
+        "A": "Diriger les colonies indépendamment de la métropole",
+        "B": "Appliquer la Constitution française dans toute l’Afrique",
+        "C": "Représenter les Africains dans les décisions locales, sans pouvoir souverain",
+        "D": "Contrôler les mouvements de population indigène"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Lequel de ces éléments exprime le mieux la transition politique opérée en Côte d’Ivoire entre la loi-cadre de 1956 et l’indépendance de 1960 ?",
+      "réponses": {
+        "A": "L’émergence du multipartisme, l’abandon du code de l’indigénat, la mise en place d’une administration centralisée par la métropole.",
+        "B": "L’autonomisation des territoires par des conseils de gouvernement, la fin du travail forcé,",
+        "C": "L'établissement de l'autonomie interne progressive, sous l'égide de la France, menant à l'indépendance sans rupture violente",
+        "D": "L'imposition d'une fédération africaine par la France, sans consultation des leaders locaux."
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 1",
+  "id": "HI006_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le statut administratif de l’Algérie sous la colonisation française ?",
+      "réponses": {
+        "A": "Une colonie d’exploitation rattachée au ministère des Colonies",
+        "B": "Un protectorat placé sous autorité musulmane",
+        "C": "Un département français intégré à la République depuis 1848",
+        "D": "Une région autonome sous mandat franco-britannique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi l’indépendance de l’Algérie était-elle refusée par les autorités françaises ?",
+      "réponses": {
+        "A": "Parce que l’Algérie n’était pas économiquement rentable",
+        "B": "Parce qu’elle était considérée comme une partie intégrante de la France et comptait une population européenne influente",
+        "C": "Parce qu’elle avait demandé un rattachement au Maroc",
+        "D": "Parce qu’elle avait déjà obtenu un statut fédéral"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles étaient les deux principales communautés en Algérie coloniale ?",
+      "réponses": {
+        "A": "Les Européens (Pieds-Noirs), citoyens français à part entière, et les Musulmans, discriminés par le Code de l’indigénat",
+        "B": "Les Espagnols et les Italiens, tous exclus de la vie politique",
+        "C": "Les Français de métropole et les Noirs africains",
+        "D": "Les Catholiques arabes et les Protestants turcs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelles formes d’injustices frappaient les Musulmans algériens ?",
+      "réponses": {
+        "A": "Ils ne pouvaient pas cultiver leurs terres ni apprendre le français",
+        "B": "Ils étaient interdits de voyager hors d’Algérie",
+        "C": "Discriminations dans le droit, l’éducation, la propriété foncière et la représentation politique",
+        "D": "Ils étaient automatiquement déportés en cas de conflit"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Que réclame le Manifeste du peuple algérien de 1943 ?",
+      "réponses": {
+        "A": "La fusion avec la Tunisie et le Maroc",
+        "B": "L’indépendance immédiate et le départ des Européens",
+        "C": "Un statut autonome et l’égalité des droits pour les Algériens musulmans",
+        "D": "La nationalisation des terres coloniales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pourquoi la demande du Manifeste de 1943 est-elle légitime dans son contexte ?",
+      "réponses": {
+        "A": "Parce que la France perdait la guerre et n’avait plus de pouvoir",
+        "B": "Parce que les idéaux de liberté et d’égalité étaient défendus par les Alliés en pleine Seconde Guerre mondiale",
+        "C": "Parce que les États-Unis exigeaient l’indépendance de l’Algérie",
+        "D": "Parce que la Constitution de 1940 le garantissait"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelles étaient les limites des réformes proposées par la France après la guerre ?",
+      "réponses": {
+        "A": "Elles donnaient l’indépendance aux seuls Européens d’Algérie",
+        "B": "Elles accordaient des droits partiels sans égalité réelle, et maintenaient l’influence coloniale",
+        "C": "Elles supprimaient les élections locales",
+        "D": "Elles interdisaient la pratique de l’islam"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel événement tragique a montré la rupture entre la France et les aspirations des Algériens en mai 1945 ?",
+      "réponses": {
+        "A": "Le massacre de la Casbah d’Alger par les troupes allemandes",
+        "B": "La répression sanglante de Sétif, Guelma et Kherrata par l’armée française",
+        "C": "Le coup d’État du FLN contre le gouvernement français",
+        "D": "Le blocus économique organisé par le Maroc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Pourquoi les violences de mai 1945 ont-elles radicalisé les nationalistes algériens ?",
+      "réponses": {
+        "A": "Elles ont prouvé que la France souhaitait une indépendance rapide",
+        "B": "Elles ont permis la création d’un gouvernement provisoire",
+        "C": "Elles ont révélé le refus catégorique du dialogue par la France et l’usage de la force pour maintenir l’ordre colonial",
+        "D": "Elles ont conduit à la réunification de l’Afrique du Nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle organisation politique nationaliste émerge dans les années 1940 ?",
+      "réponses": {
+        "A": "Le Parti Républicain Arabe",
+        "B": "L’Union Franco-Algérienne",
+        "C": "Le Parti du Peuple Algérien (PPA), ancêtre du FLN",
+        "D": "L’Organisation Communautaire Islamique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel rôle les inégalités économiques ont-elles joué dans le rejet du système colonial ?",
+      "réponses": {
+        "A": "Elles ont permis aux Européens de s’enrichir au profit des Musulmans",
+        "B": "Elles ont limité l’accès des Musulmans aux métiers techniques",
+        "C": "Elles ont accentué la pauvreté, le chômage et la marginalisation des Algériens",
+        "D": "Elles ont provoqué la fuite des élites vers la Libye"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Pourquoi les réformes de la IVe République n'ont-elles pas apaisé la situation ?",
+      "réponses": {
+        "A": "Parce qu’elles excluaient encore les Algériens des décisions importantes et maintenaient le double collège électoral",
+        "B": "Parce qu’elles favorisaient l’indépendance immédiate",
+        "C": "Parce qu’elles dissolvaient les syndicats européens",
+        "D": "Parce qu’elles favorisaient une immigration massive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quelle est la spécificité du système électoral colonial mis en place en Algérie ?",
+      "réponses": {
+        "A": "Un droit de vote réservé aux femmes uniquement",
+        "B": "Un double collège qui favorise les Européens même minoritaires",
+        "C": "Un suffrage universel obligatoire dès l’âge de 16 ans",
+        "D": "Un vote communautaire basé sur la religion"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle fut la conséquence de l'échec du dialogue réformiste ?",
+      "réponses": {
+        "A": "La mise en place d’une fédération algéro-française",
+        "B": "Le passage progressif à la lutte armée comme solution considérée légitime",
+        "C": "Le démantèlement des partis politiques musulmans",
+        "D": "Le départ volontaire des colons"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelles catégories sociales musulmanes ont soutenu le nationalisme ?",
+      "réponses": {
+        "A": "Les ouvriers, les paysans, les étudiants et les anciens combattants frustrés",
+        "B": "Uniquement les chefs religieux traditionnels",
+        "C": "Les marchands juifs et les colons pauvres",
+        "D": "Les gouverneurs locaux et les administrateurs coloniaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle organisation clandestine marque la rupture avec le pacifisme politique ?",
+      "réponses": {
+        "A": "Le Parti Libéral du Maghreb",
+        "B": "Le Conseil Islamique Algérien",
+        "C": "L’Organisation Spéciale (OS), bras armé des militants radicaux",
+        "D": "L’Union pour la Méditerranée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi la voie violente est-elle progressivement privilégiée par les indépendantistes ?",
+      "réponses": {
+        "A": "Parce que la Constitution française leur accordait le droit à la guerre",
+        "B": "Parce que tous les moyens légaux ont échoué et que la répression persistait",
+        "C": "Parce que l’ONU leur imposait cette solution",
+        "D": "Parce que l’Égypte leur promettait un appui militaire immédiat"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "En quoi la guerre d’Indochine a-t-elle influencé les nationalistes algériens ?",
+      "réponses": {
+        "A": "Elle a permis de développer l’agriculture coloniale",
+        "B": "Elle a convaincu les colons de négocier",
+        "C": "Elle a montré qu’un peuple colonisé pouvait vaincre une armée occidentale",
+        "D": "Elle a poussé la France à quitter l’Afrique du Nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelles leçons les militants algériens ont-ils tirées de la décolonisation asiatique ?",
+      "réponses": {
+        "A": "Que seule une lutte armée déterminée permettait d’obtenir l’indépendance face à un État colonial rigide",
+        "B": "Que la coopération économique suffisait pour obtenir plus de droits",
+        "C": "Que la division ethnique pouvait mener à la paix",
+        "D": "Que l’Europe abandonnait volontairement ses colonies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Pourquoi peut-on dire que le nationalisme violent en Algérie était une réponse ?",
+      "réponses": {
+        "A": "Parce que les colons étaient pacifiques",
+        "B": "Parce que les Musulmans voulaient étendre leur religion",
+        "C": "Parce qu’il s’est construit en réaction à une fermeture totale du système colonial à toute réforme égalitaire",
+        "D": "Parce que la guerre était populaire parmi les jeunes"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI006_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les trois principaux partis nationalistes algériens créés entre 1926 et 1931, et qui en sont les fondateurs ?",
+      "réponses": {
+        "A": "ENA par Ben Badis, FLN par Abane Ramdane, PPA par Ferhat Abbas",
+        "B": "ENA par Messali Hadj, PPA par Messali Hadj, Association des Oulémas par Ben Badis",
+        "C": "MTLD par Messali Hadj, ENA par Ferhat Abbas, UDMA par Ben Khedda",
+        "D": "UDMA par Ben Badis, FLN par Messali Hadj, ENA par Ferhat Abbas"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que prévoyait le projet Blum-Viollette, et pourquoi a-t-il échoué ?",
+      "réponses": {
+        "A": "Il proposait une république autonome en Algérie, mais fut rejeté par le FLN",
+        "B": "Il voulait accorder la citoyenneté à une minorité musulmane, mais fut rejeté par les colons et abandonné",
+        "C": "Il offrait la pleine indépendance aux Musulmans, mais échoua faute de référendum",
+        "D": "Il envisageait l’autonomie religieuse, mais buta sur l’opposition de l’armée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles conséquences les émeutes de Sétif du 8 mai 1945 ont-elles sur les relations franco-algériennes ?",
+      "réponses": {
+        "A": "Elles ont permis l’adoption de réformes progressistes après négociation",
+        "B": "Elles entraînent une répression sanglante avec des milliers de morts musulmans et une rupture durable",
+        "C": "Elles provoquent une réforme immédiate du Code de l’Indigénat",
+        "D": "Elles débouchent sur la constitution d’un gouvernement algérien provisoire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Pourquoi les nationalistes rejettent-ils les réformes de 1947 ?",
+      "réponses": {
+        "A": "Parce qu'elles abolissaient les partis politiques algériens",
+        "B": "Parce qu'elles imposaient l’indépendance immédiate sans transition",
+        "C": "Parce qu'elles instaurent un double collège inégalitaire et une démocratie fictive",
+        "D": "Parce qu'elles favorisaient l’Islam politique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce que le CRUA, formé en 1954, et quel est son objectif ?",
+      "réponses": {
+        "A": "Un comité chargé de négocier l’autonomie dans le cadre français",
+        "B": "Une branche militaire du PPA destinée à sécuriser les élections",
+        "C": "Un groupe clandestin chargé de préparer la lutte armée pour l’indépendance",
+        "D": "Une organisation islamiste opposée au marxisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel rôle le MTLD joue-t-il dans la préparation de la lutte armée ?",
+      "réponses": {
+        "A": "Il lance immédiatement la guerre après l’échec des réformes",
+        "B": "Il fusionne avec le FLN en 1953 pour accélérer l'indépendance",
+        "C": "Il se divise, ce qui pousse les radicaux à créer le CRUA et planifier l’insurrection",
+        "D": "Il organise un référendum sur la séparation de l’Algérie et de la France"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel personnage est le plus lié à la naissance du nationalisme algérien moderne ?",
+      "réponses": {
+        "A": "Messali Hadj, fondateur de l’ENA et du PPA",
+        "B": "Ben Bella, futur dirigeant du FLN dès 1930",
+        "C": "Ferhat Abbas, partisan du rattachement permanent à la France",
+        "D": "Abane Ramdane, membre fondateur du mouvement ouvrier algérien"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Pourquoi l’ENA fut-elle dissoute par la France ?",
+      "réponses": {
+        "A": "Elle était trop proche du parti communiste algérien",
+        "B": "Elle était jugée subversive car elle réclamait l’indépendance algérienne dès 1927",
+        "C": "Elle avait refusé de participer aux élections locales",
+        "D": "Elle s’était alliée aux nazis pendant la Seconde Guerre mondiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle de l’Association des Oulémas dans le nationalisme algérien ?",
+      "réponses": {
+        "A": "Elle militait pour la laïcité et la neutralité politique",
+        "B": "Elle appelait à l’alliance avec les colons européens",
+        "C": "Elle diffusait une identité culturelle arabo-musulmane pour résister à l’assimilation coloniale",
+        "D": "Elle soutenait uniquement les réformes éducatives de la République"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi le PPA fut-il considéré comme dangereux par les autorités coloniales ?",
+      "réponses": {
+        "A": "Parce qu’il appelait à l’indépendance et possédait une organisation bien structurée",
+        "B": "Parce qu’il prônait l’alliance militaire avec la Libye",
+        "C": "Parce qu’il visait uniquement l’autonomie interne dans l’Union Française",
+        "D": "Parce qu’il refusait toute participation politique et restait clandestin"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel est le lien entre Ferhat Abbas et les débuts du nationalisme algérien ?",
+      "réponses": {
+        "A": "Il fut un fervent indépendantiste dès les années 1930",
+        "B": "Il croyait initialement à une intégration égalitaire dans la République française avant d’évoluer vers l’indépendance",
+        "C": "Il s’allia au PPA dès 1926",
+        "D": "Il créa l’ENA avec Messali Hadj"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle est la stratégie du pouvoir colonial français après les événements de Sétif ?",
+      "réponses": {
+        "A": "Accélérer les négociations d’indépendance",
+        "B": "Remettre l’Algérie à l’ONU comme territoire sous tutelle",
+        "C": "Réprimer brutalement les révoltes tout en promettant des réformes illusoires",
+        "D": "Organiser une consultation populaire sur l’autonomie régionale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle est la particularité de l’Assemblée algérienne créée en 1947 ?",
+      "réponses": {
+        "A": "Elle était paritaire entre Musulmans et Européens",
+        "B": "Elle fonctionnait sur un système de double collège très inégalitaire",
+        "C": "Elle interdisait l’accès aux citoyens musulmans",
+        "D": "Elle disposait d’un pouvoir législatif autonome"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi les élections de 1948 en Algérie ont-elles provoqué des tensions ?",
+      "réponses": {
+        "A": "Elles ont abouti à la victoire écrasante du FLN",
+        "B": "Elles ont été entachées de fraudes massives contre les nationalistes",
+        "C": "Elles ont vu l’instauration du multipartisme",
+        "D": "Elles ont donné le pouvoir à un président élu musulman"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle a été la position des Oulémas face à la question nationale dans les années 1930–1940 ?",
+      "réponses": {
+        "A": "Revendiquer une indépendance culturelle et religieuse avant une autonomie politique",
+        "B": "Soutenir la fusion de l’Algérie avec la Syrie",
+        "C": "Combattre le port du voile et promouvoir le modèle républicain français",
+        "D": "Promouvoir la partition entre Nord et Sud algérien"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quel fut le principal effet des divisions internes au MTLD dans les années 1950 ?",
+      "réponses": {
+        "A": "La fin de la lutte politique par absorption dans le FLN",
+        "B": "Le ralliement au gouvernement français",
+        "C": "La naissance du CRUA, regroupant les éléments les plus déterminés à lancer la lutte armée",
+        "D": "L’adoption de l’autonomie dans le cadre de l’Union française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi l'Union Démocratique du Manifeste Algérien (UDMA) se démarque-t-elle du PPA ?",
+      "réponses": {
+        "A": "Elle était favorable à une indépendance immédiate et armée",
+        "B": "Elle préférait une évolution progressive vers l’autonomie dans le respect de la légalité",
+        "C": "Elle soutenait le colonialisme éclairé",
+        "D": "Elle était dirigée par des religieux extrémistes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est la principale critique faite au projet de citoyenneté élargie proposé par la France ?",
+      "réponses": {
+        "A": "Il maintenait la domination coloniale en accordant des droits sans égalité réelle",
+        "B": "Il donnait trop de pouvoir aux élites religieuses",
+        "C": "Il supprimait la langue arabe de l’espace public",
+        "D": "Il imposait le service militaire obligatoire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Qu’est-ce qui caractérise le discours de Ferhat Abbas en 1943 ?",
+      "réponses": {
+        "A": "Il revendique l’indépendance totale et immédiate",
+        "B": "Il réclame une république algérienne autonome dans une Union Franco-Musulmane",
+        "C": "Il défend l’idée d’une monarchie islamique",
+        "D": "Il prône la fédération maghrébine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Pourquoi l’échec des réformes françaises a-t-il précipité l’option de la lutte armée ?",
+      "réponses": {
+        "A": "Parce que les partis communistes algériens ont exigé l’usage des armes",
+        "B": "Parce que toutes les tentatives de réformes ont été soit bloquées, soit vidées de leur contenu",
+        "C": "Parce que la France avait déjà promis l’indépendance en 1952",
+        "D": "Parce que l’ONU a voté une résolution en ce sens"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI006_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le rôle initial du CRUA dans le contexte algérien de 1954 ?",
+      "réponses": {
+        "A": "Il organisait des manifestations pacifiques contre les lois coloniales.",
+        "B": "Il regroupait des nationalistes modérés favorables à un compromis avec la France.",
+        "C": "Il organisait des soulèvements armés pour arracher l’indépendance.",
+        "D": "Il cherchait à négocier des réformes économiques avec le gouvernement français."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi le 1er novembre 1954 est-il considéré comme une date fondatrice ?",
+      "réponses": {
+        "A": "C’est le jour où la France reconnaît l’autonomie de l’Algérie.",
+        "B": "C’est la date d’adoption du manifeste du FLN.",
+        "C": "C’est le début de la guerre d’Algérie, avec une série d’attentats.",
+        "D": "C’est le jour de l’indépendance proclamée par l’ALN."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle affirmation est correcte concernant le FLN ?",
+      "réponses": {
+        "A": "Il est fondé à Tunis par des anciens du MTLD.",
+        "B": "Il succède au CRUA et est créé à Alger.",
+        "C": "Il est exclusivement dirigé par des militaires.",
+        "D": "Il regroupe uniquement des membres du parti PPA-MTLD."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le FLN a pour but :",
+      "réponses": {
+        "A": "De négocier un statut autonome sous contrôle français.",
+        "B": "De conserver les structures sociales traditionnelles.",
+        "C": "D’instaurer une monarchie constitutionnelle.",
+        "D": "De créer un État moderne et indépendant en Algérie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Le type de violence utilisé dans la guerre d’indépendance algérienne inclut :",
+      "réponses": {
+        "A": "Des bombardements nucléaires contre des zones rurales.",
+        "B": "Des assassinats ciblés d’hommes politiques uniquement.",
+        "C": "Des exactions contre les civils, les tortures et les attentats.",
+        "D": "Une guerre purement frontale entre deux armées régulières."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "En quoi la guerre d’Algérie diffère-t-elle des autres conflits coloniaux français ?",
+      "réponses": {
+        "A": "Elle n’a impliqué aucun civil.",
+        "B": "Elle s’est déroulée entièrement en dehors du territoire français.",
+        "C": "Elle a connu un usage massif de la torture et une guerre psychologique.",
+        "D": "Elle s’est terminée par une victoire militaire française."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’objectif de la Toussaint rouge ?",
+      "réponses": {
+        "A": "Célébrer l’unité entre les communautés algériennes.",
+        "B": "Réaliser un test d’armes dans le désert.",
+        "C": "Organiser une journée nationale de deuil pour les martyrs.",
+        "D": "Marquer symboliquement le début de la lutte armée."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "En quoi l'action du FLN a-t-elle été décisive dans l’internationalisation du conflit ?",
+      "réponses": {
+        "A": "En obtenant une reconnaissance immédiate de l’ONU.",
+        "B": "En limitant le conflit au territoire algérien.",
+        "C": "En médiatisant la cause et en mobilisant les pays du Tiers Monde.",
+        "D": "En signant un traité avec les États-Unis."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel fut le rôle de l’armée française durant la guerre ?",
+      "réponses": {
+        "A": "Elle s’est abstenue de tout acte répressif.",
+        "B": "Elle a pratiqué une répression brutale, incluant la torture.",
+        "C": "Elle a exclusivement défendu les civils.",
+        "D": "Elle a soutenu l’indépendance dès le début du conflit."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle est une conséquence sociale majeure de la guerre ?",
+      "réponses": {
+        "A": "L’amélioration des relations franco-algériennes.",
+        "B": "La disparition de toute violence communautaire.",
+        "C": "Un traumatisme durable dans la mémoire collective des deux pays.",
+        "D": "La création immédiate d’un régime démocratique stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi le FLN se distingue-t-il des mouvements nationalistes précédents ?",
+      "réponses": {
+        "A": "Il privilégie le dialogue interreligieux.",
+        "B": "Il utilise le terrorisme urbain comme stratégie majeure.",
+        "C": "Il ne compte aucun ancien militant du MTLD.",
+        "D": "Il rejette tout contact avec la population paysanne."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle était l’attitude du gouvernement français au début de la guerre ?",
+      "réponses": {
+        "A": "Il reconnaît la guerre et propose un cessez-le-feu immédiat.",
+        "B": "Il nie qu’il s’agisse d’une guerre et parle d’opérations de maintien de l’ordre.",
+        "C": "Il accepte une médiation de l’ONU.",
+        "D": "Il retire ses troupes dès 1955 pour éviter l’escalade."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel rôle a joué le Général Massu pendant la bataille d’Alger ?",
+      "réponses": {
+        "A": "Il a négocié avec le FLN un accord de paix.",
+        "B": "Il a refusé d’utiliser la torture dans les interrogatoires.",
+        "C": "Il a dirigé la répression violente contre les indépendantistes.",
+        "D": "Il a combattu aux côtés des nationalistes algériens."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "La bataille d’Alger illustre :",
+      "réponses": {
+        "A": "L’absence totale de résistance armée.",
+        "B": "L’échec de la guérilla dans les villes.",
+        "C": "La brutalité de la répression française contre les civils.",
+        "D": "Le soutien populaire massif à la présence française."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle fut la position de l’ONU sur la guerre d’Algérie ?",
+      "réponses": {
+        "A": "Elle a reconnu l’Algérie indépendante dès 1954.",
+        "B": "Elle n’a jamais abordé le sujet officiellement.",
+        "C": "Elle a envoyé des troupes pour arbitrer le conflit.",
+        "D": "Elle a évoqué la question algérienne sous pression des pays non-alignés."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel rôle la diaspora algérienne a-t-elle joué dans la guerre ?",
+      "réponses": {
+        "A": "Aucun rôle significatif dans le conflit.",
+        "B": "Soutien moral sans implication politique.",
+        "C": "Financement du FLN et relais de propagande à l’étranger.",
+        "D": "Refus total de la lutte armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel fut le sort des Harkis après l’indépendance ?",
+      "réponses": {
+        "A": "Ils furent intégrés dans l’armée algérienne.",
+        "B": "Ils restèrent en Algérie dans la sécurité.",
+        "C": "Ils reçurent la nationalité française automatiquement.",
+        "D": "Beaucoup furent massacrés ou abandonnés."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "L’ALN (Armée de Libération Nationale) agit principalement :",
+      "réponses": {
+        "A": "En dehors du territoire algérien uniquement.",
+        "B": "Par des actions diplomatiques.",
+        "C": "Comme le bras armé du FLN contre la France.",
+        "D": "Comme une force de maintien de la paix."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est la spécificité du conflit algérien dans le cadre de la décolonisation ?",
+      "réponses": {
+        "A": "Il fut réglé rapidement sans intervention extérieure.",
+        "B": "Il opposa principalement deux armées étrangères.",
+        "C": "Il fut l’un des plus longs et sanglants des conflits coloniaux.",
+        "D": "Il aboutit à une colonisation renforcée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel accord met fin officiellement à la guerre d’Algérie ?",
+      "réponses": {
+        "A": "Les Accords de Genève signés en 1959.",
+        "B": "Les Accords de Bamako conclus avec le FLN.",
+        "C": "Les Accords d’Évian signés en mars 1962.",
+        "D": "Le Pacte d’Alger négocié par l’ONU."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}
+]

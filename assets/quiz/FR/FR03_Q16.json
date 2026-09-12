@@ -1,0 +1,156 @@
+{
+    "title": "Quiz 4",
+    "id": "FR001_Q4",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quelle est la reformulation correcte du sujet ?",
+            "réponses": {
+                "A": "Lire, c’est voyager dans un monde fictif",
+                "B": "La littérature permet une introspection personnelle",
+                "C": "La littérature permet d’oublier ses problèmes",
+                "D": "La littérature dénonce les maux de la société."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quelle thèse ce sujet défend-il ?",
+            "réponses": {
+                "A": "La lecture développe l’imaginaire",
+                "B": "La lecture n’a aucun effect sur le lecteur",
+                "C": "La lecture favorise la réflexion sur soi-même",
+                "D": "La lecture est réservée aux érudits"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quelle est l’antithèse de cette thèse ?",
+            "réponses": {
+                "A": "La lecture a d’autres rôle pour le lecteur",
+                "B": "La lecture nous révèle à nous-mêmes",
+                "C": "Lire permet de mieux comprendre sa société",
+                "D": "Lire nous pousse à réfléchir sur nos actions"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quel argument soutient la thèse ?",
+            "réponses": {
+                "A": "La littérature est un moyen d’expression des sentiments personnels comme des sentiments de douleurs, d’angoisses ou de désillusions.",
+                "B": "Lire une œuvre permet d’imaginer des mondes irréels",
+                "C": "La littérature est un moyen d’exaltation des valeurs culturelles en vue d’amener le lecteur à connaître son origine.",
+                "D": "Lire permet de rire"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°5": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quel argument réfute la thèse ?",
+            "réponses": {
+                "A": "La lecture est un moyen de divertissement à travers les scènes comiques.",
+                "B": "La lecture est un miroir de l’âme",
+                "C": "La lecture nous amène à réfléchir , à se remettre en cause.",
+                "D": "La lecture favorise la connaissance de soi"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quelle œuvre illustre cette thèse ?",
+            "réponses": {
+                "A": "La nausée de Jean Paul Sartre",
+                "B": "Sooundjata, lion manding de Laurent Gbagbo.",
+                "C": "Au-delà des tourments de Mathurin Goli Bi Irié.",
+                "D": "Toutes ces propositions"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°7": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quelle œuvre pourrait illustrer l’antithèse ?",
+            "réponses": {
+                "A": "On se chamaille pour un siège de Hyacinthe Kacou",
+                "B": "L’aventure ambiguë de Cheikh Hamidou Kane",
+                "C": "Cahier d’un retour au pays natal d’Aimé Césaire",
+                "D": "Toutes ces propositions"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°8": {
+            "question": "Sujet : « Lire une œuvre, c’est être amené à se connaître et à se juger » Quel autre argument soutient la thèse ?",
+            "réponses": {
+                "A": "La lecture confronte le lecteur à des dilemmes moraux",
+                "B": "La lecture n’interroge pas l’individu",
+                "C": "La lecture évite les conflits intérieurs",
+                "D": "La lecture ne sert qu’à acquérir du savoir"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "Sujet : « Romanciers révolutionnaires, poètes militants, dramaturges engagés : tout a été dit pour célébrer la littérature. Et pourtant l’écrivain n’est qu’un moustique qui bourdonne autour d’une pyramide. » Quelle reformulation correspond le mieux à ce sujet ?",
+            "réponses": {
+                "A": "L’écrivain est puissant et fait trembler le monde",
+                "B": "L’écrivain, malgré ses efforts, est inutile dans la société",
+                "C": "L’écrivain est au centre du pouvoir",
+                "D": "L’écrivain écrit juste pour évader le lecteur."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°10": {
+            "question": "Sujet : « Romanciers révolutionnaires, poètes militants, dramaturges engagés : tout a été dit pour célébrer la littérature. Et pourtant l’écrivain n’est qu’un moustique qui bourdonne autour d’une pyramide. » Quelle est la thèse exprimée ici ?",
+            "réponses": {
+                "A": "L’écrivain est impuissant face aux grands pouvoirs",
+                "B": "L’écrivain domine la société",
+                "C": "L’écrivain fait peur aux puissants",
+                "D": "L’écrivain change les lois"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Sujet : « Romanciers révolutionnaires, poètes militants, dramaturges engagés : tout a été dit pour célébrer la littérature. Et pourtant l’écrivain n’est qu’un moustique qui bourdonne autour d’une pyramide. » Quelle est l’antithèse ?",
+            "réponses": {
+                "A": "L’écrivain est une voix sans écho",
+                "B": "L’écrivain est un acteur de transformation sociale",
+                "C": "L’écrivain écrit pour lui-même",
+                "D": "L’écrivain a d’autres missions dans la société."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Sujet : « Romanciers révolutionnaires, poètes militants, dramaturges engagés : tout a été dit pour célébrer la littérature. Et pourtant l’écrivain n’est qu’un moustique qui bourdonne autour d’une pyramide. » Quel argument soutient la thèse ?",
+            "réponses": {
+                "A": "Les écrits sont immédiatement appliqués",
+                "B": "L’écrivain décide des lois",
+                "C": "Les écrivains dénoncent, mais peu de choses changent réellement",
+                "D": "Le peuple obéit toujours aux écrivains"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°13": {
+            "question": "Sujet : « Romanciers révolutionnaires, poètes militants, dramaturges engagés : tout a été dit pour célébrer la littérature. Et pourtant l’écrivain n’est qu’un moustique qui bourdonne autour d’une pyramide. ». Quel argument réfute la thèse ?",
+            "réponses": {
+                "A": "L’écriture est un passe-temps",
+                "B": "L’écrivain n’a aucun impact",
+                "C": "L’écriture est une arme puissante contre l’injustice",
+                "D": "L’écriture ne fait pas bouger les sociétés"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°14": {
+            "question": "Sujet : « Toute œuvre d'art est un beau mensonge » – Stendhal. Quelle est la reformulation correcte de ce sujet ?",
+            "réponses": {
+                "A": "L’art est toujours mensonger et inutile",
+                "B": "L’art est une pure copie de la vie",
+                "C": "L’art déforme la réalité pour la rendre agréable",
+                "D": "L’art est une simple reproduction scientifique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°15": {
+            "question": "Sujet : « Toute œuvre d'art est un beau mensonge » – Stendhal. Quel argument soutient la thèse du sujet ?",
+            "réponses": {
+                "A": "L’art est toujours un message engagé et véridique",
+                "B": "L’artiste transmet une vérité politique directe",
+                "C": "L’art est une photographie fidèle du monde",
+                "D": "L’artiste recrée le réel pour produire une émotion esthétique"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

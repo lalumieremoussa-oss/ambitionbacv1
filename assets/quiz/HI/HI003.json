@@ -1,0 +1,619 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les quatre aspects qui caractérisent la puissance globale des États-Unis après la guerre froide ?",
+      "réponses": {
+        "A": "Puissance écologique, démographique, rurale et touristique",
+        "B": "Influence philosophique, religieuse, maritime et océanique",
+        "C": "Domination démographique, religieuse, climatique et agricole",
+        "D": "Puissance économique, militaire, culturelle et technologique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Comment les États-Unis manifestent-ils leur puissance à l’échelle mondiale après 1991 ?",
+      "réponses": {
+        "A": "Par la conquête militaire de nouveaux territoires",
+        "B": "Par leur influence sur les organisations internationales",
+        "C": "Par le repli sur leur continent",
+        "D": "Par le refus des alliances militaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "En quoi l’élargissement de l’OTAN renforce-t-il l’influence américaine en Europe ?",
+      "réponses": {
+        "A": "En intégrant les anciens pays du bloc soviétique sous commandement américain",
+        "B": "En interdisant aux pays européens de se réarmer",
+        "C": "En imposant le dollar comme monnaie unique européenne",
+        "D": "En plaçant l’Europe sous tutelle militaire de la Russie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelles sont les principales interventions militaires des États-Unis dans les années 1990 et 2000 ?",
+      "réponses": {
+        "A": "Chine, Japon, Corée du Nord, Indonésie",
+        "B": "Somalie, Bosnie, Afghanistan, Irak",
+        "C": "Vietnam, Cambodge, Laos, Corée",
+        "D": "Libye, Égypte, Tunisie, Maroc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Pourquoi peut-on dire que les États-Unis se posent en « gendarmes du monde » ?",
+      "réponses": {
+        "A": "Parce qu’ils contrôlent toutes les frontières du monde",
+        "B": "Parce qu’ils suppriment les armées étrangères",
+        "C": "Parce qu’ils imposent leur religion dans les pays musulmans",
+        "D": "Parce qu’ils interviennent militairement pour défendre la paix et leurs intérêts"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelles sont les limites à l’interventionnisme américain, notamment après 2001 ?",
+      "réponses": {
+        "A": "Le renforcement du communisme en Europe",
+        "B": "La montée du pacifisme chinois dans l’armée américaine",
+        "C": "L’adhésion des États-Unis à l’ONU",
+        "D": "Un refus croissant de la part des alliés de participer aux guerres américaines"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quelle institution illustre le leadership économique des États-Unis ?",
+      "réponses": {
+        "A": "Banque Centrale Européenne",
+        "B": "Organisation des Nations Unies",
+        "C": "Fonds Monétaire International (FMI)",
+        "D": "Banque de développement africaine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "En quoi le dollar américain est-il un symbole de domination mondiale ?",
+      "réponses": {
+        "A": "C’est la monnaie la plus rare dans les pays pauvres",
+        "B": "Il n'est utilisé que sur le continent américain",
+        "C": "C’est la monnaie de réserve et d’échange international",
+        "D": "Il est imposé par l’ONU dans les traités internationaux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Pourquoi les multinationales renforcent-elles l’hégémonie américaine ?",
+      "réponses": {
+        "A": "Elles financent la CIA",
+        "B": "Elles diffusent la culture, les produits et les valeurs américaines dans le monde entier",
+        "C": "Elles n'emploient que des Américains",
+        "D": "Elles empêchent l’émergence de nouvelles puissances"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel rôle jouent les médias américains dans le soft power ?",
+      "réponses": {
+        "A": "Ils censurent toutes les critiques contre l’Occident",
+        "B": "Ils diffusent uniquement des films éducatifs",
+        "C": "Ils imposent des sanctions économiques",
+        "D": "Ils influencent les mentalités à travers la musique, les films, les réseaux sociaux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Que symbolise l’expression “hyperpuissance” à propos des États-Unis ?",
+      "réponses": {
+        "A": "Leur déclin rapide",
+        "B": "Leur isolement diplomatique",
+        "C": "Leur domination écrasante dans tous les domaines (éco, mili, techno, culturel)",
+        "D": "Le rejet mondial de leur système politique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Pourquoi les États-Unis ont-ils envahi l’Irak en 2003 ?",
+      "réponses": {
+        "A": "Pour défendre les droits de l’homme",
+        "B": "Pour aider l’Union européenne",
+        "C": "Pour détruire des armes de destruction massive supposées et renverser Saddam Hussein",
+        "D": "Pour annexer le territoire irakien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel reproche est souvent fait aux USA dans leurs interventions ?",
+      "réponses": {
+        "A": "De respecter trop les frontières",
+        "B": "De défendre leurs intérêts stratégiques plus que le droit international",
+        "C": "D’agir uniquement via l’ONU",
+        "D": "D’éviter de faire la guerre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle puissance s’oppose de plus en plus à l’hégémonie des États-Unis ?",
+      "réponses": {
+        "A": "Le Japon",
+        "B": "La Chine",
+        "C": "Le Brésil",
+        "D": "L’Union africaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelles sont les conséquences de l’intervention américaine en Afghanistan ?",
+      "réponses": {
+        "A": "Une paix durable établie depuis 2001",
+        "B": "Une guerre longue, coûteuse, sans victoire claire, suivie du retour des Talibans",
+        "C": "L’effondrement économique des USA",
+        "D": "L’annexion de l’Afghanistan par les États-Unis"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Que signifie l’unilatéralisme américain ?",
+      "réponses": {
+        "A": "Une politique de coopération avec tous les pays",
+        "B": "La tendance à agir seul, sans tenir compte des partenaires internationaux",
+        "C": "L’application systématique des décisions de l’ONU",
+        "D": "Le respect total du droit international"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pourquoi parle-t-on d’“Américanisation du monde” ?",
+      "réponses": {
+        "A": "Tous les pays adoptent l’anglais comme langue officielle",
+        "B": "Les frontières américaines s’étendent",
+        "C": "La culture américaine influence la consommation, les valeurs et le mode de vie mondial",
+        "D": "L’ONU est contrôlée par Hollywood"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel président américain a symbolisé l’unilatéralisme au début des années 2000 ?",
+      "réponses": {
+        "A": "Barack Obama",
+        "B": "George W. Bush",
+        "C": "Bill Clinton",
+        "D": "Donald Trump"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est le rôle des GAFAM dans le rayonnement américain ?",
+      "réponses": {
+        "A": "Ce sont des syndicats de travailleurs",
+        "B": "Ils contrôlent les données, les réseaux sociaux et influencent l’opinion mondiale",
+        "C": "Ils fabriquent des armes nucléaires",
+        "D": "Ils sont des ONG indépendantes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle crise a révélé la fragilité de l’image des États-Unis sur la scène internationale ?",
+      "réponses": {
+        "A": "Le boom technologique de la Silicon Valley",
+        "B": "La guerre en Irak et les révélations sur Guantanamo",
+        "C": "L'élection d’Abraham Lincoln",
+        "D": "Le rachat de McDonald’s par la Chine"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi la guerre d’Irak de 2003 a-t-elle fragilisé le leadership américain ?",
+      "réponses": {
+        "A": "Parce qu’elle a renforcé les liens avec la Russie",
+        "B": "Parce que les États-Unis ont gagné en popularité au Moyen-Orient",
+        "C": "Parce qu’elle a été menée sans l’accord de l’ONU, isolant diplomatiquement les États-Unis",
+        "D": "Parce qu’elle a permis à l’Irak de devenir une démocratie stable"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel retrait symbolise le recul du multilatéralisme américain sous Donald Trump ?",
+      "réponses": {
+        "A": "Le retrait de l’OTAN",
+        "B": "Le retrait du FMI",
+        "C": "Le retrait de l’Union européenne",
+        "D": "Le retrait de l’accord de Paris sur le climat"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "En quoi la guerre en Afghanistan a-t-elle été un échec pour les États-Unis ?",
+      "réponses": {
+        "A": "Parce que les Talibans ont été définitivement vaincus",
+        "B": "Parce que les Talibans ont repris le pouvoir après le retrait américain en 2021",
+        "C": "Parce que les États-Unis y ont gagné en influence économique",
+        "D": "Parce qu’aucune coalition n’y a été formée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle critique majeure vise l’intervention américaine en Syrie ?",
+      "réponses": {
+        "A": "Leur collaboration étroite avec la Russie",
+        "B": "Leur incapacité à imposer une paix durable et leur rôle ambigu",
+        "C": "Leur retrait volontaire du conflit",
+        "D": "Leur neutralité complète"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel événement a terni l’image des États-Unis en matière de droits humains ?",
+      "réponses": {
+        "A": "Le plan Marshall",
+        "B": "La guerre de Corée",
+        "C": "Le scandale de la prison d’Abu Ghraib en Irak",
+        "D": "La fondation de l’ONU"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel pays s’impose comme le principal rival stratégique des États-Unis ?",
+      "réponses": {
+        "A": "Le Brésil",
+        "B": "La Chine",
+        "C": "L’Inde",
+        "D": "L’Allemagne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi parle-t-on de « multipolarité » dans le monde actuel ?",
+      "réponses": {
+        "A": "Parce que tous les pays ont le même pouvoir militaire",
+        "B": "Parce que les États-Unis sont en guerre contre tous les blocs",
+        "C": "Parce qu’il existe plusieurs pôles de puissance économique et politique dans le monde",
+        "D": "Parce que le monde est dirigé par une seule organisation mondiale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle politique économique renforce la domination chinoise ?",
+      "réponses": {
+        "A": "La guerre commerciale avec les États-Unis",
+        "B": "L’initiative des Nouvelles Routes de la Soie",
+        "C": "L’abandon du yuan",
+        "D": "Le retrait de la Banque mondiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel pays a affirmé sa puissance en annexant la Crimée en 2014 ?",
+      "réponses": {
+        "A": "La Chine",
+        "B": "La Russie",
+        "C": "L’Ukraine",
+        "D": "La Turquie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle institution internationale est régulièrement critiquée pour sa domination américaine ?",
+      "réponses": {
+        "A": "L’UNESCO",
+        "B": "Le Conseil de sécurité de l’ONU",
+        "C": "Le FMI (Fonds Monétaire International)",
+        "D": "L’OIF"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle action de la Russie remet en cause l’ordre mondial dominé par les USA ?",
+      "réponses": {
+        "A": "Son adhésion à l’OMC",
+        "B": "Son soutien militaire au régime syrien de Bachar el-Assad",
+        "C": "Son retrait de l’ONU",
+        "D": "Sa participation aux Jeux Olympiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel acteur régional remet en cause la présence américaine au Moyen-Orient ?",
+      "réponses": {
+        "A": "Israël",
+        "B": "Le Qatar",
+        "C": "L’Iran",
+        "D": "L’Arabie saoudite"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle organisation économique est perçue comme un contrepoids au FMI dominé par les USA ?",
+      "réponses": {
+        "A": "La CEDEAO",
+        "B": "Les BRICS",
+        "C": "L’Union européenne",
+        "D": "L’ASEAN"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle stratégie les États-Unis ont-ils utilisée pour contenir l’influence chinoise en Asie ?",
+      "réponses": {
+        "A": "L’opération Tempête du désert",
+        "B": "Le partenariat stratégique avec des pays comme le Japon, l’Australie et l’Inde",
+        "C": "L’intégration de la Chine dans l’OTAN",
+        "D": "L’envoi de troupes au Tibet"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel reproche fait-on souvent à la diplomatie américaine contemporaine ?",
+      "réponses": {
+        "A": "Elle privilégie les pays pauvres",
+        "B": "Elle repose exclusivement sur l’ONU",
+        "C": "Elle respecte strictement le droit international",
+        "D": "Elle défend d’abord ses intérêts économiques et stratégiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Pourquoi l’utilisation du dollar est-elle contestée dans les relations internationales ?",
+      "réponses": {
+        "A": "Parce que les pays européens veulent adopter le yuan",
+        "B": "Parce que le dollar est trop faible",
+        "C": "Parce qu’elle favorise la domination américaine sur le commerce mondial",
+        "D": "Parce que les USA refusent de l’imprimer"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel accord les États-Unis ont-ils quitté en 2018, suscitant la colère de leurs alliés ?",
+      "réponses": {
+        "A": "L’accord sur le Brexit",
+        "B": "L’accord nucléaire avec l’Iran (JCPOA)",
+        "C": "Le protocole de Kyoto",
+        "D": "L’accord de Minsk"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "En quoi la diplomatie de Joe Biden marque-t-elle une rupture avec celle de Trump ?",
+      "réponses": {
+        "A": "Il a interdit le multilatéralisme",
+        "B": "Il prône un retour au dialogue international et aux alliances traditionnelles",
+        "C": "Il a quitté l’ONU",
+        "D": "Il a imposé le protectionnisme radical"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle puissance utilise aussi le “soft power” pour concurrencer les États-Unis ?",
+      "réponses": {
+        "A": "La Corée du Sud avec la K-pop et le cinéma",
+        "B": "Le Canada avec ses mines",
+        "C": "La Suisse avec ses banques",
+        "D": "L’Iran avec ses forces militaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Que signifie le terme 'déclin relatif' des États-Unis ?",
+      "réponses": {
+        "A": "Leur disparition du système mondial",
+        "B": "Leur domination reste forte, mais d'autres puissances montent en influence",
+        "C": "La fin du capitalisme",
+        "D": "Leur transformation en État fédéral européen"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI003_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Que signifie l’acronyme BRICS ?",
+      "réponses": {
+        "A": "Bloc Réformiste International pour la Coopération Sud-Sud",
+        "B": "Brésil, Russie, Inde, Chine, Afrique du Sud",
+        "C": "Banque Régionale pour l’Investissement Commercial Sud",
+        "D": "Bloc Révolutionnaire Islamo-Chrétien du Sud"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi les BRICS représentent-ils une alternative au leadership américain ?",
+      "réponses": {
+        "A": "Ils cherchent à rejoindre l’OTAN",
+        "B": "Ils soutiennent les interventions américaines",
+        "C": "Ils contestent l’hégémonie du dollar et veulent un monde multipolaire",
+        "D": "Ils sont membres permanents du G7"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle banque a été créée par les BRICS pour concurrencer la Banque mondiale ?",
+      "réponses": {
+        "A": "Banque Asiatique de Développement",
+        "B": "Nouvelle Banque de Développement (NDB)",
+        "C": "Banque Populaire Internationale",
+        "D": "Banque Mondiale d’Afrique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle est la monnaie d’échange que les BRICS veulent promouvoir pour remplacer le dollar ?",
+      "réponses": {
+        "A": "Le yuan uniquement",
+        "B": "Une monnaie commune des BRICS (en projet)",
+        "C": "Le bitcoin",
+        "D": "L’euro"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quels objectifs géopolitiques visent les BRICS ?",
+      "réponses": {
+        "A": "Soutenir le modèle occidental",
+        "B": "Renforcer la souveraineté des États et limiter l’ingérence occidentale",
+        "C": "Abandonner le droit de véto à l’ONU",
+        "D": "S’aligner sur l’OTAN"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle puissance économique mondiale représentent les BRICS en termes de PIB global ?",
+      "réponses": {
+        "A": "Moins que les pays du G7",
+        "B": "Plus que le G7 en parité de pouvoir d’achat",
+        "C": "Autant que l’Afrique seule",
+        "D": "Un tiers de l’Asie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "En quoi les BRICS concurrencent-ils les États-Unis en Afrique ?",
+      "réponses": {
+        "A": "En soutenant les sanctions américaines",
+        "B": "En imposant la présence militaire",
+        "C": "Par des investissements massifs dans les infrastructures et l'énergie",
+        "D": "En bloquant l’aide humanitaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel sommet régulier renforce la coordination politique des BRICS ?",
+      "réponses": {
+        "A": "G20",
+        "B": "Conférence de Paris sur le climat",
+        "C": "Le Sommet annuel des BRICS",
+        "D": "COP29"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel pays parmi les BRICS joue un rôle central dans la stratégie numérique et technologique ?",
+      "réponses": {
+        "A": "Le Brésil",
+        "B": "La Chine",
+        "C": "L’Afrique du Sud",
+        "D": "L’Inde"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle critique majeure les BRICS formulent-ils à l’encontre de l’ONU ?",
+      "réponses": {
+        "A": "Trop d’aides aux pays pauvres",
+        "B": "Le Conseil de sécurité est dominé par l’Occident et bloque les réformes",
+        "C": "L’ONU soutient trop les BRICS",
+        "D": "Les USA n’y ont aucun droit de véto"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Pourquoi l’Union Européenne peut-elle être vue comme un contrepoids aux États-Unis ?",
+      "réponses": {
+        "A": "Elle n’a pas de monnaie propre",
+        "B": "Elle est dépendante du FMI",
+        "C": "Elle dispose d’un marché économique très puissant et d’une monnaie forte, l’euro",
+        "D": "Elle suit les directives américaines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi l’euro s’oppose-t-il au dollar ?",
+      "réponses": {
+        "A": "Il est plus utilisé pour les transactions pétrolières",
+        "B": "Il est imposé dans toute l’Afrique",
+        "C": "C’est une monnaie de réserve mondiale utilisée dans de nombreux échanges",
+        "D": "Il est convertible uniquement en dollars"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel domaine démontre l’autonomie stratégique croissante de l’UE face aux États-Unis ?",
+      "réponses": {
+        "A": "Le sport",
+        "B": "La politique environnementale et numérique (RGPD)",
+        "C": "Les guerres nucléaires",
+        "D": "La colonisation spatiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle politique commune permet à l’UE de s’émanciper économiquement des USA ?",
+      "réponses": {
+        "A": "La PAC (Politique Agricole Commune)",
+        "B": "Le Pacte Vert pour l’Europe (Green Deal)",
+        "C": "L’Accord de Bretton Woods",
+        "D": "L’Initiative Belt and Road"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle crise a révélé les divisions entre l’UE et les États-Unis ?",
+      "réponses": {
+        "A": "La guerre de Sécession",
+        "B": "La guerre en Irak (2003), refus de la France et de l’Allemagne d’y participer",
+        "C": "La crise du Brexit",
+        "D": "Le 11 septembre 2001"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la position de la Russie sur la domination du dollar ?",
+      "réponses": {
+        "A": "Elle propose de renforcer le dollar",
+        "B": "Elle interdit le rouble à l’international",
+        "C": "Elle cherche à le contourner en utilisant le yuan et les monnaies locales",
+        "D": "Elle le soutient dans le G7"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle initiative énergétique de la Russie renforce son influence mondiale ?",
+      "réponses": {
+        "A": "Le barrage d’Assouan",
+        "B": "Le pipeline Transafricain",
+        "C": "Le gazoduc Nord Stream vers l’Europe",
+        "D": "Le canal de Suez"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel conflit a montré l’opposition directe de la Russie à l’OTAN et aux États-Unis ?",
+      "réponses": {
+        "A": "Le conflit au Mali",
+        "B": "Le Brexit",
+        "C": "L’invasion de l’Ukraine en 2022",
+        "D": "La guerre du Golfe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel est le rôle de la Russie dans les BRICS ?",
+      "réponses": {
+        "A": "Elle est un membre passif",
+        "B": "Elle finance seul le groupe",
+        "C": "Elle joue un rôle militaire et énergétique central",
+        "D": "Elle veut quitter les BRICS"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Pourquoi la Russie est-elle considérée comme une puissance de rupture dans l’ordre mondial ?",
+      "réponses": {
+        "A": "Parce qu’elle est candidate à l’UE",
+        "B": "Parce qu’elle rejette l’unipolarité américaine et propose un monde multipolaire",
+        "C": "Parce qu’elle soutient l’OTAN",
+        "D": "Parce qu’elle dépend du dollar"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},

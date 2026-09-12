@@ -1,0 +1,190 @@
+{
+  "id": "PH009_Q8",
+  "title": "Quiz 8",
+  "questions": {
+    "question n°1": {
+      "question": "Ce quiz est la suite du quiz précédent(Les Mathématiques sont-elles l’Idéal de Toute Science ?). L’Axe 2 de ce sujet s’intitule « La réduction de toute science au modèle mathématique est illusoire ». Cela signifie que :",
+      "réponses": {
+        "A": "Le modèle mathématique est la seule voie valide pour toute science, et toute critique à son égard est infondée et irréaliste.",
+        "B": "Toutes les sciences devraient systématiquement et sans exception adopter les méthodes mathématiques pour atteindre une rigueur absolue.",
+        "C": "Tenter de soumettre toutes les disciplines scientifiques aux seules exigences du modèle mathématique est une entreprise trompeuse, qui méconnaît la spécificité de certains domaines et leurs propres critères de validité.",
+        "D": "La science elle-même est une illusion, et il n’y a donc pas de modèle idéal à suivre pour la connaissance."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Un Argument affirme que les sciences humaines et sociales impliquent des dimensions qui échappent aux mathématiques, notamment car elles sont :",
+      "réponses": {
+        "A": "Qualitatives et subjectives, concernant la liberté, les motivations, les intentions ou l’histoire humaine, des aspects difficilement réductibles à des quantités ou des formules.",
+        "B": "Principalement descriptives de faits bruts, sans chercher à interpréter les motivations profondes ou les contextes historiques, facilitant ainsi leur mathématisation directe.",
+        "C": "Exclusivement objectives et quantifiables, ce qui les rend parfaitement aptes à être modélisées par des équations mathématiques complexes et universelles.",
+        "D": "Seulement théoriques, sans aucune application pratique ou vérification empirique, ce qui les rend incompatibles avec toute approche rigoureuse, qu’elle soit mathématique ou non."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Dilthey oppose « comprendre (Verstehen) » et « expliquer (Erklären) » pour souligner que les sciences de l’esprit (sciences humaines) nécessitent :",
+      "réponses": {
+        "A": "De l’interprétation et une appréhension empathique des significations, par opposition à la seule explication des phénomènes par des lois générales et des relations de cause à effet.",
+        "B": "Une approche purement intuitive et non structurée, sans aucune méthode rigoureuse ou cadre conceptuel.",
+        "C": "Uniquement une explication causale et une quantification des phénomènes, similaire aux méthodes des sciences naturelles.",
+        "D": "Un rejet total de toute forme de scientificité, considérant les sciences humaines comme de simples narrations subjectives sans validité objective."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "L’explication d’un Argument affirme que l’humain, dans sa liberté, ses motivations et son histoire, ne peut être réduit à des équations. Cela signifie que :",
+      "réponses": {
+        "A": "La complexité des phénomènes humains est en fait une illusion, et des équations suffisamment avancées pourraient tout modéliser.",
+        "B": "Les aspects irréductiblement qualitatifs et singuliers de l’expérience humaine, tels que les choix libres ou les désirs personnels, ne sont pas capturables par des formules mathématiques.",
+        "C": "L’histoire humaine est une succession d’événements aléatoires qui échappent à toute forme d’analyse, qu’elle soit scientifique ou mathématique.",
+        "D": "La réduction de l’humain à des équations est l’objectif ultime des sciences humaines, et c’est la seule voie pour atteindre une connaissance véritable."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "L’Argument (« Même dans les sciences naturelles, l’observation et l’expérimentation précèdent parfois la modélisation mathématique ») implique que :",
+      "réponses": {
+        "A": "La modélisation mathématique est toujours la première étape dans toutes les sciences naturelles, sans exception.",
+        "B": "L’observation et l’expérimentation sont des processus indépendants de la science, qui ne contribuent pas à la formation de la connaissance.",
+        "C": "Les sciences naturelles sont entièrement qualitatives, et ne nécessitent jamais de recours aux mathématiques pour comprendre les phénomènes.",
+        "D": "La collecte de données empiriques et l’expérimentation peuvent être prioritaires et nécessaires pour la découverte scientifique, avant même que des outils mathématiques sophistiqués ne soient appliqués pour formaliser les observations."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quel scientifique et philosophe est cité pour insister sur « l’importance de l’expérimentation pour la découverte scientifique avant toute tentative de modélisation » ?",
+      "réponses": {
+        "A": "Pierre-Simon Laplace, pour son déterminisme scientifique fondé sur les équations mathématiques de la mécanique céleste.",
+        "B": "John von Neumann, pour ses contributions à l’informatique théorique et aux fondements mathématiques de la mécanique quantique.",
+        "C": "Claude Bernard, père de la médecine expérimentale, qui a mis en lumière la nécessité de l’observation rigoureuse et de l’expérimentation préalable pour construire des théories scientifiques fiables.",
+        "D": "Georg Cantor, pour ses travaux sur les nombres transfinis, montrant la puissance de l’abstraction mathématique indépendamment de l’expérience."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La référence à Claude Bernard insistant sur l’importance de l’expérimentation « avant toute tentative de modélisation » souligne que :",
+      "réponses": {
+        "A": "La modélisation mathématique est inutile en science, car l’expérimentation fournit à elle seule toutes les réponses nécessaires.",
+        "B": "La science procède toujours de manière déductive, en formulant d’abord les modèles mathématiques puis en réalisant les expériences pour les confirmer.",
+        "C": "La connaissance empirique, obtenue par l’observation et l’expérimentation, est une étape fondamentale et parfois première pour la construction et la validation des théories scientifiques, même dans les disciplines où les mathématiques sont utilisées par la suite.",
+        "D": "La modélisation mathématique est une activité purement intellectuelle qui ne devrait jamais être contaminée par les données brutes de l’expérience."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L’explication d’un Argument met en évidence que, dans la biologie ou la médecine, « l’analyse mathématique ne vient qu’après des observations empiriques souvent complexes ». Cela signifie que :",
+      "réponses": {
+        "A": "Les sciences biologiques et médicales sont fondamentalement incapables d’utiliser les mathématiques, car leurs objets d’étude sont trop variables.",
+        "B": "L’observation empirique est un processus simple et direct qui mène immédiatement à la formulation de lois mathématiques sans effort d’analyse.",
+        "C": "L’analyse mathématique est une étape facultative et secondaire dans ces domaines, sans impact significatif sur la compréhension des phénomènes vivants.",
+        "D": "La complexité du réel biologique ou médical nécessite une phase préalable d’observation détaillée et de collecte de données, qui ensuite seulement peut être systématisée ou quantifiée par des outils mathématiques."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "En conclusion, « la science ne se réduit pas à la seule rationalité mathématique ». Cela signifie que :",
+      "réponses": {
+        "A": "La science est totalement irrationnelle et n’a aucun lien avec la logique ou la raison dans sa démarche de découverte.",
+        "B": "La rationalité mathématique est un idéal que toutes les sciences devraient atteindre, et celles qui ne le font pas ne sont pas de véritables sciences.",
+        "C": "La science englobe diverses formes de rationalité et de méthodologies, adaptées à la nature de leurs objets, et ne peut être uniformisée sous le seul critère mathématique.",
+        "D": "La rationalité mathématique est un obstacle au progrès scientifique, et devrait être abandonnée pour permettre le développement de nouvelles formes de connaissance."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "En conclusion, les mathématiques constituent « un idéal parmi d’autres, utile mais parfois insuffisant à embrasser la richesse et la diversité du réel ». Cela implique que :",
+      "réponses": {
+        "A": "Les mathématiques sont un idéal absolu et universel, applicable sans restriction à tous les domaines de la connaissance et de la réalité.",
+        "B": "Les mathématiques offrent un modèle de rigueur précieux, mais leur portée est limitée par la nature de certains objets d’étude ou par des dimensions du réel (comme le qualitatif) qu’elles ne peuvent pas totalement saisir.",
+        "C": "Le réel est entièrement réductible à des équations mathématiques, et toute tentative d’approches différentes est une erreur méthodologique.",
+        "D": "Les mathématiques sont devenues obsolètes dans la science moderne, supplantées par des méthodes plus efficaces et plus adaptées à la complexité du monde."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L’opposition entre « comprendre (Verstehen) » et « expliquer (Erklären) » par Dilthey met en évidence une distinction fondamentale entre :",
+      "réponses": {
+        "A": "La science abstraite et la science concrète, où l’une est basée sur des modèles et l’autre sur des faits tangibles.",
+        "B": "La compréhension des phénomènes psychologiques et la compréhension des phénomènes physiques, sans aucune possibilité de recoupement.",
+        "C": "La connaissance scientifique et la connaissance quotidienne, où la première est rigoureuse et la seconde est purement intuitive.",
+        "D": "Une approche herméneutique ou interprétative des phénomènes humains (cherchant leur sens et leurs motifs) et une approche causale-nomologique des phénomènes naturels (cherchant leurs lois)."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "L’affirmation que « Chaque domaine a ses méthodes, ses objets et ses exigences » dans la conclusion est une reconnaissance de :",
+      "réponses": {
+        "A": "L’échec de la science à unifier toutes les connaissances sous un même paradigme universel et cohérent.",
+        "B": "La supériorité des mathématiques sur toutes les autres disciplines, qui doivent s’adapter à ses exigences pour être valides.",
+        "C": "L’absence totale de critères de scientificité, chaque domaine étant libre de définir ses propres règles sans aucune cohérence avec les autres.",
+        "D": "La diversité épistémologique des sciences, où chaque champ d’étude développe des outils et des approches spécifiques qui sont les plus appropriés à la nature de ses objets et à ses questions de recherche."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Un Argument  affirme que les sciences humaines et sociales peuvent être entièrement réduites à des équations mathématiques en raison de leurs dimensions objectives et quantitatives.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Dilthey, en opposant comprendre et expliquer, soutient que les sciences de l’esprit ne nécessitent aucune interprétation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Selon un Argument, dans les sciences naturelles, la modélisation mathématique précède toujours l’observation et l’expérimentation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Claude Bernard insiste sur l’importance de l’expérimentation pour la découverte scientifique avant toute tentative de modélisation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La conclusion affirme que la rationalité mathématique est le seul et unique idéal absolu que toutes les sciences devraient suivre.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La « liberté » et les « motivations » humaines sont des exemples de dimensions qualitatives qui peuvent être pleinement exprimées par des équations mathématiques selon l’Axe 2.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L’explication d’un Argument souligne que l’analyse mathématique en biologie ou médecine vient toujours avant toute observation empirique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La conclusion suggère que les mathématiques sont suffisantes à elles seules pour embrasser la richesse et la diversité du réel, sans nécessiter d’autres approches.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

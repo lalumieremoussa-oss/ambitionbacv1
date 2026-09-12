@@ -1,0 +1,141 @@
+{
+    "title": "Quiz 4 - Partie B",
+    "id": "FR002_Q4_B",
+    "questions": {
+        "question n°1": {
+            "question": "Le verbe 'sembler' est un verbe :",
+            "réponses": {
+                "A": "D'action",
+                "B": "D'état",
+                "C": "De mouvement"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Quel champ lexical appartient aux mots 'sang', 'douleur' et 'blessure' ?",
+            "réponses": {
+                "A": "La souffrance",
+                "B": "La joie",
+                "C": "La guerre"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "Le présent de narration sert à :",
+            "réponses": {
+                "A": "Rendre la scène plus vivante",
+                "B": "Expliquer une loi scientifique",
+                "C": "Indiquer une action terminée"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "L'imparfait peut créer une atmosphère :",
+            "réponses": {
+                "A": "Dynamique et rapide",
+                "B": "Mélancolique ou lente",
+                "C": "Inexistante"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Quel pronom est utilisé pour l'interpellation directe du lecteur ?",
+            "réponses": {
+                "A": "Il / Elle",
+                "B": "Tu / Vous",
+                "C": "On"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "Les adjectifs 'hideux' et 'cruel' sont dits :",
+            "réponses": {
+                "A": "Appréciatifs",
+                "B": "Dépréciatifs",
+                "C": "Neutres"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "L'adverbe 'malheureusement' indique :",
+            "réponses": {
+                "A": "Le temps",
+                "B": "L'intensité",
+                "C": "Un jugement"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°8": {
+            "question": "Une phrase comme 'Il n’est pas innocent' souligne :",
+            "réponses": {
+                "A": "Une dénonciation ou un rejet",
+                "B": "Une hésitation",
+                "C": "Une admiration"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "Le verbe 'devenir' exprime :",
+            "réponses": {
+                "A": "Une action violente",
+                "B": "Une manière d'être (état)",
+                "C": "Un lieu précis"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°10": {
+            "question": "Le passé simple est le temps privilégié de :",
+            "réponses": {
+                "A": "La description",
+                "B": "La vérité générale",
+                "C": "La narration classique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°11": {
+            "question": "Quelle interjection exprime souvent la douleur ?",
+            "réponses": {
+                "A": "Oh !",
+                "B": "Hélas !",
+                "C": "Ah !"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Les pronoms 'Il' ou 'Elle' permettent :",
+            "réponses": {
+                "A": "De marquer une distance narrative",
+                "B": "D'impliquer directement l'auteur",
+                "C": "De poser une question"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°13": {
+            "question": "Les adverbes 'toujours' ou 'jamais' précisent :",
+            "réponses": {
+                "A": "L'intensité",
+                "B": "Le temps",
+                "C": "Le jugement"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "Quel est l'intérêt d'étudier les types de verbes ?",
+            "réponses": {
+                "A": "Savoir si le texte est immobile ou dynamique",
+                "B": "Connaître le nombre de personnages",
+                "C": "Identifier le genre du texte"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "L'adjectif 'doux' a une valeur :",
+            "réponses": {
+                "A": "Appréciative",
+                "B": "Dépréciative",
+                "C": "Grammaticale"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

@@ -1,0 +1,292 @@
+{
+  "title": "Quiz 1",
+  "id": "SVT004_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l'unité fonctionnelle du muscle ?",
+      "réponses": {
+        "A": "Le faisceau musculaire",
+        "B": "La fibre musculaire",
+        "C": "La myofibrille",
+        "D": "Le sarcomère"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est l'ordre correct des niveaux d'organisation du muscle, du plus grand au plus petit ?",
+      "réponses": {
+        "A": "Muscle → Sarcomère → Myofibrille → Fibre musculaire → Faisceau",
+        "B": "Muscle → Faisceau → Fibre musculaire → Myofibrille → Sarcomère",
+        "C": "Fibre musculaire → Muscle → Faisceau → Myofibrille → Sarcomère",
+        "D": "Sarcomère → Myofibrille → Fibre musculaire → Faisceau → Muscle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Vrai ou Faux : Chaque fibre musculaire est composée de plusieurs myofibrilles.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Comment se nomment les unités dans lesquelles chaque myofibrille est découpée ?",
+      "réponses": {
+        "A": "Des faisceaux",
+        "B": "Des fibres",
+        "C": "Des sarcomères",
+        "D": "Des protéines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Lors du passage d'un sarcomère au repos à un sarcomère en activité, que se passe-t-il avec la zone H ?",
+      "réponses": {
+        "A": "Elle s'allonge.",
+        "B": "Elle disparaît.",
+        "C": "Elle raccourcit.",
+        "D": "Sa longueur reste constante."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Concernant la longueur du sarcomère, que constate-t-on lors du passage à l'activité ?",
+      "réponses": {
+        "A": "Elle augmente.",
+        "B": "Elle diminue.",
+        "C": "Elle reste la même.",
+        "D": "Elle se multiplie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Lors de la contraction musculaire, la bande claire subit une :",
+      "réponses": {
+        "A": "Augmentation de sa longueur.",
+        "B": "Constante de sa longueur.",
+        "C": "Réduction de sa longueur.",
+        "D": "Disparition."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Vrai ou Faux : Lors de la contraction musculaire, la longueur de la bande sombre diminue.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : Pendant la contraction musculaire, la longueur de l'actine et de la myosine ne change pas.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Combien de phases la contraction musculaire comprend-elle ?",
+      "réponses": {
+        "A": "Deux",
+        "B": "Trois",
+        "C": "Quatre",
+        "D": "Cinq"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est l'ordre chronologique correct des phases de la contraction musculaire ?",
+      "réponses": {
+        "A": "Glissement, Attachement, Détachement",
+        "B": "Attachement, Détachement, Glissement",
+        "C": "Attachement, Glissement, Détachement",
+        "D": "Détachement, Attachement, Glissement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Au repos, quelle protéine masque le site de fixation de la myosine sur l'actine ?",
+      "réponses": {
+        "A": "La troponine",
+        "B": "La tropomyosine",
+        "C": "L'actine",
+        "D": "La myosine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Au repos, le site de fixation de la myosine sur l'actine est exposé.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est le premier événement déclencheur de la phase d'attachement mentionné ?",
+      "réponses": {
+        "A": "La fixation de l'ATP sur la tête de myosine.",
+        "B": "L'hydrolyse de l'ATP.",
+        "C": "La libération des ions calcium et leur fixation sur la troponine.",
+        "D": "La formation d'un pont actino-myosine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que provoque la déformation de la troponine ?",
+      "réponses": {
+        "A": "La fixation de l'ATP.",
+        "B": "Le raccourcissement du sarcomère.",
+        "C": "Le pivotement de la tête de myosine.",
+        "D": "Le refoulement de la tropomyosine et la libération du site d'attachement."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle molécule se fixe sur la tête de myosine pendant la phase d'attachement ?",
+      "réponses": {
+        "A": "Le calcium",
+        "B": "L'actine",
+        "C": "L'ATP",
+        "D": "La tropomyosine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel est le résultat final de la phase d'attachement ?",
+      "réponses": {
+        "A": "Le détachement de la myosine et de l'actine.",
+        "B": "La formation d'un pont actino-myosine.",
+        "C": "Le glissement de l'actine le long de la myosine.",
+        "D": "La réabsorption du calcium."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La libération des ions calcium et leur fixation sur la .....A..... entraîne la déformation de celle-ci et repousse la .....B..... ce qui libère le site d’attachement de la myosine sur l’actine.",
+      "réponses": {
+        "A": "A: myosine, B: actine",
+        "B": "A: tropomyosine, B: troponine",
+        "C": "A: troponine, B: tropomyosine",
+        "D": "A: actine, B: myosine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Qu'est-ce qui active la myosine pour qu'elle hydrolyse l'ATP ?",
+      "réponses": {
+        "A": "La troponine",
+        "B": "L'actine",
+        "C": "Le calcium",
+        "D": "L'ADP"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la source d'énergie directe qui permet le pivotement de la tête de myosine ?",
+      "réponses": {
+        "A": "L'hydrolyse de l'ATP",
+        "B": "La libération de calcium",
+        "C": "La fixation de l'actine",
+        "D": "La déformation de la tropomyosine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°21": {
+      "question": "Que se passe-t-il avec l'actine lors de la phase de glissement ?",
+      "réponses": {
+        "A": "Elle se détache de la myosine.",
+        "B": "Elle glisse le long de la myosine.",
+        "C": "Elle raccourcit.",
+        "D": "Elle se fixe sur la tropomyosine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Quelle est la conséquence du glissement de l'actine sur la zone H ?",
+      "réponses": {
+        "A": "Son allongement.",
+        "B": "Sa constante.",
+        "C": "Son raccourcissement.",
+        "D": "Sa disparition."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "L’actine active la myosine qui .....A..... l’ATP. L’énergie libérée permet le .....B..... de la tête de myosine et l’actine glisse le long de la .....C......",
+      "réponses": {
+        "A": "A: synthétise, B: allongement, C: troponine",
+        "B": "A: hydrolyse, B: pivotement, C: myosine",
+        "C": "A: produit, B: détachement, C: tropomyosine",
+        "D": "A: dégrade, B: raccourcissement, C: zone H"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Vrai ou Faux : Le raccourcissement de plusieurs sarcomères entraîne la contraction musculaire.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Quel est le premier événement mentionné dans la phase de détachement ?",
+      "réponses": {
+        "A": "La fixation d'une nouvelle molécule d'ATP.",
+        "B": "La séparation de la myosine et de l'actine.",
+        "C": "La réabsorption du calcium par le réticulum.",
+        "D": "Le pivotement de la tête de myosine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Quelle condition est essentielle pour la séparation de la myosine et de l'actine ?",
+      "réponses": {
+        "A": "L'hydrolyse de l'ATP.",
+        "B": "La fixation d'une nouvelle molécule d'ATP sur la tête de myosine.",
+        "C": "La libération du calcium.",
+        "D": "Le raccourcissement de la zone H."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Où le calcium est-il réabsorbé pendant la phase de détachement ?",
+      "réponses": {
+        "A": "Dans la fente synaptique.",
+        "B": "Par le réticulum.",
+        "C": "Dans la membrane postsynaptique.",
+        "D": "Par la troponine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Dans la phase de détachement, le calcium est .....A..... par le .....B..... et la fixation d'une nouvelle molécule d'.....C..... sur la tête de myosine provoque la .....D..... de la myosine et de l'actine.",
+      "réponses": {
+        "A": "A: libéré, B: sarcomère, C: ADP, D: liaison",
+        "B": "A: absorbé, B: myofibrille, C: glucose, D: contraction",
+        "C": "A: réabsorbé, B: réticulum, C: ATP, D: séparation",
+        "D": "A: inactivé, B: cytosol, C: phosphate, D: formation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Vrai ou Faux : La phase de détachement se déroule sans aucune consommation d'ATP.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Vrai ou Faux : La myosine et l'actine peuvent  séparer même sans la fixation d'une nouvelle molécule d'ATP.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

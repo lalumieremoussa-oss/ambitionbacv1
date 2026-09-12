@@ -1,0 +1,791 @@
+{
+  "title": "Quiz de Traduction Allemand",
+  "id": "DE03_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Mein Name ist Ali.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je m'appelle Ali.",
+        "B": "Mon ami est Ali.",
+        "C": "Son nom est Ali.",
+        "D": "Mon nom est Ali."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Je suis un élève.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin Schüler.",
+        "B": "Ich bin ein Schüler.",
+        "C": "Ich habe einen Schüler.",
+        "D": "Er ist ein Schüler."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Ich wohne bei meinen Eltern.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je travaille avec mes parents.",
+        "B": "Mes parents vivent.",
+        "C": "Je vis avec mes parents.",
+        "D": "Je reste avec mes parents."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Chaque matin, je me lève tôt.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Jeden Morgen schlafe ich früh.",
+        "B": "Jeden Tag stehe ich früh auf.",
+        "C": "Morgen gehe ich früh auf.",
+        "D": "Jeden Morgen stehe ich früh auf."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"Ich wasche mein Gesicht.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je lave ma tête.",
+        "B": "Je lave mon corps.",
+        "C": "Je me brosse le visage.",
+        "D": "Je me lave le visage."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Je bois de l'eau.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich trinke Wasser.",
+        "B": "Ich esse Wasser.",
+        "C": "Ich habe Wasser.",
+        "D": "Er trinkt Wasser."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Ich esse Frühstück.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je mange le déjeuner.",
+        "B": "Je mange le dîner.",
+        "C": "Je mange des œufs.",
+        "D": "Je mange le petit-déjeuner."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Je vais à l’école en bus.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich gehe zur Schule mit Bus.",
+        "B": "Ich gehe zur Schule für Bus.",
+        "C": "Ich gehe zum Busschule.",
+        "D": "Ich fahre mit dem Bus zur Schule."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Ma sœur va aussi à l'école.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Meine Schwester geht zur Schule für mich.",
+        "B": "Meine Schwester geht auch zur Schule.",
+        "C": "Meine Schwester geht gerade zur Schule.",
+        "D": "Meine Schwester gehen auch zur Schule."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"Sie geht mit ihren Freunden.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Elle est avec ses amis.",
+        "B": "Elle va chercher ses amis.",
+        "C": "Elle va avec ses amis.",
+        "D": "Elle va chez ses amis."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"À l’école, nous étudions l’allemand.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "In der Schule lernen wir Deutsch.",
+        "B": "In der Schule lernen wir Deutsch.",
+        "C": "Schule, wir lernen Deutsch.",
+        "D": "Wir lernen Deutsch zu Hause."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Wir schreiben in unsere Hefte.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nous lisons dans nos cahiers.",
+        "B": "Nous écrivons nos leçons.",
+        "C": "Nous avons nos cahiers.",
+        "D": "Nous écrivons dans nos cahiers."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous lisons des textes simples.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir schreiben einfache Texte.",
+        "B": "Wir lesen einfache Texte.",
+        "C": "Wir lesen schwere Texte.",
+        "D": "Sie lesen einfache Texte."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Wir machen Übungen.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nous faisons du sport.",
+        "B": "Nous allons aux exercices.",
+        "C": "Ils font des exercices.",
+        "D": "Nous faisons des exercices."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Notre professeur nous aide.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Unser Lehrer hilft ihnen.",
+        "B": "Mein Lehrer hilft uns.",
+        "C": "Unser Lehrer hilft uns.",
+        "D": "Der Lehrer hilft uns."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"À la récréation, nous parlons.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "In der Pause singen wir.",
+        "B": "In der Pause sprechen wir.",
+        "C": "Beim Sprechen machen wir Pause.",
+        "D": "In der Spielzeit sprechen wir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Wir singen manchmal Lieder.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nous écoutons des chansons parfois.",
+        "B": "Nous chantons des chansons parfois.",
+        "C": "Nous chantons souvent des chansons.",
+        "D": "Ils chantent des chansons parfois."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Dans l'après-midi, je rentre à la maison.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Am Abend gehe ich nach Hause.",
+        "B": "Am Nachmittag gehe ich nach Hause.",
+        "C": "Am Morgen gehe ich nach Hause.",
+        "D": "Ich gehe am Nachmittag nach Hause."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Zu Hause mache ich meine Hausaufgaben.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Au travail, je fais mes devoirs.",
+        "B": "À la maison, je fais mes devoirs.",
+        "C": "À l'école, je fais mes devoirs.",
+        "D": "Je fais mes devoirs à la maison."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"J'écris mes leçons.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich lese meine Lektionen.",
+        "B": "Er schreibt meine Lektionen.",
+        "C": "Ich schreibe meine Lektionen.",
+        "D": "Ich mache meine Lektionen."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Meine Mutter kocht das Essen.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ma mère va à la cuisine.",
+        "B": "Ma mère mange.",
+        "C": "Ma mère fait la cuisine.",
+        "D": "Mon père fait la cuisine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Mon père va au travail.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Vater macht die Arbeit.",
+        "B": "Mein Vater geht zur Arbeit.",
+        "C": "Mein Vater geht nach Hause.",
+        "D": "Mein Vater arbeitet."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Am Abend essen wir zusammen.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Le matin, nous mangeons ensemble.",
+        "B": "Nous mangeons ensemble.",
+        "C": "Le soir, nous mangeons.",
+        "D": "Le soir, nous mangeons ensemble."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Nous buvons de l'eau ou du jus.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir trinken Wasser und Saft.",
+        "B": "Wir trinken Wasser.",
+        "C": "Wir trinken Wasser oder Saft.",
+        "D": "Sie trinken Wasser oder Saft."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Mein kleiner Bruder singt.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mon petit frère chante.",
+        "B": "Ma petite sœur chante.",
+        "C": "Mon petit frère écoute.",
+        "D": "Il chante très bien."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"Il chante très bien.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er singt gerade sehr gut.",
+        "B": "Er singt sehr gut.",
+        "C": "Er tut sehr gut singen.",
+        "D": "Er singt gut."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"Meine Schwester schreibt einen Brief.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ma sœur lit une lettre.",
+        "B": "Ma sœur reçoit une lettre.",
+        "C": "Ma sœur écrit une lettre.",
+        "D": "Ma sœur écrit à son ami."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"Elle écrit à son amie.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie schreibt ihrer Schwester.",
+        "B": "Sie schreibt ihre Freundin.",
+        "C": "Sie schreibt ihrer Freundin.",
+        "D": "Er schreibt seinem Freund."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"Samstags gehen wir zum Markt.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Les dimanches, nous allons au marché.",
+        "B": "Nous allons au marché.",
+        "C": "Les samedis, nous allons au marché.",
+        "D": "Nous allons au magasin le samedi."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"Ma mère fait les courses.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Meine Mutter kocht das Essen.",
+        "B": "Meine Mutter geht zum Laden.",
+        "C": "Meine Mutter macht Einkaufen.",
+        "D": "Meine Mutter geht einkaufen."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Ich helfe meiner Mutter.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mutter",
+        "Vater",
+        "meinem",
+        "trinkt",
+        "meiner",
+        "Ich helfe"
+      ],
+      "bonne réponse": "Ich helfe meiner Mutter"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"Nous portons les sacs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gehen",
+        "Taschen",
+        "tragen",
+        "trägt",
+        "machen",
+        "Wir",
+        "die",
+        "Säcke"
+      ],
+      "bonne réponse": "Wir tragen die Taschen"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"Sonntags bleiben wir zu Hause.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sein",
+        "zu",
+        "wir",
+        "Samstag",
+        "Sonntags",
+        "bleiben",
+        "das",
+        "gehen",
+        "früh",
+        "Hause",
+        "Die",
+        "Eltern"
+      ],
+      "bonne réponse": "Sonntags bleiben wir zu Hause"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"Nous nous reposons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ruhend",
+        "schlafen",
+        "uns aus",
+        "sind",
+        "Wir",
+        "ruhen"
+      ],
+      "bonne réponse": "Wir ruhen uns aus"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"Wir lesen Bücher.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "essen",
+        "Bücher",
+        "lesen",
+        "einige",
+        "Hefte",
+        "einfach",
+        "Wir"
+      ],
+      "bonne réponse": "Wir lesen Bücher"
+    },
+    "question n°36": {
+      "question": "Traduisez : \"Nous regardons la télévision.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "das",
+        "fern",
+        "sehen",
+        "machen",
+        "Wir",
+        "sieht"
+      ],
+      "bonne réponse": "Wir sehen fern"
+    },
+    "question n°37": {
+      "question": "Traduisez : \"Am Abend wiederhole ich.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Morgen",
+        "wir",
+        "wiederholst",
+        "Abend",
+        "wiederhole",
+        "ich",
+        "Am",
+        "er"
+      ],
+      "bonne réponse": "Am Abend wiederhole ich"
+    },
+    "question n°38": {
+      "question": "Traduisez : \"Je fais mes exercices d'allemand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hause",
+        "mache",
+        "Deutsch",
+        "ein",
+        "Ich",
+        "macht",
+        "meine",
+        "gehen",
+        "seine",
+        "Übungen"
+      ],
+      "bonne réponse": "Ich mache meine Deutschübungen"
+    },
+    "question n°39": {
+      "question": "Traduisez : \"Ich schreibe neue Wörter.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "von",
+        "spreche",
+        "alte",
+        "lese",
+        "neue",
+        "Satz",
+        "Wörter",
+        "Ich schreibe"
+      ],
+      "bonne réponse": "Ich schreibe neue Wörter"
+    },
+    "question n°40": {
+      "question": "Traduisez : \"Je les lis à voix haute.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sie",
+        "laut",
+        "mache",
+        "höre",
+        "Ich",
+        "zu",
+        "lese",
+        "gehe"
+      ],
+      "bonne réponse": "Ich lese sie laut"
+    },
+    "question n°41": {
+      "question": "Traduisez : \"Mon professeur dit que la pratique est bonne.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "dass",
+        "gut",
+        "schlecht",
+        "Freund",
+        "Lehrer",
+        "studiert",
+        "die",
+        "Mein",
+        "Übung",
+        "sagt",
+        "Schwester"
+      ],
+      "bonne réponse": "Mein Lehrer sagt dass die Übung gut ist"
+    },
+    "question n°42": {
+      "question": "Traduisez : \"J'écoute mon professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Lehrer",
+        "bin",
+        "höre",
+        "Mutter",
+        "spreche",
+        "meinem",
+        "ihm",
+        "zu",
+        "Ich"
+      ],
+      "bonne réponse": "Ich höre meinem Lehrer zu"
+    },
+    "question n°43": {
+      "question": "Traduisez : \"I learn every day.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Tag",
+        "Woche",
+        "jeden",
+        "Ich lerne",
+        "schlafen",
+        "spreche"
+      ],
+      "bonne réponse": "Ich lerne jeden Tag"
+    },
+    "question n°44": {
+      "question": "Traduisez : \"L'allemand est intéressant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "interessant",
+        "Französisch",
+        "Deutsch",
+        "sind",
+        "ist",
+        "gut"
+      ],
+      "bonne réponse": "Deutsch ist interessant"
+    },
+    "question n°45": {
+      "question": "Traduisez : \"J'aime l'allemand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Französisch",
+        "Ich mag",
+        "hilft",
+        "Deutsch",
+        "sprechen",
+        "isst"
+      ],
+      "bonne réponse": "Ich mag Deutsch"
+    },
+    "question n°46": {
+      "question": "Traduisez : \"Je parle un allemand simple.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "spreche",
+        "schreibt",
+        "mache",
+        "einfaches",
+        "Ich",
+        "ein",
+        "Deutsch",
+        "höre"
+      ],
+      "bonne réponse": "Ich spreche ein einfaches Deutsch"
+    },
+    "question n°47": {
+      "question": "Traduisez : \"I go to school happily.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "schreibe",
+        "gerne",
+        "Schule",
+        "gehe",
+        "traurig",
+        "Arbeit",
+        "zur",
+        "Hause",
+        "spreche",
+        "Ich"
+      ],
+      "bonne réponse": "Ich gehe gerne zur Schule"
+    },
+    "question n°48": {
+      "question": "Traduisez : \"Mes amis m'aident.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mir",
+        "Meine",
+        "Bruder",
+        "helfen",
+        "Lehrer",
+        "hilft",
+        "Freunde"
+      ],
+      "bonne réponse": "Meine Freunde helfen mir"
+    },
+    "question n°49": {
+      "question": "Traduisez : \"We study together.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "essen",
+        "lernen",
+        "arbeiten",
+        "zusammen",
+        "schlafen",
+        "Wir"
+      ],
+      "bonne réponse": "Wir lernen zusammen"
+    },
+    "question n°50": {
+      "question": "Traduisez : \"Nous chantons ensemble.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Lieder",
+        "spielen",
+        "singen",
+        "machen",
+        "zusammen",
+        "Wir"
+      ],
+      "bonne réponse": "Wir singen zusammen"
+    },
+    "question n°51": {
+      "question": "Traduisez : \"I write my lessons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Lektionen",
+        "lese",
+        "meine",
+        "höre",
+        "Bücher",
+        "Ich schreibe"
+      ],
+      "bonne réponse": "Ich schreibe meine Lektionen"
+    },
+    "question n°52": {
+      "question": "Traduisez : \"Nous faisons notre travail.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "machen",
+        "die",
+        "Hausaufgaben",
+        "unsere",
+        "Arbeit",
+        "gehen",
+        "sind",
+        "Wir"
+      ],
+      "bonne réponse": "Wir machen unsere Arbeit"
+    },
+    "question n°53": {
+      "question": "Traduisez : \"We drink water.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Tee",
+        "er",
+        "Wasser",
+        "Saft",
+        "trinken",
+        "das",
+        "essen",
+        "Wir"
+      ],
+      "bonne réponse": "Wir trinken Wasser"
+    },
+    "question n°54": {
+      "question": "Traduisez : \"Nous rentrons à la maison en toute sécurité.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sicher",
+        "laufen",
+        "Hause",
+        "das",
+        "gehen",
+        "sind",
+        "Schule",
+        "nach",
+        "Wir"
+      ],
+      "bonne réponse": "Wir gehen sicher nach Hause"
+    },
+    "question n°55": {
+      "question": "Traduisez : \"At night, I rest.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "esse",
+        "Nacht",
+        "schlafe",
+        "sein",
+        "mich",
+        "aus",
+        "er",
+        "Tag",
+        "ich",
+        "ruhe",
+        "In",
+        "der"
+      ],
+      "bonne réponse": "In der Nacht ruhe ich mich aus"
+    },
+    "question n°56": {
+      "question": "Traduisez : \"Je pense à ma journée.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "an",
+        "denke",
+        "Tag",
+        "seinen",
+        "mache",
+        "Nacht",
+        "den",
+        "meinen",
+        "schlafe",
+        "Ich"
+      ],
+      "bonne réponse": "Ich denke an meinen Tag"
+    },
+    "question n°57": {
+      "question": "Traduisez : \"I prepare my bag.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "die",
+        "meinen",
+        "meine",
+        "Tasche",
+        "trage",
+        "Schwester",
+        "bereite",
+        "vor",
+        "Ich"
+      ],
+      "bonne réponse": "Ich bereite meine Tasche vor"
+    },
+    "question n°58": {
+      "question": "Traduisez : \"Je dors tôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mache",
+        "schlafe",
+        "wache",
+        "um",
+        "früh",
+        "Ich"
+      ],
+      "bonne réponse": "Ich schlafe früh"
+    },
+    "question n°59": {
+      "question": "Traduisez : \"Tomorrow, I go to school again.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Nacht",
+        "zur",
+        "wieder",
+        "mein",
+        "gehe",
+        "Schule",
+        "ich",
+        "mache",
+        "lesen",
+        "heute",
+        "Morgen",
+        "Arbeit"
+      ],
+      "bonne réponse": "Morgen gehe ich wieder zur Schule"
+    },
+    "question n°60": {
+      "question": "Traduisez : \"Je veux apprendre plus d'allemand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zu",
+        "Deutsch",
+        "lernen",
+        "ein",
+        "studieren",
+        "Ich",
+        "mehr",
+        "machen",
+        "das",
+        "will"
+      ],
+      "bonne réponse": "Ich will mehr Deutsch lernen"
+    }
+  }
+}

@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Intégration des fonctions polynômes",
+                    "content": "L'intégration des polynômes repose sur la linéarité et la formule fondamentale :\n$\\int x^n dx = \\frac{x^{n+1}}{n+1} + C$.\nPour une somme : $\\int (af(x) + bg(x)) dx = a\\int f(x) dx + b\\int g(x) dx$.\nChaque calcul doit détailler la primitive avant l'application des bornes.",
+                    "example": "Calculons $A = \\int_{1}^{2} (3x^2 - 4x + 5) dx$ :\n\nDéterminons la primitive :\n$F(x) = 3(\\frac{x^3}{3}) - 4(\\frac{x^2}{2}) + 5x$\n$F(x) = x^3 - 2x^2 + 5x$\n\nCalcul des valeurs :\n$F(2) = 2^3 - 2(2^2) + 5(2) = 8 - 8 + 10 = 10$\n$F(1) = 1^3 - 2(1^2) + 5(1) = 1 - 2 + 5 = 4$\n\nRésultat :\n$A = F(2) - F(1) = 10 - 4 = 6$.",
+                    "extras": [
+                        "Exemple 1 : $\\int_{0}^{1} x^4 dx = [\\frac{x^5}{5}]_{0}^{1} = \\frac{1}{5} - 0 = 0,2$.",
+                        "Exemple 2 : $\\int_{1}^{3} (2x + 1) dx = [x^2 + x]_{1}^{3} = (9+3) - (1+1) = 12 - 2 = 10$.",
+                        "Exemple 3 : $\\int_{-1}^{1} x^3 dx = [\\frac{x^4}{4}]_{-1}^{1} = \\frac{1}{4} - \\frac{1}{4} = 0$.",
+                        "Exemple 4 : $\\int_{0}^{2} (x^2 - x) dx = [\\frac{x^3}{3} - \\frac{x^2}{2}]_{0}^{2} = (\\frac{8}{3} - 2) - 0 = \\frac{2}{3}$.",
+                        "Exemple 5 : $\\int_{1}^{2} 5 dx = [5x]_{1}^{2} = 10 - 5 = 5$.",
+                        "Exemple 6 : $\\int_{0}^{1} (4x^3 - 6x^2) dx = [x^4 - 2x^3]_{0}^{1} = (1 - 2) - 0 = -1$.",
+                        "Exemple 7 : $\\int_{1}^{4} \\sqrt{x} dx$ (vu comme $x^{1/2}$) $= [\\frac{2}{3}x^{3/2}]_{1}^{4} = \\frac{2}{3}(8) - \\frac{2}{3}(1) = \\frac{14}{3}$.",
+                        "Exemple 8 : $\\int_{0}^{1} (x+1)^2 dx = [\\frac{(x+1)^3}{3}]_{0}^{1} = \\frac{8}{3} - \\frac{1}{3} = \\frac{7}{3}$.",
+                        "Exemple 9 : $\\int_{2}^{3} (3x^2 - 1) dx = [x^3 - x]_{2}^{3} = (27-3) - (8-2) = 24 - 6 = 18$.",
+                        "Exemple 10 : $\\int_{-2}^{-1} x^2 dx = [\\frac{x^3}{3}]_{-2}^{-1} = -\\frac{1}{3} - (-\\frac{8}{3}) = \\frac{7}{3}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Intégration des fonctions rationnelles",
+                    "content": "On utilise ici principalement les formes :\n$\\int \\frac{1}{x} dx = \\ln|x|$\n$\\int \\frac{u'(x)}{u(x)} dx = \\ln|u(x)|$\n$\\int \\frac{1}{x^n} dx = \\int x^{-n} dx = \\frac{x^{-n+1}}{-n+1}$.\nIl est souvent nécessaire de décomposer ou d'ajuster les coefficients.",
+                    "example": "Calculons $B = \\int_{2}^{4} \\frac{3}{x-1} dx$ :\n\nReconnaissance de forme :\n$f(x) = 3 \\times \\frac{1}{x-1}$, qui est de la forme $3 \\times \\frac{u'}{u}$ avec $u(x) = x-1$.\n\nPrimitive :\n$F(x) = 3\\ln|x-1|$\n\nCalcul :\n$F(4) = 3\\ln(3)$\n$F(2) = 3\\ln(1) = 0$\n\nRésultat :\n$B = 3\\ln 3$.",
+                    "extras": [
+                        "Exemple 1 : $\\int_{1}^{2} \\frac{1}{x} dx = [\\ln x]_{1}^{2} = \\ln 2$.",
+                        "Exemple 2 : $\\int_{0}^{1} \\frac{1}{x+2} dx = [\\ln(x+2)]_{0}^{1} = \\ln 3 - \\ln 2 = \\ln(1,5)$.",
+                        "Exemple 3 : $\\int_{1}^{2} \\frac{1}{x^2} dx = [-\\frac{1}{x}]_{1}^{2} = -0,5 - (-1) = 0,5$.",
+                        "Exemple 4 : $\\int_{2}^{3} \\frac{2x}{x^2-1} dx = [\\ln(x^2-1)]_{2}^{3} = \\ln 8 - \\ln 3$.",
+                        "Exemple 5 : $\\int_{1}^{2} (x + \\frac{1}{x}) dx = [\\frac{x^2}{2} + \\ln x]_{1}^{2} = (2 + \\ln 2) - (0,5 + 0) = 1,5 + \\ln 2$.",
+                        "Exemple 6 : $\\int_{3}^{5} \\frac{dx}{x-2} = [\\ln(x-2)]_{3}^{5} = \\ln 3 - \\ln 1 = \\ln 3$.",
+                        "Exemple 7 : $\\int_{0}^{1} \\frac{2}{2x+1} dx = [\\ln(2x+1)]_{0}^{1} = \\ln 3 - \\ln 1 = \\ln 3$.",
+                        "Exemple 8 : $\\int_{1}^{2} \\frac{-1}{x^3} dx = [\\frac{1}{2x^2}]_{1}^{2} = \\frac{1}{8} - \\frac{1}{2} = -\\frac{3}{8}$.",
+                        "Exemple 9 : $\\int_{4}^{5} \\frac{x+1}{x} dx = \\int (1 + \\frac{1}{x}) dx = [x + \\ln x]_{4}^{5} = (5+\\ln 5) - (4+\\ln 4) = 1 + \\ln(1,25)$.",
+                        "Exemple 10 : $\\int_{0}^{1} \\frac{x}{x^2+1} dx = \\frac{1}{2} [\\ln(x^2+1)]_{0}^{1} = \\frac{1}{2} \\ln 2$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Intégration des fonctions irrationnelles",
+                    "content": "Les fonctions irrationnelles comportent des racines carrées.\nLa formule clé est : $\\int \\frac{u'(x)}{2\\sqrt{u(x)}} dx = \\sqrt{u(x)}$.\nOn peut aussi transformer la racine en puissance : $\\sqrt{x} = x^{1/2}$ et $\\frac{1}{\\sqrt{x}} = x^{-1/2}$.",
+                    "example": "Calculons $C = \\int_{1}^{5} \\frac{1}{2\\sqrt{x+4}} dx$ :\n\nReconnaissance :\nC'est la forme $\\frac{u'}{2\\sqrt{u}}$ avec $u(x) = x+4$ et $u'(x) = 1$.\n\nPrimitive :\n$F(x) = \\sqrt{x+4}$\n\nCalcul :\n$F(5) = \\sqrt{5+4} = \\sqrt{9} = 3$\n$F(1) = \\sqrt{1+4} = \\sqrt{5}$\n\nRésultat :\n$C = 3 - \\sqrt{5}$.",
+                    "extras": [
+                        "Exemple 1 : $\\int_{1}^{9} \\frac{1}{\\sqrt{x}} dx = [2\\sqrt{x}]_{1}^{9} = 2(3) - 2(1) = 4$.",
+                        "Exemple 2 : $\\int_{0}^{4} \\sqrt{x} dx = [\\frac{2}{3}x\\sqrt{x}]_{0}^{4} = \\frac{2}{3}(8) - 0 = \\frac{16}{3}$.",
+                        "Exemple 3 : $\\int_{0}^{1} \\frac{x}{\\sqrt{x^2+1}} dx = [\\sqrt{x^2+1}]_{0}^{1} = \\sqrt{2} - 1$.",
+                        "Exemple 4 : $\\int_{1}^{2} \\frac{1}{\\sqrt{x+1}} dx = [2\\sqrt{x+1}]_{1}^{2} = 2\\sqrt{3} - 2\\sqrt{2}$.",
+                        "Exemple 5 : $\\int_{-1}^{0} \\sqrt{x+1} dx = [\\frac{2}{3}(x+1)\\sqrt{x+1}]_{-1}^{0} = \\frac{2}{3} - 0 = \\frac{2}{3}$.",
+                        "Exemple 6 : $\\int_{4}^{9} (\\sqrt{x} + 1) dx = [\\frac{2}{3}x\\sqrt{x} + x]_{4}^{9} = (18+9) - (\\frac{16}{3}+4) = 27 - \\frac{28}{3} = \\frac{53}{3}$.",
+                        "Exemple 7 : $\\int_{0}^{3} \\frac{1}{2\\sqrt{x+1}} dx = [\\sqrt{x+1}]_{0}^{3} = \\sqrt{4} - \\sqrt{1} = 1$.",
+                        "Exemple 8 : $\\int_{1}^{4} \\frac{\\sqrt{x}}{x} dx = \\int \\frac{1}{\\sqrt{x}} dx = [2\\sqrt{x}]_{1}^{4} = 4 - 2 = 2$.",
+                        "Exemple 9 : $\\int_{0}^{2} x\\sqrt{x^2+1} dx$ (forme $\\frac{1}{2}u'\\sqrt{u}$) $= [\\frac{1}{3}(x^2+1)\\sqrt{x^2+1}]_{0}^{2} = \\frac{1}{3}(5\\sqrt{5}) - \\frac{1}{3}(1) = \\frac{5\\sqrt{5}-1}{3}$.",
+                        "Exemple 10 : $\\int_{1}^{2} \\frac{3}{\\sqrt{x}} dx = [6\\sqrt{x}]_{1}^{2} = 6\\sqrt{2} - 6$."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

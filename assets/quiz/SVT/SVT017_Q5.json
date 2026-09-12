@@ -1,0 +1,422 @@
+{
+  "id": "SVT017_Q5",
+  "title": "Quiz 3: perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "La protection des sols est assurée par la mise en œuvre de plusieurs :",
+      "réponses": {
+        "A": "Techniques",
+        "B": "Produits chimiques",
+        "C": "Animaux",
+        "D": "Machines"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Le paillage consiste à mettre en place une couverture de :",
+      "réponses": {
+        "A": "Plastique",
+        "B": "Matière végétale morte (paille)",
+        "C": "Pierre",
+        "D": "Sable"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "L’objectif du paillage est d’enrichir le sol et de le protéger contre :",
+      "réponses": {
+        "A": "Les maladies des plantes",
+        "B": "La battance des pluies, l’érosion et l’insolation",
+        "C": "Les insectes nuisibles",
+        "D": "La sécheresse prolongée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La jachère est une technique qui consiste à laisser le sol au repos pendant un certain temps afin de lui permettre de :",
+      "réponses": {
+        "A": "Diminuer sa fertilité",
+        "B": "Reconstituer naturellement sa fertilité",
+        "C": "Devenir plus compact",
+        "D": "Perdre ses minéraux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "L’assolement ou rotation est une alternance de cultures n’ayant pas :",
+      "réponses": {
+        "A": "Le même rendement",
+        "B": "Les mêmes besoins en éléments minéraux",
+        "C": "La même couleur",
+        "D": "La même période de croissance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Le but de l’assolement ou rotation est d’assurer la conservation de la fertilité du sol en retardant :",
+      "réponses": {
+        "A": "L’enrichissement du sol",
+        "B": "La prolifération des mauvaises herbes",
+        "C": "La croissance des plantes",
+        "D": "L’épuisement en éléments minéraux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Le terrassement consiste à faire des cultures en :",
+      "réponses": {
+        "A": "Rond",
+        "B": "Spirale",
+        "C": "en forme d’escaliers",
+        "D": "Ligne droite"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Le terrassement permet de lutter contre :",
+      "réponses": {
+        "A": "Le vent",
+        "B": "L’écoulement rapide des eaux",
+        "C": "Les inondations",
+        "D": "La pollution"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Les plantes de couverture ou engazonnements consistent à :",
+      "réponses": {
+        "A": "Laisser le sol nu",
+        "B": "Recouvrir le sol par la mise en place d’une plante de couverture",
+        "C": "Planter des arbres uniquement",
+        "D": "Utiliser des bâches en plastique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Les plantes de couverture ont pour rôle de protéger contre l’érosion et de reconstituer :",
+      "réponses": {
+        "A": "Le niveau de l’eau",
+        "B": "La couche d’ozone",
+        "C": "La faune et la flore du sol",
+        "D": "Les vents dominants"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "La protection des sols n’est pas nécessaire si on utilise des engrais.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le paillage aide à protéger le sol de l’insolation.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "La jachère a pour but de rendre le sol stérile.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "L’assolement aide à l’épuisement rapide du sol en éléments minéraux.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« On peut effectivement __________ la fertilité d’un sol par des techniques de __________ telles que le paillage qui __________ contre la battance des pluies, l’érosion et l’insolation. »",
+      "réponses": {
+        "A": "améliorer / protection / lutte",
+        "B": "détériorer / destruction / protège",
+        "C": "maintenir / conservation / prévient",
+        "D": "ignorer / négligence / favorise"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle technique culturale consiste à mettre en place une couverture de matière végétale morte sur le sol ?",
+      "réponses": {
+        "A": "Assolement",
+        "B": "Jachère",
+        "C": "Paillage",
+        "D": "Terrassement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "La technique de la jachère a pour objectif de :",
+      "réponses": {
+        "A": "Réaliser des bandes planes de culture.",
+        "B": "Alterner des cultures n’ayant pas les mêmes besoins.",
+        "C": "Mettre en place une couverture de matière végétale.",
+        "D": "Mettre au repos un sol après la récolte en vue de la reconstitution de sa fertilité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Le terrassement implique :",
+      "réponses": {
+        "A": "La réalisation de bandes planes de culture établies en travers d’une pente.",
+        "B": "La mise au repos du sol.",
+        "C": "La mise en place d’une couverture végétale morte.",
+        "D": "L’alternance de cultures différentes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L’assolement est une technique qui se caractérise par :",
+      "réponses": {
+        "A": "Le repos du sol.",
+        "B": "La création de terrasses.",
+        "C": "L’alternance de cultures n’ayant pas les mêmes besoins en éléments minéraux sur un même sol.",
+        "D": "La mise en place de paillis."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Les engrais organiques sont minéralisés avant d’être assimilés.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°21": {
+      "question": "L’amendement calcaire élève le pH des sols acides.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "L’amendement humifère sert de support et d’aliments aux microorganismes du sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "Les engrais organiques réduisent uniquement de l’humus au sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX (Le texte ne mentionne pas cela et il est implicite qu’ils l’enrichissent)."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Le paillage des surfaces lutte uniquement contre l’érosion.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX (Le texte mentionne aussi la battance des pluies et l’insolation)."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "« Les engrais chimiques se présentent sous forme de __________ que l’on répand sur le sol. Ils se __________ dans la solution du sol dans laquelle ils libèrent des __________ directement assimilables par les plantes. »",
+      "réponses": {
+        "A": "sels / dissolvent / éléments minéraux",
+        "B": "gaz / évaporent / substances organiques",
+        "C": "liquides / solidifient / déchets",
+        "D": "solides / flottent / nutriments"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "« Les engrais organiques sont des __________ organiques ou ils sont __________ en éléments minéraux __________ par les plantes. »",
+      "réponses": {
+        "A": "substances / transformés / utilisables",
+        "B": "composés / rejetés / nocifs",
+        "C": "minéraux / créés / non-assimilables",
+        "D": "liquides / conservés / inefficaces"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "« L’effet des engrais chimiques est __________ mais il ne dure que le temps d’__________. »",
+      "réponses": {
+        "A": "important / une récolte",
+        "B": "insignifiant / un mois",
+        "C": "permanent / plusieurs années",
+        "D": "toxique / un jour"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "Le processus par lequel les vers de terre décomposent la matière organique pour libérer des sels minéraux est spécifiquement appelé :",
+      "réponses": {
+        "A": "Photosynthèse",
+        "B": "Nitrification",
+        "C": "Humification",
+        "D": "Minéralisation"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Parmi les exemples de débris animaux et végétaux constituant un type d’engrais organique, on retrouve :",
+      "réponses": {
+        "A": "Le sable",
+        "B": "L’argile",
+        "C": "Le fumier",
+        "D": "Le calcaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "En conclusion, la fertilité d’un sol peut être améliorée par l’apport d’engrais chimiques et également par :",
+      "réponses": {
+        "A": "La diminution des apports organiques",
+        "B": "L’apport d’engrais organiques",
+        "C": "L’augmentation de l’érosion",
+        "D": "La suppression des vers de terre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°31": {
+      "question": "Un engrais vert est défini comme :",
+      "réponses": {
+        "A": "Un engrais chimique de couleur verte.",
+        "B": "Une plante qui pousse lentement.",
+        "C": "Une culture de végétation rapide à incorporer au sol.",
+        "D": "Un engrais uniquement animal."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°32": {
+      "question": "Quel est l’objectif principal de l’incorporation des engrais verts au sol ?",
+      "réponses": {
+        "A": "Diminuer le rendement agricole.",
+        "B": "Améliorer la fertilité du sol.",
+        "C": "Réduire la teneur en eau du sol.",
+        "D": "Augmenter l’érosion du sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°33": {
+      "question": "Les engrais verts favorisent :",
+      "réponses": {
+        "A": "La compaction du sol",
+        "B": "La nutrition minérale",
+        "C": "L’acidification du sol",
+        "D": "La propagation des maladies"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°34": {
+      "question": "En plus de favoriser la nutrition minérale, les engrais verts ont d’autres fonctions bénéfiques, lesquelles ?",
+      "réponses": {
+        "A": "Ils augmentent la toxicité du sol.",
+        "B": "Ils dégradent la structure du sol.",
+        "C": "Ils protègent et améliorent la structure du sol.",
+        "D": "Ils réduisent l’activité microbienne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°35": {
+      "question": "L’augmentation du rendement est attribuée à l’enrichissement de la réserve minérale du sol par :",
+      "réponses": {
+        "A": "Les engrais chimiques",
+        "B": "Le sable",
+        "C": "La lumière du soleil",
+        "D": "L’eau"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°36": {
+      "question": "Les éléments minéraux apportés sont directement :",
+      "réponses": {
+        "A": "Inutilisables par les plantes",
+        "B": "Toxiques pour les plantes à toutes doses",
+        "C": "Assimilables par les plantes",
+        "D": "Absorbés par l’air"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°37": {
+      "question": "Parmi les éléments nutritifs, on trouve des engrais simples tels que :",
+      "réponses": {
+        "A": "L’oxygène et le carbone",
+        "B": "N-P-K",
+        "C": "L’eau et le vent",
+        "D": "Les roches"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°38": {
+      "question": "À des doses très élevées, les engrais chimiques ont un effet sur les plantes :",
+      "réponses": {
+        "A": "Bénéfique",
+        "B": "Neutre",
+        "C": "Toxique",
+        "D": "Stimulant"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°39": {
+      "question": "Les vers de terre contribuent à une teneur élevée en éléments minéraux dans le sol en :",
+      "réponses": {
+        "A": "Apportant de nouveaux minéraux",
+        "B": "Décomposant la matière organique non assimilable",
+        "C": "Creusant des galeries",
+        "D": "Consommant les minéraux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°40": {
+      "question": "L’apport d’engrais chimique diminue le rendement agricole.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°41": {
+      "question": "Les engrais verts sont des cultures de végétation rapide incorporées au sol pour en améliorer la fertilité.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°42": {
+      "question": "La matière organique décomposée par les vers de terre est appelée engrais inorganique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°43": {
+      "question": "« L’augmentation du rendement est due au fait que les engrais chimiques apportés au sol __________ la réserve minérale de ce sol. Ces éléments minéraux apportés sont directement __________ par les plantes. Ce sont donc des éléments nutritifs parmi lesquels on a les engrais simples : __________. »",
+      "réponses": {
+        "A": "enrichissent / assimilables / N-P-K",
+        "B": "réduisent / inutilisables / H2O",
+        "C": "transforment / rejetés / CO2",
+        "D": "absorbent / indigestes / O2"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°44": {
+      "question": "« On peut effectivement améliorer la fertilité d’un sol par __________ d’engrais chimiques. De plus, la fertilité peut être améliorée par l’apport d’engrais __________ comme les __________ et les engrais verts. »",
+      "réponses": {
+        "A": "l’apport / organiques / débris animaux et végétaux",
+        "B": "la suppression / synthétiques / minéraux",
+        "C": "l’absence / inorganiques / substances chimiques",
+        "D": "la diminution / artificiels / pesticides"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

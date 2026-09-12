@@ -1,0 +1,402 @@
+{
+  "title": "Quiz 3 - Deutsch (Satzbau & Grammatik)",
+  "id": "DE03_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Choisissez la forme correcte du verbe pour : \"Mein Bruder und ich _____ sonntags Bücher.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "liest",
+        "B": "mache lesen",
+        "C": "lesen",
+        "D": "ist lesen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la traduction la plus précise de : \"Elle fait les courses.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie macht ihre Arbeit.",
+        "B": "Sie macht das Shopping.",
+        "C": "Sie geht einkaufen.",
+        "D": "Sie macht die Einkaufen."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Complétez la phrase : \"Der Lehrer _____ uns bei den Übungen.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "helfen",
+        "B": "sind helfen",
+        "C": "macht helfen",
+        "D": "hilft"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Je me lève tôt tous les matins.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich schlafe jeden Morgen früh.",
+        "B": "Ich bin jeden Morgen früh auf.",
+        "C": "Ich stehe jeden Morgen früh auf.",
+        "D": "Ich bin jeden Morgen früh."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel est le verbe à l'infinitif correspondant à l'action d'écrire ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hören",
+        "B": "Essen",
+        "C": "Schreiben",
+        "D": "Lesen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle phrase est conjuguée correctement ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Meine Eltern macht das Essen.",
+        "B": "Christiane gehen zum Markt.",
+        "C": "Wir sehen fern.",
+        "D": "Er hören dem Lehrer zu."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Complétez la phrase : \"Er _____ mit meiner Mutter zum Markt.\" (Er = le chien)",
+      "type": "QCM",
+      "réponses": {
+        "A": "gehen",
+        "B": "geht",
+        "C": "macht",
+        "D": "ist gehen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Nous buvons de l'eau ou du jus le soir.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir trinken Wasser und Saft am Abend.",
+        "B": "Wir trinken Wasser oder Saft am Tag.",
+        "C": "Wir trinkt Wasser oder Saft am Abend.",
+        "D": "Wir trinken Wasser oder Saft am Abend."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle est la traduction la plus précise de \"Er geht nach Hause\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Il est à la maison.",
+        "B": "Il va à l'école.",
+        "C": "Il fait la maison.",
+        "D": "Il va à la maison."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "À quelle personne le verbe \"gehen\" se termine-t-il par \"-t\" au présent ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich",
+        "B": "Sie (Pluriel)",
+        "C": "Wir",
+        "D": "Er/Sie/Es"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Mon père va au travail.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Vater",
+        "macht",
+        "zur",
+        "Mein",
+        "Mutter",
+        "Arbeit",
+        "die",
+        "geht",
+        "gehen",
+        "Schule"
+      ],
+      "bonne réponse": "Mein Vater geht zur Arbeit"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Elle fait la lessive le samedi.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "samstags",
+        "Wäschen",
+        "ein",
+        "macht",
+        "Sonntag",
+        "die",
+        "Wäsche",
+        "gehen",
+        "ihre",
+        "am",
+        "machen",
+        "Sie"
+      ],
+      "bonne réponse": "Sie wäscht samstags die Wäsche"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous regardons la télévision le dimanche.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "machen",
+        "fern",
+        "ein",
+        "Vater",
+        "Sonntagen",
+        "sehen",
+        "zusammen",
+        "mein",
+        "lesen",
+        "sieht",
+        "Wir"
+      ],
+      "bonne réponse": "Wir sehen sonntags fern"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Ils boivent du jus ou de l'eau.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "trinken",
+        "mit",
+        "Wasser",
+        "Sie",
+        "Saft",
+        "gehen",
+        "oder",
+        "ein",
+        "trinkt"
+      ],
+      "bonne réponse": "Sie trinken Saft oder Wasser"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Je prépare mon sac la nuit.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Tasche",
+        "gehen",
+        "Nacht",
+        "Ich",
+        "ein",
+        "die",
+        "bereite",
+        "Schule",
+        "Hause",
+        "in",
+        "bereitet",
+        "meine",
+        "der",
+        "vor"
+      ],
+      "bonne réponse": "Ich bereite meine Tasche in der Nacht vor"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Notre professeur nous aide.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "helfen",
+        "Unser",
+        "uns",
+        "mich",
+        "ist",
+        "hilft",
+        "Lehrer",
+        "machen"
+      ],
+      "bonne réponse": "Unser Lehrer hilft uns"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Ma mère fait la cuisine.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mutter",
+        "das",
+        "gehen",
+        "kocht",
+        "ein",
+        "machen",
+        "Essen",
+        "ist",
+        "schreibt",
+        "Meine"
+      ],
+      "bonne réponse": "Meine Mutter kocht das Essen"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Elle écrit à son ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ihrem",
+        "machen",
+        "schreibt",
+        "Sie",
+        "schreiben",
+        "ein",
+        "an",
+        "mein",
+        "Freund",
+        "ihm"
+      ],
+      "bonne réponse": "Sie schreibt an ihren Freund"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Nous allons au marché le samedi.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Markt",
+        "Mutter",
+        "Tag",
+        "gehen",
+        "am",
+        "den",
+        "Samstagen",
+        "ein",
+        "Wir",
+        "zum",
+        "machen",
+        "geht"
+      ],
+      "bonne réponse": "Wir gehen samstags zum Markt"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Je veux apprendre plus d'allemand.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mehr",
+        "bin",
+        "gehen",
+        "lernen",
+        "ein",
+        "zu",
+        "Ich",
+        "Lektion",
+        "Deutsch",
+        "machen",
+        "will",
+        "willst"
+      ],
+      "bonne réponse": "Ich will mehr Deutsch lernen"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ils étudient ensemble.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "zusammen",
+        "studiert",
+        "Sie",
+        "machen",
+        "studieren"
+      ],
+      "bonne réponse": "Sie studieren zusammen"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Les élèves font des exercices.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Übungen",
+        "die",
+        "schreiben",
+        "Die",
+        "machen",
+        "ein",
+        "ihre",
+        "macht",
+        "Schüler",
+        "gehen"
+      ],
+      "bonne réponse": "Die Schüler machen Übungen"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Il dort très tôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "früh",
+        "schlafen",
+        "sehr",
+        "machen",
+        "Er",
+        "gehen",
+        "schläft",
+        "ist"
+      ],
+      "bonne réponse": "Er schläft sehr früh"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je lis mon nom chaque jour.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "jeden",
+        "den",
+        "Namen",
+        "machen",
+        "Tag",
+        "schreiben",
+        "Ich",
+        "ein",
+        "meinen",
+        "gehen",
+        "lese",
+        "liest"
+      ],
+      "bonne réponse": "Ich lese jeden Tag meinen Namen"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Nous chantons des chansons parfois.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "die",
+        "singen",
+        "Lieder",
+        "ist",
+        "machen",
+        "Wir",
+        "ein",
+        "manchmal",
+        "singt",
+        "hören"
+      ],
+      "bonne réponse": "Wir singen manchmal Lieder"
+    },
+    "question n°26": {
+      "question": "Donnez la forme conjuguée du verbe \"machen\" pour le sujet \"Es\".",
+      "type": "short_answer",
+      "bonne réponse": "Es macht"
+    },
+    "question n°27": {
+      "question": "Traduisez l'expression française : \"Faire la lessive\".",
+      "type": "short_answer",
+      "bonne réponse": "Die Wäsche waschen"
+    },
+    "question n°28": {
+      "question": "Quelle est la forme conjuguée du verbe \"gehen\" pour le sujet \"Meine Eltern\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Meine Eltern gehen"
+    },
+    "question n°29": {
+      "question": "Quelle est la règle générale pour la terminaison des verbes au présent pour la 3e personne du singulier ? (en français)",
+      "type": "short_answer",
+      "bonne réponse": "Le radical prend la terminaison -t."
+    },
+    "question n°30": {
+      "question": "Quel est l'adverbe allemand qui signifie \"chaque jour\" ?",
+      "type": "short_answer",
+      "bonne réponse": "jeden Tag"
+    }
+  }
+}

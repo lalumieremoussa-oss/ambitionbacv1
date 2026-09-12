@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI004_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Que découvrent les Africains à travers les deux guerres mondiales ?",
+      "réponses": {
+        "A": "Les Européens sont des sauveurs désintéressés",
+        "C": "Les Européens sont vulnérables et dépendent des Africains",
+        "D": "L’Afrique est à l’origine du conflit mondial",
+        "B": "L’Europe protège mieux les colonies que prévu"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Par quels canaux les idées de liberté et d’égalité ont-elles circulé en Afrique coloniale ?",
+      "réponses": {
+        "A": "Les contes traditionnels",
+        "C": "Les cours du soir organisés par les chefs coutumiers",
+        "D": "L’école, les missions, la presse et les anciens combattants",
+        "B": "Les douanes et les chefs de village"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Comment les USA et l’URSS ont-ils influencé les nationalistes africains ?",
+      "réponses": {
+        "A": "En imposant des constitutions aux colonies",
+        "C": "En réclamant l’exclusion de l’Afrique de l’ONU",
+        "D": "En soutenant les pouvoirs coloniaux",
+        "B": "En s’opposant à la colonisation et en soutenant les luttes pour l’indépendance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle est la portée du discours de Wilson sur le droit des peuples à disposer d’eux-mêmes ?",
+      "réponses": {
+        "A": "Il a encouragé les peuples colonisés à revendiquer leur autonomie",
+        "C": "Il a renforcé la domination coloniale",
+        "D": "Il était uniquement destiné aux peuples européens",
+        "B": "Il a été rejeté par les nationalistes africains"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelles luttes de décolonisation ont inspiré les Africains ?",
+      "réponses": {
+        "A": "La guerre de Sécession",
+        "C": "L’indépendance de l’Inde, la Révolution française et la guerre du Vietnam",
+        "D": "Le plan Marshall",
+        "B": "L’accord de Munich"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel fut le rôle des Églises chrétiennes ?",
+      "réponses": {
+        "A": "Elles ont soutenu les colons",
+        "C": "Elles ont exigé la suppression des langues africaines",
+        "D": "Elles ont diffusé des valeurs de justice et formé des leaders",
+        "B": "Elles ont interdit l’école aux enfants africains"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Pourquoi USA et URSS s’opposaient-ils à la colonisation ?",
+      "réponses": {
+        "A": "Pour défendre les intérêts des rois africains",
+        "C": "Pour des raisons idéologiques mais aussi stratégiques",
+        "D": "Pour maintenir l'ordre colonial",
+        "B": "Parce que l’Afrique avait menacé l’Occident"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle fut l’action de l’ONU contre la colonisation ?",
+      "réponses": {
+        "A": "Elle a envoyé des troupes en Afrique",
+        "C": "Elle a condamné le colonialisme et soutenu le droit à l’autodétermination",
+        "D": "Elle a soutenu les gouverneurs coloniaux",
+        "B": "Elle a créé de nouvelles colonies"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle du Conseil de Tutelle de l’ONU ?",
+      "réponses": {
+        "A": "Appliquer le code de l’indigénat",
+        "C": "Organiser les guerres d’indépendance",
+        "D": "Préparer les territoires sous tutelle à l’indépendance",
+        "B": "Recoloniser les territoires libérés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Comment certaines opinions publiques européennes ont-elles soutenu les Africains ?",
+      "réponses": {
+        "A": "En militant pour plus d’impôts",
+        "C": "En défendant les privilèges coloniaux",
+        "D": "En s’opposant à toute réforme",
+        "B": "En dénonçant les abus coloniaux et en soutenant les indépendantistes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel message les anciens combattants africains ont-ils rapporté ?",
+      "réponses": {
+        "A": "L’égalité des races est une illusion européenne",
+        "C": "Les Européens ne savent pas se battre",
+        "D": "La colonisation est une punition divine",
+        "B": "Les Européens ont besoin des Africains pour survivre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Pourquoi la presse a-t-elle été importante ?",
+      "réponses": {
+        "A": "Elle censurait les idées d’indépendance",
+        "C": "Elle a relayé les valeurs de liberté, parfois discrètement",
+        "D": "Elle a toujours soutenu la France",
+        "B": "Elle était réservée aux colons"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que montre la participation des soldats africains aux conflits mondiaux ?",
+      "réponses": {
+        "A": "Une adhésion totale à l’idéologie coloniale",
+        "C": "Une incompétence militaire",
+        "D": "Une peur de l’indépendance",
+        "B": "Une capacité à se battre pour leurs droits"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel impact ont eu les conférences internationales sur les nationalistes africains ?",
+      "réponses": {
+        "A": "Elles ont donné de la visibilité aux revendications des colonisés",
+        "C": "Elles ont renforcé la légitimité des empires",
+        "D": "Elles ont été ignorées en Afrique",
+        "B": "Elles ont interdit l’adhésion des Africains"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Pourquoi le discours égalitaire des colons était-il contradictoire ?",
+      "réponses": {
+        "A": "Il prônait la polygamie",
+        "C": "Il ignorait la religion",
+        "D": "Il affirmait l’égalité tout en maintenant l’exploitation coloniale",
+        "B": "Il interdisait l’usage de la radio"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel fut l’impact des missions chrétiennes sur les jeunes Africains ?",
+      "réponses": {
+        "A": "Elles empêchaient toute ambition politique",
+        "C": "Elles limitaient l’usage des langues étrangères",
+        "D": "Elles formaient uniquement des prêtres",
+        "B": "Elles ont éveillé certaines élites aux valeurs universelles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce que le combat pour les droits civiques aux États-Unis a provoqué en Afrique ?",
+      "réponses": {
+        "A": "Une prise de conscience sur la discrimination raciale et la nécessité de l’indépendance",
+        "C": "Un soutien au colonialisme",
+        "D": "Un rejet des valeurs de liberté",
+        "B": "Une admiration pour le Ku Klux Klan"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel fut le rôle de la radio dans l’éveil africain ?",
+      "réponses": {
+        "A": "Propager des chansons coloniales",
+        "C": "Diffuser des publicités",
+        "D": "Transmettre les idées nationalistes venues d’Europe",
+        "B": "Imposer les langues locales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quel est l’effet du rejet du colonialisme par les religions ?",
+      "réponses": {
+        "A": "Renforcement de l’autorité coloniale",
+        "C": "Légitimation des luttes pour la justice et l’égalité",
+        "D": "Abandon des langues locales",
+        "B": "Soutien à l’armée française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Pourquoi certains Européens ont-ils soutenu les nationalistes africains ?",
+      "réponses": {
+        "A": "Par souci moral et en réaction aux injustices coloniales",
+        "C": "Pour renforcer les empires",
+        "D": "Pour éviter leur propre décolonisation",
+        "B": "Pour garantir l’exploitation minière"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

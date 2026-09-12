@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "GE002_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Comment l’agriculture ivoirienne participe-t-elle à l’économie nationale ?",
+      "réponses": {
+        "A": "Elle repose uniquement sur les dons alimentaires étrangers",
+        "B": "Elle fournit 20,2 % du PIB et plus de 40 % des recettes d’exportation",
+        "C": "Elle ne sert qu’à l’alimentation des villages éloignés",
+        "D": "Elle est soutenue exclusivement par les ONG internationales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle fiscal de l’agriculture ?",
+      "réponses": {
+        "A": "Elle bénéficie d’exonérations et ne contribue pas à l’État",
+        "B": "Elle ne rapporte que des dons au gouvernement",
+        "C": "Elle rapporte des devises à l’État à travers taxes, impôts et vignettes",
+        "D": "Elle est financée uniquement par les bailleurs de fonds"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel pourcentage d’actifs l’agriculture emploie-t-elle en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Moins de 15 % dans les zones rurales uniquement",
+        "B": "30 % dans les zones industrielles du sud",
+        "C": "Plus de 60 % de la population active ivoirienne",
+        "D": "Près de 80 % des fonctionnaires d’État"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Comment l’agriculture contribue-t-elle à nourrir la population ?",
+      "réponses": {
+        "A": "En important massivement les aliments transformés",
+        "B": "En produisant localement des vivres comme le manioc, le riz, l’igname",
+        "C": "En cultivant uniquement des produits destinés à l’export",
+        "D": "En produisant uniquement des fruits exotiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la relation entre agriculture et industrie ?",
+      "réponses": {
+        "A": "L’agriculture fournit des matières premières aux usines agroalimentaires",
+        "B": "L’agriculture est totalement indépendante du secteur industriel",
+        "C": "L’agriculture remplace les activités industrielles dans les grandes villes",
+        "D": "L’agriculture ne produit que pour les marchés villageois"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "En quoi l’agriculture soutient-elle d’autres secteurs économiques ?",
+      "réponses": {
+        "A": "Elle empêche la croissance du tourisme et des services",
+        "B": "Elle alimente le commerce, l’industrie, les transports et l’exportation",
+        "C": "Elle rend inutile l’importation de produits manufacturés",
+        "D": "Elle remplace les secteurs miniers dans les recettes publiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel est le lien entre agriculture et aménagement du territoire ?",
+      "réponses": {
+        "A": "L’agriculture permet le développement rural par les infrastructures",
+        "B": "L’agriculture crée des tensions foncières en zones urbaines",
+        "C": "L’agriculture empêche la construction de routes modernes",
+        "D": "L’agriculture se pratique uniquement dans les zones industrialisées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel rôle joue le cacao dans l’économie agricole ?",
+      "réponses": {
+        "A": "Il représente plus du tiers des recettes d’exportation du pays",
+        "B": "Il est produit uniquement à des fins touristiques",
+        "C": "Il est réservé aux entreprises européennes installées en zone franche",
+        "D": "Il est en voie d’extinction à cause des faibles rendements"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Pourquoi dit-on que l’agriculture est un moteur de croissance ?",
+      "réponses": {
+        "A": "Elle ne crée pas d’emplois mais attire les investissements étrangers",
+        "B": "Parce qu’elle structure l’économie, crée de l’emploi et génère des revenus",
+        "C": "Parce qu’elle est sous contrôle exclusif des multinationales",
+        "D": "Parce qu’elle remplace l’économie numérique et la finance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle politique a favorisé les cultures vivrières ?",
+      "réponses": {
+        "A": "La politique de transformation numérique en milieu rural",
+        "B": "La politique d’autosuffisance alimentaire menée par l’État",
+        "C": "La fermeture des frontières agricoles aux voisins",
+        "D": "L’importation massive de produits agro-industriels"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le rang mondial de la Côte d’Ivoire en matière de production de cacao ?",
+      "réponses": {
+        "A": "4e producteur africain de cacao",
+        "B": "1er producteur mondial de cacao",
+        "C": "2e producteur mondial après la Chine",
+        "D": "3e producteur africain après le Nigéria et le Ghana"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le rang de la Côte d’Ivoire dans la production mondiale de banane douce ?",
+      "réponses": {
+        "A": "4e producteur mondial et 2e producteur africain",
+        "B": "1er africain et 1er mondial",
+        "C": "3e africain et 10e mondial",
+        "D": "5e africain et 6e mondial"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel est le rang mondial de la Côte d’Ivoire en production de café ?",
+      "réponses": {
+        "A": "13e producteur mondial et 3e producteur africain",
+        "B": "5e producteur mondial et 1er en Afrique",
+        "C": "20e producteur mondial, sans rang africain",
+        "D": "2e mondial juste après la Colombie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quel est le rang africain de la Côte d’Ivoire pour la production de caoutchouc ?",
+      "réponses": {
+        "A": "10e africain sans classement mondial",
+        "B": "1er producteur africain et 3e producteur mondial",
+        "C": "4e africain et 6e mondial",
+        "D": "2e africain et 8e mondial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le rang de la Côte d’Ivoire en production de noix de cajou ?",
+      "réponses": {
+        "A": "2e producteur africain et 6e mondial",
+        "B": "1er producteur africain et 1er producteur mondial",
+        "C": "4e producteur mondial et 9e en Afrique",
+        "D": "6e africain sans rang mondial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle est la particularité des cultures vivrières ?",
+      "réponses": {
+        "A": "Elles sont destinées à la consommation locale et au marché intérieur",
+        "B": "Elles sont réservées à l’exportation pour générer des devises",
+        "C": "Elles sont uniquement cultivées dans les zones industrielles",
+        "D": "Elles servent à nourrir le bétail dans les grandes exploitations"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quels sont les principaux produits vivriers en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Bananes, cacao, hévéa et coton",
+        "B": "Riz, manioc, igname, maïs, arachide, mil et sorgho",
+        "C": "Cacao, café, anacarde et banane douce",
+        "D": "Palmier à huile, coton, canne à sucre et soja"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Qu’est-ce qu’une culture commerciale ?",
+      "réponses": {
+        "A": "Une culture destinée à l’autoconsommation uniquement",
+        "B": "Une culture industrielle orientée vers l’exportation ou la transformation",
+        "C": "Une culture produite dans les fermes pédagogiques",
+        "D": "Une culture vendue exclusivement sur les marchés villageois"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quels sont des exemples de cultures commerciales ivoiriennes ?",
+      "réponses": {
+        "A": "Cacao, café, coton, hévéa, anacarde, palmier à huile",
+        "B": "Riz, igname, manioc, banane plantain",
+        "C": "Oignons, tomates, piments, gombos",
+        "D": "Avocats, fraises, maïs, laitue"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Pourquoi la production de riz reste-t-elle un défi malgré son importance ?",
+      "réponses": {
+        "A": "Le riz est interdit à l’importation et donc peu cultivé",
+        "B": "Il est uniquement réservé à l’exportation vers l’Europe",
+        "C": "La production locale est insuffisante, d’où des importations massives",
+        "D": "Le riz est abandonné au profit de la culture du coton et du café"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

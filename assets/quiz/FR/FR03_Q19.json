@@ -1,0 +1,206 @@
+{
+    "title": "Quiz 2 - Partie C : Synthèse et Transformation Sociale (Trouve l'intrus)",
+    "id": "FR001_Q2_C_V3",
+    "questions": {
+        "question n°1": {
+            "question": "La fonction principale de la poésie engagée dans la société est de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Exalter la beauté de la nature sans se soucier des réalités humaines",
+                "B": "Sensibiliser à une cause sociale ou politique par la beauté des vers composés",
+                "C": "Dénoncer les injustices et les oppressions à travers un langage poétique",
+                "D": "Éveiller les consciences endormies face aux dérives du pouvoir établi"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Dans la perspective didactique, le rôle de l'écrivain dans la société est de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Témoigner des réalités de son époque et instruire ses contemporains attentifs",
+                "B": "Fournir des divertissements intellectuels sans aucune portée éducative morale",
+                "C": "Transmettre des savoirs et des valeurs morales à travers ses fictions réalistes",
+                "D": "Éclairer les lecteurs sur les problèmes humains et les dilemmes existentiels"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°3": {
+            "question": "Une œuvre littéraire acquiert une dimension didactique lorsqu'elle : – Trouve l'intrus",
+            "reponses": {
+                "A": "Transmet une leçon de vie ou un savoir sur la condition humaine profonde",
+                "B": "Utilise un vocabulaire familier pour se faire comprendre du plus grand nombre",
+                "C": "Évoque uniquement des faits réels sans aucune part d'invention créatrice",
+                "D": "Invite le lecteur à réfléchir sur ses propres comportements et ses choix"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°4": {
+            "question": "L'effet attendu d'une œuvre à visée éducative sur son lecteur est de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Le faire réfléchir sur le monde et l'inciter à évoluer intellectuellement",
+                "B": "L'aider à comprendre les mécanismes sociaux et les injustices de son temps",
+                "C": "Lui imposer une vérité unique sans possibilité de débat ou de remise en cause",
+                "D": "L'éclairer sur les conséquences de ses actes et sur sa responsabilité humaine"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°5": {
+            "question": "La littérature et l'engagement social vont de pair lorsque l'auteur : – Trouve l'intrus",
+            "reponses": {
+                "A": "Prend position sur les problèmes de société dans ses écrits et ses prises de parole",
+                "B": "Se réfugie dans l'imaginaire pur sans aborder les réalités politiques concrètes",
+                "C": "Utilise sa plume comme une arme de combat contre les discriminations et les abus",
+                "D": "Dénonce les dérives du pouvoir et les injustices subies par les populations faibles"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°6": {
+            "question": "Dans les œuvres postcoloniales africaines, la littérature joue souvent un rôle : – Trouve l'intrus",
+            "reponses": {
+                "A": "Thérapeutique et revendicatif en réparant la mémoire collective blessée",
+                "B": "Décoratif qui embellit la réalité sans jamais la critiquer ouvertement",
+                "C": "Mémoriel en préservant les traditions et les valeurs des sociétés anciennes",
+                "D": "Politique en dénonçant les héritages toxiques de la domination coloniale"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°7": {
+            "question": "Un roman à fonction didactique favorise chez son lecteur une : – Trouve l'intrus",
+            "reponses": {
+                "A": "Réflexion approfondie sur des enjeux humains ou sociaux fondamentaux",
+                "B": "Prise de conscience des mécanismes d'oppression et de domination sociale",
+                "C": "Évasion pure dans des mondes imaginaires sans aucun lien avec le réel",
+                "D": "Compréhension des dilemmes moraux auxquels l'homme est confronté"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "La littérature est considérée comme un outil de transformation sociale car elle : – Trouve l'intrus",
+            "reponses": {
+                "A": "Endort les consciences en proposant des divertissements sans portée critique",
+                "B": "Questionne les normes établies et propose des alternatives au monde existant",
+                "C": "Dénonce les injustices et invite le lecteur à agir pour changer son environnement",
+                "D": "Éclaire les zones d'ombre de la société et révèle les vérités inconfortables"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°9": {
+            "question": "Le genre littéraire le plus couramment utilisé pour transmettre un message moral est : – Trouve l'intrus",
+            "reponses": {
+                "A": "La fable qui utilise des animaux pour illustrer des vérités morales universelles",
+                "B": "Le polar qui résout des énigmes sans jamais proposer de leçon au lecteur",
+                "C": "La science-fiction qui projette des futurs possibles pour alerter sur le présent",
+                "D": "Le conte philosophique qui mêle fiction et réflexion sur la condition humaine"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°10": {
+            "question": "Une si longue lettre de Mariama Bâ est didactique car cette œuvre : – Trouve l'intrus",
+            "reponses": {
+                "A": "Fait la critique des traditions sociales et invite à une réflexion sur le mariage",
+                "B": "Dénonce les violences faites aux femmes et les injustices du patriarcat africain",
+                "C": "Propose un langage codé réservé aux initiés de la culture sénégalaise profonde",
+                "D": "Évoque la condition féminine et les dilemmes entre modernité et traditions"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°11": {
+            "question": "Le théâtre engagé dans la société a pour principale mission de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Provoquer une prise de conscience collective chez les spectateurs attentifs",
+                "B": "Faire rire uniquement sans aucune visée critique ou politique assumée",
+                "C": "Dénoncer les travers de la société à travers des dialogues percutants et vifs",
+                "D": "Interroger les rapports de pouvoir et les injustices sociales sur scène"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°12": {
+            "question": "Un auteur utilise une fin tragique dans une œuvre didactique pour : – Trouve l'intrus",
+            "reponses": {
+                "A": "Chocker gratuitement le lecteur sans aucune raison narrative ou éducative",
+                "B": "Illustrer les conséquences désastreuses de certains choix humains et moraux",
+                "C": "Montrer que les erreurs du passé peuvent avoir des répercussions très graves",
+                "D": "Enseigner une leçon sur la fragilité de la condition humaine et ses limites"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°13": {
+            "question": "La fonction didactique dans une autobiographie apparaît lorsque l'auteur : – Trouve l'intrus",
+            "reponses": {
+                "A": "Partage ses expériences personnelles pour éclairer et instruire son lecteur",
+                "B": "Parle uniquement de lui-même sans chercher à tirer une leçon universelle",
+                "C": "Transforme son vécu en exemple pour éviter aux autres de commettre ses erreurs",
+                "D": "Livre une introspection sincère qui peut servir de miroir au lecteur attentif"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°14": {
+            "question": "Le pouvoir de la littérature sur les consciences individuelles est de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Les endormir en proposant des histoires sans aucune profondeur réelle",
+                "B": "Les modeler par la réflexion et l'émotion en les confrontant à l'altérité",
+                "C": "Les éveiller aux réalités du monde en élargissant leur horizon intellectuel",
+                "D": "Les transformer en les exposant à des expériences de vie virtuellement vécues"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°15": {
+            "question": "L'enseignement à travers la fiction littéraire permet de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Cacher le message éducatif dans une histoire agréable et captivante pour tous",
+                "B": "Éviter tout engagement politique en se réfugiant dans l'imaginaire stérile",
+                "C": "Rendre le savoir plus accessible en l'enrobant dans un récit plaisant à lire",
+                "D": "Toucher un large public en utilisant des personnages attachants et réalistes"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°16": {
+            "question": "La littérature et l'histoire partagent souvent la même dimension de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Transmission de la mémoire collective et des leçons du passé aux générations",
+                "B": "Rigueur scientifique sans aucune part d'invention ou de subjectivité créative",
+                "C": "Préservation des traces du passé pour éclairer les choix du présent humain",
+                "D": "Narration des événements marquants qui ont façonné les sociétés humaines"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°17": {
+            "question": "Le personnage principal dans une œuvre didactique est souvent présenté comme : – Trouve l'intrus",
+            "reponses": {
+                "A": "Le reflet de la société et de ses contradictions profondes et complexes",
+                "B": "Un héros invincible sans aucune faille ni fragilité psychologique réelle",
+                "C": "Un porte-parole des valeurs que l'auteur souhaite transmettre aux lecteurs",
+                "D": "Un être humain confronté à des dilemmes moraux et des choix existentiels"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°18": {
+            "question": "Dans les textes post-indépendance africains, la fonction didactique vise à : – Trouve l'intrus",
+            "reponses": {
+                "A": "Réhabiliter les cultures africaines et éveiller les consciences des peuples noirs",
+                "B": "Célébrer uniquement l'occident et ses valeurs sans critiquer le colonialisme",
+                "C": "Dénoncer les héritages toxiques de la colonisation et les dictatures postcoloniales",
+                "D": "Promouvoir les valeurs traditionnelles et la solidarité communautaire africaine"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°19": {
+            "question": "Un style accessible dans une œuvre à visée éducative permet de : – Trouve l'intrus",
+            "reponses": {
+                "A": "Rendre le message plus clair et compréhensible pour un large public diversifié",
+                "B": "Dissimuler les idées importantes derrière une forme trop simple et enfantine",
+                "C": "Élargir l'audience du texte en touchant des lecteurs de tous niveaux culturels",
+                "D": "Faciliter l'appropriation des savoirs transmis par le récit littéraire engagé"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°20": {
+            "question": "L'œuvre africaine qui illustre le mieux la transmission orale et la fonction didactique est : – Trouve l'intrus",
+            "reponses": {
+                "A": "Soundjata ou l'épopée mandingue de Djibril Tamsir Niane le célèbre griot",
+                "B": "Germinal de Zola qui dépeint la révolte des mineurs dans le nord de la France",
+                "C": "Le Malade imaginaire de Molière qui critique la médecine avec humour et satire",
+                "D": "L'Étranger de Camus qui explore l'absurde et l'indifférence humaine dans l'action"
+            },
+            "bonne reponse": "A"
+        }
+    }
+}

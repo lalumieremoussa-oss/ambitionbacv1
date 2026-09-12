@@ -1,0 +1,156 @@
+{
+    "title": "LA FONCTION ENGAGÉE DE LA LITTÉRATURE (15 questions)",
+    "id": "FR003_Q1",
+    "questions": {
+        "question n°1": {
+            "question": "Quelle expression traduit une littérature engagée sur le plan sociopolitique ?",
+            "réponses": {
+                "A": "Raconter les amours contrariées de deux héros",
+                "B": "Dénoncer l'oppression et l'injustice raciale",
+                "C": "Décrire la beauté d'un paysage champêtre",
+                "D": "Écrire un sonnet pour exprimer sa tristesse"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Quelle expression traduit un engagement politique et militaire ?",
+            "réponses": {
+                "A": "Faire la satire des discours bellicistes des dirigeants",
+                "B": "Critiquer les abus de la colonisation",
+                "C": "Dépeindre les douleurs de l'excision",
+                "D": "Exalter la puissance de la nature"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "Quelle expression traduit un engagement socioculturel ?",
+            "réponses": {
+                "A": "S'indigner contre le travail des enfants à l'ère industrielle",
+                "B": "Questionner la violence coloniale dans les rapports de pouvoir",
+                "C": "Dénoncer le mariage forcé et le patriarcat",
+                "D": "Raconter les exploits guerriers d'un roi légendaire"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "Quelle expression traduit une dénonciation de l'excision ?",
+            "réponses": {
+                "A": "Évoquer les conséquences tragiques du mariage forcé",
+                "B": "Mettre en scène les douleurs physiques et psychologiques de la mutilation",
+                "C": "Critiquer l'obsession maladive de l'argent",
+                "D": "Interroger le poids des traditions à travers un sacrifice rituel"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Quelle expression traduit une dénonciation des sacrifices humains ?",
+            "réponses": {
+                "A": "Exposer l'inhumanité de la colonisation",
+                "B": "Fustiger la division de l'Afrique par les puissances coloniales",
+                "C": "Interroger le poids des traditions et la dignité humaine",
+                "D": "Dénoncer la corruption des dirigeants postcoloniaux"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°6": {
+            "question": "Quelle expression traduit une dénonciation de l'exploitation des enfants ?",
+            "réponses": {
+                "A": "Évoquer les tensions dans les familles polygames",
+                "B": "Critiquer le travail des enfants à l'ère industrielle",
+                "C": "Faire un plaidoyer pour l'éradication du mariage forcé",
+                "D": "Clamer l'identité noire et la révolte contre l'oppression"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Quelle expression traduit une dénonciation de l'avarice ?",
+            "réponses": {
+                "A": "Montrer les conséquences irréversibles de la stérilité",
+                "B": "Exposer une obsession maladive pour l'argent",
+                "C": "Faire la satire des régimes militaires",
+                "D": "Mettre en lumière les violences religieuses"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "Quelle expression traduit un engagement pour l'identité et la révolte noire ?",
+            "réponses": {
+                "A": "Célébrer l'Afrique et fustiger la colonisation",
+                "B": "Clamer l'identité noire et la révolte contre l'oppression",
+                "C": "Dénoncer la trahison des idéaux postcoloniaux",
+                "D": "Critiquer l'oppression militaire et la dictature"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Quelle expression traduit une critique des dérives du pouvoir en Afrique ?",
+            "réponses": {
+                "A": "Dénoncer la division de l'Afrique par les puissances coloniales",
+                "B": "Évoquer la marche vers l'indépendance",
+                "C": "Dénoncer la trahison des idéaux postcoloniaux",
+                "D": "Mettre en scène un esclave révolté"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°10": {
+            "question": "Quelle expression traduit un engagement contre la manipulation politique ?",
+            "réponses": {
+                "A": "Faire la satire des discours bellicistes des dirigeants",
+                "B": "Dénoncer les abus coloniaux à travers un roman",
+                "C": "Dévoiler les tensions dans les familles polygames",
+                "D": "Mettre en lumière les conséquences du mariage forcé"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Qui est l'auteur de l'œuvre Batouala (1921), qui critique les abus coloniaux ?",
+            "réponses": {
+                "A": "Ferdinand Oyono",
+                "B": "René Maran",
+                "C": "Ousmane Sembène",
+                "D": "Aimé Césaire"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Qui est l'auteur du roman Une vie de boy, qui met en lumière l'inhumanité de la colonisation ?",
+            "réponses": {
+                "A": "René Maran",
+                "B": "Ousmane Sembène",
+                "C": "Ferdinand Oyono",
+                "D": "Bernard-Marie Koltès"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°13": {
+            "question": "Qui est l'auteur des Soleils des Indépendances, qui dénonce la trahison des idéaux postcoloniaux ?",
+            "réponses": {
+                "A": "Chinua Achebe",
+                "B": "Ahmadou Kourouma",
+                "C": "Wole Soyinka",
+                "D": "Léopold Sédar Senghor"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "Qui est l'auteur de Rebelle, qui dénonce les douleurs physiques et psychologiques de l'excision ?",
+            "réponses": {
+                "A": "Fatou Keïta",
+                "B": "Maïmouna Thiombiano",
+                "C": "Élodie Yeboua",
+                "D": "Guy Menga"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Qui est l'auteur de L'Avare, qui expose l'obsession maladive de l'argent ?",
+            "réponses": {
+                "A": "Jean Giraudoux",
+                "B": "Louis Aragon",
+                "C": "Victor Hugo",
+                "D": "Molière"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

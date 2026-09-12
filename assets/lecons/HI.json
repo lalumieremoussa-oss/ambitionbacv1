@@ -1,0 +1,262 @@
+[
+  {
+    "id": "HI000",
+    "titre": "Les méthodologies de la dissertation et du commentaire d’un document",
+    "sections": [
+      {
+        "id": "HI000_C1",
+        "titre": "Méthodologie de la dissertation"
+      },
+      {
+        "id": "HI000_C2",
+        "titre": "Méthodologie de commentaire"
+      }
+    ]
+  },
+  {
+    "id": "HI001",
+    "titre": "L’ONU",
+    "sections": [
+      {
+        "id": "HI001_C1",
+        "titre": "Les étapes de la création, les objectifs et principes de l’ONU"
+      },
+      {
+        "id": "HI001_C2",
+        "titre": "Les organes de fonctionnement et institutions de l’ONU"
+      },
+      {
+        "id": "HI001_C3",
+        "titre": "Bilan de l’ONU"
+      },
+      {
+        "id": "HI001_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "HI001_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "HI001_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "HI002",
+    "titre": "L’ère de la bipolarisation (1947 – 1991)",
+    "sections": [
+      {
+        "id": "HI002_C1",
+        "titre": "La bipolarisation du monde"
+      },
+      {
+        "id": "HI002_C2",
+        "titre": "La première crise de Berlin"
+      },
+      {
+        "id": "HI002_C3",
+        "titre": "La seconde crise de Berlin"
+      },
+      {
+        "id": "HI002_C4",
+        "titre": "La crise de Cuba"
+      },
+      {
+        "id": "HI002_C5",
+        "titre": "La coexistence pacifique"
+      },
+      {
+        "id": "HI002_C6",
+        "titre": "La crise du Vietnam"
+      },
+      {
+        "id": "HI002_C7",
+        "titre": "La dislocation de l’URSS"
+      },
+      {
+        "id": "HI002_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "HI002_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "HI002_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "HI002_Q4",
+        "titre": "Quiz 4"
+      },
+      {
+        "id": "HI002_Q5",
+        "titre": "Quiz 5"
+      },
+      {
+        "id": "HI002_Q6",
+        "titre": "Quiz 6"
+      },
+      {
+        "id": "HI002_Q7",
+        "titre": "Quiz 7"
+      }
+    ]
+  },
+  {
+    "id": "HI003",
+    "titre": "De la fin de la guerre froide vers un monde multipolaire",
+    "sections": [
+      {
+        "id": "HI003_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI003_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI003_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI003_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "HI004",
+    "titre": "La montée des nationalismes en Afrique",
+    "sections": [
+      {
+        "id": "HI004_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI004_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI004_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI004_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "HI005",
+    "titre": "L’accession de la Côte d’Ivoire à l’indépendance",
+    "sections": [
+      {
+        "id": "HI005_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI005_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI005_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI005_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "HI006",
+    "titre": "L’accession de l’Algérie à l’indépendance",
+    "sections": [
+      {
+        "id": "HI006_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI006_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI006_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI006_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "HI007",
+    "titre": "Croyances et valeurs dominantes dans le monde occidental",
+    "sections": [
+      {
+        "id": "HI007_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI007_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI007_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI007_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "HI008",
+    "titre": "Les mutations contemporaines de la civilisation négro-africaine",
+    "sections": [
+      {
+        "id": "HI008_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI008_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI008_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI008_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  },
+  {
+    "id": "HI009",
+    "titre": "Union Africaine",
+    "sections": [
+      {
+        "id": "HI009_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "HI009_Q1",
+        "titre": "Quiz partie 1"
+      },
+      {
+        "id": "HI009_Q2",
+        "titre": "Quiz partie 2"
+      },
+      {
+        "id": "HI009_Q3",
+        "titre": "Quiz partie 3"
+      }
+    ]
+  }
+]

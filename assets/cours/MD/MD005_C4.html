@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+            [
+                {
+                    "title": "Étape 1 : Interprétation géométrique des distances et des angles",
+                    "content": "En géométrie complexe, chaque point du plan est associé à un nombre complexe appelé affixe.\nLa distance entre deux points $A$ et $B$ d'affixes respectives $z_A$ et $z_B$ est égale au module de la différence de leurs affixes : $AB = |z_B - z_A|$.\nL'angle formé par deux vecteurs peut également être traduit par l'argument d'un rapport complexe.\nL'angle de vecteurs $(\\vec{u}, \\vec{AB})$ correspond à $arg(z_B - z_A)$.\nPlus important encore, l'angle orienté entre deux vecteurs $(\\vec{AB}, \\vec{AC})$ est donné par l'argument du rapport : $arg\\left(\\frac{z_C - z_A}{z_B - z_A}\\right)$.\nCela permet de traduire n'importe quel problème de mesure d'angle en un calcul d'argument.",
+                    "example": "Calculons la distance $AB$ et l'angle $(\\vec{u}, \\vec{AB})$ avec $z_A = 1 + i$ et $z_B = 3 + 3i$ :\n1. Calcul de la distance :\n$z_B - z_A = (3 + 3i) - (1 + i) = 2 + 2i$.\n$AB = |2 + 2i| = \\sqrt{2^2 + 2^2} = \\sqrt{8} = 2\\sqrt{2}$.\n2. Calcul de l'angle :\n$arg(z_B - z_A) = arg(2 + 2i)$.\nOn cherche $\\theta$ tel que $\\cos \\theta = \\frac{2}{2\\sqrt{2}} = \\frac{\\sqrt{2}}{2}$ et $\\sin \\theta = \\frac{\\sqrt{2}}{2}$.\nOn trouve $\\theta = \\frac{\\pi}{4} [2\\pi]$.\nLa distance $AB$ est $2\\sqrt{2}$ et l'angle du vecteur avec l'horizontale est $\\frac{\\pi}{4}$.",
+                    "extras": [
+                        "Exemple complet : Calcul de la distance $CD$ avec $z_C = -2$ et $z_D = 4i$.\n$z_D - z_C = 4i - (-2) = 2 + 4i$.\n$CD = \\sqrt{2^2 + 4^2} = \\sqrt{20} = 2\\sqrt{5}$.",
+                        "Exemple complet : Angle $(\\vec{AB}, \\vec{AC})$ avec $A(i)$, $B(1)$ et $C(2+i)$.\n$R = \\frac{z_C - z_A}{z_B - z_A} = \\frac{2+i-i}{1-i} = \\frac{2}{1-i}$.\n$R = \\frac{2(1+i)}{1^2+1^2} = 1 + i$.\nL'angle est $arg(1+i) = \\frac{\\pi}{4}$.",
+                        "Exemple complet : Distance à l'origine.\nSoit $M$ d'affixe $z = 3 - 4i$. La distance $OM$ est $|z| = \\sqrt{3^2 + (-4)^2} = 5$.",
+                        "Exemple complet : Angle de deux vecteurs orthogonaux.\nSi $z_B - z_A = 2i$ et $z_D - z_C = 3$, alors l'angle est $arg(\\frac{2i}{3}) = \\frac{\\pi}{2}$.",
+                        "Exemple complet : Rapport réel et angle.\nSi le rapport $\\frac{z_C - z_A}{z_B - z_A} = -2$, l'angle $(\\vec{AB}, \\vec{AC}) = arg(-2) = \\pi$.",
+                        "Exemple complet : Utilisation du module pour un périmètre.\nPour un triangle $ABC$, le périmètre est $|z_B - z_A| + |z_C - z_B| + |z_A - z_C|$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Caractérisation de la nature d'un triangle",
+                    "content": "Pour déterminer la nature d'un triangle $ABC$, la méthode la plus efficace consiste à étudier le rapport $R = \\frac{z_C - z_A}{z_B - z_A}$.\nCe nombre complexe $R$ contient simultanément les informations sur les longueurs des côtés et sur l'angle au sommet $A$.\n- Si $|R| = 1$, alors $AC = AB$, le triangle est isocèle en $A$.\n- Si $R$ est un imaginaire pur ($Re(R) = 0$), l'angle est de $\\pm \\frac{\\pi}{2}$, le triangle est rectangle en $A$.\n- Si $R = i$ ou $R = -i$, le triangle est à la fois rectangle et isocèle en $A$.\n- Si $R = e^{i\\frac{\\pi}{3}}$ ou $R = e^{-i\\frac{\\pi}{3}}$, le triangle est équilatéral.\nCette méthode évite de calculer séparément les trois longueurs par Pythagore.",
+                    "example": "Soient $A(1)$, $B(2 + i)$ et $C(i)$. Déterminons la nature du triangle $ABC$ :\nCalculons le rapport $R = \\frac{z_C - z_A}{z_B - z_A}$ :\n$R = \\frac{i - 1}{(2 + i) - 1} = \\frac{-1 + i}{1 + i}$.\nPour simplifier, multiplions par le conjugué du dénominateur :\n$R = \\frac{(-1 + i)(1 - i)}{(1 + i)(1 - i)} = \\frac{-1 + i + i - i^2}{1^2 + 1^2} = \\frac{-1 + 2i + 1}{2} = \\frac{2i}{2} = i$.\nInterprétation :\n1. $|R| = |i| = 1$, donc $AC = AB$ (Isocèle en $A$).\n2. $arg(R) = arg(i) = \\frac{\\pi}{2}$, donc l'angle en $A$ est droit (Rectangle en $A$).\nLe triangle $ABC$ est rectangle isocèle en $A$.",
+                    "extras": [
+                        "Exemple complet : Triangle équilatéral avec $R = \\frac{1}{2} + i\\frac{\\sqrt{3}}{2}$.\nLe module est $\\sqrt{(\\frac{1}{2})^2 + (\\frac{\\sqrt{3}}{2})^2} = 1$ et l'angle est $\\frac{\\pi}{3}$.",
+                        "Exemple complet : Triangle rectangle non isocèle.\nSi $R = 2i$, le triangle est rectangle en $A$ car $R$ est imaginaire pur, mais $AC = 2AB$.",
+                        "Exemple complet : Triangle isocèle non rectangle.\nSi $R = \\frac{3}{5} + i\\frac{4}{5}$, alors $|R| = 1$ mais $R$ n'est pas imaginaire pur.",
+                        "Exemple complet : Triangle rectangle en $B$.\nIl faut calculer le rapport au sommet $B$ : $\\frac{z_C - z_B}{z_A - z_B}$.",
+                        "Exemple complet : Triangle aplati.\nSi $R = 3$, les points sont alignés, on peut considérer cela comme un triangle dégénéré.",
+                        "Exemple complet : Vérification par les distances.\nSi $AB=5, AC=5, BC=5\\sqrt{2}$, le triangle est rectangle isocèle."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Alignement, Orthogonalité et Parallélisme",
+                    "content": "Les nombres complexes simplifient les preuves géométriques d'alignement et de position relative.\n1. Alignement : Trois points $A, B$ et $C$ sont alignés si et seulement si les vecteurs $\\vec{AB}$ et $\\vec{AC}$ sont colinéaires.\nCela revient à dire que le rapport $\\frac{z_C - z_A}{z_B - z_A}$ est un nombre réel ($Im(R) = 0$).\n2. Orthogonalité : Deux droites $(AB)$ et $(CD)$ sont perpendiculaires si et seulement si l'angle entre leurs vecteurs directeurs est $\\frac{\\pi}{2} [\\pi]$.\nCela signifie que le rapport $\\frac{z_D - z_C}{z_B - z_A}$ est un imaginaire pur.\n3. Parallélisme : Deux droites sont parallèles si le rapport de leurs affixes vectorielles est un réel.",
+                    "example": "Montrons que $A(1)$, $B(3+2i)$ et $C(4+3i)$ sont alignés :\nCalculons le rapport $R = \\frac{z_C - z_A}{z_B - z_A}$ :\n$z_C - z_A = (4 + 3i) - 1 = 3 + 3i$.\n$z_B - z_A = (3 + 2i) - 1 = 2 + 2i$.\n$R = \\frac{3 + 3i}{2 + 2i} = \\frac{3(1 + i)}{2(1 + i)} = \\frac{3}{2}$.\nLe résultat $R = 1,5$ est un nombre réel.\nPar conséquent, les vecteurs $\\vec{AB}$ et $\\vec{AC}$ sont colinéaires, et les points $A, B, C$ sont alignés.",
+                    "extras": [
+                        "Exemple complet : Orthogonalité.\nSoit $A(0), B(1), C(i), D(2i)$. $\\frac{z_D - z_C}{z_B - z_A} = \\frac{i}{1} = i$. Les droites $(AB)$ et $(CD)$ sont perpendiculaires.",
+                        "Exemple complet : Parallélisme.\nSi $z_B - z_A = 1+i$ et $z_D - z_C = 2+2i$, alors $\\vec{CD} = 2\\vec{AB}$, les droites sont parallèles.",
+                        "Exemple complet : Quatrième point d'un parallélogramme $ABCD$.\nOn doit avoir $\\vec{AB} = \\vec{DC}$, soit $z_B - z_A = z_C - z_D$, donc $z_D = z_A + z_C - z_B$.",
+                        "Exemple complet : Alignement avec l'origine.\n$O, A, B$ sont alignés si $\\frac{z_B}{z_A}$ est réel.",
+                        "Exemple complet : Droite perpendiculaire à l'axe réel.\nSi $z_B - z_A$ est un imaginaire pur, alors $(AB)$ est verticale.",
+                        "Exemple complet : Milieu d'un segment.\nLe point $I$ milieu de $[AB]$ a pour affixe $z_I = \\frac{z_A + z_B}{2}$."
+                    ]
+                },
+                {
+                    "title": "Étape 4 : Ensembles de points et Cocyclicité",
+                    "content": "L'étude des ensembles de points consiste à identifier la figure géométrique formée par les points $M(z)$ vérifiant une condition donnée.\n1. Cercle : L'équation $|z - z_A| = r$ définit le cercle de centre $A$ et de rayon $r$.\n2. Médiatrice : L'équation $|z - z_A| = |z - z_B|$ définit la médiatrice du segment $[AB]$.\n3. Cocyclicité : Quatre points $A, B, C, D$ sont cocycliques (sur un même cercle) si le birapport $\\frac{z_C - z_A}{z_B - z_A} \\div \\frac{z_C - z_D}{z_B - z_D}$ est un nombre réel.\nAlternativement, ils sont cocycliques s'ils sont tous à la même distance d'un point centre $\\Omega$.",
+                    "example": "Déterminons l'ensemble des points $M(z)$ tels que $|z - 2i| = 3$ :\nCette équation est de la forme $|z - z_A| = r$.\nIci, $z_A = 2i$, ce qui correspond au point $A(0, 2)$.\nLe rayon est $r = 3$.\nL'ensemble des points est donc le cercle de centre $A(0, 2)$ et de rayon $3$.",
+                    "extras": [
+                        "Exemple complet : Médiatrice.\n$|z - 1| = |z - i|$. C'est la médiatrice du segment reliant $A(1)$ et $B(i)$, soit la droite d'équation $y = x$.",
+                        "Exemple complet : Ensemble défini par un argument.\n$arg(z - z_A) = \\frac{\\pi}{4}$. C'est la demi-droite d'origine $A$ faisant un angle de $45^\\circ$ avec l'horizontale.",
+                        "Exemple complet : Points sur le cercle unité.\nLa condition $|z| = 1$ définit le cercle trigonométrique de centre $O$ et de rayon $1$.",
+                        "Exemple complet : Cocyclicité par le centre.\nSi $|\\Omega A| = |\\Omega B| = |\\Omega C| = |\\Omega D| = 5$, alors les quatre points sont sur le cercle de centre $\\Omega$ et de rayon $5$.",
+                        "Exemple complet : Cercle de diamètre $[AB]$.\nLe centre est le milieu de $[AB]$ et le rayon est $AB/2$.",
+                        "Exemple complet : Birapport réel.\nSi $\\frac{(z_C-z_A)(z_B-z_D)}{(z_B-z_A)(z_C-z_D)}$ est réel, les points $A, B, C, D$ sont cocycliques ou alignés."
+                    ]
+                }
+            ]
+
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

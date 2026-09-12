@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI007_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Qu'est-ce que le monde occidental ?",
+      "réponses": {
+        "A": "Une alliance militaire entre les pays industrialisés non communistes.",
+        "B": "Les États situés à l’ouest du globe influencés par la religion chrétienne.",
+        "C": "L’ensemble des pays capitalistes à démocratie libérale, marqués par la civilisation européenne.",
+        "D": "Les nations postcoloniales alliées aux États-Unis et à l’OTAN."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la base fondamentale de la civilisation occidentale ?",
+      "réponses": {
+        "A": "L’unité ethnique et linguistique des peuples européens.",
+        "B": "La liberté politique, économique, sociale et individuelle.",
+        "C": "Le respect des traditions monarchiques et religieuses.",
+        "D": "La soumission de l’individu à la volonté de l’État souverain."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Citez trois exemples de libertés propres au monde occidental.",
+      "réponses": {
+        "A": "Liberté de s’habiller, de voyager, de commercer.",
+        "B": "Liberté d’expression, liberté de culte, liberté d’entreprendre.",
+        "C": "Liberté de protester, de grève, d’expansion territoriale.",
+        "D": "Liberté de refuser la loi, de consommer, d’exercer un pouvoir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelles déclarations symbolisent les droits fondamentaux dans l’Occident ?",
+      "réponses": {
+        "A": "Déclaration Universelle de 1948, Déclaration de 1848, Déclaration de 1789.",
+        "B": "Déclaration de Rome, Charte de Vienne, Déclaration africaine des peuples.",
+        "C": "Pacte de Varsovie, Déclaration d’Helsinki, Constitution de l’ONU.",
+        "D": "Charte du citoyen moderne, Loi universelle de 1815, Acte de Genève."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Qui est au centre des valeurs dans la civilisation occidentale ?",
+      "réponses": {
+        "A": "L’armée comme garant de l’unité nationale.",
+        "B": "L’individu, responsable et porteur de droits.",
+        "C": "La communauté ethnique et religieuse.",
+        "D": "Le marché comme régulateur unique des comportements sociaux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Comment appelle-t-on une société fondée sur l’autonomie personnelle ?",
+      "réponses": {
+        "A": "Une société égalitariste.",
+        "B": "Une société collectiviste.",
+        "C": "Une société individualiste.",
+        "D": "Une société corporatiste."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle définition correspond à l’individualisme occidental ?",
+      "réponses": {
+        "A": "L’individu s’efface devant le groupe, pour garantir l’unité.",
+        "B": "L’individu agit selon ses choix, libre et égal en droits.",
+        "C": "L’individu dépend entièrement de la communauté nationale.",
+        "D": "L’individu est réduit à un rôle économique dans la société."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Qu’est-ce qui distingue l’individu émancipé dans la société occidentale ?",
+      "réponses": {
+        "A": "Sa liberté religieuse garantie par l’État.",
+        "B": "Sa réussite économique et son pouvoir d’achat.",
+        "C": "Son appartenance à une classe noble ou politique.",
+        "D": "Son implication dans les rituels communautaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle religion a façonné les fondements culturels de l’Occident ?",
+      "réponses": {
+        "A": "Le judaïsme dominant depuis le Moyen Âge.",
+        "B": "L’islam à travers l’Andalousie médiévale.",
+        "C": "Le christianisme, bien qu’en retrait aujourd’hui.",
+        "D": "Le bouddhisme à travers l’influence orientale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi les valeurs chrétiennes influencent-elles l’Occident ?",
+      "réponses": {
+        "A": "Parce que la majorité de la population pratique encore intensément le culte.",
+        "B": "Parce que le christianisme a façonné la morale et les institutions sociales.",
+        "C": "Parce que l’Église dirige les États modernes.",
+        "D": "Parce que les papes détiennent un pouvoir suprême en Europe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Pourquoi la société occidentale est-elle qualifiée d’individualiste ?",
+      "réponses": {
+        "A": "Parce qu’elle garantit la liberté collective avant celle de l’individu.",
+        "B": "À cause du libéralisme qui place l’individu et ses intérêts au centre de la société.",
+        "C": "Parce que l’État oriente les décisions personnelles au nom du bien commun.",
+        "D": "Car la société valorise les liens communautaires et les traditions familiales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Citez les trois règles d’or dans une société capitaliste occidentale.",
+      "réponses": {
+        "A": "Redistribution, planification, stabilité sociale.",
+        "B": "Travail collectif, service public, sécurité économique.",
+        "C": "Libre entreprise, acceptation de la concurrence, recherche du profit.",
+        "D": "Coopération d’État, contrôle des prix, égalité des revenus."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est l’impact de l’individualisme sur la vie communautaire ?",
+      "réponses": {
+        "A": "Il renforce les solidarités locales et les fêtes religieuses.",
+        "B": "Il favorise les engagements politiques de groupe.",
+        "C": "Il réduit les liens sociaux et renforce les intérêts personnels.",
+        "D": "Il développe le volontariat au sein des communautés ethniques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quels héritages culturels structurent l’Occident ?",
+      "réponses": {
+        "A": "L’architecture islamique, la philosophie asiatique, les réformes africaines.",
+        "B": "La culture gréco-romaine, la Renaissance et la révolution industrielle.",
+        "C": "L’expansion maya, les rituels hindous et la spiritualité orientale.",
+        "D": "Le folklore tribal, les sagas nordiques, et les mythes modernes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Comment l’art et la culture sont-ils aujourd’hui diffusés dans l’Occident ?",
+      "réponses": {
+        "A": "Par les musées traditionnels exclusivement.",
+        "B": "Par les familles nobles et les universités classiques.",
+        "C": "Par les médias, la technologie et la mondialisation.",
+        "D": "Par l’Église et les académies culturelles nationales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle est la structure juridique fondamentale dans un État occidental ?",
+      "réponses": {
+        "A": "La loi coutumière transmise par tradition.",
+        "B": "La charte des chefs religieux et des notables.",
+        "C": " La décision du Parlement populaire souverain.",
+        "D": "La constitution, qui encadre le pouvoir de l’État"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel est le rôle exact d’une constitution ?",
+      "réponses": {
+        "A": "Fixer les salaires et les valeurs économiques de l’État.",
+        "B": "Définir la politique étrangère et militaire d’un pays.",
+        "C": "Distribuer les ressources naturelles de manière équitable.",
+        "D": "Déterminer la forme, l’organisation et le fonctionnement de l’État."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quels sont les trois pouvoirs définis dans une démocratie libérale ?",
+      "réponses": {
+        "A": "Le pouvoir militaire, moral et fiscal.",
+        "B": "Le pouvoir communautaire, ancestral et diplomatique.",
+        "C": "Le pouvoir exécutif, législatif et judiciaire.",
+        "D": "Le pouvoir économique, spirituel et coutumier."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Que garantit une démocratie moderne à ses citoyens ?",
+      "réponses": {
+        "A": "La domination de la majorité ethnique sur les autres.",
+        "B": "La limitation des libertés au profit de la stabilité.",
+        "C": "La liberté individuelle, l’égalité et le pluralisme politique.",
+        "D": "La priorité des valeurs religieuses sur les lois civiles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Que signifie concrètement la séparation des pouvoirs ?",
+      "réponses": {
+        "A": "Chaque citoyen choisit son pouvoir personnel dans l’État.",
+        "B": "Chaque fonction est exercée par un organe autonome pour éviter les abus.",
+        "C": "Tous les pouvoirs sont concentrés dans une seule autorité morale.",
+        "D": "Le pouvoir judiciaire est sous contrôle du chef d’État pour garantir la justice."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

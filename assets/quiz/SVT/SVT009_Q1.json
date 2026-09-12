@@ -1,0 +1,190 @@
+{
+  "id": "SVT009_Q1",
+  "title": "Quiz 1: La formation du grain de pollen",
+  "questions": {
+    "question n°1": {
+      "question": "Les cellules mères des grains de pollen, avant de subir leur division réductrice, possèdent une ploïdie caractérisée par :",
+      "réponses": {
+        "A": "Un ensemble haploïde (n) de chromosomes, sans duplication.",
+        "B": "Un ensemble diploïde (2n) de chromosomes.",
+        "C": "Un ensemble triploïde (3n) de chromosomes spécifiques.",
+        "D": "Un ensemble tétraploïde (4n) de chromosomes diversifiés."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Après la méiose des cellules mères des grains de pollen, les quatre cellules haploïdes (n) qui en résultent sont spécifiquement appelées :",
+      "réponses": {
+        "A": "Des mégaspores ou des macrospores.",
+        "B": "Des zygotes ou des embryons primaires.",
+        "C": "Des oosphères ou des gamètes femelles.",
+        "D": "Des microspores ou des tétraspores."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Combien de noyaux à n chromosomes sont contenus dans un grain de pollen après que le noyau de chaque microspore ait subi une mitose ?",
+      "réponses": {
+        "A": "Un seul noyau, résultant d'une division unique.",
+        "B": "Deux noyaux, issus d'une division cellulaire.",
+        "C": "Trois noyaux, formant une structure complexe.",
+        "D": "Quatre noyaux, indiquant une division multiple."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Au centre d'un grain de pollen, on trouve un gros noyau qui est désigné sous le terme de :",
+      "réponses": {
+        "A": "Noyau reproducteur, responsable de la descendance.",
+        "B": "Noyau génératif, initiateur de la croissance.",
+        "C": "Noyau végétatif.",
+        "D": "Noyau germinatif, essentiel à la germination."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "La membrane externe, perforée, qui entoure le grain de pollen est appelée :",
+      "réponses": {
+        "A": "L'intine, assurant la continuité interne.",
+        "B": "Le périsperme, membrane protectrice externe.",
+        "C": "L'exine.",
+        "D": "Le tégument, enveloppe protectrice."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Le processus par lequel l'assise mécanique de l'anthère s'incurve vers l'extérieur à maturité, provoquant la déchirure et la libération des grains de pollen, est nommé :",
+      "réponses": {
+        "A": "La pollinisation anémophile par le vent.",
+        "B": "La germination des grains de pollen.",
+        "C": "La fécondation croisée entre différentes plantes.",
+        "D": "La déhiscence de l'anthère."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Le noyau reproducteur, qui est plus petit et situé à la périphérie du grain de pollen, se trouve spécifiquement dans :",
+      "réponses": {
+        "A": "Une grande cellule appelée la cellule mère.",
+        "B": "Une petite cellule haploïde isolée.",
+        "C": "La paroi interne de la microspore.",
+        "D": "Une cellule reproductrice ou génératrice."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "La membrane interne du grain de pollen, caractérisée par sa continuité, est connue sous le nom de :",
+      "réponses": {
+        "A": "Exine, avec des perforations distinctives.",
+        "B": "Périsperme, pour sa fonction de protection.",
+        "C": "Intine.",
+        "D": "Tégument, pour son rôle d'enveloppe."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : Les cellules mères des grains de pollen sont haploïdes (n) avant de subir la méiose.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : La méiose des cellules mères des grains de pollen donne naissance à quatre microspores haploïdes.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le noyau de chaque microspore subit une mitose pour former un seul noyau diploïde à l'intérieur du grain de pollen.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : Le grain de pollen est entouré de deux membranes distinctes : l'exine et l'intine.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : L'exine est la membrane interne continue du grain de pollen.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : La déhiscence de l'anthère est le processus de libération des grains de pollen à maturité.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Le noyau végétatif est un gros noyau situé au centre du grain de pollen.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Le noyau reproducteur se trouve dans une cellule reproductrice qui est incluse dans la cellule végétative.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Les cellules mères des grains de pollen sont .....A..... (2n). Elles subissent une .....B....., ce qui donne naissance à 4 cellules .....C..... (n) appelées microspores ou tétraspores.",
+      "réponses": {
+        "A": "A: haploïdes, B: mitose, C: diploïdes",
+        "B": "A: diploïdes, B: méiose, C: haploïdes",
+        "C": "A: triploïdes, B: fécondation, C: haploïdes",
+        "D": "A: tétraploïdes, B: division, C: diploïdes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Le noyau de chaque microspore subit une .....A....., ce qui donne 2 noyaux à n chromosomes contenus dans une même cellule : le .....B...... Au centre un gros noyau appelé .....C..... et à la périphérie un noyau plus petit, le noyau reproducteur.",
+      "réponses": {
+        "A": "A: méiose, B: tétraspore, C: noyau génératif",
+        "B": "A: fécondation, B: ovule, C: noyau germinatif",
+        "C": "A: mitose, B: grain de pollen, C: noyau végétatif",
+        "D": "A: déhiscence, B: microspore, C: noyau primaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Le grain de pollen s’entoure de 2 membranes : Une membrane externe perforée appelée .....A..... et Une membrane interne continue appelée .....B...... À maturité l’assise mécanique tend à s’incurver vers l’extérieur en provoquant la déchirure de l'.....C......",
+      "réponses": {
+        "A": "A: intine, B: exine, C: oosphère",
+        "B": "A: exine, B: intine, C: anthère",
+        "C": "A: périsperme, B: tégument, C: étamine",
+        "D": "A: endosperme, B: péricarpe, C: stigmate"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La déchirure de l'anthère à maturité de l'assise mécanique est appelée la .....A..... de l'anthère, ce qui a pour conséquence de .....B..... les .....C......",
+      "réponses": {
+        "A": "A: germination, B: retenir, C: ovules",
+        "B": "A: pollinisation, B: fertiliser, C: fleurs",
+        "C": "A: déhiscence, B: libérer, C: grains de pollen",
+        "D": "A: maturation, B: développer, C: microspores"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

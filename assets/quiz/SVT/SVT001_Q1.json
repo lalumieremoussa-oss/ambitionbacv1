@@ -1,0 +1,288 @@
+{
+  "title": "Quiz 1 : Le conditionnement de Pavlov",
+  "id": "SVT001_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Les expériences initiées par Pavlov se font en plusieurs phases. À la 1ère phase, on fait écouter un son de métronome au chien.",
+      "réponses": {
+        "A": "Il salive.",
+        "B": "Il ne salive pas."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "À la 2ème phase, on donne un morceau de viande au chien.",
+      "réponses": {
+        "A": "Il salive.",
+        "B": "Il ne salive pas."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "À la 3ème phase, on fait écouter un son de métronome au chien puis on lui donne un morceau de viande. Cette opération est répétée plusieurs fois. À chaque essai :",
+      "réponses": {
+        "A": "Il salive.",
+        "B": "Il ne salive pas."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "À la 4ème phase, on fait écouter seulement le son du métronome au chien.",
+      "réponses": {
+        "A": "Il salive.",
+        "B": "Il ne salive pas."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "À la 1ère phase, le chien ne salive pas en écoutant le son du métronome car le son est :",
+      "réponses": {
+        "A": "Inefficace sur les glandes salivaires.",
+        "B": "Neutre sur les glandes salivaires.",
+        "C": "N’a aucune action sur les glandes salivaires.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Le son est donc un stimulus neutre.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "À la 2ème phase, le chien salive car :",
+      "réponses": {
+        "A": "Le morceau de viande agit sur les glandes salivaires.",
+        "B": "La viande provoque de l’appétit chez le chien.",
+        "C": "La viande est donc un stimulus absolu.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Un stimulus absolu est aussi appelé stimulus efficace.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Un stimulus absolu ou efficace est différent d’un stimulus inconditionnel.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "À la 3ème phase, l’association des deux stimuli (son + viande) facilite l’apprentissage. L’animal est hésitant au départ et prompt par la suite :",
+      "réponses": {
+        "A": "C’est la phase d’apprentissage.",
+        "B": "C’est le conditionnement.",
+        "C": "Les réponses A et B sont correctes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "À la 4ème phase, le son seul provoque la salivation :",
+      "réponses": {
+        "A": "À cause de la viande qui est efficace sur sa glande salivaire.",
+        "B": "Le son est devenu un stimulus inconditionnel.",
+        "C": "Le chien a parfaitement intégré ce son.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Le son devient alors un stimulus conditionnel et la réaction de salivation obtenue est un réflexe conditionnel ou réflexe acquis.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "En conclusion, un réflexe conditionnel ou réflexe [...1...] est une réaction déclenchée par un [...2...] qui n’a pas habituellement d’action sur la fonction considérée. Il se met en place à la suite d’un [...3...].",
+      "réponses": {
+        "A": "1- inné, 2- stimuli, 3- apprentissage.",
+        "B": "1- acquis, 2- stimuli, 3- apprentissage.",
+        "C": "1- inconditionnel, 2- stimulus, 3- apprentissage.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Un chien salive abondamment à la vue d’un morceau de viande. La viande est un stimulus...1... dans le réflexe de salivation. Ce réflexe est ...2...",
+      "réponses": {
+        "A": "1- efficace, 2- conditionnel.",
+        "B": "1- inefficace, 2- inné.",
+        "C": "1- absolu, 2- inné.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Lorsque le chien entend le son d’un métronome, il dresse les oreilles...3... Le son du métronome est un stimulus...4... dans le réflexe de salivation.",
+      "réponses": {
+        "A": "3= sans saliver, 4= neutre.",
+        "B": "3= sans réagir, 4= inefficace.",
+        "C": "Les réponses A et B sont correctes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Si on ...5... ces deux stimuli, en faisant précéder le don de viande par le son du métronome, à la longue, le son du métronome...6... déclenche la salivation : ce réflexe est...7... Le son du métronome est devenu ...8....",
+      "réponses": {
+        "A": "5= associe, 6= seul, 7= réflexe acquis, 8= stimulus inconditionnel.",
+        "B": "5= associe, 6= seul, 7= réflexe conditionnel, 8= stimulus efficace.",
+        "C": "5= associe, 6= seul, 7= réflexe acquis, 8= stimulus conditionnel.",
+        "D": "Les réponses A, B et C sont toutes correctes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel type de stimulus ne déclenche aucune réponse dans un réflexe spécifique étudié ?",
+      "réponses": {
+        "A": "Un excitant inné qui entraîne toujours une réaction automatique.",
+        "B": "Un excitant associé à une réponse acquise à travers un apprentissage prolongé.",
+        "C": "Un excitant inefficace, n’entraînant aucune réaction dans un réflexe particulier.",
+        "D": "Un excitant capable d’engendrer immédiatement un mouvement volontaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Comment appelle-t-on un stimulus qui provoque une réaction involontaire et stéréotypée ?",
+      "réponses": {
+        "A": "Un excitant conditionnel.",
+        "B": "Un excitant absolu.",
+        "C": "Un excitant inné.",
+        "D": "Un excitant acquis."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Que provoque un stimulus neutre avant tout conditionnement ?",
+      "réponses": {
+        "A": "Il déclenche immédiatement un réflexe de protection.",
+        "B": "Il ne déclenche aucune réponse spécifique.",
+        "C": "Il déclenche une réaction conditionnelle liée à une habitude antérieure.",
+        "D": "Il produit une réaction automatique instinctive."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "À la 1ère phase, le son du métronome ne provoque pas la salivation. Interprétation :",
+      "réponses": {
+        "A": "Le son est un stimulus inconditionnel.",
+        "B": "Le son est un stimulus conditionnel.",
+        "C": "Le son est un stimulus neutre.",
+        "D": "Le son provoque un réflexe inné."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "À la 2ème phase, la viande provoque la salivation. Elle est donc :",
+      "réponses": {
+        "A": "Un stimulus efficace.",
+        "B": "Un stimulus absolu.",
+        "C": "Un excitant inconditionnel.",
+        "D": "Toutes ces propositions sont justes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Que peut-on dire d’un réflexe inné ?",
+      "réponses": {
+        "A": "Il dépend entièrement d’un apprentissage.",
+        "B": "Il s’installe progressivement grâce à la répétition.",
+        "C": "Il est déclenché naturellement par un excitant absolu, sans apprentissage.",
+        "D": "Il est une réponse aléatoire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "À la 2ème phase, le réflexe établi est :",
+      "réponses": {
+        "A": "Un réflexe acquis.",
+        "B": "Un réflexe conditionnel.",
+        "C": "Un réflexe inné.",
+        "D": "Toutes ces propositions sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "À la 3ème phase, on répète plusieurs fois son + viande. L’animal salive à cause de la viande :",
+      "réponses": {
+        "A": "C’est une phase de disparition du réflexe.",
+        "B": "C’est la phase d’apprentissage.",
+        "C": "Le son devient un stimulus neutre.",
+        "D": "Toutes ces propositions sont justes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Que devient un stimulus neutre après un conditionnement réussi ?",
+      "réponses": {
+        "A": "Il conserve sa neutralité.",
+        "B": "Il agit comme un excitant inefficace.",
+        "C": "Il devient un stimulus acquis déclenchant une réponse réflexe.",
+        "D": "Il se transforme en excitant passif."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "À la 4ème phase, le son seul provoque la salivation. Interprétation :",
+      "réponses": {
+        "A": "Le son devient un stimulus conditionnel.",
+        "B": "La réaction obtenue est un réflexe acquis.",
+        "C": "La réaction obtenue est un réflexe conditionnel.",
+        "D": "Toutes ces propositions sont justes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°27": {
+      "question": "Qu’est-ce qu’un réflexe conditionnel ?",
+      "réponses": {
+        "A": "Une réaction spontanée déclenchée par un stimulus inné.",
+        "B": "Une réaction apprise dépendant d’une association répétée entre deux stimuli.",
+        "C": "Une réponse héréditaire transmise.",
+        "D": "Une réaction anarchique provoquée par un stimulus anormal."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Le chien ne salive pas en entendant le son du métronome au début.",
+      "réponses": {
+        "A": "Le son est un stimulus inconditionnel.",
+        "B": "Le son est inefficace sur les glandes salivaires.",
+        "C": "Le chien est malade.",
+        "D": "Le chien est déjà conditionné."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "L’opération d’écouter le son puis donner la viande est répétée plusieurs fois.",
+      "réponses": {
+        "A": "Cela renforce le stimulus neutre.",
+        "B": "Cela provoque l’extinction du réflexe.",
+        "C": "Cela facilite l’apprentissage et l’intégration du son.",
+        "D": "Cela n’a aucun impact sur le comportement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Que faut-il pour maintenir un réflexe conditionnel dans le temps ?",
+      "réponses": {
+        "A": "Une extinction rapide du réflexe.",
+        "B": "Un renforcement fréquent par le stimulus neutre seul.",
+        "C": "Une répétition régulière de l’association entre stimulus neutre et stimulus absolu.",
+        "D": "Un arrêt total de l’apprentissage."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE CHIMIE</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+
+        const data = [
+            {
+                "q": "Un acide carboxylique a pour formule générale $R-COOH$. Quelle est sa formule brute ?",
+                "img": "",
+                "options": { "A": "$C_nH_{2n}O$", "B": "$C_nH_{2n}O_2$", "C": "$C_nH_{2n+2}O$", "D": "$C_nH_{2n-2}O_2$" },
+                "r": "B"
+            },
+            {
+                "q": "La masse molaire d’un acide carboxylique est donnée par $M = 14n + 32$. Pour $n=3$, $M$ vaut :",
+                "img": "",
+                "options": { "A": "74 g/mol", "B": "60 g/mol", "C": "88 g/mol", "D": "46 g/mol" },
+                "r": "A"
+            },
+            {
+                "q": "Le nom de $CH_3-COOH$ est :",
+                "img": "",
+                "options": { "A": "acide méthanoïque", "B": "acide éthanoïque", "C": "acide propanoïque", "D": "éthanol" },
+                "r": "B"
+            },
+            {
+                "q": "La réaction $R-COOH + H_2O \\rightarrow RCOO^- + H_3O^+$ montre que l’acide est :",
+                "img": "",
+                "options": { "A": "fort", "B": "faible", "C": "neutre", "D": "basique" },
+                "r": "B"
+            },
+            {
+                "q": "La fonction chimique d’un acide carboxylique est :",
+                "img": "",
+                "options": { "A": "-OH", "B": "-CHO", "C": "-COOH", "D": "-COO-" },
+                "r": "C"
+            },
+            {
+                "q": "Pour $n=4$, la formule brute est :",
+                "img": "",
+                "options": { "A": "$C_4H_8O_2$", "B": "$C_4H_{10}O$", "C": "$C_4H_6O_2$", "D": "$C_4H_8O$" },
+                "r": "A"
+            },
+            {
+                "q": "L’acide carboxylique réagit avec un alcool pour donner :",
+                "img": "",
+                "options": { "A": "un amide", "B": "un ester", "C": "un alcène", "D": "un chlorure" },
+                "r": "B"
+            },
+            {
+                "q": "L’équation d’estérification est : $R-COOH + R'-OH \\rightarrow ?$",
+                "img": "",
+                "options": { "A": "$R-COO-R' + H_2O$", "B": "$R-CHO$", "C": "$R-NH_2$", "D": "$R-Cl$" },
+                "r": "A"
+            },
+            {
+                "q": "Cette réaction est :",
+                "img": "",
+                "options": { "A": "rapide et totale", "B": "lente et limitée", "C": "explosive", "D": "impossible" },
+                "r": "B"
+            },
+            {
+                "q": "La réaction inverse de l’estérification est :",
+                "img": "",
+                "options": { "A": "hydratation", "B": "hydrolyse", "C": "oxydation", "D": "réduction" },
+                "r": "B"
+            },
+            {
+                "q": "Le groupe $-COOH$ est :",
+                "img": "",
+                "options": { "A": "acide", "B": "basique", "C": "neutre", "D": "inerte" },
+                "r": "A"
+            },
+            {
+                "q": "Un acide avec $n=2$ a pour masse molaire :",
+                "img": "",
+                "options": { "A": "60 g/mol", "B": "74 g/mol", "C": "46 g/mol", "D": "88 g/mol" },
+                "r": "A"
+            },
+            {
+                "q": "Le nom général est :",
+                "img": "",
+                "options": { "A": "alcanoate", "B": "alcène", "C": "acide alcanoïque", "D": "amide" },
+                "r": "C"
+            },
+            {
+                "q": "Dans $RCOO^-$, l’ion est :",
+                "img": "",
+                "options": { "A": "cation", "B": "anion", "C": "neutre", "D": "radical" },
+                "r": "B"
+            },
+            {
+                "q": "Un acide carboxylique libère :",
+                "img": "",
+                "options": { "A": "$OH^-$", "B": "$H^+$", "C": "$Cl^-$", "D": "$Na^+$" },
+                "r": "B"
+            }
+        ];
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

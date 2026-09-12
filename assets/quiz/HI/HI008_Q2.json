@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI008_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Par quels moyens le monde noir entre-t-il en contact avec l’extérieur ?",
+      "réponses": {
+        "A": "Par la migration forcée et l’exploitation des ressources agricoles.",
+        "B": "Par les guerres ethniques, l’islamisation forcée et le commerce des esclaves.",
+        "C": "Par les échanges commerciaux, l’expansion musulmane et la colonisation européenne.",
+        "D": "Par la conquête de l’Europe et la diffusion des traditions africaines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle de l’islam dans les mutations sociales en Afrique ?",
+      "réponses": {
+        "A": "Il remplace totalement les pratiques ancestrales.",
+        "B": "Il transforme profondément la culture africaine dans toutes ses dimensions.",
+        "C": "Il modifie certaines pratiques (vêtements, justice) tout en tolérant des traditions.",
+        "D": "Il élimine la langue maternelle au profit de l’arabe exclusivement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel a été l’impact global de la colonisation européenne ?",
+      "réponses": {
+        "A": "Une simple mise en relation des peuples africains avec le reste du monde.",
+        "B": "Un renforcement des traditions locales par l’introduction de nouvelles coutumes.",
+        "C": "Une diffusion des technologies africaines vers l’Europe.",
+        "D": "Des transformations profondes : langue, religion, administration, école, société."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelles sont les autres causes majeures des mutations culturelles africaines ?",
+      "réponses": {
+        "A": "L’agriculture intensive et l’élevage mécanisé.",
+        "B": "La guerre froide, le tourisme africain, les projets pétroliers.",
+        "C": "La mondialisation, les médias, l’urbanisation, les migrations, les conflits.",
+        "D": "La désertification, la piraterie maritime et l’auto-colonisation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "D’où vient l’école imposée à l’Afrique coloniale ?",
+      "réponses": {
+        "A": "Des puissances coloniales désireuses de former des auxiliaires administratifs.",
+        "B": "Des sociétés savantes africaines souhaitant codifier la tradition.",
+        "C": "Des chefs traditionnels qui l’ont intégrée à l’initiation.",
+        "D": "De l’influence religieuse locale visant la promotion des savoirs animistes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est aujourd’hui la fonction principale de l’école en Afrique ?",
+      "réponses": {
+        "A": "Produire du savoir et former les agents des États modernes.",
+        "B": "Transmettre la tradition orale des ancêtres.",
+        "C": "Former des missionnaires pour rétablir les cultes anciens.",
+        "D": "Restaurer les chefferies traditionnelles dans les villes modernes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi l’école est-elle un puissant facteur de transformation culturelle ?",
+      "réponses": {
+        "A": "Parce qu’elle enseigne uniquement les langues africaines.",
+        "B": "Parce qu’elle prolonge fidèlement les rites d’initiation.",
+        "C": "Parce qu’elle remplace les anciens modes de transmission par des savoirs occidentaux.",
+        "D": "Parce qu’elle interdit toute référence aux traditions locales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est l’effet principal de la scolarisation sur les langues africaines ?",
+      "réponses": {
+        "A": "Elle renforce leur usage dans les institutions officielles.",
+        "B": "Elle les consacre comme langue d’enseignement exclusif.",
+        "C": "Elle permet leur reconnaissance par les États occidentaux.",
+        "D": "Elle les marginalise au profit des langues coloniales."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle influence l’école a-t-elle eue sur les religions traditionnelles ?",
+      "réponses": {
+        "A": "Elle leur donne une place centrale dans l’enseignement spirituel.",
+        "B": "Elle les remplace par la magie moderne.",
+        "C": "Elle les marginalise en favorisant les religions monothéistes.",
+        "D": "Elle les modernise pour les adapter au système scolaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi parle-t-on de mutation rapide des sociétés africaines ?",
+      "réponses": {
+        "A": "Parce qu’elles sont concentrées dans un temps court et profondément bouleversantes.",
+        "B": "Parce que ces mutations sont planifiées sur plusieurs siècles.",
+        "C": "Parce que les changements concernent surtout les zones rurales isolées.",
+        "D": "Parce qu’elles se limitent aux seules traditions agricoles."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel rôle a joué la colonisation dans l’évolution des institutions africaines ?",
+      "réponses": {
+        "A": "Elle a renforcé les chefferies traditionnelles dans toutes les régions.",
+        "B": "Elle a imposé de nouvelles institutions, bouleversant les structures locales.",
+        "C": "Elle a décentralisé le pouvoir en faveur des anciens.",
+        "D": "Elle a rétabli les rites sacrés dans l’administration moderne."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment l’islam a-t-il respecté partiellement les traditions africaines ?",
+      "réponses": {
+        "A": "En supprimant toute coutume non écrite.",
+        "B": "En tolérant certaines pratiques tout en introduisant de nouvelles normes.",
+        "C": "En fusionnant entièrement avec les cultes animistes.",
+        "D": "En imposant une pratique identique à celle des pays arabes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel rôle l’école coloniale a-t-elle assigné aux Africains ?",
+      "réponses": {
+        "A": "Les transformer en enseignants d’initiation religieuse.",
+        "B": "En faire des auxiliaires administratifs formés aux valeurs occidentales.",
+        "C": "Leur permettre d’exporter leurs savoirs dans le monde.",
+        "D": "Maintenir les traditions locales dans une perspective scientifique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi l’école marginalise-t-elle les religions traditionnelles ?",
+      "réponses": {
+        "A": "Parce qu’elle ne reconnaît que les fêtes coutumières.",
+        "B": "Parce qu’elle favorise les croyances anciennes dans les programmes.",
+        "C": "Parce qu’elle considère toutes les croyances comme égales.",
+        "D": "Parce qu’elle considère l’animisme comme arriéré et le remplace par les religions révélées."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle conséquence la mondialisation a-t-elle sur les cultures locales ?",
+      "réponses": {
+        "A": "Une réaffirmation des pratiques coutumières.",
+        "B": "Une perte progressive des repères culturels traditionnels.",
+        "C": "Une redynamisation des cérémonies rurales.",
+        "D": "Une adaptation parfaite des cultures aux normes occidentales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment les médias contribuent-ils à transformer la société africaine ?",
+      "réponses": {
+        "A": "En véhiculant des modèles étrangers et en influençant les comportements.",
+        "B": "En promouvant les figures ancestrales et les cérémonies d’initiation.",
+        "C": "En diffusant les contes traditionnels dans toutes les langues locales.",
+        "D": "En traduisant les savoirs modernes en dialectes anciens."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Pourquoi les guerres contribuent-elles aussi aux mutations sociales ?",
+      "réponses": {
+        "A": "Parce qu’elles rétablissent les anciens empires africains.",
+        "B": "Parce qu’elles favorisent la solidarité interethnique.",
+        "C": "Parce qu’elles détruisent les structures traditionnelles et forcent les exodes.",
+        "D": "Parce qu’elles imposent la chefferie coutumière comme solution politique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle est la fonction des langues coloniales aujourd’hui en Afrique ?",
+      "réponses": {
+        "A": "Elles servent de langues domestiques dans toutes les familles rurales.",
+        "B": "Elles sont utilisées dans les rituels traditionnels.",
+        "C": "Elles sont les langues officielles de l’administration et de l’enseignement.",
+        "D": "Elles sont limitées à l’usage religieux et coutumier."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Pourquoi parle-t-on d’acculturation dans ce contexte ?",
+      "réponses": {
+        "A": "Parce que les peuples refusent toute évolution moderne.",
+        "B": "Parce qu’on remplace une culture par une autre sous influence extérieure.",
+        "C": "Parce que les cultures locales deviennent plus authentiques.",
+        "D": "Parce que l’éducation traditionnelle devient plus scientifique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "En quoi les mutations contemporaines affectent-elles les comportements ?",
+      "réponses": {
+        "A": "Elles favorisent la pratique exclusive de l’agriculture traditionnelle.",
+        "B": "Elles renforcent le respect strict des anciens rites.",
+        "C": "Elles modifient les valeurs, les pratiques et les modes de vie de façon accélérée.",
+        "D": "Elles rendent les sociétés plus fermées à l’innovation."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

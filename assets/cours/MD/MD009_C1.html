@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+
+            [
+                {
+                    "title": "Étape 1 : Équations différentielles du premier ordre du type $y' + ay = b$",
+                    "content": "Une équation différentielle du premier ordre est une relation entre une fonction inconnue $y$, sa dérivée $y'$ et éventuellement d'autres fonctions.\n\n**1. Cas homogène : $y' + ay = 0$**\nLes solutions sur $\\mathbb{R}$ de l'équation $y' + ay = 0$ (où $a$ est un réel) sont les fonctions définies par :\n$x \\longmapsto ke^{-ax}$, avec $k \\in \\mathbb{R}$.\n\n**2. Cas général : $y' + ay = b$**\nLes solutions sur $\\mathbb{R}$ de l'équation $y' + ay = b$ (où $a \\neq 0$ et $b$ sont des réels) sont les fonctions définies par :\n$x \\longmapsto ke^{-ax} + \\frac{b}{a}$, avec $k \\in \\mathbb{R}$.\n\n**3. Condition initiale**\nPour tout couple $(x_0 ; y_0)$, il existe une unique solution $f$ telle que $f(x_0) = y_0$. Cela permet de déterminer la valeur précise de la constante $k$.",
+                    "example": "Résolvons l'équation $(E) : y' - 3y = 7$ avec la condition initiale $f(0) = 1$.\n\n**Étape 1 : Identification des coefficients**\nL'équation est de la forme $y' + ay = b$ avec $a = -3$ et $b = 7$.\n\n**Étape 2 : Formule de la solution générale**\nLa solution générale est donnée par $f(x) = ke^{-ax} + \\frac{b}{a}$.\nIci, $f(x) = ke^{-(-3)x} + \\frac{7}{-3}$\n$f(x) = ke^{3x} - \\frac{7}{3}$.\n\n**Étape 3 : Utilisation de la condition initiale**\nOn sait que $f(0) = 1$, donc :\n$ke^{3(0)} - \\frac{7}{3} = 1$\n$k \\times 1 - \\frac{7}{3} = 1$\n$k = 1 + \\frac{7}{3} = \\frac{3+7}{3} = \\frac{10}{3}$.\n\n**Conclusion :**\nLa solution unique est $f(x) = \\frac{10}{3}e^{3x} - \\frac{7}{3}$.",
+                    "extras": [
+                        "Exemple 1 : Résoudre $y' + 2y = 0$. \nIci $a = 2$, les solutions sont $x \\longmapsto ke^{-2x}, k \\in \\mathbb{R}$.",
+                        "Exemple 2 : Résoudre $7y' - 3y = 0$. \nOn réécrit : $y' - \\frac{3}{7}y = 0$. \n$a = -3/7$, donc les solutions sont $x \\longmapsto ke^{\\frac{3}{7}x}, k \\in \\mathbb{R}$.",
+                        "Exemple 3 : Résoudre $y' + 2y = 6$. \n$a = 2, b = 6$. Solution : $x \\longmapsto ke^{-2x} + \\frac{6}{2} = ke^{-2x} + 3$.",
+                        "Exemple 4 : Résoudre $y' - y = 5$. \n$a = -1, b = 5$. Solution : $x \\longmapsto ke^{x} + \\frac{5}{-1} = ke^{x} - 5$.",
+                        "Exemple 5 : Résoudre $2y' + 4y = 8$ avec $f(0) = 0$. \nOn divise par 2 : $y' + 2y = 4$. \n$f(x) = ke^{-2x} + 2$. \n$f(0) = k + 2 = 0 \\implies k = -2$. \nSolution : $f(x) = -2e^{-2x} + 2$.",
+                        "Exemple 6 : Résoudre $y' + 5y = 10$. \n$a = 5, b = 10$. Solution : $x \\longmapsto ke^{-5x} + 2$.",
+                        "Exemple 7 : Résoudre $3y' = y$. \n$y' - \\frac{1}{3}y = 0$. \nSolution : $x \\longmapsto ke^{\\frac{1}{3}x}$.",
+                        "Exemple 8 : Déterminer $f$ tel que $f' = -3f$ et $f(0) = 2$. \n$y' + 3y = 0$. $f(x) = ke^{-3x}$. \n$f(0) = k = 2$. \nSolution : $f(x) = 2e^{-3x}$.",
+                        "Exemple 9 : Résoudre $y' + \\pi y = \\pi$. \n$a = \\pi, b = \\pi$. Solution : $x \\longmapsto ke^{-\\pi x} + 1$.",
+                        "Exemple 10 : Résoudre $y' - 2y = -4$ avec $f(1) = 2$. \n$f(x) = ke^{2x} + 2$. \n$f(1) = ke^2 + 2 = 2 \\implies ke^2 = 0 \\implies k = 0$. \nSolution : $f(x) = 2$ (fonction constante)."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Équations différentielles du second ordre du type $y'' + \u03c9^2y = 0$ (\u03c9 > 0)",
+                    "content": "Ces équations modélisent des phénomènes oscillatoires (comme un ressort ou un circuit électrique).\n\n**1. Propriété**\nLes solutions sur $\\mathbb{R}$ de l'équation différentielle $y'' + \\omega^2y = 0$ (où $\\omega > 0$) sont les fonctions de la forme :\n$x \\longmapsto a \\cos(\\omega x) + b \\sin(\\omega x)$, où $a$ et $b$ sont des constantes réelles.\n\n**2. Détermination des constantes**\nPour fixer $a$ et $b$, on impose généralement deux conditions initiales : la valeur de la fonction $f(x_0)$ et la valeur de sa dérivée $f'(x_0)$.",
+                    "example": "Résolvons l'équation $(E) : y'' + 9y = 0$ avec $f(0) = 1$ et $f'(0) = 0$.\n\n**Étape 1 : Identification de $\\omega$**\nL'équation est de la forme $y'' + \\omega^2y = 0$ avec $\\omega^2 = 9$, d'où $\\omega = 3$.\n\n**Étape 2 : Formule de la solution générale**\nLes solutions sont de la forme $f(x) = a \\cos(3x) + b \\sin(3x)$.\n\n**Étape 3 : Calcul de la dérivée**\n$f'(x) = -3a \\sin(3x) + 3b \\cos(3x)$.\n\n**Étape 4 : Utilisation des conditions initiales**\n$f(0) = a \\cos(0) + b \\sin(0) = a \\times 1 + 0 = a$. Or $f(0) = 1$, donc $a = 1$.\n$f'(0) = -3a \\sin(0) + 3b \\cos(0) = 0 + 3b \\times 1 = 3b$. Or $f'(0) = 0$, donc $3b = 0$, d'où $b = 0$.\n\n**Conclusion :**\nLa solution unique est $f(x) = \\cos(3x)$.",
+                    "extras": [
+                        "Exemple 1 : Résoudre $y'' + 4y = 0$. \n$\\omega^2 = 4 \\implies \\omega = 2$. Solutions : $x \\longmapsto a\\cos(2x) + b\\sin(2x)$.",
+                        "Exemple 2 : Résoudre $y'' + y = 0$. \n$\\omega^2 = 1 \\implies \\omega = 1$. Solutions : $x \\longmapsto a\\cos(x) + b\\sin(x)$.",
+                        "Exemple 3 : Résoudre $y'' + 25y = 0$. \n$\\omega^2 = 25 \\implies \\omega = 5$. Solutions : $x \\longmapsto a\\cos(5x) + b\\sin(5x)$.",
+                        "Exemple 4 : Résoudre $y'' + 2y = 0$. \n$\\omega^2 = 2 \\implies \\omega = \\sqrt{2}$. Solutions : $x \\longmapsto a\\cos(\\sqrt{2}x) + b\\sin(\\sqrt{2}x)$.",
+                        "Exemple 5 : Résoudre $4y'' + 16y = 0$. \nOn divise par 4 : $y'' + 4y = 0$. Solutions : $x \\longmapsto a\\cos(2x) + b\\sin(2x)$.",
+                        "Exemple 6 : Déterminer $f$ tel que $f'' + 4f = 0$ et $f(0) = 0, f'(0) = 2$. \n$f(x) = a\\cos(2x) + b\\sin(2x)$. $f(0)=a=0$. $f'(0)=2b=2 \\implies b=1$. Solution : $f(x) = \\sin(2x)$.",
+                        "Exemple 7 : Résoudre $y'' + \\pi^2 y = 0$. \n$\\omega = \\pi$. Solutions : $x \\longmapsto a\\cos(\\pi x) + b\\sin(\\pi x)$.",
+                        "Exemple 8 : Résoudre $y'' + 0,25y = 0$. \n$\\omega = 0,5$. Solutions : $x \\longmapsto a\\cos(0,5x) + b\\sin(0,5x)$.",
+                        "Exemple 9 : Résoudre $y'' + 100y = 0$. \n$\\omega = 10$. Solutions : $x \\longmapsto a\\cos(10x) + b\\sin(10x)$.",
+                        "Exemple 10 : Résoudre $y'' + 3y = 0$. \n$\\omega = \\sqrt{3}$. Solutions : $x \\longmapsto a\\cos(\\sqrt{3}x) + b\\sin(\\sqrt{3}x)$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Équations différentielles du second ordre du type $y'' - \u03c9^2y = 0$ (\u03c9 > 0)",
+                    "content": "Ces équations, contrairement au cas précédent, font intervenir des fonctions exponentielles car le signe devant le terme $y$ est négatif.\n\n**1. Propriété**\nLes solutions sur $\\mathbb{R}$ de l'équation différentielle $y'' - \\omega^2y = 0$ (où $\\omega > 0$) sont les fonctions de la forme :\n$x \\longmapsto a e^{\\omega x} + b e^{-\\omega x}$, où $a$ et $b$ sont des réelles.\n\n**2. Cas particulier : $y'' = 0$**\nSi $m=0$, les solutions sont les fonctions affines : $x \\longmapsto ax + b$.",
+                    "example": "Résolvons l'équation $(E) : y'' - 4y = 0$ avec $f(0) = 2$ et $f'(0) = 0$.\n\n**Étape 1 : Identification de $\\omega$**\nOn a $\\omega^2 = 4$, donc $\\omega = 2$.\n\n**Étape 2 : Formule de la solution générale**\nLes solutions sont de la forme $f(x) = a e^{2x} + b e^{-2x}$.\n\n**Étape 3 : Calcul de la dérivée**\n$f'(x) = 2a e^{2x} - 2b e^{-2x}$.\n\n**Étape 4 : Système pour $a$ et $b$**\n- Condition $f(0) = 2$ : $a e^0 + b e^0 = 2 \\implies a + b = 2$.\n- Condition $f'(0) = 0$ : $2a e^0 - 2b e^0 = 0 \\implies 2a - 2b = 0 \\implies a = b$.\n\n**Étape 5 : Résolution**\nComme $a = b$ et $a + b = 2$, on a $2a = 2$, donc $a = 1$ et $b = 1$.\n\n**Conclusion :**\nLa solution unique est $f(x) = e^{2x} + e^{-2x}$.",
+                    "extras": [
+                        "Exemple 1 : Résoudre $y'' - 9y = 0$. \n$\\omega = 3$. Solutions : $x \\longmapsto ae^{3x} + be^{-3x}$.",
+                        "Exemple 2 : Résoudre $y'' - y = 0$. \n$\\omega = 1$. Solutions : $x \\longmapsto ae^x + be^{-x}$.",
+                        "Exemple 3 : Résoudre $y'' - 25y = 0$. \n$\\omega = 5$. Solutions : $x \\longmapsto ae^{5x} + be^{-5x}$.",
+                        "Exemple 4 : Résoudre $y'' - 2y = 0$. \n$\\omega = \\sqrt{2}$. Solutions : $x \\longmapsto ae^{\\sqrt{2}x} + be^{-\\sqrt{2}x}$.",
+                        "Exemple 5 : Résoudre $y'' = 0$. \nSolution : $x \\longmapsto ax + b$.",
+                        "Exemple 6 : Résoudre $y'' - 16y = 0$. \n$\\omega = 4$. Solutions : $x \\longmapsto ae^{4x} + be^{-4x}$.",
+                        "Exemple 7 : Résoudre $y'' - \\frac{1}{4}y = 0$. \n$\\omega = 0,5$. Solutions : $x \\longmapsto ae^{0,5x} + be^{-0,5x}$.",
+                        "Exemple 8 : Déterminer $f$ tel que $f'' - f = 0$ et $f(0) = 1, f'(0) = 1$. \n$f(x) = ae^x + be^{-x}$. $a+b=1$ et $a-b=1$. En additionnant : $2a=2 \\implies a=1$ et $b=0$. Solution : $f(x) = e^x$.",
+                        "Exemple 9 : Résoudre $4y'' - y = 0$. \n$y'' - \\frac{1}{4}y = 0$. Solutions : $x \\longmapsto ae^{0,5x} + be^{-0,5x}$.",
+                        "Exemple 10 : Résoudre $y'' - 100y = 0$ avec $f(0)=0$. \n$a+b=0 \\implies b=-a$. Solution : $f(x) = a(e^{10x} - e^{-10x})$."
+                    ]
+                }
+            ]
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

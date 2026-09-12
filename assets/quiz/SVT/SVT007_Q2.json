@@ -1,0 +1,194 @@
+{
+  "title": "Quiz 2",
+  "id": "SVT007_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la conséquence de la stimulation des nerfs parasympathiques sur le rythme cardiaque ?",
+      "réponses": {
+        "A": "Une accélération.",
+        "B": "Un ralentissement.",
+        "C": "Aucune modification.",
+        "D": "Une arythmie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que provoque la section des nerfs parasympathiques sur le rythme cardiaque ?",
+      "réponses": {
+        "A": "Un ralentissement.",
+        "B": "Une accélération.",
+        "C": "Aucune modification.",
+        "D": "Une régularisation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel est l'effet de la stimulation des nerfs orthosympathiques sur le rythme cardiaque ?",
+      "réponses": {
+        "A": "Un ralentissement.",
+        "B": "Une stabilisation",
+        "C": "Aucune modification.",
+        "D": "Une accélération."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Que provoque la section des nerfs orthosympathiques sur le rythme cardiaque ?",
+      "réponses": {
+        "A": "Un ralentissement.",
+        "B": "Une accélération.",
+        "C": "Aucune modification.",
+        "D": "Une tachycardie."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "La stimulation des nerfs orthosympathiques entraîne un ralentissement du rythme cardiaque (bradycardie).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "La stimulation des nerfs parasympathiques entraîne une accélération du rythme cardiaque (tachycardie).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Comment qualifie-t-on les influx nerveux transmis par les nerfs parasympathiques ?",
+      "réponses": {
+        "A": "Accélérateurs.",
+        "B": "Excitateurs.",
+        "C": "Modérateurs.",
+        "D": "Inhibiteurs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est un autre nom pour le nerf parasympathique mentionné dans le texte ?",
+      "réponses": {
+        "A": "Le nerf sciatique.",
+        "B": "Le nerf vague.",
+        "C": "Le nerf fémoral.",
+        "D": "Le nerf optique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle principal des nerfs orthosympathiques concernant l'activité du nœud sinusal ?",
+      "réponses": {
+        "A": "Ralentir son activité.",
+        "B": "Inhiber son activité.",
+        "C": "Accélérer son activité.",
+        "D": "Maintenir sa stabilité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Le nerf orthosympathique est un nerf cardio-modérateur.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Les nerfs parasympathiques transmettent des influx nerveux .....A..... pour .....B..... l’activité du nœud sinusal. Le nerf parasympathique est donc un nerf cardio-.....C......",
+      "réponses": {
+        "A": "A: accélérateurs, B: accélérer, C: accélérateur",
+        "B": "A: modérateurs, B: ralentir, C: modérateur",
+        "C": "A: inhibiteurs, B: stimuler, C: stimulateur",
+        "D": "A: excitateurs, B: réguler, C: régulateur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel centre nerveux est considéré comme le centre cardio-modérateur ?",
+      "réponses": {
+        "A": "La moelle épinière.",
+        "B": "Le cortex cérébral.",
+        "C": "Le bulbe rachidien.",
+        "D": "Le cervelet."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel centre nerveux est relié au cœur par le nerf orthosympathique ?",
+      "réponses": {
+        "A": "Le bulbe rachidien.",
+        "B": "La moelle épinière.",
+        "C": "L'hypothalamus.",
+        "D": "Le thalamus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "L'excitation de quel centre nerveux provoque la tachycardie ?",
+      "réponses": {
+        "A": "Le bulbe rachidien.",
+        "B": "La moelle épinière.",
+        "C": "Le cortex.",
+        "D": "Le cervelet."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "L'excitation de la moelle épinière entraîne un ralentissement du rythme cardiaque (bradycardie).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Le bulbe rachidien est le centre cardio-accélérateur.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quelle substance, lorsqu'elle est perfusée dans le cœur, entraîne une diminution de la fréquence cardiaque ?",
+      "réponses": {
+        "A": "La noradrénaline.",
+        "B": "L'adrénaline.",
+        "C": "L'acétylcholine (ACH).",
+        "D": "La dopamine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Comment l'adrénaline (ou la noradrénaline) affecte-t-elle l'activité du nœud sinusal ?",
+      "réponses": {
+        "A": "Elle l'inhibe.",
+        "B": "Elle la ralentit.",
+        "C": "Elle la stimule.",
+        "D": "Elle la régule sans changement de vitesse."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "L'acétylcholine (ACH) est une substance cardio-accélératrice.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L’Adrénaline (ou la noradrénaline) .....A..... l’activité du nœud sinusal, d’où l’augmentation du rythme cardiaque. L’ADR est donc une substance cardio-.....B......",
+      "réponses": {
+        "A": "A: inhibe, B: modératrice",
+        "B": "A: ralentit, B: régulatrice",
+        "C": "A: stimule, B: accélératrice",
+        "D": "A: stabilise, B: protectrice"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

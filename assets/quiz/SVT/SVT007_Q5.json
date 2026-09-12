@@ -1,0 +1,186 @@
+{
+  "title": "Quiz 5",
+  "id": "SVT007_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "La stimulation des nerfs parasympathiques au niveau du cœur entraîne principalement :",
+      "réponses": {
+        "A": "Une augmentation de la force de contraction.",
+        "B": "Un ralentissement du rythme cardiaque.",
+        "C": "Une accélération du rythme cardiaque.",
+        "D": "Une vasodilatation des artères coronaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Le nerf pneumogastrique est un synonyme du nerf :",
+      "réponses": {
+        "A": "Orthosympathique.",
+        "B": "De Héring.",
+        "C": "Parasympathique.",
+        "D": "De Cyon."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Le bulbe rachidien est considéré comme le centre cardiaque :",
+      "réponses": {
+        "A": "Accélérateur.",
+        "B": "Modérateur.",
+        "C": "De coordination.",
+        "D": "Réflexe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "L'acétylcholine agit sur le cœur comme une substance :",
+      "réponses": {
+        "A": "Cardio-accélératrice.",
+        "B": "Cardio-stimulatrice.",
+        "C": "Cardio-modératrice.",
+        "D": "Vasoconstrictrice."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "La stimulation du bout central des nerfs sino-aortiques provoque :",
+      "réponses": {
+        "A": "L'activation des centres cardio-accélérateurs.",
+        "B": "Une augmentation du rythme cardiaque.",
+        "C": "L'inhibition des centres cardio-accélérateurs.",
+        "D": "La libération d'adrénaline."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "En cas d'hypotension artérielle, les tensiorécepteurs situés dans le sinus carotidien :",
+      "réponses": {
+        "A": "Sont fortement stimulés.",
+        "B": "Ne sont pas stimulés.",
+        "C": "Envoient des messages modérateurs.",
+        "D": "Provoquent une bradycardie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Le nerf orthosympathique relie la moelle épinière au cœur, transmettant des influx :",
+      "réponses": {
+        "A": "Modérateurs.",
+        "B": "Accélérateurs.",
+        "C": "Inhibiteurs.",
+        "D": "Sensoriels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel est l'effet de la section des nerfs orthosympathiques sur le rythme cardiaque ?",
+      "réponses": {
+        "A": "Accélération.",
+        "B": "Ralentissement.",
+        "C": "Aucune modification.",
+        "D": "Tachycardie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Le nerf de Héring relie le bulbe rachidien au :",
+      "réponses": {
+        "A": "Cœur.",
+        "B": "Crosse aortique.",
+        "C": "Ganglion étoilé.",
+        "D": "Sinus carotidien."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Les centres cardio-modérateurs envoient des messages modérateurs au cœur par l'intermédiaire des nerfs :",
+      "réponses": {
+        "A": "Orthosympathiques.",
+        "B": "De Cyon.",
+        "C": "Parasympathiques.",
+        "D": "Sino-aortiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "L'adrénaline stimule l'activité du nœud sinusal, entraînant une accélération du rythme cardiaque.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "La section des nerfs parasympathiques entraîne une tachycardie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "La moelle épinière est le centre cardio-accélérateur et est reliée au cœur par le nerf orthosympathique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La ligature du haut du sinus carotidien entraîne une hypertension qui stimule les tensiorécepteurs, provoquant une bradycardie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Le nerf de Cyon est un nerf sino-aortique qui relie le bulbe rachidien à la crosse aortique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "L'acétylcholine est une substance qui stimule l'activité du nœud sinusal.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Une excitation de la région cervico-dorsale de la moelle épinière provoque une accélération du rythme cardiaque.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La stimulation du bout central des nerfs sino-aortiques a pour effet direct d'activer les centres cardio-accélérateurs.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Le blocus du sang en dessous du sinus carotidien provoque une hypertension, entraînant une tachycardie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Les nerfs parasympathiques transmettent des influx nerveux modérateurs pour ralentir l'activité du nœud sinusal.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

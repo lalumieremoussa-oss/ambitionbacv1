@@ -1,0 +1,186 @@
+{
+  "id": "SVT015_Q2",
+  "title": "Quiz 2: les techniques et conséquences d'exploitation",
+  "questions": {
+    "question n°1": {
+      "question": "L’exploitation minière consiste à extraire le minerai du sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "L’exploitation à ciel ouvert concerne les gisements affleurant en surface ou à faible profondeur.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Les « morts terrains » sont des roches riches en minerai.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "L’exploitation souterraine se fait en pénétrant dans la zone minéralisée par des voies d’accès appelées galeries.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "La découverture est le procédé d’enlèvement des « morts terrains ».",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "L’exploitation à ciel ouvert est principalement utilisée pour :",
+      "réponses": {
+        "A": "Les minerais situés à de grandes profondeurs, comme l’or et le diamant.",
+        "B": "Les gisements stratiformes qui nécessitent des tunnels",
+        "C": "Les gisements métallifères comme le fer et le nickel, situés en grande profondeur.",
+        "D": "Les gisements affleurant en surface ou à faible profondeur (graviers, sables, etc.)."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Comment appelle-t-on les terrains stériles qui recouvrent généralement les gisements ?",
+      "réponses": {
+        "A": "Terrains fertiles",
+        "B": "Terrains minéralisés",
+        "C": "Morts terrains",
+        "D": "Terrains alluvionnaires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel type d’exploitation concerne les minerais qui sont en profondeur (mines d’or, de diamant…) ?",
+      "réponses": {
+        "A": "L’exploitation à ciel ouvert",
+        "B": "L’exploitation des morts terrains",
+        "C": "L’exploitation souterraine",
+        "D": "L’exploitation stratiforme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "L’exploitation minière consiste à _______________ le _______________ du sol.",
+      "réponses": {
+        "A": "séparer / roches",
+        "B": "analyser / échantillon",
+        "C": "transformer / sol",
+        "D": "extraire / minerai"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "L’exploitation à ciel ouvert _______________ les gisements affleurant en _______________ ou à faible _______________.",
+      "réponses": {
+        "A": "concerne / surface / profondeur",
+        "B": "évite / terrain / distance",
+        "C": "modifie / couleur / volume",
+        "D": "analyse / minéral / qualité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "L’exploitation minière a des impacts positifs, notamment l’apport de richesse et la création d’emplois.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Le déplacement et la réinstallation d’humains sont des impacts positifs de l’exploitation minière.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L’exploitation des ressources minières contribue à l’amélioration de la qualité de vie des populations.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La dégradation de l’environnement, comme la déforestation, n’est pas liée à l’exploitation minière.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "L’exploitation minière favorise également la diversité culturelle.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Parmi les impacts négatifs de l’exploitation minière mentionnés, lequel est lié à la diminution des moyens d’existence ?",
+      "réponses": {
+        "A": "Création d’emplois",
+        "B": "Apport de richesse",
+        "C": "Création d’écoles",
+        "D": "Déplacement et réinstallation d’humains"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Selon le texte, l’exploitation minière favorise également :",
+      "réponses": {
+        "A": "L’affaiblissement des moyens d’existence",
+        "B": "La dégradation de la santé de la population",
+        "C": "La dégradation de la couche d’ozone",
+        "D": "La diversité culturelle"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quel est l’un des impacts environnementaux négatifs de l’exploitation minière ?",
+      "réponses": {
+        "A": "Amélioration de la qualité de l’eau",
+        "B": "Lutte contre la désertification",
+        "C": "Dégradation de la qualité de l’air",
+        "D": "Protection de la faune et de la flore"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "L’exploitation minière se fait en provoquant des _______________ aussi bien _______________ que négatives sur l’environnement et sur la société.",
+      "réponses": {
+        "A": "solutions / simples",
+        "B": "conséquences / positives",
+        "C": "opportunités / économiques",
+        "D": "problèmes / mineurs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L’exploitation des ressources minières contribue à l’amélioration de la _______________ des populations par la création d’emplois et d’infrastructures, l’entrée des devises, la _______________, l’augmentation des biens et des services.",
+      "réponses": {
+        "A": "quantité / pollution",
+        "B": "santé / richesse",
+        "C": "qualité de vie / richesse",
+        "D": "diversité / migration"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

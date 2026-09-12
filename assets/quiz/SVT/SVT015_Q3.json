@@ -1,0 +1,214 @@
+{
+  "id": "SVTO15_Q3",
+  "title": "Quiz 3: La mise en place du gisement minier.",
+  "questions": {
+    "question n°1": {
+      "question": "Un gisement métallifère est un endroit où l’on trouve naturellement une accumulation de métaux en quantité _______________ pour être _______________. On distingue deux grandes classes de gisements métallifères : les gisements primaires et les gisements _______________.",
+      "réponses": {
+        "A": "limitée / observés / mixtes",
+        "B": "suffisante / exploités / secondaires",
+        "C": "faible / analysés / tertiaires",
+        "D": "importante / stockés / artificiels"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Les gisements _______________ sont formés en profondeur et résultent de processus _______________ ou hydrothermaux. Les métaux y sont piégés dans des roches _______________.",
+      "réponses": {
+        "A": "secondaires / sédimentaires / molles",
+        "B": "primaires / magmatiques / dures",
+        "C": "alluvionnaires / érosifs / poreuses",
+        "D": "filoniens / métamorphiques / fracturées"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Les gisements _______________ sont formés en surface par _______________, érosion et _______________. Ils résultent du remaniement des gisements _______________.",
+      "réponses": {
+        "A": "primaires / cristallisation / fusion / secondaires",
+        "B": "secondaires / altération / sédimentation / primaires",
+        "C": "magmatiques / refroidissement / dépôt / alluvionnaires",
+        "D": "filoniens / infiltration / précipitation / superficiels"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Les processus de mise en place d’un gisement _______________ s’expliquent par la _______________ magmatique, notamment par la _______________ fractionnée.",
+      "réponses": {
+        "A": "filonien / infiltration / précipitation",
+        "B": "alluvionnaire / érosion / sédimentation",
+        "C": "magmatique / différenciation / cristallisation",
+        "D": "secondaire / altération / transport"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Au cours de sa remontée et de son _______________, le magma voit certains minéraux cristalliser en _______________, selon leur température de fusion, la _______________ et la composition chimique.",
+      "réponses": {
+        "A": "chauffe / dernier / humidité",
+        "B": "solidification / profondeur / lumière",
+        "C": "refroidissement / premier / pression",
+        "D": "ébullition / aléatoire / densité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Ces minéraux _______________, plus _______________, s’accumulent localement dans la chambre _______________ pour former un gisement magmatique concentré.",
+      "réponses": {
+        "A": "tardifs / légers / rocheuse",
+        "B": "précoces / denses / magmatique",
+        "C": "secondaires / rares / souterraine",
+        "D": "dissous / liquides / volcanique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Au cours de sa remontée, le magma peut s’infiltrer dans les _______________, failles ou _______________ des roches préexistantes, où il _______________ pour former des filons.",
+      "réponses": {
+        "A": "cavités / conduits / dissout",
+        "B": "niveaux / couches / évapore",
+        "C": "fissures / diaclases / cristallise",
+        "D": "zones / reliefs / sédimente"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Si ce magma est riche en _______________, les minéraux métallifères se _______________ dans ces filons, donnant naissance à un gisement métallifère _______________.",
+      "réponses": {
+        "A": "eau / diluent / secondaire",
+        "B": "gaz / dispersent / volcanique",
+        "C": "silice / solidifient / magmatique",
+        "D": "métaux / concentrent / filonien"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "L’_______________ de roches riches en minerais libère ces derniers, qui sont ensuite _______________ avec les sédiments par les eaux de ruissellement jusque dans les plaines ou les bassins, où ils se _______________ et se concentrent.",
+      "réponses": {
+        "A": "érosion / fixés / compactent",
+        "B": "altération / transportés / déposent",
+        "C": "formation / cristallisés / accumulent",
+        "D": "subduction / enfouis / fusionnent"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Les minerais ainsi _______________ et concentrés dans les _______________ forment un gisement _______________ alluvionnaire.",
+      "réponses": {
+        "A": "créés / failles / primaire",
+        "B": "libérés / alluvions / secondaire",
+        "C": "dissous / roches / magmatique",
+        "D": "précipités / fissures / filonien"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Les gisements primaires, tels que ceux de _______________ et de _______________, sont caractérisés par des métaux piégés dans des _______________ dures.",
+      "réponses": {
+        "A": "bauxite / fer / sédiments",
+        "B": "cuivre / or / roches",
+        "C": "or alluvionnaire / diamant / graviers",
+        "D": "plomb / zinc / fissures"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le processus de mise en place d’un gisement _______________ implique l’infiltration du magma dans des fractures existantes, ce qui conduit à la _______________ des minéraux métallifères dans ces _______________.",
+      "réponses": {
+        "A": "magmatique / dispersion / chambres",
+        "B": "alluvionnaire / sédimentation / bassins",
+        "C": "filonien / concentration / filons",
+        "D": "secondaire / altération / roches"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est le type de gisement représenté par la lettre A sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement magmatique",
+        "C": "Gisement secondaire résiduel ou gisement d’altération",
+        "D": "Gisement alluvionnaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est le type de gisement représenté par la lettre B sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Gisement secondaire résiduel",
+        "B": "Gisement filonien",
+        "C": "Gisement magmatique",
+        "D": "Gisement alluvionnaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le type de gisement représenté par la lettre C sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement secondaire résiduel",
+        "C": "Gisement magmatique",
+        "D": "Gisement alluvionnaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est le type de gisement représenté par la lettre D sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Gisement magmatique",
+        "B": "Gisement filonien",
+        "C": "Gisement secondaire résiduel",
+        "D": "Gisement secondaire alluvionnaire ou placer"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle est la méthode de prospection la plus convenable pour le gisement D ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Prospection géologique",
+        "B": "Prospection géochimique",
+        "C": "Prospection alluvionnaire",
+        "D": "Prospection magnétique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle est la méthode de prospection la plus convenable pour le gisement C ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Prospection alluvionnaire",
+        "B": "Prospection géologique",
+        "C": "Prospection géochimique",
+        "D": "Prospection électrique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle est la méthode d’exploitation la plus appropriée pour le gisement D ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Exploitation souterraine",
+        "B": "Exploitation à ciel ouvert",
+        "C": "Exploitation par forages",
+        "D": "Exploitation par dragage"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la méthode d’exploitation la plus appropriée pour le gisement C ?",
+      "image": "assets/images/svt/roche(1).png",
+      "réponses": {
+        "A": "Exploitation à ciel ouvert",
+        "B": "Exploitation par dissolution",
+        "C": "Exploitation souterraine",
+        "D": "Exploitation par excavation"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "title": "Quiz 2",
+  "id": "SVT001_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "En vue d’amener un chien à saliver sa patte à la vue d’une lumière, on réalise plusieurs expériences. \nExp1 – On fait clignoter une lumière rouge dans la cage du chien. Il y a :",
+      "réponses": {
+        "A": "Salivation",
+        "B": "Pas de salivation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Expérience 2  \nOn présente un morceau de viande au chien. Il y a :",
+      "réponses": {
+        "A": "Salivation",
+        "B": "Pas de salivation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Expérience 3 – \nOn fait clignoter la lumière rouge puis on présente un morceau de viande. Il y a :",
+      "réponses": {
+        "A": "Salivation",
+        "B": "Pas de salivation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Expérience 4 – \nAprès plusieurs répétitions, on fait clignoter la lumière rouge seule. Il y a :",
+      "réponses": {
+        "A": "Salivation",
+        "B": "Pas de salivation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Expérience 5 – \nQuelques jours plus tard, on fait clignoter la lumière rouge seule. Il y a :",
+      "réponses": {
+        "A": "Salivation",
+        "B": "Pas de salivation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "ExPourquoi le chien ne salive-t-il pas à la lumière rouge seule à l'expérience 1 ?",
+      "réponses": {
+        "A": "Parce que la lumière rouge ne provoque pas de l’appétit au chien. C’est donc excitant neutre.",
+        "B": "Parce qu’il a mangé juste avant l'expérience.",
+        "C": "Parce que son système gustatif est bloqué.",
+        "D": "Parce que la lumière rouge agit comme un répulsif."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi le chien salive-t-il devant la viande à l'expérience 2 ?",
+      "réponses": {
+        "A": "Parce qu’il a appris à associer la viande à un bruit.",
+        "B": "Parce que la viande provoque de l’appétit au chien.  Elle est donc un stimulus absolu dans le réflexe de salivation.",
+        "C": "Parce que la viande sent fort.",
+        "D": "Parce qu’il a peur d’être puni."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Pourquoi le chien salive-t-il à la lumière suivie de viande à l'expérience 3 ?",
+      "réponses": {
+        "A": "Parce qu’il reconnaît maintenant la lumière comme nourriture.",
+        "B": "Parce que l’association lumière + viande crée un réflexe conditionnel.",
+        "C": "Parce que la lumière est devenue un excitant absolu.",
+        "D": "Le chien salive à cause de la viande qui est eficace sur sa glande salivaire."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Pourquoi le chien salive-t-il à la lumière seule après plusieurs répétitions à l'expérience 4?",
+      "réponses": {
+        "A": "Parce que, ayant parfaitement integré la lumière, il a oublié la viande.",
+        "B": "Parce que, ayant parfaitement integré la lumière, il est affamé.",
+        "C": "Parce que, ayant parfaitement integré la lumière, le chien s’attend à la viande.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi quelques jours après, le chien ne salive-t-il plus à la lumière rouge seule ? (expérience 5)",
+      "réponses": {
+        "A": "Parce que la lumière est trop faible.",
+        "B": "Parce que le réflexe acquis s’est éteint.",
+        "C": "Parce qu’il a faim.",
+        "D": "Parce qu’il est distrait."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le type de stimulus utilisé à l'expérience 1?",
+      "réponses": {
+        "A": "Stimulus absolu",
+        "B": "Stimulus conditionnel",
+        "C": "Stimulus neutre",
+        "D": "Stimulus réflexe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel est le type de stimulus utilisé à l'expérience 2 ?",
+      "réponses": {
+        "A": "Stimulus neutre",
+        "B": "Stimulus conditionnel",
+        "C": "Stimulus absolu",
+        "D": "Stimulus acquis"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est le type de stimulus utilisé à l'expérience 3 ?",
+      "réponses": {
+        "A": "Stimulus neutre associé à stimulus absolu",
+        "B": "Stimulus acquis",
+        "C": "Stimulus secondaire",
+        "D": "Stimulus efficace"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quel est le type de stimulus utilisé à l'expérience 4?",
+      "réponses": {
+        "A": "Stimulus neutre",
+        "B": "Stimulus absolu",
+        "C": "Stimulus conditionnel",
+        "D": "Stimulus trompeur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel est le type de stimulus utilisé à l'expérience 5 ?",
+      "réponses": {
+        "A": "Stimulus absolu",
+        "B": "Stimulus conditionnel",
+        "C": "Stimulus neutre",
+        "D": "Stimulus renforcé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle est la réaction observée à l’expérience 2 ?",
+      "réponses": {
+        "A": "Réflexe conditionnel",
+        "B": "Réflexe volontaire",
+        "C": "Réflexe inné",
+        "D": "Réflexe acquis"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle est la réaction observée à l’expérience 4 ?",
+      "réponses": {
+        "A": "Réflexe inné",
+        "B": "Réflexe conditionnel",
+        "C": "Réflexe automatique",
+        "D": "Réflexe passif"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Le réflexe inné a les caractéristiques suivantes :",
+      "réponses": {
+        "A": "Réaction acquise après apprentissage",
+        "B": "Rapide, totale et exothermique.",
+        "C": "Involontaire, automatique, stéréotypée",
+        "D": "Involontaire, stéréotypé, rapide"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Le réflexe acquis a les caractéristiques suivantes :",
+      "réponses": {
+        "A": "Instinctif et permanent",
+        "B": "Appris par apprentissage et doit être entretenu pour éviter son extinction",
+        "C": "Réaction automatique génétique",
+        "D": "Réflexe présent dès la naissance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quels organes interviennent dans le réflexe conditionnel de l’expérience 4 ?",
+      "réponses": {
+        "A": "L’œil – moelle épinière – la langue – muscle",
+        "B": "La langue – cerveau – moelle épinière– glande",
+        "C": "Récepteur (œil) – cerveau – bulbe rachidien – glande salivaire",
+        "D": "Peau – tronc cérébral – foie – glande lacrymale"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

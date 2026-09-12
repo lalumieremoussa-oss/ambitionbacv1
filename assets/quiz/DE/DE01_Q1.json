@@ -1,0 +1,226 @@
+{
+  "title": "Deutsch Quiz 1 - Les bases",
+  "id": "DE01_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Je suis triste.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Ich", "traurig", "du", "bin", "bist"],
+      "bonne réponse": "Ich bin traurig"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Tu es à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Du" , "wir", "zu", "Hause", "sind" , "bist"],
+      "bonne réponse": "Du bist zu Hause"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Elle est belle.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Sie", "schön", "er", "ist", "sind"],
+      "bonne réponse": "Sie ist schön"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Nous sommes les enfants.\"",
+      "type": "drag_and_drop",
+      "réponses": [ "sind", "die", "Kinder", "ihr", "Wir","seid"],
+      "bonne réponse": "Wir sind die Kinder"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"Ils sont des élèves.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Sie", "sind","seid", "Schüler", "wir"],
+      "bonne réponse": "Sie sind Schüler"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Il est beau.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Er", "bist" , "ist", "schön", "sie"],
+      "bonne réponse": "Er ist schön"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Vous êtes ici.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Ihr", "bist", "seid", "hier", "du"],
+      "bonne réponse": "Ihr seid hier"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Je suis un élève.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Schüler", "bin", "ein", "sie", "Ich", "ist"],
+      "bonne réponse": "Ich bin ein Schüler"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Le chat est petit.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Katze", "Hund", "ist", "klein","Die",  "der"],
+      "bonne réponse": "Die Katze ist klein"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"Nous sommes heureux.\"",
+      "type": "drag_and_drop",
+      "réponses": ["ihr", "sind", "Wir", "traurig", "glücklich"],
+      "bonne réponse": "Wir sind glücklich"
+    },
+    "question n°11": {
+      "question": "Quel est le pronom sujet pour \"Il\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie",
+        "B": "Wir",
+        "C": "Er",
+        "D": "Es"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle est la forme correcte de \"sein\" (être) pour le sujet \"Ich\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "bin",
+        "B": "bist",
+        "C": "ist",
+        "D": "sind"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Comment dit-on \"Vous\" en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Du",
+        "B": "Ihr",
+        "C": "Sie",
+        "D": "Wir"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Mariam est triste.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mariam bist traurig.",
+        "B": "Mariam sind traurig.",
+        "C": "Mariam ist traurig.",
+        "D": "Mariam bin traurig."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que signifie \"Wir sind hier\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je suis ici.",
+        "B": "Nous sommes ici.",
+        "C": "Vous êtes ici.",
+        "D": "Ils sont ici."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Es-tu fatigué ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bin du müde?",
+        "B": "Ist du müde?",
+        "C": "Bist du müde?",
+        "D": "Sind du müde?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel est l'article défini pour \"Hund\" (chien - masculin) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Das",
+        "B": "Die",
+        "C": "Der",
+        "D": "Ein"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Comment dit-on \"Maman\" en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Vater",
+        "B": "Mutter",
+        "C": "Bruder",
+        "D": "Kind"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Le livre est rouge.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Das Buch ist rot.",
+        "B": "Die Buch ist rot.",
+        "C": "Der Buch ist rot.",
+        "D": "Das Buch sind rot."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Que signifie \"Ich habe Hunger\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Je suis fatigué.",
+        "B": "J'ai faim.",
+        "C": "Je suis content.",
+        "D": "J'ai soif."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Traduisez le pronom personnel \"Nous\".",
+      "type": "short_answer",
+      "bonne réponse": "Wir"
+    },
+    "question n°22": {
+      "question": "Traduisez le groupe de mots \"Je suis\".",
+      "type": "short_answer",
+      "bonne réponse": "Ich bin"
+    },
+    "question n°23": {
+      "question": "Traduisez le groupe de mots \"Ils sont\".",
+      "type": "short_answer",
+      "bonne réponse": "Sie sind"
+    },
+    "question n°24": {
+      "question": "Donnez le verbe qui signifie \"être\" en allemand (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "sein"
+    },
+    "question n°25": {
+      "question": "Donnez la forme du verbe \"sein\" qui correspond à \"Elle\" (Sie).",
+      "type": "short_answer",
+      "bonne réponse": "sie ist"
+    },
+    "question n°26": {
+      "question": "Comment dit-on \"Bonjour\" le matin en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "Guten Morgen"
+    },
+    "question n°27": {
+      "question": "Traduisez le mot \"Pain\".",
+      "type": "short_answer",
+      "bonne réponse": "Brot"
+    },
+    "question n°28": {
+      "question": "Traduisez \"Merci\".",
+      "type": "short_answer",
+      "bonne réponse": "Danke"
+    },
+    "question n°29": {
+      "question": "Quelle est la traduction de \"L'eau\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Das Wasser"
+    },
+    "question n°30": {
+      "question": "Traduisez \"Oui\" et \"Non\".",
+      "type": "short_answer",
+      "bonne réponse": "Ja und Nein"
+    }
+  }
+}

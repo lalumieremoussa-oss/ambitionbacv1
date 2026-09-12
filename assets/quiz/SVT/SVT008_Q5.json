@@ -1,0 +1,186 @@
+{
+  "title": "Quiz 5 : Le Cycle Ovarien",
+  "id": "SVT008_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Les ovaires, gonades de la femme, contiennent dès la naissance un stock de plusieurs centaines de milliers de structures, chacune contenant un ovocyte. Ces structures sont appelées :",
+      "réponses": {
+        "A": "Follicules primordiaux.",
+        "B": "Ovules matures et immédiatement fécondables.",
+        "C": "Corps jaunes en cours de dégénérescence.",
+        "D": "Glandes hormonales secondaires actives."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "L'événement mensuel où un ovocyte est libéré par l'un des deux ovaires est appelé :",
+      "réponses": {
+        "A": "La menstruation.",
+        "B": "La fécondation.",
+        "C": "La nidation embryonnaire.",
+        "D": "L'ovulation."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Sur un cycle ovarien de 28 jours, l'expulsion de l'ovocyte II par le follicule de De Graaf se produit spécifiquement au :",
+      "réponses": {
+        "A": "1er jour de la menstruation.",
+        "B": "7ème jour de la phase folliculaire.",
+        "C": "14ème jour.",
+        "D": "28ème jour, juste avant le nouveau cycle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La phase de maturation folliculaire, qui débute dès le premier jour de la menstruation, dure en moyenne :",
+      "réponses": {
+        "A": "7 jours pour un cycle complet.",
+        "B": "14 jours sur un cycle de 28 jours.",
+        "C": "21 jours pour une maturation optimale de tous les follicules.",
+        "D": "28 jours jusqu'à la prochaine ovulation complète."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Durant la phase folliculaire, le follicule qui se détache de la cohorte et poursuit sa maturation jusqu'à l'exclusion de l'ovocyte est appelé :",
+      "réponses": {
+        "A": "Follicule dominant.",
+        "B": "Follicule éliminé non dominant.",
+        "C": "Follicule primaire inactif.",
+        "D": "Corps jaune mature et fonctionnel."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "L'ovulation correspond précisément à l'exclusion de :",
+      "réponses": {
+        "A": "L'ovule mature par le corps jaune résiduel.",
+        "B": "L'ovocyte II par le follicule de De Graaf.",
+        "C": "L'ovocyte I par le follicule primordial.",
+        "D": "Un globule polaire par l'ovaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "La phase lutéinique du cycle ovarien est principalement caractérisée par :",
+      "réponses": {
+        "A": "La maturation rapide de plusieurs follicules ovariens.",
+        "B": "La dégénérescence de l'endomètre utérin entier.",
+        "C": "L'expulsion de l'ovocyte par le follicule de De Graaf.",
+        "D": "La formation et la régression du corps jaune."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "S'il n'y a pas eu de fécondation, le corps jaune subit une dégénérescence pour donner plus tard :",
+      "réponses": {
+        "A": "Un nouveau follicule dominant.",
+        "B": "Un ovocyte II fécondable.",
+        "C": "Une formation kystique de l'ovaire.",
+        "D": "Un corps blanc."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : Les ovaires sont les gonades de la femme, au même titre que les testicules chez l'homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : Tous les ovocytes contenus dans les follicules primordiaux sont libérés lors de l'ovulation au cours de la vie reproductive de la femme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le cycle ovarien est composé de trois phases distinctes : la phase folliculaire, l'ovulation et la phase lutéale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La phase folliculaire débute le premier jour de la menstruation et dure en moyenne 14 jours sur un cycle de 28 jours.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Pendant la phase folliculaire, l'un des follicules primordiaux poursuivra sa maturation jusqu'au stade de follicule de De Graaf tandis que les autres sont éliminés.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : L'ovulation est l'exclusion de l'ovocyte II par le follicule de De Graaf au 14ème jour du cycle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : La phase lutéinique dure en moyenne 14 jours et est caractérisée par la formation et la régression du corps jaune.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : S'il n'y a pas eu de fécondation, le corps jaune se transforme en un ovule mature.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Chaque ovocyte est libéré suivant un cycle appelé cycle utérin.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La phase lutéinique est également appelée phase post-ovulatoire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Les ovaires sont les gonades, organes de la reproduction, chez la femme. Chaque petite fille nait avec, au niveau des ovaires, un stock de plusieurs centaines de milliers de .....A....., contenant chacun un ovocyte. Tous les 28 jours du cycle utérin, un ovocyte est libéré par l’un des deux ovaires, un processus appelé .....B...... Elle se fait suivant un cycle appelé .....C......",
+      "réponses": {
+        "A": "A: ovules matures, B: menstruation, C: cycle menstruel",
+        "B": "A: follicules primordiaux, B: ovulation, C: cycle ovarien",
+        "C": "A: corps jaunes, B: fécondation, C: cycle utérin",
+        "D": "A: ovocytes fécondés, B: nidation, C: cycle de De Graaf"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La phase folliculaire est la phase de maturation folliculaire. Elle débute dès le .....A..... de la menstruation et dure en moyenne .....B..... (sur un cycle de 28 jours). Un certain nombre de follicules primordiaux vont entrer en maturation jusqu’au stade de follicules tertiaires. L’un de ces follicules va se détacher de la cohorte et poursuivre sa maturation, atteignant le stade .....C......",
+      "réponses": {
+        "A": "A: dernier jour, B: 7 jours, C: corps jaune",
+        "B": "A: quatorzième jour, B: 28 jours, C: ovule mature",
+        "C": "A: premier jour, B: 14 jours, C: follicule de De Graaf",
+        "D": "A: jour de l'ovulation, B: 21 jours, C: follicule primaire"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "title": "Quiz 4",
+  "id": "SVT004_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Le muscle est formé de :",
+      "réponses": {
+        "A": "Sarcomères uniquement",
+        "B": "Myosine uniquement",
+        "C": "Fibres musculaires",
+        "D": "Tissus nerveux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Les fibres musculaires sont regroupées en :",
+      "réponses": {
+        "A": "Organites",
+        "B": "Faisceaux",
+        "C": "Sarcomères",
+        "D": "Actines"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "L’unité fonctionnelle du muscle est :",
+      "réponses": {
+        "A": "Le noyau",
+        "B": "La mitochondrie",
+        "C": "Le sarcomère",
+        "D": "La fibre musculaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Une fibre musculaire est composée de :",
+      "réponses": {
+        "A": "Nerfs",
+        "B": "Protéines",
+        "C": "Myofibrilles",
+        "D": "Vaisseaux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Les myofibrilles sont faites d’unités appelées :",
+      "réponses": {
+        "A": "Lysosomes",
+        "B": "Sarcomères",
+        "C": "Mitochondries",
+        "D": "Faisceaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Un sarcomère est une partie de :",
+      "réponses": {
+        "A": "Myofibrille",
+        "B": "Fibre nerveuse",
+        "C": "Fibre de collagène",
+        "D": "Réticulum endoplasmique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "La bande sombre du sarcomère contient :",
+      "réponses": {
+        "A": "Uniquement de l’actine",
+        "B": "Uniquement de la myosine",
+        "C": "De l’actine et de la myosine",
+        "D": "Du calcium"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Au repos, la bande sombre :",
+      "réponses": {
+        "A": "S’allonge",
+        "B": "Raccourcit",
+        "C": "Disparaît",
+        "D": "Garde la même longueur"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Lors de la contraction, la bande claire :",
+      "réponses": {
+        "A": "S’élargit",
+        "B": "Ne change pas",
+        "C": "Rétrécit",
+        "D": "Devient sombre"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Lors de la contraction, la zone H :",
+      "réponses": {
+        "A": "S’élargit",
+        "B": "Raccourcit",
+        "C": "Devient foncée",
+        "D": "Se transforme en ATP"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "La contraction musculaire commence par :",
+      "réponses": {
+        "A": "Une baisse de température",
+        "B": "Une libération de calcium",
+        "C": "Une décharge électrique dans l'os",
+        "D": "La rupture de la myosine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "section": "Partie 2 : Mécanisme de la contraction musculaire",
+      "question": "Le calcium se fixe sur :",
+      "réponses": {
+        "A": "La troponine",
+        "B": "La myosine",
+        "C": "L’actine",
+        "D": "L’ATP"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "La fixation du calcium entraîne :",
+      "réponses": {
+        "A": "Le déplacement de la tropomyosine",
+        "B": "La production de glucose",
+        "C": "L’activation de l’ADN",
+        "D": "L’apparition d’un noyau"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La tropomyosine au repos :",
+      "réponses": {
+        "A": "Facilite la fixation",
+        "B": "Cache le site de liaison",
+        "C": "Se lie à l’ADP",
+        "D": "Active le glucose"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Le pont actino-myosine est formé quand :",
+      "réponses": {
+        "A": "L’ATP est détruit",
+        "B": "La myosine se fixe à l’actine",
+        "C": "Le calcium disparaît",
+        "D": "La troponine se dissout"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Le glissement des filaments correspond à :",
+      "réponses": {
+        "A": "Un pivotement de la tête de myosine",
+        "B": "Une relaxation",
+        "C": "L’entrée de potassium",
+        "D": "Une fixation du glucose"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "L’hydrolyse de l’ATP fournit :",
+      "réponses": {
+        "A": "Du glucose",
+        "B": "De l’énergie pour le mouvement",
+        "C": "Du calcium",
+        "D": "Du glycogène"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Lors du glissement, l’actine :",
+      "réponses": {
+        "A": "Se raccourcit",
+        "B": "S’étire",
+        "C": "Glisse sur la myosine",
+        "D": "Se transforme en tropomyosine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "La contraction musculaire résulte de :",
+      "réponses": {
+        "A": "L’allongement des sarcomères",
+        "B": "La destruction de l’ATP",
+        "C": "Le raccourcissement des sarcomères",
+        "D": "La perte de calcium"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "La phase de détachement commence par :",
+      "réponses": {
+        "A": "L’arrivée de glucose",
+        "B": "La fixation d’un nouvel ATP",
+        "C": "L’arrêt de l’hydrolyse",
+        "D": "La dégradation de la troponine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Lors de la phase de détachement, le calcium :",
+      "réponses": {
+        "A": "Est libéré",
+        "B": "Se fixe à l’actine",
+        "C": "Est réabsorbé",
+        "D": "Se transforme en ATP"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "L’ATP est nécessaire pour :",
+      "réponses": {
+        "A": "Produire du calcium",
+        "B": "Maintenir le repos",
+        "C": "Détacher la myosine de l’actine",
+        "D": "Casser les protéines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Si l’ATP manque, le muscle :",
+      "réponses": {
+        "A": "Se régénère plus vite",
+        "B": "Se relâche",
+        "C": "Reste contracté",
+        "D": "Change de couleur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "Le cycle contraction-relaxation se répète tant que :",
+      "réponses": {
+        "A": "Le calcium est réabsorbé",
+        "B": "L’ATP est absent",
+        "C": "Le calcium et l’ATP sont présents",
+        "D": "L’oxygène est épuisé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "La myosine agit comme :",
+      "réponses": {
+        "A": "Une enzyme",
+        "B": "Un sucre",
+        "C": "Une hormone",
+        "D": "Un acide"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "L’ATP est hydrolysé en :",
+      "réponses": {
+        "A": "Glucose + calcium",
+        "B": "ADP + Pi + énergie",
+        "C": "Glycogène + CO₂",
+        "D": "Troponine + actine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "La contraction cesse quand :",
+      "réponses": {
+        "A": "La bande sombre s’élargit",
+        "B": "L’ATP est hydrolysé",
+        "C": "La troponine se multiplie",
+        "D": "La troponine se multiplie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "La zone H est :",
+      "réponses": {
+        "A": "Inexistante",
+        "B": "Riche en tropomyosine",
+        "C": "Une zone sans myosine",
+        "D": "Une zone sans actine"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Le raccourcissement des sarcomères entraîne :",
+      "réponses": {
+        "A": "La respiration",
+        "B": "La contraction",
+        "C": "La croissance",
+        "D": "La fatigue"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Lors de l’activité musculaire, la longueur de l’actine :",
+      "réponses": {
+        "A": "Diminue",
+        "B": "Augmente",
+        "C": "Ne change pas",
+        "D": "Devient invisible"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

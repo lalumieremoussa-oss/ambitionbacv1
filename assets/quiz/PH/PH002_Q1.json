@@ -1,0 +1,296 @@
+{
+  "title": "Quiz 1",
+  "id": "PH002_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "La conscience peut être définie comme :",
+      "réponses": {
+        "A": "Une forme d’intelligence animale capable de répéter mécaniquement des gestes utiles à la survie",
+        "B": "Une capacité biologique propre aux êtres humains à interagir instinctivement avec leur environnement",
+        "C": "La force qui pousse l’homme à dominer son instinct pour accomplir des exploits",
+        "D": "La faculté qu’a l’homme de se représenter ses actes, ses pensées et de se juger lui-même"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle distinction fondamentale existe-t-il entre conscience psychologique et conscience morale ?",
+      "réponses": {
+        "A": "L’une relève de la logique et l’autre de l’imagination",
+        "B": "La conscience psychologique juge le mal ; la conscience morale connaît les pensées",
+        "C": "La conscience psychologique permet de se connaître ; la conscience morale permet de se juger",
+        "D": "Elles n’ont pas de différence, ce sont des synonymes exacts"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel courant philosophique affirme que la conscience est une propriété essentielle de l’homme, le distinguant de tous les autres êtres ?",
+      "réponses": {
+        "A": "Le matérialisme athée de Marx",
+        "B": "L’humanisme rationaliste de Descartes",
+        "C": "Le nihilisme de Nietzsche",
+        "D": "L’empirisme sceptique de Hume"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle école critique l’idée de la suprématie de la conscience en insistant sur les pulsions inconscientes ?",
+      "réponses": {
+        "A": "Le personnalisme de Mounier",
+        "B": "Le stoïcisme antique",
+        "C": "L’idéalisme transcendantal",
+        "D": "La psychanalyse freudienne"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quel argument permet de soutenir que l’homme se distingue des animaux ?",
+      "réponses": {
+        "A": "L’homme peut réfléchir sur ses actes et en évaluer la portée",
+        "B": "L’homme agit toujours instinctivement",
+        "C": "L’animal peut juger moralement ses propres comportements",
+        "D": "Les humains ont une mémoire émotionnelle plus vive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "En quoi la conscience morale rend-elle l’homme unique ?",
+      "réponses": {
+        "A": "Elle permet de prévoir l’avenir avec précision",
+        "B": "Elle rend l’homme capable de distinguer l’opinion du goût",
+        "C": "Elle lui permet d’orienter ses actions en fonction du bien et du mal",
+        "D": "Elle garantit l’obéissance aux lois humaines et animales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Que signifie l’introspection ?",
+      "réponses": {
+        "A": "L’étude psychologique des autres",
+        "B": "L’acte de projeter ses émotions sur autrui",
+        "C": "La capacité à juger les autres à travers soi",
+        "D": "L’action de se retourner sur soi pour comprendre ses pensées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi dit-on que l’homme est conscient de sa dignité ?",
+      "réponses": {
+        "A": "Parce qu’il est supérieur physiquement aux autres êtres",
+        "B": "Parce qu’il peut se penser comme sujet moral et responsable",
+        "C": "Parce qu’il obéit à ses pulsions mieux que les animaux",
+        "D": "Parce qu’il survit dans tous les milieux hostiles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "En quoi la conscience morale est-elle une « boussole intérieure » ?",
+      "réponses": {
+        "A": "Elle mesure l’intelligence émotionnelle et les performances sociales",
+        "B": "Elle guide nos actes en fonction de règles extérieures",
+        "C": "Elle aide à évaluer nos actes à partir de valeurs intimes de bien ou de mal",
+        "D": "Elle oblige toujours à agir selon les lois de la société"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la fonction essentielle de la conscience psychologique ?",
+      "réponses": {
+        "A": "Contrôler les émotions involontaires",
+        "B": "Diriger les instincts refoulés",
+        "C": "Observer les erreurs morales des autres",
+        "D": "Permettre la connaissance de soi, ses sentiments, ses pensées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle citation illustre la conscience de soi selon Descartes ?",
+      "réponses": {
+        "A": "« Je suis une machine pensante. »",
+        "B": "« L’animal est un automate divin. »",
+        "C": "« Je pense, donc je suis. »",
+        "D": "« Le moi est haïssable. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle citation met en valeur la conscience morale selon Rousseau ?",
+      "réponses": {
+        "A": "« La volonté générale est toujours juste. »",
+        "B": "« La liberté consiste à faire ce que l’on veut. »",
+        "C": "« L’homme naît bon, la société le corrompt. »",
+        "D": "« Conscience ! Conscience ! Instinct divin… »"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Quelle citation exprime la puissance de l’introspection selon Pascal ?",
+      "réponses": {
+        "A": "« L’homme est un roseau pensant. »",
+        "B": "« La grandeur de l’homme est grande en ce qu’il se connaît misérable. »",
+        "C": "« L’habitude est une seconde nature. »",
+        "D": "« Le cœur a ses raisons que la raison ignore. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle citation soutient l’ouverture à autrui par la conscience selon Sartre ?",
+      "réponses": {
+        "A": "« L’enfer, c’est les autres. »",
+        "B": "« Par le cogito, je découvre les autres… »",
+        "C": "« L’existence précède l’essence. »",
+        "D": "« Je suis condamné à être libre. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel sens donne-t-on à « Je pense, donc je suis » ?",
+      "réponses": {
+        "A": "La conscience de soi prouve l’existence de Dieu",
+        "B": "L’âme survit à la mort grâce à la pensée",
+        "C": "Le fait de penser atteste de notre existence comme sujet",
+        "D": "L’homme est un être pensant parmi d’autres"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Pourquoi Rousseau qualifie-t-il la conscience d’« instinct divin » ?",
+      "réponses": {
+        "A": "Parce qu’elle remplace Dieu dans le cœur de l’homme",
+        "B": "Parce qu’elle nous relie à une vérité éternelle, au-delà des lois humaines",
+        "C": "Parce qu’elle est réservée aux sages et philosophes",
+        "D": "Parce qu’elle est innée chez tous les êtres"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Que signifie Pascal lorsqu’il écrit : « Il se connaît misérable » ?",
+      "réponses": {
+        "A": "L’homme reconnaît sa faiblesse et en tire sa grandeur",
+        "B": "L’homme est dominé par ses émotions",
+        "C": "L’homme nie son intelligence par orgueil",
+        "D": "L’homme n’est pas capable de se juger lui-même"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Vrai ou faux : « La conscience est ce qui permet à l’homme d’agir par instinct. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou faux : « L’introspection est le retour de la conscience de la conscience sur elle-même. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou faux : « La conscience est une simple illusion linguistique selon Freud. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Que désigne Leibniz par le concept de « petites perceptions » ?",
+      "réponses": {
+        "A": "Des émotions visibles qui perturbent la conscience de l’homme",
+        "B": "Des sensations conscientes mais difficiles à exprimer en mots",
+        "C": "Des représentations mentales confuses mais partagées socialement",
+        "D": "Des phénomènes mentaux inconscients qui échappent à l’attention immédiate"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Quelle idée remet en cause l'affirmation selon laquelle la conscience saisit toute notre vie psychique ?",
+      "réponses": {
+        "A": "La conscience peut gouverner les rêves et les impulsions nocturnes",
+        "B": "Les émotions conscientes sont toujours parfaitement identifiables",
+        "C": "La mémoire refoule toutes les pensées conscientes pour les organiser",
+        "D": "Il existe une infinité de micro-perceptions qui nous traversent à notre insu"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°23": {
+      "question": "Pourquoi Nietzsche critique-t-il la conscience ?",
+      "réponses": {
+        "A": "Il pense que la conscience n'existe pas réellement",
+        "B": "Il estime que la conscience est le fruit d’un excès d’introspection pathologique",
+        "C": "Il croit que la conscience est exclusivement animale et non humaine",
+        "D": "Il considère que la conscience est un produit dérivé de la vie sociale et du langage"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Quelle hiérarchie Nietzsche renverse-t-il ?",
+      "réponses": {
+        "A": "Celle qui place la pensée avant la vie sensorielle",
+        "B": "Celle qui place l’âme avant le corps",
+        "C": "Celle qui place la conscience au-dessus de l’inconscient",
+        "D": "Celle qui place l’instinct au-dessus du raisonnement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Selon Freud, quelle affirmation est la plus juste ?",
+      "réponses": {
+        "A": "L’inconscient n’intervient que dans les rêves et les traumatismes",
+        "B": "Le moi conscient dirige toutes les décisions morales",
+        "C": "La conscience représente une fraction faible de notre activité mentale réelle",
+        "D": "Le cerveau humain n’a pas de zones inconscientes repérables"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Quelle citation illustre le mieux la position freudienne ?",
+      "réponses": {
+        "A": "« Je pense donc je suis. »",
+        "B": "« Toute conscience est d’abord intuition. »",
+        "C": "« L’instinct divin guide la volonté. »",
+        "D": "« Le moi n’est pas maître dans sa propre maison. »"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°27": {
+      "question": "Que signifie : « La conscience règne mais ne gouverne pas » ?",
+      "réponses": {
+        "A": "La conscience décide de tout mais ne dirige rien",
+        "B": "Elle est présente mais soumise à des forces plus profondes, inconscientes",
+        "C": "Elle est une illusion fabriquée par l’imaginaire collectif",
+        "D": "Elle est toujours active, mais inutile pour l'action humaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Pourquoi Bergson rejette-t-il l’idée que la conscience fasse de l’homme une exception radicale ?",
+      "réponses": {
+        "A": "Parce qu’il considère que la conscience humaine est instable",
+        "B": "Parce qu’il affirme que la différence entre l’homme et l’animal est une question de degré, non de nature",
+        "C": "Parce qu’il nie que les animaux aient la moindre conscience",
+        "D": "Parce qu’il considère l’intelligence humaine comme inférieure à l’instinct"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Vrai ou faux : Nietzsche critique la conscience comme illusion de supériorité et affirme que l’inconscient est la partie la plus noble de l’homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Vrai ou faux : Selon Freud, l’homme est pleinement libre tant qu’il suit sa conscience.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

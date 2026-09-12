@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 4",
+  "id": "PH006_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Ce quiz est la suite du précédent. L'Axe 2 de cette problématique soutient que le mythe peut être compris comme une forme de rationalité :",
+      "réponses": {
+        "A": "Exclusivement supérieure à la raison scientifique, car il est le seul à pouvoir révéler des vérités absolues et immuables.",
+        "B": "Complètement opposée à toute logique, ne servant qu'à divertir l'imagination sans aucun sens structuré.",
+        "C": "Complémentaire ou primitive, capable d'organiser l'expérience humaine et d'offrir du sens là où la raison atteint ses limites.",
+        "D": "Définitivement dépassée et sans aucune pertinence pour la compréhension du monde contemporain ou les préoccupations existentielles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le mythe, bien que symbolique, est structuré selon une logique qui aide à :",
+      "réponses": {
+        "A": "Confondre l'esprit et l'empêcher de distinguer la réalité de la fiction, en le plongeant dans un monde purement imaginaire.",
+        "B": "Penser le monde, notamment par des récits symboliques construits sur des oppositions (comme vie/mort, nature/culture), montrant une cohérence interne.",
+        "C": "Supprimer toute forme de raisonnement critique, en imposant des croyances dogmatiques sans aucune remise en question ou analyse.",
+        "D": "Rendre l'humanité incapable de progresser scientifiquement, en la maintenant dans un état d'ignorance et de superstition primitives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La \"pensée mythique\", selon Claude Lévi-Strauss, est décrite comme une forme de pensée qui :",
+      "réponses": {
+        "A": "Procède uniquement par concepts abstraits et démonstrations logiques rigoureuses, sans aucune référence aux sens ou à l'émotion.",
+        "B": "Est ni absurde ni illogique, mais fonctionne par oppositions sensibles et structures binaires, révélant sa propre rationalité.",
+        "C": "Est entièrement dépendante de la volonté arbitraire des dieux, sans aucune structure interne ou cohérence narrative reconnaissable.",
+        "D": "Se limite à la simple répétition de traditions ancestrales, sans aucune capacité à créer de nouvelles significations ou à s'adapter aux changements du monde."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La référence à Claude Lévi-Strauss dans La Pensée sauvage souligne que le mythe est un mode de pensée rationnel à sa manière, fondé sur des structures :",
+      "réponses": {
+        "A": "Purement aléatoires et chaotiques, sans aucune régularité ou pattern identifiable qui pourrait organiser l'expérience humaine.",
+        "B": "Binaires, utilisant des paires d'oppositions pour construire du sens et organiser la perception du monde de manière cohérente.",
+        "C": "Linéaires et progressives, visant à l'accumulation de faits vérifiables et à la construction d'un savoir objectif par étapes successives.",
+        "D": "Cycliques et répétitives, reproduisant indéfiniment les mêmes événements sans aucune évolution ou transformation significative au fil du temps."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Le mythe répond à des grandes questions existentielles, telles que la mort, le mal ou la destinée, parce que ces dimensions de l'existence :",
+      "réponses": {
+        "A": "Peuvent être entièrement expliquées et résolues par la démonstration logique et la rigueur scientifique, rendant le mythe superflu.",
+        "B": "Sont de pures inventions de l'imagination humaine, sans aucune réalité objective ou impact sur la condition humaine.",
+        "C": "Échappent souvent à la démonstration logique et aux explications purement rationnelles, nécessitant une approche différente pour donner du sens.",
+        "D": "Sont réservées à la seule foi religieuse, qui les explique par des dogmes sans laisser aucune place à la réflexion ou à l'interprétation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel philosophe considère que le mythe \"donne à penser\" et est \"porteur de sens, non de démonstration\" ?",
+      "réponses": {
+        "A": "Sigmund Freud, pour son interprétation des mythes comme des expressions symboliques des pulsions inconscientes et des conflits psychiques fondamentaux.",
+        "B": "Carl Gustav Jung, pour sa théorie des archétypes et son exploration des mythes comme manifestations de l'inconscient collectif universel.",
+        "C": "Mircea Eliade, pour son étude du sacré et du profane, et la fonction du mythe dans la révélation du sacré et l'établissement des modèles exemplaires.",
+        "D": "Paul Ricœur, pour sa philosophie herméneutique qui explore le rôle du mythe dans la quête de sens existentiel face aux limites de la raison."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "La citation de Paul Ricœur sur le mythe comme \"porteur de sens, non de démonstration\" implique que :",
+      "réponses": {
+        "A": "Le mythe est un discours dénué de toute signification, incapable d'apporter une quelconque compréhension ou direction à l'existence humaine.",
+        "B": "Le mythe doit être traité comme une vérité scientifique, exigeant des preuves empiriques et des vérifications logiques pour être validé.",
+        "C": "Le mythe a une fonction existentielle et interprétative, offrant une signification profonde aux réalités humaines sans recourir à la logique formelle.",
+        "D": "Le mythe est une forme de connaissance primitive qui doit être rejetée car elle empêche le développement de la rationalité scientifique et de la pensée critique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'explication de l'Argument 1 insiste sur la \"cohérence propre\" du mythe et son rôle \"structurant pour l'intelligence humaine\", même s'il s'agit de récits symboliques. Cela signifie que :",
+      "réponses": {
+        "A": "Le mythe est un ensemble de superstitions aléatoires, sans aucun ordre ni logique interne reconnaissable par la pensée humaine.",
+        "B": "Le mythe, malgré son caractère non scientifique, possède une organisation interne et une logique symbolique qui aident l'esprit à organiser sa perception du réel.",
+        "C": "La cohérence du mythe est une illusion, le résultat de la projection de nos propres désirs inconscients sur des narrations fragmentées et incohérentes.",
+        "D": "La seule fonction du mythe est de masquer la vérité et d'empêcher l'émergence d'une pensée rationnelle et critique chez les individus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "La capacité du mythe à offrir une \"vision globale de la vie humaine\" face aux questions existentielles (Argument 2) est due au fait qu'il :",
+      "réponses": {
+        "A": "Se limite à une explication superficielle et fragmentaire des phénomènes, sans jamais aborder les préoccupations profondes de l'homme.",
+        "B": "Prétend résoudre tous les mystères de l'univers par une démonstration scientifique rigoureuse et universellement vérifiable.",
+        "C": "Dissout les questions existentielles en montrant qu'elles sont de simples constructions linguistiques sans aucune réalité objective ou significative.",
+        "D": "Fournit un cadre narratif et symbolique pour comprendre la place de l'homme dans le cosmos, ses origines et sa destinée, au-delà de la simple causalité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "La pensée mythique est considérée comme \"ni absurde ni illogique\" par Lévi-Strauss parce qu'elle :",
+      "réponses": {
+        "A": "Adopte la même méthode de vérification empirique et de démonstration formelle que la science moderne.",
+        "B": "Possède sa propre rationalité structurale, organisant le monde par des classifications et des relations, même si elle ne procède pas par concepts abstraits.",
+        "C": "Est une forme de pensée purement émotionnelle et intuitive, qui rejette toute forme de raisonnement ou de cohérence intellectuelle.",
+        "D": "Se conforme strictement aux règles de la logique aristotélicienne, en évitant toute contradiction interne dans ses récits."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Paul Ricœur considère que le mythe ne doit pas être rejeté, mais compris comme une manière profonde de faire sens là où la raison seule atteint ses limites. Cela implique que :",
+      "réponses": {
+        "A": "Le mythe est une forme de régression de l'esprit humain, un retour à des explications primitives et irrationnelles.",
+        "B": "La raison est la seule voie légitime vers la connaissance, et le mythe est un obstacle à son développement et à sa progression.",
+        "C": "La raison doit déconstruire et dissoudre complètement tous les mythes, afin de libérer l'esprit humain de toute forme d'illusion ou de superstition.",
+        "D": "Le mythe est un discours symbolique irremplaçable qui complète la raison en offrant des réponses aux questions de sens qui ne sont pas du ressort de la démonstration logique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "L'idée que le mythe \"organise l’expérience humaine par le biais de récits symboliques\" renforce la notion que le mythe n'est pas simplement une fiction, mais une structure qui :",
+      "réponses": {
+        "A": "Confond et désoriente l'individu en lui présentant une réalité chaotique et incompréhensible.",
+        "B": "Donne une intelligibilité et un cadre pour interpréter le monde et les événements de la vie, même sans être une explication scientifique.",
+        "C": "Se limite à la reproduction passive des faits observés, sans aucune capacité à créer du sens ou à influencer la perception du réel.",
+        "D": "Est uniquement destinée à divertir, sans aucune fonction cognitive ou structurante pour la pensée humaine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'Argument 1 sur le mythe souligne que, malgré son caractère symbolique, il est structuré selon une logique interne qui aide l'homme à penser le monde.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La pensée mythique, selon Lévi-Strauss, est intrinsèquement absurde et illogique, ce qui la rend incompatible avec toute forme de rationalité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Paul Ricœur soutient que le mythe doit être purement et simplement rejeté par la raison, car il n'apporte aucune démonstration ni preuve.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Les récits mythiques, construits sur des oppositions comme vie/mort, démontrent une cohérence qui aide à structurer l'intelligence humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Le mythe offre une explication scientifique des questions existentielles comme la mort ou le mal, en s'appuyant sur des démonstrations logiques vérifiables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La \"pensée sauvage\" de Lévi-Strauss suggère que la pensée mythique procède par concepts abstraits, à l'instar de la science moderne.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Selon Paul Ricœur, la raison atteint ses limites face à certaines dimensions de l'existence, et le mythe vient alors compléter cette insuffisance en offrant du sens.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Le fait que le mythe repose sur l'imaginaire collectif et la croyance, sans méthode de vérification, est l'une des raisons pour lesquelles la raison le récuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

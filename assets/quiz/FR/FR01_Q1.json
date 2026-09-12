@@ -1,0 +1,106 @@
+{
+    "title": "Devoir : Les fondamentaux de la littérature (10 QCM)",
+    "id": "FR002_Q1",
+    "questions": {
+        "question n°1": {
+            "question": "Selon la définition du cours, laquelle de ces propositions ne fait PAS partie des finalités de la littérature ?",
+            "réponses": {
+                "A": "Susciter des émotions",
+                "B": "Fournir des informations scientifiques vérifiables",
+                "C": "Transmettre un message",
+                "D": "Porter un regard critique sur la société"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Lequel de ces termes désigne correctement l'auteur d'une pièce de théâtre ?",
+            "réponses": {
+                "A": "Un écrivain",
+                "B": "Un poète",
+                "C": "Un romancier",
+                "D": "Un dramaturge"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°3": {
+            "question": "Parmi ces affirmations, laquelle est EXACTE ?",
+            "réponses": {
+                "A": "La littérature a une finalité esthétique, expressive ou intellectuelle.",
+                "B": "La littérature se limite uniquement aux œuvres écrites.",
+                "C": "Un écrivain est l'auteur d'un roman.",
+                "D": "Les trois grands genres littéraires sont le roman, la nouvelle et la fable."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Lequel de ces énoncés concernant le roman est exact ?",
+            "réponses": {
+                "A": "Son auteur est appelé un dramaturge.",
+                "B": "Il est écrit en prose et met en scène des personnages et des événements.",
+                "C": "Il est toujours écrit en vers.",
+                "D": "Il se caractérise par une narration brève et des dialogues uniquement."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Trouve l'intrus parmi les caractéristiques suivantes du théâtre :",
+            "réponses": {
+                "A": "Il se caractérise par des dialogues entre personnages.",
+                "B": "Il est destiné à être joué sur scène.",
+                "C": "Il est écrit exclusivement en vers pour être récité.",
+                "D": "Le texte est souvent appelé texte dramatique."
+            },
+            "bonne réponse": "C"
+        },
+        "question n°6": {
+            "question": "La poésie se distingue des autres genres principalement parce que :",
+            "réponses": {
+                "A": "Elle raconte une longue histoire fictionnelle.",
+                "B": "Elle vise à exprimer des émotions à travers un langage rythmé et symbolique.",
+                "C": "Elle est destinée à être représentée.",
+                "D": "Elle est toujours écrite en prose."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Laquelle de ces affirmations est fausse (n'est pas exacte) ?",
+            "réponses": {
+                "A": "La littérature peut avoir une fonction critique envers la société.",
+                "B": "L'auteur d'un roman est appelé un romancier.",
+                "C": "La poésie peut parfois être écrite en prose poétique.",
+                "D": "Le théâtre est un genre littéraire destiné à la lecture uniquement."
+            },
+            "bonne réponse": "D"
+        },
+        "question n°8": {
+            "question": "« Cet auteur écrit des textes en vers, en utilisant des images et un langage symbolique. » De quel genre littéraire s'agit-il ?",
+            "réponses": {
+                "A": "Du théâtre",
+                "B": "De la nouvelle",
+                "C": "De la poésie",
+                "D": "Du roman"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°9": {
+            "question": "Trouve l'intrus dans cette liste d'auteurs et de genres associés :",
+            "réponses": {
+                "A": "Albert Camus - Dramaturge (uniquement)",
+                "B": "Émile Zola - Romancier",
+                "C": "Molière - Dramaturge",
+                "D": "Victor Hugo - Poète"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Parmi les propositions suivantes, laquelle est complètement exacte ?",
+            "réponses": {
+                "A": "Le roman, la poésie et le théâtre sont les trois grands genres littéraires.",
+                "B": "Un poète écrit exclusivement des pièces de théâtre.",
+                "C": "La littérature orale n'existe pas ; elle est toujours écrite.",
+                "D": "Le théâtre est un genre écrit uniquement pour être lu en silence."
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

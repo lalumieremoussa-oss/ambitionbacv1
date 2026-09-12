@@ -1,0 +1,238 @@
+{
+  "title": "Quiz 1",
+  "id": "SVT007_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la condition nécessaire à la respiration chez les levures ?",
+      "réponses": {
+        "A": "L’absence d’eau",
+        "B": "La présence d’oxygène",
+        "C": "La lumière du soleil",
+        "D": "L’absence de glucose"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est le substrat utilisé par les levures dans la respiration aérobie ?",
+      "réponses": {
+        "A": "L’ATP",
+        "B": "Le CO2",
+        "C": "Le glucose",
+        "D": "L’amidon"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quels sont les produits finaux de la respiration aérobie ?",
+      "réponses": {
+        "A": "Oxygène et glucose",
+        "B": "CO2, H2O et ATP",
+        "C": "Amidon et gaz carbonique",
+        "D": "O2 et ATP"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Comment appelle-t-on la réaction du glucose avec l’oxygène ?",
+      "réponses": {
+        "A": "Fermentation",
+        "B": "Respiration ou oxydation respiratoire",
+        "C": "Photosynthèse",
+        "D": "Hydratation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel gaz est consommé au cours de la respiration cellulaire ?",
+      "réponses": {
+        "A": "CO2",
+        "B": "N2",
+        "C": "O2",
+        "D": "H2"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La respiration cellulaire est une oxydation du glucose.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "La réaction de respiration ne produit que du dioxyde de carbone.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "La présence d’oxygène est indispensable pour la respiration aérobie.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "La fermentation est le même processus que la respiration cellulaire.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "L’ATP est une forme d’énergie produite lors de la respiration.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle est la réaction qui se produit en présence d’oxygène avec le glucose ?",
+      "réponses": {
+        "A": "Photosynthèse",
+        "B": "Fermentation",
+        "C": "Respiration (oxydation respiratoire)",
+        "D": "Déshydratation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel est le produit final principal de la respiration ?",
+      "réponses": {
+        "A": "Éthanol",
+        "B": "Dioxygène",
+        "C": "ATP",
+        "D": "Bichromate de potassium"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quels sont les produits de la respiration cellulaire ?",
+      "réponses": {
+        "A": "C6H12O6 + ATP",
+        "B": "CO2 + H2O + ATP",
+        "C": "CO2 + Éthanol",
+        "D": "O2 + Glucose"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel gaz est responsable du trouble de l’eau de chaux ?",
+      "réponses": {
+        "A": "Oxygène",
+        "B": "Hydrogène",
+        "C": "Dioxyde de carbone",
+        "D": "Azote"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que devient le bichromate de potassium en présence d’alcool ?",
+      "réponses": {
+        "A": "Il reste jaune",
+        "B": "Il devient incolore",
+        "C": "Il noircit",
+        "D": "Il vire au vert"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Lors de la fermentation alcoolique, le glucose est transformé en :",
+      "réponses": {
+        "A": "CO2 + H2O + ATP",
+        "B": "Acide lactique",
+        "C": "Éthanol + CO2 + ATP",
+        "D": "Oxygène + Éthanol"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "En absence d’oxygène, les levures produisent de l’alcool.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La fermentation produit plus d’énergie (ATP) que la respiration.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "La fermentation alcoolique est une réaction complète du glucose.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX (c’est une dégradation partielle)"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La respiration et la fermentation permettent à la cellule de produire de l’énergie.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°21": {
+      "question": "« La dégradation du glucose, en absence de dioxygène est la __________. Elle commence par la __________ au cours de laquelle une molécule de glucose comportant __________ se dégrade pour donner deux molécules… »",
+      "réponses": {
+        "A": "fermentation / photosynthèse / 6 atomes de carbone",
+        "B": "respiration / photosynthèse / 3 atomes de carbone",
+        "C": "fermentation / glycolyse / 6 atomes de carbone",
+        "D": "glycolyse / fermentation / 3 atomes de carbone"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "« …deux molécules __________ comportant chacune 3 atomes de carbone. La dégradation du glucose par la fermentation donne des __________ qui contiennent encore de l’énergie. »",
+      "réponses": {
+        "A": "d’acide acétique / enzymes",
+        "B": "d’acides pyruviques / résidus",
+        "C": "d’éthanol / déchets",
+        "D": "d’acides gras / substrats"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "« Il s’agit d’une dégradation __________. L’acide pyruvique peut être dégradé en alcool éthylique ou éthanol : fermentation __________. »",
+      "réponses": {
+        "A": "partielle / acétique",
+        "B": "complète / acétique",
+        "C": "totale / anaérobie",
+        "D": "partielle / alcoolique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "« La fermentation est un processus au cours duquel très __________ est libérée par la cellule. »",
+      "réponses": {
+        "A": "peu d’énergie",
+        "B": "peu d’eau",
+        "C": "peu de glucose",
+        "D": "peu d’enzymes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Laquelle des affirmations suivantes est correcte à propos de la fermentation alcoolique ?",
+      "réponses": {
+        "A": "Elle nécessite la présence d’oxygène.",
+        "B": "Elle transforme le glucose en eau et CO₂.",
+        "C": "Elle libère une grande quantité d’ATP.",
+        "D": "Elle produit de l’éthanol et du CO₂."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

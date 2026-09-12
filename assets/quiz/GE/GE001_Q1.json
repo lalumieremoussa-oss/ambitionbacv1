@@ -1,0 +1,307 @@
+
+{
+  "title": "Quiz 1",
+  "id": "GE001_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est l'ensemble des atouts naturels dont dispose la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Une variété de langues locales, des ports modernes, des routes bitumées et des universités de renom",
+        "B": "Un relief peu accidenté, une végétation variée, un climat favorable et des sols cultivables",
+        "C": "Une population active, une monnaie stable, des investissements étrangers et des services développés",
+        "D": "Des industries performantes, des réserves de change, des banques solides et un bon système de santé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie l'expression 'relief peu accidenté' en parlant de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Des montagnes abruptes entrecoupées de profonds ravins",
+        "B": "Des surfaces planes et légèrement ondulées, faciles à aménager",
+        "C": "Des collines très escarpées recouvertes de forêts denses",
+        "D": "Des plateaux rocailleux aux pentes inaccessibles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel avantage général la diversité naturelle donne-t-elle à la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Elle favorise uniquement le développement touristique et minier",
+        "B": "Elle limite l’accès aux terres agricoles et aux grandes villes",
+        "C": "Elle empêche le développement de cultures modernes",
+        "D": "Elle permet la mise en valeur du territoire dans plusieurs domaines"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle est la particularité des ressources naturelles ivoiriennes ?",
+      "réponses": {
+        "A": "Elles sont rares, peu exploitables et très concentrées dans une seule région",
+        "B": "Elles sont utilisées uniquement pour des activités artisanales sans impact économique",
+        "C": "Elles sont diversifiées, abondantes et réparties sur tout le territoire",
+        "D": "Elles nécessitent des technologies complexes pour être accessibles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pourquoi dit-on que la Côte d’Ivoire est bien pourvue en ressources naturelles ?",
+      "réponses": {
+        "A": "Elle dispose uniquement de pétrole en mer et d’or dans l’ouest du pays",
+        "B": "Elle est recouverte majoritairement de désert et de zones arides",
+        "C": "Elle possède un relief favorable, des climats variés, des sols fertiles et une végétation riche",
+        "D": "Elle dépend entièrement des importations pour son agriculture et son énergie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment les atouts naturels influencent-t-ils le peuplement de la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Ils poussent les populations à se concentrer dans les zones désertiques du nord",
+        "B": "Ils limitent les installations humaines dans toutes les régions rurales",
+        "C": "Ils sont à l’origine d’un exode massif vers les pays voisins",
+        "D": "Ils favorisent une répartition équilibrée et facilitent l’installation des populations"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Comment se caractérise le relief du sud de la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Une succession de montagnes aux pentes raides avec des vallées étroites",
+        "B": "Des plateaux aux altitudes élevées et des collines très escarpées",
+        "C": "Des plaines peu accidentées favorables à l’installation humaine et aux infrastructures",
+        "D": "Un désert plat et aride sans grande variation de relief"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Dans quelles régions se trouvent les montagnes de la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "À l’Ouest et au Nord-Ouest du pays",
+        "B": "Au centre-sud et au sud-est du pays",
+        "C": "Dans les zones forestières proches de la lagune",
+        "D": "Dans les zones urbaines et industrielles de la capitale"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle zone de la Côte d’Ivoire est caractérisée par des plateaux ?",
+      "réponses": {
+        "A": "La zone côtière de Grand-Bassam à San Pedro",
+        "B": "La partie centrale et nordique du pays",
+        "C": "Les zones humides autour des lacs artificiels",
+        "D": "La région frontalière avec le Ghana à l’est"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que le relief ivoirien est favorable à l’aménagement du territoire ?",
+      "réponses": {
+        "A": "Parce qu’il est constitué uniquement de hauts sommets et de volcans actifs",
+        "B": "Parce que les fleuves y sont nombreux et toujours navigables toute l’année",
+        "C": "Parce qu’il est peu accidenté, facilitant la construction de routes et d’infrastructures",
+        "D": "Parce qu’il est désertique et demande peu de travaux d’entretien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "En quoi le relief de la Côte d'Ivoire constitue-t-il un atout pour son développement économique ?",
+      "réponses": {
+        "A": "Il oblige à construire en hauteur, ce qui réduit l’utilisation des terres",
+        "B": "Il empêche la circulation, favorisant le transport aérien uniquement",
+        "C": "Il rend difficile l'accès aux zones rurales pour les agriculteurs",
+        "D": "Il facilite la construction d'infrastructures telles que les routes, les usines et les marchés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quel avantage économique offre un relief monotone comme celui de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Il rend les activités sportives extrêmes plus populaires dans le pays",
+        "B": "Il attire les touristes amateurs de montagnes et d’alpinisme",
+        "C": "Il permet une installation humaine dense et une bonne organisation des villes",
+        "D": "Il favorise uniquement l’exploitation minière et l’isolement des villages"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelles sont les deux grandes formations végétales en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le désert et la steppe",
+        "B": "Les forêts boréales et les forêts de bambou",
+        "C": "La forêt au sud et la savane au centre et au nord",
+        "D": "Les cactus au centre et les mangroves à l’ouest"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Où se situe principalement la savane en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Dans les zones portuaires et maritimes du sud",
+        "B": "Dans les régions du centre et du nord",
+        "C": "Dans les basses vallées des montagnes de l’ouest",
+        "D": "Autour des grandes métropoles urbaines"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel type de végétation pousse au bord des lagunes en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "La mangrove, végétation typique des zones marécageuses",
+        "B": "La forêt de montagne aux arbres géants",
+        "C": "La steppe aride composée uniquement d’herbes sèches",
+        "D": "La savane boisée dominée par les baobabs et les cactées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Pourquoi la variété de végétation est-elle un atout économique ?",
+      "réponses": {
+        "A": "Elle empêche l’exploitation agricole à grande échelle",
+        "B": "Elle empêche la circulation dans les zones rurales",
+        "C": "Elle favorise les incendies à répétition en saison sèche",
+        "D": "Elle offre de nombreuses possibilités agro-pastorales dans différentes zones"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel est l’avantage de la forêt dans le sud pour l’économie ivoirienne ?",
+      "réponses": {
+        "A": "Elle limite l’installation des populations locales",
+        "B": "Elle permet l’exploitation du bois et la culture du cacao et du café",
+        "C": "Elle empêche l’accès aux zones minières de l’ouest",
+        "D": "Elle est uniquement utile pour le tourisme écologique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi la savane est-elle aussi un atout économique ?",
+      "réponses": {
+        "A": "Elle est stérile et inutilisable pour toute activité humaine",
+        "B": "Elle est recouverte d’eau pendant la majeure partie de l’année",
+        "C": "Elle permet l’élevage et certaines cultures adaptées comme le coton ou le maïs",
+        "D": "Elle empêche l’élevage et favorise uniquement les forages profonds"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quels sont les deux types de climats dominants en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Le climat désertique et le climat montagnard",
+        "B": "Le climat équatorial et le climat glacial",
+        "C": "Le climat subéquatorial au sud et le climat tropical humide au nord",
+        "D": "Le climat méditerranéen et le climat tempéré"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Où se situe le climat baouléen ?",
+      "réponses": {
+        "A": "Dans la région lagunaire et maritime du sud-est",
+        "B": "Dans la région centrale du pays",
+        "C": "Dans les zones montagneuses de l’ouest",
+        "D": "Dans les déserts de la bande sahélienne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelle région connaît le climat soudanais en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Les villes côtières proches de la lagune Ebrié",
+        "B": "Les hautes terres du sud-ouest",
+        "C": "Les régions du nord de la Côte d'Ivoire",
+        "D": "Les zones forestières autour de Yamoussoukro"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "En quoi le climat chaud et humide est-il un atout pour la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Il empêche les activités agricoles en provoquant des inondations constantes",
+        "B": "Il favorise les sécheresses prolongées dans toutes les régions",
+        "C": "Il est propice à l’agriculture, au peuplement et aux activités économiques",
+        "D": "Il rend impossible la culture de plantes tropicales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Pourquoi la pluviométrie abondante est-elle favorable à l’économie ?",
+      "réponses": {
+        "A": "Elle détruit les routes et empêche les transports de marchandises",
+        "B": "Elle assure une bonne irrigation pour les cultures agricoles",
+        "C": "Elle freine l’implantation des zones industrielles dans le sud",
+        "D": "Elle favorise uniquement la production de sel marin"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Comment les climats diversifiés aident-ils au développement économique ?",
+      "réponses": {
+        "A": "Ils permettent la culture de produits agricoles variés adaptés à chaque région",
+        "B": "Ils réduisent le nombre de jours de travail dans les plantations",
+        "C": "Ils empêchent l’adaptation de l’agriculture aux conditions climatiques",
+        "D": "Ils freinent la migration des populations vers les zones rurales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Quels types de sols trouve-t-on en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Des sols ferralitiques, ferrugineux et hydromorphes",
+        "B": "Uniquement des sols sablonneux de type désertique",
+        "C": "Des sols volcaniques et glacés dans les montagnes",
+        "D": "Des sols pierreux et non cultivables dans tout le pays"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Où trouve-t-on principalement les sols hydromorphes ?",
+      "réponses": {
+        "A": "Dans les régions arides du nord sahélien",
+        "B": "Dans les savanes herbeuses du centre",
+        "C": "Dans les bas-fonds et zones marécageuses du pays",
+        "D": "Sur les hauts plateaux volcaniques du sud-ouest"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°27": {
+      "question": "Les sols ferrugineux se retrouvent surtout dans quelles zones ?",
+      "réponses": {
+        "A": "Dans les déserts et zones salées du pays",
+        "B": "Dans les savanes du centre et du nord",
+        "C": "Sur les plages du littoral atlantique",
+        "D": "Dans les forêts humides du sud profond"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Pourquoi dit-on que les sols ivoiriens sont favorables à l’agriculture ?",
+      "réponses": {
+        "A": "Parce qu’ils sont secs et durs comme la pierre toute l’année",
+        "B": "Parce qu’ils contiennent des métaux précieux exploitables",
+        "C": "Parce qu’ils sont humides, variés et adaptés à différentes cultures",
+        "D": "Parce qu’ils se trouvent uniquement dans les zones non peuplées"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Comment les bas-fonds contribuent-ils à l’économie agricole ?",
+      "réponses": {
+        "A": "Ils empêchent toute culture à cause des inondations",
+        "B": "Ils offrent des sols humides adaptés au maraîchage et à la riziculture",
+        "C": "Ils sont utilisés pour la construction de routes et d’aéroports",
+        "D": "Ils sont impropres à toute utilisation humaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quel rôle jouent les sols ferralitiques pour l’économie ?",
+      "réponses": {
+        "A": "Ils sont uniquement décoratifs et peu utiles pour l’agriculture",
+        "B": "Ils permettent la culture de produits tropicaux comme le cacao et le café",
+        "C": "Ils ne retiennent pas l’eau et causent des pertes agricoles",
+        "D": "Ils sont exploités uniquement pour la construction de maisons en banco"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

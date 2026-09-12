@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 1",
+  "id": "PH006_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème \"la valeur de la philosophie\". On considère le sujet suivant : \"La philosophie est-elle un luxe ?\". Que signifie \"considérer la philosophie comme un luxe\" ?",
+      "réponses": {
+        "A": "Une activité essentielle et indispensable pour l'épanouissement intégral de l'être humain, sans laquelle la société ne pourrait progresser de manière significative et durable.",
+        "B": "Une discipline universitaire complexe et abstraite, réservée à une élite intellectuelle, qui permet d'accéder à des connaissances supérieures sans application directe au quotidien.",
+        "C": "Une activité superflue, non nécessaire ou inutile, qui n'apporte pas de solutions concrètes aux préoccupations pratiques et immédiates des hommes dans la vie quotidienne.",
+        "D": "Un investissement coûteux en temps et en ressources, mais dont les bénéfices à long terme sont indéniables pour le développement de la pensée critique et de la sagesse universelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le \"scepticisme\" développé par la philosophie, selon l'Argument (la philosophie développe chez l’homme le scepticisme.), est caractérisé comme :",
+      "réponses": {
+        "A": "Une méthode rigoureuse de vérification des faits, conduisant à une connaissance certaine et incontestable de la vérité universelle et objective.",
+        "B": "Un doute permanent qui plonge la conscience de l'homme dans la contradiction, l'empêchant de s'orienter ou de trouver des certitudes stables dans le monde.",
+        "C": "Une attitude de prudence intellectuelle, incitant à la remise en question constructive des dogmes pour favoriser l'innovation et le progrès scientifique continu.",
+        "D": "Un refus catégorique de toute forme de croyance ou de connaissance, conduisant à une absence totale de jugement et à une passivité intellectuelle radicale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Le \"verbiage creux\" reproché à la philosophie (Argument 3: La philosophie se discrédite par son verbiage creux) implique que la philosophie est perçue comme :",
+      "réponses": {
+        "A": "Un discours profondément abstrait et complexe, mais dont la richesse conceptuelle est essentielle pour l'approfondissement des grandes questions existentielles.",
+        "B": "Une rhétorique vide de sens pratique, qui n'offre aucune solution concrète aux défis réels auxquels les individus et les sociétés sont confrontés au quotidien.",
+        "C": "Une manière de s'exprimer avec une éloquence raffinée, permettant de persuader les auditeurs de la pertinence des idées philosophiques dans le débat public.",
+        "D": "Un langage métaphorique et poétique, dont la beauté et la subtilité permettent d'explorer des dimensions de l'expérience humaine inaccessibles à la rationalité pure."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel philosophe est associé à l'affirmation que \"Toute la philosophie est comme un champ de bataille où personne ne sortira vainqueur\" ?",
+      "réponses": {
+        "A": "Georg Wilhelm Friedrich Hegel, pour sa dialectique du progrès de l'Esprit vers la connaissance absolue et la réconciliation des contradictions.",
+        "B": "Emmanuel Kant, exprimant une critique de la philosophie dogmatique, où les systèmes s'affrontent sans parvenir à une vérité unifiée ou un consensus durable.",
+        "C": "René Descartes, pour sa recherche d'une première vérité indubitable capable de fonder un système philosophique solide et cohérent.",
+        "D": "Ludwig Wittgenstein, pour ses analyses du langage qui visent à dissoudre les problèmes philosophiques en montrant qu'ils résultent de confusions linguistiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La citation de Jean-Jacques Rousseau : \"Tous les philosophes sont des charlatans\", s'inscrit dans un courant de pensée qui :",
+      "réponses": {
+        "A": "Fait l'éloge de la raison et de la science comme seuls guides de la vérité, discréditant les spéculations philosophiques sans fondement empirique.",
+        "B": "Critiqua la philosophie pour son éloignement de la nature humaine et de la simplicité des mœurs, la jugeant corruptrice et artificielle par ses discours vains.",
+        "C": "Affirme la nécessité de la philosophie pour éclairer les esprits et dénoncer les préjugés, la considérant comme l'instrument essentiel du progrès social et politique.",
+        "D": "S'intéresse à la construction de systèmes métaphysiques complexes, cherchant à dévoiler les vérités ultimes sur l'être et la connaissance universelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe a déclaré : \"Les philosophes n’ont fait qu’interpréter le monde de diverses manières, ce qui importe à présent, c’est de le transformer\" ?",
+      "réponses": {
+        "A": "Platon, pour sa théorie des Idées où la connaissance philosophique permet d'accéder à la réalité intelligible et de comprendre la Vérité éternelle.",
+        "B": "Friedrich Nietzsche, pour sa généalogie de la morale et son appel à une transvaluation des valeurs pour une nouvelle manière d'exister.",
+        "C": "Karl Marx, critiquant l'aspect contemplatif et non-pratique de la philosophie traditionnelle, et appelant à une philosophie de l'action révolutionnaire.",
+        "D": "Socrate, pour sa méthode de la maïeutique, visant à faire accoucher les esprits de leurs propres connaissances par l'interrogation continue."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Le scepticisme développé par la philosophie a pour conséquence de :",
+      "réponses": {
+        "A": "Renforcer la confiance de l'homme en ses propres jugements et lui donner une direction claire et précise dans la vie quotidienne.",
+        "B": "Plonger la conscience de l'homme dans la contradiction, au point où il ne sait plus s'orienter, créant une confusion intellectuelle persistante.",
+        "C": "Développer une capacité d'analyse critique aiguisée, permettant de distinguer le vrai du faux avec une grande précision et sans hésitation.",
+        "D": "Faciliter l'acceptation inconditionnelle des dogmes établis et des traditions ancestrales, assurant ainsi la stabilité sociale et morale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "L'idée que l'activité philosophique est \"inachevée, remise en cause perpétuelle et controversée\" souligne :",
+      "réponses": {
+        "A": "Le caractère définitif et immuable des vérités découvertes par la philosophie, qui s'imposent à tous les esprits de manière universelle et indéniable.",
+        "B": "La nature cumulative et progressive de la philosophie, où chaque nouvelle théorie s'appuie sur les précédentes pour atteindre des conclusions plus solides et vérifiables.",
+        "C": "La difficulté inhérente à la philosophie de parvenir à des réponses uniques et consensuelles, se caractérisant par une exploration continue et des désaccords persistants.",
+        "D": "Le manque de rigueur méthodologique de la philosophie, qui l'empêche de construire des systèmes de pensée cohérents et logiquement fondés."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La distinction entre la philosophie et la technoscience repose sur le fait que la technoscience :",
+      "réponses": {
+        "A": "Développe des théories purement spéculatives, sans aucune application pratique ou incidence sur la réalité matérielle.",
+        "B": "Se discrédite par un verbiage creux et des discussions abstraites qui ne mènent à aucune conclusion tangible.",
+        "C": "Apporte des solutions concrètes et pratiques aux préoccupations quotidiennes des hommes, à l'inverse de la philosophie perçue comme inefficace.",
+        "D": "Se concentre uniquement sur l'interprétation du monde, sans jamais chercher à le transformer ou à agir sur lui de manière significative."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La citation de Kant, \"Toute la philosophie est comme un champ de bataille où personne ne sortira vainqueur\", implique que :",
+      "réponses": {
+        "A": "Les débats philosophiques mènent inévitablement à des solutions claires et définitives qui résolvent toutes les contradictions du savoir humain.",
+        "B": "Les différentes écoles de pensée philosophique s'affrontent sans qu'aucune ne puisse imposer sa vérité de manière universelle, aboutissant à une impasse constante.",
+        "C": "La philosophie est une discipline collaborative où les idées se combinent harmonieusement pour construire un savoir unifié et consensuel au fil du temps.",
+        "D": "La seule issue possible pour la philosophie est de renoncer à la recherche de la vérité et de se contenter de la multiplicité des opinions subjectives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'idée que les philosophes sont des \"charlatans\", selon Rousseau, est basée sur la perception que leurs discours sont :",
+      "réponses": {
+        "A": "Profondément honnêtes et désintéressés, cherchant la vérité pour elle-même et au bénéfice de l'humanité entière.",
+        "B": "Utiles et efficaces, apportant des solutions concrètes aux problèmes sociaux et politiques de leur époque.",
+        "C": "Trompeurs, vains et éloignés de la véritable sagesse ou de l'utilité pratique, masquant une prétention au savoir sans substance.",
+        "D": "Modestes et humbles, reconnaissant les limites de la raison humaine et la complexité des questions abordées."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "L'appel de Marx à \"transformer\" le monde plutôt que de seulement l'interpréter, met en lumière :",
+      "réponses": {
+        "A": "Une valorisation de l'action politique et sociale comme le véritable objectif de la pensée philosophique, par opposition à la contemplation passive.",
+        "B": "Un rejet de toute forme de connaissance ou de réflexion intellectuelle, au profit d'une activité purement matérielle et irréfléchie.",
+        "C": "Une affirmation de la supériorité de la théorie sur la pratique, où la compréhension du monde est suffisante sans nécessiter d'intervention active.",
+        "D": "Un encouragement à la spéculation métaphysique, où la philosophie s'éloigne de la réalité concrète pour se consacrer aux questions ultimes de l'être."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "La philosophie est parfois considérée comme inutile à une époque dominée par la technologie et la rentabilité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Le scepticisme philosophique, en développant le doute, aide l'homme à trouver plus facilement son orientation et des certitudes inébranlables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Jean-Jacques Rousseau, en qualifiant les philosophes de \"charlatans\", critique leur superficialité et leur éloignement de la vraie sagesse et de l'utilité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "La technoscience, contrairement à la philosophie, est présentée comme une discipline qui apporte des solutions concrètes et pratiques aux préoccupations quotidiennes des hommes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Karl Marx, dans Idéologie Allemande, critique la philosophie pour son incapacité à transformer réellement le monde, se contentant de l'interpréter.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La philosophie est caractérisée comme une activité inachevée et controversée, ce qui signifie qu'elle atteint rarement des conclusions définitives et unanimes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Emmanuel Kant, avec son idée de la philosophie comme \"champ de bataille\", suggère qu'elle mène toujours à des victoires écrasantes pour certaines écoles de pensée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La question \"La philosophie est-elle un superflu ?\" introduit une problématique qui explore la valeur et la pertinence de la philosophie dans le monde contemporain.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

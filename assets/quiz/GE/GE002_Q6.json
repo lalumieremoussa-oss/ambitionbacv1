@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 6",
+  "id": "GE002_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi le relief ivoirien est-il un atout pour l'industrie ?",
+      "réponses": {
+        "A": "Il permet l’installation facile d’infrastructures industrielles sur de vastes surfaces",
+        "B": "Il rend la construction difficile à cause des montagnes élevées",
+        "C": "Il favorise uniquement l’exploitation forestière traditionnelle",
+        "D": "Il empêche le développement industriel à cause de sa complexité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Comment l’ouverture maritime de la Côte d’Ivoire favorise-t-elle l’industrie ?",
+      "réponses": {
+        "A": "Elle facilite l’importation de matières premières et l’exportation de produits",
+        "B": "Elle limite les échanges internationaux pour préserver l’économie locale",
+        "C": "Elle oblige à dépendre uniquement des ressources de la forêt",
+        "D": "Elle rend obligatoire le transport aérien pour toutes les marchandises"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Pourquoi dit-on que la Côte d’Ivoire est un carrefour régional ?",
+      "réponses": {
+        "A": "Parce qu’elle permet les échanges entre pays voisins et le reste du monde",
+        "B": "Parce qu’elle est enclavée et entourée de montagnes",
+        "C": "Parce qu’elle est située à la frontière de trois océans",
+        "D": "Parce qu’elle ne possède aucun axe de communication moderne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quels types de matières premières profitent à l’industrie ivoirienne ?",
+      "réponses": {
+        "A": "Matières animales, agricoles, minières et sources d’énergie variées",
+        "B": "Uniquement les matières précieuses comme le diamant et le coltan",
+        "C": "Les importations de produits européens uniquement",
+        "D": "Les déchets recyclés et les produits usagés importés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel rôle jouent les ressources minières dans le développement industriel ?",
+      "réponses": {
+        "A": "Elles sont stockées uniquement à des fins de conservation",
+        "B": "Elles servent de matières premières essentielles pour les usines locales",
+        "C": "Elles sont exclusivement exportées sans transformation locale",
+        "D": "Elles sont interdites d’exploitation par la législation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Comment le système lagunaire contribue-t-il à l’activité industrielle ?",
+      "réponses": {
+        "A": "Il empêche l’accès aux régions côtières et isole les villes portuaires",
+        "B": "Il est réservé exclusivement aux activités de pêche artisanale",
+        "C": "Il facilite le transport maritime et les échanges commerciaux",
+        "D": "Il provoque des inondations qui ralentissent l’industrialisation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Pourquoi la population ivoirienne est-elle un atout pour l’industrie ?",
+      "réponses": {
+        "A": "Parce qu’elle est jeune, nombreuse, dynamique et bon marché",
+        "B": "Parce qu’elle est principalement rurale et analphabète",
+        "C": "Parce qu’elle est peu nombreuse et difficile à mobiliser",
+        "D": "Parce qu’elle refuse de participer à l’industrialisation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel est le niveau de qualification de la population ivoirienne ?",
+      "réponses": {
+        "A": "Elle n’a reçu aucune formation technique ou professionnelle",
+        "B": "Elle est de plus en plus qualifiée grâce aux formations et expériences",
+        "C": "Elle est exclusivement formée à l’agriculture vivrière",
+        "D": "Elle ne s’intéresse pas au secteur secondaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est l’un des obstacles humains au développement industriel ?",
+      "réponses": {
+        "A": "Le faible niveau de l’épargne nationale pour financer les projets",
+        "B": "La surpopulation industrielle dans les zones rurales",
+        "C": "L’excès de main-d’œuvre spécialisée dans les technologies spatiales",
+        "D": "La rareté de zones industrielles aménagées dans les capitales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quel est l’intérêt de la diversité de la population pour l’industrie ?",
+      "réponses": {
+        "A": "Elle entraîne des conflits ethniques qui freinent l’industrie",
+        "B": "Elle favorise une diversité d’initiatives et une capacité d’adaptation",
+        "C": "Elle ralentit la productivité à cause des divisions régionales",
+        "D": "Elle ne joue aucun rôle dans le développement économique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le rôle des investisseurs étrangers dans l’industrie ivoirienne ?",
+      "réponses": {
+        "A": "Ils empêchent la création d’emplois locaux",
+        "B": "Ils apportent capitaux, savoir-faire et main-d’œuvre qualifiée",
+        "C": "Ils remplacent les produits locaux par des importations",
+        "D": "Ils détournent les ressources sans aucune contrepartie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Qu’est-ce qui rend la main-d’œuvre ivoirienne attractive pour les industries ?",
+      "réponses": {
+        "A": "Elle est jeune, disponible, bon marché et de plus en plus qualifiée",
+        "B": "Elle est vieillissante, chère et demande des salaires élevés",
+        "C": "Elle est concentrée uniquement dans le secteur primaire",
+        "D": "Elle est hostile à l’implantation des entreprises étrangères"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel système économique la Côte d’Ivoire a-t-elle adopté ?",
+      "réponses": {
+        "A": "Le collectivisme industriel totalitaire",
+        "B": "Le libéralisme économique avec ouverture sur l’extérieur",
+        "C": "Le protectionnisme dirigé par l’armée",
+        "D": "L’économie fermée basée sur l’auto-consommation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Que signifie le désengagement de l’État dans l’industrie ?",
+      "réponses": {
+        "A": "L’interdiction de créer des entreprises",
+        "B": "La nationalisation forcée de toutes les sociétés",
+        "C": "La privatisation des entreprises publiques et leur vente au privé",
+        "D": "La suppression du secteur industriel au profit de l’agriculture"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel est le rôle du CEPICI ?",
+      "réponses": {
+        "A": "Promouvoir les investissements et faciliter les démarches des investisseurs",
+        "B": "Contrôler les prix des denrées alimentaires et du transport",
+        "C": "Réprimer les entreprises illégales et collecter les impôts",
+        "D": "Fournir des semences et engrais aux planteurs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Que contient le code d’investissement ivoirien ?",
+      "réponses": {
+        "A": "Des sanctions contre les entreprises étrangères",
+        "B": "Une obligation d’exporter tous les produits industriels",
+        "C": "Des mesures incitatives : exonérations fiscales, réductions de taxes",
+        "D": "Un quota limité à dix entreprises par an"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi l'État crée-t-il des forums d’investissement ?",
+      "réponses": {
+        "A": "Pour attirer des capitaux et valoriser les potentialités économiques du pays",
+        "B": "Pour obliger les jeunes à entreprendre",
+        "C": "Pour interdire l’entrée des investisseurs étrangers",
+        "D": "Pour subventionner les industries agricoles uniquement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelles infrastructures l’État met-il en place pour l’industrie ?",
+      "réponses": {
+        "A": "Routes, ports, réseaux télécoms, énergie, rails",
+        "B": "Pistes rurales, canaux agricoles, marchés villageois",
+        "C": "Universités de médecine et stations balnéaires",
+        "D": "Décharges publiques et parcs d’attractions"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Pourquoi l’État crée-t-il une Chambre d’Industrie ?",
+      "réponses": {
+        "A": "Pour informer et encadrer les nouveaux investisseurs industriels",
+        "B": "Pour organiser les concours scolaires et les examens",
+        "C": "Pour surveiller la qualité des aliments importés",
+        "D": "Pour fixer les prix de l’électricité et du carburant"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel est l’effet de la liberté d’entreprise sur l’industrie ?",
+      "réponses": {
+        "A": "Elle ralentit l’innovation et provoque le chômage",
+        "B": "Elle attire les investisseurs et stimule la création d’entreprises",
+        "C": "Elle supprime les grandes entreprises au profit des PME",
+        "D": "Elle empêche l’exportation des produits industriels"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

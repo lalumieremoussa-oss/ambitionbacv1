@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+            [
+                {
+                    "title": "Étape 3 : Primitives de la forme $u'u^n$ (Puissance d'une fonction)",
+                    "content": "La règle la plus utilisée pour les fonctions composées est celle qui inverse la dérivation de $u^n$.\n\n**Formule fondamentale :**\nSi la fonction $f$ peut s'écrire sous la forme $f = u' \\cdot u^n$ (avec $n \\neq -1$),\nalors une primitive est : $F = \\frac{u^{n+1}}{n+1} + C$.\n\nCette règle s'applique dès que l'on reconnaît un produit entre une expression et sa propre dérivée (à un coefficient multiplicateur près).",
+                    "example": "Déterminons la primitive de $f(x) = (2x + 1)(x^2 + x + 5)^3$ :\n\n1. Identifions $u(x)$ : Soit $u(x) = x^2 + x + 5$.\n2. Calculons sa dérivée : $u'(x) = 2x + 1$.\n3. Observons la forme de $f$ : $f(x) = u'(x) \\cdot (u(x))^3$.\nIci $n = 3$.\n\n4. Appliquons la formule $\\frac{u^{n+1}}{n+1}$ :\n$F(x) = \\frac{(x^2 + x + 5)^{3+1}}{3+1} = \\frac{(x^2 + x + 5)^4}{4}$.\n\nRésultat final :\n$F(x) = \\frac{1}{4}(x^2 + x + 5)^4 + C$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = 3(3x - 2)^5$.\n$u = 3x-2 \\implies u' = 3$.\nForme $u'u^5$.\n$F(x) = \\frac{(3x-2)^6}{6} + C$.",
+                        "Exemple complet : Soit $f(x) = x(x^2 + 1)^4$.\n$u = x^2+1 \\implies u' = 2x$.\nOn ajuste le coefficient : $f(x) = \\frac{1}{2}(2x)(x^2 + 1)^4$.\n$F(x) = \\frac{1}{2} \\times \\frac{(x^2+1)^5}{5} = \\frac{(x^2+1)^5}{10} + C$.",
+                        "Exemple complet : Soit $f(x) = \\cos(x)\\sin^2(x)$.\n$u = \\sin(x) \\implies u' = \\cos(x)$.\nForme $u'u^2$.\n$F(x) = \\frac{\\sin^3(x)}{3} + C$.",
+                        "Exemple complet : Soit $f(x) = (2x+3)^2$.\n$u = 2x+3 \\implies u' = 2$.\n$f(x) = \\frac{1}{2}(2)(2x+3)^2$.\n$F(x) = \\frac{1}{2} \\times \\frac{(2x+3)^3}{3} = \\frac{(2x+3)^3}{6} + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{(x+1)^2}{1}$.\nIci $u=x+1, u'=1$.\n$F(x) = \\frac{(x+1)^3}{3} + C$."
+                    ]
+                },
+                {
+                    "title": "Étape 4 : Primitives des formes $u'/u^2$ et $u'/\\sqrt{u}$",
+                    "content": "Cette étape traite des quotients spécifiques où le numérateur est la dérivée du dénominateur (ou d'une partie du dénominateur).\n\n1. **Forme Inverse :** Si $f = \\frac{u'}{u^2}$, alors $F = -\\frac{1}{u} + C$.\n2. **Forme Racine :** Si $f = \\frac{u'}{\\sqrt{u}}$, alors $F = 2\\sqrt{u} + C$.\n\n**Méthode :** Il faut toujours vérifier si le numérateur correspond à la dérivée de ce qui est sous le carré ou sous la racine. Si un facteur manque, on l'ajuste par multiplication/division.",
+                    "example": "Déterminons la primitive de $f(x) = \\frac{2x}{(x^2 + 1)^2}$ :\n\n1. Identifions $u(x)$ : Soit $u(x) = x^2 + 1$.\n2. Calculons sa dérivée : $u'(x) = 2x$.\n3. Observons la forme : $f(x) = \\frac{u'(x)}{(u(x))^2}$.\n\n4. Appliquons la formule $-\\frac{1}{u}$ :\n$F(x) = -\\frac{1}{x^2 + 1}$.\n\nRésultat final :\n$F(x) = -\\frac{1}{x^2 + 1} + C$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = \\frac{1}{(5x - 3)^2}$.\n$u = 5x-3 \\implies u' = 5$.\nOn écrit $f(x) = \\frac{1}{5} \\times \\frac{5}{(5x-3)^2}$.\n$F(x) = \\frac{1}{5} \\times (-\\frac{1}{5x-3}) = -\\frac{1}{5(5x-3)} + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{x}{\\sqrt{x^2 + 4}}$.\n$u = x^2+4 \\implies u' = 2x$.\nOn écrit $f(x) = \\frac{1}{2} \\times \\frac{2x}{\\sqrt{x^2+4}}$.\n$F(x) = \\frac{1}{2} \\times 2\\sqrt{x^2+4} = \\sqrt{x^2+4} + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{\\cos(x)}{\\sqrt{\\sin(x)}}$.\n$u = \\sin(x) \\implies u' = \\cos(x)$.\nForme $u'/\\sqrt{u}$.\n$F(x) = 2\\sqrt{\\sin(x)} + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{3}{(x+2)^2}$.\n$u = x+2 \\implies u' = 1$.\n$F(x) = -\\frac{3}{x+2} + C$.",
+                        "Exemple complet : Soit $f(x) = \\frac{6x+2}{\\sqrt{3x^2+2x+1}}$.\n$u = 3x^2+2x+1 \\implies u'=6x+2$.\nForme $u'/\\sqrt{u}$.\n$F(x) = 2\\sqrt{3x^2+2x+1} + C$."
+                    ]
+                }
+            ]
+
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

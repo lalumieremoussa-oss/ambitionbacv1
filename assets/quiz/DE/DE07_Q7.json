@@ -1,0 +1,376 @@
+{
+  "title": "DE07_Q7",
+  "id": "DE07_Q7",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la réponse de 15 x 15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "drei",
+        "hundert",
+        "fünfundzwanzig",
+        "vier",
+        "und",
+        "ein",
+        "zwei",
+        "sieben"
+      ],
+      "bonne réponse": "zweihundertfünfundzwanzig"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse de 100 x 10 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "zwei",
+        "hundert",
+        "ein"
+      ],
+      "bonne réponse": "eintausend"
+    },
+    "question n°3": {
+      "question": "Quelle est la réponse de 25 x 40 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "tausend",
+        "ein",
+        "fünf"
+      ],
+      "bonne réponse": "eintausend"
+    },
+    "question n°4": {
+      "question": "Quelle est la réponse de 50 x 50 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "acht",
+        "zwei",
+        "fünf",
+        "zehn",
+        "tausend",
+        "fünfzig",
+        "hundert",
+        "one"
+      ],
+      "bonne réponse": "zweitausendfünfhundert"
+    },
+    "question n°5": {
+      "question": "Quelle est la réponse de 10000 / 2 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "tausend",
+        "zehn",
+        "fünf"
+      ],
+      "bonne réponse": "fünftausend"
+    },
+    "question n°6": {
+      "question": "Quelle est la réponse de 200 x 15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwei",
+        "tausend",
+        "fünf",
+        "drei"
+      ],
+      "bonne réponse": "dreitausend"
+    },
+    "question n°7": {
+      "question": "Quelle est la réponse de 10000 / 10 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ein",
+        "hundert",
+        "zehn",
+        "tausend"
+      ],
+      "bonne réponse": "eintausend"
+    },
+    "question n°8": {
+      "question": "Quelle est la réponse de 33 x 30 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "und",
+        "drei",
+        "neunzig",
+        "ein",
+        "zehn",
+        "neun",
+        "vierzig"
+      ],
+      "bonne réponse": "neunhundertneunzig"
+    },
+    "question n°9": {
+      "question": "Quelle est la réponse de 100 x 101 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "drei",
+        "hundert",
+        "zehn",
+        "neun",
+        "tausend",
+        "zwei",
+        "ein",
+        "fünfzig"
+      ],
+      "bonne réponse": "zehntausendeinhundert"
+    },
+    "question n°10": {
+      "question": "Quelle est la réponse de 20 x 200 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "fünf",
+        "vier",
+        "zwei"
+      ],
+      "bonne réponse": "viertausend"
+    },
+    "question n°11": {
+      "question": "Quelle est la réponse de 121 / 11 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwanzig",
+        "eins",
+        "elf",
+        "zehn"
+      ],
+      "bonne réponse": "elf"
+    },
+    "question n°12": {
+      "question": "Quelle est la réponse de 150 x 5 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "und",
+        "zwei",
+        "fünfzig",
+        "ein",
+        "hundert",
+        "sechs",
+        "sieben",
+        "fünf"
+      ],
+      "bonne réponse": "siebenhundertfünfzig"
+    },
+    "question n°13": {
+      "question": "Quelle est la réponse de 20000 / 4 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "fünf",
+        "hundert",
+        "zwanzig"
+      ],
+      "bonne réponse": "fünftausend"
+    },
+    "question n°14": {
+      "question": "Quelle est la réponse de 250 x 4 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "vier",
+        "ein",
+        "zwei"
+      ],
+      "bonne réponse": "eintausend"
+    },
+    "question n°15": {
+      "question": "Quelle est la réponse de 111 x 3 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ein",
+        "tausend",
+        "dreiunddreißig",
+        "fünf",
+        "hundert",
+        "zehn",
+        "und",
+        "drei",
+        "vierzig",
+        "zwei",
+        "sechs"
+      ],
+      "bonne réponse": "dreihundertdreiunddreißig"
+    },
+    "question n°16": {
+      "question": "Quelle est la réponse de 10000 / 5 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "tausend",
+        "hundert",
+        "zwei"
+      ],
+      "bonne réponse": "zweitausend"
+    },
+    "question n°17": {
+      "question": "Quelle est la réponse de 100 x 15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "hundert",
+        "ein",
+        "fünf",
+        "zwei",
+        "tausend"
+      ],
+      "bonne réponse": "eintausendfünfhundert"
+    },
+    "question n°18": {
+      "question": "Quelle est la réponse de 70 x 100 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "tausend",
+        "sieben",
+        "zehn"
+      ],
+      "bonne réponse": "siebentausend"
+    },
+    "question n°19": {
+      "question": "Quelle est la réponse de 22 x 50 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "zwei",
+        "hundert",
+        "zehn",
+        "ein"
+      ],
+      "bonne réponse": "eintausendeinhundert"
+    },
+    "question n°20": {
+      "question": "Quelle est la réponse de 9000 / 3 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "neun",
+        "tausend",
+        "drei",
+        "hundert"
+      ],
+      "bonne réponse": "dreitausend"
+    },
+    "question n°21": {
+      "question": "Quelle est la réponse de 100 x 500 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünf",
+        "fünfzig",
+        "hundert",
+        "tausend"
+      ],
+      "bonne réponse": "fünfzigtausend"
+    },
+    "question n°22": {
+      "question": "Quelle est la réponse de 100000 / 10 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "tausend",
+        "zehn",
+        "ein"
+      ],
+      "bonne réponse": "zehntausend"
+    },
+    "question n°23": {
+      "question": "Quelle est la réponse de 11 x 1000 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ein",
+        "elf",
+        "hundert",
+        "tausend"
+      ],
+      "bonne réponse": "elftausend"
+    },
+    "question n°24": {
+      "question": "Quelle est la réponse de 30 x 300 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "drei",
+        "hundert",
+        "neun"
+      ],
+      "bonne réponse": "neuntausend"
+    },
+    "question n°25": {
+      "question": "Quelle est la réponse de 1000 x 50 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünf",
+        "hundert",
+        "fünfzig",
+        "tausend"
+      ],
+      "bonne réponse": "fünfzigtausend"
+    },
+    "question n°26": {
+      "question": "Quelle est la réponse de 20 x 20 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwanzig",
+        "hundert",
+        "zwei",
+        "vier"
+      ],
+      "bonne réponse": "vierhundert"
+    },
+    "question n°27": {
+      "question": "Quelle est la réponse de 25 x 25 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "und",
+        "sieben",
+        "sechs",
+        "fünfundzwanzig",
+        "ein",
+        "hundert",
+        "zwei",
+        "fünf"
+      ],
+      "bonne réponse": "sechshundertfünfundzwanzig"
+    },
+    "question n°28": {
+      "question": "Quelle est la réponse de 10000 / 8 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "fünfzig",
+        "fünf",
+        "zwei",
+        "hundert",
+        "acht",
+        "sieben",
+        "ein",
+        "und",
+        "zehn"
+      ],
+      "bonne réponse": "eintausendzweihundertfünfzig"
+    },
+    "question n°29": {
+      "question": "Quelle est la réponse de 400 x 2 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwei",
+        "hundert",
+        "vier",
+        "acht"
+      ],
+      "bonne réponse": "achthundert"
+    },
+    "question n°30": {
+      "question": "Quelle est la réponse de 10 x 10 x 10 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "tausend",
+        "hundert",
+        "ein"
+      ],
+      "bonne réponse": "eintausend"
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 2 - Partie A : Fondements de l'Engagement",
+  "id": "FR001_Q2_A",
+  "questions": {
+    "question n°1": {
+      "question": "La littérature engagée peut être définie comme :",
+      "réponses": {
+        "A": "Une littérature qui se limite uniquement au divertissement des lecteurs sans se soucier de la société.",
+        "B": "Une littérature qui prend position sur des enjeux sociaux, politiques, éthiques ou religieux pour défendre une cause.",
+        "C": "Une littérature qui se consacre exclusivement à la description de paysages et d’ambiances poétiques.",
+        "D": "Une littérature qui se réduit à raconter des histoires d’amour idéalisées sans message social."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Le rôle fondamental de l’écrivain engagé est de :",
+      "réponses": {
+        "A": "Soutenir les injustices afin de maintenir l’ordre établi et protéger les dominants.",
+        "B": "Imiter servilement les traditions littéraires sans exprimer une opinion personnelle.",
+        "C": "Rester neutre et se détacher totalement des préoccupations humaines et sociales.",
+        "D": "Dénoncer les injustices et se faire porte-voix des opprimés à travers ses écrits."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "La fonction engagée de la littérature signifie que :",
+      "réponses": {
+        "A": "La littérature s’inscrit dans une perspective de changement social en dénonçant les injustices.",
+        "B": "L’art n’a pas besoin de se mettre au service du progrès ni de lutter contre les oppressions.",
+        "C": "Les écrivains doivent seulement écrire pour embellir le langage et enrichir le vocabulaire.",
+        "D": "La mission de la littérature est purement esthétique et jamais politique ou sociale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Pourquoi parle-t-on de l’« art pour le progrès » en littérature ?",
+      "réponses": {
+        "A": "Parce que la littérature se limite à une mission de conservation des valeurs anciennes.",
+        "B": "Parce que la littérature doit contribuer à l’évolution sociale, culturelle et politique des peuples.",
+        "C": "Parce que l’écrivain doit seulement chercher la gloire personnelle et la reconnaissance mondiale.",
+        "D": "Parce que l’œuvre littéraire ne doit servir qu’à divertir et amuser ses lecteurs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la particularité de la littérature engagée par rapport à une littérature de pur divertissement ?",
+      "réponses": {
+        "A": "Elle ne cherche qu’à divertir les lecteurs à travers des histoires légères sans profondeur sociale.",
+        "B": "Elle ignore les problèmes de la société pour se concentrer uniquement sur la beauté du style.",
+        "C": "Elle assume une mission de dénonciation des oppressions et cherche à éveiller les consciences.",
+        "D": "Elle vise uniquement à faire rêver le lecteur à travers des récits totalement imaginaires."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "L’engagement sociopolitique en littérature a pour objectif de :",
+      "réponses": {
+        "A": "Dénoncer l’oppression et les injustices liées à la colonisation ou aux discriminations raciales.",
+        "B": "Promouvoir l’idée que la colonisation est bénéfique et qu’elle apporte uniquement des progrès.",
+        "C": "Éviter de parler des inégalités sociales pour ne pas froisser les autorités politiques.",
+        "D": "Présenter uniquement les coutumes locales sans se soucier des rapports de domination."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "L’engagement politique et militaire dans la littérature vise à :",
+      "réponses": {
+        "A": "Célébrer la dictature et encourager la corruption des régimes autoritaires.",
+        "B": "Critiquer les dérives du pouvoir, la dictature, la corruption et les guerres injustifiées.",
+        "C": "Écrire des poèmes uniquement sur les héros militaires sans aucun message social.",
+        "D": "Soutenir la manipulation politique pour maintenir les peuples dans l’ignorance."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "L’engagement socioculturel consiste principalement à :",
+      "réponses": {
+        "A": "Mettre en lumière les violences sociales, religieuses et culturelles comme le mariage forcé et l’excision.",
+        "B": "Glorifier la polygamie et les pratiques traditionnelles qui oppriment les femmes.",
+        "C": "Encourager la soumission totale des femmes et des enfants face aux traditions injustes.",
+        "D": "Décrire uniquement les fêtes culturelles sans aborder les réalités douloureuses."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "La dénonciation des sacrifices humains en littérature permet de :",
+      "réponses": {
+        "A": "Questionner le poids des traditions et critiquer les pratiques violentes liées à la royauté.",
+        "B": "Promouvoir les rituels violents et justifier les meurtres rituels comme des valeurs sacrées.",
+        "C": "Expliquer que les sacrifices humains sont indispensables à la survie des sociétés africaines.",
+        "D": "Présenter les coutumes sanglantes comme une source de fierté nationale inattaquable."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "La dénonciation de l’exploitation des enfants en littérature s’illustre par :",
+      "réponses": {
+        "A": "Des récits qui glorifient le travail des enfants comme preuve de courage et de dignité.",
+        "B": "Des œuvres comme Les Contemplations de Victor Hugo qui critiquent le travail des enfants.",
+        "C": "Des poèmes qui présentent le travail des enfants comme un rite initiatique valorisant.",
+        "D": "Des textes qui considèrent l’exploitation infantile comme un facteur de progrès économique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel roman de René Maran a obtenu le prix Goncourt en 1921 et dénonce les abus coloniaux ?",
+      "réponses": {
+        "A": "Batouala, qui critique les abus coloniaux et marque une prise de position anticolonialiste.",
+        "B": "Une vie de boy, qui met en lumière uniquement les aspects positifs de la colonisation.",
+        "C": "Le Soleil des Indépendances, qui célèbre la fidélité des dirigeants africains après les indépendances.",
+        "D": "L’Avare, qui s’intéresse uniquement à l’obsession maladive de l’argent dans les familles."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel écrivain ivoirien a dénoncé la trahison des idéaux postcoloniaux dans Le Soleil des Indépendances ?",
+      "réponses": {
+        "A": "Ahmadou Kourouma, qui critique la corruption et les dérives politiques après les indépendances.",
+        "B": "Ferdinand Oyono, qui met surtout en lumière la condition douloureuse des boy coloniaux.",
+        "C": "Léopold Sédar Senghor, qui évoque la paix et la souffrance du peuple africain colonisé.",
+        "D": "Ousmane Sembène, qui dénonce l’exploitation coloniale et évoque la marche vers l’indépendance."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel auteur a écrit Les Bouts de bois de Dieu, roman dénonçant l’exploitation coloniale et évoquant la marche vers l’indépendance ?",
+      "réponses": {
+        "A": "Ousmane Sembène, qui fait revivre la lutte des cheminots sénégalais contre l’exploitation coloniale.",
+        "B": "Chinua Achebe, qui critique principalement les dérives politiques en Afrique indépendante.",
+        "C": "Aimé Césaire, qui clame l’identité noire et la révolte contre l’oppression raciale.",
+        "D": "René Maran, qui dénonce les abus coloniaux mais à travers un récit goncourisé."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle œuvre de Victor Hugo dénonce l’exploitation des enfants dans une société industrielle ?",
+      "réponses": {
+        "A": "Les Contemplations (notamment Melancholia), qui critique le travail des enfants dans les manufactures.",
+        "B": "Le Monde s’effondre, qui dénonce uniquement les traditions africaines liées aux sacrifices.",
+        "C": "La guerre de Troie n’aura pas lieu, qui fait la satire des discours bellicistes des dirigeants.",
+        "D": "Combat de nègres et de chiens, qui questionne la violence coloniale et les rapports de pouvoir."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quel écrivain africain a dénoncé l’excision à travers le personnage de Salimata dans Les Soleils des Indépendances ?",
+      "réponses": {
+        "A": "Molière, qui s’intéresse uniquement à l’avarice et à l’obsession de l’argent.",
+        "B": "Fatou Keïta, qui évoque la douleur des jeunes filles dans son roman Rebelle.",
+        "C": "Guy Menga, qui critique surtout la réification de la femme dans L’Oracle.",
+        "D": "Ahmadou Kourouma, qui met en scène la souffrance et la stérilité de Salimata après excision."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel roman d’Aimé Césaire clame l’identité noire et la révolte contre l’oppression coloniale ?",
+      "réponses": {
+        "A": "Sous l’orage, qui évoque surtout les conflits autour du mariage imposé.",
+        "B": "Le Roman inachevé, qui est un manifeste poétique en faveur du communisme sans lien avec l’identité noire.",
+        "C": "Les Bouts de bois de Dieu, qui décrit la marche des travailleurs sénégalais mais pas spécifiquement l’identité noire.",
+        "D": "Et les chiens se taisaient, qui raconte la tragédie poétique d’un esclave révolté et la lutte contre l’injustice."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle œuvre de Léopold Sédar Senghor dénonce la division de l’Afrique par les puissances coloniales et les conflits internes ?",
+      "réponses": {
+        "A": "Le Mariage Forcé, qui traite des violences socioculturelles mais pas de la politique africaine.",
+        "B": "Prière de paix, qui évoque uniquement la souffrance du peuple africain colonisé sans aborder la division politique.",
+        "C": "Chaka, qui met en lumière les tensions politiques et la division créée par l’ingérence coloniale.",
+        "D": "L’Avare, qui critique l’avarice et les relations humaines dans un contexte français."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel écrivain a critiqué les abus coloniaux à travers Une vie de boy, mettant en lumière l’inhumanité de la colonisation ?",
+      "réponses": {
+        "A": "Ahmadou Kourouma, qui s’intéresse plutôt à la trahison des idéaux postcoloniaux.",
+        "B": "René Maran, qui critique les abus coloniaux mais avec un autre récit, Batouala.",
+        "C": "Ferdinand Oyono, qui dénonce la condition des jeunes africains soumis au système colonial.",
+        "D": "Baba Moustapha, qui critique l’oppression militaire sans se concentrer sur la colonisation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle œuvre de Wole Soyinka critique les coutumes violentes liées à la royauté et les sacrifices humains ?",
+      "réponses": {
+        "A": "Rebelle, qui aborde les douleurs liées à l’excision mais pas les sacrifices humains.",
+        "B": "Respect des morts, qui traite plutôt de la réflexion sur les rituels et la mémoire des défunts.",
+        "C": "Les Termitières de la savane, qui critique les dérives du pouvoir politique mais pas les coutumes royales.",
+        "D": "La mort et l’écuyer du roi, qui dénonce la brutalité des traditions et la violence rituelle tout en questionnant la dignité humaine."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel roman de Molière illustre la dénonciation de l’avarice et de l’obsession maladive de l’argent sur les relations humaines ?",
+      "réponses": {
+        "A": "Sous l’orage, qui évoque le mariage imposé et les tensions familiales, mais pas l’obsession de l’argent.",
+        "B": "Le Soleil des Indépendances, qui dénonce la trahison des idéaux postcoloniaux mais pas l’avarice individuelle.",
+        "C": "Cahier d’un retour au pays natal, qui clame l’identité noire et la révolte contre l’oppression, sans lien avec l’avarice.",
+        "D": "L’Avare, qui met en scène Harpagon obsédé par l’argent, provoquant des conflits familiaux et sociaux."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

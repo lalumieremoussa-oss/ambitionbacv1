@@ -1,0 +1,226 @@
+{
+  "title": "Quiz ",
+  "id": "AN03_Q0",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez le verbe : \"To eat\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Faire",
+        "B": "Boire",
+        "C": "Chanter",
+        "D": "Manger"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"écouter\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To watch",
+        "B": "To read",
+        "C": "To help",
+        "D": "To listen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Traduisez le verbe : \"To help\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Aimer",
+        "B": "Aller",
+        "C": "Aider",
+        "D": "Écrire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"lire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To sing",
+        "B": "To read",
+        "C": "To sleep",
+        "D": "To go"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Traduisez le verbe : \"To sing\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Dormir",
+        "B": "Jouer",
+        "C": "Chanter",
+        "D": "Regarder"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"faire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To go",
+        "B": "To do",
+        "C": "To eat",
+        "D": "To drink"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Traduisez le verbe : \"To drink\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Manger",
+        "B": "Boire",
+        "C": "Dormir",
+        "D": "Écouter"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"jouer\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To write",
+        "B": "To do",
+        "C": "To play",
+        "D": "To like"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Traduisez le verbe : \"To sleep\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Aller",
+        "B": "Faire",
+        "C": "Dormir",
+        "D": "Aider"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"aimer\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To watch",
+        "B": "To write",
+        "C": "To help",
+        "D": "To like"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez le verbe : \"To write\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Lire",
+        "B": "Boire",
+        "C": "Écrire",
+        "D": "Chanter"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"regarder\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To listen",
+        "B": "To watch",
+        "C": "To sing",
+        "D": "To eat"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Traduisez le verbe \"Aller\" en anglais (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "To do",
+        "B": "To go",
+        "C": "To eat",
+        "D": "To write"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"dormir\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To read",
+        "B": "To sleep",
+        "C": "To play",
+        "D": "To go"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Traduisez le verbe \"Manger\" en anglais (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "To drink",
+        "B": "To sing",
+        "C": "To eat",
+        "D": "To help"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"écrire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To listen",
+        "B": "To like",
+        "C": "To write",
+        "D": "To do"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Traduisez le verbe \"Aimer\" en anglais (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "To go",
+        "B": "To do",
+        "C": "To like",
+        "D": "To read"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"boire\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To sing",
+        "B": "To drink",
+        "C": "To eat",
+        "D": "To play"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Traduisez le verbe \"Regarder\" en anglais (forme infinitive).",
+      "type": "QCM",
+      "réponses": {
+        "A": "To sleep",
+        "B": "To listen",
+        "C": "To help",
+        "D": "To watch"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel est le verbe à l'infinitif qui signifie \"aider\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To write",
+        "B": "To help",
+        "C": "To go",
+        "D": "To read"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

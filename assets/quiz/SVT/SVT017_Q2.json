@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 2 : Les techniques culturales",
+  "id": "SVT017_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "L’érosion des sols en pente provoque principalement :",
+      "réponses": {
+        "A": "Une accumulation de nutriments et d’eau sur les hauteurs, favorisant une fertilité durable.",
+        "B": "Un appauvrissement du sol des pentes, avec perte de fertilité et diminution de la capacité de rétention d’eau.",
+        "C": "Une homogénéisation de la composition du sol entre le haut et le bas de la pente.",
+        "D": "Une concentration de matière organique dans les zones hautes par ruissellement ascendant."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Dans les zones de bas-fonds, l’érosion entraîne :",
+      "réponses": {
+        "A": "Une perte rapide des sédiments et des nutriments vers les zones supérieures.",
+        "B": "Un enrichissement du sol par accumulation de matières organiques et de sédiments.",
+        "C": "Une baisse de fertilité causée par le drainage excessif des minéraux.",
+        "D": "Une disparition des micro-organismes due à l’absence de débris organiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "L’érosion crée un déséquilibre entre zones hautes et basses car :",
+      "réponses": {
+        "A": "Les deux zones reçoivent la même quantité de nutriments et d’eau, rendant leur productivité identique.",
+        "B": "Les zones hautes deviennent moins fertiles tandis que les zones basses s’enrichissent en sédiments.",
+        "C": "Les zones basses perdent leur structure à cause d’un excès d’oxygène dans le sol.",
+        "D": "Les zones hautes accumulent trop d’humus au détriment des basses plaines."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le terrassement est une technique agricole consistant à :",
+      "réponses": {
+        "A": "Aplanir totalement la pente pour empêcher la rétention d’eau.",
+        "B": "Aménager les pentes en escaliers ou paliers afin de ralentir le ruissellement.",
+        "C": "Supprimer la végétation naturelle pour faciliter l’érosion contrôlée.",
+        "D": "Ajouter du sable sur les pentes pour augmenter la perméabilité du sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Le terrassement est avantageux car :",
+      "réponses": {
+        "A": "Il accélère le ruissellement de l’eau et concentre les nutriments dans les zones basses.",
+        "B": "Il empêche toute infiltration d’eau dans les couches profondes du sol.",
+        "C": "Il limite l’érosion en ralentissant l’eau et favorise la rétention d’humidité dans le sol.",
+        "D": "Il provoque un assèchement rapide des pentes après les pluies."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La jachère désigne :",
+      "réponses": {
+        "A": "Une technique consistant à cultiver la même plante pendant plusieurs saisons pour épuiser le sol.",
+        "B": "Un système d’irrigation visant à saturer le sol en eau avant la plantation.",
+        "C": "Une période où la parcelle est laissée au repos, sans culture, afin de régénérer sa fertilité naturelle.",
+        "D": "Une méthode de défrichement rapide par brûlage pour libérer les nutriments du sol."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La jachère améliore la qualité du sol car elle :",
+      "réponses": {
+        "A": "Diminue la biodiversité pour éviter la concurrence entre les espèces végétales.",
+        "B": "Réduit la matière organique par exposition prolongée du sol au soleil.",
+        "C": "Provoque une compaction du sol empêchant la croissance des adventices.",
+        "D": "Régénère la fertilité du sol, favorise la biodiversité et limite l’épuisement des nutriments."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "L’assolement est une pratique agricole qui consiste à :",
+      "réponses": {
+        "A": "Cultiver en continu la même espèce sur la même parcelle pour augmenter le rendement.",
+        "B": "Mélanger simultanément plusieurs plantes sur le même champ pour saturer le sol.",
+        "C": "Laisser la terre nue pendant plusieurs années pour éviter les maladies végétales.",
+        "D": "Alterner différentes cultures sur une même parcelle selon un cycle planifié afin d’améliorer le sol."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "L’assolement présente plusieurs avantages, notamment :",
+      "réponses": {
+        "A": "L’appauvrissement progressif du sol et la propagation rapide des parasites.",
+        "B": "L’amélioration de la structure du sol, la réduction des maladies et le maintien de la fertilité.",
+        "C": "La suppression des matières organiques et la perte de biodiversité dans la zone cultivée.",
+        "D": "La concentration des éléments nutritifs dans une seule couche du sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Le paillage contribue à la conservation des sols parce qu’il :",
+      "réponses": {
+        "A": "Réduit la fertilité du sol en bloquant l’activité biologique et les échanges gazeux.",
+        "B": "Augmente l’érosion en favorisant le ruissellement de l’eau sur la surface.",
+        "C": "Empêche la rétention d’humidité et expose le sol à la chaleur directe du soleil.",
+        "D": "Recouvre le sol pour limiter l’érosion, conserver l’humidité et apporter de la matière organique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est le rôle principal du terrassement dans la lutte contre l’érosion ?",
+      "réponses": {
+        "A": "Favoriser le ruissellement rapide de l’eau pour évacuer les excédents.",
+        "B": "Ralentir le ruissellement de l’eau et diminuer l’érosion des pentes.",
+        "C": "Accélérer le lessivage des éléments minéraux du sol.",
+        "D": "Créer des pentes plus abruptes pour améliorer l’écoulement naturel."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Pourquoi le terrassement améliore-t-il la fertilité du sol ?",
+      "réponses": {
+        "A": "Parce qu’il empêche totalement l’infiltration de l’eau dans le sol.",
+        "B": "Parce qu’il favorise l’infiltration et la rétention d’eau dans les paliers.",
+        "C": "Parce qu’il bloque le drainage naturel et concentre les sels minéraux.",
+        "D": "Parce qu’il réduit la surface cultivable mais augmente la densité du sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La jachère est une technique qui consiste à :",
+      "réponses": {
+        "A": "Couvrir le sol avec des engrais chimiques pour stimuler les racines.",
+        "B": "Maintenir une monoculture pour stabiliser le rendement.",
+        "C": "Laisser le sol au repos pour régénérer naturellement sa fertilité.",
+        "D": "Remplacer les cultures par des pierres pour éviter la dégradation du sol."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est l’un des avantages écologiques majeurs de la jachère ?",
+      "réponses": {
+        "A": "Elle augmente la salinité du sol et bloque la photosynthèse.",
+        "B": "Elle empêche toute forme de vie microbienne et végétale.",
+        "C": "Elle favorise la biodiversité en laissant les organismes se régénérer.",
+        "D": "Elle réduit le taux de matière organique et la vie du sol."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "L’assolement ou rotation des cultures a pour effet principal de :",
+      "réponses": {
+        "A": "Maintenir la même culture sur une longue durée pour la stabiliser.",
+        "B": "Alterner les cultures afin d’éviter l’appauvrissement du sol.",
+        "C": "Remplacer les cultures par du paillage permanent.",
+        "D": "Limiter la diversité des plantes cultivées pour uniformiser le sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment la rotation des cultures contribue-t-elle à la santé des plantes ?",
+      "réponses": {
+        "A": "En favorisant la propagation continue des mêmes maladies.",
+        "B": "En réduisant les maladies et parasites grâce à l’alternance des espèces.",
+        "C": "En concentrant les pathogènes dans une même zone pour les contrôler.",
+        "D": "En empêchant toute interaction biologique entre les cultures."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Le paillage agit contre l’érosion principalement parce que :",
+      "réponses": {
+        "A": "Il recouvre le sol et limite l’impact direct des gouttes de pluie.",
+        "B": "Il accélère l’évaporation et favorise le dessèchement du sol.",
+        "C": "Il rend le sol plus compact et moins perméable à l’eau.",
+        "D": "Il empêche complètement la circulation de l’air dans le sol."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle est une conséquence positive du paillage sur la température du sol ?",
+      "réponses": {
+        "A": "Il stabilise la température en réduisant les variations extrêmes.",
+        "B": "Il augmente fortement la chaleur au point de tuer les micro-organismes.",
+        "C": "Il refroidit le sol de manière excessive, bloquant la germination.",
+        "D": "Il rend la surface du sol imperméable à la lumière et à la chaleur."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "En quoi le paillage contribue-t-il à la fertilité du sol à long terme ?",
+      "réponses": {
+        "A": "Il apporte de la matière organique en se décomposant progressivement.",
+        "B": "Il empêche toute décomposition et bloque la production d’humus.",
+        "C": "Il élimine la microflore du sol et réduit la porosité.",
+        "D": "Il évacue les éléments nutritifs en surface par ruissellement."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Parmi les techniques suivantes, laquelle associe la préservation du sol et la durabilité de la production ?",
+      "réponses": {
+        "A": "L’emploi exclusif d’engrais chimiques pour stimuler la croissance.",
+        "B": "La rotation des cultures associée au paillage et à la jachère.",
+        "C": "Le défrichement continu pour renouveler les zones fertiles.",
+        "D": "L’abandon de la matière organique au profit des produits minéraux."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "title": "Quiz 3",
+  "id": "AN01_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"J'ai un livre.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am a book.",
+        "B": "I is a book.",
+        "C": "I are a book.",
+        "D": "I have a book."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Nous sommes à l'école.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "We has at school.",
+        "B": "We are at school.",
+        "C": "We have at school.",
+        "D": "We is at school."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Il a un chien.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "He am a dog.",
+        "B": "He have a dog.",
+        "C": "He has a dog.",
+        "D": "He are a dog."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Tu es professeur.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "You has a teacher.",
+        "B": "You is a teacher.",
+        "C": "You am a teacher.",
+        "D": "You are a teacher."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction correcte de \"Elle a les crayons\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "She are the pencils.",
+        "B": "She has the pencils.",
+        "C": "She am the pencils.",
+        "D": "She have the pencils."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte pour le sujet \"They\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "They is / They has",
+        "B": "They am / They have",
+        "C": "They are / They have",
+        "D": "They be / They have"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Complétez : \"My mother _____ happy.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "are",
+        "B": "is",
+        "C": "have",
+        "D": "has"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"J'ai une sœur.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I is a sister.",
+        "B": "I have a sister.",
+        "C": "I am a sister.",
+        "D": "I has a sister."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Ils sont mes amis.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "They are my friends.",
+        "B": "They has my friends.",
+        "C": "They is my friends.",
+        "D": "They am my friends."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Complétez : \"We _____ a nice house.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "has",
+        "B": "are",
+        "C": "is",
+        "D": "have"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Nous avons faim.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "We",
+        "are",
+        "hungry",
+        "they",
+        "has",
+        "a"
+      ],
+      "bonne réponse": "We are hungry"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Tu as une règle.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "You",
+        "ruler",
+        "she",
+        "is",
+        "have",
+        "the",
+        "a",
+        "cat"
+      ],
+      "bonne réponse": "You have a ruler"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Il est à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "He",
+        "home",
+        "is",
+        "at",
+        "I",
+        "have",
+        "a",
+        "book"
+      ],
+      "bonne réponse": "He is at home"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Elle est jolie.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "She",
+        "pretty",
+        "he",
+        "has",
+        "the"
+      ],
+      "bonne réponse": "She is pretty"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"J'ai deux frères.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "brothers",
+        "we",
+        "are",
+        "have",
+        "at",
+        "two",
+        "school"
+      ],
+      "bonne réponse": "I have two brothers"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Ils sont dans le jardin.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "sister",
+        "in",
+        "They",
+        "have",
+        "the",
+        "garden",
+        "I",
+        "a",
+        "is"
+      ],
+      "bonne réponse": "They are in the garden"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Mon père a un téléphone.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "father",
+        "has",
+        "My",
+        "a",
+        "students",
+        "phone",
+        "we",
+        "are",
+        "the",
+        "have"
+      ],
+      "bonne réponse": "My father has a phone"
+    },
+    "question n°18": {
+      "question": "Reécrivez en complétant : \"You _____ a nice smile.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "You",
+        "smile",
+        "she",
+        "have",
+        "a",
+        "nice",
+        "is",
+        "the"
+      ],
+      "bonne réponse": "You have a nice smile"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Nous avons les clés.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "We",
+        "I",
+        "have",
+        "home",
+        "the",
+        "keys",
+        "am",
+        "at"
+      ],
+      "bonne réponse": "We have the keys"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Elle est malade.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "She",
+        "has",
+        "is",
+        "he",
+        "sick",
+        "a"
+      ],
+      "bonne réponse": "She is sick"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Il est mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "friend",
+        "is",
+        "have",
+        "my",
+        "they",
+        "the",
+        "He",
+        "car"
+      ],
+      "bonne réponse": "He is my friend"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"J'ai une idée.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "at",
+        "an",
+        "idea",
+        "we",
+        "are",
+        "have",
+        "work"
+      ],
+      "bonne réponse": "I have an idea"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Vous êtes intelligents.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "You",
+        "I",
+        "are",
+        "am",
+        "intelligent",
+        "a"
+      ],
+      "bonne réponse": "You are intelligent"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Le chat a faim.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "The",
+        "hungry",
+        "is",
+        "we",
+        "have",
+        "a",
+        "cat",
+        "toy"
+      ],
+      "bonne réponse": "The cat is hungry"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Nous sommes de bons élèves.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "We",
+        "students",
+        "are",
+        "is",
+        "good",
+        "they",
+        "have",
+        "a",
+        "car",
+        "the"
+      ],
+      "bonne réponse": "We are good students"
+    },
+    "question n°26": {
+      "question": "Traduisez le verbe \"être\" (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "To be"
+    },
+    "question n°27": {
+      "question": "Donnez la forme du verbe \"To have\" pour le pronom personnel \"Il\".",
+      "type": "short_answer",
+      "bonne réponse": "He has"
+    },
+    "question n°28": {
+      "question": "Traduisez le groupe de mots \"Ils ont\".",
+      "type": "short_answer",
+      "bonne réponse": "They have"
+    },
+    "question n°29": {
+      "question": "Traduisez le groupe de mots \"Tu es\".",
+      "type": "short_answer",
+      "bonne réponse": "You are"
+    },
+    "question n°30": {
+      "question": "Quelle est la forme du verbe \"To be\" qui correspond à \"Ma sœur\" ?",
+      "type": "short_answer",
+      "bonne réponse": "My sister is"
+    },
+    "question n°31": {
+      "question": "Complétez : \"My parents _____ a big house.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "is",
+        "B": "are",
+        "C": "have",
+        "D": "has"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°32": {
+      "question": "Complétez : \"The pencils _____ on the desk.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "is",
+        "B": "are",
+        "C": "has",
+        "D": "have"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°33": {
+      "question": "Complétez : \"I _____ a wonderful teacher.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "has",
+        "B": "am",
+        "C": "have",
+        "D": "is"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°34": {
+      "question": "Complétez : \"She _____ a cold (froid).\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "is",
+        "B": "am",
+        "C": "have",
+        "D": "has"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°35": {
+      "question": "Complétez : \"We _____ in the park now.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "has",
+        "B": "are",
+        "C": "have",
+        "D": "am"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°36": {
+      "question": "Complétez : \"My friend and I _____ good grades.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "are",
+        "B": "is",
+        "C": "has",
+        "D": "have"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°37": {
+      "question": "Complétez : \"The book _____ interesting.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "have",
+        "B": "are",
+        "C": "has",
+        "D": "is"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°38": {
+      "question": "Quel pronom peut remplacer \"Ali and Mariam\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "He",
+        "B": "She",
+        "C": "We",
+        "D": "They"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°39": {
+      "question": "Complétez : \"You _____ a question.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "are",
+        "B": "is",
+        "C": "have",
+        "D": "am"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°40": {
+      "question": "Complétez : \"I _____ nineteen years old.\" (J'ai dix-neuf ans.)",
+      "type": "QCM",
+      "réponses": {
+        "A": "have",
+        "B": "has",
+        "C": "is",
+        "D": "am"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

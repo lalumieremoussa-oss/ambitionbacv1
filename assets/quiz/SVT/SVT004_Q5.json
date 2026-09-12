@@ -1,0 +1,306 @@
+{
+  "title": "Quiz 5",
+  "id": "SVT004_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Au cours de la contraction, la zone H :",
+      "réponses": {
+        "A": "S’allonge",
+        "B": "Disparaît",
+        "C": "Reste constante",
+        "D": "Se colore"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Lors du glissement, la longueur de l’actine :",
+      "réponses": {
+        "A": "Augmente",
+        "B": "Diminue",
+        "C": "Ne change pas",
+        "D": "Devient nulle"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Le pont actino-myosine est formé lors de la phase :",
+      "réponses": {
+        "A": "De repos",
+        "B": "D’attachement",
+        "C": "De glissement",
+        "D": "De récupération"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La tête de myosine pivote grâce à :",
+      "réponses": {
+        "A": "L’ATP",
+        "B": "L’eau",
+        "C": "Le glucose",
+        "D": "L’oxygène"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "La tropomyosine :",
+      "réponses": {
+        "A": "Favorise la contraction",
+        "B": "Transporte le calcium",
+        "C": "Dégrade l’ATP",
+        "D": "Cache le site de fixation de la myosine"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Le raccourcissement du sarcomère entraîne :",
+      "réponses": {
+        "A": "La paralysie",
+        "B": "L’élongation musculaire",
+        "C": "La contraction musculaire",
+        "D": "L’accumulation de calcium"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Lors de la phase de détachement, l’ATP :",
+      "réponses": {
+        "A": "Est consommé par l’actine",
+        "B": "Permet le détachement de la myosine",
+        "C": "Bloque la contraction",
+        "D": "Active la tropomyosine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Le retour du calcium dans le réticulum sarcoplasmique marque :",
+      "réponses": {
+        "A": "Le relâchement musculaire",
+        "B": "Le début de la contraction",
+        "C": "L’hyperactivité musculaire",
+        "D": "L’initiation du glissement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Le raccourcissement simultané des sarcomères est responsable de :",
+      "réponses": {
+        "A": "L’atrophie",
+        "B": "La contraction visible du muscle",
+        "C": "La fatigue",
+        "D": "La tétanie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La bande sombre correspond :",
+      "réponses": {
+        "A": "Uniquement à l’actine",
+        "B": "À l’actine et la myosine",
+        "C": "À la zone H",
+        "D": "Au réticulum"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Le glucose est utilisé dans la fibre musculaire pour produire :",
+      "réponses": {
+        "A": "De la créatine",
+        "B": "De l’ATP",
+        "C": "De la troponine",
+        "D": "Du calcium"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "L’organelle cellulaire responsable de la respiration est :",
+      "réponses": {
+        "A": "Le ribosome",
+        "B": "La mitochondrie",
+        "C": "Le noyau",
+        "D": "Le réticulum rugueux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L’équation complète de la respiration cellulaire est :",
+      "réponses": {
+        "A": "C6H12O6 + O2 → H2O",
+        "B": "C6H12O6 + 6O2 → 6CO2 + 6H2O + 38 ATP",
+        "C": "6CO2 + 6H2O → C6H12O6",
+        "D": "O2 + H2O → ATP"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "La voie aérobie est dite :",
+      "réponses": {
+        "A": "Lente",
+        "B": "Rapide",
+        "C": "Anaérobie",
+        "D": "Instable"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "La voie de la myokinase permet de former :",
+      "réponses": {
+        "A": "ADP",
+        "B": "ATP et AMP",
+        "C": "Glycogène",
+        "D": "Lactate"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "L’accumulation d’acide lactique est un signe de :",
+      "réponses": {
+        "A": "Relaxation",
+        "B": "Respiration cellulaire",
+        "C": "Activité musculaire prolongée",
+        "D": "Inactivité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "La voie anaérobie de production d’ATP est utilisée :",
+      "réponses": {
+        "A": "Au repos",
+        "B": "Lors du sommeil",
+        "C": "Pendant la digestion",
+        "D": "Lors d’un effort intense et bref"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "La phosphocréatine sert à :",
+      "réponses": {
+        "A": "Produire du glucose",
+        "B": "Réparer les muscles",
+        "C": "Régénérer rapidement l’ATP",
+        "D": "Accumuler de l’acide lactique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "L’ATP dans le muscle est :",
+      "réponses": {
+        "A": "Stocké en grande quantité",
+        "B": "Constamment renouvelé",
+        "C": "Inutile",
+        "D": "Produit seulement par fermentation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le muscle au repos contient :",
+      "réponses": {
+        "A": "Peu d’oxygène",
+        "B": "Beaucoup d’acide lactique",
+        "C": "De l’ATP, glucose, glycogène",
+        "D": "Uniquement du CO2"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "L’AMP produit dans la voie myokinase est :",
+      "réponses": {
+        "A": "Stocké",
+        "B": "Un résidu",
+        "C": "Recyclé directement",
+        "D": "Inactif"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "La respiration aérobie est plus avantageuse car elle :",
+      "réponses": {
+        "A": "Produit plus d’acide lactique",
+        "B": "Fournit plus d’ATP",
+        "C": "Est plus rapide",
+        "D": "Ne consomme pas de glucose"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Une diminution d’oxygène pendant l’exercice pousse le muscle à :",
+      "réponses": {
+        "A": "Passer en voie anaérobie",
+        "B": "Stocker plus de glycogène",
+        "C": "Créer du CO2",
+        "D": "Former du calcium"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Une élévation du dioxyde de carbone indique :",
+      "réponses": {
+        "A": "Une activité musculaire active",
+        "B": "Une hyperventilation",
+        "C": "Une hypoxie",
+        "D": "Une absence d’ATP"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Le muscle produit du CO2 :",
+      "réponses": {
+        "A": "Lors de l’activité mitochondriale",
+        "B": "Pendant la contraction",
+        "C": "Lors de la phase de détachement",
+        "D": "En synthétisant la troponine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "La glycolyse anaérobie produit :",
+      "réponses": {
+        "A": "38 ATP",
+        "B": "2 ATP + acide lactique",
+        "C": "1 ATP + CO2",
+        "D": "4 ATP + eau"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "L’ATP permet :",
+      "réponses": {
+        "A": "La rupture du sarcomère",
+        "B": "L’entrée du glucose",
+        "C": "L’activation du glissement",
+        "D": "La fixation du calcium"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Sans ATP, la tête de myosine :",
+      "réponses": {
+        "A": "Se détache",
+        "B": "Reste fixée à l’actine",
+        "C": "Se replie",
+        "D": "Se dégrade"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "L’entrée du calcium est déclenchée par :",
+      "réponses": {
+        "A": "Le glucose",
+        "B": "La phosphocréatine",
+        "C": "L’ATP",
+        "D": "Le potentiel d’action"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°30": {
+      "question": "L’accumulation d’ions H+ dans le muscle provoque :",
+      "réponses": {
+        "A": "Une contraction prolongée",
+        "B": "Une tétanie",
+        "C": "Une rupture musculaire",
+        "D": "Une fatigue musculaire"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

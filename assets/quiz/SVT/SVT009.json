@@ -1,0 +1,1221 @@
+[{
+  "id": "SVT009_Q1",
+  "titre": "Quiz 1: La formation du grain de pollen",
+  "questions": {
+    "question n°1": {
+      "question": "Les cellules mères des grains de pollen, avant de subir leur division réductrice, possèdent une ploïdie caractérisée par :",
+      "reponses": {
+        "A": "Un ensemble haploïde (n) de chromosomes, sans duplication.",
+        "B": "Un ensemble diploïde (2n) de chromosomes.",
+        "C": "Un ensemble triploïde (3n) de chromosomes spécifiques.",
+        "D": "Un ensemble tétraploïde (4n) de chromosomes diversifiés."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Après la méiose des cellules mères des grains de pollen, les quatre cellules haploïdes (n) qui en résultent sont spécifiquement appelées :",
+      "reponses": {
+        "A": "Des mégaspores ou des macrospores.",
+        "B": "Des zygotes ou des embryons primaires.",
+        "C": "Des oosphères ou des gamètes femelles.",
+        "D": "Des microspores ou des tétraspores."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°3": {
+      "question": "Combien de noyaux à n chromosomes sont contenus dans un grain de pollen après que le noyau de chaque microspore ait subi une mitose ?",
+      "reponses": {
+        "A": "Un seul noyau, résultant d'une division unique.",
+        "B": "Deux noyaux, issus d'une division cellulaire.",
+        "C": "Trois noyaux, formant une structure complexe.",
+        "D": "Quatre noyaux, indiquant une division multiple."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Au centre d'un grain de pollen, on trouve un gros noyau qui est désigné sous le terme de :",
+      "reponses": {
+        "A": "Noyau reproducteur, responsable de la descendance.",
+        "B": "Noyau génératif, initiateur de la croissance.",
+        "C": "Noyau végétatif.",
+        "D": "Noyau germinatif, essentiel à la germination."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "La membrane externe, perforée, qui entoure le grain de pollen est appelée :",
+      "reponses": {
+        "A": "L'intine, assurant la continuité interne.",
+        "B": "Le périsperme, membrane protectrice externe.",
+        "C": "L'exine.",
+        "D": "Le tégument, enveloppe protectrice."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "Le processus par lequel l'assise mécanique de l'anthère s'incurve vers l'extérieur à maturité, provoquant la déchirure et la libération des grains de pollen, est nommé :",
+      "reponses": {
+        "A": "La pollinisation anémophile par le vent.",
+        "B": "La germination des grains de pollen.",
+        "C": "La fécondation croisée entre différentes plantes.",
+        "D": "La déhiscence de l'anthère."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Le noyau reproducteur, qui est plus petit et situé à la périphérie du grain de pollen, se trouve spécifiquement dans :",
+      "reponses": {
+        "A": "Une grande cellule appelée la cellule mère.",
+        "B": "Une petite cellule haploïde isolée.",
+        "C": "La paroi interne de la microspore.",
+        "D": "Une cellule reproductrice ou génératrice."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°8": {
+      "question": "La membrane interne du grain de pollen, caractérisée par sa continuité, est connue sous le nom de :",
+      "reponses": {
+        "A": "Exine, avec des perforations distinctives.",
+        "B": "Périsperme, pour sa fonction de protection.",
+        "C": "Intine.",
+        "D": "Tégument, pour son rôle d'enveloppe."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : Les cellules mères des grains de pollen sont haploïdes (n) avant de subir la méiose.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : La méiose des cellules mères des grains de pollen donne naissance à quatre microspores haploïdes.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le noyau de chaque microspore subit une mitose pour former un seul noyau diploïde à l'intérieur du grain de pollen.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : Le grain de pollen est entouré de deux membranes distinctes : l'exine et l'intine.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : L'exine est la membrane interne continue du grain de pollen.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : La déhiscence de l'anthère est le processus de libération des grains de pollen à maturité.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Le noyau végétatif est un gros noyau situé au centre du grain de pollen.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Le noyau reproducteur se trouve dans une cellule reproductrice qui est incluse dans la cellule végétative.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "Les cellules mères des grains de pollen sont .....A..... (2n). Elles subissent une .....B....., ce qui donne naissance à 4 cellules .....C..... (n) appelées microspores ou tétraspores.",
+      "reponses": {
+        "A": "A: haploïdes, B: mitose, C: diploïdes",
+        "B": "A: diploïdes, B: méiose, C: haploïdes",
+        "C": "A: triploïdes, B: fécondation, C: haploïdes",
+        "D": "A: tétraploïdes, B: division, C: diploïdes"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Le noyau de chaque microspore subit une .....A....., ce qui donne 2 noyaux à n chromosomes contenus dans une même cellule : le .....B...... Au centre un gros noyau appelé .....C..... et à la périphérie un noyau plus petit, le noyau reproducteur.",
+      "reponses": {
+        "A": "A: méiose, B: tétraspore, C: noyau génératif",
+        "B": "A: fécondation, B: ovule, C: noyau germinatif",
+        "C": "A: mitose, B: grain de pollen, C: noyau végétatif",
+        "D": "A: déhiscence, B: microspore, C: noyau primaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "Le grain de pollen s’entoure de 2 membranes : Une membrane externe perforée appelée .....A..... et Une membrane interne continue appelée .....B...... À maturité l’assise mécanique tend à s’incurver vers l’extérieur en provoquant la déchirure de l'.....C......",
+      "reponses": {
+        "A": "A: intine, B: exine, C: oosphère",
+        "B": "A: exine, B: intine, C: anthère",
+        "C": "A: périsperme, B: tégument, C: étamine",
+        "D": "A: endosperme, B: péricarpe, C: stigmate"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "La déchirure de l'anthère à maturité de l'assise mécanique est appelée la .....A..... de l'anthère, ce qui a pour conséquence de .....B..... les .....C......",
+      "reponses": {
+        "A": "A: germination, B: retenir, C: ovules",
+        "B": "A: pollinisation, B: fertiliser, C: fleurs",
+        "C": "A: déhiscence, B: libérer, C: grains de pollen",
+        "D": "A: maturation, B: développer, C: microspores"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+},
+{
+  "id": "SVTD009_Q2",
+  "titre": "Quiz 2: Formation du sac embryonnaire",
+  "questions": {
+    "question n°1": {
+      "question": "L’ovule est entouré par une structure protectrice percée d’un orifice appelé micropyle. Cette structure est :",
+      "reponses": {
+        "A": "Une seule membrane externe perforée.",
+        "B": "Un double tégument.",
+        "C": "Une assise mécanique tendue vers l’extérieur.",
+        "D": "Un péricarpe continu enveloppant le tout."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "À l’intérieur du nucelle de l’ovule, le sac embryonnaire est une structure complexe constituée d’un nombre total de cellules de :",
+      "reponses": {
+        "A": "Cinq cellules distinctes et actives.",
+        "B": "Six cellules regroupées à des pôles opposés.",
+        "C": "Sept cellules.",
+        "D": "Huit cellules, y compris les noyaux non entourés de cytoplasme."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Au pôle micropylaire du sac embryonnaire, on identifie précisément trois cellules qui sont :",
+      "reponses": {
+        "A": "Les trois cellules antipodes.",
+        "B": "La cellule géante centrale et ses noyaux secondaires.",
+        "C": "L’oosphère et les deux synergides.",
+        "D": "Les quatre microspores en cours de formation initiale."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "La cellule mère du sac embryonnaire, qui est située du côté du micropyle dans le nucelle, est caractérisée par une ploïdie de :",
+      "reponses": {
+        "A": "Haploïde (n) avant toute division cellulaire.",
+        "B": "Diploïde (2n).",
+        "C": "Triploïde (3n) suite à un événement de fusion.",
+        "D": "Tétraploïde (4n) après une duplication complète."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Après la méiose de la cellule mère du sac embryonnaire, quatre cellules haploïdes (n) sont formées en ligne. Parmi elles, combien de cellules dégénèrent au niveau micropylaire ?",
+      "reponses": {
+        "A": "Une seule cellule, la plus petite du groupe.",
+        "B": "Deux cellules, celles situées aux extrémités de la ligne.",
+        "C": "Trois cellules.",
+        "D": "Toutes les quatre cellules initialement formées."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "Après la dégénération de certaines cellules, seule une des quatre cellules formées après la méiose se développe pour donner naissance à l’ensemble du sac embryonnaire. Cette cellule est appelée :",
+      "reponses": {
+        "A": "La cellule végétative, responsable de la croissance.",
+        "B": "La microspore, précurseur du grain de pollen.",
+        "C": "L’oocyte II mature, prêt pour la fécondation.",
+        "D": "La méga spore ou macrospore."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Combien de mitoses successives le noyau de la macrospore doit-il subir pour finalement former l’ensemble des noyaux du sac embryonnaire ?",
+      "reponses": {
+        "A": "Une seule mitose rapide et efficace.",
+        "B": "Deux mitoses consécutives et équilibrées.",
+        "C": "Quatre mitoses étendues et complètes.",
+        "D": "Trois mitoses."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°8": {
+      "question": "Le sac embryonnaire mature, qui résulte de ces divisions successives, est finalement composé d’un total de :",
+      "reponses": {
+        "A": "6 noyaux répartis de manière égale dans 5 cellules.",
+        "B": "8 noyaux haploïdes répartis dans 7 cellules.",
+        "C": "8 noyaux diploïdes répartis dans 8 cellules distinctes.",
+        "D": "7 noyaux haploïdes répartis dans 6 cellules organisées."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : L’ovule est entouré par un simple tégument percé d’un micropyle.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : Le nucelle de l’ovule contient le sac embryonnaire, lequel est constitué d’un total de 7 cellules.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Au pôle opposé du sac embryonnaire, on trouve l’oosphère et les deux synergides.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La cellule géante située au centre du sac embryonnaire contient deux noyaux haploïdes.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : La cellule mère du sac embryonnaire est une cellule diploïde (2n) située du côté du micropyle.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : Après la méiose de la cellule mère du sac embryonnaire, les trois cellules micropylaires dégénèrent.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Tous les noyaux du sac embryonnaire sont à 2n chromosomes.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : La macrospore subit 3 mitoses successives pour donner 8 noyaux haploïdes.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "L’ovule est entouré par un …..A…… Le double tégument est percé d’un orifice appelé …..B…… À l’intérieur se trouve le nucelle contenant le …..C……",
+      "reponses": {
+        "A": "A : double tégument, B : micropyle, C : sac embryonnaire",
+        "B": "A : simple tégument, B : hilum, C : endosperme",
+        "C": "A : périsperme, B : pore germinatif, C : embryon",
+        "D": "A : tégument unique, B : ostiole, C : gamète mâle"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Le sac embryonnaire est constitué de 7 cellules. Au pôle micropylaire on a 3 cellules : l’oosphère et les 2 …..A…… Au pôle opposé on a les 3 cellules : les 3 …..B…… Au centre on a 1 cellule géante à 2 noyaux dits noyaux du sac ou noyaux …..C……",
+      "reponses": {
+        "A": "A : antipodes, B : synergides, C : primaires",
+        "B": "A : noyaux polaires, B : cellules centrales, C : reproducteurs",
+        "C": "A : synergides, B : antipodes, C : secondaires",
+        "D": "A : noyaux végétatifs, B : cellules génératrices, C : gamétiques"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "L’une des cellules du nucelle, appelée cellule mère du sac embryonnaire, est …..A….. (2n). Elle subit une …..B….. ; Il se forme ainsi 4 cellules …..C….. (n) disposées en ligne.",
+      "reponses": {
+        "A": "A : haploïde, B : mitose, C : diploïdes",
+        "B": "A : diploïde, B : méiose, C : haploïdes",
+        "C": "A : triploïde, B : fécondation, C : diploïdes",
+        "D": "A : tétraploïde, B : division cellulaire, C : triploïdes"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "Les 3 cellules micropylaires dégénèrent. Seule une des 4 cellules, la …..A….. ou macrospore se développe. Le noyau de cette macrospore subit …..B….. mitoses successives, ce qui donne …..C….. noyaux haploïdes (n) qui se repartissent dans 7 cellules dont l’ensemble constitue le sac embryonnaire.",
+      "reponses": {
+        "A": "A : microspore, B : deux, C : quatre",
+        "B": "A : mégaspore, B : trois, C : huit",
+        "C": "A : oosphère, B : une, C : deux",
+        "D": "A : synergide, B : quatre, C : douze"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVTD009_Q3",
+  "titre": "Quiz 3 : Les étapes de la fécondation",
+  "questions": {
+    "question n°1": {
+      "question": "Le transport des grains de pollen sur le stigmate d’une fleur de la même espèce est un processus biologique appelé :",
+      "reponses": {
+        "A": "La germination des grains de pollen sur la surface du stigmate.",
+        "B": "La fécondation croisée entre des espèces différentes de plantes.",
+        "C": "La pollinisation.",
+        "D": "La déhiscence de l’anthère pour libérer les grains matures."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°2": {
+      "question": "Lorsqu’une pollinisation est qualifiée de « directe » ou « auto-pollinisation », cela implique spécifiquement que :",
+      "reponses": {
+        "A": "Les pollens sont transportés sur le stigmate d’une autre fleur de la même espèce par un agent.",
+        "B": "Les pollens des étamines d’une fleur tombent sur le stigmate de la même fleur.",
+        "C": "Le vent est l’agent principal et unique de transport des grains de pollen.",
+        "D": "Des insectes ou des oiseaux assurent le transport vers une fleur différente."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "Lors de la germination des grains de pollen, un tube fin appelé tube pollinique se forme. Ce tube est spécifiquement limité par quelle membrane du grain de pollen ?",
+      "reponses": {
+        "A": "L’exine, la couche externe perforée du pollen.",
+        "B": "Le tégument protecteur de l’ovule.",
+        "C": "La paroi cellulaire primaire du grain.",
+        "D": "L’intine."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°4": {
+      "question": "Quel est le cheminement correct du tube pollinique après qu’il s’est enfoncé dans le tissu conducteur du style ?",
+      "reponses": {
+        "A": "Il gagne l’ovaire, puis pénètre dans un ovule par le micropyle.",
+        "B": "Il gagne la graine, puis le fruit et enfin l’ovule à fertiliser.",
+        "C": "Il atteint directement le sac embryonnaire sans passer par l’ovaire.",
+        "D": "Il se dirige vers les pétales pour initier le processus de fécondation."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "Lorsque le tube pollinique a achevé sa croissance et atteint sa destination, quel est le devenir du noyau végétatif ?",
+      "reponses": {
+        "A": "Il subit une mitose pour former deux gamètes mâles.",
+        "B": "Il dirige la croissance du tube pollinique puis dégénère.",
+        "C": "Il s’unit à l’oosphère pour former l’œuf principal.",
+        "D": "Il reste actif et maintient la viabilité du pollen pour une future fécondation."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "La double fécondation, caractéristique des spermaphytes, implique l’union d’un spermatozoïde avec l’oosphère et l’union du second spermatozoïde avec :",
+      "reponses": {
+        "A": "Les trois cellules antipodes du sac embryonnaire.",
+        "B": "La cellule mère du sac embryonnaire avant sa méiose.",
+        "C": "Les deux synergides situées au pôle micropylaire du sac embryonnaire.",
+        "D": "Les deux noyaux du sac."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "La double fécondation est un processus obligatoire spécifiquement chez :",
+      "reponses": {
+        "A": "Les cryptogames vasculaires, comme les fougères.",
+        "B": "Les mousses et les algues, organismes inférieurs.",
+        "C": "Les spermaphytes.",
+        "D": "Les champignons et les lichens, organismes non photosynthétiques."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "Vrai ou Faux : La pollinisation est le transport des grains de pollen sur le stigmate d’une fleur de la même espèce.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : La pollinisation indirecte est également appelée auto-pollinisation.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : Le noyau reproducteur est le premier à s’engager dans le tube pollinique lors de la germination.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le tube pollinique s’enfonce dans le tissu conducteur du style en le digérant.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : Le noyau reproducteur subit une mitose et donne naissance à deux gamètes mâles haploïdes.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Lors de la double fécondation, les deux spermatozoïdes pénètrent dans le nucelle.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : L’union d’un spermatozoïde avec l’oosphère forme l’œuf principal ou œuf embryon, qui est diploïde (2n).",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : L’œuf accessoire ou œuf albumen est formé par l’union d’un spermatozoïde avec les deux noyaux du sac et il est triploïde (3n).",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "La pollinisation est le transport des grains de pollen sur le …..A….. d’une fleur de la même espèce. La pollinisation peut être …..B….. (ou auto pollinisation) ou …..C….. (ou croisée).",
+      "reponses": {
+        "A": "A : ovaire, B : indirecte, C : assistée",
+        "B": "A : étamine, B : entomophile, C : anémophile",
+        "C": "A : stigmate, B : directe, C : indirecte",
+        "D": "A : pistil, B : naturelle, C : artificielle"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°17": {
+      "question": "À la surface des stigmates, les grains de pollen trouvant des conditions favorables se mettent à germer. Un tube fin, le …..A….., limité par l’…..B….. se forme. Le cytoplasme et les 2 noyaux du grain de pollen migrent dans le tube qui s’allonge. Le noyau …..C….. s’engage le 1er dans le tube.",
+      "reponses": {
+        "A": "A : filament, B : exine, C : reproducteur",
+        "B": "A : tube germinatif, B : tégument, C : secondaire",
+        "C": "A : tube pollinique, B : intine, C : végétatif",
+        "D": "A : micropyle, B : nucelle, C : central"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°18": {
+      "question": "Le tube pollinique s’enfonce dans le tissu conducteur du style en le digérant. Puis il gagne l’ovaire (en longeant le …..A…..) et pénètre dans un ovule par le …..B…… L’extrémité du tube pollinique parvient jusqu’au …..C……",
+      "reponses": {
+        "A": "A : collet, B : micropyle, C : nucelle",
+        "B": "A : placentaire, B : hile, C : sac ovulaire",
+        "C": "A : placenta, B : micropyle, C : sac embryonnaire",
+        "D": "A : style, B : stigmate, C : tube ovarien"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "Les 2 spermatozoïdes pénètrent dans le sac embryonnaire : L’un des spermatozoïdes s’unit à l’…..A….. pour former l’œuf principal ou œuf embryon qui est …..B….. (2n). L’autre spermatozoïde s’unit aux …..C….. noyaux du sac pour former l’œuf accessoire ou œuf albumen qui est triploïde (3n).",
+      "reponses": {
+        "A": "A : synergide, B : haploïde, C : un",
+        "B": "A : antipodes, B : triploïde, C : deux",
+        "C": "A : oosphère, B : diploïde, C : deux",
+        "D": "A : cellule centrale, B : diploïde, C : un"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Le tégument de l’ovule se dédouble en deux couches. Laquelle des deux est décrite dans le texte comme étant « dure » ?",
+      "reponses": {
+        "A": "Le tégument interne, qui est de texture molle et souple.",
+        "B": "Le tégument externe.",
+        "C": "L’intine, une membrane fine et interne du grain de pollen.",
+        "D": "L’exine, une membrane perforée présente sur le pollen."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "L’œuf accessoire se place dans la paroi du sac embryonnaire et se divise activement. Cette structure, qui va occuper tout le nucelle et se remplir de réserves, est appelée :",
+      "reponses": {
+        "A": "L’embryon en développement rapide.",
+        "B": "La jeune plantule, prête à germer.",
+        "C": "L’albumen.",
+        "D": "La graine elle-même, dans sa forme finale."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°22": {
+      "question": "L’embryon ou plantule, formé€ à partir de l’œuf principal, est composé de plusieurs parties. La partie spécifique qui est destinée à devenir la racine de la future plante est :",
+      "reponses": {
+        "A": "La tigelle, qui formera l’axe principal.",
+        "B": "La gemmule, qui donnera le bourgeon terminal.",
+        "C": "La radicule.",
+        "D": "Le ou les cotylédons, pour les premières feuilles."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°23": {
+      "question": "Selon les informations du texte, la graine des Angiospermes a pour fonctions fondamentales d’assurer :",
+      "reponses": {
+        "A": "La croissance rapide du fruit et la protection de l’ovaire floral.",
+        "B": "La dissémination de l’espèce et sa survie.",
+        "C": "La fécondation des gamètes mâles et le développement de la fleur.",
+        "D": "La production abondante de pollen et l’attraction des pollinisateurs."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°24": {
+      "question": "Vrai ou Faux : Le tégument interne de l’ovule est décrit comme étant de consistance molle.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°25": {
+      "question": "Vrai ou Faux : L’œuf accessoire se place au centre du sac embryonnaire avant d’entamer sa division active.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°26": {
+      "question": "Vrai ou Faux : La gemmule de l’embryon est la partie qui donnera la tige de la future plante.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "Vrai ou Faux : Les graines sans albumen sont qualifiées de « meilleures » dans le texte.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°28": {
+      "question": "L’œuf principal se divise activement pour former l’…..A….. ou plantule qui comprend : La radicule qui deviendra la …..B….. et La tigelle qui donnera la …..C……",
+      "reponses": {
+        "A": "A : albumen, B : tige, C : fleur",
+        "B": "A : zygote, B : tige, C : racine",
+        "C": "A : embryon, B : racine, C : tige",
+        "D": "A : nucelle, B : bourgeon, C : feuille"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°29": {
+      "question": "L’albumen, formé à partir de l’œuf accessoire, va occuper tout le …..A….. et se remplir de …..B…… D’après le texte, il existe deux types de graines : les graines à albumen et les graines …..C….. albumen.",
+      "reponses": {
+        "A": "A : ovule, B : eau, C : avec",
+        "B": "A : fruit, B : sucre, C : sans",
+        "C": "A : stigmate, B : protéines, C : à",
+        "D": "A : anthère, B : lipides, C : et"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVTD009_Q4",
+  "titre": "Quiz 4 : Perfectionnement 1 - La Reproduction des Angiospermes",
+  "questions": {
+    "question n°1": {
+      "question": "Les pièces reproductrices mâles des fleurs sont les …..A….., qui forment l’…..B…… Les pièces reproductrices femelles sont les …..C….., qui forment le gynécée ou pistil.",
+      "reponses": {
+        "A": "A : carpelles, B : gynécée, C : étamines",
+        "B": "A : ovules, B : ovaire, C : stigmates",
+        "C": "A : étamines, B : androcée, C : carpelles",
+        "D": "A : pistils, B : androcée, C : ovules"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°2": {
+      "question": "L’ovaire est la structure qui contient les …..A….. et se transformera en …..B….. après la …..C……",
+      "reponses": {
+        "A": "A : étamines, B : graine, C : germination",
+        "B": "A : pollen, B : fleur, C : pollinisation",
+        "C": "A : ovules, B : fruit, C : fécondation",
+        "D": "A : carpelles, B : plantule, C : maturation"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Le trajet du grain de pollen vers la fécondation débute par le dépôt du grain de pollen sur le …..A…… Suit la …..B….. du grain de pollen et la formation d’un …..C……",
+      "reponses": {
+        "A": "A : ovaire, B : déhiscence, C : sac embryonnaire",
+        "B": "A : anthère, B : libération, C : gamète mâle",
+        "C": "A : nucelle, B : division, C : noyau végétatif",
+        "D": "A : stigmate, B : germination, C : tube pollinique"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°4": {
+      "question": "Le tube pollinique traverse le …..A….. et atteint l’…..B…… Ensuite, il y a la libération des …..C….. et la fécondation de l’ovule.",
+      "reponses": {
+        "A": "A : ovaire, B : stigmate, C : noyaux centraux",
+        "B": "A : pistil, B : anthère, C : cellules antipodes",
+        "C": "A : gynécée, B : carpelle, C : noyaux végétatifs",
+        "D": "A : style, B : ovule, C : spermatozoïdes"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°5": {
+      "question": "On parle de fécondation double chez les Angiospermes car un spermatozoïde féconde l’…..A….. pour former le …..B….. (futur embryon), et l’autre spermatozoïde fusionne avec deux …..C….. pour former l’endosperme (réserve nutritive).",
+      "reponses": {
+        "A": "A : synergide, B : albumen, C : cellules antipodes",
+        "B": "A : noyau végétatif, B : graine, C : noyaux reproducteurs",
+        "C": "A : ovule, B : zygote, C : noyaux centraux",
+        "D": "A : microspore, B : plantule, C : noyaux du sac"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "Les cellules mères des grains de pollen, situées dans les …..A….., sont …..B….. (2n). Elles subissent une …..C….., produisant 4 cellules haploïdes (n) appelées microspores.",
+      "reponses": {
+        "A": "A : ovules, B : haploïdes, C : mitose",
+        "B": "A : carpelles, B : triploïdes, C : fécondation",
+        "C": "A : étamines, B : haploïdes, C : division",
+        "D": "A : anthères, B : diploïdes, C : méiose"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Chaque microspore subit une …..A….., donnant un grain de pollen avec deux noyaux : Le noyau …..B….. qui dirige la formation du tube pollinique, et le noyau …..C….. qui donnera deux gamètes mâles.",
+      "reponses": {
+        "A": "A : méiose, B : reproducteur, C : végétatif",
+        "B": "A : fécondation, B : génératif, C : central",
+        "C": "A : déhiscence, B : primaire, C : secondaire",
+        "D": "A : mitose, B : végétatif, C : reproducteur"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°8": {
+      "question": "La cellule mère du sac embryonnaire, …..A….. (2n), subit une …..B….. donnant 4 cellules haploïdes. Trois cellules dégénèrent, la …..C….. restante se développe.",
+      "reponses": {
+        "A": "A : diploïde, B : méiose, C : mégaspore",
+        "B": "A : triploïde, B : division, C : oosphère",
+        "C": "A : haploïde, B : mitose, C : microspore",
+        "D": "A : tétraploïde, B : fécondation, C : synergide"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°9": {
+      "question": "Le noyau de la mégaspore restante subit …..A….. mitoses successives, produisant …..B….. noyaux haploïdes qui forment …..C….. cellules au total.",
+      "reponses": {
+        "A": "A : une, B : quatre, C : trois",
+        "B": "A : deux, B : six, C : cinq",
+        "C": "A : trois, B : huit, C : sept",
+        "D": "A : quatre, B : douze, C : neuf"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "Dans le sac embryonnaire, il y a 3 cellules antipodes situées …..A….. au micropyle, et 2 …..B….. situées près du micropyle. L’…..C….. est le gamète femelle.",
+      "reponses": {
+        "A": "A : opposées, B : synergides, C : oosphère",
+        "B": "A : du côté, B : oosphères, C : noyau central",
+        "C": "A : près, B : antipodes, C : synergide",
+        "D": "A : loin, B : noyaux centraux, C : microspore"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Dans le sac embryonnaire, il y a deux …..A….., qui fusionneront après la fécondation pour former l’…..B…… La première étape de la double fécondation implique le tube pollinique qui atteint le sac embryonnaire et libère deux …..C….. haploïdes (n).",
+      "reponses": {
+        "A": "A : noyaux végétatifs, B : zygote, C : noyaux reproducteurs",
+        "B": "A : noyaux centraux, B : albumen, C : spermatozoïdes",
+        "C": "A : cellules centrales, B : embryon, C : gamètes femelles",
+        "D": "A : cellules antipodes, B : endosperme, C : ovules"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Le premier spermatozoïde libéré féconde l’…..A….. pour former le …..B….. (2n), qui est le futur …..C……",
+      "reponses": {
+        "A": "A : synergide, B : albumen, C : endosperme",
+        "B": "A : noyau central, B : plantule, C : graine",
+        "C": "A : oosphère, B : zygote, C : embryon",
+        "D": "A : cellule antipodale, B : fruit, C : ovaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Le deuxième spermatozoïde libéré fusionne avec les deux …..A….. pour former l’…..B….. (3n). Cette série d’événements caractérise la …..C….. fécondation.",
+      "reponses": {
+        "A": "A : synergides, B : zygote, C : simple",
+        "B": "A : antipodes, B : embryon, C : unique",
+        "C": "A : cellules mères, B : graine, C : partielle",
+        "D": "A : noyaux centraux, B : albumen, C : double"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°14": {
+      "question": "À la suite de la fécondation, l’ovule se transforme en …..A…… De plus, les parois de l’…..B….. grossissent pour former le …..C……",
+      "reponses": {
+        "A": "A : fruit, B : ovule, C : graine",
+        "B": "A : fleur, B : stigmate, C : ovaire",
+        "C": "A : graine, B : ovaire, C : fruit",
+        "D": "A : plantule, B : étamine, C : pistil"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "Les pièces reproductrices …..A….. des fleurs sont les étamines, qui forment l’androcée. Les pièces reproductrices …..B….. sont les carpelles, qui forment le gynécée ou …..C……",
+      "reponses": {
+        "A": "A : internes, B : externes, C : ovaire",
+        "B": "A : vertes, B : colorées, C : étamine",
+        "C": "A : mâles, B : femelles, C : pistil",
+        "D": "A : basales, B : apicales, C : ovule"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°16": {
+      "question": "Le noyau végétatif du grain de pollen a pour rôle de diriger la formation du …..A…… Le noyau …..B….. du grain de pollen, quant à lui, donnera deux …..C….. mâles.",
+      "reponses": {
+        "A": "A : tube pollinique, B : reproducteur, C : gamètes",
+        "B": "A : embryon, B : central, C : ovules",
+        "C": "A : sporophyte, B : végétatif, C : gamètes femelles",
+        "D": "A : graine, B : primaire, C : noyaux secondaires"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "Dans la formation du sac embryonnaire, après la méiose de la cellule mère, trois cellules dégénèrent. Seule une des quatre cellules, la …..A….., se développe. Son noyau subit …..B….. mitoses successives, produisant …..C….. noyaux haploïdes.",
+      "reponses": {
+        "A": "A : microspore, B : une, C : quatre",
+        "B": "A : oosphère, B : deux, C : six",
+        "C": "A : synergide, B : quatre, C : douze",
+        "D": "A : mégaspore, B : trois, C : huit"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°18": {
+      "question": "Le sac embryonnaire est constitué de sept cellules : 3 cellules antipodes, 2 …..A….., 1 …..B….., et 2 …..C….. qui fusionneront après la fécondation.",
+      "reponses": {
+        "A": "A : antipodes, B : ovule, C : noyaux végétatifs",
+        "B": "A : microspores, B : plantule, C : noyaux reproducteurs",
+        "C": "A : synergides, B : oosphère, C : noyaux centraux",
+        "D": "A : cellules mères, B : graine, C : cellules secondaires"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "Lors des étapes de la double fécondation, le tube pollinique atteint le sac embryonnaire et libère deux …..A….. haploïdes (n). Le premier féconde l’oosphère, et le deuxième fusionne avec les …..B….. noyaux centraux pour former l’…..C……",
+      "reponses": {
+        "A": "A : noyaux végétatifs, B : un, C : zygote",
+        "B": "A : noyaux reproducteurs, B : trois, C : embryon",
+        "C": "A : spermatozoïdes, B : deux, C : albumen",
+        "D": "A : gamètes femelles, B : quatre, C : endosperme"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Les cellules mères des grains de pollen sont situées dans les …..A…… La cellule mère du sac embryonnaire est située dans le …..B….. et subit une méiose. Les deux noyaux centraux du sac embryonnaire fusionneront après la fécondation pour former l’…..C……",
+      "reponses": {
+        "A": "A : carpelles, B : ovaire, C : zygote",
+        "B": "A : ovules, B : stigmate, C : embryon",
+        "C": "A : anthères, B : nucelle, C : albumen",
+        "D": "A : pistils, B : style, C : graine"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+},
+{
+  "id": "SVTD009_Q5",
+  "titre": "Quiz 5 : Perfectionnement 2 - La Reproduction des Angiospermes",
+  "questions": {
+    "question n°1": {
+      "question": "Rangez dans l'ordre chronologique, les étapes de la formation du sac embryonnaire :",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "ADEFCB",
+        "B": "ABDEFC",
+        "C": "AEFDCB",
+        "D": "AEFDBC"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°2": {
+      "question": "\"A\" est la cellule mère de la mégaspore (MMC) : C'est la cellule initiale .....A..... qui va subir la .....B......",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: haploïde, B: mitose",
+        "B": "A: triploïde, B: fécondation",
+        "C": "A: diploïde, B: méiose",
+        "D": "A: tétraploïde, B: germination"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "\"E\" montre la première division .....A..... donnant .....B..... cellules : La MMC subit la .....C....., ce qui donne deux cellules haploïdes.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: mitotique, B: quatre, C: méiose II",
+        "B": "A: méiotique, B: deux, C: méiose I",
+        "C": "A: cellulaire, B: trois, C: mitose",
+        "D": "A: réductrice, B: une, C: fécondation"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Stade \"F\" — la deuxième division .....A..... donnant .....B..... cellules : Les deux cellules issues de la méiose I subissent la .....C....., formant une tétrade linéaire de quatre mégaspores haploïdes.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A : méiotique, B : quatre, C : méiose II",
+        "B": "A: nucléaire, B: trois, C: fécondation",
+        "C": "A : mitotique, B : deux, C : méiose I",
+        "D": "A: cellulaire, B: six, C: mitose"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "\"D\" représente la mégaspore .....A....., tandis que les .....B..... autres mégaspores .....C......",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A : fonctionnelle, B : trois, C : dégénèrent",
+        "B": "A: immature, B: une, C: se développent",
+        "C": "A : stérile, B : deux, C : survivent",
+        "D": "A: diploïde, B: toutes les, C: se transforment"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°6": {
+      "question": "\"B\" représente les divisions .....A..... successives : Le noyau de la .....B..... fonctionnelle subit une série de trois divisions .....C..... sans cytocinèse.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: méiotiques, B: cellule mère, C: réductrices",
+        "B": "A: cellulaires, B: tétrade, C: primaires",
+        "C": "A: nucléaires, B: oosphère, C: successives",
+        "D": "A: mitotiques, B: mégaspore, C: mitotiques"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Ces divisions sans cytocinèse conduisent à la formation de plusieurs .....A..... dans la même cellule. L'image \"B\" représente probablement le stade à .....B..... noyaux après la .....C..... mitose.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: cellules, B: quatre, C: deuxième",
+        "B": "A: zygotes, B: un, C: méiose",
+        "C": "A : gamètes, B : huit, C : troisième",
+        "D": "A : noyaux, B : deux, C : première"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°8": {
+      "question": "\"C\" est le sac embryonnaire .....A..... (7 cellules bien différenciées) : Après les divisions mitotiques, les noyaux se réorganisent et des .....B..... se forment pour donner le sac embryonnaire mature, qui est typiquement composé de .....C..... cellules.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: immature, B: cytosomes, C: huit",
+        "B": "A: en formation, B: membranes, C: six",
+        "C": "A: mature, B: parois cellulaires, C: sept",
+        "D": "A: diploïde, B: enveloppes, C: neuf"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Le sac embryonnaire mature est typiquement composé de sept cellules et .....A..... noyaux, incluant une cellule œuf, deux .....B....., une cellule centrale avec deux noyaux .....C....., et trois cellules antipodes.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: six, B: antipodes, C: végétaux",
+        "B": "A : huit, B : synergides, C : polaires",
+        "C": "A : sept, B : cellules mères, C : reproducteurs",
+        "D": "A: neuf, B: microspores, C: secondaires"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle structure est désignée par la lettre 'a' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Tube pollinique",
+        "B": "Nucelle",
+        "C": "Synergide",
+        "D": "Oosphère"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle structure est désignée par la lettre 'b' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Sac embryonnaire",
+        "B": "Anthérozoïde",
+        "C": "Nucelle",
+        "D": "Antipode"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle structure est désignée par la lettre 'c' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Noyaux centraux",
+        "C": "Synergide",
+        "D": "Tube pollinique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle structure est désignée par la lettre 'd' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Antipode",
+        "B": "Nucelle",
+        "C": "Sac embryonnaire",
+        "D": "Oosphère"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°14": {
+      "question": "Quelle structure est désignée par la lettre 'e' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Synergide",
+        "B": "Tube pollinique",
+        "C": "Noyaux centraux",
+        "D": "Anthérozoïde"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle structure est désignée par la lettre 'f' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Sac embryonnaire",
+        "C": "Antipode",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle structure est désignée par la lettre 'g' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Nucelle",
+        "B": "Tube pollinique",
+        "C": "Synergide",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle structure est désignée par la lettre 'h' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Antipode",
+        "B": "Anthérozoïde",
+        "C": "Noyaux centraux",
+        "D": "Oosphère"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle structure est désignée par le numéro '1' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Synergide",
+        "B": "Micropyle",
+        "C": "Oosphère",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle structure est désignée par le numéro '2' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Synergide",
+        "C": "Antipode",
+        "D": "Micropyle"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle structure est désignée par le numéro '3' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Sac embryonnaire",
+        "B": "Oosphère",
+        "C": "Antipode",
+        "D": "Synergide"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelle structure est désignée par le numéro '4' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Oosphère",
+        "C": "Micropyle",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°22": {
+      "question": "Quelle structure est désignée par le numéro '5' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Antipode",
+        "B": "Noyaux centraux",
+        "C": "Micropyle",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°23": {
+      "question": "Quelle structure est désignée par le numéro '6' dans le schéma ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Synergide",
+        "C": "Antipode",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°24": {
+      "question": "Quelle structure est désignée par la lettre 'a' dans la Figure 1 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Anthérozoïde",
+        "B": "Noyau végétatif",
+        "C": "Oosphère",
+        "D": "Tube pollinique"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°25": {
+      "question": "Quelle structure est désignée par la lettre 'b' dans la Figure 1 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Tube pollinique",
+        "B": "Noyau végétatif",
+        "C": "Nucelle",
+        "D": "Anthérozoïde"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°26": {
+      "question": "Quelle structure est désignée par la lettre 'c' dans la Figure 1 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Anthérozoïde",
+        "B": "Tube pollinique",
+        "C": "Oosphère",
+        "D": "Noyau végétatif"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°27": {
+      "question": "Quelle structure est désignée par le numéro '1' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Nucelle",
+        "B": "Tube pollinique",
+        "C": "Oosphère",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°28": {
+      "question": "Quelle structure est désignée par le numéro '2' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Anthérozoïde n°1",
+        "C": "Nucelle",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°29": {
+      "question": "Quelle structure est désignée par le numéro '3' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Anthérozoïde n°2",
+        "C": "Tube pollinique",
+        "D": "Nucelle"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°30": {
+      "question": "Quelle structure est désignée par le numéro '4' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Oosphère",
+        "C": "Tube pollinique",
+        "D": "Nucelle"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°31": {
+      "question": "Quelle structure est désignée par le numéro '5' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Anthérozoïde n°2",
+        "C": "Oosphère",
+        "D": "Nucelle"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°32": {
+      "question": "Quelle structure est désignée par le numéro '6' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Tube pollinique",
+        "C": "Noyaux centraux",
+        "D": "Anthérozoïde n°1"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+}
+
+
+
+  
+]

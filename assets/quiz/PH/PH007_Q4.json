@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 4",
+  "id": "PH007_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Toujours dans contexte du sujet: << le bonheur est-il accessible à l'homme?>>. L'Axe 2 de ce sujet affirme que le bonheur demeure :",
+      "réponses": {
+        "A": "Une notion simple et universelle, facilement atteignable par toute personne qui le désire ardemment.",
+        "B": "Un état constant et permanent de satisfaction, une fois que les conditions matérielles de vie sont pleinement assurées.",
+        "C": "Un idéal difficile à atteindre, souvent perçu comme insaisissable, éphémère, voire illusoire pour la majorité des êtres humains.",
+        "D": "Une chimère, un rêve complètement irréaliste qui n'a aucune pertinence pour la compréhension de la condition humaine réelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "la notion de bonheur est \"relative et subjective\" car :",
+      "réponses": {
+        "A": "Elle est universellement définie et stable à travers les cultures et les époques, ne variant jamais d'un individu à l'autre.",
+        "B": "Elle dépend exclusivement de la richesse matérielle et de la possession de biens, sans aucune influence des préférences personnelles ou des contextes.",
+        "C": "Il n'existe pas une définition unique, et ce qui rend heureux une personne peut laisser une autre indifférente, variant selon les individus, cultures et âges.",
+        "D": "Elle est déterminée par des lois scientifiques objectives et des calculs précis, permettant de prédire avec exactitude les sources de la joie et de la satisfaction."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Jean-Jacques Rousseau, dans Émile ou de l'éducation, affirme : \"Nous ne savons ce que c’est que le bonheur ou le malheur absolu […] tout est mêlé dans cette vie\". Cette citation exprime l'idée que :",
+      "réponses": {
+        "A": "Le bonheur est une expérience pure et sans mélange, que l'homme peut atteindre de manière constante et sans aucune altération.",
+        "B": "L'homme est constamment plongé dans un malheur total et irréversible, sans aucune possibilité d'éprouver des moments de joie ou de satisfaction.",
+        "C": "Seule la connaissance scientifique et la raison pure peuvent permettre de distinguer clairement le bonheur absolu du malheur absolu dans l'existence humaine.",
+        "D": "La condition humaine est intrinsèquement complexe et ambiguë, où le bonheur et le malheur sont entremêlés, rendant difficile l'accès à un état de pure félicité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "L'Argument 2 insiste sur le caractère \"illimité\" du désir humain, ce qui est une cause de frustration car :",
+      "réponses": {
+        "A": "Chaque satisfaction du désir apporte une plénitude durable et élimine définitivement tout manque futur chez l'homme.",
+        "B": "Le désir humain est naturellement limité et facile à contrôler, permettant une satisfaction totale et permanente des besoins.",
+        "C": "Chaque satisfaction appelle un nouveau désir, créant un cycle sans fin de quête et de manque qui empêche l'atteinte d'un bonheur stable.",
+        "D": "La frustration est une émotion passagère et superficielle, sans aucun impact réel sur la capacité de l'homme à trouver le bonheur à long terme."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Platon compare le désir à un \"vase percé\" qu'on ne peut jamais remplir. Cette métaphore illustre :",
+      "réponses": {
+        "A": "La capacité infinie de l'homme à accumuler des biens matériels et des plaisirs sans jamais atteindre la satiété ou la lassitude.",
+        "B": "L'idée que le désir est une source de plénitude inépuisable, capable de combler toutes les aspirations humaines de manière définitive.",
+        "C": "La nature insatiable du désir humain, qui, même satisfait, laisse toujours un vide ou un manque, empêchant une satisfaction complète et durable.",
+        "D": "La nécessité de se vider de tous ses désirs pour atteindre un état de néant et d'indifférence face à la vie et à ses aléas."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel philosophe affirme que le désir satisfait ne fait que \"préparer le désir suivant\" ?",
+      "réponses": {
+        "A": "Baruch Spinoza, pour sa philosophie de l'affirmation de la vie et la puissance du désir comme expression de l'essence de l'être.",
+        "B": "Arthur Schopenhauer, dans Le monde comme volonté et comme représentation, décrivant le désir comme une volonté insatiable et cause de souffrance constante.",
+        "C": "Friedrich Nietzsche, pour sa conception de la volonté de puissance comme force motrice fondamentale de l'existence, source de dépassement.",
+        "D": "Sigmund Freud, pour sa théorie des pulsions et le principe de plaisir qui cherche la satisfaction immédiate des désirs inconscients."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "L'Argument 3 affirme que le progrès matériel ne garantit pas le bonheur moral car :",
+      "réponses": {
+        "A": "Il apporte des réponses complètes et définitives à tous les besoins spirituels et éthiques de l'homme, assurant une harmonie parfaite.",
+        "B": "Il n'a aucun impact sur la vie humaine, restant une sphère isolée des préoccupations matérielles et des avancées technologiques.",
+        "C": "Il peut engendrer isolement, déshumanisation et perte de repères, ne fournissant pas de réponses aux besoins spirituels et éthiques, malgré le confort matériel.",
+        "D": "La morale et la spiritualité sont des concepts archaïques, sans aucune pertinence pour l'homme moderne qui se fie uniquement à la science et à la technologie."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel philosophe souligne la nécessité d'un \"supplément d'âme\" face à une culture technologique poussée ?",
+      "réponses": {
+        "A": "Henri Bergson, dans Les deux sources de la morale et de la religion, mettant en évidence l'impératif d'un développement moral et spirituel pour accompagner la puissance technique.",
+        "B": "Karl Marx, pour sa critique de l'aliénation matérielle et son appel à une transformation radicale des structures économiques.",
+        "C": "Auguste Comte, pour sa vision positiviste du progrès qui relègue les questions spirituelles à l'état théologique dépassé.",
+        "D": "Michel Foucault, pour son analyse des technologies de pouvoir et son étude des formes de subjectivation et de contrôle dans les sociétés modernes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "L'explication de l'Argument 4 affirme que le bonheur parfait n'existe pas sur Terre parce que l'homme est confronté à :",
+      "réponses": {
+        "A": "Une absence totale d'épreuves, de maladies ou de pertes, ce qui garantit une vie de joie constante et sans interruption.",
+        "B": "Des moments de bonheur qui sont éternels et inaltérables, une fois qu'ils sont atteints, sans aucune fragilité ou éphémérité.",
+        "C": "Une existence purement spirituelle, dénuée de toute interaction avec le monde matériel et ses contraintes physiques.",
+        "D": "Les épreuves, la maladie, la mort et la perte, rendant même les moments heureux fragiles et éphémères, ce qui fait du bonheur total une utopie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "La citation de Jules Renard dans Journal : \"Si l’homme bâtissait la maison du bonheur, la plus grande pièce serait la salle d’attente\" signifie que :",
+      "réponses": {
+        "A": "Le bonheur est une destination certaine et facile à atteindre, pourvu que l'on se prépare adéquatement et sans aucune attente.",
+        "B": "Le bonheur est un état de plénitude immédiate, qui ne nécessite aucune anticipation ou préparation, se manifestant spontanément.",
+        "C": "La recherche du bonheur est souvent une quête sans fin, une attente perpétuelle d'un idéal qui n'arrive jamais pleinement, ou dont la réalisation est toujours différée.",
+        "D": "La maison du bonheur est une construction solide et permanente, où chaque pièce représente une étape achevée de la réalisation de soi et de la satisfaction."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "L'explication de l'Argument 1 met l'accent sur le fait que la variabilité du bonheur selon les individus et les cultures est une preuve de sa nature :",
+      "réponses": {
+        "A": "Objective et universelle, car elle s'adapte parfaitement aux particularités de chaque contexte sans altérer sa définition fondamentale.",
+        "B": "Relative et subjective, car elle dépend des perceptions, des valeurs et des attentes propres à chacun et à chaque société.",
+        "C": "Illusoire et sans fondement, car si le bonheur varie, il ne peut donc pas exister réellement ou être une aspiration légitime.",
+        "D": "Scientifique et mesurable, permettant de classer les définitions du bonheur selon des critères précis et des données statistiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "La comparaison du désir à un \"vase percé\" (Platon) ou à un cycle de \"désir satisfait qui prépare le désir suivant\" (Schopenhauer) mène à la conclusion que le bonheur durable est empêché par :",
+      "réponses": {
+        "A": "La capacité de l'homme à limiter ses désirs et à trouver la satisfaction dans la modération et l'équilibre.",
+        "B": "L'abondance des biens matériels, qui permet de combler tous les désirs de manière immédiate et sans effort.",
+        "C": "L'insatiabilité fondamentale du désir humain, qui ne peut jamais être pleinement et définitivement comblé, générant un manque constant.",
+        "D": "Une volonté de puissance qui transcende les désirs éphémères et conduit l'homme à une réalisation de soi indépendante de toute satisfaction matérielle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "L'Argument 1 affirme que le bonheur est une notion relative et subjective, car sa définition varie selon les individus et les cultures.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Jean-Jacques Rousseau, dans Émile, soutient que l'homme peut atteindre un bonheur absolu et pur sur Terre, sans aucune souffrance ou mélange de malheur.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La métaphore du \"vase percé\" utilisée par Platon pour le désir, signifie que le désir peut toujours être rempli et conduit à un bonheur durable.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Schopenhauer affirme que chaque désir satisfait conduit à un état de plénitude éternelle et libère l'homme de toute autre forme de désir.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Le progrès matériel, en apportant du confort, garantit automatiquement le bonheur moral et spirituel de l'homme, éliminant tout isolement ou perte de repères.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Henri Bergson estime qu'un \"supplément d'âme\" est nécessaire pour équilibrer la puissance technologique avec un approfondissement moral et spirituel.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'homme est confronté aux épreuves, à la maladie et à la mort, ce qui rend le bonheur total et permanent sur Terre une utopie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "La citation de Jules Renard, \"Si l'homme bâtissait la maison du bonheur, la plus grande pièce serait la salle d'attente\", exprime l'idée que le bonheur est facile à atteindre si on est patient.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

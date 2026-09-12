@@ -1,0 +1,214 @@
+{
+  "title": "Quiz 1 ",
+  "id": "AN01_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Je suis triste.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I is sad.",
+        "B": "I are sad.",
+        "C": "I have sad.",
+        "D": "I am sad."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Tu es à la maison.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "You am at home.",
+        "B": "You is at home.",
+        "C": "You are at home.",
+        "D": "You have at home."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Elle est belle.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "She am beautiful.",
+        "B": "She are beautiful.",
+        "C": "She is beautiful.",
+        "D": "She has beautiful."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Nous sommes les enfants.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "We is the children.",
+        "B": "We are the children.",
+        "C": "We am the children.",
+        "D": "We have the children."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction correcte de \"Ils sont des élèves\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "They is students.",
+        "B": "They are students.",
+        "C": "They am students.",
+        "D": "They has students."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est le pronom sujet pour \"Il\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "She",
+        "B": "We",
+        "C": "He.",
+        "D": "They"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la forme correcte de \"to be\" pour le sujet \"He\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "He am",
+        "B": "He are",
+        "C": "He is.",
+        "D": "He be"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la traduction de \"Vous êtes dans la salle de classe\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "You is in the classroom.",
+        "B": "You are in the classroom.",
+        "C": "You am in the classroom.",
+        "D": "You have in the classroom."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Mariam est triste.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mariam are sad.",
+        "B": "Mariam am sad.",
+        "C": "Mariam is sad.",
+        "D": "Mariam has sad."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le sens de l'expression \"I am a student\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'ai un élève.",
+        "B": "Je suis un élève.",
+        "C": "Tu es un élève.",
+        "D": "Nous sommes des élèves."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Ils sont heureux.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "They",
+        "are",
+        "happy",
+        "we",
+        "is",
+        "sad"
+      ],
+      "bonne réponse": "They are happy"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Nous sommes des enfants.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "We",
+        "are",
+        "the",
+        "children",
+        "they",
+        "is",
+        "a",
+        "student"
+      ],
+      "bonne réponse": "We are the children"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Il est beau.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "He",
+        "is",
+        "beautiful",
+        "she",
+        "are",
+        "a",
+        "home"
+      ],
+      "bonne réponse": "He is beautiful"
+    },
+    "question n°14": {
+      "question": "Complétez le dialogue : *A: Are you a teacher? B: Non, je suis un élève.*",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "am",
+        "a",
+        "student",
+        "you",
+        "are",
+        "not",
+        "No",
+        "teacher"
+      ],
+      "bonne réponse": "No I am a student"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Elle est à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "She",
+        "is",
+        "at",
+        "home",
+        "he",
+        "are",
+        "in",
+        "school"
+      ],
+      "bonne réponse": "She is at home"
+    },
+    "question n°16": {
+      "question": "Traduisez le pronom personnel \"Nous\".",
+      "type": "short_answer",
+      "bonne réponse": "We"
+    },
+    "question n°17": {
+      "question": "Traduisez le groupe de mots \"Je suis\".",
+      "type": "short_answer",
+      "bonne réponse": "I am"
+    },
+    "question n°18": {
+      "question": "Traduisez le groupe de mots \"Ils sont\".",
+      "type": "short_answer",
+      "bonne réponse": "They are"
+    },
+    "question n°19": {
+      "question": "Donnez le verbe qui signifie \"être\" en anglais (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "To be"
+    },
+    "question n°20": {
+      "question": "Donnez la forme du verbe \"To be\" qui correspond à \"Elle\" (She).",
+      "type": "short_answer",
+      "bonne réponse": "is"
+    }
+  }
+}

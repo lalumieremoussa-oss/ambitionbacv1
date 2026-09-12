@@ -1,0 +1,1532 @@
+[
+  {
+    "id": "PH009_Q1",
+    "title": "Quiz 1",
+    "questions": {
+      "question n°1": {
+        "question": "Soit le sujet suivant : Doit-on Surestimer la Science ? Le terme \"Doit-on\" introduit une dimension :",
+        "réponses": {
+          "A": "Exclusivement factuelle, cherchant à déterminer un état de fait observable sans aucune considération pour la moralité ou la légitimité d'une action.",
+          "B": "Principalement historique, interrogeant l'évolution passée des perceptions de la science à travers les époques et les civilisations.",
+          "C": "Purement descriptive, qui se contente de rapporter ce qui est, sans émettre de jugement de valeur ou de recommandation pour l'avenir.",
+          "D": "Normative, éthique ou de légitimité, qui questionne si c'est nécessaire, légitime, ou raisonnable de porter un jugement sur la science."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°2": {
+        "question": "Le verbe \"Surestimer\", dans le cadre de la question \"Doit-on surestimer la science ?\", signifie :",
+        "réponses": {
+          "A": "Accorder à la science une valeur juste et mesurée, en reconnaissant précisément ses contributions sans aucun excès ou idéalisation.",
+          "B": "Exagérer la valeur, accorder un crédit excessif, ou idéaliser la science de manière déraisonnable en lui attribuant des qualités qu'elle n'a pas.",
+          "C": "Sous-estimer délibérément les capacités de la science, en ignorant ses découvertes et en minimisant son impact sur la société humaine.",
+          "D": "Porter un jugement objectif sur la science, en la plaçant dans une perspective critique qui en révèle à la fois les forces et les faiblesses inhérentes."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°3": {
+        "question": "La reformulation du sujet \"Est-il raisonnable de croire que la science peut tout expliquer, tout résoudre, tout améliorer ?\" met en lumière une interrogation sur :",
+        "réponses": {
+          "A": "La capacité limitée de la science à comprendre des phénomènes naturels simples, sans pouvoir les décrire ou les prédire avec précision.",
+          "B": "La prétention de la science à offrir des réponses universelles et complètes à tous les problèmes humains, qu'ils soient matériels, moraux ou existentiels.",
+          "C": "Le rôle exclusif de la science dans la création de nouvelles interrogations philosophiques, sans jamais apporter de solution aux questions qu'elle soulève.",
+          "D": "La nécessité pour la science de se limiter à des domaines très spécifiques, sans jamais chercher à influencer la vie quotidienne ou les décisions politiques."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°4": {
+        "question": "Des penseurs comme René Descartes ou Auguste Comte ont \"exalté les vertus\" de la science, allant jusqu'à la considérer comme :",
+        "réponses": {
+          "A": "Une discipline parmi d'autres, utile pour des aspects techniques mais sans influence majeure sur la connaissance humaine ou le progrès social.",
+          "B": "Une source de confusion et d'illusions, éloignant l'homme de la sagesse et de la véritable compréhension du monde et de soi.",
+          "C": "La clé de tous les savoirs et de toutes les améliorations sociales, capable de transformer radicalement la condition humaine.",
+          "D": "Un outil dangereux et destructeur, menaçant la liberté individuelle et l'harmonie naturelle des sociétés traditionnelles."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°5": {
+        "question": "À l'opposé des penseurs comme Descartes ou Comte, des figures comme Rousseau ou Freud n'ont pas hésité à pointer les :",
+        "réponses": {
+          "A": "Contributions indéniables de la science à l'épanouissement humain et à la résolution de tous les dilemmes existentiels.",
+          "B": "Limites, voire les dangers de la science, suggérant que ses avancées peuvent aussi avoir des effets pervers ou des conséquences imprévues sur l'homme et la société.",
+          "C": "Faiblesses intrinsèques de la pensée philosophique face à la rigueur et à l'objectivité de la méthode scientifique.",
+          "D": "Bienfaits universels de la technologie issue de la science, considérant chaque innovation comme un pas vers le bonheur absolu."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°6": {
+        "question": "L'Argument 1 de l'Axe I (\"La science semble mériter la place centrale qu’on lui accorde\") est que la science :",
+        "réponses": {
+          "A": "Est une source de confusion et de doute, qui éloigne l'homme de la compréhension claire des phénomènes naturels.",
+          "B": "Ne se préoccupe que des questions matérielles, sans jamais satisfaire la curiosité intellectuelle de l'homme pour les mystères de l'univers.",
+          "C": "Satisfait la curiosité intellectuelle de l'homme, en offrant des explications rationnelles aux phénomènes naturels et en structurant sa compréhension du monde.",
+          "D": "Se limite à la répétition de dogmes et de superstitions, sans jamais proposer de nouvelles perspectives ou de connaissances originales."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°7": {
+        "question": "Selon Descartes, la science permet de nous rendre \"maîtres et possesseurs de la nature\". Cette citation, extraite du Discours de la méthode, signifie que la science :",
+        "réponses": {
+          "A": "N'a aucun pouvoir réel sur la nature, l'homme étant condamné à subir passivement les forces extérieures sans pouvoir les influencer.",
+          "B": "Mène à une harmonie parfaite avec la nature, en respectant son équilibre sans chercher à la transformer ou à la dominer.",
+          "C": "Est un instrument de connaissance et d'action qui donne à l'homme le pouvoir de comprendre, de manipuler et de transformer le monde naturel à son avantage.",
+          "D": "Est une entreprise purement contemplative, dont le but est de comprendre la nature sans jamais chercher à en tirer un quelconque bénéfice matériel."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°8": {
+        "question": "La science permet de prévoir et d'agir, ce qui implique que grâce à elle, l'homme peut :",
+        "réponses": {
+          "A": "Subir passivement les événements naturels sans aucune capacité d'anticipation ou de réaction face aux imprévus.",
+          "B": "Ignorer les conséquences de ses actions, la science étant incapable de fournir des informations fiables pour la prise de décision.",
+          "C": "Anticiper les événements futurs et adapter son comportement en conséquence, lui donnant une capacité d'intervention proactive sur le monde.",
+          "D": "Se fier uniquement à l'intuition et à la chance, la prévision scientifique étant une illusion sans aucun fondement réel."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°9": {
+        "question": "Quel philosophe a formulé la maxime célèbre : \"science d'où prévoyance, prévoyance d'où action\" ?",
+        "réponses": {
+          "A": "Jean-Jacques Rousseau, pour sa critique du progrès et son éloge de l'état de nature.",
+          "B": "Francis Bacon, pour son rôle dans la promotion de la méthode expérimentale et son appel à une science utile.",
+          "C": "Karl Marx, pour sa théorie de l'action révolutionnaire et la transformation des structures économiques et sociales.",
+          "D": "Auguste Comte, fondateur du positivisme, qui a systématisé l'idée que la connaissance scientifique doit servir à l'amélioration de la société et à la maîtrise du réel."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°10": {
+        "question": "La maxime d'Auguste Comte : \"science d'où prévoyance, prévoyance d'où action\", signifie que :",
+        "réponses": {
+          "A": "L'action humaine est toujours aléatoire et imprévisible, indépendante de toute connaissance ou prévision scientifique.",
+          "B": "La connaissance scientifique (science) permet d'anticiper les phénomènes (prévoyance), ce qui en retour rend possible une intervention efficace sur le monde (action).",
+          "C": "La science est une activité purement théorique, sans aucune application pratique ou incidence sur le comportement humain.",
+          "D": "La prévoyance est une qualité innée de l'homme, qui n'a pas besoin de la science pour agir de manière éclairée et pertinente."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°11": {
+        "question": "La science améliore la condition matérielle de l'homme, notamment par :",
+        "réponses": {
+          "A": "Une détérioration constante des conditions de vie, la science étant une source de pollution et de déséquilibre écologique.",
+          "B": "Uniquement des avancées dans le domaine de la philosophie abstraite, sans aucun impact sur la vie quotidienne ou le confort matériel.",
+          "C": "Les progrès techniques, médicaux et agricoles, qui se traduisent par une augmentation de la durée de vie, de la production alimentaire et du confort général.",
+          "D": "Une régression vers un état primitif, où l'homme doit se passer de toute technologie pour retrouver une forme de sagesse originelle."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°12": {
+        "question": "Pour les \"scientistes du XIXe siècle\", la science était considérée comme une \"panacée universelle\". Cela veut dire qu'ils la voyaient comme :",
+        "réponses": {
+          "A": "Une source limitée de connaissances, utile pour des problèmes spécifiques mais incapable de résoudre les grands défis de l'humanité.",
+          "B": "Une maladie incurable qui affligeait la société, la rendant plus complexe et plus difficile à vivre.",
+          "C": "Le remède absolu et complet à tous les maux et problèmes de l'humanité, capable de tout expliquer, de tout résoudre et de tout améliorer sans exception.",
+          "D": "Une illusion dangereuse, qui promettait des solutions simples à des problèmes complexes, mais qui n'apportait en réalité aucune amélioration significative."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°13": {
+        "question": "La science offre des \"explications rationnelles aux phénomènes naturels\". Cela implique que la science :",
+        "réponses": {
+          "A": "Se contente de décrire les phénomènes sans chercher à en comprendre les causes ou les mécanismes sous-jacents.",
+          "B": "Fait appel à des explications magiques ou mystiques pour interpréter le monde, en dehors de toute logique ou preuve.",
+          "C": "Produit des connaissances qui sont uniquement intuitives, sans aucune construction théorique ou vérification empirique.",
+          "D": "Propose des compréhensions fondées sur la raison, la logique et l'observation, permettant de dépasser les superstitions ou les mythes."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°14": {
+        "question": "La capacité de prévoir et d'agir de la science se manifeste par la possibilité pour l'homme de :",
+        "réponses": {
+          "A": "Rester passif face aux dangers et aux catastrophes, la science étant incapable de fournir des alertes ou des moyens de prévention.",
+          "B": "Se fier uniquement à la chance et au hasard dans ses décisions, la prévoyance scientifique étant une idée abstraite et non applicable.",
+          "C": "Créer des problèmes artificiels qui n'existent pas dans la réalité, en inventant des scénarios catastrophiques pour manipuler l'opinion publique.",
+          "D": "Anticiper les risques (prévoir) et développer des solutions ou des stratégies pour y faire face (agir), renforçant ainsi son contrôle sur son environnement."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°15": {
+        "question": "L'amélioration de la condition matérielle de l'homme par la science se traduit par des \"progrès techniques, médicaux, agricoles, etc.\". Cela signifie que la science :",
+        "réponses": {
+          "A": "N'a aucun impact sur les aspects concrets de la vie humaine, se limitant à des avancées théoriques sans application pratique.",
+          "B": "Conduit à une régression sociale et économique, en détruisant les industries traditionnelles et en créant du chômage.",
+          "C": "Transforme positivement la vie quotidienne par des innovations concrètes dans la production de biens, la santé et l'alimentation, augmentant le confort et la qualité de vie.",
+          "D": "Se contente de perpétuer les inégalités sociales, en concentrant les bénéfices de ses avancées entre les mains d'une élite restreinte."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°16": {
+        "question": "La science est considerée comme une \"force de progrès, de libération et de puissance\". Cela met en évidence :",
+        "réponses": {
+          "A": "Le caractère purement négatif de la science, qui opprime l'homme et l'asservit à ses propres inventions.",
+          "B": "Le rôle ambigu de la science, qui, tout en apportant des bienfaits, est aussi une source de destruction et de régression.",
+          "C": "La perception largement positive de la science comme un moteur d'évolution positive, capable d'affranchir l'homme des contraintes et d'augmenter ses capacités.",
+          "D": "L'absence totale d'impact de la science sur la société, sa force étant purement théorique et sans aucune manifestation concrète."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°17": {
+        "question": "La problématique \"Faut-il pour autant la considérer comme une réponse ultime à tous les problèmes humains ?\" révèle que le sujet s'interroge sur :",
+        "réponses": {
+          "A": "La nécessité de donner à la science une place subordonnée et insignifiante dans la vie humaine, sans aucune confiance.",
+          "B": "La pertinence de la science uniquement pour des problèmes mineurs et insignifiants, sans aucune capacité à aborder des questions existentielles.",
+          "C": "L'absolutisation de la science comme solution universelle, explorant si elle peut réellement répondre à tous les défis, y compris ceux qui ne sont pas de nature scientifique.",
+          "D": "L'incapacité totale de la science à résoudre le moindre problème humain, même les plus simples et les plus concrets."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°18": {
+        "question": "Certains penseurs comme Rousseau ou Freud ont exalté les vertus de la science, la considérant comme la clé de tous les savoirs.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°19": {
+        "question": "La science satisfait la curiosité intellectuelle de l'homme en offrant des explications rationnelles aux phénomènes naturels.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°20": {
+        "question": "La citation d'Auguste Comte, \"science d'où prévoyance, prévoyance d'où action\", signifie que la science est sans lien avec la capacité humaine à agir sur le monde.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      }
+    }
+  },
+  {
+    "id": "PH009_Q2",
+    "title": "Quiz 2",
+    "questions": {
+      "question n°1": {
+        "question": "Ce quiz est la suite du précédent (Doit-on Surestimer la Science ?) L’Axe 2 de ce sujet s’intitule « La science ne peut tout résoudre : elle a des limites ». Cela implique que :",
+        "réponses": {
+          "A": "La science est totalement incapable d’apporter des solutions à quelque problème que ce soit, qu’il soit simple ou complexe.",
+          "B": "Le pouvoir de la science est illimité, et toute mention de « limites » est une erreur de jugement ou une perception erronée.",
+          "C": "Les limites de la science ne sont que temporaires et seront toutes dépassées grâce aux futurs progrès technologiques et aux nouvelles découvertes.",
+          "D": "La science, malgré ses succès et sa puissance, possède des frontières inhérentes à sa méthode et à son domaine d’application, l’empêchant d’être une solution universelle."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°2": {
+        "question": "L’Argument (« La vérité scientifique est relative et révisable ») esT soutenu par l’idée que chaque théorie scientifique est :",
+        "réponses": {
+          "A": "Une vérité absolue et définitive, qui ne pourra jamais être remise en question par de nouvelles observations ou découvertes.",
+          "B": "Une opinion subjective et sans fondement, qui ne repose sur aucune donnée objective ou aucune expérimentation rigoureuse.",
+          "C": "Le résultat d’une révélation divine, qui échappe à toute critique rationnelle ou toute vérification empirique par la communauté scientifique.",
+          "D": "susceptible d’être remise en cause, modifiée ou remplacée par une théorie plus pertinente à la lumière de nouvelles preuves ou de nouveaux paradigmes."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°3": {
+        "question": "Robert Blanché, dans L’Axiomatique, affirme que la vérité d’un système est simplement « leur intégration au système ». Cela signifie que la vérité scientifique est :",
+        "réponses": {
+          "A": "Principalement une correspondance avec une réalité extérieure et indépendante du cadre théorique dans lequel elle est formulée.",
+          "B": "Une adéquation parfaite entre une idée et un fait observable, qui ne dépend d’aucune construction intellectuelle ou linguistique.",
+          "C": "Un pur hasard ou une simple coïncidence, sans aucun lien avec la logique interne ou la structure des connaissances scientifiques.",
+          "D": "Essentiellement une cohérence interne au sein d’un ensemble de propositions et de règles, et non une adéquation directe et immuable avec une réalité brute."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°4": {
+        "question": "La science ne répond pas aux besoins spirituels ou moraux car :",
+        "réponses": {
+          "A": "Elle est capable de fournir des réponses claires et définitives à toutes les questions existentielles, éthiques et religieuses de l’humanité.",
+          "B": "La science se limite volontairement aux questions matérielles par choix éthique, sans aucune influence sur la sphère spirituelle ou morale.",
+          "C": "L’homme a des aspirations au sens, des valeurs, et un besoin de consolation, des dimensions que la méthode scientifique, focalisée sur le « comment », ne peut pas combler.",
+          "D": "Les besoins spirituels et moraux sont de pures illusions, qui disparaissent naturellement à mesure que la connaissance scientifique progresse."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°5": {
+        "question": "Dans L’Avenir d’une illusion, Sigmund Freud soutient que la science ne peut combler les désirs religieux ou philosophiques. Cette affirmation signifie que :",
+        "réponses": {
+          "A": "La science est la nouvelle religion de l’humanité, offrant des réponses absolues à toutes les quêtes de sens et de transcendance.",
+          "B": "Les désirs religieux et philosophiques sont des névroses collectives qui peuvent être entièrement guéries par l’application de la méthode scientifique.",
+          "C": "Freud a démontré que la religion et la philosophie sont des domaines de connaissance supérieurs à la science, capables de résoudre tous les problèmes humains.",
+          "D": "La science, par sa nature empirique et rationnelle, est impuissante à satisfaire les aspirations humaines profondes pour le sens de l’existence, l’au-delà ou les valeurs ultimes."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°6": {
+        "question": "L’application de la science peut produire des catastrophes, comme :",
+        "réponses": {
+          "A": "Des avancées techniques qui ne produisent que des bienfaits, sans aucun effet négatif sur l’environnement ou l’humanité.",
+          "B": "La pollution environnementale, le développement d’armes de destruction massive, ou des manipulations génétiques incontrôlées, qui menacent l’existence même de l’humanité.",
+          "C": "La découverte de nouvelles formes d’énergie propre qui résolvent tous les problèmes de pollution et d’épuisement des ressources naturelles.",
+          "D": "L’amélioration constante des conditions de vie, sans aucun revers ou conséquence imprévue sur la santé humaine ou la stabilité sociale."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°7": {
+        "question": "Quel philosophe, dans son Discours sur les sciences et les arts, critique le progrès scientifique en affirmant qu’il corrompt les mœurs ?",
+        "réponses": {
+          "A": "Voltaire, fervent défenseur des Lumières et de la raison scientifique pour le progrès de la société.",
+          "B": "Jean-Jacques Rousseau, qui dénonce l’idée que le progrès des sciences et des arts mène nécessairement à l’amélioration morale de l’homme, y voyant même une source de décadence.",
+          "C": "Denis Diderot, encyclopédiste qui voyait dans les sciences un moyen d’émanciper l’humanité.",
+          "D": "Montesquieu, pour sa théorie de la séparation des pouvoirs et son analyse des lois en fonction des climats et des mœurs."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°8": {
+        "question": "Jean-Jacques Rousseau, en affirmant que la science « corrompt les mœurs », exprime l’idée que :",
+        "réponses": {
+          "A": "La science est un facteur de progrès moral et éthique, qui rend l’homme plus vertueux et plus juste dans ses relations sociales.",
+          "B": "Le développement scientifique et technique est intrinsèquement neutre, sans aucun impact sur les valeurs ou les comportements humains.",
+          "C": "Le progrès scientifique, au lieu d’améliorer la moralité, peut engendrer l’artifice, l’égoïsme, la perte d’authenticité et l’éloignement des vertus naturelles de l’homme.",
+          "D": "La science est une discipline purement intellectuelle, sans aucune application pratique ou conséquence sur la vie quotidienne des individus."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°9": {
+        "question": "Dans Le Jeu des possibles, François Jacob affirme que la science peut être « source de malheur ». Cela signifie que :",
+        "réponses": {
+          "A": "La science est incapable de produire quoi que ce soit de bénéfique pour l’humanité, étant uniquement une source de souffrance et de destruction.",
+          "B": "La science est un jeu intellectuel sans aucune conséquence réelle sur la vie humaine, qu’elle soit heureuse ou malheureuse.",
+          "C": "Le pouvoir de la science, s’il n’est pas accompagné d’une réflexion éthique ou d’une maîtrise responsable, peut entraîner des conséquences néfastes et douloureuses pour l’humanité.",
+          "D": "Le malheur est une condition humaine inévitable, et la science n’a aucune influence sur la capacité de l’homme à trouver le bonheur ou la souffrance."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°10": {
+        "question": "La « relativité » de la vérité scientifique, signifie que :",
+        "réponses": {
+          "A": "La vérité scientifique est toujours contingente à l’état des connaissances et des méthodes disponibles à un moment donné, pouvant être révisée par de nouvelles découvertes.",
+          "B": "La science n’atteint jamais la vérité, car toutes ses théories sont intrinsèquement fausses et sans fondement.",
+          "C": "La vérité scientifique est arbitraire et dépend des opinions individuelles, sans aucune référence à des faits ou des preuves objectives.",
+          "D": "La relativité signifie que la science est une discipline purement subjective, incapable de produire des connaissances universellement valides."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°11": {
+        "question": "La science ne fournit pas de « consolation ». Cela implique que :",
+        "réponses": {
+          "A": "La science, par sa nature descriptive et explicative des faits objectifs, est inadaptée pour offrir un soutien émotionnel, un sens à la vie, ou des réponses aux questions de la mort et de l’au-delà.",
+          "B": "Le réconfort est une émotion superficielle et sans importance, qui n’a pas sa place dans la démarche scientifique rigoureuse.",
+          "C": "La science est le seul domaine capable d’apporter un réconfort absolu face aux angoisses existentielles et aux souffrances humaines.",
+          "D": "Les besoins de consolation sont des illusions créées par la religion, et la science a pour mission de les déconstruire sans offrir d’alternative."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°12": {
+        "question": "La science, mal encadrée, peut entraîner des conséquences négatives. Cela montre que :",
+        "réponses": {
+          "A": "La science est une force intrinsèquement maléfique, qui ne produit que des catastrophes, même lorsqu’elle est utilisée avec les meilleures intentions.",
+          "B": "Le savoir scientifique est neutre en soi, et ses applications sont toujours positives, quel que soit le contexte ou l’objectif poursuivi.",
+          "C": "L’encadrement de la science est superflu, car elle est auto-régulée et s’oriente toujours naturellement vers le bien commun.",
+          "D": "Le pouvoir de la science, en l’absence de régulations éthiques, morales ou politiques, peut être détourné pour des usages destructeurs ou irréversibles, nuisant à l’humanité ou à l’environnement."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°13": {
+        "question": "L’Axe II affirme que la science a des limites et ne peut pas tout résoudre, contredisant l’idée qu’elle serait une panacée universelle.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°14": {
+        "question": "Robert Blanché soutient que la vérité d’une théorie scientifique est absolue et indépendante de son intégration à un système de connaissances.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°15": {
+        "question": "La science répond pleinement aux besoins spirituels et moraux de l’homme, en lui offrant un sens et des valeurs.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°16": {
+        "question": "Freud, dans L’Avenir d’une illusion, affirme que la science peut combler tous les désirs religieux et philosophiques de l’homme.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°17": {
+        "question": "Jean-Jacques Rousseau, dans son Discours sur les sciences et les arts, défend l’idée que le progrès scientifique conduit toujours à l’amélioration des mœurs humaines.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°18": {
+        "question": "La conclusion du sujet propose une approche équilibrée qui consiste à reconnaître la valeur de la science sans en faire une idole, en l’accompagnant de la réflexion philosophique, morale et politique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°19": {
+        "question": "Les applications de la science, comme la manipulation génétique, sont toujours bénéfiques et sans danger pour l’humanité.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°20": {
+        "question": "Le fait que la science soit « une forme de savoir rigoureux et fécond » est le seul point sur lequel la conclusion insiste, sans mentionner ses limites.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      }
+    }
+  },
+  {
+    "id": "PH009_Q3",
+    "title": "Quiz 3",
+    "questions": {
+      "question n°1": {
+        "question": "On considère le sujet suivant : Toute Connaissance Scientifique Doit-elle Passer par l’Expérience ? Dans le sujet, le terme « Toute » est utilisé pour :",
+        "réponses": {
+          "A": "Souligner une universalité sans exception, invitant à s’interroger sur la nécessité absolue et le caractère incontournable du lien entre toute connaissance scientifique et l’expérience.",
+          "B": "Mettre en évidence une généralisation incertaine, invitant à considérer si ce lien entre science et expérience est parfois valide, mais pas de manière universelle.",
+          "C": "Indiquer une exception rare ou une possibilité lointaine, suggérant qu’une partie infime de la connaissance scientifique pourrait être concernée par l’expérience.",
+          "D": "Restreindre le champ d’application de la question à des domaines scientifiques très spécifiques, sans que cela n’ait une portée générale pour la science dans son ensemble."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°2": {
+        "question": "Le terme « Expérience » dans le contexte de ce sujet, fait spécifiquement référence à :",
+        "réponses": {
+          "A": "Uniquement les intuitions personnelles et les révélations mystiques qui permettent une compréhension subjective du monde, en dehors de toute observation.",
+          "B": "Les compétences acquises par la pratique d’un métier ou d’une activité, sans que cela n’implique une démarche de vérification scientifique.",
+          "C": "L’expérimentation scientifique, incluant l’observation rigoureuse des faits, la vérification empirique et la confrontation avec la réalité, souvent en laboratoire ou dans la nature.",
+          "D": "L’ensemble des sensations et des perceptions sensorielles brutes, avant toute élaboration conceptuelle ou interprétation rationnelle par l’esprit."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°3": {
+        "question": "La reformulation du sujet, « Peut-on affirmer que l’expérience est un passage obligé pour toute forme de connaissance scientifique ? », met en lumière une interrogation sur :",
+        "réponses": {
+          "A": "La supériorité de la connaissance scientifique sur d’autres formes de savoir, sans remettre en question son mode d’acquisition.",
+          "B": "La possibilité d’acquérir une connaissance scientifique en se basant exclusivement sur l’imagination et la spéculation abstraite, sans aucun lien avec le réel.",
+          "C": "Le caractère purement optionnel et facultatif de l’expérience en science, où elle serait une simple aide mais non une condition essentielle pour la vérité.",
+          "D": "La nécessité absolue de l’expérience sensible ou empirique comme étape incontournable et obligatoire dans le processus d’acquisition de n’importe quelle connaissance scientifique."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°4": {
+        "question": "Quels philosophes « défendent le primat de la raison » et rejettent l’idée que l’expérience est le fondement de toute connaissance scientifique ?",
+        "réponses": {
+          "A": "John Locke et David Hume, pour leur insistance sur le rôle crucial de l’expérience sensorielle dans la formation de toutes les idées et connaissances.",
+          "B": "Francis Bacon et John Stuart Mill, pour leur promotion de la méthode inductive et de l’observation comme base de la science empirique.",
+          "C": "Platon et René Descartes, figures centrales du rationalisme, qui privilégient la raison, la déduction logique et les idées innées comme sources de connaissance première, parfois indépendamment de l’expérience.",
+          "D": "Karl Popper et Thomas Kuhn, pour leurs théories sur la falsifiabilité et les révolutions scientifiques, qui soulignent l’importance de la confrontation des théories aux faits."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°5": {
+        "question": " A l’introduction, on peut opposer les positions de Bacon et Mill (expérience fondatrice) à celles de Platon et Descartes (primat de la raison). Cette divergence nous amenera à poser la problématique du sujet en se demandant :",
+        "réponses": {
+          "A": "Si la science est une quête de savoir pertinente, ou si elle doit être abandonnée au profit de la superstition ou de la croyance.",
+          "B": "Quelle est la forme de connaissance la plus agréable à acquérir, en fonction des préférences individuelles pour l’expérience ou la raison.",
+          "C": "Si le passage par l’expérience est une condition universellement nécessaire pour toute connaissance scientifique, ou si d’autres voies (comme la raison pure) sont possibles et suffisantes.",
+          "D": "Comment concilier la science et la religion, puisque ces deux domaines sont présentés comme étant en opposition fondamentale et irréductible."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°6": {
+        "question": "Un argument de l’Axe 1 (« La science repose sur l’expérience comme fondement de la connaissance ») est que l’expérience permet de :",
+        "réponses": {
+          "A": "D’ignorer les faits et de développer des théories purement spéculatives, sans aucun lien avec la réalité observable.",
+          "B": "D’observer, de vérifier et de reproduire les phénomènes naturels, ce qui est essentiel pour la construction des lois scientifiques.",
+          "C": "De manipuler les données pour confirmer des hypothèses préconçues, sans rigueur ni objectivité méthodologique.",
+          "D": "De se fier uniquement à l’intuition et aux croyances personnelles, en rejetant toute forme de preuve empirique ou de démonstration logique."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°7": {
+        "question": "Francis Bacon est associé à la méthode inductive, qu’il défend en affirmant que « La science véritable est celle qui naît de l’expérience. » Cela signifie que :",
+        "réponses": {
+          "A": "La science est une activité purement théorique qui ne nécessite aucune observation du monde ou vérification des faits.",
+          "B": "La véritable science se développe uniquement par la déduction logique à partir de principes abstraits, sans se soucier du réel.",
+          "C": "L’expérience est un processus secondaire et facultatif dans la science, qui ne joue qu’un rôle mineur après la formulation des lois générales.",
+          "D": "La connaissance scientifique authentique doit impérativement trouver son origine et sa justification dans l’observation attentive et la collecte systématique de données empiriques."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°8": {
+        "question": "L’explication de l’Argument précedent (« La science expérimentale suppose une confrontation directe avec les faits ») met en évidence que cette confrontation est essentielle pour :",
+        "réponses": {
+          "A": "Réduire la science à une simple description des phénomènes isolés, sans chercher à en déduire des principes généraux.",
+          "B": "Maintenir une distance critique entre la théorie scientifique et la réalité, afin d’éviter toute contamination des hypothèses par l’observation.",
+          "C": "Remplacer la logique et la raison par l’observation pure, considérant que la science ne doit être qu’une collection passive de données.",
+          "D": "Produire des lois générales et des théories fiables, en garantissant que les principes scientifiques sont bien ancrés dans le réel et vérifiables."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°9": {
+        "question": "Un Argument  de l’Axe 1 affirme que sans expérience, la science risquerait de sombrer dans :",
+        "réponses": {
+          "A": "La spéculation abstraite et des hypothèses non fondées, manquant de vérification objective et de confrontation avec le réel.",
+          "B": "Un développement plus rapide et plus efficace de nouvelles théories, car les contraintes de l’expérimentation ralentiraient la recherche.",
+          "C": "Une clarté et une rigueur méthodologique accrues, car elle ne serait plus limitée par les contingences du monde sensible.",
+          "D": "Une compréhension plus profonde des lois fondamentales de l’univers, car elle serait libérée des détails superficiels de l’observation."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°10": {
+        "question": "Quel scientifique et philosophe est le « père de la médecine expérimentale » et insiste sur l’importance de l’expérimentation pour confirmer ou infirmer une hypothèse scientifique ?",
+        "réponses": {
+          "A": "Claude Bernard, qui a systématisé la démarche expérimentale en physiologie, soulignant l’importance cruciale de la vérification par l’expérience.",
+          "B": "Louis Pasteur, pour ses découvertes en microbiologie et l’application rigoureuse de la méthode expérimentale.",
+          "C": "Antoine Lavoisier, pour ses travaux sur la combustion et le rôle de l’expérimentation en chimie.",
+          "D": "Gregor Mendel, pour ses travaux sur l’hérédité et ses expériences de croisement de plantes, fondateurs de la génétique."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°11": {
+        "question": "L’explication de l’Argument précedent affirme que l’expérience garantit une « objectivité et une rigueur méthodique » qui empêchent les hypothèses non fondées. Cela signifie que l’expérience :",
+        "réponses": {
+          "A": "Rend toute objectivité impossible en science, car elle introduit des biais subjectifs liés aux sens et à la perception humaine.",
+          "B": "Se limite à la simple accumulation de faits bruts, sans aucune contribution à la formation d’hypothèses ou de théories.",
+          "C": "Permet de soumettre les idées à l’épreuve des faits, de les valider ou de les invalider de manière impartiale, évitant ainsi les spéculations sans fondement empirique.",
+          "D": "Encourage la formation d’hypothèses arbitraires, puisque tout est permis tant que l’on ne se confronte pas directement au réel."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°12": {
+        "question": "Francis Bacon, en affirmant que « La science véritable est celle qui naît de l’expérience », se positionne clairement en faveur de :",
+        "réponses": {
+          "A": "L’empirisme, qui privilégie l’expérience sensible et l’observation comme source principale de connaissance.",
+          "B": "Le rationalisme, qui met l’accent sur la raison et la déduction comme voie d’accès à la vérité.",
+          "C": "Le scepticisme, qui doute de toute possibilité d’atteindre la connaissance, qu’elle soit empirique ou rationnelle.",
+          "D": "L’idéalisme, qui considère que la réalité est avant tout une construction de l’esprit, indépendante de l’expérience extérieure."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°13": {
+        "question": " Bacon et Mill défendent le primat de la raison sur l’expérience comme fondement de la connaissance scientifique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°14": {
+        "question": "La « connaissance scientifique » est définie comme un savoir méthodique et rigoureux, reposant sur des preuves et une logique démonstrative.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°15": {
+        "question": "La science expérimentale évite la confrontation directe avec les faits pour produire des lois générales.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°16": {
+        "question": "Claude Bernard est considéré comme le père de la médecine expérimentale et met en avant l’importance de l’expérimentation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°17": {
+        "question": "La reformulation du sujet suggère que l’expérience est un passage facultatif et non obligatoire pour toute connaissance scientifique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°18": {
+        "question": "Un Argument insinue que sans expérience, la science serait plus objective et rigoureuse, car elle serait libérée des contraintes du réel.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°19": {
+        "question": "La problématique du sujet demande si l’expérience est une condition indispensable à la formation des connaissances scientifiques.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°20": {
+        "question": "La citation de Francis Bacon, « La science véritable est celle qui naît de l’expérience », signifie que la seule source de vérité scientifique est la spéculation pure.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      }
+    }
+  },
+  {
+    "id": "PH009_Q4",
+    "title": "Quiz 4",
+    "questions": {
+      "question n°1": {
+        "question": "Ce quiz est la suite du quiz précédent (Toute Connaissance Scientifique Doit-elle Passer par l’Expérience ?). L’Axe 2 de ce sujet s’intitule « L’expérience ne suffit pas toujours ; la raison et l’abstraction jouent un rôle capital ». Cela implique que :",
+        "réponses": {
+          "A": "L’expérience est totalement inutile pour la connaissance scientifique, qui dépend exclusivement de la raison pure et des théories abstraites.",
+          "B": "La raison et l’abstraction sont des obstacles à la véritable connaissance scientifique, qui doit se fonder uniquement sur l’observation des faits.",
+          "C": "La connaissance scientifique, bien qu’ancrée dans l’expérience, ne peut s’y limiter et requiert la contribution essentielle de la raison et de la pensée abstraite pour être complète.",
+          "D": "L’expérience est la seule voie d’accès à la vérité scientifique, et l’Axe 2 représente une contradiction sans fondement."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°2": {
+        "question": "L’Argument (« Certaines sciences reposent sur des raisonnements a priori, indépendants de l’expérience ») met en évidence que ces sciences développent des vérités :",
+        "réponses": {
+          "A": "Qui sont constamment sujettes à la vérification empirique et peuvent être réfutées par de nouvelles observations du monde réel.",
+          "B": "Purement subjectives et variables, qui dépendent des intuitions individuelles sans aucune validité universelle ou objective.",
+          "C": "Universelles et nécessaires, dont la validité est établie par la logique ou la déduction interne, sans avoir recours à l’observation ou à l’expérimentation du monde sensible.",
+          "D": "Qui sont des généralisations approximatives tirées d’un grand nombre d’expériences, mais jamais des vérités absolues ou intemporelles."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°3": {
+        "question": "Pour l’explication de l’Argument précedent, on peut utiliser l’exemple des mathématiques pour illustrer que ces dernières développent des vérités universelles :",
+        "réponses": {
+          "A": "En se basant sur des expériences de laboratoire rigoureuses, qui valident leurs théorèmes par la confrontation avec les faits observés.",
+          "B": "Grâce à des enquêtes de terrain et des collectes de données empiriques massives, qui permettent de prouver la réalité de leurs concepts.",
+          "C": "Par l’application de méthodes inductives qui infèrent des principes généraux à partir d’observations répétées et détaillées du monde physique.",
+          "D": "Sans aucun recours à l’observation du monde sensible, mais par des démonstrations purement logiques et des déductions à partir d’axiomes ou de définitions de base."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°4": {
+        "question": "Pour quel philosophe la vérité réside-t-elle dans un « monde des idées », accessible principalement par la raison et non par les sens ?",
+        "réponses": {
+          "A": "Platon, pour sa distinction entre le monde sensible (connaissance par les sens, imparfaite) et le monde intelligible des Formes ou Idées (connaissance par la raison, vraie et éternelle).",
+          "B": "David Hume, pour son scepticisme concernant la connaissance au-delà de l’expérience et des relations d’idées.",
+          "C": "John Locke, pour sa théorie de l’empirisme selon laquelle toutes nos idées proviennent de l’expérience sensorielle.",
+          "D": "Immanuel Kant, pour sa synthèse entre rationalisme et empirisme, où la connaissance est une construction de l’esprit à partir de l’expérience."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°5": {
+        "question": "Un Argument  affirme que la théorie précède souvent l’expérience et oriente son interprétation. Cela signifie que :",
+        "réponses": {
+          "A": "L’expérience est toujours une donnée brute et neutre, qui s’impose à la théorie sans aucune influence préalable de l’esprit du chercheur.",
+          "B": "La connaissance scientifique implique la formulation d’hypothèses ou de cadres conceptuels élaborés par la raison, qui guident l’observation et la conception des expérimentations.",
+          "C": "La science se limite à la simple accumulation de faits observés, sans jamais nécessiter de cadre théorique pour les organiser ou les comprendre.",
+          "D": "L’expérience est un processus totalement autonome, qui ne dépend d’aucune construction intellectuelle préalable et qui détermine seule la validité des théories."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°6": {
+        "question": "Quel physicien est cité pour son idée que « l’imagination et les constructions théoriques précèdent souvent les vérifications expérimentales » ?",
+        "réponses": {
+          "A": "Isaac Newton, dont les lois de la gravitation ont été établies par l’observation minutieuse des corps célestes avant toute théorisation.",
+          "B": "Marie Curie, célèbre pour ses découvertes fondées sur des expériences concrètes en laboratoire et l’observation de la radioactivité.",
+          "C": "Louis Pasteur, dont les travaux sur la pasteurisation et les vaccins sont le fruit d’expérimentations rigoureuses et systématiques en biologie.",
+          "D": "Albert Einstein, dont la théorie de la relativité, née d’une construction intellectuelle audacieuse, a été formulée et acceptée avant de recevoir des confirmations expérimentales directes significatives."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°7": {
+        "question": "La référence à la théorie de la relativité d’Einstein, formulée avant d’être confirmée par l’observation, illustre que :",
+        "réponses": {
+          "A": "La confirmation expérimentale est le point de départ absolu de toute théorie scientifique, sans laquelle aucune idée ne peut être avancée.",
+          "B": "Les théories scientifiques les plus importantes sont toujours le fruit du hasard et n’ont aucun lien avec l’imagination ou la construction rationnelle.",
+          "C": "L’observation empirique est la seule source de vérité en physique, et les théories qui ne sont pas immédiatement confirmées par l’expérience sont nécessairement fausses.",
+          "D": "La puissance de la raison et de l’abstraction permet de concevoir des cadres théoriques complexes qui peuvent anticiper la réalité, même en l’absence de preuves empiriques initiales."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°8": {
+        "question": "La science suppose des « hypothèses construites rationnellement qui guident l’expérimentation ». Cela signifie que :",
+        "réponses": {
+          "A": "L’expérimentation est un processus aléatoire, qui se déroule sans aucun but ni direction définis par la raison humaine.",
+          "B": "Les hypothèses scientifiques sont des intuitions non fondées, qui n’ont aucune influence sur la manière dont les expériences sont conçues ou interprétées.",
+          "C": "La raison joue un rôle crucial dans la conception des expériences, en formulant des questions précises et en orientant la recherche de preuves, avant même la phase d’observation.",
+          "D": "Seuls les faits observés passivement peuvent générer des connaissances scientifiques, toute tentative de rationalisation étant un obstacle à la découverte."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°9": {
+        "question": "La conclusion du sujet insiste sur le fait que l’expérience est un « pilier fondamental » de la connaissance scientifique. Ce terme « pilier » signifie qu’elle est :",
+        "réponses": {
+          "A": "Un élément décoratif et non essentiel, qui peut être enlevé sans affecter la solidité de la connaissance scientifique.",
+          "B": "Un soutien essentiel, une base solide et indispensable, sans laquelle la connaissance scientifique perdrait sa vérifiabilité et sa rigueur.",
+          "C": "Un obstacle et une contrainte, qui limite le développement de la connaissance scientifique et l’empêche d’atteindre sa pleine vérité.",
+          "D": "Une source d’erreurs et de confusion, qui doit être évitée pour garantir la pureté et la validité des découvertes scientifiques."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°10": {
+        "question": "La conclusion affirme que l’expérience, bien que centrale, « ne suffit pas toujours à elle seule ». Cela signifie que la connaissance scientifique :",
+        "réponses": {
+          "A": "N’a absolument pas besoin de l’expérience, car la raison pure est la seule source de vérité et de certitude.",
+          "B": "Est une quête exclusivement empirique, où l’expérience est la seule condition nécessaire et suffisante pour l’établissement des vérités.",
+          "C": "Est incapable d’atteindre la vérité, quelle que soit la méthode utilisée, que ce soit l’expérience ou la raison.",
+          "D": "Requiert d’autres dimensions complémentaires à l’expérience, telles que la raison, l’intuition théorique, ou l’abstraction, pour se développer pleinement."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°11": {
+        "question": "L’idée que la vérité platonicienne réside dans le « monde des idées » et est accessible par la raison et non par les sens signifie que :",
+        "réponses": {
+          "A": "Les vérités les plus profondes sont des sensations brutes, directement perceptibles par les cinq sens, sans aucune intervention de l’intellect.",
+          "B": "La raison est un instrument trompeur qui nous éloigne de la réalité, et la véritable connaissance ne peut être atteinte que par l’expérience sensible.",
+          "C": "Le monde sensible est la seule réalité existante, et toute idée de « monde des idées » est une spéculation sans fondement ou une illusion religieuse.",
+          "D": "Il existe des vérités universelles et éternelles (les Idées) qui ne peuvent être appréhendées par les sens illusoires, mais uniquement par l’intellect qui contemple ces Formes pures."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°12": {
+        "question": "La conclusion affirme que si « la science a besoin de l’expérience, elle ne saurait s’y réduire entièrement ». Cela signifie que :",
+        "réponses": {
+          "A": "La science est purement expérimentale et ne contient aucune dimension rationnelle ou théorique qui dépasse la simple observation.",
+          "B": "La science peut se passer de l’expérience dans tous les cas, car la raison seule est suffisante pour générer toutes les connaissances.",
+          "C": "L’expérience est une composante essentielle de la démarche scientifique, mais la science inclut également des aspects non-empiriques, comme la construction de théories et la déduction logique, qui ne se réduisent pas à la seule observation.",
+          "D": "L’expérience est un frein au progrès scientifique, et la science devrait s’en affranchir totalement pour atteindre la vérité."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°13": {
+        "question": "Un Argument  soutient que des sciences comme les mathématiques reposent sur des raisonnements a priori, indépendants de l’expérience.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°14": {
+        "question": "Pour Platon, la vérité est accessible principalement par les sens et non par la raison, car elle réside dans le monde sensible.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°15": {
+        "question": "Albert Einstein est cité comme un exemple de scientifique pour qui les vérifications expérimentales précèdent et orientent toujours la formulation des théories.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°16": {
+        "question": "La science suppose des hypothèses construites rationnellement qui guident l’expérimentation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°17": {
+        "question": "La conclusion insiste sur le fait que l’expérience est la seule et unique condition suffisante pour la connaissance scientifique, sans aucun besoin de la raison ou de l’abstraction.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°18": {
+        "question": "La phrase « la science ne saurait s’y réduire entièrement » dans la conclusion signifie que la science est totalement indépendante de l’expérience.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°19": {
+        "question": "Un Argument  défend l’idée que l’expérience est toujours une donnée neutre, qui n’est jamais influencée par la théorie ou l’imagination.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°20": {
+        "question": "La problématique du sujet (« Toute connaissance scientifique doit-elle passer par l’expérience ? ») interroge si l’expérience est une étape incontournable pour chaque forme de connaissance scientifique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      }
+    }
+  },
+  {
+    "id": "PH009_Q5",
+    "title": "Quiz 5",
+    "questions": {
+      "question n°1": {
+        "question": "On considère le sujet suivant : «La verité scientifique est-elle définitive». Dans le contexte du sujet, la « vérité scientifique » fait référence à un savoir :",
+        "réponses": {
+          "A": "Subjectif et changeant, dépendant des opinions personnelles et des interprétations culturelles, sans aucune prétention à l’universalité ou à l’objectivité.",
+          "B": "Principalement intuitif ou révélé, qui ne nécessite pas de démonstration rigoureuse ni de vérification empirique pour être considéré comme exact.",
+          "C": "Poétique ou métaphorique, dont le but est d’inspirer ou de provoquer la réflexion, sans chercher à décrire fidèlement la réalité ou ses lois.",
+          "D": "Objectif et fondé sur des preuves vérifiables, des lois établies par des méthodes rigoureuses (observation, expérimentation, logique), et susceptible d’être universellement admis ou démontré."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°2": {
+        "question": "Le terme « Définitive » dans le sujet implique une vérité qui serait :",
+        "réponses": {
+          "A": "Seulement temporaire et provisoire, destinée à être systématiquement et rapidement réfutée par de nouvelles découvertes ou de nouveaux paradigmes scientifiques.",
+          "B": "Relative à un contexte culturel ou historique donné, et qui ne peut prétendre à aucune validité au-delà de ses limites spécifiques ou de ses conditions initiales de production.",
+          "C": "Fixée par un consensus majoritaire de la communauté scientifique à un instant T, mais sans aucune garantie de permanence ou d’irrévocabilité à long terme.",
+          "D": "Absolue, incontestable et irrévocable, ne pouvant être remise en question, modifiée ou dépassée par de futures avancées ou des observations contradictoires, constituant ainsi un aboutissement final du savoir."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°3": {
+        "question": "La reformulation du problème en : « La vérité scientifique peut-elle être considérée comme définitive, ou bien doit-elle être perçue comme une étape dans un processus sans fin ? » met en évidence une interrogation sur :",
+        "réponses": {
+          "A": "Le fait que la science est une simple suite d’erreurs et de falsifications, sans jamais atteindre de vérité, qu’elle soit provisoire ou définitive.",
+          "B": "La supériorité de la vérité philosophique ou religieuse sur la vérité scientifique, qui serait par nature inférieure et moins pertinente pour l’humanité.",
+          "C": "L’incapacité de la science à produire des connaissances fiables, la rendant incapable de se situer dans un processus évolutif ou d’aboutir à des certitudes.",
+          "D": "La nature même de la vérité scientifique : est-elle une connaissance stable et achevée, un point d’arrivée inébranlable, ou est-elle intrinsèquement provisoire, un jalon dans une quête incessante de savoir, toujours susceptible de révision ?"
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°4": {
+        "question": "Quels penseurs sont associés à l’idée que la vérité scientifique repose sur des fondements rigoureux et offre des résultats « incontestables » ?",
+        "réponses": {
+          "A": "Karl Popper et Gaston Bachelard, pour leurs théories insistant sur la réfutabilité des hypothèses et le caractère provisoire des connaissances scientifiques.",
+          "B": "René Descartes et Claude Bernard, figures emblématiques d’une vision où la science, par sa méthode rigoureuse (déduction, expérimentation), peut accéder à des certitudes indubitables ou des vérités solides et vérifiables.",
+          "C": "Friedrich Nietzsche et Michel Foucault, pour leurs critiques de la notion de vérité objective, la considérant comme une construction de pouvoir ou une illusion métaphysique.",
+          "D": "David Hume et John Locke, qui, en tant qu’empiristes, mettaient l’accent sur les limites de l’expérience et le caractère probable, non absolu, des généralisations scientifiques."
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°5": {
+        "question": "À l’opposé de Descartes et Claude Bernard, quels philosophes remettent en cause l’idée d’une vérité scientifique absolue, en soulignant son caractère provisoire, révisable, voire réfutable ?",
+        "réponses": {
+          "A": "Platon et Aristote, dont les philosophies posent des vérités universelles et intemporelles comme fondement de la connaissance et de l’être.",
+          "B": "Les rationalistes du XVIIe siècle comme Spinoza et Leibniz, pour qui la raison pure permet d’atteindre des vérités éternelles et nécessaires, indépendantes de l’expérience.",
+          "C": "Les positivistes comme Auguste Comte, qui croyaient en un progrès continu et cumulatif de la science, aboutissant à des vérités de plus en plus certaines et stables.",
+          "D": "Karl Popper et Gaston Bachelard, qui, par leurs épistémologies critiques, ont insisté sur le caractère toujours provisoire des théories scientifiques, leur soumission à la falsification et leur évolution par ruptures ou remises en question successives."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°6": {
+        "question": "Un Argument de l’Axe I (« La vérité scientifique apparaît comme rigoureuse, universelle et indiscutable ») affirme qu’elle repose sur des méthodes fiables. Ces procédures rigoureuses incluent :",
+        "réponses": {
+          "A": "Principalement l’intuition et la spéculation philosophique, sans aucune nécessité de vérification ou de reproduction des résultats en laboratoire.",
+          "B": "L’observation systématique, la formulation d’hypothèses, l’expérimentation contrôlée et la déduction logique, permettant de produire des résultats qui peuvent être vérifiés et reproduits par d’autres chercheurs.",
+          "C": "Des processus arbitraires et non structurés, qui varient d’un scientifique à l’autre et ne permettent pas d’obtenir des résultats cohérents ou reproductibles.",
+          "D": "L’adhésion à des dogmes religieux ou des croyances populaires, qui sont considérés comme suffisants pour établir la validité des connaissances."
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°7": {
+        "question": "Selon Claude Bernard, dans son Introduction à l’étude de la médecine expérimentale, il insiste sur la nécessité de vérifier les faits par l’expérimentation. Cela signifie que :",
+        "réponses": {
+          "A": "L’expérimentation est une étape facultative dans la démarche scientifique, qui peut être omise si les hypothèses sont suffisamment plausibles.",
+          "B": "La science se construit uniquement sur des spéculations théoriques, et la confrontation avec les faits par l’expérimentation est un processus inutile et dénué de sens.",
+          "C": "La validation des connaissances scientifiques exige une confrontation rigoureuse avec la réalité observable, par des tests et des mesures contrôlées, pour confirmer ou infirmer les théories.",
+          "D": "La vérification des faits doit se faire par la seule intuition du chercheur, sans recourir à des protocoles expérimentaux ou des mesures objectives."
+        },
+        "bonne_réponse": "C"
+      },
+      "question n°8": {
+        "question": "René Descartes admirait les mathématiques pour leur certitude et affirmait : « Je me plaisais surtout aux mathématiques à cause de la certitude de leurs raisons. » Cette citation révèle que pour Descartes :",
+        "réponses": {
+          "A": "Les mathématiques sont une discipline récréative, dont l’unique intérêt est le divertissement de l’esprit, sans aucune portée cognitive sérieuse.",
+          "B": "La certitude est une illusion qui doit être évitée en science, et les mathématiques sont un exemple de cette erreur de jugement.",
+          "C": "La rigueur démonstrative des mathématiques, fondée sur des déductions logiques claires et des axiomes indubitables, offre un modèle de connaissance irréfutable et d’une vérité absolue, contrairement aux connaissances issues des sens.",
+          "D": "Les raisons mathématiques sont complexes et inaccessibles au commun des mortels, ce qui les rend inutiles pour la quête de la vérité universelle."
+        },
+        "bonne_réponse": "C"
+      },
+      "question n°9": {
+        "question": "Un Argument  de l’Axe I est que la vérité scientifique tend vers l’universalité. Cela signifie que :",
+        "réponses": {
+          "A": "Les vérités scientifiques sont culturelles et contextuelles, et ne peuvent être comprises ou acceptées que par les membres d’une communauté spécifique ou d’une civilisation particulière.",
+          "B": "La science est un ensemble de croyances personnelles qui n’ont aucune prétention à s’appliquer au-delà de l’individu qui les énonce ou les valide subjectivement.",
+          "C": "Les vérités scientifiques sont éphémères et ne durent qu’un temps très court, sans aucune capacité à se maintenir à travers les époques ou les changements de paradigmes.",
+          "D": "Les lois et les principes découverts par la science sont valables et s’imposent à tous les êtres humains, quelles que soient leurs origines, leurs cultures ou leurs systèmes de croyances, transcendant ainsi les particularismes et les subjectivités."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°10": {
+        "question": "Gustave Le Bon, dans Les incertitudes de l’heure présente, affirme : « Les vérités scientifiques sont des vérités universelles. » Cette citation renforce l’idée que la vérité scientifique :",
+        "réponses": {
+          "A": "Est relative aux époques et aux lieux, et ne possède aucune validité en dehors du contexte social et intellectuel de sa découverte.",
+          "B": "Est une construction arbitraire du langage, sans aucune correspondance avec la réalité observable ou une application concrète au monde.",
+          "C": "Ne peut être comprise que par une élite de savants, restant inaccessible au reste de l’humanité en raison de sa complexité et de son caractère ésotérique.",
+          "D": "Possède une validité qui transcende les frontières géographiques et les cultures humaines, s’imposant partout de la même manière en raison de son fondement rationnel et de sa conformité aux faits, garantissant un consensus objectif."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°11": {
+        "question": "L’explication de l’Argument précedent affirme que les méthodes rigoureuses de la science permettent de produire des résultats vérifiables et reproductibles. Cela signifie que :",
+        "réponses": {
+          "A": "La validité des conclusions scientifiques est garantie par la possibilité pour d’autres chercheurs de réitérer la même expérience ou observation, et d’obtenir des résultats similaires, assurant ainsi l’objectivité et la fiabilité du savoir.",
+          "B": "Les découvertes scientifiques sont des événements uniques et aléatoires, qui ne peuvent jamais être reproduits dans les mêmes conditions, rendant toute vérification impossible.",
+          "C": "Les résultats scientifiques sont des opinions personnelles qui ne peuvent être confirmées que par le chercheur qui les a initialement formulées, sans aucune possibilité de réplication par d’autres.",
+          "D": "La science se fonde sur des résultats secrets, qui ne doivent jamais être rendus publics ou partagés, afin de préserver l’avantage des découvreurs et d’éviter toute concurrence."
+        },
+        "bonne_réponse": "A"
+      },
+      "question n°12": {
+        "question": "Le « consensus » que génère l’universalité des vérités scientifiques semble faire de la vérité scientifique un savoir :",
+        "réponses": {
+          "A": "Subjectif, instable et temporaire, qui est constamment remis en question par les désaccords entre les scientifiques et les différentes cultures.",
+          "B": "Limitée à des communautés spécifiques, qui ne peut être partagée ou acceptée au-delà de ses frontières internes et de ses conventions particulières.",
+          "C": "Fragile et incertain, car il dépend de la volonté individuelle des chercheurs de l’accepter ou de la refuser, sans aucune contrainte de la réalité.",
+          "D": "Objectif, stable et définitif, s’imposant comme une connaissance partagée par tous en raison de sa conformité à la réalité et de sa capacité à produire des résultats cohérents et universellement reconnus."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°13": {
+        "question": "Claude Bernard est cité comme un penseur qui remet en question l’idée de vérité scientifique absolue, soulignant son caractère provisoire.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°14": {
+        "question": "L’introduction peut présenter la science comme une forme de connaissance purement subjective, incapable d’offrir des aperçus objectifs sur le monde.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°15": {
+        "question": "Un Argument  affirme que la science utilise des méthodes rigoureuses telles que l’observation, l’hypothèse, l’expérimentation et la déduction logique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question n°16": {
+        "question": "Descartes admirait les mathématiques pour leur incertitude et leur manque de rigueur, les considérant comme un exemple à ne pas suivre pour la science.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°17": {
+        "question": "Gustave Le Bon affirme que les vérités scientifiques sont des vérités universelles, ce qui contredit l’idée de leur validité limitée.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question n°18": {
+        "question": "La problématique du sujet (« La vérité scientifique est-elle définitive ? ») explore si la science ne doit être perçue que comme une suite d’opinions personnelles sans fondement.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°19": {
+        "question": "L’explication de l’Argument sur les méthodes fiables de la science précise qu’elles produisent des résultats non vérifiables et non reproductibles.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°20": {
+        "question": "Le consensus autour des vérités scientifiques, mentionné dans le texte, les caractérise comme un savoir objectif, stable et définitif.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      }
+    }
+  }
+  {
+    "id": "PH009_Q6",
+    "title": "Quiz 6",
+    "questions": {
+      "question n°1": {
+        "question": "Ce quiz est la suite du quiz précédent: («La verité scientifique est-elle définitive»). L’axe 2 de ce sujet s'intitule 'La vérité scientifique est toujours relative et sujette à révision'. Cela implique que la vérité scientifique :",
+        "réponses": {
+          "A": "Est un ensemble de faits immuables et absolus, qui ne peuvent jamais être remis en question ou modifiés par de nouvelles découvertes, restant figée pour l'éternité.",
+          "B": "N'existe pas réellement, car toute connaissance est purement subjective et dépend entièrement des croyances individuelles, sans aucune forme de validité objective ou partagée.",
+          "C": "Est un concept universellement reconnu et accepté, qui ne présente aucune difficulté ou débat quant à sa nature ou à sa permanence au cours de l'histoire des sciences.",
+          "D": "N'est pas une certitude absolue ou finale, mais plutôt une connaissance dépendante d'un contexte (théorique, méthodologique) et susceptible d'être modifiée, améliorée ou même remplacée à la lumière de nouvelles informations ou de nouvelles perspectives."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°2": {
+        "question": "L'Argument  ('La verité scientifique dépend d’un cadre théorique donné') est illustré par l'idée qu'une vérité en géométrie euclidienne peut devenir fausse dans une géométrie non euclidienne. Cela démontre que la vérité scientifique n'est pas absolue, mais :",
+        "réponses": {
+          "A": "Exclusivement empirique, découlant directement des observations brutes sans aucune influence d'un système de pensée ou d'un ensemble de concepts préalables.",
+          "B": "Une simple opinion arbitraire, qui n'est soumise à aucune règle logique ou à aucune cohérence interne, et qui peut changer sans raison objective.",
+          "C": "Conditionnée par le système conceptuel, les axiomes ou le paradigme dans lequel elle est formulée, sa validité étant circonscrite à ce cadre spécifique et pouvant varier si le cadre change.",
+          "D": "Le résultat d’une révélation intuitive, dont la validité est indépendante de tout contexte rationnel ou de toute construction intellectuelle humaine."
+        },
+        "bonne_réponse": "C"
+      },
+      "question n°3": {
+        "question": "L'exemple de la lumière, considérée tour à tour comme particule, puis onde, puis à nouveau particule et onde à la fois en physique quantique, illustre que la vérité scientifique :",
+        "réponses": {
+          "A": "Est une collection de faits isolés, qui n'ont aucune relation entre eux et ne forment pas un système cohérent de connaissances.",
+          "B": "Se fonde sur des théories contradictoires et incohérentes, ce qui prouve l'absence totale de rigueur ou de logique dans la démarche scientifique.",
+          "C": "Est un ensemble de dogmes immuables, et que les changements de conceptions sur la lumière sont de simples ajustements mineurs sans impact sur sa nature définitive.",
+          "D": "Est évolutive et sujette à des révisions profondes, où des modèles successifs, bien que pertinents pour un temps, peuvent être dépassés ou intégrés dans des cadres plus complexes et nuancés pour mieux saisir la réalité."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°4": {
+        "question": "Selon Karl Popper, l'Argument  ('Elle est par essence falsifiable') implique que la vérité scientifique ne peut jamais être prouvée de manière définitive, mais seulement :",
+        "réponses": {
+          "A": "Testée et potentiellement réfutée, ce qui signifie qu’une théorie scientifique reste valable tant qu’elle résiste aux tentatives de falsification, sans jamais pouvoir être considérée comme définitivement vraie ou indubitable.",
+          "B": "Acceptée sur la base d'une croyance collective ou d'un consensus social, sans nécessiter de tests rigoureux ou de tentatives de réfutation.",
+          "C": "Formellement établie par des déductions logiques a priori, rendant toute confrontation avec l'expérience superflue et potentiellement trompeuse.",
+          "D": "Confirmée par un nombre suffisant d’observations concordantes, permettant d’atteindre une certitude absolue une fois toutes les preuves recueillies et validées."
+        },
+        "bonne_réponse": "A"
+      },
+      "question n°5": {
+        "question": "Dans Conjectures et Réfutations, Karl Popper montre que toute théorie scientifique doit pouvoir être réfutée. Ce principe de falsifiabilité exclut toute vérité définitive parce que :",
+        "réponses": {
+          "A": "Le but de la science est de prouver la vérité de toutes les hypothèses, et si une théorie est réfutable, elle ne peut pas être scientifique.",
+          "B": "La falsifiabilité est un concept abstrait qui n'a aucune application pratique dans le domaine de la recherche scientifique, et ne concerne que la philosophie.",
+          "C": "Le caractère scientifique d'une théorie réside précisément dans sa capacité à être potentiellement contredite par l'expérience, impliquant qu'aucune théorie n'est à l'abri d'une réfutation future et ne peut être déclarée absolument vraie pour toujours.",
+          "D": "Les théories scientifiques sont des conjectures aléatoires qui ne peuvent jamais être testées, ce qui rend la notion de vérité définitive totalement insignifiante pour la science."
+        },
+        "bonne_réponse": "C"
+      },
+      "question n°6": {
+        "question": "Gaston Bachelard, dans La formation de l'esprit scientifique, va dans le même sens que Popper en affirmant : 'Il n’y a pas de certitude première, il n’y a que des erreurs premières.' Cette citation signifie que :",
+        "réponses": {
+          "A": "La science est basée sur des vérités absolues et intuitives, qui sont découvertes dès le départ et ne peuvent jamais être remises en question ou corrigées par l'expérience.",
+          "B": "L'objectif de la science est de prouver que toutes les connaissances sont des illusions, et que la recherche de la vérité est une quête vaine et sans espoir.",
+          "C": "Il n'existe pas de point de départ absolu ou d'idée intuitivement vraie en science ; toute connaissance commence par une approximation ou une erreur qu'il faut corriger et dépasser par un travail critique et une confrontation avec le réel, rendant la vérité une conquête progressive.",
+          "D": "La science se contente de répéter des erreurs anciennes sans jamais les corriger, ce qui démontre son incapacité à produire des connaissances fiables ou à atteindre des certitudes."
+        },
+        "bonne_réponse": "C"
+      },
+      "question n°7": {
+        "question": "L'explication de l'Argument  ('La vérité scientifique ne se définit qu'au sein d'un système donné') met en lumière que la vérité n'est pas absolue, mais :",
+        "réponses": {
+          "A": "Uniquement une question de conviction personnelle, sans aucune dépendance envers un cadre logique ou théorique commun à la communauté scientifique.",
+          "B": "Le résultat d'une expérience brute et isolée, qui ne nécessite aucun système de pensée ou de concepts pour être interprétée et validée.",
+          "C": "Le fruit d'un consensus arbitraire, qui n'est lié à aucune cohérence interne ni à aucun principe fondamental du système scientifique.",
+          "D": "Conditionnée par les définitions, les axiomes, les conventions et les règles propres au système conceptuel ou à la théorie dans laquelle elle s'inscrit, sa validité n'étant reconnue qu'à l'intérieur de ce cadre spécifique."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°8": {
+        "question": "L'exemple de la lumière (particule, onde, les deux) montre que la science avance par :",
+        "réponses": {
+          "A": "Une accumulation linéaire et ininterrompue de faits, où chaque nouvelle découverte confirme les précédentes sans jamais les modifier ou les contredire.",
+          "B": "Des dogmes immuables qui sont acceptés sans preuve et sans aucune remise en question possible, indépendamment des observations du réel.",
+          "C": "La simple répétition des mêmes théories, sans chercher à développer de nouvelles interprétations ou à intégrer des connaissances plus complexes.",
+          "D": "Des remises en cause, des ruptures épistémologiques et des dépassements successifs, où les anciennes conceptions sont révisées ou intégrées dans des cadres plus englobants pour affiner notre compréhension du réel."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°9": {
+        "question": "L'explication de l'Argument précedent ('La science avance par remises en cause, ruptures, et dépassements') implique que ce qui est tenu pour vrai à une époque peut être :",
+        "réponses": {
+          "A": "Éternellement et universellement vrai, sans aucune possibilité de changement ou de modification par les futures découvertes scientifiques.",
+          "B": "Une illusion ou une superstition, dont la validité est niée dès le départ, sans même avoir besoin de preuves ou de réfutations scientifiques.",
+          "C": "Un fait isolé qui n'a aucune relation avec les connaissances passées ou futures, et ne contribue pas à l'évolution de la science.",
+          "D": "Contredit ou reformulé par de nouvelles découvertes, de nouvelles méthodes ou de nouvelles perspectives théoriques, montrant ainsi le caractère dynamique et non figé de la vérité scientifique."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°10": {
+        "question": "En conclusion, la vérité scientifique, malgré sa rigueur, n'est 'jamais définitive'. Cela signifie qu'elle est :",
+        "réponses": {
+          "A": "Toujours fausse et sans fondement, car la science est incapable d'atteindre une quelconque forme de vérité.",
+          "B": "Un ensemble de connaissances statiques et immobiles, qui ne peut évoluer ou se perfectionner au fil du temps et des recherches.",
+          "C": "Le résultat d'un processus achevé et clos, sans aucune possibilité de future amélioration ou de nouvelle découverte fondamentale.",
+          "D": "Constamment en devenir, perfectible, et soumise à la révision, ce qui constitue une caractéristique essentielle de sa nature et de sa méthode, la distinguant d'une vérité absolue ou dogmatique."
+        },
+        "bonne_réponse": "D"
+      },
+      "question n°11": {
+        "question": "Synthèse: la capacité de la science à 'se corriger et à évoluer' est ce qui fait sa 'force'. Cela signifie que :",
+        "réponses": {
+          "A": "La science est faible car elle ne parvient jamais à des certitudes définitives, montrant son échec à atteindre la vérité absolue.",
+          "B": "La reconnaissance de ses propres limites et la possibilité d’adapter ses théories face à de nouvelles preuves ou à des erreurs est ce qui garantit sa progression et sa fiabilité, par opposition à des savoirs dogmatiques.",
+          "C": "La science est une discipline rigide qui refuse toute remise en question de ses principes, s’accrochant à des vérités immuables.",
+          "D": "La force de la science réside dans sa capacité à imposer ses dogmes sans discussion, sans jamais admettre la possibilité d'erreurs ou de révisions."
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°12": {
+        "question": "synthèse: La science 'ne cherche pas à imposer des certitudes, mais à approcher toujours plus la vérité, sans jamais prétendre la détenir de manière absolue'. Cela montre que la science est une démarche :",
+        "réponses": {
+          "A": "Dogmatique et autoritaire, qui impose ses vérités sans preuve et sans discussion, en niant toute possibilité de remise en question ou de doute.",
+          "B": "Relativiste extrême, qui considère que toutes les opinions se valent et qu'il n'y a aucune vérité à rechercher ou à atteindre.",
+          "C": "Progressive et humble, reconnaissant la complexité du réel et la nature évolutive de la connaissance, cherchant constamment à affiner sa compréhension plutôt que de proclamer des vérités finales et inébranlables.",
+          "D": "Stagnante et inefficace, incapable de progresser ou de se rapprocher de la vérité, car elle se contente de répéter des approximations sans fin."
+        },
+        "bonne_réponse": "C"
+      },
+      "question n°13": {
+        "question": "La vérité scientifique est absolue et indépendante de tout cadre théorique donné, comme le montre l'exemple de la lumière.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°14": {
+        "question": "Karl Popper et Gaston Bachelard sont cités pour leur accord sur l'idée que la vérité scientifique est définitive et jamais réfutable.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°15": {
+        "question": "La citation de Gaston Bachelard, 'Il n’y a pas de certitude première, il n’y a que des erreurs premières', suggère que la science commence par des vérités indubitables.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°16": {
+        "question": "La science avance par remises en cause, ruptures et dépassements, contredisant l'idée de vérités immuables.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question n°17": {
+        "question": "En conclusion on retient que la vérité scientifique, malgré sa rigueur, est toujours définitive et ne sera jamais révisée.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°18": {
+        "question": "Le principe de falsifiabilité de Karl Popper signifie que toute théorie scientifique doit pouvoir être prouvée de manière absolue pour être valide.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°19": {
+        "question": "L'exemple de la géométrie euclidienne et non euclidienne est utilisé pour montrer que la vérité scientifique est absolue et indépendante du cadre conceptuel.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question n°20": {
+        "question": "La capacité de la science à se corriger et à évoluer est présentée dans la conclusion comme une faiblesse qui l'empêche d'atteindre la vérité.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      }
+    }
+  },
+  {
+    "id": "PH009_Q7",
+    "title": "Quiz 7",
+    "questions": {
+      "question_1": {
+        "question": "Soit le sujet suivant : Les Mathématiques sont-elles l’Idéal de Toute Science ?. Dans le contexte, les « Mathématiques » sont définies comme :",
+        "réponses": {
+          "A": "Une science empirique qui découvre ses vérités par l’observation directe du monde physique et l’expérimentation en laboratoire, sans aucune abstraction.",
+          "B": "Un ensemble de connaissances intuitives et subjectives, qui varient selon les cultures et les époques, sans reposer sur une logique démontrée ou des preuves formelles.",
+          "C": "Une discipline artistique dont le but est la création de belles formes et de symboles, sans aucune prétention à la vérité ou à la rigueur scientifique.",
+          "D": "Une science formelle fondée sur des raisonnements logiques, qui manipule des symboles, des quantités, des formes et des structures abstraites, indépendamment de l’expérience directe."
+        },
+        "bonne_réponse": "D"
+      },
+      "question_2": {
+        "question": "Le terme « Idéal » dans la question « Les mathématiques sont-elles l’idéal de toute science ? » désigne :",
+        "réponses": {
+          "A": "Un concept purement abstrait et irréalisable, qui n’a aucune influence concrète sur la pratique scientifique ou la recherche de la vérité.",
+          "B": "Une description de ce qui existe déjà, sans aucune dimension normative ou prescriptive sur ce que la science devrait être.",
+          "C": "Un modèle absolu, une perfection à atteindre, ou une référence suprême auquel toute autre science pourrait ou devrait se conformer pour sa rigueur et son authenticité.",
+          "D": "Une illusion dangereuse, qui détourne la science de ses objectifs pratiques et la pousse à des spéculations sans fondement empirique."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_3": {
+        "question": "La reformulation du sujet, « Peut-on considérer les mathématiques comme la référence suprême ou le modèle par excellence auquel toute science devrait se conformer pour être authentique ou rigoureuse ? », met en lumière une interrogation sur :",
+        "réponses": {
+          "A": "Le caractère purement descriptif des mathématiques, qui se contentent de rendre compte des faits sans proposer de modèle aux autres sciences.",
+          "B": "La possibilité pour les mathématiques de remplacer toutes les autres sciences, rendant ainsi la philosophie ou l’histoire obsolètes.",
+          "C": "La légitimité et la pertinence des mathématiques en tant que critère ultime de scientificité, invitant à questionner leur applicabilité universelle à l’ensemble des disciplines scientifiques.",
+          "D": "La nécessité pour les mathématiques de s’adapter aux spécificités des autres sciences, plutôt que de leur imposer leur propre rigueur et leur abstraction."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_4": {
+        "question": "Quels penseurs affirment que « la nature est écrite en langage mathématique » et que toute science véritable doit tendre vers la rigueur mathématique ?",
+        "réponses": {
+          "A": "Les empiristes comme John Locke ou David Hume, qui privilégient l’expérience et l’observation sensible comme unique source de connaissance.",
+          "B": "Des savants et philosophes tels que Galilée ou Descartes, figures emblématiques du rationalisme moderne, pour qui les mathématiques sont la clé de compréhension du monde et le modèle de la connaissance.",
+          "C": "Les philosophes de l’existence comme Søren Kierkegaard ou Jean-Paul Sartre, qui mettent l’accent sur la subjectivité et la liberté individuelle face à la rationalité abstraite.",
+          "D": "Les sociologues des sciences comme Bruno Latour ou Karin Knorr Cetina, qui analysent la science comme une construction sociale et culturelle, loin d’un idéal unique et universel."
+        },
+        "bonne_réponse": "B"
+      },
+      "question_5": {
+        "question": "Sue ce point, on a une divergence entre des penseurs comme Galilée/Descartes et d’autres comme Auguste Comte ou Dilthey. Cette divergence porte sur :",
+        "réponses": {
+          "A": "La supériorité de la physique sur les mathématiques comme science fondamentale pour la compréhension de l’univers.",
+          "B": "La prétention des mathématiques à être l’idéal universel de toute science, les seconds soulignant les spécificités et les limites de ce modèle pour les sciences humaines ou expérimentales.",
+          "C": "La question de savoir si la science doit être enseignée à l’école ou réservée à une élite intellectuelle.",
+          "D": "L’origine divine ou humaine des concepts mathématiques, et la question de leur existence indépendante de l’esprit humain."
+        },
+        "bonne_réponse": "B"
+      },
+      "question_6": {
+        "question": "Un Argument de l’Axe 1 (« Les mathématiques comme idéal de rigueur et de scientificité ») est que les mathématiques offrent :",
+        "réponses": {
+          "A": "Un langage complexe et obscur qui rend impossible la compréhension des phénomènes pour le commun des mortels.",
+          "B": "Une approche purement intuitive de la réalité, sans aucune nécessité de formalisation ou de démonstration rigoureuse.",
+          "C": "Un langage universel et d’une précision inégalée, permettant une formalisation rigoureuse et abstraite des phénomènes, valable en tout lieu et en tout temps.",
+          "D": "Une méthode subjective de description du monde, qui varie en fonction des interprétations individuelles et des préférences culturelles de chaque observateur."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_7": {
+        "question": "Selon Galilée, « la nature est un livre écrit en langage mathématique ». Cette citation célèbre signifie que :",
+        "réponses": {
+          "A": "La nature est chaotique et incompréhensible, et les mathématiques sont une tentative vaine de lui donner un sens artificiel.",
+          "B": "Les mathématiques sont une invention purement humaine, sans aucun lien avec la structure profonde de l’univers ou ses lois fondamentales.",
+          "C": "La réalité physique est intrinsèquement structurée par des lois quantifiables et mesurables, et c’est à travers les concepts et les outils mathématiques que l’on peut décrypter et comprendre le fonctionnement du monde.",
+          "D": "Seuls les philosophes peuvent comprendre la nature, les mathématiques étant une discipline technique sans profondeur ni signification métaphysique."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_8": {
+        "question": "Les mathématiques, grâce à leurs symboles abstraits, permettent d’exprimer des lois générales :",
+        "réponses": {
+          "A": "Qui sont valables uniquement dans des contextes spécifiques et des périodes historiques limitées, sans aucune prétention à l’universalité.",
+          "B": "Qui sont le fruit d’une intuition purement personnelle, sans aucune possibilité de vérification ou de partage intersubjectif.",
+          "C": "Valables en tout lieu et en tout temps, transcendant les particularités culturelles ou les variations empiriques, grâce à leur caractère universel et décontextualisé.",
+          "D": "Qui sont des métaphores poétiques ou des allégories, sans aucune portée descriptive ou prédictive sur la réalité observable."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_9": {
+        "question": "Un Argument de l’Axe 1 est que de nombreuses sciences dites “dures” reposent sur les mathématiques pour atteindre :",
+        "réponses": {
+          "A": "Une complexité inutile qui les éloigne de la réalité et rend leurs résultats incompréhensibles pour le grand public.",
+          "B": "La subjectivité et l’arbitraire, puisque les mathématiques sont un outil qui permet de justifier n’importe quelle conclusion.",
+          "C": "La rigueur, la précision et la capacité de prédiction, les mathématiques étant un instrument essentiel pour formuler des modèles et des théories testables.",
+          "D": "La spéculation métaphysique, la mathématisation les poussant à des considérations philosophiques sans lien avec l’observation ou l’expérimentation."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_10": {
+        "question": "Quels scientifiques sont cités pour avoir utilisé le calcul infinitésimal (Newton) et les équations différentielles (Einstein) pour modéliser des phénomènes physiques ?",
+        "réponses": {
+          "A": "Galilée et Archimède, pour leurs travaux fondateurs en statique et en dynamique, sans avoir eu recours à des outils mathématiques complexes.",
+          "B": "Marie Curie et Louis Pasteur, pour leurs découvertes en chimie et en biologie, qui ne nécessitaient pas une approche mathématique approfondie.",
+          "C": "Isaac Newton et Albert Einstein, dont les contributions majeures à la physique ont été rendues possibles et formulées grâce à l’utilisation d’outils mathématiques avancés et innovants.",
+          "D": "Charles Darwin et Sigmund Freud, dont les théories en biologie et en psychologie reposent sur des observations qualitatives plutôt que sur des modèles mathématiques."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_11": {
+        "question": "L’utilisation du calcul infinitésimal par Newton pour modéliser la gravitation, ou des équations différentielles par Einstein pour sa théorie de la relativité, illustre que les mathématiques permettent aux sciences « dures » de :",
+        "réponses": {
+          "A": "Se contenter d’une description qualitative des phénomènes, sans chercher à quantifier ou à prédire avec précision les interactions physiques.",
+          "B": "Formuler des lois universelles sous une forme concise et précise, permettant des prédictions vérifiables et une compréhension approfondie des mécanismes fondamentaux de l’univers.",
+          "C": "Développer des théories purement spéculatives, qui n’ont aucun lien avec les observations empiriques ou les données expérimentales.",
+          "D": "Remplacer complètement l’expérimentation par le calcul, rendant ainsi le laboratoire obsolète dans la recherche scientifique."
+        },
+        "bonne_réponse": "B"
+      },
+      "question_12": {
+        "question": "L’introduction pose la question « les mathématiques peuvent-elles vraiment constituer l’idéal de toute science ? ». Cette question implique que :",
+        "réponses": {
+          "A": "Les mathématiques sont le seul et unique modèle de science, sans aucune possibilité de discussion ou de remise en question de cette prééminence.",
+          "B": "La question est purement rhétorique, et la réponse est évidemment non, car les mathématiques n’ont aucune influence sur les autres sciences.",
+          "C": "La science est un concept subjectif qui n’a pas besoin d’un idéal ou d’une référence pour se définir ou se développer.",
+          "D": "Il est nécessaire d’examiner de manière critique la prétention des mathématiques à servir de modèle universel, en considérant à la fois leurs forces et leurs éventuelles limites dans d’autres disciplines."
+        },
+        "bonne_réponse": "D"
+      },
+      "question_13": {
+        "question": "L’introduction indique que Galilée et Descartes affirment que la nature est écrite en langage mathématique, soulignant l’importance de ces dernières pour la science.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question_14": {
+        "question": "Un Argument affirme que les mathématiques offrent un langage imprécis et ambigu qui rend difficile la formalisation rigoureuse des phénomènes.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_15": {
+        "question": "Auguste Comte est cité comme un penseur qui nuance la prétention des mathématiques à être l’idéal de toute science, notamment en mettant en avant les spécificités des sciences humaines.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question_16": {
+        "question": "L’explication d’un Argument affirme que les symboles abstraits des mathématiques limitent leur application à des contextes géographiques précis, sans universalité.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_17": {
+        "question": "Selon Un Argument , les sciences dites « dures » évitent d’utiliser les mathématiques, car elles préfèrent se baser uniquement sur l’observation qualitative.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_18": {
+        "question": "La « Science » est définie comme un ensemble cohérent de connaissances rationnelles, vérifiables et objectives, portant sur des objets déterminés selon une méthode rigoureuse.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question_19": {
+        "question": "L’utilisation du calcul infinitésimal par Newton démontre que les mathématiques sont inutiles pour modéliser les phénomènes complexes comme la gravitation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_20": {
+        "question": "La question de la « nécessité logique ou méthodologique » des mathématiques pour la science est au cœur du sujet selon l’étude parcellaire.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      }
+    }
+  },
+  {
+    "id": "PH009_Q8",
+    "title": "Quiz 8",
+    "questions": {
+      "question_1": {
+        "question": "Ce quiz est la suite du quiz précédent(Les Mathématiques sont-elles l’Idéal de Toute Science ?). L’Axe 2 de ce sujet s’intitule « La réduction de toute science au modèle mathématique est illusoire ». Cela signifie que :",
+        "réponses": {
+          "A": "Le modèle mathématique est la seule voie valide pour toute science, et toute critique à son égard est infondée et irréaliste.",
+          "B": "Toutes les sciences devraient systématiquement et sans exception adopter les méthodes mathématiques pour atteindre une rigueur absolue.",
+          "C": "Tenter de soumettre toutes les disciplines scientifiques aux seules exigences du modèle mathématique est une entreprise trompeuse, qui méconnaît la spécificité de certains domaines et leurs propres critères de validité.",
+          "D": "La science elle-même est une illusion, et il n’y a donc pas de modèle idéal à suivre pour la connaissance."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_2": {
+        "question": "Un Argument affirme que les sciences humaines et sociales impliquent des dimensions qui échappent aux mathématiques, notamment car elles sont :",
+        "réponses": {
+          "A": "Qualitatives et subjectives, concernant la liberté, les motivations, les intentions ou l’histoire humaine, des aspects difficilement réductibles à des quantités ou des formules.",
+          "B": "Principalement descriptives de faits bruts, sans chercher à interpréter les motivations profondes ou les contextes historiques, facilitant ainsi leur mathématisation directe.",
+          "C": "Exclusivement objectives et quantifiables, ce qui les rend parfaitement aptes à être modélisées par des équations mathématiques complexes et universelles.",
+          "D": "Seulement théoriques, sans aucune application pratique ou vérification empirique, ce qui les rend incompatibles avec toute approche rigoureuse, qu’elle soit mathématique ou non."
+        },
+        "bonne_réponse": "A"
+      },
+      "question_3": {
+        "question": "Dilthey oppose « comprendre (Verstehen) » et « expliquer (Erklären) » pour souligner que les sciences de l’esprit (sciences humaines) nécessitent :",
+        "réponses": {
+          "A": "De l’interprétation et une appréhension empathique des significations, par opposition à la seule explication des phénomènes par des lois générales et des relations de cause à effet.",
+          "B": "Une approche purement intuitive et non structurée, sans aucune méthode rigoureuse ou cadre conceptuel.",
+          "C": "Uniquement une explication causale et une quantification des phénomènes, similaire aux méthodes des sciences naturelles.",
+          "D": "Un rejet total de toute forme de scientificité, considérant les sciences humaines comme de simples narrations subjectives sans validité objective."
+        },
+        "bonne_réponse": "A"
+      },
+      "question_4": {
+        "question": "L’explication d’un Argument affirme que l’humain, dans sa liberté, ses motivations et son histoire, ne peut être réduit à des équations. Cela signifie que :",
+        "réponses": {
+          "A": "La complexité des phénomènes humains est en fait une illusion, et des équations suffisamment avancées pourraient tout modéliser.",
+          "B": "Les aspects irréductiblement qualitatifs et singuliers de l’expérience humaine, tels que les choix libres ou les désirs personnels, ne sont pas capturables par des formules mathématiques.",
+          "C": "L’histoire humaine est une succession d’événements aléatoires qui échappent à toute forme d’analyse, qu’elle soit scientifique ou mathématique.",
+          "D": "La réduction de l’humain à des équations est l’objectif ultime des sciences humaines, et c’est la seule voie pour atteindre une connaissance véritable."
+        },
+        "bonne_réponse": "B"
+      },
+      "question_5": {
+        "question": "L’Argument (« Même dans les sciences naturelles, l’observation et l’expérimentation précèdent parfois la modélisation mathématique ») implique que :",
+        "réponses": {
+          "A": "La modélisation mathématique est toujours la première étape dans toutes les sciences naturelles, sans exception.",
+          "B": "L’observation et l’expérimentation sont des processus indépendants de la science, qui ne contribuent pas à la formation de la connaissance.",
+          "C": "Les sciences naturelles sont entièrement qualitatives, et ne nécessitent jamais de recours aux mathématiques pour comprendre les phénomènes.",
+          "D": "La collecte de données empiriques et l’expérimentation peuvent être prioritaires et nécessaires pour la découverte scientifique, avant même que des outils mathématiques sophistiqués ne soient appliqués pour formaliser les observations."
+        },
+        "bonne_réponse": "D"
+      },
+      "question_6": {
+        "question": "Quel scientifique et philosophe est cité pour insister sur « l’importance de l’expérimentation pour la découverte scientifique avant toute tentative de modélisation » ?",
+        "réponses": {
+          "A": "Pierre-Simon Laplace, pour son déterminisme scientifique fondé sur les équations mathématiques de la mécanique céleste.",
+          "B": "John von Neumann, pour ses contributions à l’informatique théorique et aux fondements mathématiques de la mécanique quantique.",
+          "C": "Claude Bernard, père de la médecine expérimentale, qui a mis en lumière la nécessité de l’observation rigoureuse et de l’expérimentation préalable pour construire des théories scientifiques fiables.",
+          "D": "Georg Cantor, pour ses travaux sur les nombres transfinis, montrant la puissance de l’abstraction mathématique indépendamment de l’expérience."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_7": {
+        "question": "La référence à Claude Bernard insistant sur l’importance de l’expérimentation « avant toute tentative de modélisation » souligne que :",
+        "réponses": {
+          "A": "La modélisation mathématique est inutile en science, car l’expérimentation fournit à elle seule toutes les réponses nécessaires.",
+          "B": "La science procède toujours de manière déductive, en formulant d’abord les modèles mathématiques puis en réalisant les expériences pour les confirmer.",
+          "C": "La connaissance empirique, obtenue par l’observation et l’expérimentation, est une étape fondamentale et parfois première pour la construction et la validation des théories scientifiques, même dans les disciplines où les mathématiques sont utilisées par la suite.",
+          "D": "La modélisation mathématique est une activité purement intellectuelle qui ne devrait jamais être contaminée par les données brutes de l’expérience."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_8": {
+        "question": "L’explication d’un Argument met en évidence que, dans la biologie ou la médecine, « l’analyse mathématique ne vient qu’après des observations empiriques souvent complexes ». Cela signifie que :",
+        "réponses": {
+          "A": "Les sciences biologiques et médicales sont fondamentalement incapables d’utiliser les mathématiques, car leurs objets d’étude sont trop variables.",
+          "B": "L’observation empirique est un processus simple et direct qui mène immédiatement à la formulation de lois mathématiques sans effort d’analyse.",
+          "C": "L’analyse mathématique est une étape facultative et secondaire dans ces domaines, sans impact significatif sur la compréhension des phénomènes vivants.",
+          "D": "La complexité du réel biologique ou médical nécessite une phase préalable d’observation détaillée et de collecte de données, qui ensuite seulement peut être systématisée ou quantifiée par des outils mathématiques."
+        },
+        "bonne_réponse": "D"
+      },
+      "question_9": {
+        "question": "En conclusion, « la science ne se réduit pas à la seule rationalité mathématique ». Cela signifie que :",
+        "réponses": {
+          "A": "La science est totalement irrationnelle et n’a aucun lien avec la logique ou la raison dans sa démarche de découverte.",
+          "B": "La rationalité mathématique est un idéal que toutes les sciences devraient atteindre, et celles qui ne le font pas ne sont pas de véritables sciences.",
+          "C": "La science englobe diverses formes de rationalité et de méthodologies, adaptées à la nature de leurs objets, et ne peut être uniformisée sous le seul critère mathématique.",
+          "D": "La rationalité mathématique est un obstacle au progrès scientifique, et devrait être abandonnée pour permettre le développement de nouvelles formes de connaissance."
+        },
+        "bonne_réponse": "C"
+      },
+      "question_10": {
+        "question": "En conclusion, les mathématiques constituent « un idéal parmi d’autres, utile mais parfois insuffisant à embrasser la richesse et la diversité du réel ». Cela implique que :",
+        "réponses": {
+          "A": "Les mathématiques sont un idéal absolu et universel, applicable sans restriction à tous les domaines de la connaissance et de la réalité.",
+          "B": "Les mathématiques offrent un modèle de rigueur précieux, mais leur portée est limitée par la nature de certains objets d’étude ou par des dimensions du réel (comme le qualitatif) qu’elles ne peuvent pas totalement saisir.",
+          "C": "Le réel est entièrement réductible à des équations mathématiques, et toute tentative d’approches différentes est une erreur méthodologique.",
+          "D": "Les mathématiques sont devenues obsolètes dans la science moderne, supplantées par des méthodes plus efficaces et plus adaptées à la complexité du monde."
+        },
+        "bonne_réponse": "B"
+      },
+      "question_11": {
+        "question": "L’opposition entre « comprendre (Verstehen) » et « expliquer (Erklären) » par Dilthey met en évidence une distinction fondamentale entre :",
+        "réponses": {
+          "A": "La science abstraite et la science concrète, où l’une est basée sur des modèles et l’autre sur des faits tangibles.",
+          "B": "La compréhension des phénomènes psychologiques et la compréhension des phénomènes physiques, sans aucune possibilité de recoupement.",
+          "C": "La connaissance scientifique et la connaissance quotidienne, où la première est rigoureuse et la seconde est purement intuitive.",
+          "D": "Une approche herméneutique ou interprétative des phénomènes humains (cherchant leur sens et leurs motifs) et une approche causale-nomologique des phénomènes naturels (cherchant leurs lois)."
+        },
+        "bonne_réponse": "D"
+      },
+      "question_12": {
+        "question": "L’affirmation que « Chaque domaine a ses méthodes, ses objets et ses exigences » dans la conclusion est une reconnaissance de :",
+        "réponses": {
+          "A": "L’échec de la science à unifier toutes les connaissances sous un même paradigme universel et cohérent.",
+          "B": "La supériorité des mathématiques sur toutes les autres disciplines, qui doivent s’adapter à ses exigences pour être valides.",
+          "C": "L’absence totale de critères de scientificité, chaque domaine étant libre de définir ses propres règles sans aucune cohérence avec les autres.",
+          "D": "La diversité épistémologique des sciences, où chaque champ d’étude développe des outils et des approches spécifiques qui sont les plus appropriés à la nature de ses objets et à ses questions de recherche."
+        },
+        "bonne_réponse": "D"
+      },
+      "question_13": {
+        "question": "Un Argument  affirme que les sciences humaines et sociales peuvent être entièrement réduites à des équations mathématiques en raison de leurs dimensions objectives et quantitatives.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_14": {
+        "question": "Dilthey, en opposant comprendre et expliquer, soutient que les sciences de l’esprit ne nécessitent aucune interprétation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_15": {
+        "question": "Selon un Argument, dans les sciences naturelles, la modélisation mathématique précède toujours l’observation et l’expérimentation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_16": {
+        "question": "Claude Bernard insiste sur l’importance de l’expérimentation pour la découverte scientifique avant toute tentative de modélisation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "A"
+      },
+      "question_17": {
+        "question": "La conclusion affirme que la rationalité mathématique est le seul et unique idéal absolu que toutes les sciences devraient suivre.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_18": {
+        "question": "La « liberté » et les « motivations » humaines sont des exemples de dimensions qualitatives qui peuvent être pleinement exprimées par des équations mathématiques selon l’Axe 2.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_19": {
+        "question": "L’explication d’un Argument souligne que l’analyse mathématique en biologie ou médecine vient toujours avant toute observation empirique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      },
+      "question_20": {
+        "question": "La conclusion suggère que les mathématiques sont suffisantes à elles seules pour embrasser la richesse et la diversité du réel, sans nécessiter d’autres approches.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne_réponse": "B"
+      }
+    }
+  }
+] 

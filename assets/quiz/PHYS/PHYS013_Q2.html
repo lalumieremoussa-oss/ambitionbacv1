@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE (BAC 2001) </h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "Dans cette expérience 1, l’ampèremètre indique $I = 0,15\\ \\text{A}$ et le voltmètre $U = 6\\ \\text{V}$. La nature du courant est :",
+                "img": "rlc1.png",
+                "options": {
+                    "A": "Alternative sinusoïdale",
+                    "B": "Continue",
+                    "C": "Périodique quelconque",
+                    "D": "Impulsionnelle"
+                },
+                "r": "B"
+            },
+            {
+                "q": "La tension $U$ mesurée aux bornes de la bobine en continu représente :",
+                "img": "rlc1.png",
+                "options": {
+                    "A": "La f.e.m. d’auto-induction",
+                    "B": "La tension aux bornes de l’inductance seule",
+                    "C": "La tension aux bornes de la résistance interne $r$",
+                    "D": "La somme des tensions de $r$ et $L$"
+                },
+                "r": "C"
+            },
+            {
+                "q": "Cette expérience (le courant continu) permet de déterminer :",
+                "img": "rlc1.png",
+                "options": {
+                    "A": "L’inductance $L$",
+                    "B": "La résistance interne $r$",
+                    "C": "La capacité du condensateur",
+                    "D": "La fréquence de résonance"
+                },
+                "r": "B"
+            },
+            {
+                "q": "La valeur de $r$ est donnée par :",
+                "img": "rlc1.png",
+                "options": {
+                    "A": "$r = \\frac{U}{I}$",
+                    "B": "$r = U \\times I$",
+                    "C": "$r = \\frac{U^2}{I}$",
+                    "D": "$r = \\sqrt{\\frac{U}{I}}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Avec $U = 6\\ \\text{V}$ et $I = 0,15\\ \\text{A}$, la valeur de $r$ est :",
+                "img": "rlc1.png",
+                "options": {
+                    "A": "$0,9\\ \\Omega$",
+                    "B": "$40\\ \\Omega$",
+                    "C": "$0,025\\ \\Omega$",
+                    "D": "$400\\ \\Omega$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Dans l’expérience 2, le courant délivré par le GBF est :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "Continu",
+                    "B": "Alternatif sinusoïdal de fréquence $1000\\ \\text{Hz}$",
+                    "C": "Alternatif redressé",
+                    "D": "Carré"
+                },
+                "r": "B"
+            },
+            {
+                "q": "L’impédance $Z$ de la bobine vaut :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "$0,0025\\ \\Omega$",
+                    "B": "$400\\ \\Omega$",
+                    "C": "$0,09\\ \\Omega$",
+                    "D": "$90\\ \\Omega$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "L’impédance d’une bobine réelle s’écrit :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "$Z = r + L\\omega$",
+                    "B": "$Z = \\sqrt{r^2 + (L\\omega)^2}$",
+                    "C": "$Z = r^2 + (L\\omega)^2$",
+                    "D": "$Z = \\sqrt{r^2 - (L\\omega)^2}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "On calcule $L\\omega$ par :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "$L\\omega = \\sqrt{Z^2 - r^2}$",
+                    "B": "$L\\omega = Z - r$",
+                    "C": "$L\\omega = \\sqrt{Z^2 + r^2}$",
+                    "D": "$L\\omega = \\frac{Z}{r}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Avec $r = 40\\ \\Omega$ et $Z = 400\\ \\Omega$, $L\\omega$ vaut :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "$360\\ \\Omega$",
+                    "B": "$398\\ \\Omega$",
+                    "C": "$440\\ \\Omega$",
+                    "D": "$0\\ \\Omega$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "La pulsation pour $f = 1000\\ \\text{Hz}$ vaut :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "$1000\\pi$",
+                    "B": "$2000\\pi$",
+                    "C": "$500\\pi$",
+                    "D": "$1000$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "L’inductance $L$ vaut environ :",
+                "img": "rlc2.png",
+                "options": {
+                    "A": "$0,0633\\ \\text{H}$",
+                    "B": "$63,3\\ \\text{H}$",
+                    "C": "$0,00063\\ \\text{H}$",
+                    "D": "$6,33\\ \\text{H}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Pour determiner la valeur de la capacité $C_2$, on realise le circuit suivant. l'ampèrémètre indique $I= 0,012\\ \\text{A}$ et le voltmètre indique $U= 6\\ \\text{V}$. L’impédance du circuit vaut :",
+                "img": "rlc3.png",
+                "options": {
+                    "A": "$Z = \\frac{U}{I} = 500\\ \\Omega$",
+                    "B": "$Z = UI$",
+                    "C": "$Z = \\frac{U^2}{I}$",
+                    "D": "$Z = \\frac{I}{U}$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Le déphasage à la résonance est :",
+                "img": "rlc3.png",
+                "options": {
+                    "A": "$0\\ \\text{rad}$",
+                    "B": "$\\pi/2$",
+                    "C": "$-\\pi/2$",
+                    "D": "$\\pi$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "À la résonance, l’impédance vaut :",
+                "img": "rlc3.png",
+                "options": {
+                    "A": "$r$",
+                    "B": "$\\sqrt{r^2 + (L\\omega)^2}$",
+                    "C": "$|L\\omega - \\frac{1}{C\\omega}|$",
+                    "D": "$L\\omega$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "La bande passante dépend :",
+                "img": "rlc3.png",
+                "options": {
+                    "A": "De $L$ et $C$",
+                    "B": "Du facteur de qualité $Q$",
+                    "C": "De la tension",
+                    "D": "Du générateur"
+                },
+                "r": "B"
+            }
+        ];
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

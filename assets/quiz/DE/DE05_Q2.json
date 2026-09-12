@@ -1,0 +1,528 @@
+{
+  "title": "Quiz Allemand 2 - Identité et Projets",
+  "id": "DE05_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la traduction de : \"Ravi de vous rencontrer également.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Freut mich, dich kennenzulernen.",
+        "B": "Auf Wiedersehen.",
+        "C": "Freut mich auch, dich kennenzulernen.",
+        "D": "Woher kommst du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse correcte à : \"Wie alt bist du?\" (J'ai 17 ans.)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich habe 17 Jahre.",
+        "B": "Ich war 17.",
+        "C": "Ich wohne 17.",
+        "D": "Ich bin 17 Jahre alt."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Complétez le dialogue : Samira: Woher kommst du? Andy: ____________",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich wohne in Divo.",
+        "B": "Ich komme aus Divo.",
+        "C": "Ich bin in Divo geboren.",
+        "D": "Ich komme nach Divo."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Traduisez l'expression : \"mon nom de famille\" (en utilisant le texte Daouda)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Name",
+        "B": "Mein ganzer Name",
+        "C": "Mein Nachname",
+        "D": "Mein Familienname"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction de : \"Je suis né(e) à Abengourou.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin geboren in Abengourou.",
+        "B": "Ich wohne in Abengourou.",
+        "C": "Ich werde in Abengourou geboren.",
+        "D": "Ich bin in Abengourou geboren."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quel est le synonyme allemand de \"Freizeit\" (temps libre) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ersatzzeit",
+        "B": "freie Zeit",
+        "C": "freies Alter",
+        "D": "freies Hobby"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Complétez correctement : \"Ich will Arzt ______.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "bin",
+        "B": "wohnen",
+        "C": "werden",
+        "D": "ist"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Que signifie l'expression \"Ich interessiere mich nicht für Politik\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'aime la politique.",
+        "B": "La politique ne m'intéresse pas.",
+        "C": "Je suis politicien.",
+        "D": "Je n'aime pas les films de politique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle question pose Samira à Andy après qu'il ait dit : \"Ich komme aus Divo.\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie geht es dir?",
+        "B": "Wie heißt du?",
+        "C": "Und du?",
+        "D": "Wie alt bist du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la traduction du dialogue : Je dois y aller. À bientôt !",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich mag gehen. Tschüss!",
+        "B": "Ich muss gehen. Bis bald!",
+        "C": "Ich wohne dort. Tschüss!",
+        "D": "Ich will gehen. Danke!"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Choisissez l'expression correcte pour un dialogue :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hi Andy! Freut mich auch.",
+        "B": "Hallo, Mein Nachname ist Andy.",
+        "C": "Hallo, ich bin Andy.",
+        "D": "Hi Andy, ich wohne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle est la traduction de \"Ich bin 1 Meter 53 groß\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'ai 1m53.",
+        "B": "Je vis à 1m53.",
+        "C": "Je mesure 1m53.",
+        "D": "Mon âge est 1m53."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est le synonyme allemand de \"Filme\" (dans le texte Fatima) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bücher",
+        "B": "Hobbys",
+        "C": "Kinos",
+        "D": "Dramen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quelle est la forme correcte du dialogue pour saluer Samira ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hi Andy.",
+        "B": "Freut mich.",
+        "C": "Wie geht es dir?",
+        "D": "Hi Samira!"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "D'après le texte de Fatima, que veut-elle devenir dans le futur ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wissenschaftlerin",
+        "B": "Deutschlehrerin",
+        "C": "Politikerin",
+        "D": "Ärztin"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Salut ! Je m'appelle Daouda. Comment vas-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "bin",
+        "Name",
+        "Ich",
+        "dir",
+        "Wie",
+        "ist",
+        "aus",
+        "Daouda.",
+        "Hallo!",
+        "geht es",
+        "Mein"
+      ],
+      "bonne réponse": "Hallo! Mein Name ist Daouda. Wie geht es dir?"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Je vais bien aussi, merci.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "auch,",
+        "bin",
+        "ist",
+        "danke",
+        "gut",
+        "dir",
+        "wohne",
+        "Es geht mir"
+      ],
+      "bonne réponse": "Es geht mir auch gut, danke"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"D'où viens-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "bist",
+        "machst",
+        "bin",
+        "du",
+        "Woher",
+        "wohnst",
+        "kommst?"
+      ],
+      "bonne réponse": "Woher kommst du?"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je viens de Bouaké.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "komme",
+        "du",
+        "Ich",
+        "nach",
+        "wohne",
+        "Bouaké",
+        "bin",
+        "aus"
+      ],
+      "bonne réponse": "Ich komme aus Bouaké"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"J'habite à Yamoussoukro maintenant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "wohne",
+        "bei",
+        "Ich",
+        "jetzt",
+        "in",
+        "bin",
+        "Divo",
+        "Yamoussoukro"
+      ],
+      "bonne réponse": "Ich wohne jetzt in Yamoussoukro"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Je suis né à N'douci.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bin",
+        "in",
+        "nach",
+        "war",
+        "wohne",
+        "Ich",
+        "N'douci",
+        "geboren"
+      ],
+      "bonne réponse": "Ich bin in N'douci geboren"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"J'ai 17 ans.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "habe",
+        "bin",
+        "alt",
+        "du",
+        "Ich",
+        "Jahre",
+        "war",
+        "17"
+      ],
+      "bonne réponse": "Ich bin 17 Jahre alt"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Dans mon temps libre, j'aime regarder le théâtre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Dramen",
+        "Freizeit,",
+        "lese",
+        "sehe",
+        "gern",
+        "Ich",
+        "bin",
+        "meiner",
+        "Bücher",
+        "In",
+        "mag",
+        "die"
+      ],
+      "bonne réponse": "In meiner Freizeit sehe ich gern Dramen"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je suis passionné par la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "begeistert",
+        "Deutsch",
+        "Ich bin",
+        "bin",
+        "von",
+        "liebe",
+        "Musik"
+      ],
+      "bonne réponse": "Ich bin begeistert von Musik"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Bon, je dois y aller. Au revoir !\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "später",
+        "Tschüss",
+        "gehen.",
+        "zu",
+        "Ich",
+        "sehen",
+        "ist",
+        "du",
+        "Also,",
+        "muss"
+      ],
+      "bonne réponse": "Also, ich muss gehen. Tschüss!"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"Mon nom de famille est Ouattara.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Name",
+        "ist",
+        "Ouattara",
+        "Ich",
+        "Nachname",
+        "bin",
+        "Mein",
+        "wohne"
+      ],
+      "bonne réponse": "Mein Nachname ist Ouattara"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"J'aime également la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bin",
+        "habe",
+        "lese",
+        "ist",
+        "auch",
+        "Ich",
+        "Musik",
+        "mag"
+      ],
+      "bonne réponse": "Ich mag auch Musik"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"J'étudie assidûment.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mache",
+        "studiere",
+        "einfach",
+        "Ich",
+        "gehe",
+        "fleißig",
+        "bin",
+        "Schule"
+      ],
+      "bonne réponse": "Ich studiere fleißig"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"Je veux devenir une bonne personne.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "werden",
+        "eine",
+        "Arzt",
+        "will",
+        "bin",
+        "Ich",
+        "schlechte",
+        "gute",
+        "Person",
+        ""
+      ],
+      "bonne réponse": "Ich will eine gute Person werden"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"Quel âge as-tu ?\" (litt. Quel est ton âge)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "alt",
+        "dein",
+        "ist",
+        "bin",
+        "Wie",
+        "Alter?",
+        "magst",
+        "du"
+      ],
+      "bonne réponse": "Wie ist dein Alter?"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Je vis à N’douci avec ma famille.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "N'douci",
+        "ist",
+        "Mutter",
+        "in",
+        "bei",
+        "bin",
+        "Familie",
+        "Ich",
+        "mit",
+        "wohne",
+        "meiner",
+        "ihrer"
+      ],
+      "bonne réponse": "Ich wohne in N'douci mit meiner Familie"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"J'aime la science-fiction.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Musik",
+        "Science",
+        "lese",
+        "Fiction",
+        "Filme",
+        "Ich",
+        "ist",
+        "liebe"
+      ],
+      "bonne réponse": "Ich liebe Science-Fiction Filme"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"Je n'aime pas les films d'horreur du tout.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gar",
+        "Kinos",
+        "liebe",
+        "Horrorfilme",
+        "Ich",
+        "Filme",
+        "nicht",
+        "bin",
+        "nicht",
+        "mag"
+      ],
+      "bonne réponse": "Ich mag Horrorfilme gar nicht"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"Et toi ? Qui es-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bist",
+        "du?",
+        "bin",
+        "machst",
+        "aus",
+        "Wer",
+        "ist",
+        "du?",
+        "Und",
+        "Was"
+      ],
+      "bonne réponse": "Und du? Wer bist du?"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"Quel est le problème ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bin",
+        "Problem",
+        "ist",
+        "Frage?",
+        "mache",
+        "das",
+        "sind",
+        "Was"
+      ],
+      "bonne réponse": "Was ist das Problem?"
+    },
+    "question n°36": {
+      "question": "Traduisez l'expression \"Je veux devenir\".",
+      "type": "short_answer",
+      "bonne réponse": "Ich will werden"
+    },
+    "question n°37": {
+      "question": "Quel est le mot allemand pour \"nom de famille\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Nachname"
+    },
+    "question n°38": {
+      "question": "Traduisez l'expression \"très\" (devant un adjectif).",
+      "type": "short_answer",
+      "bonne réponse": "sehr"
+    },
+    "question n°39": {
+      "question": "Quel verbe utilise-t-on pour parler de sa taille en allemand ? (forme infinitive)",
+      "type": "short_answer",
+      "bonne réponse": "Sein"
+    },
+    "question n°40": {
+      "question": "Traduisez : \"Et toi ? Qui es-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bist",
+        "du?",
+        "bin",
+        "machst",
+        "aus",
+        "Wer",
+        "ist",
+        "du?",
+        "Und",
+        "Was"
+      ],
+      "bonne réponse": "Und du? Wer bist du?"
+    }
+  }
+}

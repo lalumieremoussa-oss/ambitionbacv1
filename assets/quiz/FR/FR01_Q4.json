@@ -1,0 +1,156 @@
+{
+    "title": "TROUVE L'INTRUS - Série 2 (15 questions)",
+    "id": "FR005_Q2",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : Coup de pilon de David Diop. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Célèbre l'Afrique et sa beauté culturelle",
+                "B": "Fustige la colonisation et ses violences",
+                "C": "Dénonce l'exploitation des enfants dans les usines",
+                "D": "Est un recueil de poèmes engagés"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°2": {
+            "question": "Œuvre : Combat de nègres et de chiens de Bernard-Marie Koltès. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Questionne la violence coloniale",
+                "B": "Interroge les rapports de pouvoir et de domination",
+                "C": "Est une pièce de théâtre dramatique",
+                "D": "Dénonce la trahison des idéaux postcoloniaux"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°3": {
+            "question": "Œuvre : Et les chiens se taisaient d'Aimé Césaire. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Est une tragédie politique et poétique",
+                "B": "Met en scène un esclave révolté contre l'ordre établi",
+                "C": "Critique l'avarice et l'obsession de l'argent",
+                "D": "Est une œuvre engagée contre l'oppression"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : Le Roman inachevé de Louis Aragon. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Est un manifeste poétique en faveur du communisme",
+                "B": "Dénonce l'exploitation des enfants à l'ère industrielle",
+                "C": "Est un recueil de poèmes engagés politiquement",
+                "D": "Soutient une idéologie politique de gauche"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Œuvre : L'Abolition des privilèges de Bertrand Guillot. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Roman sur les inégalités avant la Révolution française",
+                "B": "Dénonce les injustices sociales et les privilèges abusifs",
+                "C": "Critique la corruption des dirigeants africains postcoloniaux",
+                "D": "Est un roman historique et engagé"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°6": {
+            "question": "Œuvre : Les Larmes de Carène d'Élodie Yeboua. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Dénonce le mariage forcé de deux jeunes filles brillantes",
+                "B": "Met en scène des héroïnes victimes de traditions patriarcales",
+                "C": "Est un roman socioculturel engagé",
+                "D": "Dénonce les douleurs physiques de l'excision"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°7": {
+            "question": "Œuvre : L'Oracle de Guy Menga. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Critique la réification de la femme dans la société",
+                "B": "Dénonce la condition féminine et les violences symboliques",
+                "C": "Est un roman qui interroge le poids des traditions",
+                "D": "Fustige l'oppression militaire et la dictature"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°8": {
+            "question": "Œuvre : Le Mariage Forcé de Maïmouna Thiombiano. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Est un plaidoyer pour l'éradication du mariage forcé",
+                "B": "Dénonce les violences faites aux femmes",
+                "C": "Met en lumière les conséquences tragiques de cette pratique",
+                "D": "A pour auteur principal Charlotte Bousquet"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°9": {
+            "question": "Œuvre : Le jour où je suis partie de Charlotte Bousquet. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Évoque les conséquences tragiques du mariage forcé",
+                "B": "Raconte la fuite d'une jeune fille pour échapper à un mariage imposé",
+                "C": "Dénonce la colonisation et l'oppression raciale",
+                "D": "Est un roman engagé sur le plan socioculturel"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°10": {
+            "question": "Œuvre : La femme de mon père n'est pas ma mère de Théodore Kafando. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Dévoile les tensions dans les familles polygames",
+                "B": "Critique les violences culturelles liées au patriarcat",
+                "C": "Met en scène les conflits générationnels autour du mariage",
+                "D": "Dénonce les abus de la colonisation française"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°11": {
+            "question": "Œuvre : Respect des morts d'Amadou Koné. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Réfléchit sur les rituels et la dignité humaine",
+                "B": "Interroge le poids des traditions funéraires",
+                "C": "Dénonce les sacrifices humains dans les coutumes ancestrales",
+                "D": "Célèbre l'identité noire et la révolte contre l'oppression"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°12": {
+            "question": "Œuvre : Chaka de Léopold Sédar Senghor. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "B": "Est un poème engagé sur le plan politique",
+                "C": "Critique les dérives du pouvoir militaire en Afrique",
+                "D": "Met en scène un roi zoulou et sa quête de pouvoir"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°13": {
+            "question": "Œuvre : Prière de paix de Léopold Sédar Senghor. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Évoque la souffrance du peuple africain colonisé",
+                "B": "Appelle à la réconciliation et à la fraternité",
+                "C": "Dénonce l'exploitation des enfants dans les mines",
+                "D": "Est un poème lyrique et engagé"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°14": {
+            "question": "Œuvre : Les Contemplations de Victor Hugo (recueil incluant Melancholia). Quel est l'intrus ?",
+            "réponses": {
+                "A": "Dénonce le travail des enfants à l'ère industrielle",
+                "B": "Critique l'injustice sociale et l'exploitation des faibles",
+                "C": "Fustige l'avarice et l'obsession maladive de l'argent",
+                "D": "Est un recueil poétique engagé socialement"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°15": {
+            "question": "Œuvre : L'Avare de Molière. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Expose les conséquences de l'avarice sur les relations humaines",
+                "B": "Met en scène un personnage obsédé par la richesse",
+                "C": "Dénonce le mariage forcé et ses conséquences tragiques",
+                "D": "Est une pièce de théâtre classique et comique"
+            },
+            "bonne réponse": "C"
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+  "annee_scolaire": "2026-2027",
+  "trimestres": [
+    {
+      "nom": "1er Trimestre",
+      "debut": "2026-09-14",
+      "fin": "2026-12-04"
+    },
+    {
+      "nom": "2e Trimestre",
+      "debut": "2026-12-07",
+      "fin": "2027-03-12"
+    },
+    {
+      "nom": "3e Trimestre",
+      "debut": "2027-03-15",
+      "fin": "2027-06-11"
+    }
+  ],
+  "conges": [
+    {
+      "nom": "Congé de Toussaint",
+      "debut": "2026-10-23",
+      "fin": "2026-11-01"
+    },
+    {
+      "nom": "Congé de Noël",
+      "debut": "2026-12-18",
+      "fin": "2027-01-03"
+    },
+    {
+      "nom": "Congé de février",
+      "debut": "2027-02-05",
+      "fin": "2027-02-14"
+    },
+    {
+      "nom": "Congé de Pâques",
+      "debut": "2027-03-19",
+      "fin": "2027-04-04"
+    },
+    {
+      "nom": "Grandes vacances",
+      "debut": "2027-07-30",
+      "fin": "2027-09-12"
+    }
+  ],
+  "jours_feries": [
+    {
+      "nom": "Journée de la Paix",
+      "date": "2026-11-15"
+    },
+    {
+      "nom": "Nuit du Destin",
+      "date": "2027-03-06"
+    },
+    {
+      "nom": "Ramadan (Aïd el-Fitr)",
+      "date": "2027-03-10"
+    },
+    {
+      "nom": "Fête du Travail",
+      "date": "2027-05-01"
+    },
+    {
+      "nom": "Ascension",
+      "date": "2027-05-06"
+    },
+    {
+      "nom": "Pentecôte",
+      "date": "2027-05-17"
+    },
+    {
+      "nom": "Tabaski (Aïd el-Kébir)",
+      "date": "2027-05-17"
+    }
+  ],
+  "evenements": [],
+  "examens_fin_annee": []
+}

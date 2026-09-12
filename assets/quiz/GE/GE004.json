@@ -1,0 +1,826 @@
+[
+{
+  "title": "Quiz 1",
+  "id": "GE004_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Que signifie l’acronyme CEDEAO ?",
+      "réponses": {
+        "A": "Communauté Economique des Etats d’Afrique de l’Ouest",
+        "B": "Communauté Economique des Etats de l’Afrique Occidental",
+        "C": "Communauté Economique des Etats de l’Afrique de l’Ouest",
+        "D": "Communauté Economie des Etats d’Afrique Occidental"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "En quelle année la CEDEAO a-t-elle été officiellement créée ?",
+      "réponses": {
+        "A": "1968",
+        "B": "1973",
+        "C": "1975",
+        "D": "1980"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel pays a émis l’idée de création de la CEDEAO en 1968 ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Nigeria",
+        "C": "Togo",
+        "D": "Sénégal"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Combien d’États membres compte actuellement la CEDEAO ?",
+      "réponses": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Où se trouve le siège de la CEDEAO ?",
+      "réponses": {
+        "A": "Abidjan",
+        "B": "Accra",
+        "C": "Abuja",
+        "D": "Lagos"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel est l’un des principaux objectifs de la CEDEAO ?",
+      "réponses": {
+        "A": "Maintenir la souveraineté militaire des États",
+        "B": "Réaliser l’intégration des économies ouest-africaines",
+        "C": "Favoriser le développement des industries pétrolières",
+        "D": "Organiser des élections nationales dans tous les pays membres"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle politique la CEDEAO cherche-t-elle à harmoniser ?",
+      "réponses": {
+        "A": "Politiques scolaires uniquement",
+        "B": "Politiques agricoles, énergétiques et industrielles",
+        "C": "Politiques culturelles et sportives",
+        "D": "Politiques linguistiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Que vise la CEDEAO en matière de commerce ?",
+      "réponses": {
+        "A": "Limiter les échanges entre pays membres",
+        "B": "Éliminer les barrières douanières pour faciliter la coopération économique",
+        "C": "Imposer des taxes supplémentaires sur les produits importés",
+        "D": "Fermer les frontières aux investisseurs étrangers"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel domaine est concerné par la création d’infrastructures régionales communes ?",
+      "réponses": {
+        "A": "Transports et télécommunications",
+        "B": "Santé et éducation",
+        "C": "Agriculture et élevage",
+        "D": "Sports et loisirs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "La CEDEAO souhaite-t-elle créer une monnaie commune ?",
+      "réponses": {
+        "A": "Oui",
+        "B": "Non",
+        "C": "Seulement pour certains pays membres",
+        "D": "Pas dans un avenir proche"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel principe la CEDEAO défend-elle entre ses membres ?",
+      "réponses": {
+        "A": "Domination économique d’un État sur les autres",
+        "B": "Égalité et interdépendance des États membres",
+        "C": "Mise en place d’une armée commune",
+        "D": "Répartition inégale des ressources"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle est la politique de la CEDEAO en matière de sécurité ?",
+      "réponses": {
+        "A": "Non-agression entre les États membres",
+        "B": "Intervention militaire automatique en cas de crise",
+        "C": "Fermeture des frontières terrestres",
+        "D": "Soutien exclusif aux régimes en place"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Comment la CEDEAO gère-t-elle les différends entre États membres ?",
+      "réponses": {
+        "A": "Par des sanctions économiques immédiates",
+        "B": "Par le règlement pacifique des différends",
+        "C": "Par des actions militaires conjointes",
+        "D": "Par la médiation des puissances étrangères"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle valeur la CEDEAO cherche-t-elle à promouvoir ?",
+      "réponses": {
+        "A": "La gouvernance autoritaire",
+        "B": "La bonne gouvernance et les valeurs démocratiques",
+        "C": "Le protectionnisme économique",
+        "D": "La fragmentation régionale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle est l’importance des droits de l’homme pour la CEDEAO ?",
+      "réponses": {
+        "A": "Ils sont secondaires par rapport à l’économie",
+        "B": "Respect, promotion et protection des droits de l’homme",
+        "C": "Ils ne concernent que certains pays membres",
+        "D": "La CEDEAO n’a pas de politique sur ce sujet"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment la CEDEAO entend-elle améliorer le niveau de vie des populations ?",
+      "réponses": {
+        "A": "En développant uniquement l’industrie pétrolière",
+        "B": "En promouvant la coopération économique et sociale",
+        "C": "En limitant les échanges commerciaux",
+        "D": "En concentrant les investissements dans les capitales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel rôle joue la CEDEAO dans la paix régionale ?",
+      "réponses": {
+        "A": "Elle favorise les conflits ethniques",
+        "B": "Elle maintient la paix, la sécurité et la stabilité régionale",
+        "C": "Elle impose des dictatures pour la stabilité",
+        "D": "Elle ignore les conflits internes aux États"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle importance la CEDEAO accorde-t-elle à la libre circulation ?",
+      "réponses": {
+        "A": "Elle interdit la libre circulation entre États membres",
+        "B": "Elle promeut le libre échange des personnes, biens et capitaux",
+        "C": "Elle restreint la circulation aux seuls commerçants",
+        "D": "Elle favorise uniquement la circulation des marchandises"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "La lutte contre quoi est un objectif économique de la CEDEAO ?",
+      "réponses": {
+        "A": "La domination économique étrangère et la pauvreté",
+        "B": "La corruption interne aux États membres",
+        "C": "La pollution environnementale",
+        "D": "La surpopulation urbaine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quelle coopération la CEDEAO cherche-t-elle à promouvoir ?",
+      "réponses": {
+        "A": "Coopération dans tous les domaines d’activité économique",
+        "B": "Coopération militaire exclusivement",
+        "C": "Coopération politique uniquement",
+        "D": "Coopération religieuse et culturelle uniquement"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "GE004_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quel organe donne les directives générales à la CEDEAO ?",
+      "réponses": {
+        "A": "La Conférence des chefs d'État et de gouvernement",
+        "B": "Le Conseil économique et social",
+        "C": "Le Parlement de la Communauté",
+        "D": "La Commission des Affaires Sociales et Culturelles"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Qui compose la Conférence des chefs d'État et de gouvernement ?",
+      "réponses": {
+        "A": "Les chefs d’État et de gouvernement des États membres",
+        "B": "Les ministres des finances des pays membres",
+        "C": "Les députés issus des États membres",
+        "D": "Les membres du Tribunal de la CEDEAO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Comment est assurée la présidence de la Conférence des chefs d'État ?",
+      "réponses": {
+        "A": "Par un ministre des affaires étrangères",
+        "B": "Par un chef d’État élu à vie",
+        "C": "Chaque année par un chef d’État des pays membres",
+        "D": "Par le président du Parlement de la Communauté"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le rôle principal du Conseil des ministres dans la CEDEAO ?",
+      "réponses": {
+        "A": "Voter les lois communautaires",
+        "B": "Veiller au bon fonctionnement et au développement de l’organisation",
+        "C": "Organiser les élections dans les États membres",
+        "D": "Gérer le fonds de coopération"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel organe prépare la Conférence des chefs d’État et de gouvernement ?",
+      "réponses": {
+        "A": "Le Tribunal de la CEDEAO",
+        "B": "Le Conseil économique et social",
+        "C": "Le Conseil des ministres",
+        "D": "La Commission des Transports, des Télécommunications et de l’Énergie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel est le rôle du Parlement de la Communauté ?",
+      "réponses": {
+        "A": "Exécuter les décisions de la conférence",
+        "B": "Voter les lois communautaires",
+        "C": "Gérer le fonds de compensation",
+        "D": "Rédiger les traités internationaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Où se trouve le siège du Parlement de la Communauté ?",
+      "réponses": {
+        "A": "Abuja",
+        "B": "Dakar",
+        "C": "Lagos",
+        "D": "Abidjan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Parmi les organes suivants, lesquels sont des organes d’exécution ?",
+      "réponses": {
+        "A": "Conférence des chefs d’État, Parlement, Conseil économique",
+        "B": "Tribunal, Conseil économique, Parlement",
+        "C": "Commissions techniques spécialisées, Fonds de coopération, Commission de la CEDEAO",
+        "D": "Conseil des ministres, Tribunal, Parlement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel organe est chargé d’exécuter les décisions de la Conférence des chefs d’État ?",
+      "réponses": {
+        "A": "La Commission de la CEDEAO",
+        "B": "Le Parlement de la Communauté",
+        "C": "Le Conseil économique et social",
+        "D": "Le Tribunal de la CEDEAO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Que fait le Fonds de Coopération et de Compensation de la CEDEAO ?",
+      "réponses": {
+        "A": "Finance les projets dans les États membres",
+        "B": "Prépare les lois communautaires",
+        "C": "Organise des élections",
+        "D": "Gère les conflits entre États"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle Commission technique spécialisée traite des questions commerciales et douanières ?",
+      "réponses": {
+        "A": "La Commission des Transports et de l’Énergie",
+        "B": "La Commission du Commerce, des Douanes, de l’Immigration, des Questions Monétaires et de Paiement",
+        "C": "La Commission des Affaires Sociales et Culturelles",
+        "D": "La Commission de l’Industrie et de l’Agriculture"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle commission s’occupe de l’industrie, de l’agriculture et des ressources naturelles ?",
+      "réponses": {
+        "A": "La Commission du Commerce et des Douanes",
+        "B": "La Commission de l’Industrie, de l’Agriculture et des Ressources Naturelles",
+        "C": "La Commission des Affaires Sociales",
+        "D": "La Commission des Transports"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La Commission des Transports, des Télécommunications et de l’Énergie est une commission :",
+      "réponses": {
+        "A": "De consultation",
+        "B": "Technique et spécialisée",
+        "C": "Judiciaire",
+        "D": "Financière"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle commission gère les affaires sociales et culturelles ?",
+      "réponses": {
+        "A": "La Commission des Affaires Sociales et Culturelles",
+        "B": "La Commission de l’Industrie",
+        "C": "La Commission des Transports",
+        "D": "La Commission du Commerce"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quels sont les organes consultatifs de la CEDEAO ?",
+      "réponses": {
+        "A": "Conférence des chefs d’État et Conseil des ministres",
+        "B": "Tribunal de la CEDEAO et Conseil économique et social",
+        "C": "Parlement et Fonds de Coopération",
+        "D": "Commissions techniques et Fonds de compensation"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel est le rôle du Tribunal de la CEDEAO ?",
+      "réponses": {
+        "A": "Donner des avis sur les problèmes économiques",
+        "B": "Faire respecter les accords et régler les litiges entre pays membres",
+        "C": "Voter les lois communautaires",
+        "D": "Gérer le budget de la CEDEAO"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel rôle joue le Conseil économique et social ?",
+      "réponses": {
+        "A": "Exécute les décisions de la Conférence",
+        "B": "Donne des avis sur les problèmes de la CEDEAO",
+        "C": "Gère le fonds de coopération",
+        "D": "Organise les sessions parlementaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel organe élabore les programmes et les budgets de la CEDEAO ?",
+      "réponses": {
+        "A": "La Commission de la CEDEAO",
+        "B": "Le Parlement de la Communauté",
+        "C": "Le Conseil économique et social",
+        "D": "Le Tribunal de la CEDEAO"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle institution préside la Commission de la CEDEAO ?",
+      "réponses": {
+        "A": "Un chef d’État",
+        "B": "Un président nommé par le Conseil des ministres",
+        "C": "Le président du Parlement",
+        "D": "Un représentant du Tribunal"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Parmi ces propositions, laquelle décrit le mieux la structure de la CEDEAO ?",
+      "réponses": {
+        "A": "Une organisation composée uniquement d’un Parlement et d’un Tribunal",
+        "B": "Une organisation avec des organes de décision, d’exécution et de consultation",
+        "C": "Une organisation dirigée par un seul État membre",
+        "D": "Une organisation sans organes techniques spécialisés"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "GE004_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est un obstacle à l’intégration CEDEAO ?",
+      "réponses": {
+        "A": "Bonne gouvernance",
+        "B": "Stabilité politique",
+        "C": "Conflits internes et instabilité",
+        "D": "Monnaie unique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi l’ouverture maritime est-elle un atout ?",
+      "réponses": {
+        "A": "Elle rend les pays dépendants",
+        "B": "Elle facilite les échanges internationaux et l'aménagement",
+        "C": "Elle empêche l'industrialisation",
+        "D": "Elle provoque des conflits entre États"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Les produits d’élevage sont dominants dans :",
+      "réponses": {
+        "A": "Cap-Vert",
+        "B": "Mali, Niger, Burkina Faso",
+        "C": "Sénégal et Liberia",
+        "D": "Nigeria et Ghana"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le Sénégal est un grand producteur de :",
+      "réponses": {
+        "A": "Coton",
+        "B": "Arachide",
+        "C": "Cacao",
+        "D": "Café"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel est le pourcentage des exportations de la CEDEAO vers l’Occident ?",
+      "réponses": {
+        "A": "20%",
+        "B": "50%",
+        "C": "80%",
+        "D": "100%"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle caractéristique décrit le relief de la CEDEAO ?",
+      "réponses": {
+        "A": "Des montagnes très élevées",
+        "B": "Des surfaces planes avec une large ouverture maritime",
+        "C": "Un désert plat et sec",
+        "D": "Des vallées profondes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle affirmation est juste concernant l’industrie CEDEAO ?",
+      "réponses": {
+        "A": "Très développée dans tous les domaines",
+        "B": "Faiblement développée mais en croissance dans l’agro-industrie",
+        "C": "Uniquement concentrée au Nigeria",
+        "D": "Inexistante"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel pays est le premier producteur de cacao dans la CEDEAO ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Côte d’Ivoire",
+        "C": "Togo",
+        "D": "Niger"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle organisation militaire a été créée par la CEDEAO ?",
+      "réponses": {
+        "A": "ONU",
+        "B": "OTAN",
+        "C": "ECOMOG",
+        "D": "UA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le pays membre de la CEDEAO qui est un archipel ?",
+      "réponses": {
+        "A": "Guinée",
+        "B": "Nigeria",
+        "C": "Cap-Vert",
+        "D": "Sierra Leone"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Combien d’États restent activement membres de la CEDEAO après les retraits récents ?",
+      "réponses": {
+        "A": "15 États dont 3 suspendus",
+        "B": "14 États",
+        "C": "12 États",
+        "D": "10 États"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle est la langue qui n’est pas utilisée officiellement dans la CEDEAO ?",
+      "réponses": {
+        "A": "Anglais",
+        "B": "Français",
+        "C": "Portugais",
+        "D": "Espagnol"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "La population de la CEDEAO est un atout car :",
+      "réponses": {
+        "A": "Elle est vieillissante et stable",
+        "B": "Elle est jeune, nombreuse et active",
+        "C": "Elle est peu instruite et immobile",
+        "D": "Elle est concentrée en zones arides"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel pays est riche en uranium ?",
+      "réponses": {
+        "A": "Bénin",
+        "B": "Niger",
+        "C": "Togo",
+        "D": "Guinée-Bissau"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel projet a été financé par la CEDEAO ?",
+      "réponses": {
+        "A": "Une centrale nucléaire au Cap-Vert",
+        "B": "Le reboisement au Sahel",
+        "C": "La construction du barrage d’Inga",
+        "D": "L’exploitation de la forêt équatoriale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel secteur industriel est en croissance dans la CEDEAO ?",
+      "réponses": {
+        "A": "La fabrication automobile",
+        "B": "L’agro-industrie",
+        "C": "Les hautes technologies",
+        "D": "Le spatial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel pays est grand producteur de bauxite et manganèse ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Niger",
+        "C": "Cap-Vert",
+        "D": "Sénégal"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quels États profitent de l’hydroélectricité ?",
+      "réponses": {
+        "A": "Guinée et Togo",
+        "B": "Nigeria et Liberia",
+        "C": "Côte d’Ivoire et Ghana",
+        "D": "Sierra Leone et Cap-Vert"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle structure a été créée pour favoriser le financement régional ?",
+      "réponses": {
+        "A": "BOAD",
+        "B": "Banque Centrale Africaine",
+        "C": "ECOBANK",
+        "D": "FONGAF"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel événement culturel est soutenu par la CEDEAO ?",
+      "réponses": {
+        "A": "Miss CEDEAO",
+        "B": "Jeux Olympiques Africains",
+        "C": "Festival Panafricain",
+        "D": "Sommet des Jeunes Leaders"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 4",
+  "id": "GE004_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Quel pays exporte des hydrocarbures dans la CEDEAO ?",
+      "réponses": {
+        "A": "Burkina Faso",
+        "B": "Ghana",
+        "C": "Nigeria",
+        "D": "Togo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi la coexistence de plusieurs monnaies pose-t-elle problème ?",
+      "réponses": {
+        "A": "Elle facilite les exportations",
+        "B": "Elle ralentit les échanges commerciaux",
+        "C": "Elle stabilise la région",
+        "D": "Elle favorise l’investissement étranger"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La CEDEAO a supprimé les visas pour :",
+      "réponses": {
+        "A": "Créer une zone de non-droit",
+        "B": "Lutter contre l’immigration",
+        "C": "Favoriser la libre circulation des personnes",
+        "D": "Attirer les touristes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est l’une des causes du faible pouvoir d’achat dans la CEDEAO ?",
+      "réponses": {
+        "A": "Spéculation immobilière",
+        "B": "Endettement élevé",
+        "C": "Taux d’intérêt bas",
+        "D": "Baisse du dollar"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel produit n’est pas une ressource agricole majeure dans la CEDEAO ?",
+      "réponses": {
+        "A": "Coton",
+        "B": "Riz",
+        "C": "Cacao",
+        "D": "Arachide"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel obstacle ralentit l’intégration économique ?",
+      "réponses": {
+        "A": "Déséquilibres économiques entre États",
+        "B": "Uniformisation fiscale",
+        "C": "Langue commune",
+        "D": "Accords commerciaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelles infrastructures sont insuffisantes dans la CEDEAO ?",
+      "réponses": {
+        "A": "Réseaux sociaux",
+        "B": "Parcs industriels",
+        "C": "Ports de plaisance",
+        "D": "Réseau ferroviaire et télécommunications"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quel facteur peut encourager les investissements dans la CEDEAO ?",
+      "réponses": {
+        "A": "Bonne gouvernance",
+        "B": "Conflits civils",
+        "C": "Inflation incontrôlée",
+        "D": "Fragmentation politique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Pourquoi les États peinent-ils à financer la CEDEAO ?",
+      "réponses": {
+        "A": "Refus d’adhésion aux traités",
+        "B": "Non-paiement des cotisations",
+        "C": "Trop d’accords bilatéraux",
+        "D": "Excès de financement"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quels produits la CEDEAO exporte-t-elle principalement ?",
+      "réponses": {
+        "A": "Produits agricoles et miniers",
+        "B": "Produits électroniques",
+        "C": "Véhicules industriels",
+        "D": "Produits pharmaceutiques"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle est la principale langue officielle en Guinée-Bissau ?",
+      "réponses": {
+        "A": "Anglais",
+        "B": "Portugais",
+        "C": "Arabe",
+        "D": "Français"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le conflit de leadership entre pays francophones et anglophones :",
+      "réponses": {
+        "A": "Renforce l’unité",
+        "B": "N’a aucun effet",
+        "C": "Ralentit l’application des décisions",
+        "D": "Favorise l’industrialisation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle affirmation est correcte ?",
+      "réponses": {
+        "A": "L’UEMOA est une branche politique de la CEDEAO",
+        "B": "L’UEMOA est une union monétaire",
+        "C": "L’UEMOA regroupe uniquement les pays anglophones",
+        "D": "L’UEMOA gère les élections"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel pays n’est pas membre fondateur de la CEDEAO ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Sénégal",
+        "C": "Cameroun",
+        "D": "Nigeria"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "La CEDEAO peut-elle empêcher les ingérences extérieures ?",
+      "réponses": {
+        "A": "Oui, grâce à l’ECOMOG",
+        "B": "Non, elle manque de moyens",
+        "C": "Oui, via le Conseil de sécurité",
+        "D": "Non, elle ne dispose pas de traité"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle activité est en croissance dans la zone CEDEAO ?",
+      "réponses": {
+        "A": "Télécommunications",
+        "B": "Élevage bovin intensif",
+        "C": "Aérospatial",
+        "D": "Exploitation minière et agro-industrie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce qui entrave les échanges entre États membres ?",
+      "réponses": {
+        "A": "Les réseaux de téléphonie mobile",
+        "B": "La solidarité économique",
+        "C": "L’utilisation du français",
+        "D": "Les taxes douanières non harmonisées"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quelle est une mission essentielle de la CEDEAO ?",
+      "réponses": {
+        "A": "Créer une armée offensive",
+        "B": "Renforcer l’intégration régionale",
+        "C": "Organiser les élections présidentielles",
+        "D": "Former des enseignants"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "En quoi la diversité linguistique est-elle un défi ?",
+      "réponses": {
+        "A": "Elle facilite les débats",
+        "B": "Elle rend difficile la communication interétatique",
+        "C": "Elle favorise l’harmonisation",
+        "D": "Elle est sans importance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est une des limites de la CEDEAO ?",
+      "réponses": {
+        "A": "Sa faible population",
+        "B": "Son excédent budgétaire",
+        "C": "Le non-respect des décisions communes",
+        "D": "Son taux de scolarisation"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}
+]

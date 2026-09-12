@@ -1,0 +1,731 @@
+[
+    {
+        "citation": "BAC 2015 : Peut-on négliger le passé ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'oubli du passé condamne-t-il l'homme à l'égarement et à la répétition de ses erreurs, ou la rupture avec le passé est-elle la condition nécessaire du progrès et de l'affirmation de la liberté ?",
+        "parties": [
+            {
+                "titre": "La mémoire du passé comme devoir moral et condition d'intelligibilité du présent (Thèse)",
+                "arguments": [
+                    "Selon Paul Ricœur dans *La mémoire, l'histoire, l'oubli*, le travail de mémoire et l'histoire sont indispensables pour rendre justice aux victimes du passé.",
+                    "Pour Georg Santayana, « ceux qui ne peuvent se souvenir du passé sont condamnés à le répéter », montrant l'utilité pédagogique de l'expérience historique.",
+                    "Le passé constitue le socle de l'identité individuelle et collective ; s'en couper entraîne une perte de repères culturels et existentiels.",
+                    "La compréhension des institutions politiques, des langues et des savoirs contemporains exige une démarche généalogique et historique.",
+                    "L'expérience passée offre des exemples moraux et politiques précieux pour guider l'action présente."
+                ]
+            },
+            {
+                "titre": "La nécessité du pardon et de la rupture avec le passé pour agir librement (Antithèse)",
+                "arguments": [
+                    "Selon Friedrich Nietzsche dans *Considérations inactuelles*, un excès de conscience historique paralyse la capacité d'action et d'innovation ; l'oubli créateur est nécessaire à la vie.",
+                    "Pour René Descartes dans le *Discours de la méthode*, la recherche de la vérité exige de faire table rase des préjugés et des doctrines héritées de la tradition.",
+                    "L'attachement excessif au passé peut déboucher sur le conservatisme stérile, la nostalgie réactive ou le ressentiment.",
+                    "Les révolutions politiques et scientifiques ne se réalisent qu'au prix d'une rupture audacieuse avec les habitudes anciennes.",
+                    "Le pardon et le dépassement des querelles historiques sont nécessaires pour construire la paix et vivre ensemble dans le présent."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2025 : L'inconscient prive-t-il l'homme de sa liberté ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'hypothèse d'une instance pschychique inconsciente condamne-t-elle l'homme au déterminisme absolu, ou la prise de conscience de ses pulsions est-elle au contraire la condition d'une liberté reconquise ?",
+        "parties": [
+            {
+                "titre": "L'inconscient comme force déterminante qui ruine le libre arbitre (Thèse)",
+                "arguments": [
+                    "Selon Freud, le moi n'est pas maître dans sa propre maison : nos choix, désirs et actes sont guidés par des pulsions inconscientes échappant au contrôle de la volonté.",
+                    "Les actes manqués, les lapsus et les symptômes névrotiques témoignent de mécanismes psychiques qui s'imposent à l'individu à son insu.",
+                    "Sartre souligne que l'inconscient freudien risque d'offrir une excuse d'inresponsabilité morale, encourageant la mauvaise foi en dédouanant l'homme de ses actes.",
+                    "Les déterminismes psychiques enfouis issus de l'enfance façonnent durablement la personnalité sans que la conscience puisse les choisir au préalable.",
+                    "L'illusion de la liberté provient seulement de ce que l'homme a conscience de ses actions mais reste ignorant des causes inconscientes qui le font agir."
+                ]
+            },
+            {
+                "titre": "La connaissance de l'inconscient comme chemin vers une liberté véritable (Antithèse)",
+                "arguments": [
+                    "La cure psychanalytique vise précisément à rendre conscient ce qui était inconscient (« Là où était le Ça, le Moi doit advenir »), restituant ainsi le sujet à sa liberté.",
+                    "Reconnaître l'existence de l'inconscient permet de dépasser l'illusion d'une maîtrise absolue pour construire une autonomie lucide et réaliste.",
+                    "L'homme ne se réduit pas à ses mécanismes inconscients : il conserve la capacité de sublimer ses pulsions à travers l'art, le travail et la création.",
+                    "La liberté n'est pas une donnée immédiate mais un processus de libération qui passe par l'exploration et la compréhension de son monde intérieur.",
+                    "La conscience morale et la responsabilité juridique conservent tout leur sens dès lors que l'homme a la capacité d'élucider ses motivations profondes."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2021 : La société peut-elle subsister sans l'État ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'État est-il une condition indispensable à l'existence et au maintien de l'ordre social, ou la société peut-elle s'auto-organiser harmonieusement sans institution politique centralisée ?",
+        "parties": [
+            {
+                "titre": "L'État est indispensable à la subsistance et à la stabilité de la société (Thèse)",
+                "arguments": [
+                    "Selon Hobbes, à l'état de nature sans État, la société s'effondre dans la guerre de tous contre tous en raison des rivalités humaines.",
+                    "L'État détient le monopole de la violence légitime (Weber), ce qui garantit la sécurité des biens et des personnes face à l'anarchie.",
+                    "La présence d'un pouvoir centralisé permet d'arbitrer les conflits de manière impartiale grâce à des lois communes et un système judiciaire.",
+                    "Seul l'État possède la structure nécessaire pour organiser la solidarité nationale, financer les infrastructures et gérer les services publics.",
+                    "Sans l'autorité souveraine de l'État pour faire respecter les engagements, la confiance mutuelle nécessaire aux échanges économiques s'effondre."
+                ]
+            },
+            {
+                "titre": "La société possède une dynamique propre capable de fonctionner sans l'État (Antithèse)",
+                "arguments": [
+                    "Les travaux anthropologiques de Pierre Clastres montrent l'existence de sociétés traditionnelles \"sans État\" qui préviennent activement l'émergence d'un pouvoir coercitif.",
+                    "La pensée anarchiste (Proudhon, Bakounine) soutient que l'auto-organisation, la coopération spontanée et le fédéralisme peuvent remplacer l'appareil d'État.",
+                    "L'État est une construction historique récente : de multiples communautés humaines ont vécu et perduré pendant des millénaires sans structure étatique.",
+                    "L'institution étatique peut devenir un instrument d'oppression et de domination, créant plus de divisions sociales qu'elle n'en résout.",
+                    "La vie sociale repose d'abord sur des normes culturelles, des coutumes et des liens de solidarité communautaire préexistants à la loi écrite."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2021 : Le travail n'est-il pour l'homme qu'un moyen de subvenir à ses besoins ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le travail se réduit-il à une simple nécessité biologique et matérielle de survie, ou constitue-t-il également une dimension essentielle de la réalisation personnelle et sociale de l'homme ?",
+        "parties": [
+            {
+                "titre": "Le travail est fondamentalement une contrainte d'ordre vital et matériel (Thèse)",
+                "arguments": [
+                    "L'étymologie même du mot travail (*tripalium*) renvoie à l'instrument de torture, soulignant sa nature originelle de peine, d'effort et de souffrance.",
+                    "La nécessité biologique d'assurer la subsistance quotidienne (nourriture, logement, vêtement) contraint l'homme à transformer la nature par le labeur.",
+                    "Dans un système d'aliénation du travail (Marx), l'ouvrier ne s'y épanouit pas mais perd sa vie à la gagner en vendant sa force de travail.",
+                    "L'activité professionnelle est souvent subie comme un impératif économique plutôt que choisie par pure vocation personnelle.",
+                    "Si tous les besoins matériels de l'homme étaient satisfaits sans effort, le travail perdrait pour beaucoup son caractère obligatoire."
+                ]
+            },
+            {
+                "titre": "Le travail est aussi un vecteur d'humanisation, d'épanouissement et d'intégration (Antithèse)",
+                "arguments": [
+                    "Selon Hegel dans la dialectique du maître et du serviteur, c'est par le travail que l'homme transforme le monde et prend conscience de sa propre liberté.",
+                    "Le travail permet de développer des compétences, d'exprimer son potentiel créatif et de former son esprit à la discipline et à l'effort.",
+                    "L'activité professionnelle confère un statut social, une reconnaissance par la collectivité et un sentiment d'utilité publique.",
+                    "Il constitue un facteur essentiel de socialisation en insérant l'individu dans un réseau de relations interpersonnelles et de projets collectifs.",
+                    "À travers l'œuvre réalisée, l'homme s'arrache à la pure animalité en laissant une empreinte durable de sa culture dans la matière."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2022 : La technique menace-t-elle l'humanité ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le développement technique constitue-t-il un danger existentiel et moral susceptible d'aliéner ou de détruire l'homme, ou demeure-t-il le moyen privilégié de son émancipation et de sa maîtrise du monde ?",
+        "parties": [
+            {
+                "titre": "La technique fait peser de lourdes menaces sur l'homme et son environnement (Thèse)",
+                "arguments": [
+                    "L'autonomisation du progrès technique (Ellul, Jonas) échappe désormais au contrôle éthique de l'homme, créant des risques systémiques imprévisibles.",
+                    "La puissance technologique accroît le pouvoir de destruction massive de l'humanité (armes nucléaires, dégradation de la biosphère, crise climatique).",
+                    "L'arraisonnement de la nature (Heidegger) transforme le vivant et l'être humain en de simples ressources exploitables et marchandisables.",
+                    "La mécanisation du travail et la dépendance aux intelligences artificielles risquent d'entraîner une perte de savoir-faire, d'autonomie et de sens.",
+                    "L'homme risque de devenir l'esclave de ses propres créations techniques en leur soumettant l'ensemble de son existence individuelle et sociale."
+                ]
+            },
+            {
+                "titre": "La technique est le prolongement naturel de l'homme et l'instrument de son affranchissement (Antithèse)",
+                "arguments": [
+                    "Selon le mythe de Prométhée raconté par Platon, la technique est le propre de l'homme pour compenser sa vulnérabilité biologique naturelle.",
+                    "Les progrès technologiques et médicaux permettent d'éradiquer des maladies, de réduire la pénibilité du travail et d'allonger l'espérance de vie.",
+                    "La technique en elle-même est neutre : sa nocivité ou son utilité dépendent exclusivement de l'usage politique et éthique qu'en font les hommes.",
+                    "C'est par la recherche d'innovations techniques responsables (énergies propres, géngénierie médicale) que l'humanité peut résoudre ses crises actuelles.",
+                    "L'outil et la machine libèrent du temps libéré pour la création artistique, l'instruction, la réflexion philosophique et les loisirs."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2023 : La croyance en Dieu relève-t-elle du désespoir ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La foi religieuse naît-elle de la détresse, de l'impuissance et du refus de la finitude humaine, ou exprime-t-elle au contraire une quête spirituelle lucide et une source d'espérance féconde ?",
+        "parties": [
+            {
+                "titre": "La foi en Dieu trouve souvent sa source dans la détresse et l'illusion consolatrice (Thèse)",
+                "arguments": [
+                    "Pour Marx, la religion est « l'opium du peuple », un refuge imaginaire qui soulage la souffrance sociale sans s'attaquer aux causes réelles de la misère.",
+                    "Selon Freud, la croyance est une névrose obsessionnelle et un désir d'illusion né du besoin de protection paternelle face à la peur de la mort.",
+                    "Nietzsche critique la foi comme l'expression d'un ressentiment et d'une haine de la vie terrestre au profit d'un arrière-monde rassurer.",
+                    "L'homme se tourne vers le divin principalement lors des épreuves déstabilisantes (deuil, maladie, guerre) où sa raison se heurte à son impuissance.",
+                    "Postuler un créateur tout-puissant évite d'affronter l'absurdité fondamentale de l'existence et l'angoisse de la solitude existentielle."
+                ]
+            },
+            {
+                "titre": "La croyance en Dieu est une démarche porteuse de sens, d'espoir dynamique et de liberté (Antithèse)",
+                "arguments": [
+                    "Chez Kierkegaard, la foi n'est pas la résignation passive du désespéré mais un saut spirituel courageux au-delà des limites de la raison pure.",
+                    "La foi en Dieu constitue une force d'action morale et un moteur d'engagement humaniste face à l'injustice terrestre (ex: Martin Luther King).",
+                    "Pour Spinoza ou Pascal, la réflexion sur le divin peut procéder d'une émerveillement rationnel devant l'ordre du monde plutôt que d'une détresse.",
+                    "L'espérance religieuse apporte une réponse existentielle positive à la quête universelle de sens et de transcendance de l'esprit humain.",
+                    "Croire en Dieu n'implique pas le déni du réel mais une manière d'habiter le monde avec confiance, responsabilité et fraternité."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2024 : Le désir est-il l'ennemi du bonheur ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le désir voue-t-il l'homme à un état d'insatisfaction permanente et de souffrance, ou constitue-t-il au contraire la force dynamique essentielle à la quête du bonheur ?",
+        "parties": [
+            {
+                "titre": "Le désir comme source d'insatisfaction perpétuelle et d'obstacle au bonheur (Thèse)",
+                "arguments": [
+                    "Pour Schopenhauer, le désir est un manque douloureux : sa non-satisfaction crée la souffrance, tandis que sa satisfaction éphémère engendre l'ennui.",
+                    "L'épicurisme montre que les désirs illimités, vains et non naturels plongent l'âme dans l'inquiétude permanente et l'anxiété.",
+                    "Le désir rend l'homme dépendant d'objets extérieurs et de circonstances qu'il ne maîtrise pas, détruisant son autarcie et sa paix intérieure.",
+                    "La quête effrénée de consommation produit une logique de frustration sans fin où l'obtention de l'objet désiré fait immédiatement naître un nouveau manque.",
+                    "La philosophie stoïcienne enseigne que pour atteindre la tranquillité de l'esprit (ataraxie), il faut dompter et restreindre ses désirs."
+                ]
+            },
+            {
+                "titre": "Le désir comme moteur indispensable de la vie et de la réalisation de soi (Antithèse)",
+                "arguments": [
+                    "Selon Spinoza, le désir (*conatus*) est l'essence même de l'homme, la force vitale par laquelle il efforce de persévérer dans son être et d'augmenter sa puissance d'agir.",
+                    "Un bonheur sans désir serait une stabilité stérile et un état d'apathie assimilable à une mort psychique ou spirituelle.",
+                    "C'est par le désir que l'homme se projette dans l'avenir, crée des œuvres d'art, innove et noue des relations affectives profondes.",
+                    "Pour Platon dans *Le Banquet*, le désir (Éros) est un élan créateur qui élève l'âme de la beauté sensible vers le Bien et la vérité.",
+                    "Le plaisir d'espérer et la dynamique de la recherche constituent en eux-mêmes une dimension fondamentale du bonheur humain."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2018 : La raison s'égare-t-elle dans la pratique religieuse ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La foi religieuse implique-t-elle nécessairement un renoncement à la rationalité et une soumission à l'illusion, ou la pratique religieuse peut-elle s'accorder avec la raison humaine ?",
+        "parties": [
+            {
+                "titre": "La pratique religieuse comme égarement et démission de la raison (Thèse)",
+                "arguments": [
+                    "Selon Voltaire, la foi superstitieuse et le dogmatisme religieux aveuglent la raison, favorisant le fanatisme, l'intolérance et l'irrationalité.",
+                    "Pour Marx, la religion est « l'opium du peuple », une illusion aliénante qui détourne la conscience rationnelle des réalités matérielles et sociales.",
+                    "La pratique religieuse repose sur le dogme, le mystère et la révélation, des principes qui contredisent l'exigence de preuve et de logique de la démarche rationnelle.",
+                    "La soumission aveugle aux rites et aux autorités religieuses peut entraver le libre examen et l'esprit critique de l'individu.",
+                    "L'explication magico-religieuse des phénomènes du monde substitue l'imaginaire à l'explication scientifique rigoureuse."
+                ]
+            },
+            {
+                "titre": "L'accord possible ou la complémentarité entre raison et pratique religieuse (Antithèse)",
+                "arguments": [
+                    "Selon Thomas d'Aquin, la raison et la foi sont deux voies d'accès complémentaires à la vérité, la raison permettant de théoriser et de comprendre les enseignements religieux.",
+                    "Pour Kant, la religion dans les limites de la simple raison offre un cadre moral et rationnel indispensable pour guider l'action humaine vers le souverain bien.",
+                    "La pratique religieuse apporte des réponses existentielles et éthiques aux questions morales que la raison scientifique laisse en suspens.",
+                    "Une foi réfléchie et épurée n'exclut pas le doute ni la rigueur intellectuelle dans l'interprétation des textes sacrés.",
+                    "La religion peut constituer une force de cohésion sociale et de solidarité rationnellement bénéfique à la stabilité communautaire."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2018 : Le rejet de la philosophie constitue-t-il un danger pour l'humanité ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'abandon de la réflexion philosophique condamne-t-il l'humanité à la barbarie et à l'aliénation, ou la philosophie est-elle une discipline spéculative dispensable au progrès humain ?",
+        "parties": [
+            {
+                "titre": "Le rejet de la philosophie comme menace grave pour la liberté et l'humanité (Thèse)",
+                "arguments": [
+                    "Pour Descartes, « c'est proprement avoir les yeux fermés, sans tâcher jamais de les ouvrir, que de vivre sans philosopher », affirmant ainsi la nécessité de la philosophie pour la conduite de la vie.",
+                    "Selon Socrate, « une vie sans examen ne vaut pas la peine d'être vécue », montrant que le refus du questionnement philosophique déchoit l'homme de sa dignité rationnelle.",
+                    "Sans l'esprit critique philosophique, l'humanité devient vulnérable à la manipulation idéologique, aux dogmatismes et au fanatisme.",
+                    "L'absence de réflexion éthique sur les sciences et les puissances techniques expose la société à des dérives inhumaines.",
+                    "Rejeter la philosophie revient à renoncer à la recherche des valeurs universelles de justice, de liberté et de vérité qui fondent la démocratie."
+                ]
+            },
+            {
+                "titre": "Les limites de la philosophie et la possibilité d'un progrès sans elle (Antithèse)",
+                "arguments": [
+                    "Marx affirme dans ses *Thèses sur Feuerbach* que « les philosophes n'ont fait qu'interpréter le monde ; ce qui importe, c'est de le transformer », dénonçant l'inutilité pratique de la seule spéculation.",
+                    "Selon Auguste Comte, l'esprit humain accède à l'état positif (scientifique) en dépassant l'état métaphysique (philosophique), rendant la philosophie abstraite obsolète.",
+                    "Le progrès matériel, médical et technologique s'accomplit principalement par les sciences exactes et les compétences techniques concrètes.",
+                    "Les normes morales, les coutumes et les lois juridiques peuvent suffire à maintenir l'ordre et l'harmonie sociale sans le recours aux théories philosophiques.",
+                    "La philosophie est parfois perçue comme un discours élitiste et stérile, déconnecté des urgences économiques et quotidiennes des hommes."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2019 : L'État peut-il faire l'économie de la violence ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La violence est-elle un composant structurel et inévitable du pouvoir étatique, ou l'État peut-il maintenir l'ordre et sa légitimité uniquement par la persuasion et le droit ?",
+        "parties": [
+            {
+                "titre": "La violence comme instrument intrinsèque et inévitable de l'État (Thèse)",
+                "arguments": [
+                    "Selon Max Weber, l'État se définit fondamentalement comme la communauté humaine qui revendique avec succès le « monopole de la violence physique légitime ».",
+                    "Pour Machiavel, le Prince doit savoir employer la force et la ruse pour maintenir le pouvoir et préserver la stabilité de la cité face aux passions humaines.",
+                    "La contrainte physique (police, armée, prisons) demeure le recours ultime de l'État pour faire respecter les lois face aux criminels et aux rébellions.",
+                    "À l'échelle internationale, l'État doit pouvoir exercer la force armée pour défendre la souveraineté nationale et le territoire contre les agressions extérieures.",
+                    "Sans la crainte d'une sanction coercive effective, les obligations juridiques risquent de rester de simples vœux pieux inappliqués."
+                ]
+            },
+            {
+                "titre": "Le dépassement de la violence par le droit et la légitimité démocratique (Antithèse)",
+                "arguments": [
+                    "Selon Rousseau, « le plus fort n'est jamais assez fort pour être toujours le maître, s'il ne transforme sa force en droit et l'obéissance en devoir », montrant l'infériorité de la violence par rapport à la légitimité.",
+                    "Pour Spinoza, la fin de l'État n'est pas de dominer par la terreur mais de libérer l'homme de la peur afin qu'il développe sa raison en sécurité.",
+                    "Un État démocratique privilégie la délibération, le dialogue social, l'éducation et le consensus plutôt que la contrainte brutale.",
+                    "L'usage excessif ou systématique de la force par l'État traduit sa faiblesse politique et ruine son autorité morale auprès des citoyens.",
+                    "L'État de droit substitue la justice institutionnelle et impartiale à la violence arbitraire pour régler pacifiquement les conflits."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2019 : Le progrès technique réduit-il la place de la religion dans la société ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'expansion de la maîtrise technologique et scientifique entraîne-t-elle la sécularisation et la régression inéluctable du fait religieux, ou la religion résiste-t-elle en répondant à des besoins inchangés ?",
+        "parties": [
+            {
+                "titre": "Le progrès technique favorise le recul et le désenchantement de la religion (Thèse)",
+                "arguments": [
+                    "Selon Max Weber, le progrès technique et scientifique entraîne le « désenchantement du monde », rejetant les explications magiques et religieuses au profit de la rationalité.",
+                    "Pour Auguste Comte, le développement des connaissances scientifiques et techniques fait passer l'humanité de l'âge théologique à l'âge positif.",
+                    "La maîtrise technique permet d'agir directement sur les maladies, la nature et le confort, réduisant le besoin d'implorer une protection divine mystique.",
+                    "La mentalité technicienne privilégie l'efficacité immédiate et la preuve matérielle, affaiblissant la culture du dogme et de la foi transcendante.",
+                    "La modernisation des sociétés s'accompagne d'une sécularisation des institutions et d'une relégation de la pratique religieuse à la sphère privée."
+                ]
+            },
+            {
+                "titre": "La permanence et la résurgence du besoin religieux face à la technique (Antithèse)",
+                "arguments": [
+                    "Selon Bergson dans *Les Deux Sources de la morale et de la religion*, l'accroissement de la puissance technique exige un « supplément d'âme » que seule la spiritualité peut offrir.",
+                    "Pour Hans Jonas, la puissance d'action de la technologie moderne crée de nouvelles angoisses éthiques et écologiques que la religion et la morale aident à cadrer.",
+                    "Le progrès technique ne répond pas au problème du sens de la vie, de la souffrance et de la mort, laissant le champ de l'espérance religieuse intact.",
+                    "Les technologies de communication modernes sont elles-mêmes utilisées par les courants religieux pour diffuser leurs messages et rassembler les croyants.",
+                    "Face aux dérives du scientisme et à la déshumanisation technologique, les individus cherchent un ancrage identitaire et spirituel dans les traditions religieuses."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2005 : « Plus on sait, plus on doute » Qu'en pensez-vous ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'accroissement du savoir conduit-il nécessairement à l'ébranlement des certitudes et à l'exercice du doute, ou la connaissance a-t-elle pour fin ultime d'établir des vérités inébranlables ?",
+        "parties": [
+            {
+                "titre": "L'extension du savoir approfondit la conscience de l'ignorance et stimule le doute (Thèse)",
+                "arguments": [
+                    "Selon Socrate, « Tout ce que je sais, c'est que je ne sais rien », montrant que la véritable sagesse commence par la prise de conscience des limites de son propre savoir.",
+                    "Pour René Descartes dans les *Méditations métaphysiques*, le doute méthodique est l'instrument même de l'esprit éclairé pour se libérer des préjugés et des fausses certitudes.",
+                    "Chaque découverte scientifique soulève de nouvelles interrogations complexes et révèle l'immensité de ce qui reste à comprendre.",
+                    "La culture scientifique et philosophique développe l'esprit critique, rendant l'individu méfiant à l'égard des dogmes et des vérités simplistes.",
+                    "La complexité du réel perçue par le savant interdit le dogmatisme et exige une remise en question permanente des théories établies."
+                ]
+            },
+            {
+                "titre": "Le savoir vise à surmonter le doute et à fonder des certitudes rationnelles (Antithèse)",
+                "arguments": [
+                    "Selon Baruch Spinoza dans l'*Éthique*, la connaissance du vrai dissipe le doute comme la lumière chasse les ténèbres, apportant la certitude à l'esprit.",
+                    "Pour Auguste Comte, l'esprit humain accède à l'état positif lorsqu'il établit des lois scientifiques rigoureuses qui remplacent l'incertitude des spéculations.",
+                    "Les démonstrations mathématiques et les sciences expérimentales produisent des connaissances vérifiables et universelles qui excluent le doute raisonnable.",
+                    "Si le doute devient systématique et absolu, il paralyse la pensée et l'action, menant au scepticisme stérile.",
+                    "Le progrès des connaissances permet d'apporter des réponses définitives à des problèmes techniques, médicaux et naturels autrefois mystérieux."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2005 : Peut-on soutenir que l'homme reste le même alors que l'humanité progresse ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'évolution scientifique, technique et sociale de l'humanité transforme-t-elle la nature profonde de l'être humain, ou l'homme conserve-t-il une structure existentielle, morale et biologique immuable ?",
+        "parties": [
+            {
+                "titre": "L'invariabilité de la nature humaine malgré les progrès collectifs (Thèse)",
+                "arguments": [
+                    "Selon Jean-Jacques Rousseau dans le *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*, le progrès des civilisations n'a pas rendu l'homme meilleur sur le plan moral.",
+                    "Pour Sigmund Freud dans *Malaise dans la culture*, les pulsions fondamentales (Eros et Thanatos) et la vulnérabilité psychique de l'homme demeurent identiques à travers les âges.",
+                    "L'homme reste confronté aux mêmes angoisses existentielles universelles : la finitude, la souffrance, la quête de sens et la mort.",
+                    "Les dérives barbares et les guerres du monde moderne prouvent que l'accumulation des connaissances ne supprime pas les passions destructrices.",
+                    "Sur le plan biologique et anatomique, les capacités naturelles de l'espèce humaine n'ont pas subi de mutation fondamentale à l'échelle de l'histoire."
+                ]
+            },
+            {
+                "titre": "La transformation de l'homme par le progrès historique et culturel de l'humanité (Antithèse)",
+                "arguments": [
+                    "Selon Karl Marx dans la *Sixième thèse sur Feuerbach*, l'essence humaine n'est pas une abstraction inhérente à chaque individu mais l'ensemble des rapports sociaux.",
+                    "Pour Jean-Paul Sartre dans *L'existentialisme est un humanisme*, « l'existence précède l'essence », ce qui signifie que l'homme se définit et se transforme continuellement par son histoire.",
+                    "L'éducation, les droits de l'homme et les lois façonnent des formes de conscience et de moralité supérieures à celles des époques primitives.",
+                    "Les progrès de la médecine et des technologies modifient l'expérience corporelle, l'espérance de vie et les modes de pensée de l'individu.",
+                    "L'homme contemporain développe de nouvelles compétences intellectuelles et une sensibilité éthique globale absentes du passé."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2004 : L'activité philosophique participe-t-elle au développement de la démocratie ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La réflexion philosophique constitue-t-elle le ferment critique et éthique indispensable à la cité démocratique, ou est-elle une spéculation théorique déconnectée des réalités politiques ?",
+        "parties": [
+            {
+                "titre": "La philosophie comme fondement et gardienne de l'esprit démocratique (Thèse)",
+                "arguments": [
+                    "Selon Socrate dans l'*Apologie de Socrate* de Platon, le philosophe est le « taon » qui stimule la cité et éveille le sens critique des citoyens contre les démagogues.",
+                    "Pour Immanuel Kant dans *Qu'est-ce que les Lumières ?*, la philosophie enseigne l'usage autonome de la raison, condition sine qua non de la liberté politique.",
+                    "L'activité philosophique remet en question les dogmes, l'arbitraire et les abus de pouvoir, favorisant le débat contradictoire et la recherche de la justice.",
+                    "Les concepts fondamentaux de la démocratie (séparation des pouvoirs, droits de l'homme, contrat social) sont issus du travail théorique des philosophes.",
+                    "En formant des citoyens capables de discernement éthique, la philosophie protège la société démocratique contre le fanatisme et la manipulation."
+                ]
+            },
+            {
+                "titre": "Les limites de l'influence philosophique sur le fonctionnement démocratique (Antithèse)",
+                "arguments": [
+                    "Selon Platon dans *La République*, le philosophe rejette la démocratie (qu'il considère comme le règne des opinions) au profit d'une aristocratie des savants.",
+                    "Pour Karl Marx dans les *Thèses sur Feuerbach*, la philosophie spéculative se contente de commenter le monde au lieu de transformer les structures politiques réelles.",
+                    "La démocratie repose sur la volonté populaire, le vote et le compromis pragmatique, tandis que la philosophie recherche des vérités idéales parfois intraitables.",
+                    "Le langage philosophique peut être perçu comme un discours abstrait et élitiste, éloigné des préoccupations quotidiennes du peuple.",
+                    "Une démocratie peut fonctionner grâce à des institutions juridiques et administratives solides sans que chaque citoyen pratique la philosophie."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2004 : Peut-on rendre raison de tout ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le principe de raison suffisante exige-t-il que chaque phénomène soit intelligible par la raison humaine, ou existe-t-il des domaines de l'existence qui échappent irréductiblement à la rationalité ?",
+        "parties": [
+            {
+                "titre": "L'exigence et l'ambition légitime de la raison à tout expliquer (Thèse)",
+                "arguments": [
+                    "Selon G.W. Leibniz à travers le principe de raison suffisante, rien n'est sans raison : tout événement possède une cause compréhensible en droit par l'esprit.",
+                    "Pour G.W.F. Hegel dans la *Philosophie du droit*, « ce qui est rationnel est réel, et ce qui est réel est rationnel », affirmant l'intelligibilité totale du monde.",
+                    "Les progrès spectaculaires des sciences démontrent que des phénomènes autrefois jugés mystérieux (maladies, éclipses) s'expliquent par des lois rationnelles.",
+                    "La recherche de la vérité exige de rejeter le fatalisme et l'irrationalisme pour soumettre chaque affirmation à l'examen de la preuve.",
+                    "Même les conduites humaines dures à comprendre ou les actes inconscients révèlent une logique interne lorsque la psychologie et la sociologie les analysent."
+                ]
+            },
+            {
+                "titre": "Les limites structurelles de la raison et l'irréductibilité du réel (Antithèse)",
+                "arguments": [
+                    "Selon Immanuel Kant dans la *Critique de la raison pure*, la raison humaine se heurte à des limites infranchissables dès qu'elle tente de dépasser l'expérience sensible (Dieu, la liberté, l'immortalité).",
+                    "Pour Blaise Pascal dans les *Pensées*, « la dernière démarche de la raison est de reconnaître qu'il y a une infinité de choses qui la dépassent ».",
+                    "Le sentiment amoureux, l'expérience esthétique et la foi religieuse relèvent de l'intuition et de l'émotion que la logique pure ne peut entièrement codifier.",
+                    "La physique quantique et les théories de l'incomplétude montrent qu'il existe une part d'indétermination et d'imprévisibilité au cœur de la matière et des mathématiques.",
+                    "L'origine première de l'univers et le sens ultime de l'existence demeurent des énigmes que la raison scientifique ne peut trancher définitivement."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2003 : Les mathématiques sont-elles l'idéal de toute science ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le modèle mathématique, par sa rigueur démonstrative et son exactitude, constitue-t-il l'étalon universel de la scientificité, ou chaque domaine du savoir exige-t-il une méthode propre adaptée à son objet ?",
+        "parties": [
+            {
+                "titre": "Les mathématiques comme modèle suprême de rigueur et de scientificité (Thèse)",
+                "arguments": [
+                    "Selon Galilée dans *L'Essayeur*, « le grand livre de la nature est écrit en langage mathématique », affirmant que la vraie connaissance de la réalité exige la quantification.",
+                    "Pour René Descartes dans les *Règles pour la direction de l'esprit*, la méthode mathématique (l'ordre des déductions) sert de modèle à toute recherche de la vérité.",
+                    "Les mathématiques offrent des démonstrations pures, nécessaires et universelles qui échappent aux erreurs de la perception sensible.",
+                    "Toute science expérimentale (physique, chimie) gagne en précision et en maturité lorsqu'elle parvient à mathematiser ses lois.",
+                    "La structure logique et axiomatique des mathématiques garantit une cohérence interne parfaite qu'aucune autre discipline ne dépasse."
+                ]
+            },
+            {
+                "titre": "La spécificité des autres sciences et l'insuffisance du modèle mathématique pur (Antithèse)",
+                "arguments": [
+                    "Selon Aristote dans l'*Éthique à Nicomaque*, il ne faut pas exiger le même degré de précision géométrique dans toutes les matières, sous peine de dénaturer le sujet d'étude.",
+                    "Pour Claude Bernard dans l'*Introduction à l'étude de la médecine expérimentale*, la biologie et les sciences du vivant exigent l'observation du concret et la méthode expérimentale que le calcul pur ne replace pas.",
+                    "Les sciences humaines (histoire, sociologie, psychologie) étudient des phénomènes singuliers et libres qui ne se réduisent pas à des équations numériques.",
+                    "Les mathématiques traitent d'objets abstraits et formels, tandis que les sciences de la nature doivent confronter leurs théories à l'épreuve de la réalité sensible.",
+                    "La réduction de la réalité à des données quantitatives risque d'omettre la dimension qualitative, complexe et vivante du monde."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2020 : La raison exclut-elle le mythe ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La pensée rationnelle et la pensée mythique s'excluent-elles radicalement, ou le mythe conserve-t-il une valeur et une fonction au sein même de la raison ?",
+        "parties": [
+            {
+                "titre": "La raison s'édifie en s'opposant au mythe (Thèse)",
+                "arguments": [
+                    "Le passage du mythos au logos en Grèce antique marque la naissance de la philosophie comme rupture avec les explications fabuleuses.",
+                    "La raison exige la preuve, la logique et la vérification expérimentale, là où le mythe repose sur le dogme et le merveilleux.",
+                    "La raison démystifie le monde en remplaçant les récits imaginaires et superstitieux par des lois scientifiques rigoureuses.",
+                    "Le mythe peut maintenir l'esprit dans la crédulité et l'illusion, obstacle au libre examen et au progrès intellectuel.",
+                    "La démarche rationnelle vise l'universalité objective, tandis que le mythe reste souvent lié à une culture ou un imaginaire particulier."
+                ]
+            },
+            {
+                "titre": "Le mythe conserve une valeur fondamentale pour la raison (Antithèse)",
+                "arguments": [
+                    "Platon lui-même utilise des mythes (ex: l'allégorie de la caverne) pour faire comprendre des vérités philosophiques complexes.",
+                    "La raison a des limites cognitives et ne peut pas tout expliquer scientifiquement, notamment le sens de l'existence.",
+                    "Le mythe apporte une réponse symbolique aux questions existentielles et morales que la science et la logique pure laissent en suspens.",
+                    "Les récits mythiques traduisent des structures psychologiques et culturelles profondes nécessaires à la cohésion sociale.",
+                    "La raison sans imaginaire risque de devenir un scientisme froid, incapable d'exprimer la totalité de l'expérience humaine."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2020 : Le droit lutte-t-il contre l'inégalité et l'injustice ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Dans quelle mesure l'institution juridique constitue-t-elle un instrument efficace de justice sociale, ou peut-elle au contraire pérenniser des injustices et des inégalités ?",
+        "parties": [
+            {
+                "titre": "Le droit a pour vocation fondamentale de corriger l'injustice et d'assurer l'égalité (Thèse)",
+                "arguments": [
+                    "Selon Rousseau, le contrat social et les lois permettent de remplacer la loi du plus fort par une égalité de droit entre les citoyens.",
+                    "La Déclaration des droits de l'homme affirme l'égalité juridique fondamentale de tous les individus devant la loi.",
+                    "Les lois protègent les plus faibles contre l'arbitraire, la violence et l'oppression des plus puissants.",
+                    "Le droit positif crée des institutions judiciaires impartiales chargées de sanctionner les transgressions et de réparer les préjudices.",
+                    "L'évolution du droit permet d'inscrire de nouveaux droits sociaux pour réduire activement les inégalités réelles."
+                ]
+            },
+            {
+                "titre": "Les limites du droit : un outil parfois complice ou créateur d'inégalités (Antithèse)",
+                "arguments": [
+                    "Marx souligne que le droit bourgeois sert souvent à légitimer et protéger les intérêts de la classe dominante et la propriété privée.",
+                    "L'application stricte de la loi (summum jus) peut parfois conduire à de véritables injustices concrètes si elle ne tient pas compte du contexte.",
+                    "L'égalité purement formelle garantie par la loi ne suffit pas à supprimer les inégalités économiques et sociales réelles.",
+                    "Certaines lois historiques ou contemporaines ont été explicitement conçues pour maintenir des discriminations ou des privilèges.",
+                    "L'accès à la justice reste inégal selon les ressources financières et le capital culturel dont disposent les individus."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2016 : Doit-on défier la légalité pour l'égalité ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La désobéissance aux lois d'un État constitue-t-elle un devoir légitime lorsque celles-ci consacrent ou perpétuent des injustices et des inégalités, ou le respect inconditionnel de l'ordre juridique reste-t-il indispensable pour préserver la paix sociale ?",
+        "parties": [
+            {
+                "titre": "La légitimité de défier les lois injustes pour conquérir ou défendre une véritable égalité (Thèse)",
+                "arguments": [
+                    "Selon Henry David Thoreau dans *La désobéissance civile*, lorsque la loi est un instrument d'injustice, le citoyen a le devoir moral de refuser de lui obéir pour rester fidèle à sa conscience.",
+                    "Pour John Locke dans le *Second Traité du gouvernement civil*, le peuple possède un droit de résistance à l'oppression lorsque le souverain viole les droits naturels fondamentaux de tous.",
+                    "L'histoire montre que de grandes conquêtes d'égalité sociale et civique (lutte contre la ségrégation, droits des femmes) se sont faites par la contestation directe de lois légales mais injustes.",
+                    "La légalité pure n'est que la forme du droit, tandis que la justice et l'égalité en forment le contenu moral ; la forme ne doit pas étouffer le fond.",
+                    "Le respect passif d'un ordre légal profondément inégalitaire revient à se faire le complice de l'oppression ou des privilèges d'une minorité."
+                ]
+            },
+            {
+                "titre": "Les risques de l'illégalité et la primauté de l'ordre juridique pour la vie commune (Antithèse)",
+                "arguments": [
+                    "Selon Thomas Hobbes dans le *Léviathan*, contester la loi positive au nom d'un idéal individuel risque de faire sombrer la société dans l'anarchie et le retour à l'état de nature.",
+                    "Pour Immanuel Kant dans *Sur le dicton : Cela est peut-être vrai en théorie...*, le respect de la légalité doit être absolu, car autoriser la désobéissance détruit le fondement même du contrat social.",
+                    "Si chaque groupe décide arbitrairement quelles lois respecter au nom de sa propre conception de l'égalité, la règle de droit universelle disparaît au profit du désordre.",
+                    "Les démocraties offrent des mécanismes légaux et institutionnels (réformes, votes, manifestations réglementées) pour faire évoluer le droit vers plus d'égalité sans violence.",
+                    "La véritable égalité repose sur le principe de l'État de droit, où tous les citoyens sont soumis à la même loi, y compris lorsque celle-ci est imparfaite."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2016 : L'essor de la technique doit-il susciter la crainte ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le développement exponentiel des capacités technologiques menace-t-il l'autonomie, l'environnement et l'existence même de l'humanité, ou la technique reste-t-elle un simple outil libérateur et perfectible au service du progrès ?",
+        "parties": [
+            {
+                "titre": "Les raisons légitimes de redouter les dérives du pouvoir technologique moderne (Thèse)",
+                "arguments": [
+                    "Selon Hans Jonas dans *Le Principe responsabilité*, la puissance sans précédent de la technique moderne exige d'adopter une « heuristique de la peur » pour anticiper les catastrophes irréversibles (écologiques, génétiques).",
+                    "Pour Martin Heidegger dans *La question de la technique*, la technique moderne réduit la nature et l'homme à de simples « stocks » ou ressources exploitables, aliénant l'esprit humain.",
+                    "L'automatisation et le développement des technologies numériques risquent de dévaloriser le travail humain, d'accroître le contrôle social et de détruire les libertés individuelles.",
+                    "La prolifération des armes de destruction massive et les manipulations du vivant mettent directement en péril la survie de l'espèce humaine.",
+                    "L'homme semble parfois dépassé par ses propres créations techniques, perdant la maîtrise du rythme de l'innovation."
+                ]
+            },
+            {
+                "titre": "La technique comme instrument d'émancipation et d'amélioration des conditions de vie (Antithèse)",
+                "arguments": [
+                    "Selon René Descartes dans le *Discours de la méthode*, la maîtrise scientifique et technique doit nous rendre « comme maîtres et possesseurs de la nature », libérant l'homme du besoin, du labeur pénible et des maladies.",
+                    "Pour Gilbert Simondon dans *Du mode d'existence des objets techniques*, la technique est un prolongement de la culture humaine qui mérite d'être comprise et intégrée sans phobie irrationnelle.",
+                    "Les avancées de la médecine, de l'agriculture moderne et des transports ont permis d'allonger la durée de vie et d'améliorer le bien-être de milliards de personnes.",
+                    "Ce n'est pas la technique en elle-même qui est menaçante, mais l'usage politique, économique et moral que les hommes choisissent d'en faire.",
+                    "Face aux défis contemporains (crise climatique, transition énergétique), ce sont de nouvelles innovations techniques plus sobres et responsables qui apporteront les solutions."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2006 : L'histoire est-elle un destin ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "Le cours des événements humains est-il déterminé par des lois fatales et irréversibles qui échappent au contrôle de l'homme, ou l'histoire est-elle le produit de la liberté et de la responsabilité humaines ?",
+        "parties": [
+            {
+                "titre": "L'histoire comme enchaînement fatal et prédéterminé (Thèse)",
+                "arguments": [
+                    "Selon G.W.F. Hegel dans la *Raison dans l'histoire*, la Raison gouverne le monde et se réalise à travers la « ruse de la raison », utilisant les passions humaines pour accomplir sa propre fin.",
+                    "Pour Karl Marx dans la préface de la *Contribution à la critique de l'économie politique*, le matérialisme historique montre que les structures socio-économiques déterminent inévitablement le cours de l'histoire humaine.",
+                    "L'homme subit le poids des héritages culturels, géopolitiques et institutionnels qui conditionnent ses choix sans qu'il puisse repartir de zéro.",
+                    "Les grandes crises historiques (guerres, évolutions techniques) échappent souvent à la volonté individuelle des acteurs qui prétendent les diriger.",
+                    "La conscience d'un destin collectif naît de l'impuissance constatée des individus face à la répétition de tragédies et de cycles historiques."
+                ]
+            },
+            {
+                "titre": "L'histoire comme champ d'action de la liberté et de la contingence (Antithèse)",
+                "arguments": [
+                    "Selon Jean-Paul Sartre dans *L'existentialisme est un humanisme*, l'homme est condamné à être libre et reste le seul créateur de son histoire à travers ses choix et ses engagements.",
+                    "Pour Hannah Arendt dans *Condition de l'homme moderne*, la faculté d'agir confère à l'homme le pouvoir d'initier du neuf imprévisible et d'interrompre les processus fatals.",
+                    "L'histoire n'est pas un texte écrit à l'avance ; elle est traversée par des ruptures, des révolutions et des événements imprévus.",
+                    "L'idée de fatalité historique risque de déresponsabiliser les individus et de légitimer la résignation face aux injustices de leur époque.",
+                    "Les institutions démocratiques et les luttes sociales prouvent que la volonté politique peut transformer et réorienter les sociétés."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2006 : Suffit-il d'appliquer le droit pour que règne la justice ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'obéissance rigoureuse aux lois positives d'un État garantit-elle par elle-même l'équité et le respect des droits fondamentaux, ou la vraie justice exige-t-elle de dépasser ou d'amender la simple légalité ?",
+        "parties": [
+            {
+                "titre": "L'application stricte du droit, condition indispensable de la justice (Thèse)",
+                "arguments": [
+                    "Selon Thomas Hobbes dans le *Léviathan*, il n'y a pas de justice hors de la loi positive de l'État, car la loi protège les individus contre l'arbitraire et le chaos.",
+                    "Pour Immanuel Kant dans *Doctrine du droit*, le respect inconditionnel de la légalité garantit l'ordre public et l'égalité formelle de tous les citoyens devant la justice.",
+                    "L'application impartiale des codes juridiques évite la vengeance personnelle et garantit la sécurité juridique nécessaire à la vie sociale.",
+                    "Sans règles écrites et procédures contraignantes, le sentiment de justice reste subjectif, contradictoire et générateur de conflits.",
+                    "La stabilité d'une société repose sur le principe de prévisibilité que seule l'application systématique de la règle de droit autorise."
+                ]
+            },
+            {
+                "titre": "Les insuffisances de la légalité et la nécessité de l'équité (Antithèse)",
+                "arguments": [
+                    "Selon Aristote dans l'*Éthique à Nicomaque*, l'équité est un correctif de la loi écrite lorsque la généralité de la règle s'avère injuste appliquée à un cas particulier.",
+                    "Pour Henry David Thoreau dans *La désobéissance civile*, la loi peut elle-même être injuste (ex: l'esclavage) ; la conscience morale a alors le devoir de s'opposer à l'application du droit.",
+                    "L'application aveugle ou positiviste du droit (« summum jus, summa injuria ») peut conduire à des absurdités ou à des opressions institutionnalisées.",
+                    "La justice formelle ne garantit pas la justice sociale si les conditions économiques et matérielles d'exercice des droits sont profondément inégales.",
+                    "Le droit doit continuellement s'inspirer d'idéaux moraux et de droits humains universels pour éviter de se figer dans un légalisme stérile."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2008 : L'avenir est-il une page blanche ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'avenir est-il un espace totalement ouvert où s'exprime la liberté créatrice de l'homme, ou est-il prédéterminé par les héritages du passé, les lois naturelles et les tendances du présent ?",
+        "parties": [
+            {
+                "titre": "L'avenir comme projet et création autonome (Thèse)",
+                "arguments": [
+                    "Selon Jean-Paul Sartre, « l'homme n'est rien d'autre que ce qu'il se fait » ; le futur n'est pas écrit et dépend entièrement des choix et des actes de l'individu.",
+                    "Pour Henri Bergson dans *L'Évolution créatrice*, le temps réel (la durée) est création continue d'imprévisible nouveauté, interdisant toute prédiction exacte.",
+                    "L'innovation scientifique, la création artistique et l'action politique ouvrent régulièrement des horizons inédits et inattendus.",
+                    "Traiter le futur comme une page blanche motive l'espoir, la responsabilité et l'engagement collectif dans l'édification du monde.",
+                    "Les modèles prédictifs échouent souvent à anticiper les grandes ruptures historiques et scientifiques en raison de la contingence."
+                ]
+            },
+            {
+                "titre": "Les pesanteurs du passé et les déterminismes qui façonnent le futur (Antithèse)",
+                "arguments": [
+                    "Selon Baruch Spinoza, la méconnaissance des causes réelles qui nous déterminent nous donne l'illusion de la liberté absolue face au futur.",
+                    "Pour Karl Marx, « les hommes font leur propre histoire, mais ils ne la font pas arbitrairement » ; le passé légué pèse d'un poids très lourd sur le présent.",
+                    "Les lois physiques, biologiques et climatiques fixent des limites infranchissables aux projets humains pour l'avenir.",
+                    "Les structures socio-économiques et démographiques imposent des tendances de long terme qui orientent l'avenir de façon prévisible.",
+                    "Considérer l'avenir comme une page blanche risque de faire oublier la mémoire collective et d'entraîner des dérives utopiques irréalistes."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2015 : Le progrès technique peut-il ruiner la foi religieuse ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'explication technique et scientifique des lois de la nature élimine-t-elle la nécessité des croyances religieuses, ou la foi relève-t-elle d'un ordre d'existence irréductible à la maîtrise matérielle du monde ?",
+        "parties": [
+            {
+                "titre": "L'essor technique comme facteur de démystification et de sécularisation du monde (Thèse)",
+                "arguments": [
+                    "Selon Max Weber dans *L'Éthique protestante et l'esprit du capitalisme*, le rationalisme scientifique et la technique entraînent un « désenchantement du monde » qui affaiblit le sacré.",
+                    "Pour Auguste Comte, la loi des trois états montre que l'esprit humain passe de l'état théologique à l'état positif, remplaçant la foi par la connaissance des lois techniques et scientifiques.",
+                    "La maîtrise technique des maladies et des catastrophes naturelles rend caduques les explications surnaturelles ou le recours aux prières d'intercession.",
+                    "Le développement de l'outillage matériel et du confort individuel focalise l'existence humaine sur l'immanence au détriment de la transcendance.",
+                    "Les découvertes technico-scientifiques remettent directement en cause certains récits dogmatiques des textes sacrés."
+                ]
+            },
+            {
+                "titre": "L'autonomie de la foi et les limites du pouvoir technique (Antithèse)",
+                "arguments": [
+                    "Selon Blaise Pascal dans la distinction entre l'esprit de géométrie et l'esprit de finesse, la foi est d'un autre ordre que la raison calculatrice (« Le cœur a ses raisons que la raison ne connaît point »).",
+                    "Pour Hans Jonas dans *Le Principe responsabilité*, le progrès technique illimité crée de nouveaux risques éthiques et existentiels exigeant un retour aux valeurs morales ou spirituelles.",
+                    "La technique répond au « comment » des phénomènes, mais reste impuissante devant le « pourquoi » : le sens de la vie, la souffrance et la mort.",
+                    "La quête du sacré et du salut relève de l'expérience intérieure de l'individu que le confort technologique ne comble pas.",
+                    "Dans un monde hyper-technologisé, la croyance religieuse peut trouver un nouveau rôle de refuge spirituel et de repère identitaire."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2014 : Le bonheur est-il accessible à l'homme ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "L'être humain peut-il parvenir à un état de satisfaction totale et durable, ou sa condition est-elle vouée à la quête permanente, au désir insatisfait et à l'angoisse ?",
+        "parties": [
+            {
+                "titre": "Le bonheur comme souverain bien accessible par la sagesse et la maîtrise de soi (Thèse)",
+                "arguments": [
+                    "Selon Epicure dans la *Lettre à Ménécée*, le bonheur est accessible à tous par la recherche des plaisirs simples (ataraxie) et la libération des craintes superstitieuses.",
+                    "Pour Epictète dans le *Manuel*, le stoïcisme enseigne que le bonheur s'obtient en distinguant ce qui dépend de nous de ce qui n'en dépend pas.",
+                    "Aristote affirme dans l'*Éthique à Nicomaque* que le bonheur est le but ultime de la vie humaine et qu'il s'atteint par l'exercice des vertus rationnelles.",
+                    "Le développement des capacités intellectuelles, des relations affectives et de l'harmonie avec la nature procure un sentiment de plénitude durable.",
+                    "La modération des désirs et la sérénité de l'esprit permettent d'éprouver un bonheur authentique au quotidien."
+                ]
+            },
+            {
+                "titre": "L'illusion du bonheur durable face aux limites de la condition humaine (Antithèse)",
+                "arguments": [
+                    "Selon Arthur Schopenhauer dans *Le Monde comme volonté et comme représentation*, la vie oscille comme un pendule entre la souffrance du désir insatisfait et l'ennui de la sasiété.",
+                    "Pour Sigmund Freud dans *Malaise dans la culture*, le bonheur n'est pas inscrit dans le plan de la Création ; la civilisation exige le renoncement aux pulsions fondamentales.",
+                    "La vulnérabilité du corps humain à la maladie, à la vieillesse et la conscience inéluctable de la mort altèrent toute félicité permanente.",
+                    "Le désir humain est par essence illimité, ce qui condamne l'homme à une quête sans fin où la satisfaction n'est que passagère.",
+                    "Les injustices sociales et les tragédies collectives empêchent la réalisation d'un état de quiétude absolu."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2026 : Doit-on limiter la conscience à ce que l'on voit ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La conscience se restreint-elle au seul domaine de la perception sensible immédiate, ou s'étend-elle nécessairement à des réalités invisibles, abstraites et réflexives ?",
+        "parties": [
+            {
+                "titre": "La perception sensible comme ancrage initial et borne empirique de la conscience (Thèse)",
+                "arguments": [
+                    "Selon l'empirisme (Locke, Hume), toutes nos idées et représentations mentales proviennent directement des expériences et impressions reçues par les sens.",
+                    "Ce que l'on voit et perçoit directement constitue le critère le plus solide de certitude factuelle et d'ancrage dans la réalité objective.",
+                    "Limiter la conscience au visible et au vérifiable protège l'esprit contre les spéculations métaphysiques arbitraires et les illusions de l'imagination.",
+                    "En science expérimentale, la conscience doit s'appuyer sur l'observation des phénomènes visibles pour valider toute théorie rationnelle.",
+                    "La perception visuelle et sensible est le premier vecteur de l'attention qui maintient l'homme en prise directe avec son environnement immédiat."
+                ]
+            },
+            {
+                "titre": "La conscience dépasse largement le champ restreint du visible et du sensible (Antithèse)",
+                "arguments": [
+                    "Pour Descartes, la conscience de soi (le *Cogito*) est une intuition purement intellectuelle qui ne dépend aucunement des sens, lesquels peuvent nous tromper.",
+                    "La conscience embrasse des réalités invisibles mais fondamentales comme le temps, les émotions, la pensée abstraite et les concepts mathématiques.",
+                    "La conscience morale nous fait percevoir le bien, le juste et le devoir, des valeurs intelligibles qui ne s'offrent pas directement à la vue.",
+                    "Grâce à l'imagination, à la mémoire et à la réflexivité, la conscience s'affranchit du présent visible pour se projeter dans le passé et le futur.",
+                    "La physique moderne montre elle-même que la réalité fondamentale (ondes, atomes) échappe à la vue directe et exige une conscience théorique élaborée."
+                ]
+            }
+        ]
+    },
+    {
+        "citation": "BAC 2014 : Doit-on surestimer la science ?",
+        "auteur": "Sujet de réflexion philosophique",
+        "problematisation": "La science constitue-t-elle l'unique guide légitime pour la connaissance du réel et le progrès humain, ou faut-il critiquer le scientisme et reconnaître ses limites cognitives et éthiques ?",
+        "parties": [
+            {
+                "titre": "Les raisons d'accorder une valeur éminente au savoir scientifique (Thèse)",
+                "arguments": [
+                    "Selon Karl Popper dans *La logique de la découverte scientifique*, la méthode scientifique offre un savoir rigoureux, vérifiable et soumis à la réfutation empirique.",
+                    "Pour René Descartes, la science permet de se rendre « comme maîtres et possesseurs de la nature », améliorant concrètement la vie humaine.",
+                    "La science a débarrassé l'esprit humain des superstitions, des dogmes aveugles et des explications magiques de l'univers.",
+                    "Les retombées technologiques et médicales de la science ont considérablement augmenté l'espérance et la qualité de vie de l'humanité.",
+                    "L'universalité de la rationalité scientifique constitue un langage commun susceptible d'unir l'esprit humain au-delà des cultures."
+                ]
+            },
+            {
+                "titre": "Les méfaits du scientisme et les limites éthiques de la connaissance scientifique (Antithèse)",
+                "arguments": [
+                    "Selon Edmund Husserl dans *La crise des sciences européennes*, la science moderne s'est abstraite du « monde de la vie » et ne peut répondre aux questions du sens de l'existence.",
+                    "Pour François Rabelais, « science sans conscience n'est que ruine de l'âme », soulignant que le savoir technique dépourvu d'éthique peut conduire à des catastrophes.",
+                    "Le scientisme fait l'erreur de réduire la totalité de l'expérience humaine (art, morale, philosophie) à ce qui est mesurable et quantifiable.",
+                    "Les applications scientifiques incontrôlées ont engendré des dégradations écologiques majeures et la menace d'armes de destruction massive.",
+                    "La science ne fournit pas par elle-même de principes moraux ou politiques ; elle dit ce qui est, non ce qui doit être."
+                ]
+            }
+        ]
+    }
+]

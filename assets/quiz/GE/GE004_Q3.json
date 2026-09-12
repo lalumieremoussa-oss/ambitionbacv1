@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "GE004_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est un obstacle à l’intégration CEDEAO ?",
+      "réponses": {
+        "A": "Bonne gouvernance",
+        "B": "Stabilité politique",
+        "C": "Conflits internes et instabilité",
+        "D": "Monnaie unique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi l’ouverture maritime est-elle un atout ?",
+      "réponses": {
+        "A": "Elle rend les pays dépendants",
+        "B": "Elle facilite les échanges internationaux et l'aménagement",
+        "C": "Elle empêche l'industrialisation",
+        "D": "Elle provoque des conflits entre États"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Les produits d’élevage sont dominants dans :",
+      "réponses": {
+        "A": "Cap-Vert",
+        "B": "Mali, Niger, Burkina Faso",
+        "C": "Sénégal et Liberia",
+        "D": "Nigeria et Ghana"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le Sénégal est un grand producteur de :",
+      "réponses": {
+        "A": "Coton",
+        "B": "Arachide",
+        "C": "Cacao",
+        "D": "Café"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel est le pourcentage des exportations de la CEDEAO vers l’Occident ?",
+      "réponses": {
+        "A": "20%",
+        "B": "50%",
+        "C": "80%",
+        "D": "100%"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle caractéristique décrit le relief de la CEDEAO ?",
+      "réponses": {
+        "A": "Des montagnes très élevées",
+        "B": "Des surfaces planes avec une large ouverture maritime",
+        "C": "Un désert plat et sec",
+        "D": "Des vallées profondes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle affirmation est juste concernant l’industrie CEDEAO ?",
+      "réponses": {
+        "A": "Très développée dans tous les domaines",
+        "B": "Faiblement développée mais en croissance dans l’agro-industrie",
+        "C": "Uniquement concentrée au Nigeria",
+        "D": "Inexistante"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel pays est le premier producteur de cacao dans la CEDEAO ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Côte d’Ivoire",
+        "C": "Togo",
+        "D": "Niger"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle organisation militaire a été créée par la CEDEAO ?",
+      "réponses": {
+        "A": "ONU",
+        "B": "OTAN",
+        "C": "ECOMOG",
+        "D": "UA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est le pays membre de la CEDEAO qui est un archipel ?",
+      "réponses": {
+        "A": "Guinée",
+        "B": "Nigeria",
+        "C": "Cap-Vert",
+        "D": "Sierra Leone"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Combien d’États restent activement membres de la CEDEAO après les retraits récents ?",
+      "réponses": {
+        "A": "15 États dont 3 suspendus",
+        "B": "14 États",
+        "C": "12 États",
+        "D": "10 États"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle est la langue qui n’est pas utilisée officiellement dans la CEDEAO ?",
+      "réponses": {
+        "A": "Anglais",
+        "B": "Français",
+        "C": "Portugais",
+        "D": "Espagnol"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "La population de la CEDEAO est un atout car :",
+      "réponses": {
+        "A": "Elle est vieillissante et stable",
+        "B": "Elle est jeune, nombreuse et active",
+        "C": "Elle est peu instruite et immobile",
+        "D": "Elle est concentrée en zones arides"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel pays est riche en uranium ?",
+      "réponses": {
+        "A": "Bénin",
+        "B": "Niger",
+        "C": "Togo",
+        "D": "Guinée-Bissau"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel projet a été financé par la CEDEAO ?",
+      "réponses": {
+        "A": "Une centrale nucléaire au Cap-Vert",
+        "B": "Le reboisement au Sahel",
+        "C": "La construction du barrage d’Inga",
+        "D": "L’exploitation de la forêt équatoriale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel secteur industriel est en croissance dans la CEDEAO ?",
+      "réponses": {
+        "A": "La fabrication automobile",
+        "B": "L’agro-industrie",
+        "C": "Les hautes technologies",
+        "D": "Le spatial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel pays est grand producteur de bauxite et manganèse ?",
+      "réponses": {
+        "A": "Ghana",
+        "B": "Niger",
+        "C": "Cap-Vert",
+        "D": "Sénégal"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quels États profitent de l’hydroélectricité ?",
+      "réponses": {
+        "A": "Guinée et Togo",
+        "B": "Nigeria et Liberia",
+        "C": "Côte d’Ivoire et Ghana",
+        "D": "Sierra Leone et Cap-Vert"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle structure a été créée pour favoriser le financement régional ?",
+      "réponses": {
+        "A": "BOAD",
+        "B": "Banque Centrale Africaine",
+        "C": "ECOBANK",
+        "D": "FONGAF"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel événement culturel est soutenu par la CEDEAO ?",
+      "réponses": {
+        "A": "Miss CEDEAO",
+        "B": "Jeux Olympiques Africains",
+        "C": "Festival Panafricain",
+        "D": "Sommet des Jeunes Leaders"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

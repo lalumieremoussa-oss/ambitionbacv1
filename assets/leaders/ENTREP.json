@@ -1,0 +1,76 @@
+[
+  {
+    "id": "ENTREP001",
+    "titre": "Découverte des secteurs",
+    "lecons": [
+      {
+        "id": "ENTREP001_L1",
+        "titre": "Agro business"
+      },
+      {
+        "id": "ENTREP001_L2",
+        "titre": "Les métiers de la santé"
+      },
+      {
+        "id": "ENTREP001_L3",
+        "titre": "Les métiers du numérique"
+      },
+      {
+        "id": "ENTREP001_L4",
+        "titre": "Les métiers de l'environnement et des énergies"
+      },
+      {
+        "id": "ENTREP001_L5",
+        "titre": "Les métiers de l'ingénierie"
+      }
+    ]
+  },
+  {
+    "id": "ENTREP002",
+    "titre": "Construire son projet",
+    "lecons": [
+      {
+        "id": "ENTREP002_L1",
+        "titre": "La nécessité d'intégrer l'entrepreneuriat dans son parcours"
+      },
+      {
+        "id": "ENTREP002_L2",
+        "titre": "Choisir un domaine qui correspond à ses talents"
+      },
+      {
+        "id": "ENTREP002_L3",
+        "titre": "Observer son environnement et Identifier un problème prioritaire."
+      },
+      {
+        "id": "ENTREP002_L4",
+        "titre": "Construire une solution et présenter son projet."
+      }
+    ]
+  },
+  {
+    "id": "ENTREP003",
+    "titre": "Compétences et outils numériques",
+    "lecons": [
+      {
+        "id": "ENTREP003_L1",
+        "titre": "Créer un CV et une présentation numérique"
+      },
+      {
+        "id": "ENTREP003_L2",
+        "titre": "Découvrir les avantages et les inconvénients de l'IA"
+      },
+      {
+        "id": "ENTREP003_L3",
+        "titre": "l'IA et la stratégie marketing"
+      },
+      {
+        "id": "ENTREP003_L4",
+        "titre": "Créer des visuels et vidéos promotionnels grâce à l'IA"
+      },
+      {
+        "id": "ENTREP003_L5",
+        "titre": "Les outils numériques pour gérer un projet"
+      }
+    ]
+  }
+]

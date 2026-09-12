@@ -1,0 +1,525 @@
+{
+  "title": "Quiz Allemand 1 - Le Groupe Nominal",
+  "id": "DE04_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez le groupe nominal : \"une grande maison\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "ein Haus groß",
+        "B": "das große Haus",
+        "C": "ein Haus toll",
+        "D": "ein großes Haus"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle est la traduction correcte de : \"le livre d'Ali\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "das Buch von Ali",
+        "B": "Alis Buch",
+        "C": "Buch Alis",
+        "D": "Ali sein Buch"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Complétez correctement pour traduire : \"son père\" (le père d'un homme)",
+      "type": "QCM",
+      "réponses": {
+        "A": "ihr Vater",
+        "B": "unser Vater",
+        "C": "euer Vater",
+        "D": "sein Vater"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle est la structure correcte d'un groupe nominal en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Déterminant + Nom + Adjectif",
+        "B": "Adjectif + Nom + Déterminant",
+        "C": "Déterminant + Adjectif + Nom",
+        "D": "Nom + Adjectif + Déterminant"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Traduisez correctement : \"leur école\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "seine Schule",
+        "B": "ihre Schule (singulier)",
+        "C": "unsere Schule",
+        "D": "ihre Schule (pluriel)"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Complétez correctement pour traduire : \"son sac\" (le sac d'une femme)",
+      "type": "QCM",
+      "réponses": {
+        "A": "ihre Tasche",
+        "B": "seine Tasche",
+        "C": "meine Tasche",
+        "D": "deine Tasche"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle est l'expression correcte pour : \"la salle de classe des étudiants\" (pluriel - génitif) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "das Klassenzimmer des Studenten",
+        "B": "das Klassenzimmer von den Studenten",
+        "C": "die Studenten Klassenzimmer",
+        "D": "das Klassenzimmer der Studenten"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quelle est la traduction française de \"meine kleine Tasche\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "ma grande maison",
+        "B": "ma valise",
+        "C": "mon petit sac",
+        "D": "ma sœur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel pronom possessif traduit \"notre/nos\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "unser",
+        "B": "euer",
+        "C": "ihr",
+        "D": "mein"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle est la traduction correcte de \"la couleur de la voiture\" (objet) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "des Autos Farbe",
+        "B": "die Farbe des Autos",
+        "C": "Auto Farbe",
+        "D": "die Farbe zu dem Auto"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"mon petit sac\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Tasche",
+        "kleine",
+        "ihre",
+        "große",
+        "Zimmer",
+        "meine"
+      ],
+      "bonne réponse": "meine kleine Tasche"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"la voiture rouge\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "rote",
+        "saubere",
+        "das",
+        "Haus",
+        "ein",
+        "Auto"
+      ],
+      "bonne réponse": "das rote Auto"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"notre maison est propre\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "ihr",
+        "Haus",
+        "nah",
+        "ein",
+        "Unser",
+        "Schule",
+        "sauber"
+      ],
+      "bonne réponse": "Unser Haus ist sauber"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"le livre de l'élève\" (masculin singulier)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Schülers",
+        "ein",
+        "auf",
+        "Buch",
+        "neues",
+        "des",
+        "ist",
+        "Lehrers"
+      ],
+      "bonne réponse": "das Buch des Schülers"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"son livre est sur la table\" (livre d'un homme)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "an",
+        "Tisch",
+        "sein",
+        "dem",
+        "Zimmer",
+        "ihr",
+        "Buch",
+        "ein",
+        "ist",
+        "auf",
+        "sauber",
+        "mein"
+      ],
+      "bonne réponse": "sein Buch ist auf dem Tisch"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"le nom de mon père\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mutters",
+        "ist",
+        "ein",
+        "Vaters",
+        "der",
+        "Schwester",
+        "meines",
+        "Name"
+      ],
+      "bonne réponse": "der Name meines Vaters"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"J'ai une petite chambre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "Zimmer",
+        "ein",
+        "Ich",
+        "großes",
+        "das",
+        "zu",
+        "kleines",
+        "mein",
+        "habe"
+      ],
+      "bonne réponse": "Ich habe ein kleines Zimmer"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"leurs amis sont gentils\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "sind",
+        "unsere",
+        "nett",
+        "schlecht",
+        "Ihre",
+        "meine",
+        "Freunde"
+      ],
+      "bonne réponse": "Ihre Freunde sind nett"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je lis mon livre\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mein",
+        "dein",
+        "mache",
+        "Buch",
+        "lese",
+        "Schwester",
+        "Ich",
+        "höre"
+      ],
+      "bonne réponse": "Ich lese mein Buch"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"mon ami est à l'école\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Haus",
+        "in",
+        "ein",
+        "Schule",
+        "Mein",
+        "der",
+        "zu",
+        "Freund",
+        "ihr",
+        "ist"
+      ],
+      "bonne réponse": "Mein Freund ist in der Schule"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"la fenêtre de ma chambre est ouverte\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "offen",
+        "groß",
+        "das",
+        "Vaters",
+        "Fenster",
+        "ist",
+        "Tür",
+        "meines",
+        "sauber",
+        "ein",
+        "an",
+        "Zimmers"
+      ],
+      "bonne réponse": "das Fenster meines Zimmers ist offen"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"la salle de classe des enfants\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Klassenzimmer",
+        "ein",
+        "mein",
+        "großes",
+        "Lehrer",
+        "Das",
+        "ist",
+        "Kinder",
+        "der"
+      ],
+      "bonne réponse": "Das Klassenzimmer der Kinder"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"le nom de l'école\" (objet)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Schule",
+        "zu",
+        "Der",
+        "Auto",
+        "der",
+        "Name",
+        "ein",
+        "ist",
+        "von",
+        "mein"
+      ],
+      "bonne réponse": "Der Name der Schule"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ils aiment leur maison\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "unser",
+        "ist",
+        "mögen",
+        "Haus",
+        "Sie",
+        "lieben",
+        "das",
+        "ihr"
+      ],
+      "bonne réponse": "Sie mögen ihr Haus"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"la grande ville\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Stadt",
+        "Die",
+        "kleine",
+        "City",
+        "eine",
+        "große"
+      ],
+      "bonne réponse": "Die große Stadt"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"sa sœur est jolie\" (sœur d'une fille)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hübsch",
+        "sein",
+        "mein",
+        "ist",
+        "Ihre",
+        "Bruder",
+        "eine",
+        "Schwester"
+      ],
+      "bonne réponse": "Ihre Schwester ist hübsch"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"ton livre est neuf\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "alt",
+        "neu",
+        "ist",
+        "das",
+        "mein",
+        "ein",
+        "Dein",
+        "Buch"
+      ],
+      "bonne réponse": "Dein Buch ist neu"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"nos parents sont heureux\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "glücklich",
+        "sind",
+        "meine",
+        "ist",
+        "traurig",
+        "Eltern",
+        "Unsere",
+        "deine"
+      ],
+      "bonne réponse": "Unsere Eltern sind glücklich"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"C'est son chien.\" (chien d'un homme)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ihr",
+        "Hund",
+        "ist",
+        "der",
+        "Katze",
+        "Es",
+        "ein",
+        "sein"
+      ],
+      "bonne réponse": "Es ist sein Hund"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"le sac de la fille\" (singulier)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mädchens",
+        "ein",
+        "Jungen",
+        "ist",
+        "Die",
+        "der",
+        "Tasche",
+        "meines"
+      ],
+      "bonne réponse": "Die Tasche des Mädchens"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Je vois ta voiture.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sehe",
+        "das",
+        "dein",
+        "schaue",
+        "an",
+        "mein",
+        "Auto",
+        "Ich"
+      ],
+      "bonne réponse": "Ich sehe dein Auto"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"le nom du chien\" (animal)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "Katze",
+        "Name",
+        "mein",
+        "ein",
+        "Der",
+        "Hundes",
+        "des"
+      ],
+      "bonne réponse": "Der Name des Hundes"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"la grande voiture rouge\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "große",
+        "Haus",
+        "rote",
+        "kleine",
+        "Das",
+        "blaue",
+        "Auto",
+        "ein"
+      ],
+      "bonne réponse": "Das große rote Auto"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"la voiture est rouge\" (sans adjectif épithète)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "an",
+        "rot",
+        "ein",
+        "Auto",
+        "Das",
+        "blau",
+        "ist",
+        "groß"
+      ],
+      "bonne réponse": "Das Auto ist rot"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"la maison de mes parents\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "Eltern",
+        "Elterns",
+        "Meine",
+        "groß",
+        "Haus",
+        "das",
+        "meiner"
+      ],
+      "bonne réponse": "das Haus meiner Eltern"
+    },
+    "question n°36": {
+      "question": "Quel est le déterminant possessif utilisé pour \"son / sa / ses\" lorsque le possesseur est masculin (un homme) ?",
+      "type": "short_answer",
+      "bonne réponse": "sein"
+    },
+    "question n°37": {
+      "question": "En allemand, où se place l'adjectif qualificatif par rapport au nom qu'il complète dans un groupe nominal ?",
+      "type": "short_answer",
+      "bonne réponse": "Avant le nom"
+    },
+    "question n°38": {
+      "question": "Quel est le déterminant possessif qui signifie \"notre / nos\" ?",
+      "type": "short_answer",
+      "bonne réponse": "unser"
+    },
+    "question n°39": {
+      "question": "Comment s'appelle le cas grammatical utilisé en allemand pour exprimer la possession ?",
+      "type": "short_answer",
+      "bonne réponse": "Génitif"
+    },
+    "question n°40": {
+      "question": "Quel article défini (le/la) utilise-t-on au génitif pour un nom masculin ou neutre singulier ? (Ex: des Autos)",
+      "type": "short_answer",
+      "bonne réponse": "des"
+    }
+  }
+}

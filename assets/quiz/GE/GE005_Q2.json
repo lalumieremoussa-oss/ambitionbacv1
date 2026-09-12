@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "GE005_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Combien de conventions de Yaoundé ont été signées entre la CEE et les EAMA ?",
+      "réponses": {
+        "A": "Trois conventions renouvelables",
+        "B": "Une seule convention de principe",
+        "C": "Quatre conventions décennales",
+        "D": "Deux conventions de cinq ans chacune"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L’un des objectifs majeurs des conventions de Yaoundé était :",
+      "réponses": {
+        "A": "Supprimer les dettes des pays ACP",
+        "B": "Interdire les exportations agricoles vers l’Europe",
+        "C": "Créer une zone d’échange entre la CEE et les EAMA",
+        "D": "Instaurer un tarif douanier commun"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle institution européenne finançait l’aide technique aux EAMA ?",
+      "réponses": {
+        "A": "La Banque Européenne d’Investissement (BEI)",
+        "B": "Le Conseil Européen",
+        "C": "La Banque Centrale Européenne",
+        "D": "Le Parlement Européen"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quel dispositif a été mis en place par les conventions de Lomé pour les produits agricoles ?",
+      "réponses": {
+        "A": "Le PRADA",
+        "B": "Le PACTE",
+        "C": "Le STABEX",
+        "D": "Le TROPICA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Le SYSMIN concerne :",
+      "réponses": {
+        "A": "Les produits miniers exportés par les ACP",
+        "B": "Les produits artisanaux",
+        "C": "Les recettes fiscales des ACP",
+        "D": "Les aides alimentaires européennes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel type d’accord remplace les conventions de Yaoundé et de Lomé après 2000 ?",
+      "réponses": {
+        "A": "L’accord de Bamako",
+        "B": "L’accord de Cotonou",
+        "C": "L’accord d’Abidjan",
+        "D": "L’accord de Rome"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Où la convention de Cotonou devait-elle initialement être signée ?",
+      "réponses": {
+        "A": "Dakar",
+        "B": "Kingston",
+        "C": "Abidjan",
+        "D": "Suva, aux îles Fidji"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Pourquoi la convention de Cotonou a-t-elle été déplacée de Suva à Cotonou ?",
+      "réponses": {
+        "A": "Pour des raisons de sécurité climatique",
+        "B": "À cause d’un coup d’État aux îles Fidji",
+        "C": "Suite à une crise sanitaire locale",
+        "D": "Pour honorer les relations avec le Bénin"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Une nouveauté de la convention de Cotonou est :",
+      "réponses": {
+        "A": "L’interdiction de tout prêt à taux variable",
+        "B": "La suppression de la coopération culturelle",
+        "C": "La révision périodique de l’accord",
+        "D": "L’exclusion des pays non francophones"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle condition politique est exigée dans la convention de Cotonou ?",
+      "réponses": {
+        "A": "L'adoption du multipartisme obligatoire",
+        "B": "Le respect de l’État de droit et de la bonne gouvernance",
+        "C": "L’adhésion automatique à l’UE",
+        "D": "La reconnaissance du français comme langue officielle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Les conventions de Lomé ont été signées entre :",
+      "réponses": {
+        "A": "L’UE et les EAMA",
+        "B": "L’ONU et les ACP",
+        "C": "La CEE et les ACP",
+        "D": "L’UE et l’ASEAN"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La durée de validité de la convention de Cotonou était initialement :",
+      "réponses": {
+        "A": "30 ans",
+        "B": "10 ans renouvelables",
+        "C": "20 ans",
+        "D": "Indéterminée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel était l’un des objectifs des conventions de Lomé ?",
+      "réponses": {
+        "A": "Interdire les exportations vers les pays ACP",
+        "B": "Rétablir la colonisation indirecte",
+        "C": "Fusionner les économies ACP et UE",
+        "D": "Garantir la stabilité des prix des produits des ACP"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Parmi ces domaines, lequel fait partie de la coopération UE-ACP ?",
+      "réponses": {
+        "A": "Défense nucléaire",
+        "B": "Contrôle des migrations illégales",
+        "C": "Uniformisation linguistique",
+        "D": "Éducation et culture"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "L’un des buts de la coopération UE-ACP est :",
+      "réponses": {
+        "A": "L’exclusion des acteurs privés",
+        "B": "L’interdiction de toute aide au développement",
+        "C": "L’intégration des ACP dans l’économie mondiale",
+        "D": "La séparation économique entre les deux blocs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Le FED (Fonds Européen de Développement) intervient notamment dans :",
+      "réponses": {
+        "A": "Le financement des projets dans les ACP",
+        "B": "La production cinématographique",
+        "C": "La fabrication d’armes",
+        "D": "Les opérations boursières en Europe"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La coopération UE-ACP couvre :",
+      "réponses": {
+        "A": "Plusieurs domaines économiques, sociaux et politiques",
+        "B": "Uniquement les secteurs militaires",
+        "C": "Exclusivement les domaines commerciaux",
+        "D": "Les sports et les loisirs uniquement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle affirmation reflète un domaine d’intervention de la coopération ?",
+      "réponses": {
+        "A": "La lutte contre les exportations ACP",
+        "B": "La lutte contre les déséquilibres structurels",
+        "C": "La création d’une monnaie unique",
+        "D": "L’imposition du régime parlementaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelles sont les grandes catégories de produits concernés par la stabilisation ?",
+      "réponses": {
+        "A": "Produits technologiques",
+        "B": "Produits agricoles et miniers",
+        "C": "Produits pétroliers uniquement",
+        "D": "Produits pharmaceutiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle aide est prévue par la coopération en cas de catastrophes dans les ACP ?",
+      "réponses": {
+        "A": "Aide symbolique et diplomatique uniquement",
+        "B": "Aucune assistance n’est prévue",
+        "C": "Un renvoi vers les ONG internationales",
+        "D": "Une aide humanitaire, logistique et financière"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

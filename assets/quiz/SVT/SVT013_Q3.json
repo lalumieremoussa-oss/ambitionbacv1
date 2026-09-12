@@ -1,0 +1,196 @@
+{
+  "id": "SVT013_Q3",
+  "title": "Quiz 3 : Réaction Immunitaire Spécifique à Médiation Cellulaire",
+  "questions": {
+    "question n°1": {
+      "question": "Lorsqu'un organisme est infecté par le bacille de Koch, quelles cellules assurent sa défense principale ?",
+      "réponses": {
+        "A": "Les lymphocytes B qui produisent des anticorps",
+        "B": "Les lymphocytes T qui reconnaissent et détruisent les cellules infectées",
+        "C": "Les globules rouges qui neutralisent les bactéries",
+        "D": "Les macrophages qui produisent du sérum"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "L’injection du BCG permet de :",
+      "réponses": {
+        "A": "Neutraliser le bacille de Koch en éliminant ses antigènes",
+        "B": "Stimuler une immunité acquise à médiation humorale",
+        "C": "Préparer l’organisme à produire des lymphocytes T spécifiques",
+        "D": "Fournir des anticorps directement à l’organisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Pourquoi l’injection de sérum d’un cobaye immunisé ne protège-t-elle pas un autre cobaye du bacille de Koch ?",
+      "réponses": {
+        "A": "Le sérum détruit les lymphocytes T",
+        "B": "Le bacille de Koch résiste aux substances sériques",
+        "C": "Le sérum ne contient pas de cellules immunitaires actives",
+        "D": "Le sérum n’est pas injecté au bon moment"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Dans une réaction à médiation cellulaire, les cellules responsables de la destruction des cellules infectées sont :",
+      "réponses": {
+        "A": "Les plasmocytes",
+        "B": "Les lymphocytes T cytotoxiques",
+        "C": "Les granulocytes éosinophiles",
+        "D": "Les cellules NK"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Les perforines sécrétées par les lymphocytes T cytotoxiques ont pour effet de :",
+      "réponses": {
+        "A": "Attirer d'autres cellules immunitaires vers l'infection",
+        "B": "Créer des pores dans la membrane des cellules infectées",
+        "C": "Stimuler la production d’anticorps",
+        "D": "Transformer les microbes en cellules inoffensives"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Le rôle principal des lymphocytes T4 dans la réponse immunitaire cellulaire est de :",
+      "réponses": {
+        "A": "Détruire directement les microbes",
+        "B": "Sécréter des perforines",
+        "C": "Activer les lymphocytes T8",
+        "D": "Produire des anticorps"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La réaction immunitaire à médiation cellulaire est particulièrement efficace contre :",
+      "réponses": {
+        "A": "Les toxines présentes dans le sang",
+        "B": "Les parasites externes",
+        "C": "Les microbes intracellulaires comme les virus ou le bacille de Koch",
+        "D": "Les bactéries extracellulaires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi un cobaye injecté avec des lymphocytes d’un autre cobaye immunisé survit-il à une infection ?",
+      "réponses": {
+        "A": "Les lymphocytes injectés vont produire des anticorps",
+        "B": "Les lymphocytes injectés vont phagocyter les microbes",
+        "C": "Les lymphocytes injectés assurent une réponse cellulaire active",
+        "D": "Les lymphocytes détruisent le sérum infecté"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle final des lymphocytes T cytotoxiques dans la réponse immunitaire ?",
+      "réponses": {
+        "A": "Identifier les antigènes",
+        "B": "Sécréter des enzymes digestives",
+        "C": "Libérer des perforines pour détruire les cellules infectées",
+        "D": "Activer les globules rouges"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La réponse immunitaire spécifique à médiation cellulaire dépend principalement de :",
+      "réponses": {
+        "A": "La vitesse de la phagocytose",
+        "B": "La présence de perforines dans le sérum",
+        "C": "L’activation en cascade des lymphocytes T",
+        "D": "La production massive d’anticorps"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Le BCG permet à l’organisme de développer une réponse immunitaire spécifique à médiation humorale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Les lymphocytes T cytotoxiques sont activés directement par le micro-organisme étranger.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Les perforines sont des substances capables de percer la membrane des cellules infectées.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L’injection de sérum d’un animal immunisé protège un autre animal contre une infection intracellulaire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Les lymphocytes T8 sont appelés cytotoxiques car ils détruisent des cellules infectées.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Lorsque le micro-organisme pénètre dans l’organisme, il est reconnu par les [...A...], qui activent les [...B...] pour déclencher la destruction des cellules infectées par l’intermédiaire des [...C...].",
+      "réponses": {
+        "A": "A: lymphocytes T4 ; B: lymphocytes T8 ; C: perforines",
+        "B": "A: plasmocytes ; B: globules rouges ; C: macrophages",
+        "C": "A: granulocytes ; B: lymphocytes NK ; C: anticorps",
+        "D": "A: macrophages ; B: plasmocytes ; C: toxines"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Les lymphocytes T cytotoxiques sont activés par les [...A...] et agissent en libérant des [...B...] qui ciblent directement [...C...].",
+      "réponses": {
+        "A": "A: lymphocytes B ; B: anticorps ; C: les virus",
+        "B": "A: lymphocytes T4 ; B: perforines ; C: les cellules infectées",
+        "C": "A: macrophages ; B: enzymes ; C: les toxines",
+        "D": "A: globules rouges ; B: anticorps ; C: les bactéries"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Lorsqu’on injecte uniquement le sérum d’un cobaye immunisé, l’autre cobaye ne survit pas car le sérum ne contient pas [...A...] ; la défense est donc [...B...] et repose sur les [...C...].",
+      "réponses": {
+        "A": "A: de virus ; B: inefficace ; C: éosinophiles",
+        "B": "A: de lymphocytes ; B: cellulaire ; C: lymphocytes T",
+        "C": "A: d’anticorps ; B: humorale ; C: lymphocytes B",
+        "D": "A: d’immunité ; B: aléatoire ; C: cellules cancéreuses"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "La réaction immunitaire spécifique à médiation cellulaire repose sur l’action coordonnée des [...A...] qui détectent l’antigène, des [...B...] qui deviennent cytotoxiques, et des [...C...] qu’ils libèrent pour détruire les cellules infectées.",
+      "réponses": {
+        "A": "A: anticorps ; B: plasmocytes ; C: toxines",
+        "B": "A : éosinophiles ; B : neutrophiles ; C : sécrétions",
+        "C": "A: globules rouges ; B: macrophages ; C: enzymes",
+        "D": "A : lymphocytes T4 ; B : lymphocytes T8 ; C : perforines"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Les lymphocytes T cytotoxiques sont essentiels pour éliminer les [...A...] comme ceux provoqués par le bacille de Koch. Ils agissent en percant les membranes avec des [...B...], ce qui entraîne la [...C...] des cellules infectées.",
+      "réponses": {
+        "A": "A: virus externes ; B: enzymes ; C: multiplication",
+        "B": "A: toxines ; B: anticorps ; C: transformation",
+        "C": "A: microbes intracellulaires ; B: perforines ; C: destruction",
+        "D": "A: bactéries du sang ; B: anticorps ; C: digestion"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 2",
+  "id": "PH007_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Suite du quiz précédent (Le Progrès Technique Éradique-t-il la Misère de l'Homme ?). L'Axe 2 de ce sujet met en lumière que la misère de l'homme :",
+      "réponses": {
+        "A": "Est intégralement et définitivement éradiquée par le progrès technique, sans aucune forme de persistance ou de réapparition.",
+        "B": "Est une notion dépassée, qui n'a plus de sens dans les sociétés modernes où le confort matériel est assuré pour tous grâce à la technologie.",
+        "C": "Persiste sous diverses formes (morale, spirituelle, écologique) malgré les avancées technologiques, voire en est une conséquence inattendue.",
+        "D": "N'a jamais réellement existé et est une invention philosophique pour critiquer la marche inéluctable du progrès industriel."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Selon un Argument , la technique peut porter atteinte à l'intégrité morale et spirituelle de l'homme en engendrant :",
+      "réponses": {
+        "A": "Une augmentation exponentielle de la créativité, de l'autonomie et de la capacité de l'homme à résoudre des problèmes complexes par lui-même.",
+        "B": "Un développement sans précédent de la sagesse collective et une amélioration continue du sens critique face aux défis existentiels.",
+        "C": "Une profonde connexion avec la nature et une réévaluation des priorités humaines au-delà du simple confort matériel et de la surconsommation.",
+        "D": "La paresse intellectuelle, le conformisme et la perte du sens critique, rendant l'homme dépendant de ses machines et incapable de penser librement."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Jean-Jacques Rousseau, dans le Discours sur les sciences et les arts, dénonce l'illusion du progrès en affirmant que nos âmes se sont corrompues à mesure que :",
+      "réponses": {
+        "A": "La société est retournée à un état de nature primitif, où l'ignorance et la barbarie dominaient sans aucune forme d'organisation sociale ou politique.",
+        "B": "Les philosophes ont cessé de remettre en question les fondements moraux de la société, conduisant à une stagnation intellectuelle et spirituelle.",
+        "C": "Les sociétés ont adopté un mode de vie plus simple et plus respectueux de l'environnement, se détournant des avancées technologiques inutiles et aliénantes.",
+        "D": "Nos sciences et nos arts se sont avancés à la perfection, suggérant une dégradation morale concomitante au développement des connaissances et des techniques."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "La citation d'Albert Einstein : \"Toute la technique dont nous chantons les louanges est comme une hache entre les mains d’un criminel\" met en évidence :",
+      "réponses": {
+        "A": "Le caractère intrinsèquement bon et bénéfique de la technique, dont l'utilisation est toujours vertueuse et constructive pour l'humanité.",
+        "B": "Le fait que la technique est un outil neutre, dont la valeur morale dépend entièrement de l'intention et de la sagesse de l'utilisateur.",
+        "C": "Le danger inhérent à la technique elle-même, qui est fondamentalement destructrice et ne peut jamais être utilisée à des fins positives ou éthiques.",
+        "D": "La supériorité de la moralité sur la technologie, affirmant que le progrès technique ne peut jamais compenser une absence totale de vertu humaine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Un autre Argument met en évidence que le progrès technique engendre de graves dégâts écologiques et sanitaires. Cela se manifeste par :",
+      "réponses": {
+        "A": "Une amélioration significative de la qualité de l'air et de l'eau, grâce à des technologies plus propres et des pratiques industrielles plus respectueuses de l'environnement.",
+        "B": "Une diminution des maladies et des problèmes de santé publique, la technologie offrant des solutions médicales universelles et sans effets secondaires.",
+        "C": "L'industrialisation massive, la pollution, la surconsommation, les OGM, et les gaz à effet de serre, menaçant la vie humaine et engendrant de nouvelles souffrances.",
+        "D": "Une augmentation de la biodiversité et une restauration des écosystèmes naturels, grâce aux interventions technologiques ciblées et régulées."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel philosophe associe la technique à la \"barbarie\" dans son œuvre La Barbarie ?",
+      "réponses": {
+        "A": "Gilles Deleuze, pour sa critique des sociétés de contrôle et sa vision de la technologie comme instrument de pouvoir et de normalisation.",
+        "B": "Jean Baudrillard, pour son analyse de la simulation et de l'hyperréalité, où la technique crée un monde de signes déconnecté du réel.",
+        "C": "Michel Henry, dénonçant une technique qui, en se substituant à l'auto-accomplissement de la vie, conduit à une nouvelle forme de déshumanisation radicale.",
+        "D": "Jacques Ellul, pour sa critique de la \"technique\" comme système autonome et auto-générateur, qui asservit l'homme à ses propres logiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La citation de Michel Henry : \"La technique est la barbarie, la nouvelle barbarie de notre temps\" signifie que :",
+      "réponses": {
+        "A": "La technique moderne, malgré ses promesses, entraîne une déshumanisation profonde et une destruction de ce qui est vital, constituant une menace existentielle pour l'homme.",
+        "B": "Le développement technologique est une manifestation de la brutalité et de la cruauté humaine, qui n'a fait que croître avec l'avancement des outils.",
+        "C": "La technique est un retour aux méthodes de vie primitives, loin de la civilisation, ce qui est en soi un signe de régression humaine.",
+        "D": "La barbarie est une condition inévitable de l'humanité, et la technique n'est qu'un simple instrument sans influence sur la moralité ou la violence."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "L'Argument 3 souligne que le progrès technique creuse un déséquilibre entre le développement matériel et spirituel, ce qui se traduit par :",
+      "réponses": {
+        "A": "Une harmonie parfaite entre la puissance technologique et la sagesse morale, permettant à l'homme de maîtriser ses créations pour le bien commun.",
+        "B": "Un affaiblissement de la puissance technologique au profit d'un épanouissement spirituel accru, l'homme se détachant des préoccupations matérielles.",
+        "C": "Une puissance technologique colossale chez l'homme moderne, mais un manque de sagesse morale et une incertitude quant au but de cette transformation du monde.",
+        "D": "L'absence totale de spiritualité dans les sociétés primitives, qui n'avaient pas encore développé les moyens techniques pour y accéder."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel philosophe appelle à un \"supplément d'âme\" pour équilibrer la puissance technique ?",
+      "réponses": {
+        "A": "Jean-Paul Sartre, pour sa philosophie existentialiste où l'homme est condamné à être libre et à inventer ses propres valeurs sans guide extérieur.",
+        "B": "Simone de Beauvoir, pour son analyse de la condition féminine et la nécessité de l'émancipation pour une pleine réalisation de soi.",
+        "C": "Henri Bergson, soulignant la nécessité d'un approfondissement moral et spirituel pour guider la puissance matérielle libérée par la technique.",
+        "D": "Gilles Deleuze et Félix Guattari, pour leur critique des machines désirantes et leur vision d'une production collective et non aliénante."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La notion de \"supplément d'âme\" chez Bergson, dans le contexte du progrès technique, implique que :",
+      "réponses": {
+        "A": "L'homme doit abandonner toute forme de technique et revenir à une vie plus simple et plus naturelle, en accord avec ses instincts primaires.",
+        "B": "La puissance technique est suffisante à elle seule pour assurer le bonheur et le bien-être de l'humanité, sans aucune autre considération morale ou spirituelle.",
+        "C": "Il est crucial d'ajouter une dimension morale et spirituelle au développement technologique, afin d'orienter cette puissance vers des fins réellement humaines et éthiques.",
+        "D": "L'âme est une illusion purement religieuse, sans aucune pertinence pour la compréhension de la relation entre l'homme et la technique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "L'explication de l'Argument 1 souligne que l'homme devient dépendant de ses machines, ce qui peut le rendre \"incapable de penser par lui-même\". Ceci est une forme de misère :",
+      "réponses": {
+        "A": "Matérielle, car il ne peut plus produire ses propres biens sans l'aide des machines.",
+        "B": "Intellectuelle et morale, car il perd son autonomie de pensée et son sens critique face au confort.",
+        "C": "Écologique, car il est responsable de la pollution engendrée par les machines.",
+        "D": "Spirituelle, car il se coupe de toute forme de transcendance ou de connexion divine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "La conclusion affirme que la misère de l'homme ne se réduit pas à la pauvreté matérielle, mais réside aussi dans la solitude, l'ignorance, la violence ou la perte de sens. Ceci montre que :",
+      "réponses": {
+        "A": "La misère est un concept dépassé, uniquement lié à l'absence de biens matériels et facilement résolvable par la technologie.",
+        "B": "Le progrès technique a éliminé toutes les formes de misère humaine, y compris la solitude et la violence, grâce à l'interconnexion.",
+        "C": "Les formes de misère non matérielles sont des inventions philosophiques sans aucune incidence réelle sur la vie des individus ou l'organisation sociale.",
+        "D": "La misère humaine est une réalité multidimensionnelle, englobant des aspects psychologiques, sociaux et existentiels qui ne sont pas forcément résolus par le confort technique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Rousseau dénonce l'idée que le progrès des sciences et des arts mène nécessairement à un progrès moral, suggérant même une corruption de l'âme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Albert Einstein considérait la technique comme un outil intrinsèquement bon et sans danger, dont l'utilisation est toujours bénéfique pour l'humanité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Michel Henry, dans La Barbarie, critique la technique en affirmant qu'elle prend la place de l'auto-accomplissement de la vie, conduisant à une nouvelle forme de barbarie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Le progrès technique, en facilitant la vie, entraîne inévitablement une augmentation du sens critique et de l'autonomie de pensée chez l'homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Henri Bergson appelle à un \"supplément d'âme\" pour que la puissance technique soit équilibrée par un approfondissement moral et spirituel.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "En conclusion, le progrès technique a totalement éradiqué la misère humaine sous toutes ses formes, y compris la solitude et la violence.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'industrialisation massive et la surconsommation, conséquences du progrès technique, sont comme des sources de graves dégâts écologiques et sanitaires.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Le déséquilibre entre le développement matériel et spirituel se caractérise par une grande puissance technologique de l'homme, mais un manque de sagesse pour l'orienter.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

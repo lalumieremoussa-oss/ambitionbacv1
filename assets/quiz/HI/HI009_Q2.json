@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI009_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la position de l’UA sur la souveraineté des États membres ?",
+      "réponses": {
+        "A": "Elle reconnaît l’autorité religieuse de chaque État.",
+        "B": "Elle impose un droit d’ingérence permanent.",
+        "C": "Elle respecte l’égalité souveraine et l’intégrité territoriale.",
+        "D": "Elle demande aux États d’unifier leur armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Que permet l’UA en cas de génocide ou de crimes de guerre dans un État membre ?",
+      "réponses": {
+        "A": "Elle suspend l’État sans autre forme d’action.",
+        "B": "Elle se réserve le droit d’intervenir dans ses affaires internes.",
+        "C": "Elle appelle à la mobilisation des armées locales.",
+        "D": "Elle confie le conflit à la Cour pénale internationale uniquement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la position de l’UA face à un changement de pouvoir par la force ?",
+      "réponses": {
+        "A": "Elle laisse chaque État gérer sa constitution selon ses traditions.",
+        "B": "Elle condamne tout changement par la force, sauf avec accord régional.",
+        "C": "Elle condamne tout changement anticonstitutionnel de gouvernement.",
+        "D": "Elle reconnaît automatiquement le nouveau gouvernement élu par le peuple."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel principe guide l’UA dans la résolution des conflits entre États membres ?",
+      "réponses": {
+        "A": "Le recours immédiat à une médiation militaire.",
+        "B": "Le règlement pacifique des différends.",
+        "C": "La mise sous tutelle du pays en crise.",
+        "D": "L’isolement diplomatique du pays agresseur."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Que favorise l’UA entre ses États membres ?",
+      "réponses": {
+        "A": "L’indépendance totale sans coopération économique.",
+        "B": "L’interdépendance et la solidarité pour atteindre ses objectifs communs.",
+        "C": "La compétition stratégique sur les ressources naturelles.",
+        "D": "L’autonomie militaire renforcée dans chaque État."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la priorité des principes fondateurs de l’UA ?",
+      "réponses": {
+        "A": "La limitation du pouvoir présidentiel dans chaque pays.",
+        "B": "La suprématie de l’unité continentale sur toutes les lois nationales.",
+        "C": "L’union volontaire des États dans le respect de leur souveraineté.",
+        "D": "L’adoption d’une constitution commune sans amendement possible."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Comment l’UA considère-t-elle les relations entre États africains ?",
+      "réponses": {
+        "A": "Comme concurrentielles dans un cadre fédéral.",
+        "B": "Comme équilibrées mais sans obligations bilatérales.",
+        "C": "Comme fondées sur la solidarité, la coopération et le respect mutuel.",
+        "D": "Comme dominées par les grandes puissances régionales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel principe justifie une éventuelle intervention armée de l’UA ?",
+      "réponses": {
+        "A": "Le refus d’adhérer aux valeurs occidentales.",
+        "B": "Le non-respect des échéances électorales.",
+        "C": "La menace grave sur la paix, les droits de l’homme ou l’humanité.",
+        "D": "La participation d’un État à une alliance étrangère."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Que garantit l’UA en matière de traitement des États membres ?",
+      "réponses": {
+        "A": "La hiérarchie selon le PIB et la population.",
+        "B": "L’égalité de traitement dans toutes ses institutions.",
+        "C": "Le pouvoir de veto pour les pays fondateurs.",
+        "D": "L’attribution prioritaire des fonds aux pays en guerre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelles valeurs centrales l’UA cherche-t-elle à promouvoir ?",
+      "réponses": {
+        "A": "Le multiculturalisme et l’autonomie régionale.",
+        "B": "La sécurité intérieure et la restriction des libertés.",
+        "C": "La démocratie, les droits humains et la bonne gouvernance.",
+        "D": "L’uniformité culturelle et linguistique entre les États."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l’organe suprême de l’Union Africaine ?",
+      "réponses": {
+        "A": "Le Comité permanent des ministres de l’intérieur.",
+        "B": "La Conférence de l’Union composée des chefs d’État et de gouvernement.",
+        "C": "Le Directoire panafricain de gouvernance.",
+        "D": "Le Sénat continental de l’UA."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle principal de la Commission de l’UA ?",
+      "réponses": {
+        "A": "Organiser les sommets culturels.",
+        "B": "Élaborer les constitutions des pays membres.",
+        "C": "Exécuter les décisions, représenter l’UA, coordonner les programmes.",
+        "D": "Superviser les élections locales dans chaque pays."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelles missions sont confiées au Conseil de Paix et de Sécurité ?",
+      "réponses": {
+        "A": "Protéger les sites historiques de l’Union.",
+        "B": "Assurer la diplomatie préventive et la gestion des crises.",
+        "C": "Nommer les chefs des armées des États.",
+        "D": "Organiser la démilitarisation des frontières."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est le rôle du Parlement Panafricain ?",
+      "réponses": {
+        "A": "Voter les lois exécutoires dans chaque pays membre.",
+        "B": "Contrôler directement les politiques des gouvernements nationaux.",
+        "C": "Donner des avis consultatifs, sans pouvoir législatif.",
+        "D": "Gérer les finances publiques africaines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel est l’organe judiciaire principal de l’UA ?",
+      "réponses": {
+        "A": "La Haute Cour des chefs d’État.",
+        "B": "La Cour Africaine de Justice, composée de 11 juges.",
+        "C": "Le Tribunal suprême de l’union fiscale.",
+        "D": "La Cour coutumière panafricaine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel pouvoir la Cour Africaine détient-elle ?",
+      "réponses": {
+        "A": "Elle édicte des lois exécutoires pour les parlements nationaux.",
+        "B": "Elle veille à l'application de l’Acte Constitutif et tranche les litiges juridiques.",
+        "C": "Elle remplace les cours suprêmes nationales.",
+        "D": "Elle juge uniquement les crimes liés aux conflits électoraux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pourquoi le Parlement Panafricain est-il dit « consultatif » ?",
+      "réponses": {
+        "A": "Parce qu’il est formé uniquement d’observateurs.",
+        "B": "Parce qu’il ne propose que des textes religieux.",
+        "C": "Parce qu’il ne possède pas de pouvoir législatif contraignant.",
+        "D": "Parce qu’il n’est pas reconnu par tous les chefs d’État."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "En quoi la Conférence de l’Union est-elle décisive ?",
+      "réponses": {
+        "A": "Elle organise la répartition des fonds de l’UA.",
+        "B": "Elle statue sur les grandes orientations politiques de l’UA.",
+        "C": "Elle attribue les présidences tournantes des pays.",
+        "D": "Elle désigne les ambassadeurs permanents pour l’ONU."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est le lien entre la Commission de l’UA et les autres organes ?",
+      "réponses": {
+        "A": "Elle agit de manière autonome sans communication.",
+        "B": "Elle coordonne les activités et assure le suivi des décisions.",
+        "C": "Elle n’intervient que pour les missions culturelles.",
+        "D": "Elle contrôle le budget des chefs d’État."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la compétence centrale de la Cour Africaine de Justice ?",
+      "réponses": {
+        "A": "Fixer le salaire des parlementaires africains.",
+        "B": "Veiller à la traduction des textes dans toutes les langues africaines.",
+        "C": "Résoudre les différends juridiques entre États membres.",
+        "D": "Définir la politique migratoire de l’Union."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

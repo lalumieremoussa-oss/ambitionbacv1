@@ -1,0 +1,42 @@
+[
+  {
+    "id": "LEAD001",
+    "titre": "Découverte de soi et la discipline personnelle",
+    "lecons": [
+      { "id": "LEAD001_L1", "titre": "Connaissance de soi" },
+      { "id": "LEAD001_L2", "titre": "Forces et faiblesses" },
+      { "id": "LEAD001_L3", "titre": "Habitudes des personnes performantes" },
+      { "id": "LEAD001_L4", "titre": "Gestion du temps l'autodiscipline et la productivité" }
+    ]
+  },
+  {
+    "id": "LEAD002",
+    "titre": "La vision",
+    "lecons": [
+      { "id": "LEAD002_L1", "titre": "Définir sa vision personnelle" },
+      { "id": "LEAD002_L2", "titre": "Choisir son orientation scolaire" },
+      { "id": "LEAD002_L3", "titre": "Construire un réseau positif" },
+      { "id": "LEAD002_L4", "titre": "Élaborer un plan de carrière" }
+    ]
+  },
+  {
+    "id": "LEAD003",
+    "titre": "L'action et le leadership au quotidien",
+    "lecons": [
+      { "id": "LEAD003_L1", "titre": "Prendre des initiatives et passer à l'action" },
+      { "id": "LEAD003_L2", "titre": "Organiser son temps et fixer ses priorités" },
+      { "id": "LEAD003_L3", "titre": "Développer une communication affirmée" },
+      { "id": "LEAD003_L4", "titre": "Inspirer et impacter sa communauté scolaire" }
+    ]
+  },
+  {
+    "id": "LEAD004",
+    "titre": "La gestion des risques et des défis",
+    "lecons": [
+      { "id": "LEAD004_L1", "titre": "Identifier et anticiper les risques" },
+      { "id": "LEAD004_L2", "titre": "Gérer les défis et la pression scolaire" },
+      { "id": "LEAD004_L3", "titre": "Surmonter et gérer les échecs" },
+      { "id": "LEAD004_L4", "titre": "Développer la résilience et l'adaptation" }
+    ]
+  }
+]

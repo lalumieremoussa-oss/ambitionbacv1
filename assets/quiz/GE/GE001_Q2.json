@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 2",
+  "id": "GE001_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les grands fleuves de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les fleuves Niger, Sénégal, Volta et Oubangui",
+        "B": "Cavally, Sassandra, Bandama et Comoé",
+        "C": "Boubo, Mé, Bia et Agnéby",
+        "D": "Aby, Ebrié, Adjin et Kossou"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels cours d’eau sont considérés comme fleuves côtiers en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Agnéby, Bia, Mé et Boubo",
+        "B": "Cavally, Bandama, Comoé et Sassandra",
+        "C": "Aby, Ebrié, Adjin et Taabo",
+        "D": "Taabo, Buyo, Kossou et Ayamé"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Parmi les éléments suivants, lesquels font partie du système lagunaire ivoirien ?",
+      "réponses": {
+        "A": "Lagune Ebrié, lagune Aby et lagune Adjin",
+        "B": "Le fleuve Niger, le fleuve Comoé et le lac Volta",
+        "C": "Les rivières Agnéby, Mé et Boubo",
+        "D": "Les barrages hydroélectriques et les lacs artificiels"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quel rôle jouent les barrages comme Kossou, Taabo ou Buyo ?",
+      "réponses": {
+        "A": "Ils créent uniquement des frontières naturelles pour les régions administratives",
+        "B": "Ils sont des obstacles pour les cultures irriguées dans les zones rurales",
+        "C": "Ils produisent de l’électricité grâce à l’énergie hydroélectrique",
+        "D": "Ils servent uniquement de sites touristiques sans autre fonction"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "En quoi les fleuves et les lagunes participent-ils au transport ?",
+      "réponses": {
+        "A": "Ils sont trop pollués pour être utilisés par les populations",
+        "B": "Ils servent uniquement à la navigation des canoës de pêche traditionnelle",
+        "C": "Ils facilitent le transport maritime et lagunaire, notamment pour les marchandises",
+        "D": "Ils sont uniquement utilisés pour les compétitions sportives nationales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment le réseau hydrographique aide-t-il à l’alimentation en eau des ménages ?",
+      "réponses": {
+        "A": "Il est inutilisé par les populations car il est inaccessible en saison sèche",
+        "B": "Il alimente les villes en eau potable via des sociétés comme la SODECI",
+        "C": "Il est uniquement exploité pour la culture de riz et de manioc",
+        "D": "Il est réservé aux réserves naturelles interdites au public"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel est l’impact du réseau hydrographique sur le climat ivoirien ?",
+      "réponses": {
+        "A": "Il contribue à adoucir le climat grâce à la présence d’eau dans l’environnement",
+        "B": "Il favorise les tempêtes de sable en saison sèche dans le sud",
+        "C": "Il ne joue aucun rôle dans les températures du pays",
+        "D": "Il est responsable des vagues de chaleur dans les zones urbaines"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Pourquoi le réseau hydrographique est-il un atout pour le secteur primaire ?",
+      "réponses": {
+        "A": "Il ralentit l’agriculture à cause de la multiplication des marécages",
+        "B": "Il empêche l’élevage du fait de la forte humidité",
+        "C": "Il gêne la construction des infrastructures agricoles modernes",
+        "D": "Il permet la pêche, la pisciculture et l’irrigation des cultures"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quels gisements correspondent à l’or en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Zones : Zouahounien, Ity (Danané), Affema (Aboisso), Angovia (Bouaflé)",
+        "B": "Zones : Jacqueville, Grand-Lahou, Assinie, San‑Pedro",
+        "C": "Zones : Abidjan, Yamoussoukro, Bouaké, Daloa",
+        "D": "Zones : Kossou, Taabo, Ayamé, Buyo"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Où trouve‑t‑on les gisements de diamant ?",
+      "réponses": {
+        "A": "Toumodi, Divo, Bondoukou, Odienné, Bouaflé, Dimbokro",
+        "B": "Grand‑Bassam, Grand‑Lahou, Jacqueville, Assinie",
+        "C": "San‑Pedro, Vridi, Azito, Jacqueville",
+        "D": "Kouibly, Man, Bangolo, San‑Pedro"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Dans quelles régions retrouve‑t‑on les mines de manganèse ?",
+      "réponses": {
+        "A": "Hiré (Divo), Toumodi, Tongon (Korhogo), Séguéla, Tortiya",
+        "B": "Kossou, Taabo, Ayamé, Buyo",
+        "C": "Zouahounien, Ity, Affema, Angovia",
+        "D": "Jacqueville, Grand‑Lahou, Vridi, Azito"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Les gisements de fer sont exploitables où ?",
+      "réponses": {
+        "A": "Touba, Odienné, Bondoukou, Grand‑Bassam",
+        "B": "Touba, Odienné, Bondoukou, Gran‑Lahou",
+        "C": "Jacqueville, San‑Pedro, Assinie, Divo",
+        "D": "Bouaflé, Dimbokro, Tortiya, Séguéla"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Le pétrole en Côte d’Ivoire est exploité principalement à :",
+      "réponses": {
+        "A": "Grand‑Bassam, Grand‑Lahou, Jacqueville, Assinie, San‑Pedro",
+        "B": "Taabo, Kossou, Ayamé, Buyo",
+        "C": "Kouibly, Man, Bangolo, San‑Pedro",
+        "D": "Toumodi, Divo, Bondoukou, Odienné"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Le gaz naturel est produit autour de :",
+      "réponses": {
+        "A": "Jacqueville, Grand‑Lahou, Azito, Vridi",
+        "B": "Zouahounien, Ity, Affema, Angovia",
+        "C": "Touba, Odienné, Bondoukou, Grand‑Bassam",
+        "D": "Hiré, Toumodi, Tongon, Séguéla"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Les barrages hydroélectriques se trouvent surtout à :",
+      "réponses": {
+        "A": "Grand‑Bassam et San‑Pedro",
+        "B": "Taabo, Kossou, Ayamé et Buyo",
+        "C": "Jacqueville, Vridi, Assinie",
+        "D": "Divo, Bondoukou, Odienné"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi l’exploitation minière est‑elle bénéfique pour l’économie ?",
+      "réponses": {
+        "A": "Elle permet de générer des matières premières exportables, des revenus fiscaux à l’État et des emplois locaux",
+        "B": "Elle cause uniquement la destruction des sols sans bénéfice majeur",
+        "C": "Elle limite les zones agricoles sans offrir d’avantages commerciaux",
+        "D": "Elle est inutile car les minerais sont peu demandés à l’international"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel impact les mines ont‑elles sur les infrastructures locales ?",
+      "réponses": {
+        "A": "Elles créent des routes, écoles, hôpitaux et marchés dans les zones d’exploitation",
+        "B": "Elles isolent les villages en interdisant la construction de routes",
+        "C": "Elles transforment l’agriculture en zone strictement industrielle",
+        "D": "Elles empêchent la mise en place de services publics"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Pourquoi le pétrole et le gaz naturel sont‑ils stratégiques ?",
+      "réponses": {
+        "A": "Ils servent uniquement au chauffage domestique",
+        "B": "Ils alimentent les industries pétrochimiques et sont vendus à l’exportation, générant des recettes",
+        "C": "Ils sont gaspillés car difficiles à extraire",
+        "D": "Ils sont utilisés uniquement comme matière première locale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel rôle joue l’hydroélectricité ivoirienne ?",
+      "réponses": {
+        "A": "Elle est réservée à un usage industriel sans alimenter le réseau national",
+        "B": "Elle produit de l’électricité pour les ménages, les usines et réduit la dépendance aux combustibles fossiles",
+        "C": "Elle bloque la navigation des rivières sans produire d’énergie",
+        "D": "Elle sert uniquement à la pisciculture au pied des barrages"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Comment les énergies renouvelables (solaire, bioénergie, bois‑de‑chauffe) influencent‑elles l’économie ?",
+      "réponses": {
+        "A": "Elles n’ont aucun impact car la Côte d’Ivoire ignore ces ressources",
+        "B": "Elles diversifient le mix énergétique, favorisent l’accès en zones rurales et créent des emplois",
+        "C": "Elles sont remplacées par le charbon importé et ne sont plus utilisées",
+        "D": "Elles sont exploitées seulement pour les festivals culturels"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

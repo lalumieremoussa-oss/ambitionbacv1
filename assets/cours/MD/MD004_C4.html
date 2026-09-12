@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Fondamentaux et Dérivation de base de la fonction $\\ln$",
+                    "content": "La fonction logarithme népérien, notée $\\ln$, est définie sur $]0 ; +\\infty[$. Sa dérivée est l'une des plus fondamentales en analyse mathématique. \nPour toute variable $x > 0$, la dérivée de $\\ln(x)$ est $\\frac{1}{x}$. \nLorsqu'on multiplie cette fonction par une constante $k$, ou qu'on l'intègre dans une somme simple, on applique les règles usuelles de dérivation : $(k \\cdot u)' = k \\cdot u'$ et $(u + v)' = u' + v'$. \nIl est essentiel de bien maîtriser ces bases avant d'aborder des formes composées plus complexes.",
+                    "example": "Soit la fonction $f$ définie sur $]0 ; +\\infty[$ par $f(x) = 5\\ln(x) - 3x + 2$.\nDérivons chaque terme séparément :\n- La dérivée de $5\\ln(x)$ est $5 \\cdot \\frac{1}{x} = \\frac{5}{x}$.\n- La dérivée de $-3x$ est $-3$.\n- La dérivée de la constante $2$ est $0$.\nOn obtient donc : $f'(x) = \\frac{5}{x} - 3$.\nPour faciliter l'étude du signe ultérieurement, on peut mettre au même dénominateur :\n$f'(x) = \\frac{5 - 3x}{x}$.\nConclusion : La dérivée est $f'(x) = \\frac{5 - 3x}{x}$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = \\frac{1}{x} - \\ln(x)$. \nLa dérivée de $\\frac{1}{x}$ est $-\\frac{1}{x^2}$ et celle de $\\ln(x)$ est $\\frac{1}{x}$. \n$f'(x) = -\\frac{1}{x^2} - \\frac{1}{x} = \\frac{-1 - x}{x^2}$.",
+                        "Exemple complet : Soit $f(x) = 5x + 3 - 4\\ln(x)$. \nOn dérive : $f'(x) = 5 + 0 - 4 \\cdot \\frac{1}{x} = 5 - \\frac{4}{x}$. \nEn réduisant au même dénominateur, on trouve $f'(x) = \\frac{5x - 4}{x}$.",
+                        "Exemple complet : Soit $f(x) = x - \\ln(x)$. \nLa dérivée est $f'(x) = 1 - \\frac{1}{x}$. \nEn mettant au même dénominateur, on obtient $f'(x) = \\frac{x - 1}{x}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(x) + x^2$. \nOn dérive directement : $f'(x) = \\frac{1}{x} + 2x$. \nSoit $f'(x) = \\frac{1 + 2x^2}{x}$.",
+                        "Exemple complet : Soit $f(x) = 10\\ln(x) - \\frac{1}{2}x^2$. \n$f'(x) = 10 \\cdot \\frac{1}{x} - \\frac{1}{2} \\cdot 2x = \\frac{10}{x} - x$. \nSoit $f'(x) = \\frac{10 - x^2}{x}$.",
+                        "Exemple complet : Soit $f(x) = \\frac{\\ln(x)}{5} + 4$. \nOn peut écrire $f(x) = \\frac{1}{5}\\ln(x) + 4$. \n$f'(x) = \\frac{1}{5} \\cdot \\frac{1}{x} = \\frac{1}{5x}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(x) - \\sqrt{x}$. \nLa dérivée de $\\sqrt{x}$ est $\\frac{1}{2\\sqrt{x}}$. \n$f'(x) = \\frac{1}{x} - \\frac{1}{2\\sqrt{x}}$.",
+                        "Exemple complet : Soit $f(x) = 2\\ln(x) + \\frac{3}{x^2}$. \nLa dérivée de $\\frac{1}{x^2}$ est $-\\frac{2}{x^3}$. \n$f'(x) = \\frac{2}{x} + 3 \\cdot (-\\frac{2}{x^3}) = \\frac{2}{x} - \\frac{6}{x^3}$.",
+                        "Exemple complet : Soit $f(x) = x^2 - \\frac{x}{5} - x\\ln(x)$. (Focus sur les deux premiers termes) \nLes dérivées respectives sont $2x$ et $-\\frac{1}{5}$. \nLe terme $-x\\ln(x)$ sera traité par la règle du produit.",
+                        "Exemple complet : Soit $f(x) = -\\ln(x)$. \nLa dérivée est simplement $f'(x) = -\\frac{1}{x}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Dérivation de produits et quotients impliquant le logarithme",
+                    "content": "Lorsque la fonction $\\ln$ est multipliée ou divisée par une autre fonction $x$, on utilise les formules de dérivation du produit $(uv)' = u'v + uv'$ et du quotient $(\\frac{u}{v})' = \\frac{u'v - uv'}{v^2}$. \nDans ces cas, l'une des erreurs classiques est d'oublier de simplifier les expressions $x \\cdot \\frac{1}{x}$ qui deviennent $1$. \nLa simplification rigoureuse du numérateur est l'étape clé pour pouvoir étudier le signe de la dérivée par la suite.",
+                    "example": "Soit la fonction $f$ définie sur $]0 ; +\\infty[$ par $f(x) = \\frac{1 - \\ln(x)}{x}$.\nUtilisons la formule $(\\frac{u}{v})'$ avec :\n$u(x) = 1 - \\ln(x) \\implies u'(x) = -\\frac{1}{x}$\n$v(x) = x \\implies v'(x) = 1$\nOn applique la formule :\n$f'(x) = \\frac{(-\\frac{1}{x} \\cdot x) - (1 - \\ln(x) \\cdot 1)}{x^2}$\nSimplifions le produit au numérateur ($-\\frac{1}{x} \\cdot x = -1$) :\n$f'(x) = \\frac{-1 - (1 - \\ln(x))}{x^2}$\n$f'(x) = \\frac{-1 - 1 + \\ln(x)}{x^2} = \\frac{-2 + \\ln(x)}{x^2}$.\nConclusion : $f'(x) = \\frac{\\ln(x) - 2}{x^2}$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = x(1 - \\ln(x))$. \n$u=x, u'=1$ et $v=1-\\ln(x), v'=-1/x$. \n$f'(x) = 1(1-\\ln(x)) + x(-1/x) = 1 - \\ln(x) - 1 = -\\ln(x)$.",
+                        "Exemple complet : Soit $f(x) = x \\cdot \\ln(x)$. \n$u=x, u'=1$ et $v=\\ln(x), v'=1/x$. \n$f'(x) = 1 \\cdot \\ln(x) + x \\cdot \\frac{1}{x} = \\ln(x) + 1$.",
+                        "Exemple complet : Soit $f(x) = \\frac{\\ln(x)}{x}$. \n$u=\\ln(x), u'=1/x$ et $v=x, v'=1$. \n$f'(x) = \\frac{(1/x \\cdot x) - \\ln(x) \\cdot 1}{x^2} = \\frac{1 - \\ln(x)}{x^2}$.",
+                        "Exemple complet : Soit $f(x) = (x^2 + 1)\\ln(x)$. \n$u=x^2+1, u'=2x$ et $v=\\ln(x), v'=1/x$. \n$f'(x) = 2x\\ln(x) + (x^2+1)\\frac{1}{x} = 2x\\ln(x) + x + \\frac{1}{x}$.",
+                        "Exemple complet : Soit $f(x) = \\frac{1}{\\ln(x)}$. \nOn utilise la forme $(1/v)' = -v'/v^2$ avec $v=\\ln(x)$. \n$f'(x) = - \\frac{1/x}{(\\ln(x))^2} = - \\frac{1}{x(\\ln(x))^2}$.",
+                        "Exemple complet : Soit $f(x) = x^2\\ln(x)$. \n$u=x^2, u'=2x$ et $v=\\ln(x), v'=1/x$. \n$f'(x) = 2x\\ln(x) + x^2(1/x) = 2x\\ln(x) + x = x(2\\ln(x) + 1)$.",
+                        "Exemple complet : Soit $f(x) = \\frac{x+1}{\\ln(x)}$. \n$f'(x) = \\frac{1 \\cdot \\ln(x) - (x+1) \\cdot (1/x)}{(\\ln(x))^2} = \\frac{\\ln(x) - 1 - 1/x}{(\\ln(x))^2}$.",
+                        "Exemple complet : Soit $f(x) = \\frac{\\ln(x)}{3x + 2}$. \n$f'(x) = \\frac{(1/x)(3x+2) - 3\\ln(x)}{(3x+2)^2} = \\frac{3 + 2/x - 3\\ln(x)}{(3x+2)^2}$.",
+                        "Exemple complet : Soit $f(x) = \\frac{\\ln(x) + 3}{\\ln(x) + 1}$. \n$u=\\ln(x)+3, u'=1/x$ et $v=\\ln(x)+1, v'=1/x$. \n$f'(x) = \\frac{(1/x)(\\ln x + 1) - (1/x)(\\ln x + 3)}{(\\ln x + 1)^2} = \\frac{-2}{x(\\ln x + 1)^2}$.",
+                        "Exemple complet : Soit $f(x) = \\frac{5x - 4 + \\ln(x)}{x}$. \n$f(x) = 5 - 4/x + \\frac{\\ln(x)}{x}$. \n$f'(x) = 0 + 4/x^2 + \\frac{1-\\ln(x)}{x^2} = \\frac{5-\\ln(x)}{x^2}$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Dérivation de fonctions composées $\\ln(u)$ et propriétés algébriques",
+                    "content": "La règle de la chaîne pour le logarithme est capitale : $(\\ln(u))' = \\frac{u'}{u}$. \nCette formule s'applique dès que l'argument à l'intérieur du $\\ln$ est une fonction de $x$. \nUne astuce majeure pour simplifier les calculs consiste à utiliser les propriétés algébriques du logarithme avant de dériver : \n- $\\ln(ab) = \\ln(a) + \\ln(b)$\n- $\\ln(\\frac{a}{b}) = \\ln(a) - \\ln(b)$\n- $\\ln(a^n) = n\\ln(a)$\nCes propriétés permettent souvent de transformer une dérivation complexe (quotient ou produit à l'intérieur du $\\ln$) en une simple somme de dérivées.",
+                    "example": "Soit la fonction $f$ définie par $f(x) = \\ln\\left(\\frac{x+2}{x-1}\\right)$.\nUtilisons la propriété $\\ln(\\frac{a}{b}) = \\ln(a) - \\ln(b)$ avant de dériver :\n$f(x) = \\ln(x+2) - \\ln(x-1)$.\nMaintenant, dérivons chaque terme avec la formule $\\frac{u'}{u}$ :\n- Pour $\\ln(x+2)$, $u=x+2$ et $u'=1$, donc la dérivée est $\\frac{1}{x+2}$.\n- Pour $\\ln(x-1)$, $u=x-1$ et $u'=1$, donc la dérivée est $\\frac{1}{x-1}$.\nOn obtient : $f'(x) = \\frac{1}{x+2} - \\frac{1}{x-1}$.\nMise au même dénominateur :\n$f'(x) = \\frac{(x-1) - (x+2)}{(x+2)(x-1)} = \\frac{x - 1 - x - 2}{(x+2)(x-1)} = \\frac{-3}{(x+2)(x-1)}$.\nConclusion : $f'(x) = \\frac{-3}{x^2 + x - 2}$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = \\ln(5x - 1)$. \n$u(x)=5x-1$ donc $u'(x)=5$. \n$f'(x) = \\frac{u'}{u} = \\frac{5}{5x-1}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(x^2 - 2x + 1)$. \n$u(x)=x^2-2x+1$ donc $u'(x)=2x-2$. \n$f'(x) = \\frac{2x-2}{x^2-2x+1} = \\frac{2(x-1)}{(x-1)^2} = \\frac{2}{x-1}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(1 + \\frac{1}{x})$. \n$u(x)=1+1/x$ donc $u'(x)=-1/x^2$. \n$f'(x) = \\frac{-1/x^2}{1+1/x} = \\frac{-1/x^2}{(x+1)/x} = \\frac{-1}{x(x+1)}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(\\sqrt{x^2+1})$. \nOn utilise $\\ln(\\sqrt{u}) = \\frac{1}{2}\\ln(u)$. \n$f(x) = \\frac{1}{2}\\ln(x^2+1) \\implies f'(x) = \\frac{1}{2} \\cdot \\frac{2x}{x^2+1} = \\frac{x}{x^2+1}$.",
+                        "Exemple complet : Soit $f(x) = [\\ln(x)]^3$. \nForme $(u^n)' = n u' u^{n-1}$. \n$f'(x) = 3 \\cdot \\frac{1}{x} \\cdot [\\ln(x)]^2 = \\frac{3(\\ln x)^2}{x}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(x^2+3)$. \n$u'=2x$. \n$f'(x) = \\frac{2x}{x^2+3}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(\\frac{x-5}{x+2})$. \n$f(x) = \\ln(x-5) - \\ln(x+2)$. \n$f'(x) = \\frac{1}{x-5} - \\frac{1}{x+2} = \\frac{x+2-x+5}{(x-5)(x+2)} = \\frac{7}{(x-5)(x+2)}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(\\ln(x))$. \nOn dérive $\\ln(u)$ avec $u=\\ln(x)$. \n$f'(x) = \\frac{u'}{u} = \\frac{1/x}{\\ln(x)} = \\frac{1}{x\\ln(x)}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(e^x + 1)$. \n$u=e^x+1, u'=e^x$. \n$f'(x) = \\frac{e^x}{e^x+1}$.",
+                        "Exemple complet : Soit $f(x) = \\ln(x) + \\ln(x+1)$. \nOn peut dériver séparément. \n$f'(x) = \\frac{1}{x} + \\frac{1}{x+1} = \\frac{x+1+x}{x(x+1)} = \\frac{2x+1}{x(x+1)}$."
+                    ]
+                }
+            ]
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

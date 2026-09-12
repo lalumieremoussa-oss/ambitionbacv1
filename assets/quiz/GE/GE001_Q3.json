@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "GE001_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le principal avantage de la jeunesse de la population ivoirienne ?",
+      "réponses": {
+        "A": "Elle entraîne une forte demande d’écoles et d’hôpitaux sans intérêt économique",
+        "B": "Elle complique la gestion des retraites à cause d’une population sans emploi",
+        "C": "Elle constitue une main-d’œuvre abondante et dynamique pour les secteurs économiques",
+        "D": "Elle augmente les dépenses de l’État sans participation au développement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle caractéristique démographique rend la population ivoirienne stratégique ?",
+      "réponses": {
+        "A": "Elle est vieillissante et peu productive",
+        "B": "Elle est jeune, nombreuse et en croissance rapide",
+        "C": "Elle est concentrée uniquement dans les régions minières",
+        "D": "Elle est strictement urbaine, sans diversité culturelle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel pourcentage de la population ivoirienne est d’origine étrangère ?",
+      "réponses": {
+        "A": "10 % de ressortissants européens résidant dans les grandes villes",
+        "B": "5 % de touristes venus pour affaires ou loisirs",
+        "C": "24 % majoritairement issus des pays de la CEDEAO",
+        "D": "30 % d’expatriés d’Amérique du Nord installés en zone rurale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Comment la diversité ethnique contribue-t-elle au développement ?",
+      "réponses": {
+        "A": "Elle complique l’unité nationale et crée des conflits permanents",
+        "B": "Elle bloque la gouvernance à cause de différences linguistiques",
+        "C": "Elle est ignorée dans les politiques nationales",
+        "D": "Elle enrichit la culture, stimule l’artisanat et dynamise le tourisme"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Pourquoi dit-on que la population ivoirienne est un marché de consommation ?",
+      "réponses": {
+        "A": "Parce qu’elle est nombreuse et ses besoins variés stimulent la production",
+        "B": "Parce qu’elle est concentrée dans une seule grande ville",
+        "C": "Parce qu’elle dépend totalement des importations",
+        "D": "Parce qu’elle refuse l’accès aux produits modernes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Comment se répartit la population en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Uniformément sur tout le territoire, sans densité particulière",
+        "B": "Concentrée uniquement dans les régions forestières du nord",
+        "C": "Plus dense au sud, au centre et au centre-ouest que dans le nord",
+        "D": "Dispersée autour des frontières et zones industrielles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’impact du taux d’urbanisation (50,3 %) en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Il crée un vide démographique dans les villes secondaires",
+        "B": "Il favorise l’émergence d’un tissu économique urbain moderne",
+        "C": "Il freine l’investissement dans les campagnes rurales",
+        "D": "Il empêche l’accès des jeunes à la formation professionnelle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Pourquoi la croissance démographique est-elle un défi et un atout ?",
+      "réponses": {
+        "A": "Elle nécessite des investissements massifs, mais offre une réserve de consommateurs",
+        "B": "Elle oblige l’État à fermer les frontières et réduire les naissances",
+        "C": "Elle entraîne la destruction des terres agricoles",
+        "D": "Elle bloque toute évolution sociale et politique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quel est l’intérêt économique de la population rurale ?",
+      "réponses": {
+        "A": "Elle participe activement à l’agriculture et à la sécurité alimentaire",
+        "B": "Elle provoque un exode massif vers les pays voisins",
+        "C": "Elle est peu impliquée dans les activités économiques",
+        "D": "Elle freine la croissance urbaine à cause de la migration inverse"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Comment la diversité culturelle impacte-t-elle l’économie locale ?",
+      "réponses": {
+        "A": "Elle empêche l’unité linguistique dans les entreprises",
+        "B": "Elle soutient les secteurs de l’artisanat, du tourisme et du commerce",
+        "C": "Elle favorise le repli communautaire et les tensions sociales",
+        "D": "Elle n’a aucun effet notable sur l’économie nationale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le système économique adopté par la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le capitalisme libéral avec intervention de l’État et ouverture à l’étranger",
+        "B": "Le socialisme d’État fondé sur la nationalisation complète",
+        "C": "L’économie dirigée sans investissement privé",
+        "D": "Un système coutumier basé uniquement sur le troc rural"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle du CEPICI dans le développement économique ?",
+      "réponses": {
+        "A": "Il gère la formation militaire et l’emploi dans les casernes",
+        "B": "Il promeut l’image de la Côte d’Ivoire auprès des investisseurs",
+        "C": "Il organise la distribution des denrées alimentaires importées",
+        "D": "Il réglemente l’accès à la propriété foncière coutumière"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Que fait l’État en tant qu’actionnaire ?",
+      "réponses": {
+        "A": "Il vend les actions des sociétés privées aux étrangers uniquement",
+        "B": "Il détient des parts dans certaines entreprises privées (CIE, SODECI)",
+        "C": "Il contrôle les prix sans investir dans les entreprises",
+        "D": "Il interdit l’implantation de sociétés étrangères en zone rurale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Qu’est-ce que le désengagement de l’État ?",
+      "réponses": {
+        "A": "La cession partielle ou totale des entreprises publiques au secteur privé",
+        "B": "L’exclusion des citoyens étrangers du marché du travail",
+        "C": "L’abolition des taxes pour les entreprises nationales",
+        "D": "La fermeture des écoles techniques publiques et privées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "À quoi servent les PAS et les PASR ?",
+      "réponses": {
+        "A": "À financer uniquement l’armée et les douanes",
+        "B": "À redresser l’économie et sortir des crises sous l’encadrement du FMI et de la Banque mondiale",
+        "C": "À créer des zones de repli fiscal pour les sociétés étrangères",
+        "D": "À imposer des règles coutumières aux sociétés étrangères"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelles mesures fiscales favorisent l’investissement étranger ?",
+      "réponses": {
+        "A": "Exonérations fiscales, garantie de rapatriement des capitaux, absence de nationalisation",
+        "B": "Imposition forfaitaire sur tout capital étranger, limitation d’embauche",
+        "C": "Taxation lourde sur les profits et blocage des dividendes",
+        "D": "Obligation pour tout étranger de s’associer à une coopérative villageoise"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel est le rôle de l’État incitateur ?",
+      "réponses": {
+        "A": "Il empêche la libre entreprise par des mesures protectionnistes",
+        "B": "Il organise uniquement les foires artisanales traditionnelles",
+        "C": "Il valorise les opportunités économiques auprès des investisseurs",
+        "D": "Il nationalise systématiquement les grandes entreprises"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Pourquoi les foires organisées par l’État sont-elles utiles ?",
+      "réponses": {
+        "A": "Elles permettent de vendre les stocks militaires excédentaires",
+        "B": "Elles exposent les potentialités agricoles, commerciales et industrielles",
+        "C": "Elles sont réservées à la culture et au sport uniquement",
+        "D": "Elles sont destinées aux festivités religieuses intercommunautaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Comment renforcer les ressources financières de l’État ?",
+      "réponses": {
+        "A": "En augmentant la dette extérieure et supprimant les impôts",
+        "B": "En promouvant le civisme fiscal, l’épargne nationale et la lutte contre la fraude",
+        "C": "En privatisant toutes les entreprises nationales de manière intégrale",
+        "D": "En réduisant les services publics essentiels à la population"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quel impact les politiques d’ajustement ont-elles sur l’économie ?",
+      "réponses": {
+        "A": "Elles empêchent la croissance en bloquant les investissements publics",
+        "B": "Elles permettent une meilleure gestion économique malgré des mesures souvent douloureuses",
+        "C": "Elles sont inutiles car imposées par des institutions étrangères",
+        "D": "Elles bloquent l’accès aux ressources naturelles pour les entreprises locales"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

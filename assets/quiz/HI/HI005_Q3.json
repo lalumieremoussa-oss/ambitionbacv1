@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "HI005_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Que prévoit la nouvelle Constitution française de 1946 pour les colonies ?",
+      "réponses": {
+        "A": "Le droit à l’indépendance immédiate et l’abolition du système colonial",
+        "B": "La création d’Assemblées territoriales, la représentation parlementaire et l’Union Française",
+        "C": "L’intégration des colonies comme départements français à statut identique",
+        "D": "La fin du franc CFA et la création d’une monnaie africaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "En quoi ces réformes sont-elles similaires à celles de Brazzaville ?",
+      "réponses": {
+        "A": "Elles visent la fin de la colonisation à court terme",
+        "B": "Elles offrent aux colonies une armée autonome",
+        "C": "Elles intègrent les Africains à la gestion politique et créent des instances représentatives",
+        "D": "Elles organisent des élections présidentielles dans chaque colonie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’est-ce que l’Union Française ?",
+      "réponses": {
+        "A": "Une organisation visant à intégrer les colonies à la République tout en conservant la suprématie française",
+        "B": "Une alliance militaire entre les colonies africaines et la France",
+        "C": "Une structure fédérale indépendante de la France",
+        "D": "Une confédération d’États africains dirigée par Houphouët-Boigny"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Qu’a permis l’adoption de la loi-cadre de 1956 ?",
+      "réponses": {
+        "A": "Le transfert de la diplomatie aux colonies",
+        "B": "La création d’un parlement africain autonome",
+        "C": "L’autonomie administrative locale avec des conseils de gouvernement élus",
+        "D": "La sortie immédiate de l’Union Française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel était l’objectif de De Gaulle avec la Communauté franco-africaine ?",
+      "réponses": {
+        "A": "Maintenir l’influence française tout en offrant une autonomie limitée",
+        "B": "Proclamer l’indépendance des colonies sans condition",
+        "C": "Installer une souveraineté partagée entre les colonies et les États-Unis",
+        "D": "Supprimer tous les liens économiques entre la France et l’Afrique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Pourquoi la Communauté franco-africaine a-t-elle échoué ?",
+      "réponses": {
+        "A": "Parce qu’elle favorisait les pays anglophones",
+        "B": "Parce qu’elle interdisait les partis politiques africains",
+        "C": "Parce que plusieurs colonies ont préféré une indépendance totale à une autonomie sous contrôle français",
+        "D": "Parce qu’elle refusait tout commerce extérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la date officielle de l’indépendance de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "15 août 1960",
+        "B": "1er janvier 1960",
+        "C": "7 août 1960",
+        "D": "30 juin 1960"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel rôle Félix Houphouët-Boigny a-t-il joué dans l’accession à l’indépendance ?",
+      "réponses": {
+        "A": "Il a rédigé seul la Constitution ivoirienne de 1960",
+        "B": "Il a mené une lutte armée contre les troupes françaises",
+        "C": "Il a conduit la stratégie de négociation et porté les réformes nationales jusqu’à l’indépendance",
+        "D": "Il a fondé un gouvernement provisoire en exil"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle a été la contribution du député Lamine Gueye à la cause africaine ?",
+      "réponses": {
+        "A": "Il a défendu et obtenu la citoyenneté française pour tous les ressortissants des colonies",
+        "B": "Il a présidé la conférence de Brazzaville",
+        "C": "Il a été le premier président de la Côte d’Ivoire",
+        "D": "Il a organisé la première grève de planteurs contre la colonisation"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quels sont les principaux acquis du combat nationaliste ivoirien entre 1944 et 1960 ?",
+      "réponses": {
+        "A": "Le rejet de toute influence extérieure et l’adhésion au bloc soviétique",
+        "B": "La création d’un État fédéral africain piloté depuis Abidjan",
+        "C": "L’autonomie administrative, la participation électorale, la fin du travail forcé et l’indépendance nationale",
+        "D": "Le retour à une société communautaire sans structure moderne"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle était la principale limite de l’Union Française ?",
+      "réponses": {
+        "A": "Le pouvoir central restait entre les mains de la France, malgré la participation symbolique des colonies",
+        "B": "Elle permettait une trop grande liberté commerciale aux colonies",
+        "C": "Elle imposait une armée africaine indépendante",
+        "D": "Elle autorisait les colonies à voter leurs propres lois fiscales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel fut l’effet inattendu de la loi-cadre de 1956 ?",
+      "réponses": {
+        "A": "Elle déclencha des révoltes violentes contre les chefs coutumiers",
+        "B": "Elle renforça l’autorité des gouverneurs coloniaux",
+        "C": "Elle accéléra la montée du PDCI et le contrôle africain des conseils territoriaux",
+        "D": "Elle supprima les élections dans les territoires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi la Communauté franco-africaine fut-elle perçue comme un piège par certains leaders africains ?",
+      "réponses": {
+        "A": "Elle imposait une armée panafricaine sans consultation",
+        "B": "Elle maintenait la France comme puissance décisionnelle sans réelle souveraineté pour les colonies",
+        "C": "Elle supprimait les partis politiques africains",
+        "D": "Elle interdisait le commerce intercolonial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle nuance distingue la citoyenneté obtenue par la loi Lamine Gueye ?",
+      "réponses": {
+        "A": "Elle était une citoyenneté politique sans égalité totale sur le plan économique ou juridique",
+        "B": "Elle permettait l’accès à la nationalité française sans condition",
+        "C": "Elle supprimait automatiquement le statut d’indigène",
+        "D": "Elle imposait le vote obligatoire dans toutes les colonies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quel enjeu caché se trouvait derrière les élections de 1957 ?",
+      "réponses": {
+        "A": "L’éventualité d’une indépendance immédiate sans consultation",
+        "B": "Le contrôle des futurs États par les leaders africains au sein d’institutions encore liées à la France",
+        "C": "La suppression des syndicats pro-français",
+        "D": "L’exclusion des chefs traditionnels du processus électoral"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi la loi Houphouët-Boigny fut-elle considérée comme révolutionnaire ?",
+      "réponses": {
+        "A": "Parce qu’elle instaurait l’indépendance immédiate",
+        "B": "Parce qu’elle abrogeait le droit coutumier",
+        "C": "Parce qu’elle mettait fin au travail forcé, symbole majeur du colonialisme",
+        "D": "Parce qu’elle interdisait les plantations industrielles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle contradiction existe dans la logique de la Communauté franco-africaine ?",
+      "réponses": {
+        "A": "Elle interdisait toute collaboration militaire",
+        "B": "Elle favorisait l’entrée des pays africains dans l’OTAN",
+        "C": "Elle proposait l’autonomie sans souveraineté réelle, sous tutelle française",
+        "D": "Elle reconnaissait l’indépendance des territoires français d’outre-mer"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle fut la tactique française pour garder l’influence après les indépendances ?",
+      "réponses": {
+        "A": "Rompre tout lien avec les anciens territoires",
+        "B": "Fermer les ambassades en Afrique",
+        "C": "Maintenir des accords de coopération économiques et militaires favorables à la France",
+        "D": "Imposer des constitutions fédéralistes identiques dans tous les pays"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel était le rôle des Assemblées Territoriales créées en 1946 ?",
+      "réponses": {
+        "A": "Diriger les colonies indépendamment de la métropole",
+        "B": "Appliquer la Constitution française dans toute l’Afrique",
+        "C": "Représenter les Africains dans les décisions locales, sans pouvoir souverain",
+        "D": "Contrôler les mouvements de population indigène"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Lequel de ces éléments exprime le mieux la transition politique opérée en Côte d’Ivoire entre la loi-cadre de 1956 et l’indépendance de 1960 ?",
+      "réponses": {
+        "A": "L’émergence du multipartisme, l’abandon du code de l’indigénat, la mise en place d’une administration centralisée par la métropole.",
+        "B": "L’autonomisation des territoires par des conseils de gouvernement, la fin du travail forcé,",
+        "C": "L'établissement de l'autonomie interne progressive, sous l'égide de la France, menant à l'indépendance sans rupture violente",
+        "D": "L'imposition d'une fédération africaine par la France, sans consultation des leaders locaux."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

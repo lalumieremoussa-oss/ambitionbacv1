@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Probabilité – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+            [
+                {
+                    "title": "Étape 1 : Fondements et calcul des probabilités conditionnelles",
+                    "content": "La probabilité conditionnelle exprime la probabilité qu'un événement $B$ se réalise sachant qu'un événement $A$ (de probabilité non nulle) est déjà réalisé. Elle se note $P_A(B)$ ou $P(B|A)$.\n\n**1. Formule de définition :**\n$P_A(B) = \\frac{P(A \\cap B)}{P(A)}$\nCela implique que la probabilité de l'intersection est : $P(A \\cap B) = P(A) \\times P_A(B)$.\n\n**2. Distinction entre intersection et conditionnement :**\n- $P(A \\cap B)$ : On regarde la probabilité que les deux événements se produisent simultanément sur l'ensemble de la population.\n- $P_A(B)$ : On restreint l'univers à l'événement $A$. C'est la probabilité que $B$ se réalise au sein de la sous-population $A$.\n\n**3. Construction de l'arbre pondéré :**\n- Les branches du premier niveau portent les probabilités des événements simples : $P(A)$ et $P(\\bar{A})$.\n- Les branches du second niveau portent les probabilités conditionnelles : $P_A(B)$ et $P_A(\\bar{B})$.\n- La somme des probabilités issues d'un même nœud est toujours égale à 1.",
+                    "example": "**Situation de référence : Étude d'une campagne de vaccination**\nPour prévenir une maladie, on vaccine 60% d’une population. 10% des vaccinés tombent malades, tandis que 30% des non-vaccinés restent bien portants.\n\n**Analyse des événements :**\n$V$ : « L'individu est vacciné »\n$M$ : « L'individu est malade »\n\n**Traduction des données :**\n$P(V) = 0,6$\n$P(\\bar{V}) = 1 - 0,6 = 0,4$\n$P_V(M) = 0,1$ (10% des vaccinés sont malades)\n$P_{\\bar{V}}(\\bar{M}) = 0,3$ (30% des non-vaccinés sont sains)\n\n**Résolution détaillée :**\n1. Calculons la probabilité qu'un individu soit non-vacciné et malade ($P(\\bar{V} \\cap M)$) :\nOn sait que $P_{\\bar{V}}(M) = 1 - P_{\\bar{V}}(\\bar{M}) = 1 - 0,3 = 0,7$.\n$P(\\bar{V} \\cap M) = P(\\bar{V}) \\times P_{\\bar{V}}(M) = 0,4 \\times 0,7 = 0,28$.\n\n2. Calculons la probabilité que l'individu soit vacciné et malade ($P(V \\cap M)$) :\n$P(V \\cap M) = P(V) \\times P_V(M) = 0,6 \\times 0,1 = 0,06$.\n\nL'individu a donc 6% de chances d'être vacciné et malade contre 28% de chances d'être non-vacciné et malade.",
+                    "extras": [
+                        "**Exemple complet 1 : Contrôle qualité en usine**\n\n**Sujet :** Une machine A produit 5% de pièces défectueuses ($D$). On tire une pièce produite par A.\n**Question :** Calculer la probabilité que la pièce soit conforme (non défectueuse) sachant qu'elle vient de A.\n\n**Commentaire :** On cherche une probabilité conditionnelle complémentaire au sein du groupe A.\n**Résolution :**\nOn donne $P_A(D) = 0,05$.\nL'événement contraire de $D$ est $\\bar{D}$.\n$P_A(\\bar{D}) = 1 - P_A(D)$\n$P_A(\\bar{D}) = 1 - 0,05 = 0,95$.\nLa probabilité qu'une pièce de la machine A soit conforme est de 0,95.",
+
+                        "**Exemple complet 2 : Test de dépistage**\n\n**Sujet :** Dans une région, 2% de la population est atteinte d'un virus ($V$). Un test existe : si une personne est atteinte, le test est positif ($T$) dans 99% des cas.\n**Question :** Calculer la probabilité qu'une personne soit atteinte ET testée positive.\n\n**Commentaire :** Il s'agit d'une intersection $P(V \\cap T)$ car on cherche les deux conditions simultanément.\n**Résolution :**\n$P(V) = 0,02$\n$P_V(T) = 0,99$\n$P(V \\cap T) = P(V) \\times P_V(T)$\n$P(V \\cap T) = 0,02 \\times 0,99 = 0,0198$.\nLa probabilité est de 0,0198.",
+
+                        "**Exemple complet 3 : Transport urbain**\n\n**Sujet :** 70% des employés utilisent le bus ($B$). Parmi eux, 20% arrivent en retard ($R$).\n**Question :** Quelle est la probabilité qu'un employé utilise le bus et arrive à l'heure ?\n\n**Commentaire :** Attention, on demande l'intersection avec l'événement contraire du retard.\n**Résolution :**\n$P(B) = 0,7$\n$P_B(R) = 0,2 \\implies P_B(\\bar{R}) = 1 - 0,2 = 0,8$.\n$P(B \\cap \\bar{R}) = P(B) \\times P_B(\\bar{R})$\n$P(B \\cap \\bar{R}) = 0,7 \\times 0,8 = 0,56$.\nLa probabilité qu'un employé prenne le bus et soit à l'heure est 0,56."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Probabilités totales et inversion de conditionnement (Bayes)",
+                    "content": "Cette étape traite de la synthèse des données d'un arbre et de la capacité à \"remonter\" de l'effet vers la cause.\n\n**1. Loi des probabilités totales :**\nSi les événements $A$ et $\\bar{A}$ forment une partition de l'univers, alors pour tout événement $B$, on a :\n$P(B) = P(A \\cap B) + P(\\bar{A} \\cap B)$\n$P(B) = P(A) \\times P_A(B) + P(\\bar{A}) \\times P_{\\bar{A}}(B)$.\nCette loi permet de calculer la probabilité globale d'un événement qui dépend de plusieurs contextes différents.\n\n**2. Inversion de conditionnement (Formule de Bayes) :**\nElle permet de calculer $P_B(A)$ quand on connaît $P_A(B)$. C'est la probabilité de la cause sachant la conséquence.\n$P_B(A) = \\frac{P(A \\cap B)}{P(B)} = \\frac{P(A) \\times P_A(B)}{P(B)}$.\n\n**⚠️ Confusion fréquente :** Ne pas confondre $P_A(B)$ (Donnée de l'énoncé, prospectif) avec $P_B(A)$ (Résultat de Bayes, rétrospectif).",
+                    "example": "**Situation de référence : Diagnostic de la Covid-19**\nDans une ville, 30% de la population a $\\ge 65$ ans ($S$). 60% de ces seniors ont la Covid-19 ($C$). Chez les moins de 65 ans ($\\bar{S}$), seulement 0,1% ont la Covid-19.\n\n**Question 1 : Justifier que $P(C) = 0,1807$**\n**Résolution :**\nOn applique la loi des probabilités totales :\n$P(C) = P(S \\cap C) + P(\\bar{S} \\cap C)$\n$P(C) = [P(S) \\times P_S(C)] + [P(\\bar{S}) \\times P_{\\bar{S}}(C)]$\n$P(C) = [0,3 \\times 0,6] + [0,7 \\times 0,001]$\n$P(C) = 0,18 + 0,0007 = 0,1807$.\n\n**Question 2 : Si une personne est atteinte de la Covid, quelle est la probabilité qu'elle ait moins de 65 ans ?**\n**Résolution :**\nOn cherche $P_C(\\bar{S})$.\n$P_C(\\bar{S}) = \\frac{P(\\bar{S} \\cap C)}{P(C)}$\n$P_C(\\bar{S}) = \\frac{0,0007}{0,1807} \\approx 0,00387$.\nLa probabilité qu'un malade soit issu du groupe des jeunes est très faible (environ 0,39%).",
+                    "extras": [
+                        "**Exemple complet 1 : Production multi-machines**\n\n**Sujet :** Trois machines A, B, C produisent 60%, 30% et 10% des pièces. Taux de défauts : A(2%), B(3%), C(4%).\n**Question :** On tire une pièce défectueuse ($D$). Probabilité qu'elle vienne de B ?\n\n**Commentaire :** Il faut d'abord calculer $P(D)$ total avant d'appliquer Bayes.\n**Résolution :**\n$P(D) = (0,6 \\times 0,02) + (0,3 \\times 0,03) + (0,1 \\times 0,04)$\n$P(D) = 0,012 + 0,009 + 0,004 = 0,025$.\n$P_D(B) = \\frac{P(B \\cap D)}{P(D)} = \\frac{0,009}{0,025} = 0,36$.\nIl y a 36% de chances que cette pièce défectueuse vienne de la machine B.",
+
+                        "**Exemple complet 2 : Fiabilité d'une alarme**\n\n**Sujet :** Un danger ($D$) survient avec une probabilité 0,01. L'alarme ($A$) se déclenche dans 99% des cas si le danger est là, mais se déclenche par erreur dans 5% des cas sans danger.\n**Question :** Quelle est la probabilité qu'il y ait un réel danger si l'alarme sonne ?\n\n**Commentaire :** C'est un calcul de $P_A(D)$.\n**Résolution :**\n$P(A) = P(D \\cap A) + P(\\bar{D} \\cap A)$\n$P(A) = (0,01 \\times 0,99) + (0,99 \\times 0,05) = 0,0099 + 0,0495 = 0,0594$.\n$P_A(D) = \\frac{0,0099}{0,0594} \\approx 0,166$.\nMême si l'alarme sonne, il n'y a que 16,6% de chances que le danger soit réel à cause des fausses alertes.",
+
+                        "**Exemple complet 3 : Orientation scolaire**\n\n**Sujet :** Dans un lycée, 40% des élèves sont en série scientifique ($S$). 80% des $S$ obtiennent le BAC. 60% des non-$S$ obtiennent le BAC.\n**Question :** Un élève a eu son BAC. Quelle est la probabilité qu'il soit en série $S$ ?\n\n**Commentaire :** Utilisation directe de la formule de Bayes.\n**Résolution :**\n$P(BAC) = (0,4 \\times 0,8) + (0,6 \\times 0,6) = 0,32 + 0,36 = 0,68$.\n$P_{BAC}(S) = \\frac{0,32}{0,68} = \\frac{32}{68} = \\frac{8}{17} \\approx 0,47$.\nLa probabilité est d'environ 0,47."
+                    ]
+                }
+            ]
+
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

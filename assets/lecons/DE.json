@@ -1,0 +1,727 @@
+{
+  "allemand": [
+    {
+      "level": "LOS GEHT’S! (COMMENÇONS !)",
+      "lessons": [
+        {
+          "id": "DE01",
+          "titre": "Die Verben haben und sein (Les verbes avoir et être)",
+          "sections": [
+            {
+              "id": "DE01_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE01_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE01_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE01_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE01_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE01_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE02",
+          "titre": "Sich vorstellen (1) – Se présenter (1)",
+          "sections": [
+            {
+              "id": "DE02_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE02_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE02_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE02_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE02_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE02_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "DE02_Q4",
+              "titre": "Quiz 4"
+            }
+          ]
+        },
+        {
+          "id": "DE03",
+          "titre": "Sich im Präsens ausdrücken (S’exprimer au présent)",
+          "sections": [
+            {
+              "id": "DE03_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE03_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE03_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE03_Q0",
+              "titre": "Quiz 0"
+            },
+            {
+              "id": "DE03_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE03_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE03_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "DE03_Q4",
+              "titre": "Quiz 4"
+            }
+          ]
+        },
+        {
+          "id": "DE04",
+          "titre": "Einfache Sätze bilden (Construire des phrases simples)",
+          "sections": [
+            {
+              "id": "DE04_C1",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE04_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE04_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE04_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE04_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE04_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "DE04_Q4",
+              "titre": "Quiz 4"
+            },
+            {
+              "id": "DE04_Q5",
+              "titre": "Quiz 5"
+            }
+          ]
+        },
+        {
+          "id": "DE05",
+          "titre": "Sich vorstellen (2) – Se présenter (2)",
+          "sections": [
+            {
+              "id": "DE05_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE05_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE05_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE05_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE05_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE05_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE07",
+          "titre": "Zahlen und Uhrzeit (Les nombres et l’heure)",
+          "sections": [
+            {
+              "id": "DE07_C1",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE07_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE07_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE07_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE07_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE07_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "DE07_Q4",
+              "titre": "Quiz 4"
+            },
+            {
+              "id": "DE07_Q5",
+              "titre": "Quiz 5"
+            },
+            {
+              "id": "DE07_Q6",
+              "titre": "Quiz 6"
+            },
+            {
+              "id": "DE07_Q7",
+              "titre": "Quiz 7"
+            },
+            {
+              "id": "DE07_Q8",
+              "titre": "Quiz 8"
+            },
+            {
+              "id": "DE07_Q9",
+              "titre": "Quiz 9"
+            },
+            {
+              "id": "DE07_Q10",
+              "titre": "Quiz 10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Niveau 2 – Alltagsdeutsch",
+      "lessons": [
+        {
+          "id": "DE11",
+          "titre": "In der Schule (À l’école)",
+          "sections": [
+            {
+              "id": "DE11_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE11_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE11_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE11_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE11_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE11_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE12",
+          "titre": "Zu Hause (À la maison)",
+          "sections": [
+            {
+              "id": "DE12_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE12_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE12_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE12_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE12_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE12_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE13",
+          "titre": "Essen und Trinken (Les repas et la nourriture)",
+          "sections": [
+            {
+              "id": "DE13_C1",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE13_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE13_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE13_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE13_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE13_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE14",
+          "titre": "Am Bahnhof (À la gare)",
+          "sections": [
+            {
+              "id": "DE14_C1",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE14_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE14_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE14_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE14_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE14_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE15",
+          "titre": "In der Stadt (Se déplacer en ville)",
+          "sections": [
+            {
+              "id": "DE15_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE15_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE15_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE15_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE15_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE15_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE16",
+          "titre": "Auf dem Sportplatz (Sur le terrain de sport)",
+          "sections": [
+            {
+              "id": "DE16_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE16_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE16_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE16_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE16_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE16_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE17",
+          "titre": "Feste und Feiern (Les fêtes et célébrations)",
+          "sections": [
+            {
+              "id": "DE17_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE17_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE17_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE17_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE17_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE17_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE18",
+          "titre": "Über ein vergangenes Ereignis sprechen",
+          "sections": [
+            {
+              "id": "DE18_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE18_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE18_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE18_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE18_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE18_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE19",
+          "titre": "Einen argumentativen Text schreiben",
+          "sections": [
+            {
+              "id": "DE19_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE19_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE19_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE19_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE19_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE19_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE21",
+          "titre": "Einfache Debatten und Präsentationen: Methodik",
+          "sections": [
+            {
+              "id": "DE21_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE21_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE21_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE21_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE21_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE21_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE22",
+          "titre": "Debatte: Körperstrafe in der Erziehung",
+          "sections": [
+            {
+              "id": "DE22_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE22_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE22_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE22_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE22_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE22_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE23",
+          "titre": "Debatte: Die Rolle der Influencer",
+          "sections": [
+            {
+              "id": "DE23_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE23_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE23_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE23_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE23_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE23_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE24",
+          "titre": "Präsentation: Künstliche Intelligenz und Schüler",
+          "sections": [
+            {
+              "id": "DE24_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE24_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE24_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE24_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE24_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE24_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "Niveau 4 – Verändere die Welt! (Change le monde !)",
+      "lessons": [
+        {
+          "id": "DE31",
+          "titre": "Komplexe Debatten: Methodik",
+          "sections": [
+            {
+              "id": "DE31_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE31_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE31_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE31_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE31_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE31_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DE32",
+          "titre": "Debatte: Die wirtschaftliche Unabhängigkeit Afrikas",
+          "sections": [
+            {
+              "id": "DE32_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DE32_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DE32_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DE32_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DE32_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DE32_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "DEDIC01",
+          "titre": "Farben und Adjektive",
+          "sections": [
+            {
+              "id": "DEDIC01_C",
+              "titre": "Kurs"
+            },
+            {
+              "id": "DEDIC01_V1",
+              "titre": "Video 1"
+            },
+            {
+              "id": "DEDIC01_V2",
+              "titre": "Video 2"
+            },
+            {
+              "id": "DEDIC01_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "DEDIC01_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "DEDIC01_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

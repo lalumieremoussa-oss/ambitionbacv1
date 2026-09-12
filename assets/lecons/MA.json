@@ -1,0 +1,450 @@
+[
+  {
+    "id": "MA001",
+    "titre": "Étude de fonctions polynômes et rationnelle",
+    "sections": [
+      {
+        "id": "MA001_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA001_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA001_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA001_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA001_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA001_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA001_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA001_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA001_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA001_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MA002",
+    "titre": "Probabilité et variable aléatoire",
+    "sections": [
+      {
+        "id": "MA002_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA002_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA002_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA002_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA002_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA002_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA002_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA002_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA002_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA002_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MA003",
+    "titre": "Primitives et calcul intégral",
+    "sections": [
+      {
+        "id": "MA003_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA003_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA003_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA003_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA003_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA003_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA003_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA003_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA003_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA003_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MA004",
+    "titre": "Fonction logarithme népérien",
+    "sections": [
+      {
+        "id": "MA004_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA004_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA004_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA004_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA004_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA004_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA004_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA004_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA004_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA004_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MAREV1",
+    "titre": "Révision - Probabilité et fonction ln",
+    "sections": [
+      {
+        "id": "MAREV1_E1",
+        "titre": "Exercices 1"
+      },
+      {
+        "id": "MAREV1_E2",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MAREV1_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MAREV1_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MAREV1_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MAREV1_V4",
+        "titre": "Vidéo 4"
+      }
+    ]
+  },
+  {
+    "id": "MA005",
+    "titre": "Fonction exponentielle népérienne",
+    "sections": [
+      {
+        "id": "MA005_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA005_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA005_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA005_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA005_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA005_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA005_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA005_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA005_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA005_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MA006",
+    "titre": "Statistique à deux variables",
+    "sections": [
+      {
+        "id": "MA006_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA006_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA006_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA006_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA006_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA006_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA006_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA006_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA006_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA006_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MA007",
+    "titre": "Suites numériques",
+    "sections": [
+      {
+        "id": "MA007_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA007_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA007_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA007_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA007_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA007_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA007_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA007_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA007_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA007_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MA008",
+    "titre": "Systèmes d'équations linéaires",
+    "sections": [
+      {
+        "id": "MA008_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MA008_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MA008_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MA008_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MA008_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MA008_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MA008_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MA008_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MA008_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "MA008_Q4",
+        "titre": "Quiz 4"
+      }
+    ]
+  },
+  {
+    "id": "MAREV2",
+    "titre": "Révision générale et Prépa BAC",
+    "sections": [
+      {
+        "id": "MAREV2_E1",
+        "titre": "Exercices et corrigés Partie 1"
+      },
+      {
+        "id": "MAREV2_E2",
+        "titre": "Exercices et corrigés Partie 2"
+      },
+      {
+        "id": "MAREV2_E3",
+        "titre": "Exercices et corrigés Partie 3"
+      },
+      {
+        "id": "MAREV2_E4",
+        "titre": "Exercices et corrigés Partie 4"
+      },
+      {
+        "id": "MAREV2_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MAREV2_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MAREV2_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MAREV2_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MAREV2_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MAREV2_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MAREV2_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+
+  {
+    "id": "PH009_Q2",
+    "title": "Quiz 2",
+    "questions": {
+      "question n°1": {
+        "question": "Ce quiz est la suite du précédent (Doit-on Surestimer la Science ?) L’Axe 2 de ce sujet s’intitule « La science ne peut tout résoudre : elle a des limites ». Cela implique que :",
+        "réponses": {
+          "A": "La science est totalement incapable d’apporter des solutions à quelque problème que ce soit, qu’il soit simple ou complexe.",
+          "B": "Le pouvoir de la science est illimité, et toute mention de « limites » est une erreur de jugement ou une perception erronée.",
+          "C": "Les limites de la science ne sont que temporaires et seront toutes dépassées grâce aux futurs progrès technologiques et aux nouvelles découvertes.",
+          "D": "La science, malgré ses succès et sa puissance, possède des frontières inhérentes à sa méthode et à son domaine d’application, l’empêchant d’être une solution universelle."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°2": {
+        "question": "L’Argument (« La vérité scientifique est relative et révisable ») esT soutenu par l’idée que chaque théorie scientifique est :",
+        "réponses": {
+          "A": "Une vérité absolue et définitive, qui ne pourra jamais être remise en question par de nouvelles observations ou découvertes.",
+          "B": "Une opinion subjective et sans fondement, qui ne repose sur aucune donnée objective ou aucune expérimentation rigoureuse.",
+          "C": "Le résultat d’une révélation divine, qui échappe à toute critique rationnelle ou toute vérification empirique par la communauté scientifique.",
+          "D": "susceptible d’être remise en cause, modifiée ou remplacée par une théorie plus pertinente à la lumière de nouvelles preuves ou de nouveaux paradigmes."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°3": {
+        "question": "Robert Blanché, dans L’Axiomatique, affirme que la vérité d’un système est simplement « leur intégration au système ». Cela signifie que la vérité scientifique est :",
+        "réponses": {
+          "A": "Principalement une correspondance avec une réalité extérieure et indépendante du cadre théorique dans lequel elle est formulée.",
+          "B": "Une adéquation parfaite entre une idée et un fait observable, qui ne dépend d’aucune construction intellectuelle ou linguistique.",
+          "C": "Un pur hasard ou une simple coïncidence, sans aucun lien avec la logique interne ou la structure des connaissances scientifiques.",
+          "D": "Essentiellement une cohérence interne au sein d’un ensemble de propositions et de règles, et non une adéquation directe et immuable avec une réalité brute."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°4": {
+        "question": "La science ne répond pas aux besoins spirituels ou moraux car :",
+        "réponses": {
+          "A": "Elle est capable de fournir des réponses claires et définitives à toutes les questions existentielles, éthiques et religieuses de l’humanité.",
+          "B": "La science se limite volontairement aux questions matérielles par choix éthique, sans aucune influence sur la sphère spirituelle ou morale.",
+          "C": "L’homme a des aspirations au sens, des valeurs, et un besoin de consolation, des dimensions que la méthode scientifique, focalisée sur le « comment », ne peut pas combler.",
+          "D": "Les besoins spirituels et moraux sont de pures illusions, qui disparaissent naturellement à mesure que la connaissance scientifique progresse."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°5": {
+        "question": "Dans L’Avenir d’une illusion, Sigmund Freud soutient que la science ne peut combler les désirs religieux ou philosophiques. Cette affirmation signifie que :",
+        "réponses": {
+          "A": "La science est la nouvelle religion de l’humanité, offrant des réponses absolues à toutes les quêtes de sens et de transcendance.",
+          "B": "Les désirs religieux et philosophiques sont des névroses collectives qui peuvent être entièrement guéries par l’application de la méthode scientifique.",
+          "C": "Freud a démontré que la religion et la philosophie sont des domaines de connaissance supérieurs à la science, capables de résoudre tous les problèmes humains.",
+          "D": "La science, par sa nature empirique et rationnelle, est impuissante à satisfaire les aspirations humaines profondes pour le sens de l’existence, l’au-delà ou les valeurs ultimes."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°6": {
+        "question": "L’application de la science peut produire des catastrophes, comme :",
+        "réponses": {
+          "A": "Des avancées techniques qui ne produisent que des bienfaits, sans aucun effet négatif sur l’environnement ou l’humanité.",
+          "B": "La pollution environnementale, le développement d’armes de destruction massive, ou des manipulations génétiques incontrôlées, qui menacent l’existence même de l’humanité.",
+          "C": "La découverte de nouvelles formes d’énergie propre qui résolvent tous les problèmes de pollution et d’épuisement des ressources naturelles.",
+          "D": "L’amélioration constante des conditions de vie, sans aucun revers ou conséquence imprévue sur la santé humaine ou la stabilité sociale."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°7": {
+        "question": "Quel philosophe, dans son Discours sur les sciences et les arts, critique le progrès scientifique en affirmant qu’il corrompt les mœurs ?",
+        "réponses": {
+          "A": "Voltaire, fervent défenseur des Lumières et de la raison scientifique pour le progrès de la société.",
+          "B": "Jean-Jacques Rousseau, qui dénonce l’idée que le progrès des sciences et des arts mène nécessairement à l’amélioration morale de l’homme, y voyant même une source de décadence.",
+          "C": "Denis Diderot, encyclopédiste qui voyait dans les sciences un moyen d’émanciper l’humanité.",
+          "D": "Montesquieu, pour sa théorie de la séparation des pouvoirs et son analyse des lois en fonction des climats et des mœurs."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°8": {
+        "question": "Jean-Jacques Rousseau, en affirmant que la science « corrompt les mœurs », exprime l’idée que :",
+        "réponses": {
+          "A": "La science est un facteur de progrès moral et éthique, qui rend l’homme plus vertueux et plus juste dans ses relations sociales.",
+          "B": "Le développement scientifique et technique est intrinsèquement neutre, sans aucun impact sur les valeurs ou les comportements humains.",
+          "C": "Le progrès scientifique, au lieu d’améliorer la moralité, peut engendrer l’artifice, l’égoïsme, la perte d’authenticité et l’éloignement des vertus naturelles de l’homme.",
+          "D": "La science est une discipline purement intellectuelle, sans aucune application pratique ou conséquence sur la vie quotidienne des individus."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°9": {
+        "question": "Dans Le Jeu des possibles, François Jacob affirme que la science peut être « source de malheur ». Cela signifie que :",
+        "réponses": {
+          "A": "La science est incapable de produire quoi que ce soit de bénéfique pour l’humanité, étant uniquement une source de souffrance et de destruction.",
+          "B": "La science est un jeu intellectuel sans aucune conséquence réelle sur la vie humaine, qu’elle soit heureuse ou malheureuse.",
+          "C": "Le pouvoir de la science, s’il n’est pas accompagné d’une réflexion éthique ou d’une maîtrise responsable, peut entraîner des conséquences néfastes et douloureuses pour l’humanité.",
+          "D": "Le malheur est une condition humaine inévitable, et la science n’a aucune influence sur la capacité de l’homme à trouver le bonheur ou la souffrance."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°10": {
+        "question": "La « relativité » de la vérité scientifique, signifie que :",
+        "réponses": {
+          "A": "La vérité scientifique est toujours contingente à l’état des connaissances et des méthodes disponibles à un moment donné, pouvant être révisée par de nouvelles découvertes.",
+          "B": "La science n’atteint jamais la vérité, car toutes ses théories sont intrinsèquement fausses et sans fondement.",
+          "C": "La vérité scientifique est arbitraire et dépend des opinions individuelles, sans aucune référence à des faits ou des preuves objectives.",
+          "D": "La relativité signifie que la science est une discipline purement subjective, incapable de produire des connaissances universellement valides."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°11": {
+        "question": "La science ne fournit pas de « consolation ». Cela implique que :",
+        "réponses": {
+          "A": "La science, par sa nature descriptive et explicative des faits objectifs, est inadaptée pour offrir un soutien émotionnel, un sens à la vie, ou des réponses aux questions de la mort et de l’au-delà.",
+          "B": "Le réconfort est une émotion superficielle et sans importance, qui n’a pas sa place dans la démarche scientifique rigoureuse.",
+          "C": "La science est le seul domaine capable d’apporter un réconfort absolu face aux angoisses existentielles et aux souffrances humaines.",
+          "D": "Les besoins de consolation sont des illusions créées par la religion, et la science a pour mission de les déconstruire sans offrir d’alternative."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°12": {
+        "question": "La science, mal encadrée, peut entraîner des conséquences négatives. Cela montre que :",
+        "réponses": {
+          "A": "La science est une force intrinsèquement maléfique, qui ne produit que des catastrophes, même lorsqu’elle est utilisée avec les meilleures intentions.",
+          "B": "Le savoir scientifique est neutre en soi, et ses applications sont toujours positives, quel que soit le contexte ou l’objectif poursuivi.",
+          "C": "L’encadrement de la science est superflu, car elle est auto-régulée et s’oriente toujours naturellement vers le bien commun.",
+          "D": "Le pouvoir de la science, en l’absence de régulations éthiques, morales ou politiques, peut être détourné pour des usages destructeurs ou irréversibles, nuisant à l’humanité ou à l’environnement."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°13": {
+        "question": "L’Axe II affirme que la science a des limites et ne peut pas tout résoudre, contredisant l’idée qu’elle serait une panacée universelle.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°14": {
+        "question": "Robert Blanché soutient que la vérité d’une théorie scientifique est absolue et indépendante de son intégration à un système de connaissances.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°15": {
+        "question": "La science répond pleinement aux besoins spirituels et moraux de l’homme, en lui offrant un sens et des valeurs.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°16": {
+        "question": "Freud, dans L’Avenir d’une illusion, affirme que la science peut combler tous les désirs religieux et philosophiques de l’homme.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°17": {
+        "question": "Jean-Jacques Rousseau, dans son Discours sur les sciences et les arts, défend l’idée que le progrès scientifique conduit toujours à l’amélioration des mœurs humaines.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°18": {
+        "question": "La conclusion du sujet propose une approche équilibrée qui consiste à reconnaître la valeur de la science sans en faire une idole, en l’accompagnant de la réflexion philosophique, morale et politique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°19": {
+        "question": "Les applications de la science, comme la manipulation génétique, sont toujours bénéfiques et sans danger pour l’humanité.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°20": {
+        "question": "Le fait que la science soit « une forme de savoir rigoureux et fécond » est le seul point sur lequel la conclusion insiste, sans mentionner ses limites.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      }
+    }
+  }

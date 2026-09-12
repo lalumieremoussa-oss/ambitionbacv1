@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+    </div>
+
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data =
+            [
+                { "q": "Quelle est la formule correcte de l'Intégration par Parties (IPP) ?", "options": { "A": "[uv] - \\int u v'", "B": "[uv] - \\int u' v", "C": "[u'v] - \\int uv'", "D": "[uv] + \\int u' v" }, "r": "B" },
+                { "q": "Dans le calcul de $\\int x e^x dx$ par IPP, quel est le meilleur choix pour $u(x)$ ?", "options": { "A": "u(x) = e^x", "B": "u(x) = x", "C": "u(x) = 1", "D": "u(x) = xe^x" }, "r": "B" },
+                { "q": "Pour calculer $\\int ln(x) dx$, quelle astuce utilise-t-on ?", "options": { "A": "On pose $u(x) = 1$", "B": "On écrit $ln(x) = 1 \\times ln(x)$", "C": "On utilise la primitive $1/x$", "D": "On passe par l'exponentielle" }, "r": "B" },
+                { "q": "Dans l'exemple $J = \\int_{1}^{e} ln(x) dx$, après IPP, on obtient :", "options": { "A": "e", "B": "1", "C": "e - 1", "D": "0" }, "r": "B" },
+                { "q": "Si on doit calculer $\\int x^2 ln(x) dx$, quel choix est le plus judicieux ?", "options": { "A": "u(x) = x^2 car sa dérivée est simple", "B": "u(x) = ln(x) car on ne connaît pas sa primitive directement", "C": "v'(x) = ln(x)", "D": "u(x) = 2x" }, "r": "B" },
+                { "q": "Quelle fonction choisit-on généralement comme $u(x)$ (celle qu'on dérive) face à un produit Polynôme $\\times$ Expo ?", "options": { "A": "L'exponentielle", "B": "Le polynôme", "C": "Peu importe", "D": "La constante" }, "r": "B" },
+                { "q": "Le calcul de $I = \\int_{0}^{1} x e^x dx$ donne :", "options": { "A": "e", "B": "1", "C": "e - 1", "D": "1 - e" }, "r": "B" },
+                { "q": "Pour l'intégrale $L = \\int_{0}^{1} (x+1)e^{-x} dx$, la dérivée de $u(x) = x+1$ est :", "options": { "A": "x", "B": "1", "C": "0", "D": "e^{-x}" }, "r": "B" },
+                { "q": "L'IPP est particulièrement utile quand l'intégrande est un :", "options": { "A": "Quotient de fonctions", "B": "Produit de deux fonctions", "C": "Somme de fonctions", "D": "Carré d'une fonction" }, "r": "B" },
+                { "q": "Lors d'une IPP, si $v'(x) = e^{-x}$, alors $v(x)$ est :", "options": { "A": "e^{-x}", "B": "-e^{-x}", "C": "e^x", "D": "-e^x" }, "r": "B" }
+            ]
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,194 @@
+{
+  "id": "SVT013_Q2",
+  "title": "Quiz 2 : Défense Spécifique à médiation Humorale",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi une souris A meurt-elle après injection directe de la toxine tétanique ?",
+      "réponses": {
+        "A": "Elle est allergique à la toxine.",
+        "B": "Elle n’a aucun moyen de défense spécifique contre cette toxine.",
+        "C": "Elle est déjà malade.",
+        "D": "La toxine agit comme un antibiotique puissant."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi une souris ayant reçu de l’anatoxine tétanique survit-elle à une injection ultérieure de toxine tétanique ?",
+      "réponses": {
+        "A": "Elle a appris à éviter la toxine.",
+        "B": "L’anatoxine neutralise la toxine dans le sang.",
+        "C": "Elle a acquis une immunité spécifique contre cette toxine.",
+        "D": "Elle développe une réaction allergique protectrice."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’indique la mort d’une souris après injection de toxine diphtérique malgré une immunisation contre la toxine tétanique ?",
+      "réponses": {
+        "A": "L’anatoxine tétanique est universelle.",
+        "B": "L’immunité est générale.",
+        "C": "L’immunité est spécifique à l’antigène injecté.",
+        "D": "Les toxines sont trop semblables."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Le transfert de sérum d’un animal immunisé vers un autre non immunisé permet :",
+      "réponses": {
+        "A": "Une réaction inflammatoire.",
+        "B": "Une protection passive contre l’antigène correspondant.",
+        "C": "Une infection secondaire.",
+        "D": "Une destruction des globules rouges."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel type de molécule protectrice est transféré avec le sérum d’un animal immunisé ?",
+      "réponses": {
+        "A": "Des enzymes digestives",
+        "B": "Des globules rouges",
+        "C": "Des anticorps",
+        "D": "Des toxines modifiées"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "L’expérience avec le sérum montre que la défense contre la toxine tétanique est :",
+      "réponses": {
+        "A": "Cellulaire uniquement",
+        "B": "Génétique",
+        "C": "Hormonale",
+        "D": "Humorale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quel est le rôle principal des plasmocytes dans l’immunité spécifique ?",
+      "réponses": {
+        "A": "Détruire les cellules infectées",
+        "B": "Produire des anticorps",
+        "C": "Transporter l’oxygène",
+        "D": "Phagocyter les bactéries"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelles cellules identifient les antigènes et activent les LB ?",
+      "réponses": {
+        "A": "Les lymphocytes NK",
+        "B": "Les macrophages",
+        "C": "Les lymphocytes T4",
+        "D": "Les lymphocytes B"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Les interleukines produites par les LT4 ont pour rôle principal de :",
+      "réponses": {
+        "A": "Créer des globules rouges",
+        "B": "Activer les granulocytes",
+        "C": "Stimuler les LB pour qu’ils se différencient en plasmocytes",
+        "D": "Supprimer les anticorps circulants"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel ordre décrit correctement le mécanisme de défense spécifique humorale ?",
+      "réponses": {
+        "A": "LB → LT4 → Mge → Plasmocytes → Anticorps",
+        "B": "Mge → LT4 → LB → Plasmocytes → Anticorps",
+        "C": "Anticorps → LT4 → Mge → LB",
+        "D": "Ptes → LB → LT4 → Ac → Mge"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L’immunité est universelle : un vaccin contre une toxine protège contre toutes les autres.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Une souris non immunisée contre la toxine tétanique meurt après exposition à cette toxine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Le sérum d’un animal immunisé contient des anticorps spécifiques.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Les anticorps sont produits par les macrophages après reconnaissance de l’antigène.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La réaction spécifique à médiation humorale fait intervenir des cellules productrices d’anticorps.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Une réponse immunitaire spécifique est immédiate et agit contre tous les agents pathogènes de la même manière.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Après reconnaissance de l'antigène, les [...A...] sécrètent des interleukines qui activent les [...B...], lesquels se différencient en [...C...] capables de produire des anticorps.",
+      "réponses": {
+        "A": "A: macrophages, B: NK, C: plasmocytes",
+        "B": "A: LT4, B: LB, C: plasmocytes",
+        "C": "A: granulocytes, B: LT8, C: lymphocytes",
+        "D": "A: LB, B: T8, C: mastocytes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Le transfert de [...A...] d’un animal immunisé à un autre transmet une immunité [...B...] par l’intermédiaire des [...C...].",
+      "réponses": {
+        "A": "A: sérum, B: passive, C: anticorps",
+        "B": "A: globules blancs, B: acquise, C: lymphocytes",
+        "C": "A: sang total, B: active, C: enzymes",
+        "D": "A: cellules souches, B: innée, C: cytokines"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Lorsqu’une souris reçoit une injection de toxine tétanique après avoir été immunisée avec [...A...], elle survit grâce à la production [...B...] d’anticorps dirigés [...C...] contre cette toxine.",
+      "réponses": {
+        "A": "A: anatoxine tétanique, B: spécifique, C: exclusivement",
+        "B": "A: toxine diphtérique, B: massive, C: générique",
+        "C": "A: sérum, B: immédiate, C: indirectement",
+        "D": "A: interleukines, B: inflammatoire, C: universellement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Une réaction spécifique humorale commence par la présentation de l'antigène par les [...A...] aux [...B...], qui activent ensuite les [...C...].",
+      "réponses": {
+        "A": "A: LT4, B: macrophages, C: plasmocytes",
+        "B": "A: plasmocytes, B: LB, C: NK",
+        "C": "A: macrophages, B: LT4, C: LB",
+        "D": "A: LB, B: granulocytes, C: lymphocytes NK"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

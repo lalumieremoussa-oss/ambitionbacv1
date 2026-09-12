@@ -1,0 +1,367 @@
+{
+  "title": "Quiz 2",
+  "id": "AN01_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"J'ai un livre.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am a book.",
+        "B": "I has a book.",
+        "C": "I is a book.",
+        "D": "I have a book."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Il a une voiture.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "He have a car.",
+        "B": "He are a car.",
+        "C": "He is a car.",
+        "D": "He has a car."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Elle a un téléphone.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "She have a phone.",
+        "B": "She are a phone.",
+        "C": "She has a phone.",
+        "D": "She am a phone."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Nous avons des amis.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "We is friends.",
+        "B": "We have friends.",
+        "C": "We has friends.",
+        "D": "We are friends."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction correcte de \"Ils ont les clés\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "They has the keys.",
+        "B": "They are the keys.",
+        "C": "They is the keys.",
+        "D": "They have the keys."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte de \"to have\" pour le sujet \"Tu\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "You has",
+        "B": "You is",
+        "C": "You are",
+        "D": "You have"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Mon frère a un vélo.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My brother have a bike.",
+        "B": "My brother is a bike.",
+        "C": "My brother are a bike.",
+        "D": "My brother has a bike."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Les élèves ont des livres.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "The students have books.",
+        "B": "The students has books.",
+        "C": "The students is books.",
+        "D": "The students are books."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"J'ai un stylo et une règle.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I is a pen and a ruler.",
+        "B": "I has a pen and a ruler.",
+        "C": "I am a pen and a ruler.",
+        "D": "I have a pen and a ruler."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quelle est la traduction de \"Nous avons des idées\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "We is ideas.",
+        "B": "We has ideas.",
+        "C": "We am ideas.",
+        "D": "We have ideas."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"J'ai un livre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "a",
+        "book",
+         "have",
+        "she"
+      ],
+      "bonne réponse": "I have a book"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Tu as une pomme.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "have",
+        "an",
+        "You",
+        "apple",
+        "he",
+        "has",
+        "a",
+        "cat"
+      ],
+      "bonne réponse": "You have an apple"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Elle a un chat.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "has",
+        "a",
+        "She",
+        "cat",
+        "I",
+        "am",
+        "is",
+        "happy"
+      ],
+      "bonne réponse": "She has a cat"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Il a un vélo.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "He",
+        "has",
+        "a",
+        "we",
+        "have",
+        "the",
+        "bike",
+        "ball"
+      ],
+      "bonne réponse": "He has a bike"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Nous avons une balle.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "We",
+        "a",
+        "have",
+        "ball",
+        "he",
+        "is",
+        "at",
+        "home"
+      ],
+      "bonne réponse": "We have a ball"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Ils ont de l'argent.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "money",
+        "she",
+        "has",
+        "They",
+        "have",
+        "pen"
+      ],
+      "bonne réponse": "They have money"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"La fille a un stylo.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "The",
+        "has",
+        "girl",
+        "a",
+        "pen",
+        "I",
+        "am",
+        "happy",
+        "you",
+        "are"
+      ],
+      "bonne réponse": "The girl has a pen"
+    },
+    "question n°18": {
+      "question": "Complétez : \"Je n'ai pas de voiture.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "not",
+        "I",
+        "have",
+        "a",
+        "he",
+        "is",
+        "she",
+        "has",
+        "the",
+        "car",
+        "house"
+      ],
+      "bonne réponse": "I do not have a car"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Vous avez les crayons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "pencils",
+        "You",
+        "have",
+        "the",
+        "we",
+        "are",
+        "children",
+        "a"
+      ],
+      "bonne réponse": "You have the pencils"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Elle a les chaussures.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "She",
+        "the",
+        "has",
+        "shoes",
+        "I",
+        "am",
+        "is",
+        "beautiful"
+      ],
+      "bonne réponse": "She has the shoes"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Il a une idée.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "He",
+        "has",
+        "an",
+        "idea",
+        "we",
+        "are",
+        "at",
+        "school"
+      ],
+      "bonne réponse": "He has an idea"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Nous avons deux chats.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "two",
+        "We",
+        "cats",
+        "they",
+        "is",
+        "the",
+        "have",
+        "keys"
+      ],
+      "bonne réponse": "We have two cats"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"J'ai un sac à dos.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "have",
+        "I",
+        "a",
+        "she",
+        "is",
+        "at",
+        "backpack",
+        "home"
+      ],
+      "bonne réponse": "I have a backpack"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ils ont des problèmes.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "They",
+        "am",
+        "problems",
+        "have",
+        "I",
+        "sad"
+      ],
+      "bonne réponse": "They have problems"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Ma sœur a un enfant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sister",
+        "child",
+        "has",
+        "My",
+        "a",
+        "we",
+        "are",
+        "the",
+        "students",
+        "is"
+      ],
+      "bonne réponse": "My sister has a child"
+    },
+    "question n°26": {
+      "question": "Traduisez le verbe \"avoir\" (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "To have"
+    },
+    "question n°27": {
+      "question": "Quelle est la conjugaison de \"to have\" pour le pronom personnel \"Nous\" ?",
+      "type": "short_answer",
+      "bonne réponse": "We have"
+    },
+    "question n°28": {
+      "question": "Traduisez le groupe de mots \"Elle a\".",
+      "type": "short_answer",
+      "bonne réponse": "She has"
+    },
+    "question n°29": {
+      "question": "Traduisez le groupe de mots \"Vous avez\".",
+      "type": "short_answer",
+      "bonne réponse": "You have"
+    },
+    "question n°30": {
+      "question": "Quelle est la forme du verbe \"To have\" qui correspond à \"Mon oncle\" ?",
+      "type": "short_answer",
+      "bonne réponse": "has"
+    }
+  }
+}

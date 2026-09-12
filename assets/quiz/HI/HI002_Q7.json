@@ -1,0 +1,306 @@
+{
+  "title": "Quiz 7",
+  "id": "HI002_Q7",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle idéologie dominait le bloc de l'Est pendant la guerre froide ?",
+      "réponses": {
+        "A": "Le capitalisme",
+        "B": "Le communisme",
+        "C": "Le libéralisme",
+        "D": "L’anarchisme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Qui a prononcé l’allocution du 25 décembre 1991 annonçant la fin de l’URSS ?",
+      "réponses": {
+        "A": "Boris Eltsine",
+        "B": "Vladimir Poutine",
+        "C": "Mikhaïl Gorbatchev",
+        "D": "Leonid Brejnev"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel mur symbolisait la division de l’Europe pendant la guerre froide ?",
+      "réponses": {
+        "A": "Le mur de Berlin",
+        "B": "Le mur de Varsovie",
+        "C": "Le mur de Moscou",
+        "D": "Le mur de Prague"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Que signifiait la réforme 'Glasnost' ?",
+      "réponses": {
+        "A": "Transparence et liberté d’expression",
+        "B": "Réforme monétaire",
+        "C": "Alliance militaire",
+        "D": "Rejet de la culture occidentale"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Lech Wałęsa est connu pour ses actions en :",
+      "réponses": {
+        "A": "URSS",
+        "B": "Pologne",
+        "C": "Tchécoslovaquie",
+        "D": "Bulgarie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel secteur la Perestroïka cherchait-elle à réformer ?",
+      "réponses": {
+        "A": "Le secteur religieux",
+        "B": "L’armée",
+        "C": "L’économie",
+        "D": "Le sport"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel pays d’Europe de l’Est a vu son dirigeant Ceausescu exécuté en 1989 ?",
+      "réponses": {
+        "A": "Bulgarie",
+        "B": "Roumanie",
+        "C": "Tchécoslovaquie",
+        "D": "Hongrie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel événement historique a lieu en Allemagne en 1989 ?",
+      "réponses": {
+        "A": "Coup d’État communiste",
+        "B": "Arrivée au pouvoir d’Hitler",
+        "C": "Création de la RDA",
+        "D": "Chute du mur de Berlin"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Qu’est-ce que le CAEM ?",
+      "réponses": {
+        "A": "Une agence de l’ONU",
+        "B": "Un organisme de coopération économique des pays communistes",
+        "C": "Une force militaire",
+        "D": "Une ONG caritative"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel parti perd son influence avec la Glasnost ?",
+      "réponses": {
+        "A": "Le SPD allemand",
+        "B": "Le PCUS (Parti Communiste de l’Union Soviétique)",
+        "C": "Le parti républicain américain",
+        "D": "Le KGB"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel mot désigne les réformes économiques de Gorbatchev ?",
+      "réponses": {
+        "A": "Glasnost",
+        "B": "Perestroïka",
+        "C": "Réarmement",
+        "D": "Stakhanovisme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel fut l’effet négatif de la Perestroïka ?",
+      "réponses": {
+        "A": "Boom économique",
+        "B": "Renforcement du communisme",
+        "C": "Aggravation de la pauvreté",
+        "D": "Fusion avec l’Europe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle organisation militaire disparaît avec la fin du bloc de l’Est ?",
+      "réponses": {
+        "A": "Le Pacte de Varsovie",
+        "B": "L’OTAN",
+        "C": "L’ONU",
+        "D": "Le Conseil de Sécurité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle réforme concernait la liberté de la presse sous Gorbatchev ?",
+      "réponses": {
+        "A": "Glasnost",
+        "B": "Perestroïka",
+        "C": "Nomenklatura",
+        "D": "Gosplan"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle politique de Gorbatchev visait à limiter les dépenses militaires ?",
+      "réponses": {
+        "A": "Réarmement massif",
+        "B": "Désengagement militaire",
+        "C": "Colonisation",
+        "D": "Course à l’armement"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi les populations de l’Est se révoltaient-elles dans les années 1980 ?",
+      "réponses": {
+        "A": "Trop de libertés",
+        "B": "Excès de capitalisme",
+        "C": "Crise économique et répression politique",
+        "D": "Pression religieuse"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelle dissidence célèbre s’est exprimée par la littérature en URSS ?",
+      "réponses": {
+        "A": "Soljenitsyne",
+        "B": "Sartre",
+        "C": "Pasternak",
+        "D": "Lénine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel était le but du Pacte de Varsovie ?",
+      "réponses": {
+        "A": "Favoriser la paix dans le monde",
+        "B": "Promouvoir l’économie de marché",
+        "C": "Défendre militairement les pays communistes",
+        "D": "Soutenir les pays d’Afrique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est une des principales conséquences de la Glasnost ?",
+      "réponses": {
+        "A": "Plus de répression",
+        "B": "Fermeture des frontières",
+        "C": "Libération de prisonniers politiques",
+        "D": "Rééducation idéologique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel pays de l’Est a mené sa transition démocratique avec Vaclav Havel ?",
+      "réponses": {
+        "A": "Pologne",
+        "B": "Tchécoslovaquie",
+        "C": "Albanie",
+        "D": "RDA"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Qu’est-ce qui a accéléré la chute de l’URSS sur le plan économique ?",
+      "réponses": {
+        "A": "L’échec des réformes de marché et la chute du rouble",
+        "B": "L’invasion de la Chine",
+        "C": "La guerre avec Cuba",
+        "D": "L’aide américaine massive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "Quelle opposition le mouvement Solidarnosc représentait-il ?",
+      "réponses": {
+        "A": "Une révolte militaire",
+        "B": "Un syndicat ouvrier contre le régime communiste en Pologne",
+        "C": "Une scission du KGB",
+        "D": "Une alliance religieuse"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Quelle était la doctrine soviétique avant Gorbatchev ?",
+      "réponses": {
+        "A": "Capitalisme d'État",
+        "B": "Centralisme autoritaire et économie planifiée",
+        "C": "Libéralisme social",
+        "D": "Fédéralisme décentralisé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Quel événement a directement précédé l’effondrement de l’URSS ?",
+      "réponses": {
+        "A": "La réunification de l’Allemagne",
+        "B": "La tentative de coup d’État d’août 1991",
+        "C": "La guerre d’Afghanistan",
+        "D": "Le traité de Yalta"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Pourquoi la Perestroïka a-t-elle aggravé les tensions sociales ?",
+      "réponses": {
+        "A": "Elle renforçait le pouvoir militaire",
+        "B": "Elle profitait à une minorité et creusait les inégalités",
+        "C": "Elle interdisait les entreprises",
+        "D": "Elle annulait les dettes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Quelle action militaire a été abandonnée par Gorbatchev ?",
+      "réponses": {
+        "A": "Le soutien aux guérillas communistes étrangères",
+        "B": "Le mur de Berlin",
+        "C": "Le conflit avec la Chine",
+        "D": "L’armement nucléaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Quel signe majeur annonce la fin du bloc de l’Est en 1989 ?",
+      "réponses": {
+        "A": "La crise de Suez",
+        "B": "La chute du mur de Berlin",
+        "C": "La création de l’euro",
+        "D": "La conférence de Potsdam"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Quelle conséquence politique a eu la dissolution du CAEM ?",
+      "réponses": {
+        "A": "Perte de coordination économique entre pays communistes",
+        "B": "Rupture avec les USA",
+        "C": "Renforcement du Pacte de Varsovie",
+        "D": "Invasion de la Pologne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "Quelle classe sociale a profité de la Perestroïka au détriment du peuple ?",
+      "réponses": {
+        "A": "Les paysans",
+        "B": "Une élite bureaucratique et affairiste",
+        "C": "Les soldats",
+        "D": "Les dissidents"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quelle expression définit la nouvelle politique étrangère de Gorbatchev vis-à-vis de l’Occident ?",
+      "réponses": {
+        "A": "La diplomatie du désarmement",
+        "B": "Le rideau de fer",
+        "C": "La diplomatie nucléaire",
+        "D": "La politique du soupçon"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

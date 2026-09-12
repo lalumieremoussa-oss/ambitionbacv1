@@ -1,0 +1,554 @@
+[
+{
+  "id": "SVT014_Q1",
+  "titre": "Quiz 1 : les étapes de l'infection du VIH",
+  "questions": {
+    "question n°1": {
+      "question": "Que représente la lettre ‘a’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "Une protéine de la capside.",
+        "B": "Une enveloppe lipidique.",
+        "C": "Une protéine d’enveloppe.",
+        "D": "Un filament d’ARN."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°2": {
+      "question": "Que représente la lettre ‘b’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "Une capside protéique.",
+        "B": "Une enveloppe lipidique.",
+        "C": "Une protéine interne.",
+        "D": "Une enzyme de transcription."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "Que représente la lettre ‘c’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "Des protéines structurelles internes.",
+        "B": "La transcriptase inverse.",
+        "C": "L’acide ribonucléique.",
+        "D": "Une membrane cellulaire."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°4": {
+      "question": "Que représente la lettre ‘d’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "L’enveloppe externe.",
+        "B": "La capside protéique.",
+        "C": "La couche lipidique.",
+        "D": "Une protéine de surface."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Que représente la lettre ‘e’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "L’ADN viral.",
+        "B": "L’ARN.",
+        "C": "Un acide aminé.",
+        "D": "Une molécule de glucide."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "Que représente la lettre ‘f’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "Une enzyme de réplication.",
+        "B": "La protéine d’enveloppe.",
+        "C": "La transcriptase inverse.",
+        "D": "Une protéine de fusion."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la définition du VIH ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "Un syndrome d’immunodéficience sévère.",
+        "B": "Un virus qui attaque spécifiquement le système immunitaire humain.",
+        "C": "Une bactérie responsable de maladies opportunistes.",
+        "D": "Une maladie auto-immune chronique et évolutive."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle est la définition du SIDA ?",
+      "image": "assets/images/svt/vih.png",
+      "reponses": {
+        "A": "La première phase d’une infection virale.",
+        "B": "La réaction immunitaire initiale à une agression.",
+        "C": "Le stade avancé de l’infection par le VIH, caractérisé par une immunodéficience profonde.",
+        "D": "Une maladie génétique affectant la production de globules blancs."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Que représente l’étape 1 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "La synthèse des protéines virales.",
+        "B": "La fixation du VIH à la surface du Lymphocyte T4 (adsorption).",
+        "C": "L’intégration de l’ADN proviral dans l’ADN de la cellule hôte.",
+        "D": "Le bourgeonnement des virions."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Que représente l’étape 2 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "La transcription de l’ARN viral en ADN proviral.",
+        "B": "L’injection de l’ARN viral et de la transcriptase inverse.",
+        "C": "L’assemblage des différentes protéines.",
+        "D": "La modification des protéines synthétisées."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "Que représente l’étape 3 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "L’intégration de l’ADN proviral dans l’ADN de la cellule hôte.",
+        "B": "La synthèse des protéines virales.",
+        "C": "La transcription de l’ARN viral en ADN proviral.",
+        "D": "La fixation du VIH à la surface de la cellule."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°12": {
+      "question": "Que représente l’étape 4 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "La transcription de l’ADN viral en ARN messager.",
+        "B": "L’injection de l’ARN viral dans la cellule.",
+        "C": "L’intégration de l’ADN proviral dans l’ADN de la cellule hôte.",
+        "D": "L’assemblage des protéines virales."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Que représente l’étape 5 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "La synthèse des protéines virales.",
+        "B": "La modification des protéines.",
+        "C": "La transcription de l’ADN viral en ARN messager.",
+        "D": "L’injection de la transcriptase inverse."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°14": {
+      "question": "Que représente l’étape 6 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "L’intégration de l’ADN proviral.",
+        "B": "La synthèse des protéines virales.",
+        "C": "Le bourgeonnement de nouveaux virions.",
+        "D": "L’assemblage des protéines."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "Que représente l’étape 7 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "L’injection de l’ARN viral.",
+        "B": "La modification des protéines synthétisées.",
+        "C": "La transcription de l’ARN viral.",
+        "D": "La fixation du virus."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "Que représente l’étape 8 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "Le bourgeonnement des virions.",
+        "B": "L’assemblage des différentes protéines.",
+        "C": "L’intégration du matériel génétique.",
+        "D": "La modification des protéines."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "Que représente l’étape 9 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "reponses": {
+        "A": "La synthèse de nouvelles enzymes virales.",
+        "B": "L’intégration de l’ADN viral.",
+        "C": "La modification de l’enveloppe virale.",
+        "D": "Le bourgeonnement de virions."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°18": {
+      "question": "Classez les étapes de l’infection du lymphocyte T4 par le VIH dans l’ordre chronologique de leur déroulement :\n1- Multiplication du VIH dans le Lymphocyte T4\n2- Adsorption du VIH au Lymphocyte T4\n3- Transformation de l’ARN viral en ADN proviral\n4- Injection de l’ARN viral et de la transcriptase inverse\n5- Intégration de l’ADN proviral à l’ADN du Lymphocyte T4",
+      "reponses": {
+        "A": "2 – 4 – 3 – 5 – 1",
+        "B": "1 – 2 – 3 – 4 – 5",
+        "C": "4 – 2 – 5 – 3 – 1",
+        "D": "2 – 3 – 4 – 1 – 5"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "Le virus se fixe sur les cellules possédant la […A…] comme certains lymphocytes T contrôlant la réponse immunitaire. La fixation du virus induit la […B…] de la membrane virale et de la membrane plasmique de la cellule hôte, suivie de l’injection de l’ARN viral.",
+      "reponses": {
+        "A": "A : capside, B : réplication",
+        "B": "A : protéine d’enveloppe, B : fusion",
+        "C": "A : transcriptase inverse, B : intégration",
+        "D": "A : protéine de surface, B : bourgeonnement"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "L’ADN proviral produit grâce à la […A…] s’incorpore dans l’[…B…] de la cellule hôte.",
+      "reponses": {
+        "A": "A : synthèse des protéines, B : capside",
+        "B": "A : transcription inverse, B : ADN",
+        "C": "A : réplication virale, B : ARN",
+        "D": "A : modification des protéines, B : enveloppe"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "À ce moment, le virus n’entraîne pas de perturbation de la réponse immunitaire. Le sujet est dit […A…]. Il ne présente aucun symptôme, il est susceptible de transmettre le virus soit par le sang soit par les […B…] sexuelles.",
+      "reponses": {
+        "A": "A : symptomatique, B : salivaires",
+        "B": "A : immunisé, B : cutanées",
+        "C": "A : séropositif, B : sécrétions",
+        "D": "A : infecté, B : respiratoires"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°22": {
+      "question": "Après une période de latence pouvant atteindre une dizaine d’années, le virus peut utiliser la machinerie enzymatique de la cellule hôte pour produire de […A…] qui bourgeonnent à la surface du lymphocyte T4.",
+      "reponses": {
+        "A": "A : l’ADN proviral, B : nouvelles protéines",
+        "B": "A : l’ARN messager, B : nouvelles enzymes",
+        "C": "A : nouvelles particules virales, B : virions",
+        "D": "A : nouvelles cellules, B : nouveaux lymphocytes"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+},
+{
+  "id": "SVT014_Q2",
+  "titre": "Quiz 2 : Le mécanisme de l’Infection par le VIH",
+  "questions": {
+    "question n°1": {
+      "question": "L’évolution de l’infection par le VIH depuis la contamination jusqu’à la mort présente trois phases. Lesquelles ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Phase de latence, Phase de crise, Phase de récupération",
+        "B": "Primo-infection, Phase asymptomatique, Phase symptomatique/SIDA déclaré",
+        "C": "Infection aiguë, Phase de portage, Phase terminale",
+        "D": "Période d’incubation, Période de symptômes, Période de convalescence"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Que se passe-t-il concernant la quantité de VIH dans l’organisme pendant la phase de primo-infection (0 à 6 mois) ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Elle diminue rapidement puis augmente.",
+        "B": "Elle reste stable à un niveau très bas.",
+        "C": "Elle augmente rapidement pour atteindre une valeur maximale puis chute.",
+        "D": "Elle s’annule complètement."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle est la caractéristique principale de la phase asymptomatique (6 à 56 mois) concernant l’état clinique de l’organisme ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "L’individu présente des symptômes graves et visibles.",
+        "B": "L’organisme apparaît globalement sain malgré la présence du virus.",
+        "C": "Le système immunitaire est complètement détruit.",
+        "D": "Le VIH est totalement éliminé de l’organisme."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Que se passe-t-il avec les taux d’anticorps anti-VIH et de LT4 pendant la phase symptomatique ou SIDA déclaré (au-delà de 56 mois) ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Les deux tendent à augmenter fortement.",
+        "B": "Les anticorps augmentent tandis que les LT4 diminuent.",
+        "C": "Les LT4 restent stables mais les anticorps diminuent.",
+        "D": "Les deux tendent à s’annuler."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la raison principale de l’augmentation du VIH en phase II, menant à la destruction des LT4 ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Le VIH devient plus virulent en phase II.",
+        "B": "Il se multiplie activement dans l’organisme en détruisant les LT4.",
+        "C": "L’organisme cesse de produire des LT4 en phase II.",
+        "D": "Les anticorps anti-VIH stimulent la réplication virale."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel événement signale que l’individu est devenu séropositif, marquant la fin de la primo-infection ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "L’apparition des anticorps anti-VIH.",
+        "B": "Une chute importante de la quantité de VIH.",
+        "C": "Une augmentation significative des LT4.",
+        "D": "La disparition de tous les symptômes."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "Quel est l’impact du VIH sur les cellules de défense (LT4) ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Il les renforce et les rend plus efficaces.",
+        "B": "Il les multiplie pour augmenter la protection immunitaire.",
+        "C": "Il finit par les détruire.",
+        "D": "Il les modifie pour qu’elles produisent des anticorps."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "Qu’est-ce que le SIDA expose l’organisme à contracter ?",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Uniquement des maladies génétiques.",
+        "B": "Principalement des maladies cardiovasculaires.",
+        "C": "Uniquement des infections bactériennes.",
+        "D": "Des maladies opportunistes."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "Durant la primo-infection, la quantité de VIH diminue progressivement pour atteindre un niveau minimal.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "L’individu est considéré comme séropositif dès les premières heures suivant la contamination.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "Pendant la phase asymptomatique, le taux d’anticorps anti-VIH reste élevé et stable.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°12": {
+      "question": "Une chute du taux de LT4 durant la phase asymptomatique entraîne une augmentation immédiate et rapide des taux d’anticorps anti-VIH.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "La phase symptomatique ou SIDA déclaré est caractérisée par une diminution persistante de la quantité de VIH.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Pour prévenir l’infection par le VIH, il est essentiel de mener une vie saine et responsable.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°15": {
+      "question": "Durant la phase III (SIDA déclaré), le système immunitaire de l’organisme parvient à contrôler le virus.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "Le VIH s’attaque au système de […A…] de l’organisme humain grâce à sa structure particulière. Il se multiplie dans l’organisme et finit par détruire les cellules de […B…] (LT4).",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "A : défense, B : défense",
+        "B": "A : reproduction, B : croissance",
+        "C": "A : circulation, B : transport",
+        "D": "A : respiration, B : énergie"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "Au cours de la phase de […A…] (0 à 6 mois), la quantité de VIH augmente rapidement pour atteindre une valeur maximale puis […B…], tandis que les taux d’anticorps anti-VIH et de LT4 augmentent.",
+      "image": "assets/images/svt/vih_sida.png",
+      "reponses": {
+        "A": "A : latence, B : stable",
+        "B": "A : symptômes, B : constante",
+        "C": "A : primo-infection, B : chute",
+        "D": "A : déclaration, B : très élevée"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°18": {
+      "question": "Pendant la phase […A…] (6 à 56 mois), la quantité de VIH continue à diminuer pour atteindre une valeur minimale, mais augmente à nouveau, alors que les taux d’anticorps anti-VIH et de LT4 continuent de […B…] avant de chuter.",
+      "reponses": {
+        "A": "A : symptomatique, B : augmenter",
+        "B": "A : terminale, B : remonter",
+        "C": "A : latence, B : se stabiliser",
+        "D": "A : asymptomatique, B : chuter"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°19": {
+      "question": "L’augmentation de la quantité de VIH est due à sa multiplication organisée dans l’organisme. Les LT4 sensibilisés par la présence du VIH dans l’organisme se multiplient activement, d’où l’augmentation de leur taux. Il en est de même pour les LT8 qui se multiplient et se différencient en plasmocytes sécréteurs d’anticorps anti-VIH dont le taux augmente et fait chuter la quantité de VIH. La chute du taux de LT4 dans la phase […A…] est due au fait qu’il se multiplie en détruisant les LT4 dont le taux […B…].",
+      "reponses": {
+        "A": "A : de primo-infection, B : augmente",
+        "B": "A : asymptomatique, B : chute",
+        "C": "A : symptomatique, B : monte",
+        "D": "A : de déclaration, B : diminue"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "L’augmentation continue de la quantité de VIH et la chute continue du taux de LT4 et d’anticorps anti-VIH font que le virus échappe à l’action du système […A…]. Le VIH continue de se multiplier aux dépens de LT4, dont le taux devient très faible dans l’organisme, ce qui entraîne une déficience du système […B…].",
+      "reponses": {
+        "A": "A : immunitaire, B : immunitaire",
+        "B": "A : nerveux, B : lymphatique",
+        "C": "A : circulatoire, B : respiratoire",
+        "D": "A : digestif, B : musculaire"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°21": {
+      "question": "La peau et les muqueuses représentent les barrières […A…] de l’organisme. Ces barrières constituent la […B…] ligne de défense de l’organisme.",
+      "reponses": {
+        "A": "A : chimiques, B : troisième",
+        "B": "A : biologiques, B : seconde",
+        "C": "A : cellulaires, B : dernière",
+        "D": "A : naturelles, B : première"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°22": {
+      "question": "Une réaction locale au point d’une agression se manifeste par une […A…], une chaleur, une douleur, une […B…] et une perte des fonctions des tissus.",
+      "reponses": {
+        "A": "A : pâleur, B : sécheresse",
+        "B": "A : rougeur, B : enflure",
+        "C": "A : cicatrisation, B : inflammation",
+        "D": "A : froideur, B : dilatation"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°23": {
+      "question": "Les polynucléaires et les macrophages sont capables de […A…], d’engloutir puis de […B…] les microbes.",
+      "reponses": {
+        "A": "A : produire, B : stimuler",
+        "B": "A : présenter, B : multiplier",
+        "C": "A : migrer, B : immobiliser",
+        "D": "A : reconnaître, B : digérer"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°24": {
+      "question": "Lorsque les microbes parviennent à franchir les ganglions lymphatiques, ils passent dans la […A…] sanguine, ce qui oppose une dernière résistance grâce à ses différents phagocytes […B…].",
+      "reponses": {
+        "A": "A : lymphe, B : fixés",
+        "B": "A : circulation, B : mobilisés",
+        "C": "A : moelle, B : immatures",
+        "D": "A : peau, B : inhibés"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°25": {
+      "question": "Si le germe est vaincu, les microbes envahissent tout l’organisme : c’est la réaction […A…] ou […B…].",
+      "reponses": {
+        "A": "A : inflammatoire, B : locale",
+        "B": "A : spécifique, B : chronique",
+        "C": "A : généralisée, B : septicémie",
+        "D": "A : allergique, B : aiguë"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°26": {
+      "question": "Une toxine microbienne est une substance […A…] par un microbe et qui a un pouvoir […B…] sur l’organisme.",
+      "reponses": {
+        "A": "A : absorbée, B : guérissant",
+        "B": "A : digérée, B : régénérant",
+        "C": "A : produite, B : pathogène",
+        "D": "A : neutralisée, B : protecteur"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°27": {
+      "question": "Le VIH s’attaque au système de […A…] de l’organisme humain grâce à sa structure particulière. Il se multiplie dans l’organisme et finit par […B…] les cellules de défense (LT4).",
+      "reponses": {
+        "A": "A : défense, B : détruire",
+        "B": "A : reproduction, B : renforcer",
+        "C": "A : circulation, B : transporter",
+        "D": "A : respiration, B : produire"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°28": {
+      "question": "Au cours de la phase I (primo-infection), la quantité de VIH augmente […A…] pour atteindre une valeur […B…] puis chute.",
+      "reponses": {
+        "A": "A : lentement, B : minimale",
+        "B": "A : irrégulièrement, B : moyenne",
+        "C": "A : sporadiquement, B : stable",
+        "D": "A : rapidement, B : maximale"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°29": {
+      "question": "Pendant la phase II (phase asymptomatique), la quantité de VIH continue à […A…] une valeur […B…] mais augmente à nouveau, alors que le taux d’anticorps anti-VIH et de LT4 continue d’augmenter avant de chuter.",
+      "reponses": {
+        "A": "A : augmenter, B : maximale",
+        "B": "A : diminuer, B : minimale",
+        "C": "A : stagner, B : élevée",
+        "D": "A : fluctuer, B : indétectable"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°30": {
+      "question": "Pendant la phase III (phase symptomatique ou SIDA déclaré), les taux d’anticorps anti-VIH et de LT4 tendent à […A…]. L’organisme est exposé à tous les agents pathogènes ou à l’apparition des maladies […B…] appelées SIDA.",
+      "reponses": {
+        "A": "A : se stabiliser, B : communes",
+        "B": "A : s’annuler, B : opportunistes",
+        "C": "A : augmenter, B : chroniques",
+        "D": "A : varier, B : auto-immunes"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+}  
+]

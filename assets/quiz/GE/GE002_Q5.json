@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 5",
+  "id": "GE002_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi la Côte d'Ivoire dispose-t-elle de conditions favorables à la pêche ?",
+      "réponses": {
+        "A": "Parce que le pays est complètement désertique et isolé",
+        "B": "Parce qu’elle importe tous ses produits de pêche",
+        "C": "Parce qu’elle a un réseau hydrographique dense et une grande diversité halieutique",
+        "D": "Parce qu’elle n’a pas de forêt et aucune montagne"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel type de main-d’œuvre est disponible pour la pêche ?",
+      "réponses": {
+        "A": "Des experts étrangers uniquement",
+        "B": "Des commerçants formés dans les écoles maritimes d’Europe",
+        "C": "Une main-d’œuvre locale abondante, disponible et bon marché",
+        "D": "Des diplomates affectés dans les ports"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel est le rôle des peuples vivant en bordure de lagunes et de la mer ?",
+      "réponses": {
+        "A": "Ils pratiquent l’élevage intensif de bovins",
+        "B": "Ils sont des pêcheurs traditionnels et actifs dans la pêche artisanale",
+        "C": "Ils se consacrent uniquement au tourisme balnéaire",
+        "D": "Ils ne mangent pas de poisson pour des raisons culturelles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel peuple étranger ne fait pas partie des communautés de pêcheurs en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Mandingue (Guinée)",
+        "B": "Fanti (Ghana)",
+        "C": "Awran (Togo)",
+        "D": "Bozo (Mali)"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quel équipement l'État a-t-il mis en place pour promouvoir la pêche ?",
+      "réponses": {
+        "A": "Des ports de pêche, chambres froides, thoniers, et école de pêche à Grand-Lahou",
+        "B": "Des hôtels de luxe, des barrages et des universités de biologie",
+        "C": "Des marchés de cacao, usines de textile, et stations-service",
+        "D": "Des barrages hydrauliques, raffineries, et aéroports"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel rôle joue l’État dans le développement de la pêche ?",
+      "réponses": {
+        "A": "Il empêche les étrangers d’exploiter les ressources marines",
+        "B": "Il ferme les ports artisanaux pour des raisons de sécurité",
+        "C": "Il investit dans les équipements, les structures d’encadrement et la modernisation",
+        "D": "Il impose une taxe spéciale sur tous les pêcheurs"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle pêche est pratiquée sur tous les plans d’eau avec des techniques rudimentaires ?",
+      "réponses": {
+        "A": "La pêche traditionnelle et artisanale",
+        "B": "La pêche nucléaire et chimique",
+        "C": "La pêche industrielle uniquement lagunaire",
+        "D": "La pêche magnétique en haute mer"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quelle est la principale zone de la pêche industrielle en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le fleuve Bandama et les monts du Tonkpi",
+        "B": "Le port d’Abidjan et le port de San Pedro",
+        "C": "Les forêts classées et les plantations de banane",
+        "D": "Le parc national de Taï et le Mont Peko"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est le poisson qui domine dans la pêche industrielle en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le tilapia des eaux douces du nord",
+        "B": "Le thon capturé en mer au large d’Abidjan",
+        "C": "Le silure des lacs artificiels",
+        "D": "Le hareng des fleuves tropicaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel est le rôle de la pêche semi-industrielle ?",
+      "réponses": {
+        "A": "Elle regroupe l’aquaculture, la pisciculture et la crévetticulture",
+        "B": "Elle concerne les espèces menacées en mer",
+        "C": "Elle exploite exclusivement le poisson fumé",
+        "D": "Elle ne concerne que les produits importés"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Combien de tonnes ont été produites par la pêche industrielle en 2004 ?",
+      "réponses": {
+        "A": "Environ 19.000 tonnes",
+        "B": "Plus de 3 millions de tonnes",
+        "C": "Exactement 100.000 tonnes",
+        "D": "Moins de 500 tonnes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel type de pêche représente la plus grande part de la production ?",
+      "réponses": {
+        "A": "La pêche industrielle pratiquée par l’État",
+        "B": "La pêche traditionnelle aux mains des étrangers",
+        "C": "La pêche continentale fluviale à Korhogo",
+        "D": "La pêche illégale contrôlée par les pirates"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est le taux de couverture de la consommation nationale par la pêche locale ?",
+      "réponses": {
+        "A": "15 %",
+        "B": "100 %",
+        "C": "Environ 69 %",
+        "D": "Moins de 5 %"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle est la valeur financière estimée de la production halieutique ?",
+      "réponses": {
+        "A": "5 milliards de FCFA selon la BCEAO",
+        "B": "Plus de 100 milliards de FCFA selon les rapports officiels",
+        "C": "Moins de 1 milliard car la pêche est peu productive",
+        "D": "1.000 milliards car la Côte d’Ivoire est un géant halieutique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est l’intérêt alimentaire de la pêche pour les populations ?",
+      "réponses": {
+        "A": "Elle fournit des protéines essentielles à l’alimentation",
+        "B": "Elle favorise le tourisme balnéaire exclusivement",
+        "C": "Elle remplace totalement le riz et l’igname",
+        "D": "Elle sert uniquement à l’exportation en Europe"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quel est l’intérêt de la fiscalité appliquée à la pêche ?",
+      "réponses": {
+        "A": "Elle décourage les pêcheurs traditionnels par des taxes élevées",
+        "B": "Elle fournit des capitaux pour le développement du pays",
+        "C": "Elle empêche l’importation de poissons congelés",
+        "D": "Elle finance les campagnes de lutte contre le cacao frelaté"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est l’un des principaux problèmes liés aux cours d’eau ivoiriens ?",
+      "réponses": {
+        "A": "La présence de mines d’or qui rendent l’eau radioactive",
+        "B": "La présence de racines et de troncs qui gênent les pêcheurs",
+        "C": "L’assèchement total des rivières du Nord",
+        "D": "L’interdiction de pêcher pendant les périodes électorales"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi la mer ivoirienne est-elle peu productive ?",
+      "réponses": {
+        "A": "Parce que le golfe de Guinée est classé zone de guerre",
+        "B": "Parce que le plateau continental est étroit et peu riche",
+        "C": "Parce que les poissons ont migré vers l’Europe",
+        "D": "Parce qu’elle est couverte par des plateformes pétrolières"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle solution est proposée pour moderniser la pêche artisanale ?",
+      "réponses": {
+        "A": "L’usage de filets radioactifs pour gagner du temps",
+        "B": "L’interdiction des embarcations à moteur",
+        "C": "La modernisation des accessoires de pêche",
+        "D": "La suppression des ports et la création de marchés flottants"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quelle action permet de lutter contre la pêche illégale ?",
+      "réponses": {
+        "A": "L’évacuation des villages côtiers",
+        "B": "La fermeture des ports de pêche",
+        "C": "La sensibilisation et l’intervention de la police maritime",
+        "D": "L’obligation de consommer uniquement du poisson importé"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

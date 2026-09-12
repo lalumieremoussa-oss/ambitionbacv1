@@ -1,0 +1,206 @@
+{
+    "title": "TROUVE L'INTRUS - Série 2 – Difficulté élevée (20 questions)",
+    "id": "FR011_Q2_S2",
+    "questions": {
+        "question n°1": {
+            "question": "Citation : « Le théâtre, c'est d'être réel dans l'irréel » (Giraudoux). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La scène crée une illusion qui reflète pourtant le vrai",
+                "B": "L'irréel au théâtre permet d'approfondir le réel",
+                "C": "Le dramaturge doit dénoncer les injustices sociales",
+                "D": "La fiction théâtrale est une forme de vérité déguisée"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Citation : « Faire de la poésie, c'est mentir, mais bien » (Yourcenar). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le mensonge poétique est une forme d'art supérieur",
+                "B": "La beauté du mensonge révèle une vérité esthétique",
+                "C": "La littérature engagée est la seule forme d'art valable",
+                "D": "L'invention poétique est plus vraie que le réel brut"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "Argument : « L'imagination au service de la création ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Les récits littéraires s'affranchissent du réel concret",
+                "B": "L'invention artistique séduit par son caractère merveilleux",
+                "C": "L'imaginaire est une source inépuisable de création",
+                "D": "La littérature doit instruire et éveiller les consciences"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : L'Épée de vérité de Terry Goodkind. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un univers épique de fantasy et de quête initiatique",
+                "B": "Met en scène des héros et des forces du mal puissantes",
+                "C": "Dénonce les abus coloniaux et l'oppression raciale",
+                "D": "Propose une évasion dans un monde merveilleux et dangereux"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : La Chanson de Roland (épopée médiévale). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un poème épique sur les exploits guerriers francs",
+                "B": "Met en scène Roland et les combats contre les Sarrasins",
+                "C": "Propose une évasion dans l'héroïsme et la bravoure",
+                "D": "Critique les dérives du pouvoir militaire en Afrique"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Citation : « Le réalisme ne peut se passer d'un minimum de subjectivité » (Camus). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Toute représentation du réel est teintée de subjectivité",
+                "B": "L'objectivité pure est inaccessible à l'artiste",
+                "C": "L'imaginaire et le réel sont indissociables dans l'art",
+                "D": "L'écrivain doit dénoncer les injustices de son époque"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Œuvre : Le Roman comique de Paul Scarron. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un roman baroque mêlant humour et aventures",
+                "B": "Dénonce les sacrifices humains dans les traditions",
+                "C": "Met en scène des personnages extravagants et drôles",
+                "D": "Divertit par son ton burlesque et sa fantaisie"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°8": {
+            "question": "Argument : « Le théâtre comme divertissement selon Brecht ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le divertissement est une finalité légitime du théâtre",
+                "B": "La comédie et le rire sont des outils de plaisir scénique",
+                "C": "L'affaire du théâtre est d'abord de distraire le public",
+                "D": "Le dramaturge doit instruire et éveiller les consciences"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°9": {
+            "question": "Citation : « L'affaire du théâtre est de divertir » (Brecht). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le théâtre doit amuser avant d'instruire ou de dénoncer",
+                "B": "Le plaisir du spectateur est essentiel à l'art dramatique",
+                "C": "La littérature engagée est la seule forme d'art valable",
+                "D": "Le divertissement est une fin en soi pour la scène"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Œuvre : On se chamaille pour un siège de Hyacinthe Kacou. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une comédie ivoirienne sur les querelles ridicules",
+                "B": "Met en scène des personnages burlesques et fanfarons",
+                "C": "Dénonce la trahison des idéaux postcoloniaux africains",
+                "D": "Propose un théâtre de divertissement et de caricature"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Œuvre : Le Trône de fer de George R.R. Martin. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une saga fantasy aux intrigues politiques complexes",
+                "B": "Critique les violences culturelles du mariage forcé",
+                "C": "Met en scène des royaumes en guerre pour le pouvoir",
+                "D": "Propose une évasion dans un monde médiéval fantastique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°12": {
+            "question": "Citation : « Un seul être vous manque, et tout est dépeuplé » (Lamartine). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Exprime le vide existentiel après une perte amoureuse",
+                "B": "Dénonce l'exploitation des enfants dans les usines",
+                "C": "Traduit une mélancolie profonde et universelle",
+                "D": "Est un exemple parfait de lyrisme romantique"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°13": {
+            "question": "Œuvre : Les Confessions de Jean-Jacques Rousseau. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une introspection autobiographique et sincère",
+                "B": "Explore les émotions et les souvenirs de l'auteur",
+                "C": "Dénonce les dérives du pouvoir en Afrique postcoloniale",
+                "D": "Partage l'intimité et la subjectivité de l'écrivain"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Argument : « La fonction lyrique et l'expression de soi ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La littérature permet de révéler son intériorité",
+                "B": "L'écrivain partage ses doutes et ses joies profondes",
+                "C": "Le lyrisme est l'expression authentique du moi",
+                "D": "La poésie doit instruire et transmettre un savoir"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°15": {
+            "question": "Auteur : Jean-Jacques Rousseau. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un philosophe des Lumières et écrivain introspectif",
+                "B": "A écrit Les Confessions sur son intimité et sa vie",
+                "C": "A dénoncé les abus coloniaux et l'injustice raciale",
+                "D": "Est un précurseur du lyrisme autobiographique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°16": {
+            "question": "Argument : « La littérature comme évasion et rêve ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Les récits transportent le lecteur hors du réel banal",
+                "B": "L'évasion est une réponse aux contraintes du quotidien",
+                "C": "L'écrivain doit s'engager contre les injustices sociales",
+                "D": "Le rêve et l'imaginaire sont des territoires littéraires"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°17": {
+            "question": "Auteur : Paul Scarron. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un écrivain burlesque du XVIIe siècle français",
+                "B": "A écrit Le Roman comique sur des comédiens ambulants",
+                "C": "Dénonce les violences culturelles du patriarcat",
+                "D": "Propose une littérature de divertissement et d'humour"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°18": {
+            "question": "Citation : « Mentir, mais bien » selon Yourcenar. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le poète invente pour toucher une vérité plus haute",
+                "B": "Le mensonge artistique est une forme de beauté",
+                "C": "La littérature engagée est la seule forme d'art valable",
+                "D": "L'imagination transforme le réel en œuvre d'art"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°19": {
+            "question": "Auteur : George R.R. Martin. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un écrivain américain de fantasy médiévale",
+                "B": "A écrit Le Trône de fer sur les luttes de pouvoir",
+                "C": "Dénonce les douleurs physiques de l'excision rituelle",
+                "D": "Propose une évasion dans un univers imaginaire complexe"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°20": {
+            "question": "Argument : « Le lyrisme et l'expression des sentiments ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "L'écrivain exprime sa nostalgie et sa solitude intime",
+                "B": "La subjectivité est au cœur de la création lyrique",
+                "C": "La poésie doit dénoncer les injustices sociales",
+                "D": "Les émotions personnelles sont une source d'inspiration"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

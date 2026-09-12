@@ -1,0 +1,206 @@
+{
+    "title": "Quiz 3 - Partie B",
+    "id": "FR001_Q3_B",
+    "questions": {
+        "question n°1": {
+            "question": "Quelle citation illustre le mieux la priorité de l'esthétique sur tout message engagé dans une œuvre littéraire ?",
+            "réponses": {
+                "A": "« Une œuvre d’art n’a rien à voir avec les doctrines. » – Eugène Ionesco",
+                "B": "« Le théâtre, c’est d’être réel dans l’irréel. » – Jean Giraudoux",
+                "C": "« L’affaire du théâtre est de divertir. » – Bertolt Brecht",
+                "D": "« Faire de la poésie, c’est mentir, mais bien. » – Marguerite Yourcenar"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Pourquoi peut-on dire que l'esthétique littéraire est une fin en soi selon Paul Verlaine ?",
+            "réponses": {
+                "A": "Parce qu’elle permet de critiquer la société",
+                "B": "Parce qu’elle invite au rêve",
+                "C": "Parce qu’il prône la musicalité avant le contenu",
+                "D": "Parce qu’elle engage le lecteur dans un combat moral"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Le plaisir esthétique du texte évoqué par Ahmadou Kourouma renvoie principalement à :",
+            "réponses": {
+                "A": "La musicalité du texte",
+                "B": "La clarté du message",
+                "C": "La beauté formelle et sensorielle de l’écriture",
+                "D": "L’efficacité argumentative"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "L'idée selon laquelle la littérature peut s’affranchir du réalisme au profit du merveilleux est soutenue par :",
+            "réponses": {
+                "A": "Albert Camus",
+                "B": "George R.R. Martin",
+                "C": "Paul Scarron",
+                "D": "René Depestre"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Marguerite Yourcenar dit que \"faire de la poésie, c’est mentir, mais bien\". Cette phrase signifie que :",
+            "réponses": {
+                "A": "Le poète doit rester objectif",
+                "B": "La vérité importe plus que l’émotion",
+                "C": "Le mensonge poétique est une forme supérieure de vérité",
+                "D": "La poésie est illégitime"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°6": {
+            "question": "Quelle œuvre illustre le mieux l’évasion par la littérature ?",
+            "réponses": {
+                "A": "Le Sublime sacrifice – François d’Assise N'Dah",
+                "B": "La Planète des singes – Pierre Boulle",
+                "C": "L’isolement – Alphonse de Lamartine",
+                "D": "Demain j’arrête – Gilles Legardinier"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Quel argument justifie que la fonction ludique est liée à l’imagination créative ?",
+            "réponses": {
+                "A": "Elle transforme la réalité en connaissance",
+                "B": "Elle amuse par des jeux linguistiques",
+                "C": "Elle produit des émotions violentes",
+                "D": "Elle dénonce avec ironie"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "« Le théâtre, c’est d’être réel dans l’irréel. » Cette citation évoque :",
+            "réponses": {
+                "A": "Le théâtre engagé",
+                "B": "Le théâtre absurde",
+                "C": "Le théâtre comme jeu intellectuel",
+                "D": "Le théâtre naturaliste"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°9": {
+            "question": "Dans la fonction lyrique, la littérature est un lieu d’expression :",
+            "réponses": {
+                "A": "Du réel collectif",
+                "B": "Des émotions personnelles",
+                "C": "Des idées universelles",
+                "D": "Du savoir historique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°10": {
+            "question": "Le vers « Un seul être vous manque, et tout est dépeuplé » est un exemple de :",
+            "réponses": {
+                "A": "Réalisme psychologique",
+                "B": "Lyrisme subjectif",
+                "C": "Didactisme",
+                "D": "Fantastique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "La phrase « La littérature est la preuve que la vie ne suffit pas » signifie que :",
+            "réponses": {
+                "A": "La littérature est inutile à la société",
+                "B": "La vie réelle comble tous les besoins humains",
+                "C": "La littérature complète l’expérience humaine en apportant du sens et de la beauté",
+                "D": "La littérature est réservée aux rêveurs"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°12": {
+            "question": "Pourquoi dit-on que la littérature permet une catharsis ?",
+            "réponses": {
+                "A": "Parce qu’elle permet de s’évader de la réalité sociale",
+                "B": "Parce qu’elle purifie les émotions en les représentant",
+                "C": "Parce qu’elle déforme la réalité",
+                "D": "Parce qu’elle endort la pensée critique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Quel genre littéraire favorise le plus souvent l’évasion et l’imaginaire ?",
+            "réponses": {
+                "A": "Le théâtre classique",
+                "B": "La science-fiction",
+                "C": "L’essai philosophique",
+                "D": "Le roman réaliste"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "Quel élément est fondamental dans une œuvre relevant de la fonction esthétique ?",
+            "réponses": {
+                "A": "La rigueur scientifique",
+                "B": "La beauté du style",
+                "C": "La densité argumentative",
+                "D": "L’exactitude historique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°15": {
+            "question": "Quel auteur français est connu pour son culte de la forme et du style pur ?",
+            "réponses": {
+                "A": "Émile Zola",
+                "B": "Albert Camus",
+                "C": "Gustave Flaubert",
+                "D": "Jean-Paul Sartre"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°16": {
+            "question": "Dans une œuvre ludique, le langage est souvent utilisé pour :",
+            "réponses": {
+                "A": "Exprimer des idées dogmatiques",
+                "B": "Jouer, surprendre, créer un plaisir de lecture",
+                "C": "Décrire précisément une situation",
+                "D": "Provoquer uniquement la réflexion politique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°17": {
+            "question": "L’expression « art pour l’art » signifie que :",
+            "réponses": {
+                "A": "L’art doit enseigner des valeurs sociales",
+                "B": "L’art peut exister sans autre finalité que lui-même",
+                "C": "L’art doit être moralement utile",
+                "D": "L’art doit être un outil politique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°18": {
+            "question": "Quel est le principal objectif d’une œuvre relevant de la fonction esthétique ?",
+            "réponses": {
+                "A": "L’endoctrinement idéologique",
+                "B": "La réflexion philosophique",
+                "C": "L’éveil du sens artistique et émotionnel",
+                "D": "La démonstration scientifique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°19": {
+            "question": "Quel type d’effet une œuvre évasive cherche-t-elle à produire ?",
+            "réponses": {
+                "A": "Un engagement militant",
+                "B": "Une déformation réaliste",
+                "C": "Une évasion psychologique ou émotionnelle",
+                "D": "Une critique académique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°20": {
+            "question": "Une œuvre qui mise avant tout sur l’innovation formelle, le langage et l’imaginaire relève surtout de :",
+            "réponses": {
+                "A": "La fonction argumentative",
+                "B": "La fonction politique",
+                "C": "La fonction esthétique et ludique",
+                "D": "La fonction narrative classique"
+            },
+            "bonne réponse": "C"
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "title": "Quiz 1",
+    "id": "FR001_Q1",
+    "questions": {
+        "question n°1": {
+            "question": "Selon le sujet (Bac 2024) « La littérature ne copie pas la vie mais la modèle à son gré », quelle est la thèse défendue par l’auteur ?",
+            "réponses": {
+                "A": "La littérature est un simple miroir de la réalité",
+                "B": "La littérature est le fruit de l’imagination",
+                "C": "La littérature reflète fidèlement les faits historiques",
+                "D": "La littérature n’a aucun impact sur la société."
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Quelle antithèse correspond le mieux au sujet « La littérature ne copie pas la vie mais la modèle à son gré » ?",
+            "réponses": {
+                "A": "La littérature ne modèle pas la vie, elle crée sa propre vie.",
+                "B": "L’écrivain transforme la vie selon sa vision et sa sensibilité",
+                "C": "La littérature est le reflet exact de la société",
+                "D": "La littérature modifie la vie mais fait aussi la peinture de la société."
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Soit le sujet (Bac blanc 2024) suivant « Le monde romanesque est la correction de ce monde-ci selon le désir profond de l’homme ». Quelle est la reformulation ?",
+            "réponses": {
+                "A": "Le roman, fondé sur des faits réels, décrit fidèlement le monde tel qu’il est.",
+                "B": "Le roman, fruit de l’imagination, reflète uniquement les événements historiques et sociaux sans aucune intervention des aspirations personnelles.",
+                "C": "Le roman, produit de la mémoire, propose une version du monde telle qu’elle a été vécue, sans transformation ni interprétation imaginative.",
+                "D": "Le roman, né de l’imagination, propose une version du monde transformée par les désirs intimes et les idéaux de l’être humain."
+            },
+            "bonne réponse": "D"
+        },
+        "question n°4": {
+            "question": "Quel antithèse peut s’opposer au sujet « Le monde romanesque est la correction de ce monde-ci selon le désir profond de l’homme » ?",
+            "réponses": {
+                "A": "Le roman fait la peinture exacte de la société.",
+                "B": "Le roman est un moyen d’évasion et de réinvention du réel",
+                "C": "Le roman ne sert à rien pour comprendre l’humanité",
+                "D": "Le roman est réservé aux rêveurs"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°5": {
+            "question": "Quel fonction pour étayer la thèse de l’auteur dans le sujet « Le monde romanesque est la correction de ce monde-ci selon le désir profond de l’homme » ?",
+            "réponses": {
+                "A": "La fonction évasive uniquement.",
+                "B": "La fonction ludique et la fonction esthétique.",
+                "C": "La fonction engagée.",
+                "D": "La fonction engagée et la fonction didactique."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Selon le sujet (Bac blanc 2024) « La poésie n’est pas un ornement, elle est un instrument », que soutient Victor Hugo ?",
+            "réponses": {
+                "A": "La poésie ne sert qu’à embellir les mots",
+                "B": "La poésie est un simple divertissement",
+                "C": "La poésie est un outil pour agir sur la société",
+                "D": "La poésie ne vise qu’à faire rêver"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°7": {
+            "question": "Quel argument illustre l’idée que « la poésie est un instrument » selon Victor Hugo ?",
+            "réponses": {
+                "A": "Elle permet d’émouvoir sans réfléchir",
+                "B": "Elle dénonce, éveille les consciences et appelle au changement",
+                "C": "Elle distrait le lecteur par des images jolies",
+                "D": "Elle reste uniquement lyrique et personnelle"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "Quelle reformulation correspond le mieux à la pensée : « Bien que chaque paragraphe de roman affirme, tout grand roman interroge » ? (Bac blanc 2024)",
+            "réponses": {
+                "A": "Le véritable roman doit uniquement affirmer des vérités",
+                "B": "Un grand roman soulève des questions de réflexion et de prise de conscience",
+                "C": "Un roman ne doit jamais questionner le lecteur",
+                "D": "Le roman est toujours affirmatif, jamais ambigu"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Quelle antithèse peut s’opposer au sujet « tout grand roman interroge » ?",
+            "réponses": {
+                "A": "Le roman a d’autres fonctions dans la société.",
+                "B": "Le roman sert à expliquer le monde",
+                "C": "Le roman ne concerne que l’auteur",
+                "D": "Le roman transmet une affirmation de vérité."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Dans « Inquiéter, tel est mon rôle », que veut signifier André Gide ? (Bac blanc 2024)",
+            "réponses": {
+                "A": "L’auteur doit troubler les idées reçues et pousser à réfléchir",
+                "B": "L’auteur doit réconforter et rassurer le lecteur",
+                "C": "L’écrivain doit éviter les sujets sensibles",
+                "D": "L’écrivain doit uniquement distraire"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Quel argument soutient l’idée que « l’auteur doit inquiéter » ?",
+            "réponses": {
+                "A": "La littérature fait oublier les problèmes",
+                "B": "La littérature invite à la remise en question",
+                "C": "La littérature n’a aucun impact réel",
+                "D": "L’écrivain ne doit jamais déranger le lecteur"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Selon le sujet « Il ne faut pas que le peuple quitte du théâtre sans emporter avec lui quelques moralités », quel est le rôle du théâtre ?",
+            "réponses": {
+                "A": "Amuser le public uniquement",
+                "B": "Provoquer le rire et l’oubli",
+                "C": "Éduquer le peuple à travers les pièces jouées",
+                "D": "Démonstrer la supériorité des auteurs"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°13": {
+            "question": "Quel argument soutient Victor Hugo dans « Il ne faut pas que le peuple quitte du théâtre sans emporter avec lui quelques moralités », ?",
+            "réponses": {
+                "A": "Le théâtre doit présenter uniquement des comédies",
+                "B": "Le théâtre peut corriger les mœurs en faisant réfléchir le spectateur",
+                "C": "Le théâtre n’a aucune vocation morale",
+                "D": "Le théâtre est réservé à l’élite"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "(Bac blanc 2024) Dans « L’individu qui pense contre la société qui dort, voilà l’histoire éternelle du roman», quelle thèse est exprimée ?",
+            "réponses": {
+                "A": "Le roman soutient l’ordre établi",
+                "B": "Le roman evade le lecteur en l’éloignant de la société.",
+                "C": "Le roman met en scène la révolte de l’individu face à une société passive",
+                "D": "Le roman célèbre l’harmonie sociale"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°15": {
+            "question": "Quelle est l'antithèse de l’idée de Michel Piquemal: « L’individu qui pense contre la société qui dort, voilà l’histoire éternelle du roman», ?",
+            "réponses": {
+                "A": "Le roman est un miroir fidèle de la société",
+                "B": "Le roman encourage la soumission",
+                "C": "Le roman ne met en avant aucun individu singulier",
+                "D": "Le roman a d’autres rôles dans la société"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

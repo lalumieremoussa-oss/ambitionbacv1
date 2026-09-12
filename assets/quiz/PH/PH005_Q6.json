@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 6",
+  "id": "PH005_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Nous sommes sur la partie 2 du sujet portant le l'impact du travail sur l'homme (Le travail humanise-t-il ?). Quel est l'axe principal exploré dans cette partie (2) ?",
+      "réponses": {
+        "A": "Le travail comme moyen d'épanouissement personnel et de développement des compétences humaines.",
+        "B": "Le travail comme source d'enrichissement social et de cohésion communautaire dans les sociétés modernes.",
+        "C": "Le travail comme un simple échange économique de services, sans implication sur la condition humaine ou la dignité.",
+        "D": "Le travail comme un facteur potentiel de déshumanisation de l'individu, réduisant sa créativité et son autonomie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L'Argument 1 affirme que le travail, lorsqu'il est mécanique et répétitif, a pour conséquence de :",
+      "réponses": {
+        "A": "Détruire la créativité humaine et réduire l'homme à une simple machine, en le privant de sa liberté et de son sens.",
+        "B": "Renforcer la conscience de soi et la capacité d'innovation de l'individu par la maîtrise des processus.",
+        "C": "Augmenter la productivité et l'efficacité économique, en libérant l'homme des tâches complexes et fatigantes.",
+        "D": "Favoriser le développement des compétences techniques et l'apprentissage de nouveaux métiers spécialisés."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Dans le système industriel, comment est décrit le rôle de l'homme ?",
+      "réponses": {
+        "A": "Il devient le concepteur principal et l'innovateur des méthodes de production, contrôlant toutes les étapes.",
+        "B": "Il se transforme en un simple exécutant des tâches, perdant la maîtrise de son activité et devenant étranger à lui-même.",
+        "C": "Il est élevé au rang d'artiste, créant des œuvres uniques et irremplaçables grâce à son savoir-faire manuel.",
+        "D": "Il participe activement à la planification stratégique de l'entreprise et aux prises de décisions majeures."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel philosophe est associé à l'affirmation : \"Le travailleur devient une marchandise\" ?",
+      "réponses": {
+        "A": "Adam Smith, pour sa théorie de la division du travail et de la main invisible.",
+        "B": "Jean-Jacques Rousseau, pour sa critique de l'aliénation de l'homme par la société et la propriété.",
+        "C": "Karl Marx, dans ses Manuscrits de 1844, dénonçant la déshumanisation du travail dans le capitalisme industriel.",
+        "D": "Max Weber, pour son analyse de la rationalisation et de la \"cage de fer\" bureaucratique dans la société moderne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "La citation de Karl Marx, \"Le travailleur devient une marchandise\", signifie principalement que :",
+      "réponses": {
+        "A": "L'humain est réduit à sa simple force de travail, dépossédé de sa dignité et de sa subjectivité, et traité comme un objet achetable et vendable.",
+        "B": "Le travail acquiert une valeur d'échange sur le marché, ce qui permet aux travailleurs de vendre leur force de travail librement.",
+        "C": "La production de marchandises devient une activité libératrice pour l'homme, lui permettant de s'exprimer pleinement et de réaliser ses potentiels.",
+        "D": "La concurrence entre les travailleurs est bénéfique, car elle pousse chacun à améliorer ses compétences et à augmenter sa valeur sur le marché."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "L'Argument 2 met en évidence les conséquences d'un travail pénible et contraint sur la personne. Celles-ci incluent :",
+      "réponses": {
+        "A": "Un développement harmonieux des facultés physiques et intellectuelles, grâce à l'effort et à la discipline.",
+        "B": "Un renforcement de la volonté et de la résilience mentale, permettant de surmonter toutes les difficultés de la vie.",
+        "C": "L'usure du corps et l'épuisement de l'esprit, réduisant l'homme à ses fonctions biologiques et l'empêchant de penser.",
+        "D": "L'acquisition de nouvelles compétences et de connaissances techniques, améliorant la performance professionnelle et la carrière."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel philosophe grec est cité pour son affirmation que \"Les métiers manuels dégradent le corps et l’âme\" ?",
+      "réponses": {
+        "A": "Aristote, pour sa conception de l'homme comme animal politique et son éloge de la vie contemplative.",
+        "B": "Socrate, pour son accent sur l'importance de la connaissance de soi et de la vertu par le dialogue.",
+        "C": "Épicure, pour sa recherche du plaisir et de l'ataraxie (absence de troubles) comme fin de la vie.",
+        "D": "Platon, dans La République, exprimant une vision hiérarchique du travail où certaines activités sont jugées inférieures."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "L'explication de l'Argument 2 suggère que lorsque l'homme est réduit à ses fonctions biologiques par un travail pénible, il :",
+      "réponses": {
+        "A": "Atteint un état de pure conscience, libre de toute contrainte matérielle ou physique.",
+        "B": "Est libéré des pressions sociales et des attentes professionnelles, ce qui lui permet de se concentrer sur son bien-être spirituel.",
+        "C": "Développe une connexion plus profonde avec la nature et ses instincts primaires, retrouvant une forme de sagesse primitive.",
+        "D": "Ne pense plus et se contente de survivre, perdant sa capacité de réflexion et d'épanouissement personnel."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "La notion de \"déshumanisation\" dans le travail implique une perte de quelles qualités ou facultés spécifiquement humaines ?",
+      "réponses": {
+        "A": "La capacité à obéir aux ordres et à exécuter des tâches répétitives avec précision.",
+        "B": "La créativité, la liberté, la conscience de soi et la maîtrise de son activité propre.",
+        "C": "L'aptitude à s'intégrer socialement et à travailler en équipe pour atteindre des objectifs communs.",
+        "D": "La force physique et l'endurance, qui sont les principales exigences d'un travail productif."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La condition de \"marchandise\" pour le travailleur, selon Marx, est une conséquence directe de :",
+      "réponses": {
+        "A": "La valorisation de l'individualité et de la reconnaissance des compétences uniques de chaque employé.",
+        "B": "L'exploitation capitaliste, où la force de travail est achetée et utilisée comme un coût de production pour générer du profit.",
+        "C": "La promotion de la flexibilité du travail et de l'adaptation aux nouvelles technologies pour améliorer l'efficacité.",
+        "D": "La mise en place de politiques sociales visant à protéger les droits des travailleurs et à améliorer leurs conditions de vie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'idée que le travail réduit l'homme à une \"simple machine\" met en évidence :",
+      "réponses": {
+        "A": "La supériorité de la technologie sur le corps humain, incapable de rivaliser avec la précision mécanique.",
+        "B": "La capacité de l'homme à s'adapter et à imiter la perfection des mécanismes industriels.",
+        "C": "La perte d'autonomie et de pensée critique, l'individu agissant comme un rouage sans conscience dans un système.",
+        "D": "La transformation du travail en un jeu divertissant, où l'humain et la machine collaborent harmonieusement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La perception des \"métiers manuels\" comme dégradants pour le corps et l'âme, selon Platon, reflète une hiérarchie où :",
+      "réponses": {
+        "A": "Toutes les formes de travail sont considérées comme également nobles et dignes de respect.",
+        "B": "Le travail intellectuel et contemplatif est jugé supérieur au travail physique et productif.",
+        "C": "L'activité physique est la seule source de véritable épanouissement et de bien-être humain.",
+        "D": "La dignité de l'homme est déterminée uniquement par sa capacité à accumuler des richesses matérielles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La conclusion du sujet reconnaît que le travail, bien que souvent facteur de développement, peut aussi être une contrainte et une source d'aliénation dans le contexte moderne.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'Argument 1 sur le travail mécanique et répétitif explique que l'homme y perd sa liberté et devient étranger à lui-même, soulignant ainsi sa déshumanisation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Karl Marx, dans ses Manuscrits de 1844, utilise l'expression \"Le travailleur devient une marchandise\" pour critiquer la réduction de l'être humain à un objet exploitable par le système capitaliste.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Platon, en affirmant que \"Les métiers manuels dégradent le corps et l’âme\", exprime une vision où le travail physique est nuisible au plein épanouissement de la personne humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Le travail pénible et contraint est présenté comme un facteur qui peut nuire au développement global de la personne, usant le corps et épuisant l'esprit.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La perte de créativité et la réduction de l'homme à une simple machine sont des caractéristiques de la déshumanisation par le travail mécanique et répétitif.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'idée que l'homme ne pense plus et survit lorsque le travail le réduit à ses fonctions biologiques met en lumière une forme de déchéance intellectuelle et existentielle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "La problématique \"Le travail humanise-t-il ?\" invite à considérer les aspects positifs et négatifs du travail sur la condition humaine, reconnaissant sa dualité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

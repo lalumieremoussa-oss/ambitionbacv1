@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 7 : Entraînement",
+  "id": "SVT008_Q7",
+  "questions": {
+    "question n°1": {
+      "question": "Pour un cycle menstruel de 32 jours (chez certaines femmes), la phase lutéinique dure :",
+      "réponses": {
+        "A": "14 jours",
+        "B": "15 jours",
+        "C": "16 jours",
+        "D": "18 jours"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Pour un cycle menstruel de 32 jours, l'ovulation se produit généralement :",
+      "réponses": {
+        "A": "Le 14ᵉ jour",
+        "B": "Le 16ᵉ jour",
+        "C": "Le 18ᵉ jour",
+        "D": "28e jour"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "La FSH stimule :",
+      "réponses": {
+        "A": "La destruction des follicules",
+        "B": "L’épaississement de l’endomètre",
+        "C": "La croissance des follicules ovariens",
+        "D": "La chute hormonale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La LH est responsable de :",
+      "réponses": {
+        "A": "La menstruation",
+        "B": "L’ovulation",
+        "C": "La fécondation",
+        "D": "La régénération de l’endomètre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Les œstrogènes sont sécrétés par :",
+      "réponses": {
+        "A": "Le corps jaune",
+        "B": "L'hypophyse",
+        "C": "Le placenta",
+        "D": "Les cellules folliculaires"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "La progestérone est principalement produite par :",
+      "réponses": {
+        "A": "L’ovaire en général",
+        "B": "L’ovule",
+        "C": "L’endomètre",
+        "D": "Le corps jaune"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "En absence de fécondation, le corps jaune :",
+      "réponses": {
+        "A": "Se transforme en follicule secondaire",
+        "B": "Régresse",
+        "C": "Se développe davantage",
+        "D": "Se transforme en ovule"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "L’hormone qui provoque l’épaississement de l’endomètre est :",
+      "réponses": {
+        "A": "LH",
+        "B": "HCG",
+        "C": "FSH",
+        "D": "Œstrogène"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Les règles sont dues à :",
+      "réponses": {
+        "A": "Une augmentation de LH",
+        "B": "Une montée de progestérone",
+        "C": "Une chute de progestérone et d’œstrogènes",
+        "D": "Une fécondation ratée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Les gonades féminines sont :",
+      "réponses": {
+        "A": "Les ovaires",
+        "B": "L’utérus",
+        "C": "Les trompes de Fallope",
+        "D": "L’hypothalamus"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Le rôle principal de la progestérone est :",
+      "réponses": {
+        "A": "Stimuler la croissance des follicules",
+        "B": "Préparer l’utérus à une éventuelle grossesse",
+        "C": "Déclencher l’ovulation",
+        "D": "Réguler la FSH"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle hormone est produite par l’hypophyse ?",
+      "réponses": {
+        "A": "Progestérone",
+        "B": "LH",
+        "C": "Œstrogène",
+        "D": "Testostérone"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Le cycle ovarien commence :",
+      "réponses": {
+        "A": "Le premier jour des règles",
+        "B": "Le jour de l’ovulation",
+        "C": "Le dernier jour du cycle",
+        "D": "Le jour où la FSH chute"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L’absence d’ovulation peut être due à :",
+      "réponses": {
+        "A": "Trop d’œstrogènes",
+        "B": "Une chute de FSH",
+        "C": "Une absence de pic de LH",
+        "D": "Une forte activité utérine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Le pic de LH entraîne :",
+      "réponses": {
+        "A": "La fécondation",
+        "B": "Les menstruations",
+        "C": "L’ovulation",
+        "D": "La formation de la glaire cervicale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Après l’ovulation, l’ovaire forme :",
+      "réponses": {
+        "A": "Un follicule secondaire",
+        "B": "Un corps jaune",
+        "C": "Une glande utérine",
+        "D": "Une hormone LH"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Chez la femme, les hormones sexuelles principales sont :",
+      "réponses": {
+        "A": "LH et HCG",
+        "B": "FSH et testostérone",
+        "C": "Œstrogènes et progestérone",
+        "D": "LH et FSH"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "La fécondation a lieu généralement :",
+      "réponses": {
+        "A": "Dans l’utérus",
+        "B": "Dans les trompes de Fallope",
+        "C": "Dans le vagin",
+        "D": "Dans l’ovaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Une baisse soudaine des œstrogènes et de la progestérone entraîne :",
+      "réponses": {
+        "A": "Une grossesse",
+        "B": "Une ovulation",
+        "C": "Les règles",
+        "D": "Une montée de FSH"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Le rôle des gonades est :",
+      "réponses": {
+        "A": "La production de globules blancs",
+        "B": "La production de gamètes et d’hormones sexuelles",
+        "C": "La destruction des cellules mortes",
+        "D": "La régulation du sommeil"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

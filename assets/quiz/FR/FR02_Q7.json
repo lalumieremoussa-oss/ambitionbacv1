@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour le progrès – Synthèse : Fonction sociale de la littérature (Série 2) – Trouve l'intrus",
+    "id": "FR027_Q2_Synthese2",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : Une vie de boy de Ferdinand Oyono. – Trouve l'intrus",
+            "reponses": {
+                "A": "Célèbre la générosité des colons français envers leurs domestiques",
+                "B": "Met en lumière l'inhumanité du système colonial à travers le regard d'un jeune boy",
+                "C": "Dénonce les humiliations et les violences subies par les Africains sous l'administration française",
+                "D": "Est un roman engagé sociopolitiquement contre la colonisation"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Œuvre : Soundjata ou l'épopée mandingue de Djibril Tamsir Niane. – Trouve l'intrus",
+            "reponses": {
+                "A": "Relate la fondation de l'Empire du Mali par Soundjata Kéita",
+                "B": "Dénonce la grève des cheminots et l'exploitation coloniale des travailleurs",
+                "C": "Est inspiré de la tradition orale des griots et transmet la mémoire historique",
+                "D": "Met en lumière les grandes figures africaines et les valeurs politiques de l'époque"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°3": {
+            "question": "Œuvre : Chaka de Léopold Sédar Senghor. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "B": "Est un poème engagé sur le plan politique qui évoque les tensions internes",
+                "C": "Critique les dérives de l'oppression militaire et de la dictature en Afrique",
+                "D": "Met en scène le roi zoulou et sa quête de pouvoir, victime des manipulations étrangères"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : L'Avare de Molière. – Trouve l'intrus",
+            "reponses": {
+                "A": "Expose les conséquences de l'avarice sur les relations humaines",
+                "B": "Met en scène Harpagon, personnage obsédé par l'argent",
+                "C": "Est une comédie classique qui dénonce un vice universel",
+                "D": "Dénonce les douleurs physiques et psychologiques de l'excision rituelle"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : La guerre de Troie n'aura pas lieu de Jean Giraudoux. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la trahison des idéaux postcoloniaux en Afrique",
+                "B": "Fait la satire des discours bellicistes des dirigeants politiques",
+                "C": "Est une pièce de théâtre engagée contre la guerre et la manipulation",
+                "D": "S'inspire de la mythologie grecque pour critiquer le pouvoir contemporain"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°6": {
+            "question": "Auteur : Chinua Achebe. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un écrivain nigérian de renom, auteur du Monde s'effondre",
+                "B": "A célébré la colonisation portugaise comme un progrès civilisateur",
+                "C": "A dénoncé les sacrifices humains et le poids des traditions",
+                "D": "A écrit Les Termitières de la savane sur les dérives du pouvoir en Afrique"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°7": {
+            "question": "Auteur : Camara Laye. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un écrivain guinéen du XXe siècle, auteur de L'Enfant noir",
+                "B": "A célébré la richesse de la culture guinéenne et ses rites initiatiques",
+                "C": "A dénoncé la dictature militaire dans ses romans autobiographiques",
+                "D": "A transmis les valeurs familiales et le respect des anciens"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "Argument : La littérature comme quête de sagesse. – Trouve l'intrus",
+            "reponses": {
+                "A": "La littérature confronte le lecteur à des réflexions philosophiques et éthiques",
+                "B": "Les œuvres existentialistes comme La Nausée interrogent le sens de l'existence",
+                "C": "Les paraboles poétiques comme Zarathoustra proposent une sagesse libérée",
+                "D": "La littérature doit éviter toute question métaphysique pour rester accessible au plus grand nombre"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "Œuvre : Les gens de Mogho de Moussa Savadogo. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce l'exploitation des enfants à l'ère industrielle",
+                "B": "Est une pièce de théâtre qui transmet les traditions et les codes de conduite sociale",
+                "C": "Célèbre les valeurs ancestrales et communautaires de la culture burkinabè",
+                "D": "Est un exemple de littérature didactique au service de la transmission culturelle"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°10": {
+            "question": "Œuvre : La Nausée de Jean-Paul Sartre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un roman existentialiste sur l'absurde et le dégoût de l'existence",
+                "B": "Relate l'amitié entre un jeune juif et un vieux musulman à Paris",
+                "C": "Invite à la réflexion sur la liberté et la responsabilité humaine",
+                "D": "Aborde le vide intérieur et la quête de sens dans un monde absurde"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°11": {
+            "question": "Auteur : Eugène Ionesco (Note et Contre-Note). – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un dramaturge du théâtre de l'absurde",
+                "B": "A critiqué le théâtre à thèse et les moralisateurs",
+                "C": "A dénoncé les abus coloniaux dans ses pièces engagées",
+                "D": "A défendu l'idée que l'art n'a pas à délivrer de message"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°12": {
+            "question": "Œuvre : Le Monde s'effondre de Chinua Achebe. – Trouve l'intrus",
+            "reponses": {
+                "A": "Interroge le poids des traditions à travers le sacrifice d'Ikemefuna",
+                "B": "Critique les violences culturelles et religieuses dans la société igbo",
+                "C": "Est un roman didactique qui éclaire sur les conséquences de la colonisation",
+                "D": "Célèbre les sacrifices humains comme des actes de bravoure suprême"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Auteur : Ousmane Sembène. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est l'auteur de L'Avare, pièce sur l'obsession de l'argent",
+                "B": "Est un écrivain et cinéaste sénégalais engagé",
+                "C": "A écrit Les Bouts de bois de Dieu sur la grève des cheminots",
+                "D": "A dénoncé l'exploitation coloniale et la lutte des classes"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Argument : La leçon morale dans la littérature. – Trouve l'intrus",
+            "reponses": {
+                "A": "Les héros d'une œuvre ont toujours une signification morale",
+                "B": "Le héros d'une œuvre didactique n'a aucune signification pour le lecteur",
+                "C": "La destinée des personnages contient une leçon sur les comportements",
+                "D": "Les personnages illustrent des valeurs ou des erreurs à éviter"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Œuvre : Monsieur Ibrahim et les Fleurs du Coran d'Éric-Emmanuel Schmitt. – Trouve l'intrus",
+            "reponses": {
+                "A": "Relate l'amitié entre un jeune juif et un vieux musulman",
+                "B": "Explore les thèmes de la tolérance, de la spiritualité et du bonheur",
+                "C": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "D": "Est un roman didactique qui transmet une leçon de sagesse"
+            },
+            "bonne reponse": "C"
+        }
+    }
+}

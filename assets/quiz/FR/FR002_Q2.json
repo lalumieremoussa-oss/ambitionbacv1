@@ -1,0 +1,141 @@
+{
+  "title": "Quiz 1 - Partie B",
+  "id": "FR002_Q1_B",
+  "questions": {
+    "question n°1": {
+      "question": "« Hiver, vous n'êtes qu'un vilain ! » (Charles d'Orléans). Quelle figure est ici utilisée ?",
+      "réponses": {
+        "A": "Personnification",
+        "B": "Périphrase",
+        "C": "Métonymie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Quelle figure de substitution établit un lien logique comme 'le contenu pour le contenant' ?",
+      "réponses": {
+        "A": "La métonymie",
+        "B": "La synecdoque",
+        "C": "La métaphore"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "'Des cheveux d’or' est un exemple de :",
+      "réponses": {
+        "A": "Allégorie",
+        "B": "Cliché",
+        "C": "Comparaison"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Laquelle de ces listes contient uniquement des outils de comparaison ?",
+      "réponses": {
+        "A": "Comme, tel, ainsi que, ressembler",
+        "B": "Bleu, vert, orange, rouge",
+        "C": "Larmes, cœur, pierre, voile"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Si je remplace 'avion' par 'oiseau d'acier', j'utilise :",
+      "réponses": {
+        "A": "Une métaphore (ou périphrase)",
+        "B": "Une comparaison",
+        "C": "Une allégorie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "La personnification prête des traits humains à :",
+      "réponses": {
+        "A": "Un être animé uniquement",
+        "B": "Une chose ou un être inanimé",
+        "C": "Une personne célèbre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Le tableau 'La Liberté guidant le peuple' illustre :",
+      "réponses": {
+        "A": "Une synecdoque",
+        "B": "Une comparaison",
+        "C": "Une allégorie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle figure définit le rapport 'partie pour le tout' ?",
+      "réponses": {
+        "A": "La synecdoque",
+        "B": "La métonymie",
+        "C": "La périphrase"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "L'expression 'Verser des torrents de larmes' est une :",
+      "réponses": {
+        "A": "Allégorie",
+        "B": "Expression lexicalisée",
+        "C": "Périphrase"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Dans une comparaison, on établit un rapport de :",
+      "réponses": {
+        "A": "Ressemblance",
+        "B": "Substitution",
+        "C": "Contradiction"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "« Ma jeunesse ne fut qu'un ténébreux orage. » (Baudelaire) est une :",
+      "réponses": {
+        "A": "Comparaison",
+        "B": "Métaphore",
+        "C": "Métonymie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Désigner la télévision par « Le petit écran » est une :",
+      "réponses": {
+        "A": "Périphrase",
+        "B": "Allégorie",
+        "C": "Synecdoque"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "« Croiser le fer » signifie se battre à l'épée. C'est une synecdoque de :",
+      "réponses": {
+        "A": "La partie pour le tout",
+        "B": "La matière pour l'objet",
+        "C": "Le contenant pour le contenu"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Laquelle de ces figures appartient à la catégorie des figures de substitution ?",
+      "réponses": {
+        "A": "La comparaison",
+        "B": "La métonymie",
+        "C": "La personnification"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« Cette ville est un véritable labyrinthe. » Sans outil de comparaison, c'est une :",
+      "réponses": {
+        "A": "Métaphore",
+        "B": "Comparaison",
+        "C": "Allégorie"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

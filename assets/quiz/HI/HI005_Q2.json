@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI005_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelles sont les deux lois majeures votées grâce à l’action des députés africains ?",
+      "réponses": {
+        "A": "La loi de l’Union Française et la loi Latrille sur la citoyenneté",
+        "B": "La loi Lamine Gueye (1946) et la loi Houphouët-Boigny (1946)",
+        "C": "La loi sur l’indépendance immédiate et la loi d’intégration scolaire",
+        "D": "La loi de transfert d’administration et la loi du droit coutumier africain"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels types de lutte ont caractérisé l’action des nationalistes ivoiriens ?",
+      "réponses": {
+        "A": "Essentiellement religieuse et coutumière, par les chefs traditionnels",
+        "B": "Militaire et révolutionnaire dans les zones rurales",
+        "C": "Parlementaire, syndicale et politique, en vue de faire valoir les droits",
+        "D": "Diplomatique, menée à l’ONU avec l’appui des métropoles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Que dénonçait le SAA dans sa lutte syndicale ?",
+      "réponses": {
+        "A": "Le manque d’églises dans les plantations rurales",
+        "B": "Le désintérêt des planteurs africains pour la politique",
+        "C": "Les taxes sur le cacao exporté vers la France",
+        "D": "Les inégalités entre planteurs européens et africains, et l’injustice coloniale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Pourquoi les colons s’opposaient-ient-ils aux actions nationalistes ?",
+      "réponses": {
+        "A": "Parce qu’ils craignaient de perdre leurs privilèges et leur pouvoir politique",
+        "B": "Parce qu’ils voulaient soutenir l’indépendance des Africains",
+        "C": "Parce qu’ils étaient en minorité numérique dans les colonies",
+        "D": "Parce qu’ils souhaitaient une nouvelle constitution"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle fut la réaction de l’administration coloniale après 1947 ?",
+      "réponses": {
+        "A": "Elle accorde une large autonomie locale aux Africains",
+        "B": "Elle remplace Latrille par Péchoux pour diviser le mouvement nationaliste",
+        "C": "Elle organise une conférence constitutionnelle à Abidjan",
+        "D": "Elle invite les leaders africains à Paris pour des négociations immédiates"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quels partis politiques existaient en Côte d’Ivoire vers 1951 ?",
+      "réponses": {
+        "A": "Le Parti Travailliste Ivoirien et le Front National",
+        "B": "Le PDCI-RDA, la SFIO et le MRP",
+        "C": "Le Parti Républicain des Colons et l’Union Patriotique",
+        "D": "L’UPCI, le Parti Gaulliste et l’UDECI"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel virage stratégique prend le PDCI-RDA à partir de 1951 ?",
+      "réponses": {
+        "A": "Il appelle à la lutte armée dans les plantations",
+        "B": "Il rompt avec le PCF pour collaborer pacifiquement avec l’administration",
+        "C": "Il rejoint le Parti de la Résistance Française",
+        "D": "Il adopte une ligne révolutionnaire marxiste-léniniste"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel fut le résultat électoral du PDCI-RDA après 1956 ?",
+      "réponses": {
+        "A": "Il remporte les élections territoriales et contrôle les municipalités",
+        "B": "Il est interdit pour cause d’agitation sociale",
+        "C": "Il perd face aux partis pro-coloniaux",
+        "D": "Il n’obtient que 2 sièges au Parlement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle conséquence la crise française de 1958 a-t-elle pour la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "La dissolution du PDCI-RDA",
+        "B": "L’acceptation immédiate de l’indépendance",
+        "C": "La proposition d’une Communauté franco-africaine qui échoue, ouvrant la voie à l’indépendance",
+        "D": "L’instauration d’un protectorat ivoirien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle stratégie Houphouët-Boigny adopte-t-il pour obtenir l’indépendance ?",
+      "réponses": {
+        "A": "L’alliance avec les syndicats marxistes radicaux",
+        "B": "Le boycott de toutes les institutions coloniales",
+        "C": "La désobéissance civile et les révoltes populaires",
+        "D": "La négociation au sein des institutions françaises pour une transition légale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle était la portée réelle de la loi Lamine Gueye de 1946 ?",
+      "réponses": {
+        "A": "Elle accordait automatiquement l’indépendance aux colonies africaines",
+        "B": "Elle permettait aux Africains d’accéder à l’armée métropolitaine",
+        "C": "Elle accordait la citoyenneté française aux ressortissants des colonies",
+        "D": "Elle supprimait toutes les taxes coloniales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle fut la limite principale de la loi Houphouët-Boigny ?",
+      "réponses": {
+        "A": "Elle ne s’appliquait qu’aux ressortissants français de métropole",
+        "B": "Elle maintenait l’esclavage dans les zones rurales",
+        "C": "Son application fut lente et parfois contournée par les colons",
+        "D": "Elle abolissait les impôts sur le commerce intérieur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi certains Africains étaient sceptiques face à la Conférence de Brazzaville ?",
+      "réponses": {
+        "A": "Parce qu’elle excluait explicitement toute idée d’indépendance",
+        "B": "Parce qu’elle était organisée en Afrique centrale, loin des enjeux ivoiriens",
+        "C": "Parce qu’elle était dirigée par Houphouët-Boigny lui-même",
+        "D": "Parce qu’elle proposait des lois contraires à la coutume"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quel était le principal objectif du SAA lors de sa création ?",
+      "réponses": {
+        "A": "Mobiliser les planteurs pour soutenir la colonisation française",
+        "B": "Défendre les intérêts des planteurs africains contre les injustices économiques",
+        "C": "Favoriser l’intégration des Européens dans les syndicats africains",
+        "D": "Promouvoir la conversion religieuse des planteurs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel fut l’effet inattendu de l’entrée d’Africains au Parlement français ?",
+      "réponses": {
+        "A": "Ils furent nommés automatiquement gouverneurs des colonies",
+        "B": "Ils perdirent leur citoyenneté locale",
+        "C": "Ils influencèrent directement les lois coloniales depuis la métropole",
+        "D": "Ils furent interdits de retour dans leurs colonies"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "En quoi le passage de Latrille à Péchoux a-t-il changé la stratégie coloniale ?",
+      "réponses": {
+        "A": "Péchoux a milité pour l’indépendance immédiate",
+        "B": "Péchoux a proposé une nouvelle constitution pour l’Afrique",
+        "C": "Il a tenté de diviser les leaders nationalistes pour freiner la montée du PDCI",
+        "D": "Il a supprimé tous les syndicats africains"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel piège le pouvoir colonial utilise-t-il pour affaiblir le nationalisme ?",
+      "réponses": {
+        "A": "Il accorde trop de réformes d’un seul coup",
+        "B": "Il encourage la création de partis rivaux au PDCI pour semer la division",
+        "C": "Il laisse le pouvoir aux chefs traditionnels",
+        "D": "Il propose l’indépendance sous condition militaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi le PDCI se sépare-t-il du PCF en 1951 ?",
+      "réponses": {
+        "A": "Pour adopter une ligne plus révolutionnaire",
+        "B": "Parce que le PCF soutenait trop les colons",
+        "C": "Pour éviter d’être associé au communisme en pleine guerre froide",
+        "D": "Parce que le PCF exigeait l'indépendance immédiate"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Que permet la victoire électorale du PDCI en 1957 ?",
+      "réponses": {
+        "A": "La création d’un État ivoirien indépendant",
+        "B": "Le contrôle du Conseil de gouvernement, base vers l’indépendance",
+        "C": "Le rejet du suffrage universel",
+        "D": "La disparition des partis pro-coloniaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "En quoi l’année 1958 constitue-t-elle un tournant décisif pour la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Elle marque l’échec de la Communauté franco-africaine et accélère l’indépendance",
+        "B": "Elle impose le maintien de la tutelle française",
+        "C": "Elle rétablit le travail forcé dans les plantations",
+        "D": "Elle voit la naissance du premier parti politique ivoirien"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

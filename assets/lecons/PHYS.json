@@ -1,0 +1,614 @@
+[
+  {
+    "id": "PHYS001",
+    "titre": "Cinématique du point",
+    "sections": [
+      {
+        "id": "PHYS001_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS001_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS001_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS001_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS001_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS001_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS001_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS002",
+    "titre": "Mouvement du centre d'inertie d'un solide",
+    "sections": [
+      {
+        "id": "PHYS002_C1",
+        "titre": "Cours ET Exercices"
+      },
+      {
+        "id": "PHYS002_C2",
+        "titre": "Exercices 1"
+      },
+      {
+        "id": "PHYS002_C3",
+        "titre": "Exercices 2"
+      },
+      {
+        "id": "PHYS002_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS002_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS002_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS002_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS002_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS003",
+    "titre": "Interaction gravitationnelle",
+    "sections": [
+      {
+        "id": "PHYS003_C1",
+        "titre": "Cours "
+      },
+      {
+        "id": "PHYS003_C2",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS003_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS003_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS003_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS003_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS003_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS004",
+    "titre": "Mouvements dans les champs uniformes",
+    "sections": [
+      {
+        "id": "PHYS004_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS004_C2",
+        "titre": "Exercices d'application"
+      },
+      {
+        "id": "PHYS004_C3",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS004_C5",
+        "titre": "Exercices d'application"
+      },
+      {
+        "id": "PHYS004_C4",
+        "titre": "Exercices de perfectionnement"
+      },
+      {
+        "id": "PHYS004_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS004_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS004_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "PHYS004_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS004_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS004_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS005",
+    "titre": "Champ magnétique",
+    "sections": [
+      {
+        "id": "PHYS005_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "PHYS005_C2",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS005_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS005_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS005_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS005_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS005_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS006",
+    "titre": "Mouvement d'une particule chargée dans un champ magnétique uniforme",
+    "sections": [
+      {
+        "id": "PHYS006_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS006_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS006_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS006_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS006_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS006_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS006_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS006_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS007",
+    "titre": "Loi de Laplace",
+    "sections": [
+      {
+        "id": "PHYS007_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS007_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS007_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS007_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS007_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS007_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS007_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS007_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS008",
+    "titre": "Induction électromagnétique",
+    "sections": [
+      {
+        "id": "PHYS008_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS008_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS008_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS008_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS008_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS008_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS008_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS008_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS009",
+    "titre": "Auto-induction",
+    "sections": [
+      {
+        "id": "PHYS009_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS009_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS009_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS009_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS009_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS009_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS009_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS009_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS010",
+    "titre": "Oscillations électriques libres dans un circuit LC",
+    "sections": [
+      {
+        "id": "PHYS010_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS010_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS010_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS010_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS010_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS010_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS010_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS010_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS011",
+    "titre": "Circuit RLC",
+    "sections": [
+      {
+        "id": "PHYS011_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "PHYS011_C2",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS011_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS011_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS011_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS011_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS011_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "PHYS012_Q1",
+        "titre": "Quiz 4"
+      },
+      {
+        "id": "PHYS0112_Q2",
+        "titre": "Quiz 5"
+      },
+      {
+        "id": "PHYS012_Q3",
+        "titre": "Quiz 6"
+      },
+      {
+        "id": "PHYS013_Q1",
+        "titre": "Quiz 7"
+      },
+      {
+        "id": "PHYS013_Q2",
+        "titre": "Quiz 8"
+      },
+      {
+        "id": "PHYS013_Q3",
+        "titre": "Quiz 9"
+      },
+      {
+        "id": "PHYS013_Q4",
+        "titre": "Quiz 10"
+      },
+      {
+        "id": "PHYS013_Q5",
+        "titre": "Quiz 11"
+      },
+      {
+        "id": "PHYS013_Q6",
+        "titre": "Quiz 12"
+      }
+    ]
+  },
+  {
+    "id": "PHYS014",
+    "titre": "Modèle ondulatoire de la lumière",
+    "sections": [
+      {
+        "id": "PHYS014_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS014_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS014_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS014_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS014_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS014_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS014_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS014_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS015",
+    "titre": "Modèle corpusculaire de la lumière",
+    "sections": [
+      {
+        "id": "PHYS015_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS015_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS015_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS015_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS015_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS015_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS015_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS015_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS016",
+    "titre": "Montages dérivateur et intégrateur",
+    "sections": [
+      {
+        "id": "PHYS016_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS016_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS016_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS016_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS016_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS016_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS016_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS016_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYS017",
+    "titre": "Réactions nucléaires spontanées et provoquées",
+    "sections": [
+      {
+        "id": "PHYS017_C1",
+        "titre": "Cours 1"
+      },
+      {
+        "id": "PHYS017_C2",
+        "titre": "Cours 2"
+      },
+      {
+        "id": "PHYS017_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "PHYS017_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "PHYS017_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "PHYS017_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "PHYS017_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "PHYS017_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "PHYSREV",
+    "titre": "Révision générale et Prépa BAC",
+    "sections": [
+      {
+        "id": "ASPC",
+        "titre": "sujets et corrigés Bac 2025"
+      }
+    ]
+  }
+]

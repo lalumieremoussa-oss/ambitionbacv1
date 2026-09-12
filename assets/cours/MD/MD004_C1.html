@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Détermination des Ensembles de Définition ($D_f$)",
+                    "content": "La fonction logarithme népérien, notée $ln$, est une fonction dont l'argument doit impérativement être strictement positif. \nAinsi, pour une fonction de la forme $f(x) = ln(u(x))$, la condition d'existence est $u(x) > 0$.\n\nPour déterminer l'ensemble de définition $D_f$, il faut :\n1. Identifier l'expression $u(x)$ située à l'intérieur du logarithme.\n2. Poser l'inéquation $u(x) > 0$.\n3. Résoudre cette inéquation dans $\\mathbb{R}$.\n4. Tenir compte des autres contraintes mathématiques habituelles, comme l'interdiction d'avoir un dénominateur nul ($v(x) \\neq 0$) ou l'argument d'une racine carrée positif.",
+                    "example": "Déterminons l'ensemble de définition de la fonction $f(x) = ln(2-3x)$ :\n\n**Condition d'existence :**\nL'expression sous le logarithme doit être strictement positive.\n$2 - 3x > 0$\n\n**Résolution :**\n$-3x > -2$\nEn divisant par $-3$ (un nombre négatif), on change le sens de l'inégalité :\n$x < \\frac{-2}{-3}$\n$x < \\frac{2}{3}$\n\n**Conclusion :**\nL'ensemble de définition est $D_f = ]-\\infty ; \\frac{2}{3}[$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = -5x + 5 + ln(x-7)$.\nCondition : $x - 7 > 0$, ce qui donne $x > 7$.\nL'ensemble de définition est $D_f = ]7 ; +\\infty[$.",
+                        "Exemple complet : Soit $f(x) = \\frac{1}{-2x+4} + ln(-2x+4)$.\nIci, nous avons deux conditions :\n1. Le dénominateur : $-2x+4 \\neq 0 \\implies -2x \\neq -4 \\implies x \\neq 2$.\n2. Le logarithme : $-2x+4 > 0 \\implies -2x > -4 \\implies x < 2$.\nEn combinant les deux (être inférieur à 2 et différent de 2), on obtient :\n$D_f = ]-\\infty ; 2[$.",
+                        "Exemple complet : Soit $f(x) = ln(\\frac{3x+3}{x-2})$.\nCondition : $\\frac{3x+3}{x-2} > 0$.\nOn étudie le signe du quotient. Les valeurs s'annulant sont $x = -1$ et $x = 2$ (valeur interdite).\nLe quotient est positif sur $]-\\infty ; -1[ \\cup ]2 ; +\\infty[$.\n$D_f = ]-\\infty ; -1[ \\cup ]2 ; +\\infty[$.",
+                        "Exemple complet : Soit $f(x) = ln(9x^2-16)$.\nCondition : $9x^2-16 > 0$.\nC'est une identité remarquable : $(3x-4)(3x+4) > 0$.\nLes racines sont $x = -\\frac{4}{3}$ et $x = \\frac{4}{3}$.\nLe trinôme est positif à l'extérieur des racines.\n$D_f = ]-\\infty ; -\\frac{4}{3}[ \\cup ]\\frac{4}{3} ; +\\infty[$.",
+                        "Exemple complet : Soit $f(x) = ln|x+5|$.\nCondition : $|x+5| > 0$.\nUne valeur absolue est toujours positive ou nulle. La seule valeur à exclure est celle qui annule l'expression.\n$x+5 = 0 \\implies x = -5$.\n$D_f = \\mathbb{R} \\setminus \\{-5\\}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Propriétés algébriques et Simplifications",
+                    "content": "La fonction logarithme possède des propriétés fondamentales qui permettent de transformer des produits en sommes, des quotients en différences et des puissances en multiplications. Ces propriétés sont :\n1. **Produit :** $ln(a \\times b) = ln(a) + ln(b)$\n2. **Inverse :** $ln(\\frac{1}{a}) = -ln(a)$\n3. **Quotient :** $ln(\\frac{a}{b}) = ln(a) - ln(b)$\n4. **Puissance :** $ln(a^n) = n \\times ln(a)$\n5. **Racine carrée :** $ln(\\sqrt{a}) = \\frac{1}{2}ln(a)$\n\nCes règles s'appliquent pour tous réels $a$ et $b$ strictement positifs.",
+                    "example": "Exprimons $A = ln(36) - 2ln(12)$ en fonction de $ln 2$ et $ln 3$ :\n\n**Décomposition des nombres :**\n$36 = 6^2 = (2 \\times 3)^2 = 2^2 \\times 3^2$\n$12 = 4 \\times 3 = 2^2 \\times 3$\n\n**Application des propriétés :**\n$ln(36) = ln(2^2 \\times 3^2) = ln(2^2) + ln(3^2) = 2ln 2 + 2ln 3$\n$2ln(12) = 2[ln(2^2 \\times 3)] = 2[2ln 2 + ln 3] = 4ln 2 + 2ln 3$\n\n**Calcul final :**\n$A = (2ln 2 + 2ln 3) - (4ln 2 + 2ln 3)$\n$A = 2ln 2 + 2ln 3 - 4ln 2 - 2ln 3$\n$A = -2ln 2$.",
+                    "extras": [
+                        "Exemple complet : Simplifier $B = ln(32)$.\n$32 = 2^5$, donc $ln(32) = ln(2^5) = 5ln 2$.",
+                        "Exemple complet : Simplifier $C = ln(27) + 2ln(8) - 3ln(108)$.\n$C = ln(3^3) + 2ln(2^3) - 3ln(2^2 \\times 3^3)$\n$C = 3ln 3 + 6ln 2 - 3(2ln 2 + 3ln 3)$\n$C = 3ln 3 + 6ln 2 - 6ln 2 - 9ln 3 = -6ln 3$.",
+                        "Exemple complet : Simplifier $D = ln(\\frac{\\sqrt{3}+1}{2}) + ln(\\frac{\\sqrt{3}-1}{2})$.\n$D = ln[\\frac{(\\sqrt{3}+1)(\\sqrt{3}-1)}{4}] = ln[\\frac{(\\sqrt{3})^2 - 1^2}{4}]$\n$D = ln(\\frac{3-1}{4}) = ln(\\frac{2}{4}) = ln(\\frac{1}{2}) = -ln 2$.",
+                        "Exemple complet : Simplifier $E = ln(4) + \\frac{1}{2}ln(9) - 2ln(5)$.\n$E = ln(2^2) + ln(9^{1/2}) - ln(5^2) = 2ln 2 + ln 3 - ln 25$\n$E = ln(2^2 \\times 3) - ln 25 = ln(\\frac{12}{25})$.",
+                        "Exemple complet : Simplifier $F = ln(1-\\sqrt{2})^{10} + ln(1+\sqrt{2})^{10}$.\n$F = 10ln|1-\\sqrt{2}| + 10ln|1+\\sqrt{2}| = 10ln|(1-\\sqrt{2})(1+\\sqrt{2})|$\n$F = 10ln|1-2| = 10ln|-1| = 10ln(1) = 0$."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

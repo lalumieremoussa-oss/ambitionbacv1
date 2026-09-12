@@ -1,0 +1,547 @@
+{
+  "title": "AN08_Q1",
+  "id": "AN08_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Qu'est-ce que tu écris ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "you",
+        "does",
+        "What",
+        "write",
+        "do",
+        "we",
+        "read",
+        "she"
+      ],
+      "bonne réponse": "What do you write"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Qu'est-ce qu'il fait ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "he",
+        "do",
+        "What",
+        "you",
+        "read",
+        "they",
+        "is",
+        "drink"
+      ],
+      "bonne réponse": "What does he do"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Qu'est-ce qu'elle lit ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "she",
+        "What",
+        "does",
+        "read",
+        "do",
+        "he",
+        "write",
+        "play",
+        "drink"
+      ],
+      "bonne réponse": "What does she read"
+    },
+    "question n°4": {
+      "question": "Complétez : \"What __ we learn at school?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "does",
+        "are",
+        "is",
+        "what",
+        "he",
+        "she",
+        "you"
+      ],
+      "bonne réponse": "do"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"Qu'est-ce qu'ils mangent ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "do",
+        "they",
+        "eat",
+        "does",
+        "we",
+        "write",
+        "drink",
+        "play",
+        "you"
+      ],
+      "bonne réponse": "What do they eat"
+    },
+    "question n°6": {
+      "question": "Complétez : \"What __ Mariam write?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "do",
+        "are",
+        "is",
+        "they",
+        "we",
+        "he",
+        "you",
+        "what"
+      ],
+      "bonne réponse": "does"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Qu'est-ce que nous regardons ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "we",
+        "watch",
+        "do",
+        "What",
+        "does",
+        "you",
+        "they",
+        "read",
+        "is",
+        "play"
+      ],
+      "bonne réponse": "What do we watch"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Qu'est-ce que ton professeur dit ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "does",
+        "your",
+        "teacher",
+        "say",
+        "do",
+        "you",
+        "write",
+        "he",
+        "play",
+        "read",
+        "drink"
+      ],
+      "bonne réponse": "What does your teacher say"
+    },
+    "question n°9": {
+      "question": "Complétez : \"What does she __ ?\" (faire)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "does",
+        "write",
+        "eats",
+        "learns",
+        "reads",
+        "plays",
+        "drinks"
+      ],
+      "bonne réponse": "do"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"Qu'est-ce qu'elle apprend ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "she",
+        "learn",
+        "does",
+        "What",
+        "do",
+        "he",
+        "write",
+        "play",
+        "read",
+        "drink"
+      ],
+      "bonne réponse": "What does she learn"
+    },
+    "question n°11": {
+      "question": "Complétez : \"What do you __ ?\" (boire)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "drink",
+        "drinks",
+        "eats",
+        "learns",
+        "reads",
+        "plays",
+        "watches",
+        "do"
+      ],
+      "bonne réponse": "drink"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Qu'est-ce que Marie joue ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Marie",
+        "play",
+        "does",
+        "What",
+        "do",
+        "he",
+        "write",
+        "drink",
+        "is",
+        "are"
+      ],
+      "bonne réponse": "What does Marie play"
+    },
+    "question n°13": {
+      "question": "Complétez : \"What __ they play?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "does",
+        "are",
+        "is",
+        "what",
+        "he",
+        "she",
+        "it",
+        "you"
+      ],
+      "bonne réponse": "do"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Qu'est-ce que tu fais pour le travail ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "do",
+        "you",
+        "for",
+        "work",
+        "does",
+        "he",
+        "play",
+        "read",
+        "drink",
+        "she"
+      ],
+      "bonne réponse": "What do you do for work"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Qu'est-ce qu'Ali lit ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "Ali",
+        "read",
+        "What",
+        "do",
+        "you",
+        "write",
+        "play",
+        "drink",
+        "eat"
+      ],
+      "bonne réponse": "What does Ali read"
+    },
+    "question n°16": {
+      "question": "Complétez : \"What does he __ ?\" (manger)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eat",
+        "eats",
+        "learns",
+        "writes",
+        "reads",
+        "plays",
+        "drinks",
+        "watch"
+      ],
+      "bonne réponse": "eat"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Qu'est-ce qu'ils regardent ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "they",
+        "watch",
+        "do",
+        "What",
+        "does",
+        "he",
+        "she",
+        "play",
+        "read",
+        "drink"
+      ],
+      "bonne réponse": "What do they watch"
+    },
+    "question n°18": {
+      "question": "Complétez : \"What __ it drink?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "do",
+        "are",
+        "is",
+        "what",
+        "he",
+        "she",
+        "you",
+        "they"
+      ],
+      "bonne réponse": "does"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Qu'est-ce que Fanta garde ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Fanta",
+        "keep",
+        "does",
+        "What",
+        "do",
+        "you",
+        "write",
+        "read",
+        "play",
+        "drink"
+      ],
+      "bonne réponse": "What does Fanta keep"
+    },
+    "question n°20": {
+      "question": "Complétez : \"What do you __ in the morning?\" (manger)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eat",
+        "eats",
+        "learns",
+        "writes",
+        "reads",
+        "plays",
+        "drinks",
+        "watch"
+      ],
+      "bonne réponse": "eat"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Qu'est-ce qu'il boit ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "he",
+        "drink",
+        "What",
+        "do",
+        "you",
+        "write",
+        "play",
+        "read",
+        "eat"
+      ],
+      "bonne réponse": "What does he drink"
+    },
+    "question n°22": {
+      "question": "Complétez : \"What __ your father do?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "do",
+        "are",
+        "is",
+        "what",
+        "he",
+        "she",
+        "you",
+        "they"
+      ],
+      "bonne réponse": "does"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Qu'est-ce que nous disons ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "we",
+        "say",
+        "do",
+        "What",
+        "does",
+        "you",
+        "they",
+        "read",
+        "write",
+        "play"
+      ],
+      "bonne réponse": "What do we say"
+    },
+    "question n°24": {
+      "question": "Complétez : \"What do they __ ?\" (apprendre)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "learn",
+        "learns",
+        "writes",
+        "reads",
+        "plays",
+        "drinks",
+        "watches",
+        "do"
+      ],
+      "bonne réponse": "learn"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Qu'est-ce qu'un élève écrit ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "student",
+        "write",
+        "does",
+        "What",
+        "a",
+        "do",
+        "he",
+        "read",
+        "play",
+        "drink"
+      ],
+      "bonne réponse": "What does a student write"
+    },
+    "question n°26": {
+      "question": "Complétez : \"What __ you say?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "does",
+        "are",
+        "is",
+        "what",
+        "he",
+        "she",
+        "it",
+        "they"
+      ],
+      "bonne réponse": "do"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"Qu'est-ce qu'elle regarde ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "she",
+        "watch",
+        "What",
+        "do",
+        "he",
+        "write",
+        "play",
+        "read",
+        "drink"
+      ],
+      "bonne réponse": "What does she watch"
+    },
+    "question n°28": {
+      "question": "Complétez : \"What do we __ for work?\" (faire)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "do",
+        "does",
+        "write",
+        "eats",
+        "learns",
+        "reads",
+        "plays",
+        "drinks"
+      ],
+      "bonne réponse": "do"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"Qu'est-ce que tes amis apprennent ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "do",
+        "your",
+        "friends",
+        "learn",
+        "does",
+        "he",
+        "she",
+        "write",
+        "play",
+        "read",
+        "drink"
+      ],
+      "bonne réponse": "What do your friends learn"
+    },
+    "question n°30": {
+      "question": "Complétez : \"What __ the cat eat?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "does",
+        "do",
+        "are",
+        "is",
+        "what",
+        "he",
+        "she",
+        "you",
+        "they"
+      ],
+      "bonne réponse": "does"
+    },
+    "question n°31": {
+      "question": "Quelle est la traduction française de \"What do\"?",
+      "type": "short_answer",
+      "bonne réponse": "Qu'est-ce que"
+    },
+    "question n°32": {
+      "question": "Quelle est la forme correcte de l'auxiliaire pour le sujet \"They\" dans une question avec \"What\"? (do ou does ?)",
+      "type": "short_answer",
+      "bonne réponse": "do"
+    },
+    "question n°33": {
+      "question": "Quelle est la forme correcte de l'auxiliaire pour le sujet \"He\" dans une question avec \"What\"? (do ou does ?)",
+      "type": "short_answer",
+      "bonne réponse": "does"
+    },
+    "question n°34": {
+      "question": "Quel pronom sujet remplace \"Fanta\" (féminin singulier) ?",
+      "type": "short_answer",
+      "bonne réponse": "she"
+    },
+    "question n°35": {
+      "question": "Traduisez le verbe \"write\" à l'infinitif en français.",
+      "type": "short_answer",
+      "bonne réponse": "écrire"
+    },
+    "question n°36": {
+      "question": "Quelle est la règle concernant le verbe principal (verbe d'action) quand on utilise \"does\" dans la question ? ( infinitif ou -s à la fin?)",
+      "type": "short_answer",
+      "bonne réponse": "infinitif"
+    },
+    "question n°37": {
+      "question": "Traduisez l'exemple \"What do you say?\" (Ali).",
+      "type": "short_answer",
+      "bonne réponse": "Qu'est-ce que tu dis ?"
+    },
+    "question n°38": {
+      "question": "Quel est l'auxiliaire utilisé pour poser une question pour les sujets \"I\", \"You\", \"We\", et \"They\" dans cette structure ? (do ou does?) ",
+      "type": "short_answer",
+      "bonne réponse": "do"
+    },
+    "question n°39": {
+      "question": "Traduisez en anglais : \"Qu'est-ce que tu lis ?\"",
+      "type": "short_answer",
+      "bonne réponse": "What do you read?"
+    },
+    "question n°40": {
+      "question": "Quel est le verbe principal dans l'exemple \"What does she drink?\" ?",
+      "type": "short_answer",
+      "bonne réponse": "drink"
+    }
+  }
+}

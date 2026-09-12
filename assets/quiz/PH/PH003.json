@@ -1,0 +1,1214 @@
+
+[
+{
+  "title": "Quiz 1",
+  "id": "PH003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème <<relation avec autrui>>. Quelle définition convient le mieux à la notion de liberté dans la perspective de Hobbes ?",
+      "réponses": {
+        "A": "La liberté est l’absence totale de toute contrainte, même sociale.",
+        "B": "La liberté est la capacité à se soumettre volontairement à l’autorité.",
+        "C": "La liberté est le pouvoir d’agir selon sa volonté tant qu’aucune force ne s’y oppose.",
+        "D": "La liberté est uniquement spirituelle, elle ne dépend d’aucune loi humaine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Selon Sartre, qu’est-ce qui définit l’homme en tant qu’être libre ?",
+      "réponses": {
+        "A": "L’homme est libre dans la mesure où il se conforme aux normes sociales.",
+        "B": "L’homme est libre parce que ses instincts sont contrôlables par la raison.",
+        "C": "L’homme est libre dès lors qu’il vit sans les autres, dans l’isolation.",
+        "D": "L’homme est libre parce qu’il est condamné à choisir, même contre sa volonté."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Dans une relation avec autrui, qu’est-ce qui met en péril la liberté individuelle selon Hegel ?",
+      "réponses": {
+        "A": "Le désir de plaire à autrui plus que la volonté d’exister.",
+        "B": "Le besoin de reconnaissance réciproque qui entraîne une lutte de domination.",
+        "C": "Le respect mutuel entre consciences qui annule l’indépendance.",
+        "D": "L’oubli de soi au profit de la fusion dans une conscience collective."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "À quel courant de pensée Hobbes est-il généralement associé ?",
+      "réponses": {
+        "A": "Matérialisme et contractualisme politique",
+        "B": "Existentialisme religieux",
+        "C": "Idéalisme transcendantal kantien",
+        "D": "Humanisme existentialiste"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Jean-Paul Sartre appartient au courant :",
+      "réponses": {
+        "A": "Existentialisme athée",
+        "B": "Déterminisme rationaliste",
+        "C": "Structuralisme historique",
+        "D": "Stoïcisme moderne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Hegel, dans sa dialectique du maître et de l’esclave, s’inscrit dans une logique :",
+      "réponses": {
+        "A": "Idéaliste dialectique",
+        "B": "Relativiste pragmatique",
+        "C": "Néo-thomiste personnalisante",
+        "D": "Matérialiste empirique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quel argument justifie que la présence d’autrui soit une menace à ma liberté ?",
+      "réponses": {
+        "A": "Parce qu’autrui cherche toujours à faire valoir ses droits sur moi.",
+        "B": "Parce qu’il impose sa volonté et limite mon champ d’action.",
+        "C": "Parce qu’il me fait prendre conscience de mes responsabilités.",
+        "D": "Parce qu’il me juge uniquement sur mes résultats visibles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Pourquoi, selon Sartre, autrui peut-être « l’enfer » ?",
+      "réponses": {
+        "A": "Parce que son absence nous rend égoïstes.",
+        "B": "Parce qu’il fait obstacle à notre vie sociale.",
+        "C": "Parce que son regard nous prive de notre liberté intérieure.",
+        "D": "Parce qu’il refuse toute coopération avec nous."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Pourquoi Hegel pense-t-il que la reconnaissance d’autrui aliène la liberté ?",
+      "réponses": {
+        "A": "Parce que la reconnaissance est impossible sans amour réciproque.",
+        "B": "Parce que l’homme est incapable de se reconnaître lui-même.",
+        "C": "Parce que cette reconnaissance passe par une lutte où l’un des deux se soumet.",
+        "D": "Parce que seul le travail rend libre, pas la reconnaissance."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle conséquence découle de la \"guerre de tous contre tous\" chez Hobbes ?",
+      "réponses": {
+        "A": "La nécessité d’un droit naturel inconditionnel.",
+        "B": "La supériorité du collectif sur l’individu.",
+        "C": "La mise en place d’un pouvoir souverain garant de la paix.",
+        "D": "L’établissement d’une démocratie égalitaire spontanée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "En quoi le regard d’autrui provoque-t-il la honte selon Sartre ?",
+      "réponses": {
+        "A": "Parce qu’il nous révèle ce que nous avons de meilleur.",
+        "B": "Parce qu’il nous réduit à un objet, nous ôtant notre subjectivité.",
+        "C": "Parce qu’il est neutre et ne juge pas nos actes.",
+        "D": "Parce qu’il nous aide à grandir moralement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Dans la dialectique du maître et de l’esclave, qui est réellement libre à la fin ?",
+      "réponses": {
+        "A": "Aucun, car tous deux sont dépendants.",
+        "B": "Le maître, qui impose sa volonté sans contrainte.",
+        "C": "L’esclave, car il transforme le monde par le travail et s’émancipe.",
+        "D": "Les deux, puisqu’ils finissent par fusionner dans une conscience commune."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "« L’homme est un loup pour l’homme » signifie :",
+      "réponses": {
+        "A": "Que l’homme est naturellement sociable mais violent s’il est frustré.",
+        "B": "Que l’homme peut être cruel uniquement s’il est éduqué ainsi.",
+        "C": "Que l’homme est naturellement un danger pour autrui en l’absence de loi.",
+        "D": "Que l’homme est semblable à l’animal quand il suit sa morale intérieure."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "« L’enfer, c’est les autres » (Sartre) signifie :",
+      "réponses": {
+        "A": "Le regard d’autrui nous prive de notre liberté et nous juge.",
+        "B": "Les autres sont des obstacles matériels à nos projets.",
+        "C": "L’homme est responsable des souffrances des autres.",
+        "D": "Autrui est la cause de notre bonheur comme de notre malheur."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "« Toute conscience poursuit la mort de l’autre » (Hegel) veut dire :",
+      "réponses": {
+        "A": "Que toute conscience est vouée à la destruction dans l’histoire.",
+        "B": "Que l’homme cherche instinctivement à dominer ses semblables.",
+        "C": "Que la reconnaissance passe par une lutte pour exister en tant que sujet libre.",
+        "D": "Que toute liberté doit se construire sans autre conscience en face."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Que signifie concrètement : « La honte est honte de soi » selon Sartre ?",
+      "réponses": {
+        "A": "C’est la reconnaissance de soi comme objet vu par un autre.",
+        "B": "C’est l’expression d’une culpabilité liée à la morale collective.",
+        "C": "C’est le remords que l’on ressent quand on blesse quelqu’un.",
+        "D": "C’est un mécanisme de défense contre l’humiliation sociale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Pourquoi la phrase « l’homme est un loup pour l’homme » justifie-t-elle l’État chez Hobbes ?",
+      "réponses": {
+        "A": "Car l’État favorise la liberté en supprimant l’instinct animal.",
+        "B": "Car seul un pouvoir absolu peut contenir la violence humaine.",
+        "C": "Car l’homme doit suivre la loi divine pour être libre.",
+        "D": "Car l’État remplace l’agressivité par l’égalité des chances."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Comment comprendre : « Toute conscience poursuit la mort de l’autre » ?",
+      "réponses": {
+        "A": "Que pour être reconnue, une conscience doit vaincre l’autre dans une lutte symbolique.",
+        "B": "Que l’homme est naturellement destructeur par instinct biologique.",
+        "C": "Que l’homme refuse de coopérer dans la sphère politique.",
+        "D": "Que toute liberté est possible uniquement dans la solitude absolue."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Le simple regard d’autrui est souvent une entrave à notre liberté.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Fait naître en moi, un sentiment de honte et de culpabilité intense tel que je suis vu en train d'accomplir un acte immoral. Jean Jacques Rousseau fait cette remarque lorsqu'il affirme: «suis cet être-là que l’autre regarde et juge. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "PH003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Toujours dans le cadre du thème: relation avec autrui. Dans quelle perspective autrui est-il une nécessité pour devenir pleinement humain ?",
+      "réponses": {
+        "A": "Autrui est un obstacle moral qu’il faut surmonter pour atteindre la vertu.",
+        "B": "Autrui est une médiation essentielle entre moi et mon humanité.",
+        "C": "L’humanité s’acquiert sans l’autre, uniquement par introspection.",
+        "D": "L’homme naît humain ; il n’a pas besoin d’autrui pour le devenir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie “l’humanisation” dans le cadre de la relation à autrui ?",
+      "réponses": {
+        "A": "C’est l’imitation d’autrui dans un processus social d’adaptation.",
+        "B": "C’est la capacité à exprimer ses émotions librement face à autrui.",
+        "C": "C’est l’élévation de l’homme au-dessus de sa nature animale grâce à l’éducation.",
+        "D": "C’est la capacité de se reconnaître dans les autres."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle est la conception rousseauiste de la nature humaine ?",
+      "réponses": {
+        "A": "L’homme est bon par nature, mais la société le corrompt.",
+        "B": "L’homme est naturellement violent, mais la société le rend civilisé.",
+        "C": "L’homme est neutre, la société le rend soit bon, soit méchant.",
+        "D": "L’homme ne devient bon qu’en s’isolant du monde social."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "À quel courant Kant est-il généralement associé dans sa vision de l’éducation ?",
+      "réponses": {
+        "A": "Humanisme rationaliste",
+        "B": "Pragmatisme moral",
+        "C": "Épicurisme moral",
+        "D": "Romantisme anthropologique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "À quelle tradition appartient la pensée de Rousseau sur la bonté naturelle ?",
+      "réponses": {
+        "A": "Matérialisme stoïcien",
+        "B": "Naturalisme humaniste",
+        "C": "Éthique utilitariste",
+        "D": "Rationalisme scolastique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle idée de Socrate transparaît dans sa phrase « Nul n’est méchant volontairement » ?",
+      "réponses": {
+        "A": "Que la morale n’a rien à voir avec la connaissance.",
+        "B": "Que la méchanceté est congénitale.",
+        "C": "Que le mal est le fruit de l’ignorance, non d’un choix volontaire.",
+        "D": "Que l’homme choisit toujours le bien pour le bien."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Pourquoi autrui est-il nécessaire à la construction de soi selon Sartre ?",
+      "réponses": {
+        "A": "Parce qu’il nous permet de nier ce que nous étions auparavant.",
+        "B": "Parce qu’il nous juge sans filtre, ce qui nous impose de changer.",
+        "C": "Parce qu’il est le médiateur entre moi et ma propre conscience.",
+        "D": "Parce qu’il corrige mes erreurs de perception sur le monde."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Comment la discipline d’autrui contribue-t-elle à l’humanisation ? (Kant)",
+      "réponses": {
+        "A": "Elle impose des contraintes arbitraires qui réduisent l’instinct.",
+        "B": "Elle canalise les instincts pour orienter l’homme vers la moralité.",
+        "C": "Elle uniformise les comportements pour maintenir l’ordre social.",
+        "D": "Elle supprime toute liberté individuelle au profit de la règle commune."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Pourquoi peut-on dire que la solitude est une impasse existentielle ?",
+      "réponses": {
+        "A": "Parce qu’elle nous rend dépendants de nos désirs matériels.",
+        "B": "Parce que c’est dans la relation à autrui que l’existence prend du sens.",
+        "C": "Parce que l’homme n’existe que dans le regard de Dieu.",
+        "D": "Parce que la solitude nous pousse à chercher la vérité en nous-mêmes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Comment interpréter : « La discipline transforme l’animalité en humanité » ?",
+      "réponses": {
+        "A": "L’homme brut devient humain par l’éducation, qui canalise ses instincts.",
+        "B": "L’homme est naturellement discipliné, il faut juste le réveiller.",
+        "C": "La culture transforme les animaux en humains civilisés.",
+        "D": "L’animal devient moral quand il subit une éducation religieuse."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Pourquoi autrui est-il un « rempart existentiel » ?",
+      "réponses": {
+        "A": "Parce qu’il juge nos erreurs pour nous améliorer.",
+        "B": "Parce qu’il permet d’échapper à la réalité par l’illusion.",
+        "C": "Parce qu’il donne sens à nos souffrances, à nos joies, à notre vécu.",
+        "D": "Parce qu’il nous distrait de l’absurde de la vie."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi le mal n’est-il pas volontaire selon Socrate ?",
+      "réponses": {
+        "A": "Parce qu’il résulte d’un manque de savoir sur le bien véritable.",
+        "B": "Parce qu’il est le fruit du destin, non d’un choix.",
+        "C": "Parce qu’il est imposé par les lois de la nature.",
+        "D": "Parce qu’il dépend du groupe et non de l’individu."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "« La discipline transforme l’animalité en humanité. » (Kant)",
+      "réponses": {
+        "A": "Autrui, par l’éducation, rend l’homme maître de ses pulsions.",
+        "B": "L’homme, par nature, est discipliné comme l’animal.",
+        "C": "La discipline n’a qu’un effet comportemental, pas moral.",
+        "D": "La culture est inutile à la transformation humaine."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "« Autrui est le médiateur indispensable entre moi et moi-même. » (Sartre)",
+      "réponses": {
+        "A": "Parce qu’il me juge sévèrement.",
+        "B": "Parce que c’est par lui que je prends conscience de ce que je suis.",
+        "C": "Parce qu’il me révèle mes erreurs et mes fautes.",
+        "D": "Parce qu’il me dicte ce que je dois devenir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« L’homme est naturellement bon ; c’est la société qui le corrompt. » (Rousseau)",
+      "réponses": {
+        "A": "La société améliore l’homme en l’éduquant.",
+        "B": "L’homme n’est pas violent en soi, c’est l’organisation sociale qui le rend injuste.",
+        "C": "L’homme est méchant de nature, seul autrui le corrige.",
+        "D": "L’homme est bon uniquement dans la solitude."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi Kant parle-t-il de “discipline” et non seulement d’“instruction” ?",
+      "réponses": {
+        "A": "Parce que la discipline est physique et morale à la fois.",
+        "B": "Parce qu’instruire sans discipliner ne permet pas d’obéir.",
+        "C": "Parce que seule la discipline moralise et humanise l’individu.",
+        "D": "Parce que l’instruction est réservée à une élite, pas la discipline."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Que signifie « Autrui est le médiateur entre moi et moi-même » ?",
+      "réponses": {
+        "A": "Qu’autrui, en me regardant, me révèle à moi-même.",
+        "B": "Qu’autrui impose une image que je dois contester.",
+        "C": "Qu’autrui est toujours supérieur dans la hiérarchie sociale.",
+        "D": "Qu’autrui me rappelle mes obligations envers l’État."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle idée fondamentale se dégage de « Nul n’est méchant volontairement » ?",
+      "réponses": {
+        "A": "Que la méchanceté est due à une ignorance du bien.",
+        "B": "Que le mal est causé par l’amour-propre blessé.",
+        "C": "Que tout mal est dicté par une logique divine inconnue.",
+        "D": "Que la méchanceté est inhérente à la nature humaine."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Pour Rousseau, la société est le produit naturel de la bonté humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Sartre pense que le regard d’autrui est toujours aliénant.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "PH003_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème l'Etat et liberté. Quelle est la définition critique de l’État selon les penseurs anarchistes comme Bakounine ?",
+      "réponses": {
+        "A": "L’État est l’unique moyen d’organiser une société fondée sur la justice.",
+        "B": "L’État est une entité qui supprime la liberté individuelle sous couvert d’ordre.",
+        "C": "L’État est un arbitre neutre entre les différentes classes sociales.",
+        "D": "L’État protège l’autonomie individuelle face aux forces économiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Dans une perspective critique, que représente l’État pour les anarchistes ?",
+      "réponses": {
+        "A": "Une forme imparfaite de gouvernement perfectible par le peuple.",
+        "B": "Un appareil d’oppression artificiel qui doit être aboli.",
+        "C": "Une structure inévitable de la vie sociale moderne.",
+        "D": "Une organisation fondée sur des principes naturels et universels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle tension fondamentale oppose la liberté individuelle à l’État selon les penseurs libertaires ?",
+      "réponses": {
+        "A": "L’État protège trop les libertés, ce qui engendre le chaos.",
+        "B": "L’État est trop faible pour limiter les abus des individus.",
+        "C": "L’État exige la soumission au détriment de l’autonomie personnelle.",
+        "D": "L’État n’impose aucune norme collective stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "À quel courant politique et philosophique appartient Bakounine ?",
+      "réponses": {
+        "A": "Marxisme libéral",
+        "B": "Anarchisme révolutionnaire",
+        "C": "Positivisme juridique",
+        "D": "Conservatisme catholique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La critique nietzschéenne de l’État s’inscrit dans :",
+      "réponses": {
+        "A": "Un rejet des valeurs aristocratiques.",
+        "B": "Une défense du droit naturel universel.",
+        "C": "Une dénonciation de la décadence et du mensonge des institutions.",
+        "D": "Un appel à une théocratie spirituelle moderne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "En déclarant : « Si l’État est fort, il nous écrase ; s’il est faible, nous périssons », Valéry exprime :",
+      "réponses": {
+        "A": "Une confiance totale dans la puissance régulatrice de l’État.",
+        "B": "Une méfiance radicale face au dilemme de la puissance étatique.",
+        "C": "Une admiration implicite pour les démocraties fortes.",
+        "D": "L’inefficacité des États modernes face à l’individu autonome."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi peut-on dire que l’État peut devenir économiquement oppressif ?",
+      "réponses": {
+        "A": "Parce qu’il impose des règles de marché contraires aux intérêts du peuple.",
+        "B": "Parce qu’il n’intervient pas assez dans les échanges commerciaux.",
+        "C": "Parce qu’il est toujours du côté des consommateurs et non des producteurs.",
+        "D": "Parce qu’il refuse de signer des accords internationaux favorables."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel est le risque lié à un État fort dans un contexte économique mondial ?",
+      "réponses": {
+        "A": "Il attire l’envie des puissances étrangères.",
+        "B": "Il devient le relais docile des injonctions extérieures.",
+        "C": "Il se désintéresse des politiques de développement local.",
+        "D": "Il devient ingérable car trop autonome."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "En quoi l’État peut-il être un instrument au service d’une classe sociale ?",
+      "réponses": {
+        "A": "Parce qu’il édicte des lois qui maintiennent les privilèges d’une minorité dominante.",
+        "B": "Parce qu’il est dirigé uniquement par des syndicats ouvriers.",
+        "C": "Parce qu’il ne s’intéresse qu’aux minorités ethniques et non à la majorité.",
+        "D": "Parce qu’il nie systématiquement toute organisation collective."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle conséquence politique résulte de la domination d’une classe sur l’appareil d’État ?",
+      "réponses": {
+        "A": "L’unité nationale renforcée et partagée.",
+        "B": "L’égalité stricte entre les citoyens.",
+        "C": "L’instrumentalisation du pouvoir pour conserver des avantages sociaux.",
+        "D": "La suppression de tout clivage politique au profit du consensus."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi Nietzsche qualifie-t-il l’État de « monstre froid » ?",
+      "réponses": {
+        "A": "Parce qu’il est lent à réagir aux émotions populaires.",
+        "B": "Parce qu’il privilégie les sentiments au raisonnement.",
+        "C": "Parce qu’il valorise la chaleur des traditions communautaires.",
+        "D": "Parce qu’il est une entité impersonnelle qui ment sans scrupule."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Pourquoi Bakounine dit-il que l’État est un cimetière ?",
+      "réponses": {
+        "A": "Parce qu’il est le garant de la paix après les révolutions.",
+        "B": "Parce qu’il préserve la mémoire des anciens combattants.",
+        "C": "Parce qu’il enterre toute possibilité d’expression individuelle et de liberté.",
+        "D": "Parce qu’il protège les citoyens du chaos naturel."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "« L’État est un immense cimetière où viennent s’enterrer la manifestation de la liberté individuelle. » (Bakounine)",
+      "réponses": {
+        "A": "L’État écrase toute forme de spontanéité et de liberté personnelle.",
+        "B": "L’État est l’unique rempart contre les violences sociales.",
+        "C": "L’État protège la liberté en supprimant les désirs contradictoires.",
+        "D": "L’État organise le progrès de la civilisation humaine."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "« L’État est le plus froid de tous les monstres froids. Il ment froidement. » (Nietzsche)",
+      "réponses": {
+        "A": "L’État exprime une froideur symbolique utile à la gestion rationnelle.",
+        "B": "L’État se présente comme protecteur tout en manipulant le peuple.",
+        "C": "L’État est neutre, donc inoffensif.",
+        "D": "L’État est nécessairement passionnel, donc dangereux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« Si l’État est fort, il nous écrase ; s’il est faible, nous périssons. » (Paul Valéry)",
+      "réponses": {
+        "A": "Cette phrase valorise la stabilité d’un État modérément autoritaire.",
+        "B": "Cette phrase suggère que l’État n’est qu’un simple observateur neutre",
+        "C": "Cette phrase affirme que l’État faible est préférable à l’État fort.",
+        "D": "Cette phrase dénonce l’impasse du pouvoir étatique, quel que soit son niveau."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "En quoi le « cimetière » de Bakounine est-il une image forte ?",
+      "réponses": {
+        "A": "Il évoque une institution où toute vie personnelle et toute énergie sont réduites au silence.",
+        "B": "Il illustre la tranquillité que procure un État bien géré.",
+        "C": "Il signale que l’État protège les morts et honore leur mémoire.",
+        "D": "Il met en évidence l’attachement de l’État à la spiritualité des peuples."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Que dénonce Nietzsche dans sa citation sur le « monstre froid » ?",
+      "réponses": {
+        "A": "L’État est trop émotionnel dans ses décisions.",
+        "B": "L’État manque de fermeté envers les puissants.",
+        "C": "L’État est une machine bureaucratique inefficace.",
+        "D": "L’État est un pouvoir hypocrite, manipulateur et glacial."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quel est le paradoxe souligné par Valéry dans sa phrase ?",
+      "réponses": {
+        "A": "L’État est toujours problématique, qu’il soit fort ou faible.",
+        "B": "L’État est utile uniquement dans les périodes de guerre.",
+        "C": "L’État est fort quand il agit selon le peuple.",
+        "D": "L’État faible est plus moralement acceptable qu’un État autoritaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L’anarchisme vise à améliorer l’État en le réformant depuis l’intérieur.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "JEAN GRAVE est un anarchiste",
+      "réponses": {
+        "A": "Faux",
+        "B": "Vrai"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 4",
+  "id": "PH003_Q4",
+  "questions": {
+    "question n°1": {
+      "question": " Toujours sur le thème <<l'Etat et la liberté>>. Quelle est la fonction première de l’État selon la théorie de Hobbes ?",
+      "réponses": {
+        "A": "Permettre aux plus forts d’imposer leur volonté sans obstacle.",
+        "B": "Garantir la sécurité et sortir l’homme de l’état de nature chaotique.",
+        "C": "Offrir aux citoyens une vie de confort matériel dans une société technologique.",
+        "D": "Réduire l’homme à un rôle administratif au sein d’un ordre établi."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "En quoi l’État démocratique se distingue-t-il des autres formes de pouvoir ?",
+      "réponses": {
+        "A": "Il impose la volonté d’un seul au détriment de la majorité.",
+        "B": "Il fait de la majorité une machine oppressive contre les minorités.",
+        "C": "Il permet au peuple de se gouverner lui-même par des lois qu’il adopte.",
+        "D": "Il limite la liberté en réduisant le choix à celui de quelques représentants."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’est-ce que la loi, dans une démocratie selon Rousseau ?",
+      "réponses": {
+        "A": "Une norme décidée par une élite éclairée pour le bien du peuple.",
+        "B": "Un outil de répression déguisé destiné à protéger l’ordre établi",
+        "C": "Un ensemble de contraintes sociales imposées sans consentement réel.",
+        "D": "Une règle librement acceptée par tous qui garantit la liberté de chacun."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "À quel courant philosophique rattache-t-on Hobbes dans sa vision de l’État ?",
+      "réponses": {
+        "A": "Contractualisme autoritaire et réalisme politique",
+        "B": "Anarchisme individualiste",
+        "C": "Utilitarisme égalitaire",
+        "D": "Socialisme utopique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Rousseau appartient à quel courant concernant l’origine légitime du pouvoir ?",
+      "réponses": {
+        "A": "Absolutisme monarchique traditionnel",
+        "B": "Démocratie participative fondée sur la volonté générale",
+        "C": "Libéralisme économique et individualiste",
+        "D": "Rationalisme aristocratique inspiré de Platon"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est le regard marxiste porté sur l’État ?",
+      "réponses": {
+        "A": "L’État est un médiateur entre classes sociales pour préserver l’harmonie.",
+        "B": "L’État est un instrument de domination de la bourgeoisie sur les autres classes.",
+        "C": "L’État est une abstraction morale neutre qui vise la justice.",
+        "D": "L’État représente l’union fraternelle des citoyens sans distinction de classe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi l’État est-il vu comme nécessaire dans le contexte de l’état de nature ?",
+      "réponses": {
+        "A": "Parce qu’il met fin à l’insécurité permanente où chacun menace la vie d’autrui.",
+        "B": "Parce qu’il protège la liberté naturelle contre toute forme d’autorité.",
+        "C": "Parce qu’il permet aux hommes de se replier sur leur intérêt personnel.",
+        "D": "Parce qu’il abolit la violence institutionnelle en l’absence de lois."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "En quoi l’État démocratique peut-il être un facteur d’émancipation ?",
+      "réponses": {
+        "A": "Parce qu’il délègue le pouvoir à des entités privées non responsables.",
+        "B": "Parce qu’il permet à chacun d’être à la fois gouverné et gouvernant.",
+        "C": "Parce qu’il garantit l’obéissance aveugle à des lois impersonnelles.",
+        "D": "Parce qu’il impose des normes collectives au nom de l’harmonie sociale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Comment la loi peut-elle être synonyme de liberté ?",
+      "réponses": {
+        "A": "Parce qu’elle garantit les mêmes droits à tous et limite les abus.",
+        "B": "Parce qu’elle est imposée de manière rigide, donc juste.",
+        "C": "Parce qu’elle remplace le jugement moral par des sanctions légales.",
+        "D": "Parce qu’elle empêche l’expression spontanée des désirs individuels."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Pourquoi obéir à une loi qu’on s’est prescrite est-il une forme de liberté ? (Rousseau)",
+      "réponses": {
+        "A": "Parce que cela nous oblige à agir contre nos désirs personnels.",
+        "B": "Parce que l’obéissance est toujours préférable à l’anarchie.",
+        "C": "Parce que la loi limite forcément la liberté mais de manière légitime.",
+        "D": "Parce que cette obéissance est le résultat d’un choix collectif assumé."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Comment l’État peut-il promouvoir les talents individuels ?",
+      "réponses": {
+        "A": "En protégeant certains groupes par favoritisme.",
+        "B": "En laissant chaque individu se débrouiller seul dans un marché libre.",
+        "C": "En assurant l’égalité des chances par des politiques éducatives, sociales et culturelles.",
+        "D": "En empêchant toute forme d’inégalité naturelle d’exister."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel rôle joue la représentation dans l’État démocratique ?",
+      "réponses": {
+        "A": "Elle permet aux citoyens d’exercer indirectement leur pouvoir politique.",
+        "B": "Elle supprime toute forme de contrôle populaire.",
+        "C": "Elle institue une hiérarchie fondée sur la naissance.",
+        "D": "Elle établit l’autorité militaire comme seul pouvoir décisionnel."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "« Sans le pouvoir d’un État, la vie de l’homme est solitaire, pauvre, méchante, brutale et courte. » (Hobbes)",
+      "réponses": {
+        "A": "L’État protège l’homme de sa propre violence en créant la paix sociale.",
+        "B": "L’État impose la misère en empêchant le commerce libre.",
+        "C": "L’État réduit les individus à un état de dépendance totale.",
+        "D": "L’État est incapable de créer la moindre sécurité durable."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "« L’obéissance à la loi qu’on s’est prescrite est liberté. » (Rousseau)",
+      "réponses": {
+        "A": "Cette citation exprime une contradiction entre liberté et obligation.",
+        "B": "Cette phrase signifie que la vraie liberté est d’accepter les règles qu’on a choisies.",
+        "C": "Cette phrase affirme qu’on est libre tant qu’on obéit aux lois des autres.",
+        "D": "Cette citation justifie la soumission à l’État comme une nécessité absolue."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« L’État est le conseil d’administration qui gère les affaires communes de la bourgeoisie. » (Marx)",
+      "réponses": {
+        "A": "Marx critique le fait que l’État sert uniquement les intérêts d’une classe dominante.",
+        "B": "Marx félicite l’État pour sa neutralité économique.",
+        "C": "Marx considère que l’État est un espace neutre au service de tous.",
+        "D": "Marx fait l’éloge de l’administration bourgeoise comme modèle d’efficacité."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Pourquoi Hobbes décrit-il l’état de nature comme brutal et dangereux ?",
+      "réponses": {
+        "A": "Parce qu’il glorifie la force et le courage individuels.",
+        "B": "Parce qu’il veut démontrer que seul l’État peut civiliser l’homme.",
+        "C": "Parce qu’il pense que la violence naturelle est bénéfique à long terme.",
+        "D": "Parce qu’il souhaite légitimer la révolte permanente contre l’ordre établi."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "En quoi Rousseau associe-t-il liberté et loi dans une démocratie ?",
+      "réponses": {
+        "A": "Parce que les citoyens restent libres en obéissant à des lois qu’ils ont acceptées.",
+        "B": "Parce que les lois démocratiques sont toujours plus morales que les lois naturelles.",
+        "C": "Parce que les lois permettent de contrôler la majorité contre elle-même.",
+        "D": "Parce que la liberté est définie par l’obéissance à une autorité extérieure."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Que dénonce Marx dans sa vision de l’État ?",
+      "réponses": {
+        "A": "Il accuse l’État d’être un outil de conservation des intérêts bourgeois.",
+        "B": "Il salue l’État comme un vecteur de redistribution économique.",
+        "C": "Il dénonce la bureaucratie comme trop égalitaire.",
+        "D": "Il considère que l’État est trop centré sur les masses populaires."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Pour Hobbes, la liberté véritable est l’absence de toute autorité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Rousseau affirme que plus l’État est autoritaire, plus la liberté est menacée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 5",
+  "id": "PH003_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème <<l'Etat et la question de la violence>>. Qu’entend-on par \"violence légitime de l’État\" ?",
+      "réponses": {
+        "A": "La violence que l’État subit de la part des citoyens.",
+        "B": "Le droit reconnu à l’État d’imposer l’ordre par la force.",
+        "C": "La violence injuste exercée contre des peuples colonisés.",
+        "D": "L’ensemble des violences interpersonnelles tolérées par la loi."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle est la spécificité de la violence selon la pensée hobbesienne ?",
+      "réponses": {
+        "A": "Elle est un choix moral qui relève de l’éducation sociale.",
+        "B": "Elle est une illusion imposée par les puissants pour effrayer le peuple.",
+        "C": "Elle est inévitable à l’état de nature et seule l’autorité peut la contenir.",
+        "D": "Elle ne concerne que les guerres entre nations, pas les rapports humains."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Pourquoi peut-on dire que la violence est \"fondatrice\" dans certaines philosophies politiques ?",
+      "réponses": {
+        "A": "Parce qu’elle permet l’instauration de l’ordre et la stabilité sociale.",
+        "B": "Parce qu’elle détruit tout espoir de paix durable.",
+        "C": "Parce qu’elle reflète la fragilité de l’État et justifie sa disparition.",
+        "D": "Parce qu’elle est incompatible avec toute forme de contrat social."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Dans quelle tradition s’inscrit Machiavel concernant la violence politique ?",
+      "réponses": {
+        "A": "Humanisme idéaliste fondé sur la paix intérieure.",
+        "B": "Réalisme politique justifiant la violence pour maintenir le pouvoir.",
+        "C": "Déisme antique selon lequel toute autorité est divine.",
+        "D": "Moralisme chrétien fondé sur la charité comme principe de gouvernement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la thèse principale de Hobbes à propos de l’homme en société ?",
+      "réponses": {
+        "A": "L’homme vit naturellement en paix avec autrui.",
+        "B": "L’homme recherche la beauté plutôt que la force.",
+        "C": "L’homme doit abandonner toute forme d’autorité pour être libre.",
+        "D": "L’homme doit être soumis à une autorité forte pour éviter la violence."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quel est le rôle de la peur dans la pensée politique de Hobbes ?",
+      "réponses": {
+        "A": "Elle est une émotion qu’il faut supprimer pour atteindre la raison.",
+        "B": "Elle est un levier essentiel pour maintenir la paix par le pouvoir étatique.",
+        "C": "Elle est un effet secondaire de l’amour du pouvoir.",
+        "D": "Elle n’intervient qu’en temps de guerre civile ou révolutionnaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi la violence est-elle considérée comme nécessaire à la formation de l’État selon Machiavel ?",
+      "réponses": {
+        "A": "Parce qu’il faut parfois employer la force pour établir une autorité stable.",
+        "B": "Parce que les citoyens aiment être dirigés de manière brutale.",
+        "C": "Parce que seule la violence assure le bonheur individuel.",
+        "D": "Parce qu’elle est le fondement de toute religion d’État."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Comment l’État contrôle-t-il les passions humaines selon Hobbes ?",
+      "réponses": {
+        "A": "En enseignant la vertu dès l’enfance à travers la morale religieuse.",
+        "B": "En exerçant une contrainte permanente qui dissuade les débordements.",
+        "C": "En interdisant toute manifestation émotionnelle publique.",
+        "D": "En tolérant les débordements comme preuve d’humanité."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel échange fondamental fonde le contrat social chez Hobbes ?",
+      "réponses": {
+        "A": "Le renoncement à la liberté naturelle en échange de la sécurité garantie par l’État.",
+        "B": "La liberté absolue contre la dissolution des lois.",
+        "C": "Le respect des passions contre l’instauration du chaos.",
+        "D": "Le silence politique en échange d’une liberté spirituelle."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que la violence de l’État est parfois \"nécessaire mais non morale\" ?",
+      "réponses": {
+        "A": "Parce qu’elle peut protéger la société tout en allant à l’encontre de principes éthiques.",
+        "B": "Parce qu’elle vise à rendre la société plus douce et bienveillante.",
+        "C": "Parce qu’elle est toujours l’expression d’un sadisme politique.",
+        "D": "Parce qu’elle vise à l’humiliation systématique des citoyens."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "En quoi la violence est-elle parfois un outil \"rationnel\" dans la pensée politique ?",
+      "réponses": {
+        "A": "Parce qu’elle sert un objectif supérieur : la stabilité et la paix.",
+        "B": "Parce qu’elle exprime l’instinct de destruction universel.",
+        "C": "Parce qu’elle crée une société fondée sur la peur irrationnelle.",
+        "D": "Parce qu’elle permet de supprimer toute forme de culture."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle du \"souverain\" dans la gestion de la violence ? (Hobbes)",
+      "réponses": {
+        "A": "Il concentre la violence légitime pour neutraliser celle des individus.",
+        "B": "Il supprime toute forme de loi au profit d’un ordre naturel.",
+        "C": "Il impose la religion d’État comme unique rempart au désordre.",
+        "D": "Il distribue la violence à toutes les institutions indépendantes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "« L’homme est un loup pour l’homme. » (Hobbes)",
+      "réponses": {
+        "A": "L’homme est naturellement attiré par la coopération.",
+        "B": "L’homme est enclin à détruire autrui sans autorité supérieure.",
+        "C": "L’homme aime les autres autant qu’il s’aime lui-même.",
+        "D": "L’homme ne fait preuve de violence que face à l’injustice."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "« Quiconque veut former l’État doit supposer les hommes comme méchants. » (Machiavel)",
+      "réponses": {
+        "A": "L’homme est bon, et l’État doit corriger ses erreurs.",
+        "B": "L’État repose sur l’espoir que l’homme agira toujours bien.",
+        "C": "L’homme est d’abord vertueux mais dénaturé par la société.",
+        "D": "L’État doit être construit à partir de l’idée que l’homme est naturellement égoïste."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "« Il y a des moments où la violence est la seule façon dont l’homme puisse assurer la justice sociale. » (T.S. Eliot)",
+      "réponses": {
+        "A": "La violence peut être un mal nécessaire pour corriger des injustices majeures.",
+        "B": "La violence est toujours un outil d’oppression injustifié.",
+        "C": "La justice sociale naît de la passivité collective.",
+        "D": "La violence détruit toute forme de justice possible."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle conception de l’homme ressort de la citation de Hobbes ?",
+      "réponses": {
+        "A": "L’homme est spontanément bon mais influencé par la société.",
+        "B": "L’homme est naturellement dangereux en l’absence de loi.",
+        "C": "L’homme est fondamentalement pacifique.",
+        "D": "L’homme est soumis aux lois divines plus qu’aux lois humaines."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel sens donner à la phrase de Machiavel sur la méchanceté humaine ?",
+      "réponses": {
+        "A": "Les hommes sont naturellement vertueux mais l’État les corrompt",
+        "B": "L’État suppose une confiance inconditionnelle en la bonté humaine.",
+        "C": "L’organisation politique doit prévoir le pire de l’homme pour être efficace.",
+        "D": "La méchanceté est le fruit exclusif de l’éducation religieuse."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Dans quel contexte la phrase de T.S. Eliot prend-elle tout son sens ?",
+      "réponses": {
+        "A": "Lorsqu’aucune autre voie ne permet de restaurer une justice bafouée.",
+        "B": "Quand la paix est bien établie et qu’il faut innover.",
+        "C": "Dans une société déjà juste, pour maintenir l’ordre.",
+        "D": "Lorsqu’il s’agit d’empêcher la révolution par la diplomatie."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Hobbes pense que la violence doit être distribuée entre tous pour équilibrer les rapports.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Machiavel défend l’idée que la politique doit s’appuyer sur la naïveté des citoyens.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 6",
+  "id": "PH003_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Toujours sur le thème <<l'Etat et la question de la violence>>. Qu’est-ce que la non-violence dans son sens philosophique et politique ?",
+      "réponses": {
+        "A": "Une stratégie de transformation des conflits sans usage de la force physique.",
+        "B": "Une manière douce d’exercer la domination sans contrainte légale.",
+        "C": "Une forme passive de soumission face à l’injustice.",
+        "D": "Une simple absence d’agressivité dans les relations humaines."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Que signifie \"violence structurelle\" ?",
+      "réponses": {
+        "A": "La violence physique imposée par les classes sociales dominantes.",
+        "B": "Les injustices intégrées dans les institutions et lois d’un État.",
+        "C": "Une agression perpétrée par des criminels isolés.",
+        "D": "L’ensemble des actes de guerre interétatiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle différence entre violence directe et violence symbolique ?",
+      "réponses": {
+        "A": "La première est physique et visible, la seconde est invisible et intériorisée.",
+        "B": "La violence symbolique est toujours plus brutale que la violence directe.",
+        "C": "La violence directe est liée aux mots, la symbolique aux actions.",
+        "D": "Aucune, ce sont deux termes identiques dans les théories de la paix."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "À quel courant peut-on rattacher Martin Luther King ?",
+      "réponses": {
+        "A": "Libéralisme économique individualiste.",
+        "B": "Résistance non-violente inspirée du christianisme et de Gandhi.",
+        "C": "Humanisme de guerre juste.",
+        "D": "Pragmatisme militariste."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle vision Gandhi avait-il de la non-violence ?",
+      "réponses": {
+        "A": "Une méthode temporaire pour désarmer l’adversaire puis frapper fort.",
+        "B": "Une force active de transformation intérieure et extérieure des conflits.",
+        "C": "Une simple tactique politique pour éviter les sanctions.",
+        "D": "Une faiblesse déguisée en vertu dans un contexte colonial."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel regard porte Georges Gusdore sur la violence ?",
+      "réponses": {
+        "A": "Il la considère comme absurde et destructrice lorsqu’elle est pratiquée pour elle-même.",
+        "B": "Il la célèbre comme acte pur de puissance vitale.",
+        "C": "Il la juge utile pour faire peur aux ennemis de la paix.",
+        "D": "Il l’associe à une expression de courage politique ultime."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la violence n’aboutit-elle souvent qu’à des victoires temporaires ?",
+      "réponses": {
+        "A": "Parce qu’elle engendre des frustrations, renforce la haine et ne règle pas les causes profondes.",
+        "B": "Parce qu’elle est toujours contraire aux lois de la démocratie.",
+        "C": "Parce que les forces armées manquent de discipline dans l’exécution.",
+        "D": "Parce qu’elle exige une autorité religieuse pour être légitime."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "En quoi la non-violence peut-elle être une réponse puissante à l’injustice ?",
+      "réponses": {
+        "A": "Parce qu’elle refuse de reproduire les logiques oppressives tout en résistant activement.",
+        "B": "Parce qu’elle ne provoque aucune réaction de la part du pouvoir.",
+        "C": "Parce qu’elle permet de justifier moralement tous les actes violents ensuite.",
+        "D": "Parce qu’elle neutralise toute opposition politique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quel est le danger de croire que la violence suffit pour établir la justice ?",
+      "réponses": {
+        "A": "Elle peut instaurer une paix apparente mais fragile, sans transformation réelle.",
+        "B": "Elle garantit l’obéissance durable des masses par la peur.",
+        "C": "Elle permet une liberté totale sans contrainte étatique.",
+        "D": "Elle favorise la réconciliation entre les victimes et les agresseurs."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que la non-violence transforme aussi celui qui la pratique ?",
+      "réponses": {
+        "A": "Parce qu’elle exige une discipline morale, une maîtrise de soi et une élévation intérieure.",
+        "B": "Parce qu’elle pousse à devenir invisible pour éviter les conflits.",
+        "C": "Parce qu’elle favorise la peur de l’adversaire et l’inaction.",
+        "D": "Parce qu’elle impose un silence émotionnel total."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Comment la non-violence peut-elle être efficace face à un pouvoir violent ?",
+      "réponses": {
+        "A": "En créant des groupes paramilitaires prêts à se défendre en secret.",
+        "B": "En fuyant les lieux de confrontation sans aucune action.",
+        "C": "En rendant les conflits illégitimes aux yeux de la morale religieuse.",
+        "D": "En mobilisant la conscience collective et l’opinion publique contre l’injustice."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Pourquoi la violence aggrave-t-elle souvent les problèmes sociaux ?",
+      "réponses": {
+        "A": "Parce qu’elle détruit tous les moyens matériels.",
+        "B": "Parce qu’elle est souvent moins coûteuse que le dialogue.",
+        "C": "Parce qu’elle génère de nouveaux conflits et renforce les fractures sociales.",
+        "D": "Parce qu’elle permet un retour trop rapide à la stabilité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "\"La non-violence est l’arme la plus puissante dont disposent les opprimés.\" (M. L. King)",
+      "réponses": {
+        "A": "Elle incite les opprimés à imiter les violents.",
+        "B": "Elle propose que les opprimés restent passifs face à l’agression.",
+        "C": "Elle justifie la violence morale comme forme d’autodéfense.",
+        "D": "Elle affirme que même sans armes, les faibles peuvent transformer le monde."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "\"Œil pour œil, et le monde deviendra aveugle.\" (Gandhi)",
+      "réponses": {
+        "A": "Il invite à riposter coup pour coup sans modération.",
+        "B": "Il dénonce le cycle infini de la vengeance qui détruit l’humanité.",
+        "C": "Il valorise la loi du talion comme base de justice réelle.",
+        "D": "Il critique le pardon comme faiblesse face aux offenses."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "\"La violence ne donne que des victoires passagères.\" (M. L. King)",
+      "réponses": {
+        "A": "Elle permet une domination juste et équilibrée.",
+        "B": "Elle fonde une paix durable à travers la guerre.",
+        "C": "Elle remporte des batailles mais ne résout pas les causes profondes.",
+        "D": "Elle justifie l’ordre autoritaire comme solution morale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Que veut dire King en affirmant que la non-violence est une \"arme\" ?",
+      "réponses": {
+        "A": "Elle a une puissance d’action réelle, capable de changer le cours des événements.",
+        "B": "Elle est utilisée comme menace contre les États.",
+        "C": "Elle est une ruse destinée à faire illusion.",
+        "D": "Elle justifie les moyens militaires au nom de la paix."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Pourquoi Gandhi critique-t-il la vengeance ?",
+      "réponses": {
+        "A": "Parce qu’elle ne punit jamais les bons coupables.",
+        "B": "Parce qu’elle enferme l’humanité dans une spirale de destruction réciproque.",
+        "C": "Parce qu’elle affaiblit l’autorité de l’État.",
+        "D": "Parce qu’elle est toujours religieusement interdite."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi Gusdore parle-t-il de la violence comme \"absurdité pure\" ?",
+      "réponses": {
+        "A": "Parce qu’elle est toujours légale dans un État démocratique",
+        "B": "Parce qu’elle crée une justice universelle sans légitimité.",
+        "C": "Parce qu’elle est une étape transitoire vers la paix.",
+        "D": "Parce qu’elle détruit sans construire, et laisse l’humanité dans le désespoir."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Pour Gandhi, la non-violence est une force pour la bonne gouvernance.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Martin Luther King a combattu l’usage de la violence quelque soit la situation.",
+      "réponses": {
+        "A": "Faux",
+        "B": "Vrai"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}]

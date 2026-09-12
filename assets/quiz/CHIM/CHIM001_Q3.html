@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 3 : Entraînement Alcools</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; 
+            padding: 15px; 
+            color: #333; 
+        }
+
+        .container { max-width: 600px; margin: auto; }
+
+        h1 { 
+            color: var(--orange-ivoire); 
+            text-align: center; 
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 25px;
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 20px; 
+            padding: 20px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text { 
+            font-weight: 600; 
+            font-size: 1.05rem; 
+            margin-bottom: 12px; 
+            display: block;
+            line-height: 1.4;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 380px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option { 
+            display: flex; 
+            align-items: center;
+            padding: 12px; 
+            margin: 8px 0; 
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .option:hover { background: #fffbf0; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { 
+            margin-right: 12px; 
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .feedback { margin-top: 10px; font-weight: bold; font-size: 0.9rem; }
+
+        .btn-submit { 
+            display: block; 
+            width: 100%; 
+            padding: 18px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 1.1rem; 
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled { background: #ccc; box-shadow: none; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>🎓 Quiz 3 : Entraînement Alcools</h1>
+    
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+</div>
+
+<script>
+    const data = [
+        {
+            "q": "La masse molaire d’un alcool en fonction de n est $M = 14n + 16$",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "B"
+        },
+        {
+            "q": "La masse molaire d’un alcool en fonction de n est $M = 14n + 18$",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "A"
+        },
+        {
+            "q": "Un alcool a une masse molaire $M = 60\\text{ g·mol}^{-1}$. Déterminons sa formule brute : $M(C_nH_{2n+2}O) = 60$",
+            "options": {
+                "A": "$14n+18=60 \\Rightarrow 14n=42 \\Rightarrow n=3 \\Rightarrow C_3H_6O$",
+                "B": "$14n+16=60 \\Rightarrow 14n=44 \\Rightarrow n\\approx3 \\Rightarrow C_3H_8O$",
+                "C": "$14n+18=60 \\Rightarrow 14n=42 \\Rightarrow n=3 \\Rightarrow C_3H_8O$",
+                "D": "$14n+18=60 \\Rightarrow 14n=42 \\Rightarrow n=3 \\Rightarrow C_4H_8O$"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Le composé $C_3H_8O$ a exactement quatre formules semi-développées : propan-1-ol, propan-2-ol, 2-méthylpropan-1-ol et 2-méthylpropan-2-ol",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "B"
+        },
+        {
+            "q": "Le composé $C_3H_8O$ a exactement deux formules semi-développées. Trouve les",
+            "img": "alcoolfsd1.png",
+            "options": {
+                "A": "les composés 1 et 2",
+                "B": "les composés 1 et 3",
+                "C": "les composés 2 et 3"
+            },
+            "r": "A"
+        },
+        {
+            "q": "Un composé organique de formule brute $C_nH_{2n+2}O$ a une masse molaire $M=88\\text{ g·mol}^{-1}$. Sa formule semi développée est",
+            "options": {
+                "A": "$C_3H_8O$",
+                "B": "$C_4H_{10}O$",
+                "C": "$C_5H_{12}O$",
+                "D": "$C_6H_{14}O$"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Le composé $C_5H_{12}O$ a exactement huit formules semi développées.",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "A"
+        },
+        {
+            "q": "On fait l’hydratation de but-1-ène $CH_3-CH_2-CH=CH_2$. Deux composés sont susceptibles d’être obtenus",
+            "options": {
+                "A": "butan-1-ol et butan-2-ol",
+                "B": "un composé majoritaire et un composé minoritaire",
+                "C": "un alcool primaire et un alcool secondaire",
+                "D": "Toutes ces réponses sont justes"
+            },
+            "r": "D"
+        },
+        {
+            "q": "Le composé A formé réagit en oxydation ménagée pour donner un aldéhyde. Quel alcool est le composé A ?",
+            "options": {
+                "A": "Alcool secondaire",
+                "B": "Alcool primaire",
+                "C": "Butan-1-ol",
+                "D": "Réponses B et C"
+            },
+            "r": "D"
+        },
+        {
+            "q": "L’aldéhyde obtenu est le butan-1-al",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "B"
+        },
+        {
+            "q": "Action du sodium sur 7,41 g d’un alcool A donne $V=1,2\\text{ L}$ $H_2$. L’équation bilan correcte est :",
+            "options": {
+                "A": "$R-OH + Na \\rightarrow (RO^- + Na^+) + H_2$",
+                "B": "$R-OH + Na \\rightarrow (RO^- + Na^+) + \\frac{1}{2}H_2$",
+                "C": "$R-OH + Na \\rightarrow (RO^- + Na) + \\frac{1}{2}H_2$"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Le bilan molaire est : $n(C_nH_{2n+2}O)/1 = n(H_2)/(1/2)$",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "A"
+        },
+        {
+            "q": "Remplaçons le nombre de mol (n) directement par les grandeurs données (masse de A et volume de $H_2$)",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "B"
+        },
+        {
+            "q": "Action du sodium sur 7,41 g d’un alcool A, $V=1,2$ L, $V_m=24$ L/mol. Quelle expression est correcte ?",
+            "options": {
+                "A": "$m(C_nH_{2n+2}O) / M(C_nH_{2n+2}O) = V(H_2) / (1/2)V_m$",
+                "B": "$m(C_nH_{2n+2}O) / M(H_2) = V(H_2) / (1/2)V_m$",
+                "C": "$m(C_nH_{2n+2}O) / V_m = V(H_2) / (1/2)V_m$",
+                "D": "$m(C_nH_{2n+2}O) / M(C_nH_{2n+2}O) = V(H_2) / (1/2)V_m$"
+            },
+            "r": "D"
+        },
+        {
+            "q": "Déterminons la masse molaire M de A",
+            "options": {
+                "A": "$M = (7,41 \\times 1,2)/((1/2)24) = 74$ g/mol",
+                "B": "$M = (7,41 \\times (1/2)24)/1,2 = 74$ g/mol",
+                "C": "$M = (7,41 \\times 24)/7,41 = 74$ g/mol",
+                "D": "$M = (7,41 \\times 1,2)/24 = 74$ g/mol"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Formule brute de A après calcul de $M=74$ g/mol",
+            "options": {
+                "A": "$C_3H_8O$",
+                "B": "$C_4H_{10}O$",
+                "C": "$C_5H_{12}O$",
+                "D": "$C_6H_{14}O$"
+            },
+            "r": "B"
+        },
+        {
+            "q": "La formule brute du composé A est $C_4H_{10}O$. Il a exactement quatre formules semi-développées",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "A"
+        },
+        {
+            "q": "Parmi les composés suivants, lesquels sont formules semi-développées de A ($C_4H_{10}O$)",
+            "img": "alcoolfsd1.png",
+            "options": {
+                "A": "les composés 1 et 2",
+                "B": "les composés 3 et 4",
+                "C": "tous les quatre composés",
+                "D": "aucun"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Ce composé A ($C_4H_{10}O$) réagit en oxydation ménagée en excès de dichromate de potassium pour donner un acide carboxylique. Quelles sont les formules développées possibles ?",
+            "options": {
+                "A": "butan-1-ol et butan-2-ol",
+                "B": "butan-2-ol et 2-méthylpropan-2-ol",
+                "C": "butan-1-ol et 2-méthylpropan-1-ol"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Un alcool saturé A comporte 72,41% de carbone. Il est impossible de déterminer sa formule brute",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "B"
+        },
+        {
+            "q": "Un alcool saturé A comporte 72,41% de carbone. Suite de calcul : $(14n+18)/100 = 12n/72,41$. Quelle est la suite correcte ?",
+            "options": {
+                "A": "$72,41(14n+18) = 100 \\times 12n$",
+                "B": "$1013,74n + 1303,38 = 1200n$",
+                "C": "$1013,74n - 1200n = -1303,38$",
+                "D": "Toutes ces réponses sont justes"
+            },
+            "r": "D"
+        },
+        {
+            "q": "La formule brute de A est $C_4H_{10}O$",
+            "options": { "A": "Vrai", "B": "Faux" },
+            "r": "A"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i+1}. ${item.q}</span>
+                ${imageTag}
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+                feedback.innerHTML = `<span style="color:var(--vert-ivoire)">✔ Correct</span>`;
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Score : ${score} / ${data.length}`;
+
+        if (window.ExerciceChannel) {
+            window.ExerciceChannel.postMessage(JSON.stringify({
+                "score": score,
+                "total": data.length
+            }));
+        }
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,141 @@
+{
+    "title": "Quiz 3 - Partie A",
+    "id": "FR002_Q3_A",
+    "questions": {
+        "question n°1": {
+            "question": "« Cette obscure clarté qui tombe des étoiles. » Quelle est cette figure ?",
+            "réponses": {
+                "A": "Une antithèse",
+                "B": "Un oxymore",
+                "C": "Un chiasme"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Quelle figure consiste à dire le contraire de ce que l'on pense par ironie (ex: « Ah, bravo ! » pour un zéro) ?",
+            "réponses": {
+                "A": "L'antiphrase",
+                "B": "Le paradoxe",
+                "C": "L'ellipse"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "« Les premiers seront les derniers. » est un exemple de :",
+            "réponses": {
+                "A": "Zeugma",
+                "B": "Chiasme",
+                "C": "Anacoluthe"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°4": {
+            "question": "L'antithèse se définit par :",
+            "réponses": {
+                "A": "L'absence d'un mot dans la phrase",
+                "B": "Une opposition très forte entre deux termes",
+                "C": "Le rapprochement de deux paronymes"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "« Pour qui sont ces serpents qui sifflent sur vos têtes ? » illustre :",
+            "réponses": {
+                "A": "Une assonance",
+                "B": "Une allitération",
+                "C": "Une paronomase"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "Le rapprochement d'un mot concret et d'un mot abstrait (ex: « Il prit du ventre et de l'importance ») est un :",
+            "réponses": {
+                "A": "Zeugma",
+                "B": "Oxymore",
+                "C": "Paradoxe"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°7": {
+            "question": "Quelle figure répète un même son de voyelle ?",
+            "réponses": {
+                "A": "L'allitération",
+                "B": "L'assonance",
+                "C": "La paronomase"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "« Le cœur a ses raisons que la raison ignore. » est considéré comme :",
+            "réponses": {
+                "A": "Une antithèse",
+                "B": "Un paradoxe",
+                "C": "Une ellipse"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "L'absence d'un ou plusieurs mots dans une phrase (« Va, cours, vole... ») est :",
+            "réponses": {
+                "A": "Une ellipse",
+                "B": "Un zeugma",
+                "C": "Une anacoluthe"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "La paronomase consiste à rapprocher :",
+            "réponses": {
+                "A": "Deux structures syntaxiques identiques",
+                "B": "Deux homonymes ou paronymes",
+                "C": "Deux idées opposées"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "« Innocents dans un bagne, anges dans un enfer. » est une :",
+            "réponses": {
+                "A": "Antiphrase",
+                "B": "Antithèse",
+                "C": "Allitération"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "L'anacoluthe est une figure de :",
+            "réponses": {
+                "A": "Rupture de construction syntaxique",
+                "B": "Répétition de sons",
+                "C": "Substitution de termes"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°13": {
+            "question": "« Il n’y a que Maille qui m’aille ! » est un exemple de :",
+            "réponses": {
+                "A": "Assonance",
+                "B": "Allitération",
+                "C": "Paronomase"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°14": {
+            "question": "Un oxymore réunit deux termes contraires pour :",
+            "réponses": {
+                "A": "Créer une rupture de syntaxe",
+                "B": "Frapper l'imagination",
+                "C": "Exprimer de l'ironie"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°15": {
+            "question": "L'énoncé d'une opinion contraire à l'idée commune pour surprendre est :",
+            "réponses": {
+                "A": "Le paradoxe",
+                "B": "Le chiasme",
+                "C": "L'antithèse"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

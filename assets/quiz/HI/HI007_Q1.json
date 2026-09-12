@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI007_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne précisément le terme « monde occidental » ?",
+      "réponses": {
+        "A": "L’ensemble des pays ayant été colonisés par l’Europe au XIXe siècle.",
+        "B": "Les États européens membres de l’ONU et de l’OTAN.",
+        "C": "Les pays capitalistes à démocratie libérale influencés par la culture européenne.",
+        "D": "Les États situés à l’ouest de l’Europe géographique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la base philosophique centrale de la civilisation occidentale ?",
+      "réponses": {
+        "A": "L’égalité des peuples face au progrès scientifique.",
+        "B": "La liberté sous toutes ses formes : politique, économique, sociale et individuelle.",
+        "C": "Le respect du roi et de la tradition.",
+        "D": "La soumission des citoyens à l’ordre établi pour préserver l’harmonie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles sont trois libertés clés dans les pays occidentaux ?",
+      "réponses": {
+        "A": "Liberté de voyager, d’enseigner, de critiquer.",
+        "B": "Liberté de consommer, de circuler, de gouverner.",
+        "C": "Liberté d’expression, de culte et d’entreprendre.",
+        "D": "Liberté de contester, de revendiquer et de réformer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelles sont les grandes déclarations fondatrices des droits dans l’Occident ?",
+      "réponses": {
+        "A": "Déclaration de 1689, Constitution américaine, Déclaration de Vienne.",
+        "B": "Déclaration des Droits de l’Homme de 1789, de 1848 et de 1948.",
+        "C": "Déclaration de Genève, Déclaration d’Helsinki, Pacte de New York.",
+        "D": "Charte de la liberté universelle, Déclaration de Rome, Charte africaine des droits."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Dans la pensée occidentale, qui est le porteur principal de la liberté ?",
+      "réponses": {
+        "A": "L’État moderne garant des droits.",
+        "B": "Le citoyen collectif, guidé par la majorité.",
+        "C": "L’individu, centre des droits et des valeurs.",
+        "D": "L’élite éclairée, chargée de guider les masses."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment nomme-t-on une société structurée autour de l’autonomie de la personne ?",
+      "réponses": {
+        "A": "Une société communautariste.",
+        "B": "Une société de classes sociales.",
+        "C": "Une société individualiste.",
+        "D": "Une société dirigée par la culture dominante."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la meilleure définition de l’individualisme occidental ?",
+      "réponses": {
+        "A": "L’individu doit se soumettre à la tradition familiale.",
+        "B": "L’individu est libre et responsable, égal en droit à tous les autres.",
+        "C": "L’individu n’a de valeur que dans son groupe culturel.",
+        "D": "L’individu dépend du collectif pour réussir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Dans une société occidentale, qu’est-ce qui symbolise un individu « libre et émancipé » ?",
+      "réponses": {
+        "A": "L’accès à l’éducation et la liberté sexuelle.",
+        "B": "La réussite économique, qui donne un statut social reconnu.",
+        "C": "L’appartenance à une majorité ethnique.",
+        "D": "Le niveau d’étude et la loyauté à l’État."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle est la principale religion historiquement dominante dans le monde occidental ?",
+      "réponses": {
+        "A": "L’islam, par son expansion au Moyen Âge.",
+        "B": "Le judaïsme, fondateur des institutions.",
+        "C": "Le christianisme, même s’il est aujourd’hui en recul.",
+        "D": "Le bouddhisme, introduit par les missionnaires modernes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que l’Occident est marqué par les valeurs chrétiennes ?",
+      "réponses": {
+        "A": "Parce que la majorité actuelle pratique le christianisme.",
+        "B": "Parce que le christianisme structure les valeurs, les lois et les mœurs.",
+        "C": "Parce que les papes dirigent encore certaines institutions étatiques.",
+        "D": "Parce que les guerres religieuses y sont toujours actives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Comment la liberté économique est-elle valorisée dans la culture occidentale ?",
+      "réponses": {
+        "A": "Par la limitation des revenus pour assurer l’égalité réelle.",
+        "B": "Par la possibilité d’hériter sans contraintes fiscales.",
+        "C": "Par la liberté d’entreprendre et la concurrence entre individus.",
+        "D": "Par la redistribution automatique des richesses produites."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Dans la logique individualiste occidentale, qu'est-ce qui prévaut sur les liens communautaires ?",
+      "réponses": {
+        "A": "Le devoir moral envers la société.",
+        "B": "L’identité ethnique ou religieuse.",
+        "C": "L’autonomie personnelle et les choix individuels.",
+        "D": "La solidarité traditionnelle imposée par la culture."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle critique est fréquemment adressée à l’individualisme occidental ?",
+      "réponses": {
+        "A": "Il renforce le contrôle étatique sur les individus.",
+        "B": "Il rend l’individu dépendant de la morale religieuse.",
+        "C": "Il empêche la réussite personnelle dans un monde compétitif.",
+        "D": "Il tend à affaiblir les liens sociaux et le sens du collectif."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Qu’est-ce qui distingue la vision occidentale de la réussite ?",
+      "réponses": {
+        "A": "La reconnaissance du clan familial.",
+        "B": "Le service rendu à la communauté.",
+        "C": "Le succès professionnel et l’ascension sociale.",
+        "D": "La conformité aux traditions culturelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi certains disent que l’Occident est une civilisation marchande ?",
+      "réponses": {
+        "A": "Parce que toutes les décisions politiques y sont prises par des commerçants.",
+        "B": "Parce que les valeurs dominantes reposent sur la consommation et l’argent.",
+        "C": "Parce que le clergé contrôle les circuits économiques.",
+        "D": "Parce que les marchés sont limités à une élite."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel est le lien entre démocratie libérale et individualisme ?",
+      "réponses": {
+        "A": "La démocratie impose une autorité collective.",
+        "B": "L’individualisme nie la démocratie en la rendant inutile.",
+        "C": "La démocratie libérale repose sur la liberté individuelle comme fondement.",
+        "D": "L’individualisme ne peut exister que dans les monarchies absolues."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel texte fondateur occidental proclame les droits naturels de l’homme ?",
+      "réponses": {
+        "A": "La Déclaration d’indépendance du Kenya.",
+        "B": "La Déclaration des Droits de l’Homme et du Citoyen.",
+        "C": "La Déclaration des droits de la femme et de l’enfant.",
+        "D": "Le serment d’Hippocrate."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est une conséquence paradoxale de l’individualisme en Occident ?",
+      "réponses": {
+        "A": "Une dépendance accrue au collectif religieux.",
+        "B": "Une forte homogénéité culturelle.",
+        "C": "Un isolement social malgré la liberté individuelle.",
+        "D": "Une impossibilité de s’enrichir personnellement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Pourquoi dit-on que la culture occidentale valorise la rationalité ?",
+      "réponses": {
+        "A": "Elle se méfie de la science et du progrès technique.",
+        "B": "Elle repose sur l’instinct et la tradition populaire.",
+        "C": "Elle impose une foi dogmatique dans les anciens textes.",
+        "D": "Elle privilégie la pensée critique, l’analyse et la méthode."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel est l’un des grands défis actuels des sociétés occidentales ?",
+      "réponses": {
+        "A": "Le rejet de la science et des libertés fondamentales.",
+        "B": "La montée d’un totalitarisme religieux soutenu par l’État.",
+        "C": "Le maintien des valeurs individuelles dans un monde globalisé.",
+        "D": "L’abolition des droits de l’homme au profit des groupes dominants."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

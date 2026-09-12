@@ -1,0 +1,359 @@
+{
+  "title": "Quiz 4 - Deutsch (Interaktion & Fragen)",
+  "id": "DE02_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Choisissez la réponse la plus appropriée à la question : \"Wie geht es dir?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Name ist gut.",
+        "B": "Ich hat gut.",
+        "C": "Du bist gut.",
+        "D": "Es geht mir gut."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Choisissez la question qui correspond à la réponse : \"Mein Name ist Konan.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wer ist Konan?",
+        "B": "Wie ist dein Name?",
+        "C": "Wie geht es Konan?",
+        "D": "Wo ist dein Name?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Complétez le dialogue : A: Guten Morgen, Lehrer. B: _____",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Abend, Schüler.",
+        "B": "Gute Nacht, Schüler.",
+        "C": "Hallo.",
+        "D": "Guten Morgen."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Choisissez la question qui demande le nom d'un homme (utilisez Sein dans la réponse).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie ist der Name deiner Schwester?",
+        "B": "Wie ist der Name ihrer Freundin?",
+        "C": "Wie ist sein Name?",
+        "D": "Wie ist mein Name?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Choisissez la réponse à la question : \"Bist du ein Schüler?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ja, ich bin ein Schüler.",
+        "B": "Ja, ich habe ein Schüler.",
+        "C": "Nein, ich ist ein Lehrer.",
+        "D": "Ja, mein Name ist ein Schüler."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est la réponse appropriée à la salutation : \"Gute Nacht, Mariam.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Morgen.",
+        "B": "Gute Nacht.",
+        "C": "Guten Abend.",
+        "D": "Wie geht es dir?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Choisissez la question qui demande un prénom.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie ist dein Nachname?",
+        "B": "Wie ist dein Vorname?",
+        "C": "Wie ist deine Familie?",
+        "D": "Wie ist dein Spitzname?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Choisissez la question dont la réponse utilise le déterminant possessif \"Ihr\".",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie heißt dein Bruder?",
+        "B": "Ist das dein Auto?",
+        "C": "Wie heißt seine Schwester?",
+        "D": "Wie ist ihr Name?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Complétez la phrase : Ich bin Aminata. _____ Name ist Traoré.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Vor-",
+        "B": "Mein Nach-",
+        "C": "Dein Vor-",
+        "D": "Sein Nach-"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel pronom interrogatif (Fragewort) utiliseriez-vous pour demander où se trouve quelqu'un ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Was",
+        "B": "Wer",
+        "C": "Wie",
+        "D": "Wo"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Répondez à la question : \"Wie ist dein Name?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "bin",
+        "Name",
+        "das",
+        "ist",
+        "John",
+        "Ich",
+        "Buch"
+      ],
+      "bonne réponse": "Mein Name ist John"
+    },
+    "question n°12": {
+      "question": "Répondez à la question : \"Wie geht es dir?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gut",
+        "Es",
+        "ist",
+        "mir",
+        "geht",
+        "traurig"
+      ],
+      "bonne réponse": "Es geht mir gut"
+    },
+    "question n°13": {
+      "question": "Formulez la question qui donne cette réponse : \"Sein Name ist Ali.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wie",
+        "sind",
+        "ist",
+        "ihr",
+        "sein",
+        "Name",
+        "Mein",
+        "das"
+      ],
+      "bonne réponse": "Wie ist sein Name"
+    },
+    "question n°14": {
+      "question": "Complétez la réponse à : \"Bist du ein Lehrer?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Schüler",
+        "nicht",
+        "bin",
+        "ein",
+        "du",
+        "bist",
+        "Ich",
+        "Lehrer"
+      ],
+      "bonne réponse": "Ich bin ein Schüler"
+    },
+    "question n°15": {
+      "question": "Formulez la question pour la réponse : \"Mein Nachname ist Traoré.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "dein",
+        "Name",
+        "Nachname",
+        "Mein",
+        "Vorname",
+        "Traoré",
+        "Wie",
+        "sind",
+        "habe"
+      ],
+      "bonne réponse": "Wie ist dein Nachname"
+    },
+    "question n°16": {
+      "question": "Complétez le dialogue : A: Guten Abend, Herr. B: _____",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Guten",
+        "Morgen",
+        "Abend",
+        "Nacht"
+      ],
+      "bonne réponse": "Guten Abend"
+    },
+    "question n°17": {
+      "question": "Répondez à la question : \"Wie ist ihr Spitzname?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ihr",
+        "Spitzname",
+        "ist",
+        "Lulu",
+        "Mein",
+        "sein",
+        "sind",
+        "das"
+      ],
+      "bonne réponse": "Ihr Spitzname ist Lulu"
+    },
+    "question n°18": {
+      "question": "Traduisez la question : \"D'où viens-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sind",
+        "dein",
+        "aus",
+        "Was",
+        "Woher",
+        "kommst",
+        "du",
+        "Name"
+      ],
+      "bonne réponse": "Woher kommst du"
+    },
+    "question n°19": {
+      "question": "Complétez la réponse à : \"Wo bist du?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ich",
+        "bin",
+        "Schule",
+        "der",
+        "Klasse",
+        "Du",
+        "bist",
+        "in",
+        "an",
+        "Klassenzimmer",
+        "habe"
+      ],
+      "bonne réponse": "Ich bin in der Klasse"
+    },
+    "question n°20": {
+      "question": "Formulez la question pour la réponse : \"Meine Schwester hat ein Handy.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "macht",
+        "Wer",
+        "Was",
+        "hat",
+        "ein",
+        "Handy",
+        "du",
+        "haben"
+      ],
+      "bonne réponse": "Wer hat ein Handy"
+    },
+    "question n°21": {
+      "question": "Complétez le dialogue : A: Hi! B: _____",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hallo",
+        "ist"
+      ],
+      "bonne réponse": "Hallo"
+    },
+    "question n°22": {
+      "question": "Répondez à la question : \"Ist er traurig?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Er",
+        "bin",
+        "traurig",
+        "sie",
+        "ist",
+        "glücklich"
+      ],
+      "bonne réponse": "Er ist traurig"
+    },
+    "question n°23": {
+      "question": "Formulez la question pour la réponse : \"Das ist mein Auto.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "Was",
+        "dein",
+        "Auto",
+        "mein",
+        "Name",
+        "das",
+        "Buch"
+      ],
+      "bonne réponse": "Was ist das"
+    },
+    "question n°24": {
+      "question": "Répondez à la question : \"Wie ist dein Vorname?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sind",
+        "Mein",
+        "Nachname",
+        "Vorname",
+        "Name",
+        "ist",
+        "Aminata",
+        "Familie",
+        "dein",
+        "an"
+      ],
+      "bonne réponse": "Mein Vorname ist Aminata"
+    },
+    "question n°25": {
+      "question": "Formulez la question pour la réponse : \"Wir sind gute Schüler.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wir",
+        "Seid",
+        "Lehrer",
+        "ihr",
+        "gute",
+        "Schüler",
+        "ist",
+        "das"
+      ],
+      "bonne réponse": "Seid ihr gute Schüler"
+    },
+    "question n°26": {
+      "question": "Quelle question poser pour obtenir cette réponse : \"Das ist ein Stift.\"",
+      "type": "short_answer",
+      "bonne réponse": "Was ist das?"
+    },
+    "question n°27": {
+      "question": "Quel pronom interrogatif est utilisé pour demander qui est la personne ?",
+      "type": "short_answer",
+      "bonne réponse": "Wer"
+    },
+    "question n°28": {
+      "question": "Comment salueriez-vous votre ami si vous le rencontrez à 16h00 ?",
+      "type": "short_answer",
+      "bonne réponse": "Guten Tag"
+    },
+    "question n°29": {
+      "question": "Répondez \"Wie ist dein Name?\" (Moussa)",
+      "type": "short_answer",
+      "bonne réponse": "Mein Name ist Moussa"
+    },
+    "question n°30": {
+      "question": "Traduisez la question : \"Comment vas-tu ?\"",
+      "type": "short_answer",
+      "bonne réponse": "Wie geht es dir?"
+    }
+  }
+}

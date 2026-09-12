@@ -1,0 +1,528 @@
+{
+  "title": "Quiz Allemand 1",
+  "id": "DE04_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Remettez les mots dans l'ordre pour traduire : \"Mon père travaille chaque jour.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Jeden Tag mein Vater arbeitet.",
+        "B": "Arbeitet mein Vater jeden Tag.",
+        "C": "Mein Vater jeden Tag arbeitet.",
+        "D": "Mein Vater arbeitet jeden Tag."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle est la forme correcte pour : \"Mariam _____ (gehen) zur Schule.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "gehen",
+        "B": "ist gehen",
+        "C": "geht",
+        "D": "gehst"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Traduisez correctement : \"Il est toujours heureux.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Immer er ist glücklich.",
+        "B": "Er immer ist glücklich.",
+        "C": "Er ist glücklich immer.",
+        "D": "Er ist immer glücklich."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle préposition complète la phrase : \"Ich lerne _____ Abend.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "an",
+        "B": "am",
+        "C": "auf",
+        "D": "für"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Complétez correctement : \"Sie kommt _____ Montag.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in",
+        "B": "am",
+        "C": "an",
+        "D": "zu"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Traduisez l'expression : \"un verre d'eau\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "ein Glas in Wasser",
+        "B": "ein Glas für Wasser",
+        "C": "ein Glas Wasser",
+        "D": "ein Glas mit Wasser"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Choisissez la traduction du moyen de transport : \"en voiture\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in Auto",
+        "B": "mit dem Auto",
+        "C": "mit Auto",
+        "D": "auf Auto"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle phrase utilise correctement l'adverbe \"oft\" (souvent) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir spielen oft Fußball.",
+        "B": "Wir oft spielen Fußball.",
+        "C": "Wir spielen Fußball oft.",
+        "D": "Oft wir spielen Fußball."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle est la phrase conjuguée correctement ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Meine Eltern arbeitet jeden Tag.",
+        "B": "Er gehen zum Markt.",
+        "C": "Mein Vater arbeitet hart.",
+        "D": "Sie geht zur Schule."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est l'adverbe allemand pour \"mal\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "schlecht",
+        "B": "gut",
+        "C": "schnell",
+        "D": "langsam"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Je mange du riz.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "wir",
+        "ist",
+        "esse",
+        "Reis",
+        "Ich",
+        "Hausaufgaben"
+      ],
+      "bonne réponse": "Ich esse Reis"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Elle va à l'école.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gehen",
+        "Er",
+        "geht",
+        "Sie",
+        "isst",
+        "zur",
+        "an",
+        "Schule"
+      ],
+      "bonne réponse": "Sie geht zur Schule"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Ils jouent au football.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Fußball",
+        "sie",
+        "spielen",
+        "arbeitet",
+        "ist",
+        "Sie"
+      ],
+      "bonne réponse": "Sie spielen Fußball"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"J'écris mes leçons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "meine",
+        "mache",
+        "Ich",
+        "seine",
+        "Lektionen",
+        "schreibe"
+      ],
+      "bonne réponse": "Ich schreibe meine Lektionen"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Elle chante une chanson.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "er",
+        "singt",
+        "ein",
+        "Lied",
+        "Sie",
+        "singen",
+        "das"
+      ],
+      "bonne réponse": "Sie singt ein Lied"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Mon père travaille chaque jour.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "jeden",
+        "Vater",
+        "Mein",
+        "ist",
+        "arbeiten",
+        "Tag",
+        "arbeitet",
+        "mache",
+        "wir",
+        "dein"
+      ],
+      "bonne réponse": "Mein Vater arbeitet jeden Tag"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Elle ne vient jamais en retard.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "kommt",
+        "ist",
+        "immer",
+        "kommen",
+        "in",
+        "ihr",
+        "nie",
+        "zu spät",
+        "Sie",
+        "am"
+      ],
+      "bonne réponse": "Sie kommt nie zu spät"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Nous buvons de l'eau.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "trinken",
+        "Wir",
+        "Saft",
+        "Wasser",
+        "fährt",
+        "mache"
+      ],
+      "bonne réponse": "Wir trinken Wasser"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je fais mes devoirs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "meine",
+        "Hausaufgaben",
+        "mache",
+        "Ich",
+        "ist",
+        "seine",
+        "Lektionen",
+        "die"
+      ],
+      "bonne réponse": "Ich mache meine Hausaufgaben"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Il est à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zu",
+        "Hause",
+        "Er",
+        "ist",
+        "in",
+        "Schule",
+        "sie",
+        "gehen"
+      ],
+      "bonne réponse": "Er ist zu Hause"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ils sont à l'heure.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sind",
+        "auf",
+        "pünktlich",
+        "Sie",
+        "an",
+        "immer",
+        "ist",
+        "mache"
+      ],
+      "bonne réponse": "Sie sind pünktlich"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"un verre d'eau\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Glas",
+        "ein",
+        "von",
+        "Wasser",
+        "das",
+        "in",
+        "Tee",
+        "für"
+      ],
+      "bonne réponse": "ein Glas Wasser"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Elle parle anglais rapidement.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Englisch",
+        "spricht",
+        "schnell",
+        "Sie",
+        "gut",
+        "langsam",
+        "an",
+        "ihr"
+      ],
+      "bonne réponse": "Sie spricht Englisch schnell"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je vais à l'école en bus.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Schule",
+        "mit dem",
+        "Bus",
+        "zur",
+        "fahre",
+        "Ich",
+        "die",
+        "an",
+        "in",
+        "Auto",
+        "mein",
+        "sie"
+      ],
+      "bonne réponse": "Ich fahre mit dem Bus zur Schule"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Je viens de l'école.\" (Origine)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "aus der",
+        "Schule",
+        "komme",
+        "gehe",
+        "zu",
+        "an"
+      ],
+      "bonne réponse": "Ich komme aus der Schule"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"Nous allons au marché.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Markt",
+        "gehen",
+        "Wir",
+        "zum",
+        "an",
+        "Schule",
+        "sie",
+        "den"
+      ],
+      "bonne réponse": "Wir gehen zum Markt"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"C'est pour moi.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "für",
+        "mich",
+        "Es",
+        "dich",
+        "an"
+      ],
+      "bonne réponse": "Es ist für mich"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"dans la maison\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "im",
+        "das",
+        "Haus",
+        "an",
+        "Schule",
+        "ein"
+      ],
+      "bonne réponse": "im Haus"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"Mon frère chante souvent.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Bruder",
+        "Mein",
+        "singt",
+        "oft",
+        "immer",
+        "singen",
+        "ist",
+        "wir"
+      ],
+      "bonne réponse": "Mein Bruder singt oft"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"Elle est triste.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Sie",
+        "ist",
+        "traurig",
+        "sind",
+        "glücklich",
+        "es"
+      ],
+      "bonne réponse": "Sie ist traurig"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Nous mangeons le matin.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "essen",
+        "Wir",
+        "am",
+        "dem",
+        "Morgen",
+        "Abend",
+        "mache",
+        "an"
+      ],
+      "bonne réponse": "Wir essen am Morgen"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"Je travaille avec mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "arbeite",
+        "mit",
+        "meinem",
+        "Freund",
+        "Ich",
+        "mache",
+        "ist",
+        "Mutter",
+        "in",
+        "ihr"
+      ],
+      "bonne réponse": "Ich arbeite mit meinem Freund"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"Ma sœur écrit bien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "schreibt",
+        "gut",
+        "Meine",
+        "Schwester",
+        "schreiben",
+        "schlecht",
+        "mache",
+        "in"
+      ],
+      "bonne réponse": "Meine Schwester schreibt gut"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"Je fais mes exercices.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "meine",
+        "mache",
+        "Übungen",
+        "Ich",
+        "macht",
+        "die",
+        "schreibe",
+        "Arbeit"
+      ],
+      "bonne réponse": "Ich mache meine Übungen"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"Elle va à Abidjan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fährt",
+        "nach",
+        "Abidjan",
+        "Sie",
+        "Er",
+        "ist",
+        "an",
+        "in"
+      ],
+      "bonne réponse": "Sie fährt nach Abidjan"
+    },
+    "question n°36": {
+      "question": "Complétez la réponse à : \"Sind Sie Lehrer?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Schüler",
+        "nicht",
+        "bin",
+        "ein",
+        "Sie",
+        "sind",
+        "Ich",
+        "Lehrer"
+      ],
+      "bonne réponse": "Ich bin ein Schüler"
+    },
+    "question n°37": {
+      "question": "Répondez à la question : \"Wie geht es dir?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gut",
+        "Mir",
+        "ist",
+        "geht",
+        "es",
+        "traurig"
+      ],
+      "bonne réponse": "Mir geht es gut"
+    },
+    "question n°38": {
+      "question": "Quel pronom personnel remplace un nom féminin singulier (ex: Mariam) ?",
+      "type": "short_answer",
+      "bonne réponse": "Sie"
+    },
+    "question n°39": {
+      "question": "Quelle préposition utilisez-vous en allemand pour le moyen de transport (elle signifie généralement AVEC) ?",
+      "type": "short_answer",
+      "bonne réponse": "MIT"
+    },
+    "question n°40": {
+      "question": "Quel est le sens de l'adverbe \"oft\" ?",
+      "type": "short_answer",
+      "bonne réponse": "souvent"
+    }
+  }
+}

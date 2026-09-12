@@ -1,0 +1,1106 @@
+[
+{
+  "id": "SVT013_Q1",
+  "titre": "Quiz 1 : la défense non spécifique",
+  "questions": {
+    "question n°1": {
+      "question": "La peau et les muqueuses constituent quelle ligne de défense de l'organisme ?",
+      "reponses": {
+        "A": "La troisième ligne de défense.",
+        "B": "La première ligne de défense.",
+        "C": "Une barrière secondaire temporaire.",
+        "D": "Une défense spécifique acquise."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle est la principale fonction des bactéries non pathogènes présentes dans le tube digestif ?",
+      "reponses": {
+        "A": "Elles digèrent les protéines complexes.",
+        "B": "Elles sont une source d’antigènes pour l’organisme.",
+        "C": "Elles produisent des toxines microbiennes.",
+        "D": "Elles constituent une barrière biologique."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°3": {
+      "question": "Quel pH est spécifiquement mentionné pour la sueur en tant que barrière chimique ?",
+      "reponses": {
+        "A": "Un pH neutre de 7.",
+        "B": "Un pH acide de 3,5.",
+        "C": "Un pH alcalin de 8.",
+        "D": "Un pH variable entre 5 et 6."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Parmi les signes suivants, lequel n'est pas une manifestation locale de la réaction inflammatoire ?",
+      "reponses": {
+        "A": "La rougeur de la peau.",
+        "B": "L'enflure des tissus.",
+        "C": "La douleur intense et persistante.",
+        "D": "La fièvre générale élevée."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°5": {
+      "question": "Les polynucléaires et les macrophages sont qualifiés de phagocytes en raison de leur capacité à :",
+      "reponses": {
+        "A": "Produire des anticorps protecteurs.",
+        "B": "Déclencher une réaction inflammatoire.",
+        "C": "Envahir les cellules infectées.",
+        "D": "Reconnaître, engloutir et digérer les microbes."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°6": {
+      "question": "Lorsque les bactéries non vaincues par la lutte locale gagnent les ganglions lymphatiques, l'inflammation de ces derniers est appelée :",
+      "reponses": {
+        "A": "Une lymphangite.",
+        "B": "Une septicémie.",
+        "C": "Une adénite.",
+        "D": "Une toxémie."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°7": {
+      "question": "Comment se manifeste la \"toxémie\" dans l'organisme ?",
+      "reponses": {
+        "A": "Par la présence de microbes vivants dans la circulation sanguine.",
+        "B": "Par la diffusion de substances toxiques produites par des microbes.",
+        "C": "Par l'enflure des ganglions lymphatiques locaux.",
+        "D": "Par la multiplication rapide des bactéries dans les tissus."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle est une caractéristique essentielle de la réaction de défense innée ?",
+      "reponses": {
+        "A": "Elle est lente et spécifique à chaque agresseur.",
+        "B": "Elle est immédiate et non spécifique.",
+        "C": "Elle implique une mémoire immunitaire.",
+        "D": "Elle est déclenchée uniquement par des virus."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°9": {
+      "question": "Les barrières biologiques sont des bactéries non pathogènes qui vivent dans l'organisme en parfaite harmonie.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°10": {
+      "question": "Une augmentation de la volémie locale et une sortie des globules blancs du sang sont des événements typiques d'une réaction inflammatoire.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "La phagocytose est un processus qui garantit toujours la destruction complète et immédiate de tous les microbes.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Les ganglions lymphatiques agissent comme la première ligne de défense de l'organisme contre les agressions.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "La lymphangite est le terme désignant l'inflammation des ganglions lymphatiques.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "La septicémie est le résultat de la diffusion de substances chimiques produites par des microbes dans la circulation sanguine.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "La réaction de défense innée ne nécessite pas une reconnaissance préalable de l'antigène spécifique.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Une adénite se produit lorsque des bactéries franchissent la deuxième barrière de défense et passent dans la circulation sanguine.",
+      "reponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "La peau et les muqueuses représentent les barrières [...A...] de l'organisme, constituant la [...B...] ligne de défense.",
+      "reponses": {
+        "A": "A : naturelles, B : première",
+        "B": "A : immunitaires, B : seconde",
+        "C": "A: actives, B: principale",
+        "D": "A: physiques, B: ultérieure"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Lors d'une agression, une augmentation de la volémie localisée et le passage des [...A...] et des [...B...] dans les tissus caractérisent la réaction inflammatoire.",
+      "reponses": {
+        "A": "A: lymphocytes, B: plasmocytes",
+        "B": "A: anticorps, B: enzymes",
+        "C": "A: polynucléaires, B: macrophages",
+        "D": "A: globules rouges, B: plaquettes"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "Si les bactéries ne sont pas vaincues par la lutte locale, elles gagnent les [...A...] lymphatiques via les [...B...] lymphatiques.",
+      "reponses": {
+        "A": "A: organes, B: artères",
+        "B": "A: tissus, B: capillaires",
+        "C": "A: ganglions, B: vaisseaux",
+        "D": "A: cellules, B: veines"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Lorsqu'un corps étranger pénètre l'organisme, une réaction de défense [...A...] et [...B...] est immédiatement déclenchée.",
+      "reponses": {
+        "A": "A: acquise, B: spécifique",
+        "B": "A: innée, B: spécifique",
+        "C": "A: innée, B: non spécifique",
+        "D": "A: adaptative, B: rapide"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°21": {
+      "question": "Une toxine microbienne est une substance [...A...] par un microbe et qui possède un pouvoir [...B...] sur l'organisme.",
+      "reponses": {
+        "A": "A: absorbée, B: cicatrisant",
+        "B": "A: produite, B: pathogène",
+        "C": "A: neutralisée, B: protecteur",
+        "D": "A: digérée, B: régénérant"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°22": {
+      "question": "Si les microbes persistent et franchissent la deuxième barrière de défense, ils passent dans la [...A...] sanguine, ce qui peut entraîner une infection appelée [...B...].",
+      "reponses": {
+        "A": "A: lymphe, B: adénite",
+        "B": "A: circulation, B: septicémie",
+        "C": "A: cellule, B: lymphangite",
+        "D": "A: tissu, B: toxémie"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT013_Q2",
+  "titre": "Quiz 2 : Défense Spécifique à médiation Humorale",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi une souris A meurt-elle après injection directe de la toxine tétanique ?",
+      "reponses": {
+        "A": "Elle est allergique à la toxine.",
+        "B": "Elle n’a aucun moyen de défense spécifique contre cette toxine.",
+        "C": "Elle est déjà malade.",
+        "D": "La toxine agit comme un antibiotique puissant."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi une souris ayant reçu de l’anatoxine tétanique survit-elle à une injection ultérieure de toxine tétanique ?",
+      "reponses": {
+        "A": "Elle a appris à éviter la toxine.",
+        "B": "L’anatoxine neutralise la toxine dans le sang.",
+        "C": "Elle a acquis une immunité spécifique contre cette toxine.",
+        "D": "Elle développe une réaction allergique protectrice."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’indique la mort d’une souris après injection de toxine diphtérique malgré une immunisation contre la toxine tétanique ?",
+      "reponses": {
+        "A": "L’anatoxine tétanique est universelle.",
+        "B": "L’immunité est générale.",
+        "C": "L’immunité est spécifique à l’antigène injecté.",
+        "D": "Les toxines sont trop semblables."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Le transfert de sérum d’un animal immunisé vers un autre non immunisé permet :",
+      "reponses": {
+        "A": "Une réaction inflammatoire.",
+        "B": "Une protection passive contre l’antigène correspondant.",
+        "C": "Une infection secondaire.",
+        "D": "Une destruction des globules rouges."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel type de molécule protectrice est transféré avec le sérum d’un animal immunisé ?",
+      "reponses": {
+        "A": "Des enzymes digestives",
+        "B": "Des globules rouges",
+        "C": "Des anticorps",
+        "D": "Des toxines modifiées"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "L’expérience avec le sérum montre que la défense contre la toxine tétanique est :",
+      "reponses": {
+        "A": "Cellulaire uniquement",
+        "B": "Génétique",
+        "C": "Hormonale",
+        "D": "Humorale"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Quel est le rôle principal des plasmocytes dans l’immunité spécifique ?",
+      "reponses": {
+        "A": "Détruire les cellules infectées",
+        "B": "Produire des anticorps",
+        "C": "Transporter l’oxygène",
+        "D": "Phagocyter les bactéries"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelles cellules identifient les antigènes et activent les LB ?",
+      "reponses": {
+        "A": "Les lymphocytes NK",
+        "B": "Les macrophages",
+        "C": "Les lymphocytes T4",
+        "D": "Les lymphocytes B"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Les interleukines produites par les LT4 ont pour rôle principal de :",
+      "reponses": {
+        "A": "Créer des globules rouges",
+        "B": "Activer les granulocytes",
+        "C": "Stimuler les LB pour qu’ils se différencient en plasmocytes",
+        "D": "Supprimer les anticorps circulants"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel ordre décrit correctement le mécanisme de défense spécifique humorale ?",
+      "reponses": {
+        "A": "LB → LT4 → Mge → Plasmocytes → Anticorps",
+        "B": "Mge → LT4 → LB → Plasmocytes → Anticorps",
+        "C": "Anticorps → LT4 → Mge → LB",
+        "D": "Ptes → LB → LT4 → Ac → Mge"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "L’immunité est universelle : un vaccin contre une toxine protège contre toutes les autres.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Une souris non immunisée contre la toxine tétanique meurt après exposition à cette toxine.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°13": {
+      "question": "Le sérum d’un animal immunisé contient des anticorps spécifiques.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "Les anticorps sont produits par les macrophages après reconnaissance de l’antigène.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "La réaction spécifique à médiation humorale fait intervenir des cellules productrices d’anticorps.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Une réponse immunitaire spécifique est immédiate et agit contre tous les agents pathogènes de la même manière.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "Après reconnaissance de l'antigène, les [...A...] sécrètent des interleukines qui activent les [...B...], lesquels se différencient en [...C...] capables de produire des anticorps.",
+      "reponses": {
+        "A": "A: macrophages, B: NK, C: plasmocytes",
+        "B": "A: LT4, B: LB, C: plasmocytes",
+        "C": "A: granulocytes, B: LT8, C: lymphocytes",
+        "D": "A: LB, B: T8, C: mastocytes"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Le transfert de [...A...] d’un animal immunisé à un autre transmet une immunité [...B...] par l’intermédiaire des [...C...].",
+      "reponses": {
+        "A": "A: sérum, B: passive, C: anticorps",
+        "B": "A: globules blancs, B: acquise, C: lymphocytes",
+        "C": "A: sang total, B: active, C: enzymes",
+        "D": "A: cellules souches, B: innée, C: cytokines"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "Lorsqu’une souris reçoit une injection de toxine tétanique après avoir été immunisée avec [...A...], elle survit grâce à la production [...B...] d’anticorps dirigés [...C...] contre cette toxine.",
+      "reponses": {
+        "A": "A: anatoxine tétanique, B: spécifique, C: exclusivement",
+        "B": "A: toxine diphtérique, B: massive, C: générique",
+        "C": "A: sérum, B: immédiate, C: indirectement",
+        "D": "A: interleukines, B: inflammatoire, C: universellement"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Une réaction spécifique humorale commence par la présentation de l'antigène par les [...A...] aux [...B...], qui activent ensuite les [...C...].",
+      "reponses": {
+        "A": "A: LT4, B: macrophages, C: plasmocytes",
+        "B": "A: plasmocytes, B: LB, C: NK",
+        "C": "A: macrophages, B: LT4, C: LB",
+        "D": "A: LB, B: granulocytes, C: lymphocytes NK"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+},
+ {
+  "id": "SVT013_Q3",
+  "titre": "Quiz 3 : Réaction Immunitaire Spécifique à Médiation Cellulaire",
+  "questions": {
+    "question n°1": {
+      "question": "Lorsqu'un organisme est infecté par le bacille de Koch, quelles cellules assurent sa défense principale ?",
+      "reponses": {
+        "A": "Les lymphocytes B qui produisent des anticorps",
+        "B": "Les lymphocytes T qui reconnaissent et détruisent les cellules infectées",
+        "C": "Les globules rouges qui neutralisent les bactéries",
+        "D": "Les macrophages qui produisent du sérum"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "L’injection du BCG permet de :",
+      "reponses": {
+        "A": "Neutraliser le bacille de Koch en éliminant ses antigènes",
+        "B": "Stimuler une immunité acquise à médiation humorale",
+        "C": "Préparer l’organisme à produire des lymphocytes T spécifiques",
+        "D": "Fournir des anticorps directement à l’organisme"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Pourquoi l’injection de sérum d’un cobaye immunisé ne protège-t-elle pas un autre cobaye du bacille de Koch ?",
+      "reponses": {
+        "A": "Le sérum détruit les lymphocytes T",
+        "B": "Le bacille de Koch résiste aux substances sériques",
+        "C": "Le sérum ne contient pas de cellules immunitaires actives",
+        "D": "Le sérum n’est pas injecté au bon moment"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Dans une réaction à médiation cellulaire, les cellules responsables de la destruction des cellules infectées sont :",
+      "reponses": {
+        "A": "Les plasmocytes",
+        "B": "Les lymphocytes T cytotoxiques",
+        "C": "Les granulocytes éosinophiles",
+        "D": "Les cellules NK"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Les perforines sécrétées par les lymphocytes T cytotoxiques ont pour effet de :",
+      "reponses": {
+        "A": "Attirer d'autres cellules immunitaires vers l'infection",
+        "B": "Créer des pores dans la membrane des cellules infectées",
+        "C": "Stimuler la production d’anticorps",
+        "D": "Transformer les microbes en cellules inoffensives"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "Le rôle principal des lymphocytes T4 dans la réponse immunitaire cellulaire est de :",
+      "reponses": {
+        "A": "Détruire directement les microbes",
+        "B": "Sécréter des perforines",
+        "C": "Activer les lymphocytes T8",
+        "D": "Produire des anticorps"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°7": {
+      "question": "La réaction immunitaire à médiation cellulaire est particulièrement efficace contre :",
+      "reponses": {
+        "A": "Les toxines présentes dans le sang",
+        "B": "Les parasites externes",
+        "C": "Les microbes intracellulaires comme les virus ou le bacille de Koch",
+        "D": "Les bactéries extracellulaires"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi un cobaye injecté avec des lymphocytes d’un autre cobaye immunisé survit-il à une infection ?",
+      "reponses": {
+        "A": "Les lymphocytes injectés vont produire des anticorps",
+        "B": "Les lymphocytes injectés vont phagocyter les microbes",
+        "C": "Les lymphocytes injectés assurent une réponse cellulaire active",
+        "D": "Les lymphocytes détruisent le sérum infecté"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle final des lymphocytes T cytotoxiques dans la réponse immunitaire ?",
+      "reponses": {
+        "A": "Identifier les antigènes",
+        "B": "Sécréter des enzymes digestives",
+        "C": "Libérer des perforines pour détruire les cellules infectées",
+        "D": "Activer les globules rouges"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "La réponse immunitaire spécifique à médiation cellulaire dépend principalement de :",
+      "reponses": {
+        "A": "La vitesse de la phagocytose",
+        "B": "La présence de perforines dans le sérum",
+        "C": "L’activation en cascade des lymphocytes T",
+        "D": "La production massive d’anticorps"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°11": {
+      "question": "Le BCG permet à l’organisme de développer une réponse immunitaire spécifique à médiation humorale.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Les lymphocytes T cytotoxiques sont activés directement par le micro-organisme étranger.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "Les perforines sont des substances capables de percer la membrane des cellules infectées.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "L’injection de sérum d’un animal immunisé protège un autre animal contre une infection intracellulaire.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "Les lymphocytes T8 sont appelés cytotoxiques car ils détruisent des cellules infectées.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Lorsque le micro-organisme pénètre dans l’organisme, il est reconnu par les [...A...], qui activent les [...B...] pour déclencher la destruction des cellules infectées par l’intermédiaire des [...C...].",
+      "reponses": {
+        "A": "A: lymphocytes T4 ; B: lymphocytes T8 ; C: perforines",
+        "B": "A: plasmocytes ; B: globules rouges ; C: macrophages",
+        "C": "A: granulocytes ; B: lymphocytes NK ; C: anticorps",
+        "D": "A: macrophages ; B: plasmocytes ; C: toxines"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "Les lymphocytes T cytotoxiques sont activés par les [...A...] et agissent en libérant des [...B...] qui ciblent directement [...C...].",
+      "reponses": {
+        "A": "A: lymphocytes B ; B: anticorps ; C: les virus",
+        "B": "A: lymphocytes T4 ; B: perforines ; C: les cellules infectées",
+        "C": "A: macrophages ; B: enzymes ; C: les toxines",
+        "D": "A: globules rouges ; B: anticorps ; C: les bactéries"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Lorsqu’on injecte uniquement le sérum d’un cobaye immunisé, l’autre cobaye ne survit pas car le sérum ne contient pas [...A...] ; la défense est donc [...B...] et repose sur les [...C...].",
+      "reponses": {
+        "A": "A: de virus ; B: inefficace ; C: éosinophiles",
+        "B": "A: de lymphocytes ; B: cellulaire ; C: lymphocytes T",
+        "C": "A: d’anticorps ; B: humorale ; C: lymphocytes B",
+        "D": "A: d’immunité ; B: aléatoire ; C: cellules cancéreuses"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°19": {
+      "question": "La réaction immunitaire spécifique à médiation cellulaire repose sur l’action coordonnée des [...A...] qui détectent l’antigène, des [...B...] qui deviennent cytotoxiques, et des [...C...] qu’ils libèrent pour détruire les cellules infectées.",
+      "reponses": {
+        "A": "A: anticorps ; B: plasmocytes ; C: toxines",
+        "B": "A : éosinophiles ; B : neutrophiles ; C : sécrétions",
+        "C": "A: globules rouges ; B: macrophages ; C: enzymes",
+        "D": "A : lymphocytes T4 ; B : lymphocytes T8 ; C : perforines"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°20": {
+      "question": "Les lymphocytes T cytotoxiques sont essentiels pour éliminer les [...A...] comme ceux provoqués par le bacille de Koch. Ils agissent en percant les membranes avec des [...B...], ce qui entraîne la [...C...] des cellules infectées.",
+      "reponses": {
+        "A": "A: virus externes ; B: enzymes ; C: multiplication",
+        "B": "A: toxines ; B: anticorps ; C: transformation",
+        "C": "A: microbes intracellulaires ; B: perforines ; C: destruction",
+        "D": "A: bactéries du sang ; B: anticorps ; C: digestion"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+},
+ {
+  "id": "SVT013_Q4",
+  "titre": "Quiz 4 : soi et non soi",
+  "questions": {
+    "question n°1": {
+      "question": "Toutes les cellules de l’organisme portent des molécules du CMH, sauf :",
+      "reponses": {
+        "A": "Les neurones",
+        "B": "Les cellules musculaires",
+        "C": "Les hématies",
+        "D": "Les cellules épithéliales"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°2": {
+      "question": "Le rôle principal du CMH est de :",
+      "reponses": {
+        "A": "Produire des anticorps",
+        "B": "Identifier les cellules comme appartenant au soi",
+        "C": "Détruire les microbes",
+        "D": "Transporter l’oxygène"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "Chez l’humain, les molécules du CMH sont appelées :",
+      "reponses": {
+        "A": "MHC",
+        "B": "HCM",
+        "C": "HLA",
+        "D": "CD4"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Une cellule est reconnue comme \"non-soi\" lorsque :",
+      "reponses": {
+        "A": "Elle provient d’un tissu nerveux",
+        "B": "Elle ne possède pas d’ADN",
+        "C": "Ses antigènes diffèrent du CMH du receveur",
+        "D": "Elle provient du système digestif"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "Les déterminants antigéniques sont :",
+      "reponses": {
+        "A": "Des enzymes responsables de la phagocytose",
+        "B": "Les parties du CMH qui sont reconnues par les cellules immunitaires",
+        "C": "Des globules rouges spécifiques",
+        "D": "Des anticorps liés à l’ADN"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "Toutes les affirmations suivantes sont vraies SAUF :",
+      "reponses": {
+        "A": "Le CMH sert de carte d’identité cellulaire",
+        "B": "Les cellules sans CMH sont toutes détruites automatiquement",
+        "C": "Le CMH varie d’un individu à l’autre",
+        "D": "Le CMH est impliqué dans les rejets de greffe"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°7": {
+      "question": "Vrai ou Faux : Les cellules propres à un individu sont reconnues comme du soi par le système immunitaire.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°8": {
+      "question": "Complétion : Les cellules avec un CMH identique à celui de l’individu sont reconnues comme [...], tandis que celles avec un CMH différent sont reconnues comme [...].",
+      "reponses": {
+        "A": "soi ; étrangères",
+        "B": "infectées ; saines",
+        "C": "spécifiques ; aspecifiques",
+        "D": "immunitaires ; antigéniques"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°9": {
+      "question": "Contrairement aux autres cellules, les hématies ne possèdent pas :",
+      "reponses": {
+        "A": "D’antigènes",
+        "B": "De CMH",
+        "C": "D’ADN",
+        "D": "D’anticorps"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Une personne qui possède de l’antigène …. est du groupe A, celui qui possède de l’antigène B est du groupe ….. . Des personnes qui possèdent à la fois de l’agglutinogène A et de agglutinogène B sont du groupe ….. Ceux qui n’en possède aucun sont du groupe ….",
+      "reponses": {
+        "A": "B – A – O - AB",
+        "B": "A – B – O - AB",
+        "C": "B – A – AB - O",
+        "D": "A – B – AB – O"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°11": {
+      "question": "L’agglutinogène A est considéré comme un élément étranger (non soi) par le groupe B, et inversement. Ainsi, le groupe B produit des anticorps anti-…… pour éliminer l’antigène A. Le groupe AB reconnaît les deux agglutinogènes, ce qui signifie que les antigènes A et B sont perçus comme des …… par ce groupe. Quant au groupe sanguin O, il ne reconnaît ni l’antigène A ni l’antigène B : ces deux antigènes sont donc des …… pour lui.",
+      "reponses": {
+        "A": "B – non soi – soi",
+        "B": "A – non soi – soi",
+        "C": "A – soi – non soi",
+        "D": "B – soi – non soi"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : Une personne Rh+ possède l’antigène Rh sur ses hématies.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°13": {
+      "question": "Complétion : Une personne de groupe O ne reconnaît aucun antigène comme [...], ce qui signifie qu’elle ne peut recevoir que du sang [...].",
+      "reponses": {
+        "A": "soi ; AB",
+        "B": "soi ; O",
+        "C": "non-soi ; B",
+        "D": "antigénique ; A"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Une autogreffe désigne :",
+      "reponses": {
+        "A": "Une greffe entre deux individus de la même espèce",
+        "B": "Une greffe provenant d’un animal",
+        "C": "Une greffe à partir du même individu",
+        "D": "Une greffe entre jumeaux hétérozygotes"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "Une greffe entre jumeaux monozygotes est appelée :",
+      "reponses": {
+        "A": "Xénogreffe",
+        "B": "Autogreffe",
+        "C": "Allogreffe",
+        "D": "Isogreffe"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°16": {
+      "question": "Une allogreffe désigne une greffe entre :",
+      "reponses": {
+        "A": "Espèces différentes",
+        "B": "Frères siamois",
+        "C": "Membres de la même espèce non identiques",
+        "D": "Soi-même"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°17": {
+      "question": "Une xénogreffe désigne :",
+      "reponses": {
+        "A": "Une greffe venant de soi",
+        "B": "Une greffe entre espèces différentes",
+        "C": "Une greffe sanguine",
+        "D": "Une greffe d’organe entre jumeaux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : Une isogreffe est parfaitement compatible immunitairement.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "Complétion : Dans une xénogreffe, le rejet est [...], car les différences de CMH sont [...].",
+      "reponses": {
+        "A": "lent ; minimes",
+        "B": "modéré ; adaptables",
+        "C": "inexistant ; tolérées",
+        "D": "rapide ; très importantes"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°20": {
+      "question": "La compatibilité entre donneur et receveur dépend principalement de :",
+      "reponses": {
+        "A": "Leur âge",
+        "B": "Leur statut Rh",
+        "C": "Leur système immunitaire",
+        "D": "Leur similarité au niveau du CMH"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°21": {
+      "question": "Vrai ou Faux : Plus le donneur est génétiquement proche, plus les chances d’acceptation du greffon augmentent.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°22": {
+      "question": "Un rejet de greffe survient car le greffon est reconnu comme :",
+      "reponses": {
+        "A": "Soi",
+        "B": "Identique au CMH",
+        "C": "Un non-soi",
+        "D": "Rhésus compatible"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°23": {
+      "question": "En l’absence de traitement, un greffon provenant d’un donneur non apparenté est rejeté :",
+      "reponses": {
+        "A": "Immédiatement",
+        "B": "Jamais",
+        "C": "Après plusieurs années",
+        "D": "En quelques mois à un an"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°24": {
+      "question": "Le rejet accéléré d’un greffon déjà transplanté s’explique par :",
+      "reponses": {
+        "A": "Une mutation génétique du receveur",
+        "B": "Une réponse hormonale",
+        "C": "La mémoire immunitaire",
+        "D": "La fatigue cellulaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°25": {
+      "question": "Vrai ou Faux : Un greffon rejeté une première fois sera automatiquement accepté s’il est réimplanté plus tard.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°26": {
+      "question": "Complétion : La mémoire immunitaire permet à l’organisme de réagir plus [...], avec plus [...], lors d’un second contact avec le même antigène.",
+      "reponses": {
+        "A": "lentement ; de fatigue",
+        "B": "rapidement ; de précision",
+        "C": "calmement ; de rejet",
+        "D": "faiblement ; d’allergie"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "Le rejet de greffe peut être évité partiellement grâce à :",
+      "reponses": {
+        "A": "L’aspirine",
+        "B": "Des injections d’anticorps",
+        "C": "L’alignement des groupes Rh",
+        "D": "Une compatibilité CMH élevée"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°28": {
+      "question": "Pourquoi les jumeaux monozygotes sont les donneurs idéaux ?",
+      "reponses": {
+        "A": "Leur ADN est totalement différent",
+        "B": "Ils ont un système immunitaire faible",
+        "C": "Ils partagent le même CMH",
+        "D": "Ils produisent des anticorps identiques"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°29": {
+      "question": "Vrai ou Faux : Le groupe sanguin du receveur est plus important que son CMH pour une greffe rénale.",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°30": {
+      "question": "Complétion : Le CMH détermine la compatibilité [...] alors que les antigènes A, B et Rh déterminent la compatibilité [...].",
+      "reponses": {
+        "A": "immunitaire ; sanguine",
+        "B": "hormonale ; sanguine",
+        "C": "cellulaire ; sanguine",
+        "D": "humorale ; immunitaire"
+      },
+      "bonne_reponse": "A"
+    }
+  }
+},
+{
+  "id": "SVT013_Q5",
+  "titre": "Quiz 5 : approfondissement",
+  "questions": {
+    "question n°1": {
+      "question": "Nommez le type de transplantation réalisée dans l’expérience 1.",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Isogreffe",
+        "B": "Xenogreffe",
+        "C": "Autogreffe",
+        "D": "Allogreffe"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°2": {
+      "question": "La greffe de la souris A sur la souris B1 aboutit à une acceptation au bout de 10 à 12 jours.",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "La greffe de peau de la souris A sur la souris B2 ayant au préalable reçu du sérum de la souris B1, aboutit à un rejet au bout du même temps que dans l’expérience 1.",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°4": {
+      "question": "Par contre, la greffe de peau de la souris A sur la souris B3 ayant initialement reçu des lymphocytes de la souris B1, aboutit à un rejet plus rapide du greffon (2 à 3 jours).",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "La souris B1 rejette le greffon de la souris A car :",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Les lymphocytes B le détruisent immédiatement.",
+        "B": "Le sérum de la souris A contient des agents pathogènes.",
+        "C": "Il y a identité parfaite de CMH.",
+        "D": "Il y a incompatibilité de CMH ou HLA."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°6": {
+      "question": "La souris B2 rejette le greffon de la souris A au bout du même délai car :",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Le sérum contient des anticorps qui détruisent les lymphocytes T.",
+        "B": "Le sérum contient des facteurs humoraux qui empêchent l’activation cellulaire.",
+        "C": "Le sérum n’a aucun effet sur le rejet du greffon.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle explication correspond à celle de l'expérience 3 ?",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Le sérum a sensibilisé la souris B3 contre le greffon.",
+        "B": "Les granulocytes jouent un rôle central dans le rejet.",
+        "C": "Les lymphocytes (ou lymphocytes T) sont responsables du rejet rapide du greffon.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "La réaction immunitaire mise en évidence est :",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Il s’agit d’une immunité spécifique à médiation cellulaire.",
+        "B": "Réaction non spécifique à médiation cellulaire.",
+        "C": "Réaction de soi et de non-soi.",
+        "D": "Réaction spécifique à médiation humorale."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°9": {
+      "question": "Pourquoi la réaction immunitaire mise en évidence est-elle une défense spécifique à médiation cellulaire ?",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Parce que le rejet du greffon se fait par l’intermédiaire des lymphocytes T.",
+        "B": "Parce qu’elle implique les macrophages et les phagocytes.",
+        "C": "Parce qu’elle agit dès la naissance sans apprentissage.",
+        "D": "Parce qu’elle produit des anticorps contre les cellules greffées."
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°10": {
+      "question": "Lors du premier contact, la greffe de peau de la souris A sur la souris B1 entraîne la formation de __________.",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Lymphocytes B mémoires",
+        "B": "Macrophages spécifiques",
+        "C": "Lymphocytes T mémoires",
+        "D": "Anticorps neutralisants"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°11": {
+      "question": "Le rejet rapide observé chez la souris B3 est dû à la présence préalable de __________ provenant de la souris B1.",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Sérum immunisé",
+        "B": "Lymphocytes T mémoires",
+        "C": "Mastocytes sensibilisés",
+        "D": "Granulocytes activés"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Le délai plus court de rejet chez la souris B3 s’explique par __________.",
+      "image": "assets/images/svt/défense(1).png",
+      "reponses": {
+        "A": "Une réaction inflammatoire non spécifique",
+        "B": "Une activation préalable des cellules phagocytaires",
+        "C": "Une mémoire immunitaire liée aux lymphocytes T",
+        "D": "Une compatibilité totale entre les greffons"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Le cobaye D1 est immunisé contre le bacille de Koch.",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "L’injection du bacille de Koch au cobaye E, ayant reçu le sérum du cobaye D1, aboutit à sa mort.",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°15": {
+      "question": "L’injection du bacille de Koch au cobaye F, ayant reçu les lymphocytes T du cobaye immunisé D1, aboutit à sa survie.",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Le cobaye D2 immunisé survit à une injection de bacille de Koch.",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "Le cobaye D3 immunisé contre le bacille de Koch survit à une injection de bacille diphtérique.",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "Un cobaye immunisé survit au bacille de Koch mais meurt du bacille diphtérique. Cela montre que :",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "L’immunité acquise est faible",
+        "B": "Le bacille diphtérique est plus fort",
+        "C": "Le système immunitaire est détruit",
+        "D": "L’immunité acquise est spécifique contre le bacille de Koch et non contre le bacille diphtérique."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°19": {
+      "question": "La mort du cobaye E (ayant reçu le sérum) montre que :",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "Le sérum est toxique",
+        "B": "Le bacille est trop virulent",
+        "C": "Le sérum ne contient pas de substance protectrice contre le bacille de Koch",
+        "D": "Le cobaye E est allergique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "La survie du cobaye F (ayant reçu des lymphocytes T) montre que :",
+      "image": "assets/images/svt/défense(2).png",
+      "reponses": {
+        "A": "L’immunité est humorale",
+        "B": "Les lymphocytes T assurent une immunité cellulaire spécifique efficace",
+        "C": "Le sérum agit tardivement",
+        "D": "Le cobaye est naturellement résistant"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+}
+]

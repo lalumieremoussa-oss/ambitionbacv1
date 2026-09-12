@@ -1,0 +1,365 @@
+{
+  "title": "Quiz 1",
+  "id": "AN05_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la traduction de : \"Comment vas-tu ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Where are you from?",
+        "B": "How do you do?",
+        "C": "How are you?",
+        "D": "What do you do?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse correcte à \"How old are you?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I have 15 years.",
+        "B": "I do 15.",
+        "C": "I live 15.",
+        "D": "I am 15."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Traduisez l'expression : \"Ravi de vous rencontrer.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nice to see you.",
+        "B": "How are you?",
+        "C": "Nice to meet you.",
+        "D": "Where are you from?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle question signifie : \"Où habites-tu ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Where are you from?",
+        "B": "Where do you live?",
+        "C": "When were you born?",
+        "D": "What do you like?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Complétez la traduction : \"Je suis de Bouaké.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I live in Bouaké.",
+        "B": "I come to Bouaké.",
+        "C": "I am to Bouaké.",
+        "D": "I am from Bouaké."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est la traduction de : \"Quand es-tu né(e) ?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "How old are you?",
+        "B": "Where are you born?",
+        "C": "When were you born?",
+        "D": "When do you born?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Choisissez la traduction de \"J'aime lire.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I love to music.",
+        "B": "I am good at reading.",
+        "C": "I like to read.",
+        "D": "I am reading."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la traduction de l'expression pour prendre congé : \"À plus tard\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Goodbye",
+        "B": "See you",
+        "C": "Thank you",
+        "D": "See you later"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Que signifie l'expression \"I was born in 1998\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'ai 1998 ans.",
+        "B": "Je suis né à 1998.",
+        "C": "J'habite à 1998.",
+        "D": "Je suis né(e) en 1998."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quel est le sens de : \"I'm good at English.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'aime l'anglais.",
+        "B": "Je n'aime pas l'anglais.",
+        "C": "Je suis professeur d'anglais.",
+        "D": "Je suis bon(ne) en anglais."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Je vais bien, merci.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "bad",
+        "fine",
+        "thanks",
+        "you",
+        "I",
+        "is"
+      ],
+      "bonne réponse": "I am fine, thanks"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Je vis à Yamoussoukro.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "live",
+        "I",
+        "do",
+        "in",
+        "from",
+        "at",
+        "Yamoussoukro",
+        "you"
+      ],
+      "bonne réponse": "I live in Yamoussoukro"
+    },
+    "question n°13": {
+      "question": "Complétez le dialogue : A: Nice to meet you. B: ___________ également.",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Nice",
+        "meet",
+        "you",
+        "too",
+        "am",
+        "to",
+        "is",
+        "live"
+      ],
+      "bonne réponse": "Nice to meet you too"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"J'ai 17 ans.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "17",
+        "old",
+        "I",
+        "have",
+        "you",
+        "years",
+        "is"
+      ],
+      "bonne réponse": "I am 17 years old"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Je viens de Tiassalé.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "from",
+        "I",
+        "come",
+        "live",
+        "to",
+        "Tiassalé",
+        "am",
+        "you"
+      ],
+      "bonne réponse": "I come from Tiassalé"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"J'adore la musique.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "music",
+        "I",
+        "likes",
+        "to",
+        "love",
+        "read",
+        "am",
+        "is"
+      ],
+      "bonne réponse": "I love music"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Je suis passionné(e) par le football.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "am",
+        "about",
+        "I'm",
+        "football",
+        "is",
+        "passionate",
+        "love",
+        "English"
+      ],
+      "bonne réponse": "I'm passionate about football"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"De rien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "You",
+        "am",
+        "fine",
+        "welcome",
+        "do",
+        "is",
+        "see"
+      ],
+      "bonne réponse": "You are welcome"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"À bientôt.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "See",
+        "am",
+        "later",
+        "to",
+        "tomorrow",
+        "you",
+        "live",
+        "is"
+      ],
+      "bonne réponse": "See you"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Où es-tu né(e) ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "you",
+        "were",
+        "born",
+        "When",
+        "are",
+        "Where",
+        "do",
+        "live"
+      ],
+      "bonne réponse": "Where were you born?"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"J'aime faire du sport.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "I",
+        "like",
+        "do",
+        "sport",
+        "to",
+        "read",
+        "music",
+        "am"
+      ],
+      "bonne réponse": "I like to do sport"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Quel âge as-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "How",
+        "you",
+        "old",
+        "do",
+        "what",
+        "is",
+        "am"
+      ],
+      "bonne réponse": "How old are you?"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Je suis né(e) le 29 février.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "born",
+        "I",
+        "on",
+        "was",
+        "February",
+        "29th",
+        "am",
+        "in"
+      ],
+      "bonne réponse": "I was born on the 29th February"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Et toi ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "you",
+        "do",
+        "And",
+        "are",
+        "live",
+        "is",
+        "from",
+        "am"
+      ],
+      "bonne réponse": "And you?"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"J'habite en ville.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "live",
+        "I",
+        "city",
+        "in",
+        "village",
+        "at",
+        "am",
+        "do"
+      ],
+      "bonne réponse": "I live in the city"
+    },
+    "question n°26": {
+      "question": "Quelle est la question pour demander l'origine de quelqu'un ?",
+      "type": "short_answer",
+      "bonne réponse": "Where are you from?"
+    },
+    "question n°27": {
+      "question": "Quel verbe utilise-t-on pour dire son âge en anglais ? (forme infinitive)",
+      "type": "short_answer",
+      "bonne réponse": "To be"
+    },
+    "question n°28": {
+      "question": "Traduisez le mot de salutation qui signifie \"Au revoir\".",
+      "type": "short_answer",
+      "bonne réponse": "Goodbye"
+    },
+    "question n°29": {
+      "question": "Quel est le mot anglais pour \"temps libre\" ?",
+      "type": "short_answer",
+      "bonne réponse": "spare time"
+    },
+    "question n°30": {
+      "question": "Traduisez \"Enchanté\" (formel).",
+      "type": "short_answer",
+      "bonne réponse": "How do you do?"
+    }
+  }
+}

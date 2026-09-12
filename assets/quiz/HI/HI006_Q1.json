@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI006_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le statut administratif de l’Algérie sous la colonisation française ?",
+      "réponses": {
+        "A": "Une colonie d’exploitation rattachée au ministère des Colonies",
+        "B": "Un protectorat placé sous autorité musulmane",
+        "C": "Un département français intégré à la République depuis 1848",
+        "D": "Une région autonome sous mandat franco-britannique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi l’indépendance de l’Algérie était-elle refusée par les autorités françaises ?",
+      "réponses": {
+        "A": "Parce que l’Algérie n’était pas économiquement rentable",
+        "B": "Parce qu’elle était considérée comme une partie intégrante de la France et comptait une population européenne influente",
+        "C": "Parce qu’elle avait demandé un rattachement au Maroc",
+        "D": "Parce qu’elle avait déjà obtenu un statut fédéral"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles étaient les deux principales communautés en Algérie coloniale ?",
+      "réponses": {
+        "A": "Les Européens (Pieds-Noirs), citoyens français à part entière, et les Musulmans, discriminés par le Code de l’indigénat",
+        "B": "Les Espagnols et les Italiens, tous exclus de la vie politique",
+        "C": "Les Français de métropole et les Noirs africains",
+        "D": "Les Catholiques arabes et les Protestants turcs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelles formes d’injustices frappaient les Musulmans algériens ?",
+      "réponses": {
+        "A": "Ils ne pouvaient pas cultiver leurs terres ni apprendre le français",
+        "B": "Ils étaient interdits de voyager hors d’Algérie",
+        "C": "Discriminations dans le droit, l’éducation, la propriété foncière et la représentation politique",
+        "D": "Ils étaient automatiquement déportés en cas de conflit"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Que réclame le Manifeste du peuple algérien de 1943 ?",
+      "réponses": {
+        "A": "La fusion avec la Tunisie et le Maroc",
+        "B": "L’indépendance immédiate et le départ des Européens",
+        "C": "Un statut autonome et l’égalité des droits pour les Algériens musulmans",
+        "D": "La nationalisation des terres coloniales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pourquoi la demande du Manifeste de 1943 est-elle légitime dans son contexte ?",
+      "réponses": {
+        "A": "Parce que la France perdait la guerre et n’avait plus de pouvoir",
+        "B": "Parce que les idéaux de liberté et d’égalité étaient défendus par les Alliés en pleine Seconde Guerre mondiale",
+        "C": "Parce que les États-Unis exigeaient l’indépendance de l’Algérie",
+        "D": "Parce que la Constitution de 1940 le garantissait"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelles étaient les limites des réformes proposées par la France après la guerre ?",
+      "réponses": {
+        "A": "Elles donnaient l’indépendance aux seuls Européens d’Algérie",
+        "B": "Elles accordaient des droits partiels sans égalité réelle, et maintenaient l’influence coloniale",
+        "C": "Elles supprimaient les élections locales",
+        "D": "Elles interdisaient la pratique de l’islam"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel événement tragique a montré la rupture entre la France et les aspirations des Algériens en mai 1945 ?",
+      "réponses": {
+        "A": "Le massacre de la Casbah d’Alger par les troupes allemandes",
+        "B": "La répression sanglante de Sétif, Guelma et Kherrata par l’armée française",
+        "C": "Le coup d’État du FLN contre le gouvernement français",
+        "D": "Le blocus économique organisé par le Maroc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Pourquoi les violences de mai 1945 ont-elles radicalisé les nationalistes algériens ?",
+      "réponses": {
+        "A": "Elles ont prouvé que la France souhaitait une indépendance rapide",
+        "B": "Elles ont permis la création d’un gouvernement provisoire",
+        "C": "Elles ont révélé le refus catégorique du dialogue par la France et l’usage de la force pour maintenir l’ordre colonial",
+        "D": "Elles ont conduit à la réunification de l’Afrique du Nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle organisation politique nationaliste émerge dans les années 1940 ?",
+      "réponses": {
+        "A": "Le Parti Républicain Arabe",
+        "B": "L’Union Franco-Algérienne",
+        "C": "Le Parti du Peuple Algérien (PPA), ancêtre du FLN",
+        "D": "L’Organisation Communautaire Islamique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel rôle les inégalités économiques ont-elles joué dans le rejet du système colonial ?",
+      "réponses": {
+        "A": "Elles ont permis aux Européens de s’enrichir au profit des Musulmans",
+        "B": "Elles ont limité l’accès des Musulmans aux métiers techniques",
+        "C": "Elles ont accentué la pauvreté, le chômage et la marginalisation des Algériens",
+        "D": "Elles ont provoqué la fuite des élites vers la Libye"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Pourquoi les réformes de la IVe République n'ont-elles pas apaisé la situation ?",
+      "réponses": {
+        "A": "Parce qu’elles excluaient encore les Algériens des décisions importantes et maintenaient le double collège électoral",
+        "B": "Parce qu’elles favorisaient l’indépendance immédiate",
+        "C": "Parce qu’elles dissolvaient les syndicats européens",
+        "D": "Parce qu’elles favorisaient une immigration massive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quelle est la spécificité du système électoral colonial mis en place en Algérie ?",
+      "réponses": {
+        "A": "Un droit de vote réservé aux femmes uniquement",
+        "B": "Un double collège qui favorise les Européens même minoritaires",
+        "C": "Un suffrage universel obligatoire dès l’âge de 16 ans",
+        "D": "Un vote communautaire basé sur la religion"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle fut la conséquence de l'échec du dialogue réformiste ?",
+      "réponses": {
+        "A": "La mise en place d’une fédération algéro-française",
+        "B": "Le passage progressif à la lutte armée comme solution considérée légitime",
+        "C": "Le démantèlement des partis politiques musulmans",
+        "D": "Le départ volontaire des colons"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelles catégories sociales musulmanes ont soutenu le nationalisme ?",
+      "réponses": {
+        "A": "Les ouvriers, les paysans, les étudiants et les anciens combattants frustrés",
+        "B": "Uniquement les chefs religieux traditionnels",
+        "C": "Les marchands juifs et les colons pauvres",
+        "D": "Les gouverneurs locaux et les administrateurs coloniaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle organisation clandestine marque la rupture avec le pacifisme politique ?",
+      "réponses": {
+        "A": "Le Parti Libéral du Maghreb",
+        "B": "Le Conseil Islamique Algérien",
+        "C": "L’Organisation Spéciale (OS), bras armé des militants radicaux",
+        "D": "L’Union pour la Méditerranée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi la voie violente est-elle progressivement privilégiée par les indépendantistes ?",
+      "réponses": {
+        "A": "Parce que la Constitution française leur accordait le droit à la guerre",
+        "B": "Parce que tous les moyens légaux ont échoué et que la répression persistait",
+        "C": "Parce que l’ONU leur imposait cette solution",
+        "D": "Parce que l’Égypte leur promettait un appui militaire immédiat"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "En quoi la guerre d’Indochine a-t-elle influencé les nationalistes algériens ?",
+      "réponses": {
+        "A": "Elle a permis de développer l’agriculture coloniale",
+        "B": "Elle a convaincu les colons de négocier",
+        "C": "Elle a montré qu’un peuple colonisé pouvait vaincre une armée occidentale",
+        "D": "Elle a poussé la France à quitter l’Afrique du Nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelles leçons les militants algériens ont-ils tirées de la décolonisation asiatique ?",
+      "réponses": {
+        "A": "Que seule une lutte armée déterminée permettait d’obtenir l’indépendance face à un État colonial rigide",
+        "B": "Que la coopération économique suffisait pour obtenir plus de droits",
+        "C": "Que la division ethnique pouvait mener à la paix",
+        "D": "Que l’Europe abandonnait volontairement ses colonies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Pourquoi peut-on dire que le nationalisme violent en Algérie était une réponse ?",
+      "réponses": {
+        "A": "Parce que les colons étaient pacifiques",
+        "B": "Parce que les Musulmans voulaient étendre leur religion",
+        "C": "Parce qu’il s’est construit en réaction à une fermeture totale du système colonial à toute réforme égalitaire",
+        "D": "Parce que la guerre était populaire parmi les jeunes"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

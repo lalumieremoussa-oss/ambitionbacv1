@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi la guerre d’Irak de 2003 a-t-elle fragilisé le leadership américain ?",
+      "réponses": {
+        "A": "Parce qu’elle a renforcé les liens avec la Russie",
+        "B": "Parce que les États-Unis ont gagné en popularité au Moyen-Orient",
+        "C": "Parce qu’elle a été menée sans l’accord de l’ONU, isolant diplomatiquement les États-Unis",
+        "D": "Parce qu’elle a permis à l’Irak de devenir une démocratie stable"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel retrait symbolise le recul du multilatéralisme américain sous Donald Trump ?",
+      "réponses": {
+        "A": "Le retrait de l’OTAN",
+        "B": "Le retrait du FMI",
+        "C": "Le retrait de l’Union européenne",
+        "D": "Le retrait de l’accord de Paris sur le climat"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "En quoi la guerre en Afghanistan a-t-elle été un échec pour les États-Unis ?",
+      "réponses": {
+        "A": "Parce que les Talibans ont été définitivement vaincus",
+        "B": "Parce que les Talibans ont repris le pouvoir après le retrait américain en 2021",
+        "C": "Parce que les États-Unis y ont gagné en influence économique",
+        "D": "Parce qu’aucune coalition n’y a été formée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle critique majeure vise l’intervention américaine en Syrie ?",
+      "réponses": {
+        "A": "Leur collaboration étroite avec la Russie",
+        "B": "Leur incapacité à imposer une paix durable et leur rôle ambigu",
+        "C": "Leur retrait volontaire du conflit",
+        "D": "Leur neutralité complète"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel événement a terni l’image des États-Unis en matière de droits humains ?",
+      "réponses": {
+        "A": "Le plan Marshall",
+        "B": "La guerre de Corée",
+        "C": "Le scandale de la prison d’Abu Ghraib en Irak",
+        "D": "La fondation de l’ONU"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel pays s’impose comme le principal rival stratégique des États-Unis ?",
+      "réponses": {
+        "A": "Le Brésil",
+        "B": "La Chine",
+        "C": "L’Inde",
+        "D": "L’Allemagne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi parle-t-on de « multipolarité » dans le monde actuel ?",
+      "réponses": {
+        "A": "Parce que tous les pays ont le même pouvoir militaire",
+        "B": "Parce que les États-Unis sont en guerre contre tous les blocs",
+        "C": "Parce qu’il existe plusieurs pôles de puissance économique et politique dans le monde",
+        "D": "Parce que le monde est dirigé par une seule organisation mondiale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle politique économique renforce la domination chinoise ?",
+      "réponses": {
+        "A": "La guerre commerciale avec les États-Unis",
+        "B": "L’initiative des Nouvelles Routes de la Soie",
+        "C": "L’abandon du yuan",
+        "D": "Le retrait de la Banque mondiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel pays a affirmé sa puissance en annexant la Crimée en 2014 ?",
+      "réponses": {
+        "A": "La Chine",
+        "B": "La Russie",
+        "C": "L’Ukraine",
+        "D": "La Turquie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle institution internationale est régulièrement critiquée pour sa domination américaine ?",
+      "réponses": {
+        "A": "L’UNESCO",
+        "B": "Le Conseil de sécurité de l’ONU",
+        "C": "Le FMI (Fonds Monétaire International)",
+        "D": "L’OIF"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle action de la Russie remet en cause l’ordre mondial dominé par les USA ?",
+      "réponses": {
+        "A": "Son adhésion à l’OMC",
+        "B": "Son soutien militaire au régime syrien de Bachar el-Assad",
+        "C": "Son retrait de l’ONU",
+        "D": "Sa participation aux Jeux Olympiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel acteur régional remet en cause la présence américaine au Moyen-Orient ?",
+      "réponses": {
+        "A": "Israël",
+        "B": "Le Qatar",
+        "C": "L’Iran",
+        "D": "L’Arabie saoudite"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle organisation économique est perçue comme un contrepoids au FMI dominé par les USA ?",
+      "réponses": {
+        "A": "La CEDEAO",
+        "B": "Les BRICS",
+        "C": "L’Union européenne",
+        "D": "L’ASEAN"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle stratégie les États-Unis ont-ils utilisée pour contenir l’influence chinoise en Asie ?",
+      "réponses": {
+        "A": "L’opération Tempête du désert",
+        "B": "Le partenariat stratégique avec des pays comme le Japon, l’Australie et l’Inde",
+        "C": "L’intégration de la Chine dans l’OTAN",
+        "D": "L’envoi de troupes au Tibet"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel reproche fait-on souvent à la diplomatie américaine contemporaine ?",
+      "réponses": {
+        "A": "Elle privilégie les pays pauvres",
+        "B": "Elle repose exclusivement sur l’ONU",
+        "C": "Elle respecte strictement le droit international",
+        "D": "Elle défend d’abord ses intérêts économiques et stratégiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Pourquoi l’utilisation du dollar est-elle contestée dans les relations internationales ?",
+      "réponses": {
+        "A": "Parce que les pays européens veulent adopter le yuan",
+        "B": "Parce que le dollar est trop faible",
+        "C": "Parce qu’elle favorise la domination américaine sur le commerce mondial",
+        "D": "Parce que les USA refusent de l’imprimer"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel accord les États-Unis ont-ils quitté en 2018, suscitant la colère de leurs alliés ?",
+      "réponses": {
+        "A": "L’accord sur le Brexit",
+        "B": "L’accord nucléaire avec l’Iran (JCPOA)",
+        "C": "Le protocole de Kyoto",
+        "D": "L’accord de Minsk"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "En quoi la diplomatie de Joe Biden marque-t-elle une rupture avec celle de Trump ?",
+      "réponses": {
+        "A": "Il a interdit le multilatéralisme",
+        "B": "Il prône un retour au dialogue international et aux alliances traditionnelles",
+        "C": "Il a quitté l’ONU",
+        "D": "Il a imposé le protectionnisme radical"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle puissance utilise aussi le “soft power” pour concurrencer les États-Unis ?",
+      "réponses": {
+        "A": "La Corée du Sud avec la K-pop et le cinéma",
+        "B": "Le Canada avec ses mines",
+        "C": "La Suisse avec ses banques",
+        "D": "L’Iran avec ses forces militaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Que signifie le terme 'déclin relatif' des États-Unis ?",
+      "réponses": {
+        "A": "Leur disparition du système mondial",
+        "B": "Leur domination reste forte, mais d'autres puissances montent en influence",
+        "C": "La fin du capitalisme",
+        "D": "Leur transformation en État fédéral européen"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

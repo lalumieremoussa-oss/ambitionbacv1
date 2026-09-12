@@ -1,0 +1,311 @@
+{
+  "title": "Quiz 3",
+  "id": "SVT001_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "En vue d’amener un chat à fléchir sa patte à la vue d’une lumière, on réalise plusieurs expériences. Le réflexe étudié est :",
+      "réponses": {
+        "A": "Le reflexe de la salivation",
+        "B": "Le réflexe de Pavlov",
+        "C": "Le reflexe de la flexion de la patte",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Tout stimulus incapable d’amener le chat à fléchir sa patte est dit stimulus neutre.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Tout stimulus capable d’amener le chat à fléchir sa patte est dit excitant inconditionnel, efficace ou absolu.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Dans l’expérience 1, \nla lumière est allumée trois fois devant la cage du chat. Il soulève la tête sans fléchir la patte. Pourquoi ?",
+      "réponses": {
+        "A": "Parce qu’il connaît déjà le stimulus et sait qu’il est inoffensif.",
+        "B": "Parce que le stimulus lumineux est encore un excitant inefficace ou neutre.",
+        "C": "Parce que le chat refuse instinctivement de bouger sans récompense.",
+        "D": "Parce que la lumière est trop faible pour être perçue par le système nerveux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Dans l’expérience 2, \nune décharge électrique est appliquée plusieurs fois. Le chat fléchit sa patte à chaque fois. Pourquoi ?",
+      "réponses": {
+        "A": "Parce qu’il connaît déjà le stimulus et sait qu’il est inoffensif.",
+        "B": "Parce que le stimulus lumineux est encore un excitant inefficace ou neutre.",
+        "C": "Parce que le chat refuse instinctivement de bouger sans son salaire.",
+        "D": "Parce que la décharge électrique lui cause une douleur. C’est donc un stimulus absolu."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Dans l’expérience 3, \non associe la lumière à la décharge électrique. Pourquoi le chat fléchit-il sa patte ?",
+      "réponses": {
+        "A": "À cause d’une simple confusion sensorielle.",
+        "B": "Parce que la lumière est devenue un excitant acquis.",
+        "C": "Parce qu’il reçoit la décharge électrique, ce qui provoque la douleur.",
+        "D": "Parce qu’il s’attend à recevoir une décharge électrique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Expérience 4 : \naprès plusieurs associations, on allume la lumière seule et le chat fléchit sa patte. Pourquoi ?",
+      "réponses": {
+        "A": "Parce que la lumière seule déclenche maintenant la réaction.",
+        "B": "Parce que la lumière est devenue un excitant acquis.",
+        "C": "Parce que le chat anticipe la décharge.",
+        "D": "Toutes ces propositions sont justes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "La lumière, stimulus auparavant neutre et devenue efficace, est appelée :",
+      "réponses": {
+        "A": "Stimulus passif devenu absolu par répétition.",
+        "B": "Stimulus lumineux transféré vers un nouveau seuil réflexe.",
+        "C": "Stimulus conditionnel ayant acquis la capacité de provoquer une réponse.",
+        "D": "Stimulus secondaire provoquant une douleur résiduelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle est la réaction déclenchée par le stimulus conditionnel ?",
+      "réponses": {
+        "A": "Réaction volontaire liée à la motivation de l’animal.",
+        "B": "Réaction aléatoire dépendante de l’environnement.",
+        "C": "Réponse acquise appelée réflexe conditionnel.",
+        "D": "Réaction instinctive sans lien avec l’apprentissage."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi le réflexe acquis disparaît-il si l’on continue d’utiliser la lumière seule ?",
+      "réponses": {
+        "A": "Parce que l’absence du stimulus absolu entraîne l’extinction.",
+        "B": "Parce que le chat anticipe un changement de stimulus.",
+        "C": "Parce que la lumière est utilisée de manière excessive.",
+        "D": "Parce que le système nerveux est saturé."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Qu’appelle-t-on l’extinction d’un réflexe conditionnel ?",
+      "réponses": {
+        "A": "Une réponse involontaire répétée sans renforcement.",
+        "B": "Disparition progressive de la réponse quand le stimulus n’est plus renforcé.",
+        "C": "Épuisement de la volonté de l’animal.",
+        "D": "Réponse automatique plus rapide et durable."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle est la nature du stimulus électrique utilisé dans la 2e expérience (décharge électrique)?",
+      "réponses": {
+        "A": "Réflexe inné automatique et stéréotypé.",
+        "B": "Stimulus faible servant à tromper l’animal.",
+        "C": "Signal d’arrêt de l’activité musculaire.",
+        "D": "Excitant absolu provoquant une réponse réflexe immédiate."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Quelle condition permet au réflexe conditionnel de se maintenir dans le temps ?",
+      "réponses": {
+        "A": "Suppression de tout autre stimulus.",
+        "B": "Exposition unique au stimulus neutre.",
+        "C": "Renforcement régulier par association au stimulus absolu.",
+        "D": "Alternance entre stimuli faibles et forts."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "À quoi sert l’apprentissage dans le réflexe conditionnel ?",
+      "réponses": {
+        "A": "À transformer un stimulus neutre en stimulus efficace.",
+        "B": "À établir une réponse innée face au stimulus.",
+        "C": "À renforcer l’instinct naturel de l’animal.",
+        "D": "À désapprendre les réponses naturelles."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle est la conclusion essentielle de cette expérience ?",
+      "réponses": {
+        "A": "Le chat réagit uniquement à la douleur.",
+        "B": "Un réflexe peut être acquis par association entre stimuli.",
+        "C": "Le comportement est dicté par la génétique uniquement.",
+        "D": "La lumière provoque naturellement un réflexe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Que montre la réaction du chat dans l’expérience 4 ?",
+      "réponses": {
+        "A": "Le réflexe devient inné avec le temps.",
+        "B": "La lumière devient un stimulus absolu.",
+        "C": "Le stimulus lumineux est devenu conditionnel.",
+        "D": "Le système nerveux du chat est excité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Ceci est le schéma du trajet de l’influx nerveux dans le cas du réflexe conditionnel de salivation. Quelle est la légende correspondant à la lettre 'a' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "RÉCEPTEUR (les yeux)",
+        "B": "STIMULUS CONDITIONNEL (Lumière)",
+        "C": "Aire visuelle du cortex cérébral",
+        "D": "Réponse réflexe (sécrétion salivaire)"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est la légende correspondant à la lettre 'b' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "STIMULUS CONDITIONNEL (Lumière blanche)",
+        "B": "Aire motrice",
+        "C": "RÉCEPTEUR (les yeux)",
+        "D": "CENTRE SALIVAIRE (Bulbe rachidien)"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est la légende correspondant à la lettre 'c' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "Aire auditive du cortex cérébral",
+        "B": "RÉCEPTEUR (les yeux)",
+        "C": "EFFECTEUR (glandes salivaires)",
+        "D": "Aire visuelle du cortex cérébral"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quelle est la légende correspondant à la lettre 'd' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "CENTRE NERVEUX (Moelle épinière)",
+        "B": "Aire motrice",
+        "C": "Nouvelle liaison nerveuse",
+        "D": "Fibres motrice"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelle est la légende correspondant à la lettre 'e' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "EFFECTEUR (glandes salivaires)",
+        "B": "Aire visuelle du cortex cérébral",
+        "C": "CENTRE NERVEUX (Moelle épinière)",
+        "D": "Réponse réflexe (sécrétion salivaire)"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Quelle est la légende correspondant à la lettre 'f' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "Réponse réflexe (sécrétion salivaire)",
+        "B": "EFFECTEUR (le muscle)",
+        "C": "Fibres gustatives",
+        "D": "Nouvelle liaison nerveuse"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Quelle est la légende correspondant à la lettre 'g' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "CENTRE SALIVAIRE (Bulbe rachidien)",
+        "B": "STIMULUS CONDITIONNEL (Lumière blanche)",
+        "C": "Réponse réflexe (flexion de la patte)",
+        "D": "EFFECTEUR (le muscle)"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "Quelle est la flèche reliant 'b' à 'c' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "fibre nerveuse visuelle",
+        "B": "fibres nerveuses sensitives.",
+        "C": "Nouvelle liaison nerveuse",
+        "D": "aucune de ces réponses"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Quel est le type de lien entre 'c' et 'd' dans le schéma ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "nerf optique",
+        "B": "fibres gustatives",
+        "C": "Nouvelle liaison nerveuse",
+        "D": "Connexion directe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "la legende correcte du schema est: /n SCHEMA DU TRAJET DE L'INFLUX NERVEUX DANS LE CAS DU REFLEXE CONDITIONNEL DE SALIVATION",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Quel est le type de lien entre 'd' et 'e' dans le schéma du conditionnement classique ?",
+      "image": "assets/images/svt/réflexe.png",
+      "réponses": {
+        "A": "fibres nerveuses motrices",
+        "B": "fibres nerveuses gustatives",
+        "C": "Nouvelle liaison nerveuse",
+        "D": "Voie afférente"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "Quel couple est correctement associé /nl’organe et son aire corticale.",
+      "réponses": {
+        "A": "L’œil – Aire tactile",
+        "B": "Le nez – Aire auditive",
+        "C": "L’oreille – Aire auditive",
+        "D": "La langue – Aire olfactive"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Quel couple est correctement associé ?",
+      "réponses": {
+        "A": "La peau – Aire gustative",
+        "B": "Le muscle – Aire motrice",
+        "C": "Le nez – Aire visuelle",
+        "D": "L’œil – Aire olfactive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Parmi les paires suivantes, laquelle est correcte ?",
+      "réponses": {
+        "A": "La langue —Aire Gustative",
+        "B": "Le nez —Aire Olfactive",
+        "C": "La peau — Aire Tactile",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

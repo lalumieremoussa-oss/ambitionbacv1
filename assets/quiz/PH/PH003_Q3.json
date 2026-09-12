@@ -1,0 +1,202 @@
+{
+  "title": "Quiz 3",
+  "id": "PH003_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème l'Etat et liberté. Quelle est la définition critique de l’État selon les penseurs anarchistes comme Bakounine ?",
+      "réponses": {
+        "A": "L’État est l’unique moyen d’organiser une société fondée sur la justice.",
+        "B": "L’État est une entité qui supprime la liberté individuelle sous couvert d’ordre.",
+        "C": "L’État est un arbitre neutre entre les différentes classes sociales.",
+        "D": "L’État protège l’autonomie individuelle face aux forces économiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Dans une perspective critique, que représente l’État pour les anarchistes ?",
+      "réponses": {
+        "A": "Une forme imparfaite de gouvernement perfectible par le peuple.",
+        "B": "Un appareil d’oppression artificiel qui doit être aboli.",
+        "C": "Une structure inévitable de la vie sociale moderne.",
+        "D": "Une organisation fondée sur des principes naturels et universels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle tension fondamentale oppose la liberté individuelle à l’État selon les penseurs libertaires ?",
+      "réponses": {
+        "A": "L’État protège trop les libertés, ce qui engendre le chaos.",
+        "B": "L’État est trop faible pour limiter les abus des individus.",
+        "C": "L’État exige la soumission au détriment de l’autonomie personnelle.",
+        "D": "L’État n’impose aucune norme collective stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "À quel courant politique et philosophique appartient Bakounine ?",
+      "réponses": {
+        "A": "Marxisme libéral",
+        "B": "Anarchisme révolutionnaire",
+        "C": "Positivisme juridique",
+        "D": "Conservatisme catholique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La critique nietzschéenne de l’État s’inscrit dans :",
+      "réponses": {
+        "A": "Un rejet des valeurs aristocratiques.",
+        "B": "Une défense du droit naturel universel.",
+        "C": "Une dénonciation de la décadence et du mensonge des institutions.",
+        "D": "Un appel à une théocratie spirituelle moderne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "En déclarant : « Si l’État est fort, il nous écrase ; s’il est faible, nous périssons », Valéry exprime :",
+      "réponses": {
+        "A": "Une confiance totale dans la puissance régulatrice de l’État.",
+        "B": "Une méfiance radicale face au dilemme de la puissance étatique.",
+        "C": "Une admiration implicite pour les démocraties fortes.",
+        "D": "L’inefficacité des États modernes face à l’individu autonome."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pourquoi peut-on dire que l’État peut devenir économiquement oppressif ?",
+      "réponses": {
+        "A": "Parce qu’il impose des règles de marché contraires aux intérêts du peuple.",
+        "B": "Parce qu’il n’intervient pas assez dans les échanges commerciaux.",
+        "C": "Parce qu’il est toujours du côté des consommateurs et non des producteurs.",
+        "D": "Parce qu’il refuse de signer des accords internationaux favorables."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel est le risque lié à un État fort dans un contexte économique mondial ?",
+      "réponses": {
+        "A": "Il attire l’envie des puissances étrangères.",
+        "B": "Il devient le relais docile des injonctions extérieures.",
+        "C": "Il se désintéresse des politiques de développement local.",
+        "D": "Il devient ingérable car trop autonome."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "En quoi l’État peut-il être un instrument au service d’une classe sociale ?",
+      "réponses": {
+        "A": "Parce qu’il édicte des lois qui maintiennent les privilèges d’une minorité dominante.",
+        "B": "Parce qu’il est dirigé uniquement par des syndicats ouvriers.",
+        "C": "Parce qu’il ne s’intéresse qu’aux minorités ethniques et non à la majorité.",
+        "D": "Parce qu’il nie systématiquement toute organisation collective."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle conséquence politique résulte de la domination d’une classe sur l’appareil d’État ?",
+      "réponses": {
+        "A": "L’unité nationale renforcée et partagée.",
+        "B": "L’égalité stricte entre les citoyens.",
+        "C": "L’instrumentalisation du pouvoir pour conserver des avantages sociaux.",
+        "D": "La suppression de tout clivage politique au profit du consensus."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi Nietzsche qualifie-t-il l’État de « monstre froid » ?",
+      "réponses": {
+        "A": "Parce qu’il est lent à réagir aux émotions populaires.",
+        "B": "Parce qu’il privilégie les sentiments au raisonnement.",
+        "C": "Parce qu’il valorise la chaleur des traditions communautaires.",
+        "D": "Parce qu’il est une entité impersonnelle qui ment sans scrupule."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Pourquoi Bakounine dit-il que l’État est un cimetière ?",
+      "réponses": {
+        "A": "Parce qu’il est le garant de la paix après les révolutions.",
+        "B": "Parce qu’il préserve la mémoire des anciens combattants.",
+        "C": "Parce qu’il enterre toute possibilité d’expression individuelle et de liberté.",
+        "D": "Parce qu’il protège les citoyens du chaos naturel."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "« L’État est un immense cimetière où viennent s’enterrer la manifestation de la liberté individuelle. » (Bakounine)",
+      "réponses": {
+        "A": "L’État écrase toute forme de spontanéité et de liberté personnelle.",
+        "B": "L’État est l’unique rempart contre les violences sociales.",
+        "C": "L’État protège la liberté en supprimant les désirs contradictoires.",
+        "D": "L’État organise le progrès de la civilisation humaine."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "« L’État est le plus froid de tous les monstres froids. Il ment froidement. » (Nietzsche)",
+      "réponses": {
+        "A": "L’État exprime une froideur symbolique utile à la gestion rationnelle.",
+        "B": "L’État se présente comme protecteur tout en manipulant le peuple.",
+        "C": "L’État est neutre, donc inoffensif.",
+        "D": "L’État est nécessairement passionnel, donc dangereux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« Si l’État est fort, il nous écrase ; s’il est faible, nous périssons. » (Paul Valéry)",
+      "réponses": {
+        "A": "Cette phrase valorise la stabilité d’un État modérément autoritaire.",
+        "B": "Cette phrase suggère que l’État n’est qu’un simple observateur neutre",
+        "C": "Cette phrase affirme que l’État faible est préférable à l’État fort.",
+        "D": "Cette phrase dénonce l’impasse du pouvoir étatique, quel que soit son niveau."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "En quoi le « cimetière » de Bakounine est-il une image forte ?",
+      "réponses": {
+        "A": "Il évoque une institution où toute vie personnelle et toute énergie sont réduites au silence.",
+        "B": "Il illustre la tranquillité que procure un État bien géré.",
+        "C": "Il signale que l’État protège les morts et honore leur mémoire.",
+        "D": "Il met en évidence l’attachement de l’État à la spiritualité des peuples."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Que dénonce Nietzsche dans sa citation sur le « monstre froid » ?",
+      "réponses": {
+        "A": "L’État est trop émotionnel dans ses décisions.",
+        "B": "L’État manque de fermeté envers les puissants.",
+        "C": "L’État est une machine bureaucratique inefficace.",
+        "D": "L’État est un pouvoir hypocrite, manipulateur et glacial."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quel est le paradoxe souligné par Valéry dans sa phrase ?",
+      "réponses": {
+        "A": "L’État est toujours problématique, qu’il soit fort ou faible.",
+        "B": "L’État est utile uniquement dans les périodes de guerre.",
+        "C": "L’État est fort quand il agit selon le peuple.",
+        "D": "L’État faible est plus moralement acceptable qu’un État autoritaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L’anarchisme vise à améliorer l’État en le réformant depuis l’intérieur.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "JEAN GRAVE est un anarchiste",
+      "réponses": {
+        "A": "Faux",
+        "B": "Vrai"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

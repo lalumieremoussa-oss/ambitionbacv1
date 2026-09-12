@@ -1,0 +1,456 @@
+{
+  "title": "AN07_Q8",
+  "id": "AN07_Q8",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l'heure 5:10 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eleven",
+        "five",
+        "to",
+        "ten",
+        "three",
+        "past",
+        "twenty",
+        "six"
+      ],
+      "bonne réponse": "ten past five"
+    },
+    "question n°2": {
+      "question": "Quelle est l'heure 7:05 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "o'clock",
+        "ten",
+        "seven",
+        "eight",
+        "five",
+        "to",
+        "past",
+        "nine"
+      ],
+      "bonne réponse": "five past seven"
+    },
+    "question n°3": {
+      "question": "Quelle est l'heure 1:20 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fifteen",
+        "one",
+        "thirty",
+        "two",
+        "to",
+        "past",
+        "twenty",
+        "three"
+      ],
+      "bonne réponse": "twenty past one"
+    },
+    "question n°4": {
+      "question": "Quelle est l'heure 4:15 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "past",
+        "to",
+        "four",
+        "half",
+        "a",
+        "five",
+        "twenty",
+        "quarter"
+      ],
+      "bonne réponse": "a quarter past four"
+    },
+    "question n°5": {
+      "question": "Quelle est l'heure 8:30 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eight",
+        "nine",
+        "to",
+        "quarter",
+        "half",
+        "thirty",
+        "ten",
+        "past"
+      ],
+      "bonne réponse": "half past eight"
+    },
+    "question n°6": {
+      "question": "Quelle est l'heure 11:25 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "twenty",
+        "twelve",
+        "ten",
+        "eleven",
+        "past",
+        "one",
+        "to",
+        "twenty-five"
+      ],
+      "bonne réponse": "twenty-five past eleven"
+    },
+    "question n°7": {
+      "question": "Quelle est l'heure 3:12 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "four",
+        "past",
+        "three",
+        "to",
+        "fifteen",
+        "ten",
+        "twelve",
+        "two"
+      ],
+      "bonne réponse": "twelve past three"
+    },
+    "question n°8": {
+      "question": "Quelle est l'heure 6:28 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "seven",
+        "half",
+        "past",
+        "six",
+        "to",
+        "five",
+        "twenty",
+        "twenty-eight"
+      ],
+      "bonne réponse": "twenty-eight past six"
+    },
+    "question n°9": {
+      "question": "Quelle est l'heure 9:03 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nine",
+        "past",
+        "to",
+        "twelve",
+        "seven",
+        "five",
+        "three",
+        "ten"
+      ],
+      "bonne réponse": "three past nine"
+    },
+    "question n°10": {
+      "question": "Quelle est l'heure 12:22 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "to",
+        "ten",
+        "twelve",
+        "one",
+        "twenty-two",
+        "four",
+        "twenty",
+        "past"
+      ],
+      "bonne réponse": "twenty-two past twelve"
+    },
+    "question n°11": {
+      "question": "Quelle est l'heure 2:18 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "past",
+        "two",
+        "thirteen",
+        "to",
+        "one",
+        "twenty",
+        "three",
+        "eighteen"
+      ],
+      "bonne réponse": "eighteen past two"
+    },
+    "question n°12": {
+      "question": "Quelle est l'heure 10:29 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "past",
+        "thirty",
+        "fifteen",
+        "ten",
+        "to",
+        "eleven",
+        "twenty-nine"
+      ],
+      "bonne réponse": "twenty-nine past ten"
+    },
+    "question n°13": {
+      "question": "Quelle est l'heure 4:16 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "four",
+        "ten",
+        "past",
+        "to",
+        "sixteen",
+        "five",
+        "twenty",
+        "one"
+      ],
+      "bonne réponse": "sixteen past four"
+    },
+    "question n°14": {
+      "question": "Quelle est l'heure 7:08 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "six",
+        "eight",
+        "seven",
+        "to",
+        "five",
+        "ten",
+        "past",
+        "nine"
+      ],
+      "bonne réponse": "eight past seven"
+    },
+    "question n°15": {
+      "question": "Quelle est l'heure 1:30 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "quarter",
+        "three",
+        "half",
+        "ten",
+        "past",
+        "to",
+        "two"
+      ],
+      "bonne réponse": "half past one"
+    },
+    "question n°16": {
+      "question": "Quelle est l'heure 8:09 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eight",
+        "nine",
+        "past",
+        "ten",
+        "seven",
+        "to",
+        "six",
+        "four"
+      ],
+      "bonne réponse": "nine past eight"
+    },
+    "question n°17": {
+      "question": "Quelle est l'heure 10:27 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "seven",
+        "to",
+        "thirty",
+        "one",
+        "eleven",
+        "past",
+        "twenty-seven"
+      ],
+      "bonne réponse": "twenty-seven past ten"
+    },
+    "question n°18": {
+      "question": "Quelle est l'heure 5:13 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "six",
+        "past",
+        "thirteen",
+        "to",
+        "fourteen",
+        "five",
+        "ten",
+        "seven"
+      ],
+      "bonne réponse": "thirteen past five"
+    },
+    "question n°19": {
+      "question": "Quelle est l'heure 3:21 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "three",
+        "four",
+        "to",
+        "twenty-one",
+        "one",
+        "twenty",
+        "past",
+        "two"
+      ],
+      "bonne réponse": "twenty-one past three"
+    },
+    "question n°20": {
+      "question": "Quelle est l'heure 12:01 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "twelve",
+        "three",
+        "two",
+        "to",
+        "ten",
+        "past",
+        "one"
+      ],
+      "bonne réponse": "one past twelve"
+    },
+    "question n°21": {
+      "question": "Quelle est l'heure 1:50 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "eleven",
+        "two",
+        "past",
+        "ten",
+        "to",
+        "fifteen",
+        "three"
+      ],
+      "bonne réponse": "ten to two"
+    },
+    "question n°22": {
+      "question": "Quelle est l'heure 6:45 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "half",
+        "seven",
+        "a",
+        "past",
+        "quarter",
+        "to",
+        "six",
+        "five"
+      ],
+      "bonne réponse": "a quarter to seven"
+    },
+    "question n°23": {
+      "question": "Quelle est l'heure 3:55 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "to",
+        "four",
+        "three",
+        "five",
+        "past",
+        "ten",
+        "twenty"
+      ],
+      "bonne réponse": "five to four"
+    },
+    "question n°24": {
+      "question": "Quelle est l'heure 11:40 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "fourteen",
+        "past",
+        "to",
+        "eleven",
+        "twelve",
+        "one",
+        "twenty"
+      ],
+      "bonne réponse": "twenty to twelve"
+    },
+    "question n°25": {
+      "question": "Quelle est l'heure 9:49 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "twelve",
+        "ten",
+        "nine",
+        "to",
+        "past",
+        "eleven",
+        "five",
+        "twenty"
+      ],
+      "bonne réponse": "eleven to ten"
+    },
+    "question n°26": {
+      "question": "Quelle est l'heure 7:58 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "seven",
+        "past",
+        "three",
+        "to",
+        "eight",
+        "five",
+        "ten",
+        "two"
+      ],
+      "bonne réponse": "two to eight"
+    },
+    "question n°27": {
+      "question": "Quelle est l'heure 4:52 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "four",
+        "eight",
+        "to",
+        "five",
+        "past",
+        "two",
+        "seven"
+      ],
+      "bonne réponse": "eight to five"
+    },
+    "question n°28": {
+      "question": "Quelle est l'heure 12:35 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "twelve",
+        "one",
+        "half",
+        "to",
+        "ten",
+        "twenty-five",
+        "two",
+        "past"
+      ],
+      "bonne réponse": "twenty-five to one"
+    },
+    "question n°29": {
+      "question": "Quelle est l'heure 2:48 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "to",
+        "past",
+        "twelve",
+        "five",
+        "three",
+        "eighteen",
+        "one",
+        "two"
+      ],
+      "bonne réponse": "twelve to three"
+    },
+    "question n°30": {
+      "question": "Quelle est l'heure 10:57 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "past",
+        "eleven",
+        "fifteen",
+        "ten",
+        "three",
+        "to",
+        "five",
+        "two"
+      ],
+      "bonne réponse": "three to eleven"
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+    "title": "Quiz 3",
+    "id": "FR001_Q3",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » Ce sujet invite à réfléchir sur la poésie comme unique expression de la douleur.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » Pour réfuter, on montrera que la poésie peut aussi évoquer le bonheur.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » A la thèse, on peut utiliser la fonction lyrique et la fonction engagée.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » L’évocation de la douleur dans « Les Contemplations » est un exemple inapproprié.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » La citation de Césaire « Ma bouche sera la bouche des malheurs » illustre la poésie porte-parole.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » Ronsard, dans « Ode », est un poète baroque qui glorifie la jeunesse, ce qui contredit la thèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » Dire que la poésie est uniquement souffrance revient à nier la poésie amoureuse ou onirique.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°8": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » Le recours à Baudelaire est pertinent pour illustrer tourments et évasion.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » La citation « Un seul être vous manque... » de Lamartine illustre parfaitement la thèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Sujet : « L'univers poétique est rempli de tourments... » Une antithèse solide repose sur Verlaine, pour qui la musique et la beauté priment.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Sujet : « La littérature ne change ni l’homme ni la société ». La thèse affirme l'absence d'influence sur les évolutions humaines.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°12": {
+            "question": "Sujet : « La littérature ne change ni l’homme ni la société ». L’axe 1 présente une fonction philosophique excluant toute portée sociale.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Sujet : « La littérature ne change ni l’homme ni la société ». L’axe 2 soutient qu'elle peut être engagée et didactique.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Sujet : « La littérature ne change ni l’homme ni la société ». Les œuvres romanesques sont mobilisées pour contredire l’idée d'un manque d'impact.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Sujet : « La littérature ne change ni l’homme ni la société ». La phrase citée affirme un rapport direct et efficace avec la réalité.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        }
+    }
+}

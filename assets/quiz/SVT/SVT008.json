@@ -1,0 +1,1788 @@
+[
+{
+  "id": "SVT008_Q1",
+  "titre": "Quiz 5 : Appareil génital féminin",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle partie est désignée par la lettre a ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Col de l'utérus",
+        "B": "Vagin",
+        "C": "Vulve",
+        "D": "Trompe"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle partie est désignée par la lettre b ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Vagin",
+        "B": "Vulve",
+        "C": "Col de l'utérus",
+        "D": "Ovaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle partie est désignée par la lettre c ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Trompe",
+        "B": "Ovaire",
+        "C": "Ovule expulsé",
+        "D": "Pavillon de la trompe"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle partie est désignée par la lettre d ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Utérus",
+        "B": "Paroi musculaire",
+        "C": "Cavité",
+        "D": "Couche interne de la paroi = Endomètre"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle partie est désignée par la lettre e ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Cavité",
+        "B": "Utérus",
+        "C": "Paroi musculaire",
+        "D": "Endomètre"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle partie est désignée par la lettre f ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "la muqueuse utérine",
+        "B": "Cavité utérine",
+        "C": "Paroi musculaire",
+        "D": "Utérus"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle partie est désignée par la lettre g ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Pavillon de la trompe",
+        "B": "Trompe",
+        "C": "Ovule expulsé",
+        "D": "Ovaire"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle partie est désignée par la lettre h ?",
+      "image": "assets/images/svt/reproduction.png",
+      "reponses": {
+        "A": "Trompe",
+        "B": "Ovaire",
+        "C": "Ovule expulsé",
+        "D": "Pavillon de la trompe"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle est la fonction principale de l’ovaire dans l’appareil reproducteur féminin ?",
+      "reponses": {
+        "A": "Assurer le passage du nouveau-né à la naissance.",
+        "B": "Produire et libérer un ovocyte lors de l’ovulation.",
+        "C": "Offrir un environnement propice au développement embryonnaire.",
+        "D": "Être le lieu de rencontre entre les gamètes mâle et femelle."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel rôle joue principalement l’utérus dans le système reproducteur ?",
+      "reponses": {
+        "A": "Transporter l’ovocyte vers la trompe de Fallope.",
+        "B": "Produire en grande quantité les hormones sexuelles.",
+        "C": "Accueillir et nourrir l’embryon jusqu’à sa naissance.",
+        "D": "Stocker les ovules en attendant leur maturation."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle est la mission principale de la trompe de Fallope ?",
+      "reponses": {
+        "A": "Acheminer les spermatozoïdes vers l’utérus.",
+        "B": "Transporter l’ovocyte de l’ovaire jusqu’à l’utérus.",
+        "C": "Fournir les nutriments nécessaires à l’embryon.",
+        "D": "Offrir un lieu de fixation à l’œuf fécondé."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel organe est directement responsable de la libération de l’ovocyte (ovule) ?",
+      "reponses": {
+        "A": "L’utérus, au moment de l’ovulation.",
+        "B": "La trompe, lors du cycle menstruel.",
+        "C": "L’ovaire, où a lieu l’ovulation.",
+        "D": "Le vagin, lors du passage des règles."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle affirmation associe correctement un organe à sa fonction ?",
+      "reponses": {
+        "A": "Ovaire : développement du fœtus.",
+        "B": "Utérus : transport de l’ovocyte.",
+        "C": "Trompe : production de l’ovocyte.",
+        "D": "Utérus : lieu du développement de l’embryon."
+      },
+      "bonne_reponse": "D"
+    }
+  }
+},
+[
+  "Quiz 2: Les étapes de la fécondation.",
+  "Id: SVT008_Q2",
+  {
+    "question n°1": {
+      "question": "Après le dépôt dans le vagin, les spermatozoïdes migrent vers les trompes de Fallope en passant successivement par :",
+      "réponses": {
+        "A": "Les ovaires puis l'utérus et enfin le col utérin.",
+        "B": "Le col de l'utérus puis l'utérus.",
+        "C": "Directement vers les trompes sans traverser l'utérus.",
+        "D": "L'utérus puis les canaux déférents pour maturation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Les deux phénomènes majeurs que subissent les spermatozoïdes pendant leur déplacement vers les trompes de Fallope sont :",
+      "réponses": {
+        "A": "La germination et la croissance cellulaire intensive.",
+        "B": "La sélection et la capacitation.",
+        "C": "La fusion des noyaux et la division cellulaire rapide.",
+        "D": "L'implantation et la maturation des organes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "L'acidité du vagin et la présence de phagocytes sont des facteurs qui contribuent à :",
+      "réponses": {
+        "A": "L'activation du pouvoir fécondant des spermatozoïdes.",
+        "B": "La survie prolongée des spermatozoïdes dans le tractus féminin.",
+        "C": "L'élimination d'une grande partie des spermatozoïdes faibles.",
+        "D": "L'accélération de la mobilité des spermatozoïdes restants."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La glaire cervicale joue un rôle de filtre important, permettant le passage uniquement des spermatozoïdes :",
+      "réponses": {
+        "A": "Ayant déjà subi une capacitation partielle complète.",
+        "B": "Les plus normaux morphologiquement et les plus mobiles.",
+        "C": "Les plus grands en taille et les plus résistants à l'acidité.",
+        "D": "Provenant d'une éjaculation récente et abondante."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La capacitation est définie comme un processus de maturation finale qui se déroule dans :",
+      "réponses": {
+        "A": "Les canaux déférents et l'épididyme masculin.",
+        "B": "L'utérus et les trompes de Fallope féminines.",
+        "C": "Le vagin et le col utérin juste après le dépôt.",
+        "D": "Les ovaires et les follicules ovariens."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "L'objectif principal de la capacitation pour un spermatozoïde est de lui permettre :",
+      "réponses": {
+        "A": "De se diviser en plusieurs copies génétiquement identiques.",
+        "B": "D'acquérir son pouvoir fécondant et de pénétrer l'ovocyte.",
+        "C": "De synthétiser de nouvelles protéines membranaires pour sa protection.",
+        "D": "De changer sa direction de nage vers l'ovocyte mature."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Avant l'ovulation, la glaire cervicale est typiquement :",
+      "réponses": {
+        "A": "Fluide, abondante et de pH basique, facilitant le passage.",
+        "B": "Épaisse, acide et peu perméable, bloquant les spermatozoïdes.",
+        "C": "Neutre et d'une consistance gélatineuse, sans rôle filtrant.",
+        "D": "Présente en très faible quantité, n'ayant aucun impact significatif."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Lors de la fécondation, qu'est-ce qui empêche l'entrée d'autres spermatozoïdes après qu'un seul a pénétré l'ovocyte ?",
+      "réponses": {
+        "A": "La rétractation des cellules folliculaires externes.",
+        "B": "La division méiotique de l'ovocyte qui reprend activement.",
+        "C": "La réaction corticale bloquant la polyspermie.",
+        "D": "Le gonflement du pronucléus mâle à l'intérieur de l'ovocyte."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Après la pénétration du spermatozoïde et la reprise de sa division méiotique, l'ovocyte devient un ovule mature après avoir émis :",
+      "réponses": {
+        "A": "Le premier globule polaire uniquement.",
+        "B": "Un ovule secondaire non fécondable.",
+        "C": "Le deuxième globule polaire.",
+        "D": "Des granules corticaux supplémentaires."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La caryogamie est le nom donné au processus où :",
+      "réponses": {
+        "A": "Le spermatozoïde entre en contact avec la zone pellucide de l'ovocyte.",
+        "B": "Les deux pronoyaux (mâle et femelle) fusionnent.",
+        "C": "La cellule-œuf diploïde commence ses premières divisions mitotiques.",
+        "D": "L'ovocyte termine sa division méiotique pour devenir mature."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : La glaire cervicale joue un rôle de filtre, ne laissant passer que les spermatozoïdes les plus normaux et les plus mobiles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La capacitation a pour effet de modifier la membrane du spermatozoïde pour le rendre incapable de pénétrer l'ovocyte.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Pendant l'ovulation, la glaire cervicale devient fluide, abondante et basique, ce qui favorise la survie et le passage des spermatozoïdes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : Un seul spermatozoïde parvient à pénétrer jusqu'à la zone pellucide de l'ovocyte et y libère son noyau.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : La réaction corticale se manifeste par le déversement du contenu des granules corticaux dans l'espace péri-ovocytaire, empêchant ainsi la polyspermie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Après la caryogamie, la cellule obtenue est haploïde (n) et est appelée zygote.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Le noyau du spermatozoïde, une fois à l'intérieur de l'ovocyte, se gonfle et prend le nom de pronucléus mâle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La sélection des spermatozoïdes se déroule principalement dans les trompes de Fallope, où l'acidité et les phagocytes sont les facteurs éliminatoires les plus importants.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : Le pronucléus mâle et le pronucléus femelle se rapprochent l'un de l'autre avant de subir la fusion appelée caryogamie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : La cellule-œuf diploïde (2n) est formée immédiatement après que le spermatozoïde a libéré son noyau dans la zone pellucide de l'ovocyte.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+],
+[
+  "Quiz3 : De la Fécondation à la Nidation",
+  "Id: SVT008_Q3",
+  {
+    "question n°1": {
+      "question": "Après la fécondation, où la cellule-œuf (zygote) chemine-t-elle en direction de l'utérus ?",
+      "réponses": {
+        "A": "Dans la trompe de Fallope.",
+        "B": "Dans l'ovaire.",
+        "C": "Dans le vagin.",
+        "D": "Dans le col de l'utérus."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Comment sont nommées les nombreuses petites cellules formées par les divisions mitotiques successives de la cellule-œuf ?",
+      "réponses": {
+        "A": "Gamètes.",
+        "B": "Ovocytes",
+        "C": "Zygotes.",
+        "D": "Blastomères."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Vers le 3ème jour, la masse compacte de cellules issue de la division de la cellule-œuf porte le nom de :",
+      "réponses": {
+        "A": "Blastocyste.",
+        "B": "Trophoblaste.",
+        "C": "Morula.",
+        "D": "Bouton embryonnaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La morula, une fois arrivée dans la cavité utérine, se creuse d’une cavité pour former :",
+      "réponses": {
+        "A": "Un embryon.",
+        "B": "Un blastocyste.",
+        "C": "Un zygote.",
+        "D": "Une gastrula."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle structure du blastocyste est une couche externe ?",
+      "réponses": {
+        "A": "Le bouton embryonnaire.",
+        "B": "La masse cellulaire interne.",
+        "C": "Le trophoblaste.",
+        "D": "L'endomètre."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La nidation, processus de fixation du blastocyste, se produit dans :",
+      "réponses": {
+        "A": "Les ovaires.",
+        "B": "La trompe de Fallope.",
+        "C": "La muqueuse utérine.",
+        "D": "La crosse aortique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel élément du blastocyste donnera naissance à l'embryon ?",
+      "réponses": {
+        "A": "Le trophoblaste.",
+        "B": "Le bouton embryonnaire.",
+        "C": "Les cellules utérines.",
+        "D": "La cavité du blastocyste."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Le placenta est un organe d'échanges qui assure notamment :",
+      "réponses": {
+        "A": "La production d'hormones de croissance fœtale.",
+        "B": "La filtration du sang maternel pour le purifier.",
+        "C": "La transmission des caractères héréditaires.",
+        "D": "L'élimination des déchets du fœtus."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle hormone est spécifiquement sécrétée par le placenta durant la période embryonnaire pour stimuler les ovaires ?",
+      "réponses": {
+        "A": "La progestérone.",
+        "B": "Les œstrogènes.",
+        "C": "L'HCG.",
+        "D": "L'ocytocine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Vers la cinquième semaine de grossesse, le placenta prend le relais en sécrétant directement de grandes quantités de :",
+      "réponses": {
+        "A": "Progestérone et œstrogènes.",
+        "B": "HCG et ocytocine.",
+        "C": "Insuline et glucagon.",
+        "D": "Adrénaline et noradrénaline."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : La cellule-œuf subit des divisions mitotiques successives pendant son cheminement dans la trompe de Fallope.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La morula est une masse compacte de blastomères formée vers le 3ème jour après la fécondation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Le blastocyste contient une masse interne de cellules appelée bouton embryonnaire et une couche externe appelée trophoblaste.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : La nidation a lieu environ 3 à 6 jours après la fécondation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Les cellules du trophoblaste s'associent aux cellules utérines pour former le placenta.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Le placenta assure uniquement le transfert d'oxygène et de nutriments, sans production d'hormones.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : L'hormone HCG stimule directement l'endomètre pour le maintenir épais et vascularisé.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La progestérone et les œstrogènes produites par les ovaires, puis par le placenta, sont indispensables au maintien de la grossesse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : L'endomètre doit rester épais et vascularisé pour le bon déroulement de la grossesse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : Le placenta devient une glande hormonale majeure de la grossesse dès la fécondation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+],
+[
+  "Quiz 4 : Le Cycle Utérin",
+  "Id: SVT008_Q4",
+  {
+    "question n°1": {
+      "question": "La muqueuse utérine, également connue sous le nom d'endomètre, est l'endroit spécifique où :",
+      "réponses": {
+        "A": "La formation des ovules matures a lieu chaque mois.",
+        "B": "La fécondation du gamète femelle se produit naturellement.",
+        "C": "L'embryon s'implante en cas de succès de la fécondation.",
+        "D": "Les spermatozoïdes complètent leur maturation finale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Dès qu'une jeune fille atteint la puberté, le premier signe du cycle utérin est la dégénération de la muqueuse de l'utérus, entraînant :",
+      "réponses": {
+        "A": "L'épaississement progressif de l'endomètre pour une éventuelle grossesse.",
+        "B": "Un écoulement de sang composé de sécrétions vaginales et autres substances.",
+        "C": "La production abondante de glycogène pour préparer l'implantation.",
+        "D": "Une augmentation soudaine de la vascularisation de l'utérus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Les menstruations sont un écoulement de sang évacué par le vagin, qui contient également :",
+      "réponses": {
+        "A": "Des fragments d'ovules non fécondés et dégénérés.",
+        "B": "Des cellules ovariennes non viables et des débris tissulaires.",
+        "C": "Des sécrétions vaginales et diverses autres substances.",
+        "D": "Des résidus de sperme non évacués du cycle précédent."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La durée moyenne des règles ou menstrues, période d'écoulement sanguin, est typiquement de :",
+      "réponses": {
+        "A": "Moins de 24 heures sans interruption significative.",
+        "B": "1 à 3 jours au maximum selon les individus.",
+        "C": "2 à 7 jours.",
+        "D": "Plus de 10 jours de façon régulière et prolongée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle phase du cycle utérin est spécifiquement caractérisée par la reconstruction de l'endomètre, accompagnée de la formation de nouvelles glandes et vaisseaux sanguins ?",
+      "réponses": {
+        "A": "La phase menstruelle initiale, juste après l'écoulement.",
+        "B": "La phase sécrétoire tardive, avant une nouvelle dégénération.",
+        "C": "La phase proliférative.",
+        "D": "La phase post-ménopausique, où l'endomètre reste stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La phase sécrétoire du cycle utérin a pour objectif principal de :",
+      "réponses": {
+        "A": "Provoquer la dégénération de la muqueuse en l'absence de fécondation.",
+        "B": "Préparer l'utérus à une éventuelle grossesse.",
+        "C": "Évacuer les débris cellulaires et sanguins accumulés.",
+        "D": "Stimuler la production d'ovules par les ovaires féminins."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Pendant la phase sécrétoire, l'utérus se prépare à une éventuelle grossesse en :",
+      "réponses": {
+        "A": "Réduisant l'épaisseur de la muqueuse utérine pour la rendre plus fine.",
+        "B": "Produisant des hormones stimulant directement l'ovulation.",
+        "C": "Épaississant la muqueuse et produisant du mucus et du glycogène.",
+        "D": "Contractant activement ses parois pour éliminer les sécrétions."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "En l'absence de fécondation, quel événement précis se produit au niveau de la muqueuse utérine ?",
+      "réponses": {
+        "A": "Elle continue de s'épaissir indéfiniment sans interruption.",
+        "B": "Elle se maintient en état de préparation constante sans changement.",
+        "C": "Elle se dégénère à nouveau et le cycle recommence.",
+        "D": "Elle se transforme en une structure glandulaire permanente."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La durée moyenne du cycle utérin complet, de la puberté à la ménopause, est de :",
+      "réponses": {
+        "A": "Environ 14 jours, correspondant précisément à la période d'ovulation.",
+        "B": "Une semaine complète, incluant uniquement la période des règles.",
+        "C": "28 jours.",
+        "D": "Variable selon les individus, sans aucune moyenne établie."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Le cycle utérin, d'une durée moyenne de 28 jours, débute à compter du :",
+      "réponses": {
+        "A": "Dernier jour des règles précédentes.",
+        "B": "Premier jour des règles.",
+        "C": "Jour exact de l'ovulation.",
+        "D": "Jour supposé de la fécondation de l'ovule."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : L'endomètre est l'endroit où l'embryon s'implante en cas de fécondation pour initier le développement du bébé.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La menstruation est la période des premières règles, caractérisée par un écoulement de sang et de sécrétions évacués par le vagin.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : La phase proliférative est responsable de la dégénération de l'endomètre après les règles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : Durant la phase sécrétoire, la muqueuse utérine s'épaissit et produit du mucus et du glycogène pour préparer une éventuelle grossesse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Le cycle utérin dure en moyenne 28 jours et se déroule de la puberté à la ménopause.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Le premier jour des règles marque le début du cycle utérin.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Si aucune fécondation n'a lieu, la muqueuse utérine se dégénère à nouveau, et le cycle se termine définitivement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La phase sécrétoire a pour but de bloquer toute possibilité de grossesse future en amincissant la muqueuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : La phase proliférative se caractérise par la formation de glandes et de vaisseaux sanguins dans l'endomètre reconstruit.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : Le cycle utérin dure en moyenne 28 jours, soit quatre semaines, à compter du premier jour des règles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+],
+[
+  "Quiz 5 : Le Cycle Ovarien",
+  "Id: SVT008_Q5",
+  {
+    "question n°1": {
+      "question": "Les ovaires, gonades de la femme, contiennent dès la naissance un stock de plusieurs centaines de milliers de structures, chacune contenant un ovocyte. Ces structures sont appelées :",
+      "réponses": {
+        "A": "Follicules primordiaux.",
+        "B": "Ovules matures et immédiatement fécondables.",
+        "C": "Corps jaunes en cours de dégénérescence.",
+        "D": "Glandes hormonales secondaires actives."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "L'événement mensuel où un ovocyte est libéré par l'un des deux ovaires est appelé :",
+      "réponses": {
+        "A": "La menstruation.",
+        "B": "La fécondation.",
+        "C": "La nidation embryonnaire.",
+        "D": "L'ovulation."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Sur un cycle ovarien de 28 jours, l'expulsion de l'ovocyte II par le follicule de De Graaf se produit spécifiquement au :",
+      "réponses": {
+        "A": "1er jour de la menstruation.",
+        "B": "7ème jour de la phase folliculaire.",
+        "C": "14ème jour.",
+        "D": "28ème jour, juste avant le nouveau cycle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La phase de maturation folliculaire, qui débute dès le premier jour de la menstruation, dure en moyenne :",
+      "réponses": {
+        "A": "7 jours pour un cycle complet.",
+        "B": "14 jours sur un cycle de 28 jours.",
+        "C": "21 jours pour une maturation optimale de tous les follicules.",
+        "D": "28 jours jusqu'à la prochaine ovulation complète."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Durant la phase folliculaire, le follicule qui se détache de la cohorte et poursuit sa maturation jusqu'à l'exclusion de l'ovocyte est appelé :",
+      "réponses": {
+        "A": "Follicule dominant.",
+        "B": "Follicule éliminé non dominant.",
+        "C": "Follicule primaire inactif.",
+        "D": "Corps jaune mature et fonctionnel."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "L'ovulation correspond précisément à l'exclusion de :",
+      "réponses": {
+        "A": "L'ovule mature par le corps jaune résiduel.",
+        "B": "L'ovocyte II par le follicule de De Graaf.",
+        "C": "L'ovocyte I par le follicule primordial.",
+        "D": "Un globule polaire par l'ovaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "La phase lutéinique du cycle ovarien est principalement caractérisée par :",
+      "réponses": {
+        "A": "La maturation rapide de plusieurs follicules ovariens.",
+        "B": "La dégénérescence de l'endomètre utérin entier.",
+        "C": "L'expulsion de l'ovocyte par le follicule de De Graaf.",
+        "D": "La formation et la régression du corps jaune."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "S'il n'y a pas eu de fécondation, le corps jaune subit une dégénérescence pour donner plus tard :",
+      "réponses": {
+        "A": "Un nouveau follicule dominant.",
+        "B": "Un ovocyte II fécondable.",
+        "C": "Une formation kystique de l'ovaire.",
+        "D": "Un corps blanc."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : Les ovaires sont les gonades de la femme, au même titre que les testicules chez l'homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : Tous les ovocytes contenus dans les follicules primordiaux sont libérés lors de l'ovulation au cours de la vie reproductive de la femme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le cycle ovarien est composé de trois phases distinctes : la phase folliculaire, l'ovulation et la phase lutéale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La phase folliculaire débute le premier jour de la menstruation et dure en moyenne 14 jours sur un cycle de 28 jours.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Pendant la phase folliculaire, l'un des follicules primordiaux poursuivra sa maturation jusqu'au stade de follicule de De Graaf tandis que les autres sont éliminés.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : L'ovulation est l'exclusion de l'ovocyte II par le follicule de De Graaf au 14ème jour du cycle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : La phase lutéinique dure en moyenne 14 jours et est caractérisée par la formation et la régression du corps jaune.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : S'il n'y a pas eu de fécondation, le corps jaune se transforme en un ovule mature.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Chaque ovocyte est libéré suivant un cycle appelé cycle utérin.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La phase lutéinique est également appelée phase post-ovulatoire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Les ovaires sont les gonades, organes de la reproduction, chez la femme. Chaque petite fille nait avec, au niveau des ovaires, un stock de plusieurs centaines de milliers de .....A....., contenant chacun un ovocyte. Tous les 28 jours du cycle utérin, un ovocyte est libéré par l’un des deux ovaires, un processus appelé .....B...... Elle se fait suivant un cycle appelé .....C......",
+      "réponses": {
+        "A": "A: ovules matures, B: menstruation, C: cycle menstruel",
+        "B": "A: follicules primordiaux, B: ovulation, C: cycle ovarien",
+        "C": "A: corps jaunes, B: fécondation, C: cycle utérin",
+        "D": "A: ovocytes fécondés, B: nidation, C: cycle de De Graaf"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La phase folliculaire est la phase de maturation folliculaire. Elle débute dès le .....A..... de la menstruation et dure en moyenne .....B..... (sur un cycle de 28 jours). Un certain nombre de follicules primordiaux vont entrer en maturation jusqu’au stade de follicules tertiaires. L’un de ces follicules va se détacher de la cohorte et poursuivre sa maturation, atteignant le stade .....C......",
+      "réponses": {
+        "A": "A: dernier jour, B: 7 jours, C: corps jaune",
+        "B": "A: quatorzième jour, B: 28 jours, C: ovule mature",
+        "C": "A: premier jour, B: 14 jours, C: follicule de De Graaf",
+        "D": "A: jour de l'ovulation, B: 21 jours, C: follicule primaire"
+      },
+      "bonne réponse": "C"
+    }
+  }
+],
+{
+  "id": "SVT008_Q6",
+  "titre": "Quiz 6 : Hormones Féminines",
+  "questions": {
+    "question n°1": {
+      "question": "L'œstrogène et la progestérone sont deux hormones essentielles principalement sécrétées par :",
+      "reponses": {
+        "A": "Les glandes surrénales, situées au-dessus des reins.",
+        "B": "Les ovaires, organes reproducteurs féminins.",
+        "C": "L'hypophyse, une glande située à la base du cerveau.",
+        "D": "Le pancréas, un organe impliqué dans la digestion."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Vers l'âge de 11 ans, l'abondance d'œstrogène et de progestérone favorise des transformations physiques et physiologiques chez la fille, telles que :",
+      "reponses": {
+        "A": "Le développement des cordes vocales et l'apparition de la pilosité faciale.",
+        "B": "La formation de la poitrine et la première menstruation.",
+        "C": "L'augmentation de la masse musculaire et la diminution de la température corporelle.",
+        "D": "L'allongement des os et l'arrêt du développement des organes sexuels."
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "À partir de la puberté, l'œstrogène est produite en grande quantité pour assurer spécifiquement :",
+      "reponses": {
+        "A": "La diminution des contractions utérines et le renforcement des os.",
+        "B": "La stimulation de la sécrétion du glycogène dans l'utérus.",
+        "C": "Le cycle menstruel et le développement de l'appareil génital.",
+        "D": "L'augmentation constante de la température corporelle basale."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Les progestérones jouent un rôle crucial en renforçant l'action des œstrogènes sur l'utérus, en stimulant la sécrétion du glycogène, et en :",
+      "reponses": {
+        "A": "Provoquant des contractions utérines intenses et régulières.",
+        "B": "Diminuant la température corporelle de base.",
+        "C": "Favorisant la formation de la dentelle utérine.",
+        "D": "Inhibant le développement continu de l'appareil génital."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "Durant la phase folliculaire (0 à 14 jours) du cycle ovarien, la quantité d'œstrogène évolue de la manière suivante :",
+      "reponses": {
+        "A": "Elle reste très faible et stable tout au long de cette phase.",
+        "B": "Elle diminue lentement puis chute rapidement avant de remonter.",
+        "C": "Elle est initialement très faible, augmente lentement puis rapidement pour un maximum.",
+        "D": "Elle atteint sa valeur maximale dès le premier jour et diminue progressivement."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "Pendant la phase folliculaire (0 à 14 jours), la quantité de progestérone se caractérise par :",
+      "reponses": {
+        "A": "Une augmentation rapide suivie d'une chute brutale.",
+        "B": "Une valeur maximale constante du début à la fin de la phase.",
+        "C": "Une légère augmentation progressive avant l'ovulation.",
+        "D": "Le fait qu'elle reste très faible."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Durant la phase post-ovulatoire (14ème à 28ème jours), la quantité d'œstrogènes subit les variations suivantes :",
+      "reponses": {
+        "A": "Elle augmente très rapidement puis chute avec la progestérone.",
+        "B": "Elle reste constante à sa valeur maximale.",
+        "C": "Elle diminue, puis réaugmente peu avant de chuter.",
+        "D": "Elle est initialement très faible et augmente lentement."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "L'augmentation très rapide de la progestérone durant la phase post-ovulatoire est principalement due à sa production par :",
+      "reponses": {
+        "A": "Les follicules en maturation.",
+        "B": "Les ovaires directement.",
+        "C": "Les corps jaunes.",
+        "D": "L'hypophyse antérieure."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "La légère augmentation de la quantité d'œstrogènes observée pendant la phase post-ovulatoire s'explique par :",
+      "reponses": {
+        "A": "La sécrétion d'une grande quantité d'œstrogènes par les follicules restants.",
+        "B": "La production de ces hormones par les glandes surrénales.",
+        "C": "La sécrétion d'une faible quantité d'œstrogènes par le corps jaune.",
+        "D": "L'activation de l'hypophyse antérieure."
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "L'oestrogène et la progestérone sont deux hormones sécrétées par les ovaires pour le fonctionnement des organes sexuels primaires et secondaires.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Vers l'âge de 11 ans, l'abondance de ces hormones favorise l'apparition de la pilosité faciale chez la fille.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "À partir de la puberté, les progestérones assurent principalement le cycle menstruel et le développement de l'appareil génital.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "Les progestérones renforcent l'action des œstrogènes sur l'utérus, stimulent la sécrétion du glycogène, et favorisent la formation de la dentelle utérine.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "La production des œstrogènes et des progestérones suit le cycle ovarien.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°15": {
+      "question": "Durant la phase folliculaire (0 à 14 jours), la quantité de progestérone reste très faible tandis que l'œstrogène atteint sa valeur maximale.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "La quantité de progestérone augmente très rapidement pendant la phase post-ovulatoire et chute avec l'œstrogène.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "Les follicules sont les structures qui sécrètent la progestérone en grande quantité, tandis que les corps jaunes produisent l'œstrogène.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°18": {
+      "question": "L'oestrogène et la progestérone jouent également un rôle très important au début de la grossesse.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "Durant la phase post-ovulatoire, la quantité d'œstrogènes diminue, puis réaugmente peu avant de chuter.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "L'oestrogène et la progestérone sont deux hormones sécrétées par les ovaires. Vers l'âge de 11 ans, ces hormones sont produites en abondance pour favoriser la transformation physique, comme la formation de la .....A....., et physiologique, notamment la .....B....., permettant à la fille de passer à la .....C......",
+      "reponses": {
+        "A": "A: musculature, B: croissance des cheveux, C: vieillesse",
+        "B": "A: poitrine, B: première menstruation, C: puberté",
+        "C": "A: taille, B: diminution du poids, C: enfance",
+        "D": "A: silhouette, B: perte de densité osseuse, C: ménopause"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT008_Q7",
+  "titre": "Quiz 7 : Entraînement",
+  "questions": {
+    "question n°1": {
+      "question": "Pour un cycle menstruel de 32 jours (chez certaines femmes), la phase lutéinique dure :",
+      "reponses": {
+        "A": "14 jours",
+        "B": "15 jours",
+        "C": "16 jours",
+        "D": "18 jours"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°2": {
+      "question": "Pour un cycle menstruel de 32 jours, l'ovulation se produit généralement :",
+      "reponses": {
+        "A": "Le 14ᵉ jour",
+        "B": "Le 16ᵉ jour",
+        "C": "Le 18ᵉ jour",
+        "D": "28e jour"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°3": {
+      "question": "La FSH stimule :",
+      "reponses": {
+        "A": "La destruction des follicules",
+        "B": "L’épaississement de l’endomètre",
+        "C": "La croissance des follicules ovariens",
+        "D": "La chute hormonale"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "La LH est responsable de :",
+      "reponses": {
+        "A": "La menstruation",
+        "B": "L’ovulation",
+        "C": "La fécondation",
+        "D": "La régénération de l’endomètre"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Les œstrogènes sont sécrétés par :",
+      "reponses": {
+        "A": "Le corps jaune",
+        "B": "L'hypophyse",
+        "C": "Le placenta",
+        "D": "Les cellules folliculaires"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°6": {
+      "question": "La progestérone est principalement produite par :",
+      "reponses": {
+        "A": "L’ovaire en général",
+        "B": "L’ovule",
+        "C": "L’endomètre",
+        "D": "Le corps jaune"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "En absence de fécondation, le corps jaune :",
+      "reponses": {
+        "A": "Se transforme en follicule secondaire",
+        "B": "Régresse",
+        "C": "Se développe davantage",
+        "D": "Se transforme en ovule"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "L’hormone qui provoque l’épaississement de l’endomètre est :",
+      "reponses": {
+        "A": "LH",
+        "B": "HCG",
+        "C": "FSH",
+        "D": "Œstrogène"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°9": {
+      "question": "Les règles sont dues à :",
+      "reponses": {
+        "A": "Une augmentation de LH",
+        "B": "Une montée de progestérone",
+        "C": "Une chute de progestérone et d’œstrogènes",
+        "D": "Une fécondation ratée"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "Les gonades féminines sont :",
+      "reponses": {
+        "A": "Les ovaires",
+        "B": "L’utérus",
+        "C": "Les trompes de Fallope",
+        "D": "L’hypothalamus"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Le rôle principal de la progestérone est :",
+      "reponses": {
+        "A": "Stimuler la croissance des follicules",
+        "B": "Préparer l’utérus à une éventuelle grossesse",
+        "C": "Déclencher l’ovulation",
+        "D": "Réguler la FSH"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle hormone est produite par l’hypophyse ?",
+      "reponses": {
+        "A": "Progestérone",
+        "B": "LH",
+        "C": "Œstrogène",
+        "D": "Testostérone"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "Le cycle ovarien commence :",
+      "reponses": {
+        "A": "Le premier jour des règles",
+        "B": "Le jour de l’ovulation",
+        "C": "Le dernier jour du cycle",
+        "D": "Le jour où la FSH chute"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "L’absence d’ovulation peut être due à :",
+      "reponses": {
+        "A": "Trop d’œstrogènes",
+        "B": "Une chute de FSH",
+        "C": "Une absence de pic de LH",
+        "D": "Une forte activité utérine"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "Le pic de LH entraîne :",
+      "reponses": {
+        "A": "La fécondation",
+        "B": "Les menstruations",
+        "C": "L’ovulation",
+        "D": "La formation de la glaire cervicale"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°16": {
+      "question": "Après l’ovulation, l’ovaire forme :",
+      "reponses": {
+        "A": "Un follicule secondaire",
+        "B": "Un corps jaune",
+        "C": "Une glande utérine",
+        "D": "Une hormone LH"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°17": {
+      "question": "Chez la femme, les hormones sexuelles principales sont :",
+      "reponses": {
+        "A": "LH et HCG",
+        "B": "FSH et testostérone",
+        "C": "Œstrogènes et progestérone",
+        "D": "LH et FSH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°18": {
+      "question": "La fécondation a lieu généralement :",
+      "reponses": {
+        "A": "Dans l’utérus",
+        "B": "Dans les trompes de Fallope",
+        "C": "Dans le vagin",
+        "D": "Dans l’ovaire"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°19": {
+      "question": "Une baisse soudaine des œstrogènes et de la progestérone entraîne :",
+      "reponses": {
+        "A": "Une grossesse",
+        "B": "Une ovulation",
+        "C": "Les règles",
+        "D": "Une montée de FSH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°20": {
+      "question": "Le rôle des gonades est :",
+      "reponses": {
+        "A": "La production de globules blancs",
+        "B": "La production de gamètes et d’hormones sexuelles",
+        "C": "La destruction des cellules mortes",
+        "D": "La régulation du sommeil"
+      },
+      "bonne_reponse": "B"
+    }
+  }
+},
+{
+  "id": "SVT008_Q8",
+  "titre": "Quiz 8 : Perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "Le cycle menstruel moyen dure :",
+      "reponses": {
+        "A": "14 jours",
+        "B": "21 jours",
+        "C": "28 jours",
+        "D": "35 jours"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°2": {
+      "question": "L’ovulation se produit généralement :",
+      "reponses": {
+        "A": "Le 7ᵉ jour",
+        "B": "Le 14ᵉ jour",
+        "C": "Le 21ᵉ jour",
+        "D": "Le dernier jour du cycle"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "La FSH stimule :",
+      "reponses": {
+        "A": "La destruction des follicules",
+        "B": "L’épaississement de l’endomètre",
+        "C": "La croissance des follicules ovariens",
+        "D": "La chute hormonale"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "La LH est responsable de :",
+      "reponses": {
+        "A": "La menstruation",
+        "B": "L’ovulation",
+        "C": "La fécondation",
+        "D": "La régénération de l’endomètre"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°5": {
+      "question": "Les œstrogènes sont sécrétés par :",
+      "reponses": {
+        "A": "Le corps jaune",
+        "B": "Les cellules folliculaires",
+        "C": "Le placenta",
+        "D": "L’hypophyse"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "La progestérone est principalement produite par :",
+      "reponses": {
+        "A": "L’ovaire en général",
+        "B": "Le corps jaune",
+        "C": "L’endomètre",
+        "D": "L’ovule"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°7": {
+      "question": "En absence de fécondation, le corps jaune :",
+      "reponses": {
+        "A": "Se transforme en follicule secondaire",
+        "B": "Régresse",
+        "C": "Se développe davantage",
+        "D": "Se transforme en ovule"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°8": {
+      "question": "L’hormone qui provoque l’épaississement de l’endomètre est :",
+      "reponses": {
+        "A": "LH",
+        "B": "Œstrogène",
+        "C": "FSH",
+        "D": "HCG"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°9": {
+      "question": "Les règles sont dues à :",
+      "reponses": {
+        "A": "Une augmentation de LH",
+        "B": "Une montée de progestérone",
+        "C": "Une chute de progestérone et d’œstrogènes",
+        "D": "Une fécondation ratée"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°10": {
+      "question": "Les gonades féminines sont :",
+      "reponses": {
+        "A": "Les ovaires",
+        "B": "L’utérus",
+        "C": "Les trompes de Fallope",
+        "D": "L’hypothalamus"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "En l’absence de fécondation, le corps jaune :",
+      "reponses": {
+        "A": "Se transforme en placenta",
+        "B": "Produit davantage de FSH",
+        "C": "Se divise en deux",
+        "D": "Régresse"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°12": {
+      "question": "La baisse de quelle hormone provoque les règles ?",
+      "reponses": {
+        "A": "FSH",
+        "B": "LH",
+        "C": "Progestérone",
+        "D": "HCG"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle hormone stimule la sécrétion de LH et FSH ?",
+      "reponses": {
+        "A": "HCG",
+        "B": "GnRH",
+        "C": "Œstrogène",
+        "D": "Progestérone"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Les œstrogènes sont produits par :",
+      "reponses": {
+        "A": "Le corps jaune",
+        "B": "Le follicule en croissance",
+        "C": "L’utérus",
+        "D": "L’ovule"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "Quand commence la phase lutéale du cycle ovarien ?",
+      "reponses": {
+        "A": "Au jour 1",
+        "B": "Après la fécondation",
+        "C": "Avant le pic de LH",
+        "D": "Juste après l’ovulation"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°16": {
+      "question": "Une forte concentration d’œstrogènes en phase folliculaire a pour effet :",
+      "reponses": {
+        "A": "D’inhiber la FSH",
+        "B": "De déclencher les règles",
+        "C": "D’induire un pic de LH",
+        "D": "De stimuler le corps jaune"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°17": {
+      "question": "Le cycle hormonal est contrôlé principalement par :",
+      "reponses": {
+        "A": "L’hypophyse et les ovaires",
+        "B": "L’utérus et l’hypothalamus",
+        "C": "Le placenta et l’ovaire",
+        "D": "L’intestin et l’hypophyse"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "La progestérone est essentielle pour :",
+      "reponses": {
+        "A": "Déclencher l’ovulation",
+        "B": "Éliminer les règles",
+        "C": "Initier la phase folliculaire",
+        "D": "Maintenir l’endomètre"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°19": {
+      "question": "LH signifie :",
+      "reponses": {
+        "A": "Luteinizing Hormone",
+        "B": "Lymphatic Hormone",
+        "C": "Long Hormone",
+        "D": "Liver Hormone"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Le rôle de la FSH est aussi présent :",
+      "reponses": {
+        "A": "Chez l’homme uniquement",
+        "B": "Chez la femme uniquement",
+        "C": "Chez l’homme et la femme",
+        "D": "Avant la puberté uniquement"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°21": {
+      "question": "Le rétrocontrôle positif exercé par les œstrogènes provoque :",
+      "reponses": {
+        "A": "Une montée de progestérone",
+        "B": "Un pic de FSH",
+        "C": "Un pic de LH",
+        "D": "Une baisse de GnRH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°22": {
+      "question": "Durant la phase lutéale, la progestérone :",
+      "reponses": {
+        "A": "Est produite par le follicule mûr",
+        "B": "Est produite par le corps jaune",
+        "C": "Est produite par l’hypophyse",
+        "D": "Est absente"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°23": {
+      "question": "Le complexe hypothalamo-hypophysaire contrôle la reproduction via :",
+      "reponses": {
+        "A": "LH et FSH",
+        "B": "Progestérone",
+        "C": "Œstrogène uniquement",
+        "D": "L’hormone de croissance"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°24": {
+      "question": "Que fait la FSH durant les 7 premiers jours du cycle ?",
+      "reponses": {
+        "A": "Inhibe la croissance folliculaire",
+        "B": "Provoque les règles",
+        "C": "Stimule le développement d’un follicule",
+        "D": "Active la lutéinisation"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°25": {
+      "question": "L’ovulation correspond à :",
+      "reponses": {
+        "A": "L’élimination du follicule",
+        "B": "L’expulsion de l’endomètre",
+        "C": "La libération de l’ovocyte par le follicule mûr",
+        "D": "La montée de la FSH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°26": {
+      "question": "La phase proliférative de l’endomètre est stimulée par :",
+      "reponses": {
+        "A": "LH",
+        "B": "FSH",
+        "C": "Progestérone",
+        "D": "Œstrogènes"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°27": {
+      "question": "Quelle hormone est responsable du déclenchement de la maturation folliculaire ?",
+      "reponses": {
+        "A": "LH",
+        "B": "FSH",
+        "C": "HCG",
+        "D": "Progestérone"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°28": {
+      "question": "La durée de la phase lutéale est en moyenne :",
+      "reponses": {
+        "A": "7 jours",
+        "B": "10 jours",
+        "C": "14 jours",
+        "D": "21 jours"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°29": {
+      "question": "Le rétrocontrôle négatif de la progestérone concerne :",
+      "reponses": {
+        "A": "LH uniquement",
+        "B": "FSH uniquement",
+        "C": "LH et FSH",
+        "D": "Œstrogènes uniquement"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°30": {
+      "question": "Après la fécondation, le corps jaune :",
+      "reponses": {
+        "A": "Disparaît",
+        "B": "Est détruit par LH",
+        "C": "Est maintenu par HCG",
+        "D": "Produit LH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°31": {
+      "question": "Un taux élevé de progestérone en phase lutéale empêche :",
+      "reponses": {
+        "A": "Le développement de l’endomètre",
+        "B": "Le pic de LH",
+        "C": "La croissance folliculaire",
+        "D": "La baisse de FSH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°32": {
+      "question": "La GnRH est sécrétée par :",
+      "reponses": {
+        "A": "L’hypophyse",
+        "B": "L’utérus",
+        "C": "L’hypothalamus",
+        "D": "L’ovaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°33": {
+      "question": "L’inhibition de la sécrétion de LH peut être causée par :",
+      "reponses": {
+        "A": "Une faible progestérone",
+        "B": "Une faible FSH",
+        "C": "Une progestérone élevée",
+        "D": "Un pic d’œstrogènes"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°34": {
+      "question": "En l'absence d’hormones ovariennes, l’endomètre :",
+      "reponses": {
+        "A": "Continue à s’épaissir",
+        "B": "Est détruit",
+        "C": "Se contracte",
+        "D": "Se vascularise davantage"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°35": {
+      "question": "Le corps jaune se forme à partir :",
+      "reponses": {
+        "A": "De l’hypophyse",
+        "B": "Du follicule vidé",
+        "C": "De la zone pellucide",
+        "D": "De l’ovule fécondé"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°36": {
+      "question": "La montée de FSH en début de cycle est permise par :",
+      "reponses": {
+        "A": "Une chute d’œstrogènes et progestérone",
+        "B": "Un pic de LH",
+        "C": "Une forte concentration de GnRH",
+        "D": "Une hausse de HCG"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°37": {
+      "question": "La LH atteint son pic en réponse à :",
+      "reponses": {
+        "A": "Un taux bas de progestérone",
+        "B": "Une sécrétion constante de FSH",
+        "C": "Une forte concentration d’œstrogènes",
+        "D": "Une baisse de GnRH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°38": {
+      "question": "Durant le cycle ovarien, la phase folliculaire est caractérisée par :",
+      "reponses": {
+        "A": "Une dominance de progestérone",
+        "B": "Une dominance d’œstrogènes",
+        "C": "Une stagnation hormonale",
+        "D": "Une sécrétion d’HCG"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°39": {
+      "question": "L’injection de progestérone exogène en phase folliculaire :",
+      "reponses": {
+        "A": "Provoque l’ovulation",
+        "B": "Inhibe le développement folliculaire",
+        "C": "Stimule la sécrétion de LH",
+        "D": "Favorise les menstruations"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°40": {
+      "question": "Une mutation sur les récepteurs de LH peut entraîner :",
+      "reponses": {
+        "A": "Une fertilité accrue",
+        "B": "Une absence d’ovulation",
+        "C": "Une menstruation prolongée",
+        "D": "Une puberté avancée"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°41": {
+      "question": "Une FSH trop élevée en phase lutéale peut indiquer :",
+      "reponses": {
+        "A": "Une grossesse récente",
+        "B": "Une ménopause",
+        "C": "Une ovulation réussie",
+        "D": "Une hyperactivité utérine"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°42": {
+      "question": "Le rôle de l’oestradiol est double car il exerce :",
+      "reponses": {
+        "A": "Un effet inhibiteur constant",
+        "B": "Un effet stimulateur uniquement",
+        "C": "Un rétrocontrôle positif puis négatif",
+        "D": "Un effet sur la FSH uniquement"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°43": {
+      "question": "La maturation du follicule de De Graaf est déclenchée par :",
+      "reponses": {
+        "A": "LH",
+        "B": "FSH",
+        "C": "Œstrogène",
+        "D": "Progestérone"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°44": {
+      "question": "Quelle combinaison est correcte pour déclencher l’ovulation ?",
+      "reponses": {
+        "A": "FSH basse + LH élevée",
+        "B": "LH élevée + œstrogènes élevés",
+        "C": "Progestérone élevée + FSH élevée",
+        "D": "HCG élevée + LH basse"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°45": {
+      "question": "Une administration continue de GnRH provoque :",
+      "reponses": {
+        "A": "Une ovulation constante",
+        "B": "Une inhibition de LH et FSH",
+        "C": "Une hyperstimulation ovarienne",
+        "D": "Une sécrétion de progestérone"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°46": {
+      "question": "Le cycle ovarien est divisé en :",
+      "reponses": {
+        "A": "Deux phases : folliculaire et lutéale",
+        "B": "Trois phases : menstruelle, ovulatoire, lutéale",
+        "C": "Deux phases : lutéale et menstruelle",
+        "D": "Une seule phase"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°47": {
+      "question": "La sécrétion de GnRH est pulsatile afin de :",
+      "reponses": {
+        "A": "Maintenir un niveau constant d’œstrogènes",
+        "B": "Empêcher l’ovulation",
+        "C": "Stimuler correctement LH et FSH",
+        "D": "Maintenir le corps jaune"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°48": {
+      "question": "Chez la femme, une surproduction de LH en dehors du cycle peut entraîner :",
+      "reponses": {
+        "A": "Une grossesse",
+        "B": "Un cycle régulier",
+        "C": "Des troubles de l’ovulation",
+        "D": "Une ménopause précoce"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°49": {
+      "question": "Un endomètre trop mince peut être lié à un déficit en :",
+      "reponses": {
+        "A": "LH",
+        "B": "Progestérone",
+        "C": "Œstrogènes",
+        "D": "FSH"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°50": {
+      "question": "En cas de grossesse, le maintien du corps jaune est assuré par :",
+      "reponses": {
+        "A": "Progestérone",
+        "B": "FSH",
+        "C": "HCG",
+        "D": "LH"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+} 
+]

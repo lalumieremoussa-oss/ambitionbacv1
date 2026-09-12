@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour l'art – Exaltation des sentiments, évasion & rire (Série 2) – Trouve l'intrus",
+    "id": "FR029_Q2_APA2",
+    "questions": {
+        "question n°1": {
+            "question": "Poème : Minerai noir de René Depestre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un poème dédié à la beauté de la femme aimée",
+                "B": "Contient le vers « Ton délice à chaque instant me recrée »",
+                "C": "Propose une vision érotique et spirituelle de l'aimée",
+                "D": "Fustige l'avarice et l'obsession maladive de l'argent"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°2": {
+            "question": "Œuvre : Demain j'arrête de Gilles Legardinier. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose un divertissement sentimental et humoristique",
+                "B": "Est une comédie romantique sur la vie parisienne",
+                "C": "Dénonce le travail des enfants dans les manufactures",
+                "D": "Met en scène Julie obsédée par son mystérieux voisin"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°3": {
+            "question": "Œuvre : Trois moments dans la vie et l'amour d'une femme d'Agnès Echène. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la trahison des idéaux postcoloniaux",
+                "B": "Montre comment l'amour se transforme avec l'âge",
+                "C": "Est une pièce de théâtre sur les sentiments féminins",
+                "D": "Célèbre l'évolution des passions au fil du temps"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°4": {
+            "question": "Œuvre : Le Sublime sacrifice de François d'Assise N'Dah. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce les douleurs physiques de l'excision rituelle",
+                "B": "Rend hommage à la beauté féminine à travers Taloua Klaman",
+                "C": "Célèbre l'amour comme source de plénitude",
+                "D": "Est un roman sur la passion amoureuse et l'admiration"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°5": {
+            "question": "Œuvre : La Planète des singes de Pierre Boulle. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un roman de science-fiction sur un monde inversé",
+                "B": "Met en scène des singes qui dominent les humains",
+                "C": "Propose une évasion hors du réel et du quotidien",
+                "D": "Dénonce la division de l'Afrique par les puissances coloniales"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°6": {
+            "question": "Œuvre : Les Fleurs du Mal de Charles Baudelaire. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose une poésie de la modernité et du spleen",
+                "B": "Invite à un voyage spirituel et esthétique",
+                "C": "Explore le mal et la beauté sans visée morale",
+                "D": "Est un poème didactique sur la colonisation et ses abus"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°7": {
+            "question": "Œuvre : Le Roman comique de Paul Scarron. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un roman burlesque plein d'humour et de fantaisie",
+                "B": "Met en scène des comédiens et des aventures rocambolesques",
+                "C": "Critique les dérives du pouvoir dictatorial en Afrique",
+                "D": "Est une œuvre de divertissement pur"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "Auteur : Bertolt Brecht (« L'affaire du théâtre est de divertir »). – Trouve l'intrus",
+            "reponses": {
+                "A": "La comédie et l'ironie sont des moyens de plaire",
+                "B": "Le dramaturge doit instruire et éveiller les consciences",
+                "C": "Le divertissement est la fonction première du théâtre",
+                "D": "Le rire et le plaisir sont essentiels à la scène"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°9": {
+            "question": "Œuvre : On se chamaille pour un siège de Hyacinthe Kacou. – Trouve l'intrus",
+            "reponses": {
+                "A": "Fait rire par ses situations comiques et absurdes",
+                "B": "Est une comédie burlesque ivoirienne humoristique",
+                "C": "Dénonce la trahison des idéaux postcoloniaux africains",
+                "D": "Met en scène des personnages ridicules et querelleurs"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°10": {
+            "question": "Auteur : René Depestre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un poète lyrique et engagé dans l'expression des sentiments",
+                "B": "A écrit Minerai noir sur la beauté féminine",
+                "C": "Est un poète haïtien du XXe siècle",
+                "D": "A dénoncé les dérives du pouvoir militaire en Afrique"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°11": {
+            "question": "Auteur : Gilles Legardinier. – Trouve l'intrus",
+            "reponses": {
+                "A": "A écrit Demain j'arrête, une comédie romantique",
+                "B": "A dénoncé les violences culturelles du patriarcat",
+                "C": "Propose une littérature de divertissement et d'humour",
+                "D": "Est un écrivain français contemporain populaire"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°12": {
+            "question": "Auteur : Pierre Boulle. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose une réflexion sur l'humanité et l'aliénation",
+                "B": "A écrit La Planète des singes sur un monde inversé",
+                "C": "A dénoncé l'exploitation des enfants dans les usines",
+                "D": "Est un écrivain français du XXe siècle"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°13": {
+            "question": "Argument : La littérature comme source d'évasion. – Trouve l'intrus",
+            "reponses": {
+                "A": "Les mondes imaginaires sont une alternative au réel",
+                "B": "La littérature doit dénoncer les injustices sociales",
+                "C": "Les récits permettent de voyager dans l'imaginaire",
+                "D": "L'évasion libère des contraintes du quotidien"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°14": {
+            "question": "Argument : Le rire comme fonction de la littérature. – Trouve l'intrus",
+            "reponses": {
+                "A": "Le théâtre doit être un prêche moralisateur",
+                "B": "L'humour permet de divertir le public",
+                "C": "Les œuvres burlesques cherchent à faire rire",
+                "D": "Le rire est une finalité légitime de l'art dramatique"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°15": {
+            "question": "Œuvre : Demain j'arrête de Gilles Legardinier. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose un divertissement léger et romantique",
+                "B": "Est un roman politique sur la dictature en Afrique",
+                "C": "Met en scène une femme fascinée par son voisin",
+                "D": "Célèbre l'amour et l'humour dans le quotidien"
+            },
+            "bonne reponse": "B"
+        }
+    }
+}

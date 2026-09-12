@@ -1,0 +1,186 @@
+{
+  "title": "Quiz 3 : De la Fécondation à la Nidation",
+  "id": "SVT008_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Après la fécondation, où la cellule-œuf (zygote) chemine-t-elle en direction de l'utérus ?",
+      "réponses": {
+        "A": "Dans la trompe de Fallope.",
+        "B": "Dans l'ovaire.",
+        "C": "Dans le vagin.",
+        "D": "Dans le col de l'utérus."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Comment sont nommées les nombreuses petites cellules formées par les divisions mitotiques successives de la cellule-œuf ?",
+      "réponses": {
+        "A": "Gamètes.",
+        "B": "Ovocytes",
+        "C": "Zygotes.",
+        "D": "Blastomères."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Vers le 3ème jour, la masse compacte de cellules issue de la division de la cellule-œuf porte le nom de :",
+      "réponses": {
+        "A": "Blastocyste.",
+        "B": "Trophoblaste.",
+        "C": "Morula.",
+        "D": "Bouton embryonnaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La morula, une fois arrivée dans la cavité utérine, se creuse d’une cavité pour former :",
+      "réponses": {
+        "A": "Un embryon.",
+        "B": "Un blastocyste.",
+        "C": "Un zygote.",
+        "D": "Une gastrula."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle structure du blastocyste est une couche externe ?",
+      "réponses": {
+        "A": "Le bouton embryonnaire.",
+        "B": "La masse cellulaire interne.",
+        "C": "Le trophoblaste.",
+        "D": "L'endomètre."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "La nidation, processus de fixation du blastocyste, se produit dans :",
+      "réponses": {
+        "A": "Les ovaires.",
+        "B": "La trompe de Fallope.",
+        "C": "La muqueuse utérine.",
+        "D": "La crosse aortique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel élément du blastocyste donnera naissance à l'embryon ?",
+      "réponses": {
+        "A": "Le trophoblaste.",
+        "B": "Le bouton embryonnaire.",
+        "C": "Les cellules utérines.",
+        "D": "La cavité du blastocyste."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Le placenta est un organe d'échanges qui assure notamment :",
+      "réponses": {
+        "A": "La production d'hormones de croissance fœtale.",
+        "B": "La filtration du sang maternel pour le purifier.",
+        "C": "La transmission des caractères héréditaires.",
+        "D": "L'élimination des déchets du fœtus."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle hormone est spécifiquement sécrétée par le placenta durant la période embryonnaire pour stimuler les ovaires ?",
+      "réponses": {
+        "A": "La progestérone.",
+        "B": "Les œstrogènes.",
+        "C": "L'HCG.",
+        "D": "L'ocytocine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Vers la cinquième semaine de grossesse, le placenta prend le relais en sécrétant directement de grandes quantités de :",
+      "réponses": {
+        "A": "Progestérone et œstrogènes.",
+        "B": "HCG et ocytocine.",
+        "C": "Insuline et glucagon.",
+        "D": "Adrénaline et noradrénaline."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : La cellule-œuf subit des divisions mitotiques successives pendant son cheminement dans la trompe de Fallope.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La morula est une masse compacte de blastomères formée vers le 3ème jour après la fécondation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Le blastocyste contient une masse interne de cellules appelée bouton embryonnaire et une couche externe appelée trophoblaste.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : La nidation a lieu environ 3 à 6 jours après la fécondation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Les cellules du trophoblaste s'associent aux cellules utérines pour former le placenta.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Le placenta assure uniquement le transfert d'oxygène et de nutriments, sans production d'hormones.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : L'hormone HCG stimule directement l'endomètre pour le maintenir épais et vascularisé.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La progestérone et les œstrogènes produites par les ovaires, puis par le placenta, sont indispensables au maintien de la grossesse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : L'endomètre doit rester épais et vascularisé pour le bon déroulement de la grossesse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : Le placenta devient une glande hormonale majeure de la grossesse dès la fécondation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "title": "Quiz 1",
+  "id": "PH003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur le thème <<relation avec autrui>>. Quelle définition convient le mieux à la notion de liberté dans la perspective de Hobbes ?",
+      "réponses": {
+        "A": "La liberté est l’absence totale de toute contrainte, même sociale.",
+        "B": "La liberté est la capacité à se soumettre volontairement à l’autorité.",
+        "C": "La liberté est le pouvoir d’agir selon sa volonté tant qu’aucune force ne s’y oppose.",
+        "D": "La liberté est uniquement spirituelle, elle ne dépend d’aucune loi humaine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Selon Sartre, qu’est-ce qui définit l’homme en tant qu’être libre ?",
+      "réponses": {
+        "A": "L’homme est libre dans la mesure où il se conforme aux normes sociales.",
+        "B": "L’homme est libre parce que ses instincts sont contrôlables par la raison.",
+        "C": "L’homme est libre dès lors qu’il vit sans les autres, dans l’isolation.",
+        "D": "L’homme est libre parce qu’il est condamné à choisir, même contre sa volonté."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Dans une relation avec autrui, qu’est-ce qui met en péril la liberté individuelle selon Hegel ?",
+      "réponses": {
+        "A": "Le désir de plaire à autrui plus que la volonté d’exister.",
+        "B": "Le besoin de reconnaissance réciproque qui entraîne une lutte de domination.",
+        "C": "Le respect mutuel entre consciences qui annule l’indépendance.",
+        "D": "L’oubli de soi au profit de la fusion dans une conscience collective."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "À quel courant de pensée Hobbes est-il généralement associé ?",
+      "réponses": {
+        "A": "Matérialisme et contractualisme politique",
+        "B": "Existentialisme religieux",
+        "C": "Idéalisme transcendantal kantien",
+        "D": "Humanisme existentialiste"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Jean-Paul Sartre appartient au courant :",
+      "réponses": {
+        "A": "Existentialisme athée",
+        "B": "Déterminisme rationaliste",
+        "C": "Structuralisme historique",
+        "D": "Stoïcisme moderne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Hegel, dans sa dialectique du maître et de l’esclave, s’inscrit dans une logique :",
+      "réponses": {
+        "A": "Idéaliste dialectique",
+        "B": "Relativiste pragmatique",
+        "C": "Néo-thomiste personnalisante",
+        "D": "Matérialiste empirique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quel argument justifie que la présence d’autrui soit une menace à ma liberté ?",
+      "réponses": {
+        "A": "Parce qu’autrui cherche toujours à faire valoir ses droits sur moi.",
+        "B": "Parce qu’il impose sa volonté et limite mon champ d’action.",
+        "C": "Parce qu’il me fait prendre conscience de mes responsabilités.",
+        "D": "Parce qu’il me juge uniquement sur mes résultats visibles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Pourquoi, selon Sartre, autrui peut-être « l’enfer » ?",
+      "réponses": {
+        "A": "Parce que son absence nous rend égoïstes.",
+        "B": "Parce qu’il fait obstacle à notre vie sociale.",
+        "C": "Parce que son regard nous prive de notre liberté intérieure.",
+        "D": "Parce qu’il refuse toute coopération avec nous."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Pourquoi Hegel pense-t-il que la reconnaissance d’autrui aliène la liberté ?",
+      "réponses": {
+        "A": "Parce que la reconnaissance est impossible sans amour réciproque.",
+        "B": "Parce que l’homme est incapable de se reconnaître lui-même.",
+        "C": "Parce que cette reconnaissance passe par une lutte où l’un des deux se soumet.",
+        "D": "Parce que seul le travail rend libre, pas la reconnaissance."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle conséquence découle de la \"guerre de tous contre tous\" chez Hobbes ?",
+      "réponses": {
+        "A": "La nécessité d’un droit naturel inconditionnel.",
+        "B": "La supériorité du collectif sur l’individu.",
+        "C": "La mise en place d’un pouvoir souverain garant de la paix.",
+        "D": "L’établissement d’une démocratie égalitaire spontanée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "En quoi le regard d’autrui provoque-t-il la honte selon Sartre ?",
+      "réponses": {
+        "A": "Parce qu’il nous révèle ce que nous avons de meilleur.",
+        "B": "Parce qu’il nous réduit à un objet, nous ôtant notre subjectivité.",
+        "C": "Parce qu’il est neutre et ne juge pas nos actes.",
+        "D": "Parce qu’il nous aide à grandir moralement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Dans la dialectique du maître et de l’esclave, qui est réellement libre à la fin ?",
+      "réponses": {
+        "A": "Aucun, car tous deux sont dépendants.",
+        "B": "Le maître, qui impose sa volonté sans contrainte.",
+        "C": "L’esclave, car il transforme le monde par le travail et s’émancipe.",
+        "D": "Les deux, puisqu’ils finissent par fusionner dans une conscience commune."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "« L’homme est un loup pour l’homme » signifie :",
+      "réponses": {
+        "A": "Que l’homme est naturellement sociable mais violent s’il est frustré.",
+        "B": "Que l’homme peut être cruel uniquement s’il est éduqué ainsi.",
+        "C": "Que l’homme est naturellement un danger pour autrui en l’absence de loi.",
+        "D": "Que l’homme est semblable à l’animal quand il suit sa morale intérieure."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "« L’enfer, c’est les autres » (Sartre) signifie :",
+      "réponses": {
+        "A": "Le regard d’autrui nous prive de notre liberté et nous juge.",
+        "B": "Les autres sont des obstacles matériels à nos projets.",
+        "C": "L’homme est responsable des souffrances des autres.",
+        "D": "Autrui est la cause de notre bonheur comme de notre malheur."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "« Toute conscience poursuit la mort de l’autre » (Hegel) veut dire :",
+      "réponses": {
+        "A": "Que toute conscience est vouée à la destruction dans l’histoire.",
+        "B": "Que l’homme cherche instinctivement à dominer ses semblables.",
+        "C": "Que la reconnaissance passe par une lutte pour exister en tant que sujet libre.",
+        "D": "Que toute liberté doit se construire sans autre conscience en face."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Que signifie concrètement : « La honte est honte de soi » selon Sartre ?",
+      "réponses": {
+        "A": "C’est la reconnaissance de soi comme objet vu par un autre.",
+        "B": "C’est l’expression d’une culpabilité liée à la morale collective.",
+        "C": "C’est le remords que l’on ressent quand on blesse quelqu’un.",
+        "D": "C’est un mécanisme de défense contre l’humiliation sociale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Pourquoi la phrase « l’homme est un loup pour l’homme » justifie-t-elle l’État chez Hobbes ?",
+      "réponses": {
+        "A": "Car l’État favorise la liberté en supprimant l’instinct animal.",
+        "B": "Car seul un pouvoir absolu peut contenir la violence humaine.",
+        "C": "Car l’homme doit suivre la loi divine pour être libre.",
+        "D": "Car l’État remplace l’agressivité par l’égalité des chances."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Comment comprendre : « Toute conscience poursuit la mort de l’autre » ?",
+      "réponses": {
+        "A": "Que pour être reconnue, une conscience doit vaincre l’autre dans une lutte symbolique.",
+        "B": "Que l’homme est naturellement destructeur par instinct biologique.",
+        "C": "Que l’homme refuse de coopérer dans la sphère politique.",
+        "D": "Que toute liberté est possible uniquement dans la solitude absolue."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Le simple regard d’autrui est souvent une entrave à notre liberté.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Fait naître en moi, un sentiment de honte et de culpabilité intense tel que je suis vu en train d'accomplir un acte immoral. Jean Jacques Rousseau fait cette remarque lorsqu'il affirme: «suis cet être-là que l’autre regarde et juge. »",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

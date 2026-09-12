@@ -1,0 +1,196 @@
+{
+  "title": "Quiz 3",
+  "id": "SVT007_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la conséquence sur la fréquence cardiaque d'une stimulation du bout central des nerfs sino-aortiques ?",
+      "réponses": {
+        "A": "Une augmentation.",
+        "B": "Une diminution.",
+        "C": "Aucune modification.",
+        "D": "Une fluctuation irrégulière."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est l'effet sur la fréquence cardiaque d'une ligature en haut du sinus de la carotide qui bloque la circulation sanguine ?",
+      "réponses": {
+        "A": "Une augmentation.",
+        "B": "Une diminution.",
+        "C": "Aucune modification.",
+        "D": "Une tachycardie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Que provoque une ligature au niveau de la carotide juste en dessous du sinus, empêchant le sang d'arriver dans le sinus carotidien ?",
+      "réponses": {
+        "A": "Une diminution de la fréquence cardiaque.",
+        "B": "Une bradycardie.",
+        "C": "Aucune modification de la fréquence cardiaque.",
+        "D": "Une augmentation de la fréquence cardiaque."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "La ligature du haut du sinus carotidien entraîne une accélération du rythme cardiaque (tachycardie).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Le blocus du sang en dessous des sinus carotidiens provoque une diminution de la pression artérielle (hypotension).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "La stimulation des bouts centraux des nerfs sino-aortiques entraîne l'inhibition de quels centres nerveux ?",
+      "réponses": {
+        "A": "Les centres cardio-modérateurs.",
+        "B": "Les centres cardio-accélérateurs.",
+        "C": "Les centres respiratoires.",
+        "D": "Les centres digestifs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "La stimulation des bouts centraux des nerfs sino-aortiques entraîne l'activation de quels centres nerveux ?",
+      "réponses": {
+        "A": "Les centres cardio-modérateurs.",
+        "B": "Les centres cardio-accélérateurs",
+        "C": "Les centres nerveux autonomes.",
+        "D": "Les centres hypothalamiques."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quel type d'influx les centres cardio-modérateurs émettent-ils pour agir sur le cœur ?",
+      "réponses": {
+        "A": "Des influx accélérateurs.",
+        "B": "Des influx excitateurs.",
+        "C": "Des influx modérateurs.",
+        "D": "Des influx inhibiteurs directs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Les influx modérateurs des centres cardio-modérateurs agissent sur le cœur par l'intermédiaire des nerfs orthosympathiques.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La stimulation des bouts centraux des nerfs sino-aortiques entraîne l'inhibition des centres cardio-.....A..... et l'activation des centres cardio-.....B...... Ces derniers émettent des influx modérateurs qui agissent sur le cœur par l'intermédiaire des nerfs .....C....., d'où le ralentissement du rythme cardiaque.",
+      "réponses": {
+        "A": "A: modérateurs, B: accélérateurs, C: orthosympathiques",
+        "B": "A: accélérateurs, B: modérateurs, C: orthosympathiques",
+        "C": "A: accélérateurs, B: accélérateurs, C: sympathiques",
+        "D": "A: accélérateurs, B: modérateurs, C: parasympathiques"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "La ligature du haut du sinus carotidien provoque l'hypertension. Quels récepteurs cela stimule-t-il dans le sinus carotidien ?",
+      "réponses": {
+        "A": "Les chémorécepteurs.",
+        "B": "Les thermorécepteurs.",
+        "C": "Les tensiorécepteurs.",
+        "D": "Les mécanorécepteurs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Lorsque le nerf de Héring est excité par les tensiorécepteurs, quel message nerveux envoie-t-il aux centres nerveux ?",
+      "réponses": {
+        "A": "Pour activer les centres cardio-accélérateurs.",
+        "B": "Pour inhiber les centres cardio-modérateurs.",
+        "C": "Pour inhiber les centres cardio-accélérateurs et activer les centres cardio-modérateurs.",
+        "D": "Pour accélérer le rythme cardiaque directement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Dans le cas de l'hypotension due au blocus du sang en dessous des sinus carotidiens, que se passe-t-il avec les tensiorécepteurs ?",
+      "réponses": {
+        "A": "Ils sont fortement stimulés.",
+        "B": "Ils ne sont pas stimulés.",
+        "C": "Ils envoient des messages accélérateurs.",
+        "D": "Ils provoquent l'activation du nerf de Héring."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "L'hypotension active les tensiorécepteurs du sinus carotidien.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Le nerf de Héring est au repos lorsque le centre cardio-modérateur est inhibé et le centre cardio-accélérateur de la moelle épinière est activé.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Le ralentissement du rythme cardiaque dû à la stimulation du bout central des nerfs sino-aortiques est une conséquence de l'action de quels nerfs sur le cœur ?",
+      "réponses": {
+        "A": "Les nerfs orthosympathiques.",
+        "B": "Les nerfs pneumogastriques (ou parasympathiques).",
+        "C": "Les nerfs spinaux.",
+        "D": "Les nerfs sensitifs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Dans le cas de l'hypotension, quel nerf envoie un message nerveux pour accélérer le cœur ?",
+      "réponses": {
+        "A": "Le nerf de Héring.",
+        "B": "Le nerf vague.",
+        "C": "Le nerf parasympathique.",
+        "D": "Le nerf orthosympathique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Le blocus du sang en dessous des sinus carotidiens entraîne la tachycardie car il provoque :",
+      "réponses": {
+        "A": "Une hypertension.",
+        "B": "Une hypotension.",
+        "C": "Une pression normale.",
+        "D": "Une vasodilatation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "La ligature du haut du sinus carotidien entraîne la bradycardie car elle provoque l'.....A...... Celle-ci stimule les .....B..... situés dans le sinus carotidien. Le .....C..... est alors excité et envoie un message nerveux pour inhiber les centres cardioaccélérateurs et activer les centres cardiomodérateurs.",
+      "réponses": {
+        "A": "A: hypotension, B: chémorécepteurs, C: nerf vague",
+        "B": "A: hypertension, B: tensiorécepteurs, C: nerf de Héring",
+        "C": "A: normotension, B: barorécepteurs, C: bulbe rachidien",
+        "D": "A: vasodilatation, B: récepteurs thermiques, C: nerf X"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le blocus du sang en dessous des sinus carotidiens entraîne la tachycardie car il empêche le sang d’arriver dans le sinus carotidien qui provoque l’.....A....., les tensiorécepteurs ne sont pas .....B....., le nerf de Héring est donc au .....C..... et le centre cardiomodérateur est .....D..... par contre le centre cardioaccélérateur de la moelle épinière est activé.",
+      "réponses": {
+        "A": "A: hypertension, B: stimulés, C: activité, D: activé",
+        "B": "A: hypotension, B: stimulés, C: repos, D: inhibé",
+        "C": "A: normotension, B: inhibés, C: repos, D: activé",
+        "D": "A: vasodilatation, B: excités, C: repos, D: excité"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

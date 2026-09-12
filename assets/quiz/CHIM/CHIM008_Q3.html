@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Les Bases Fortes</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; padding: 15px; color: #333; 
+        }
+
+        .container { max-width: 800px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        h1 { color: var(--orange-ivoire); text-transform: uppercase; margin: 0; font-size: 1.8rem; }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .section-title {
+            color: var(--vert-ivoire);
+            font-weight: bold;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .question-text { 
+            font-weight: 600; font-size: 1.1rem; margin-bottom: 15px; display: block; line-height: 1.5;
+        }
+
+        .option { 
+            display: flex; align-items: center; padding: 14px; margin: 10px 0; 
+            background: #fcfcfc; border: 1px solid #eee; border-radius: 10px;
+            cursor: pointer; transition: 0.2s;
+        }
+
+        .option:hover { background: #fff4ee; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { margin-right: 15px; accent-color: var(--orange-ivoire); transform: scale(1.3); }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .btn-submit { 
+            display: block; width: 100%; padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; border: none; border-radius: 12px; font-size: 1.2rem; 
+            font-weight: bold; cursor: pointer; margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>Les Bases Fortes en Solution Aqueuse</h1>
+        <p>Définitions, exemples de composés, équations de dissociation et calculs de pH.</p>
+    </div>
+
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Valider mes réponses</button>
+</div>
+
+<script>
+    const data = [
+        {
+            "s": "Définition",
+            "q": "Une base forte est une espèce chimique qui s'ionise dans l'eau pour donner quel ion ?",
+            "options": { "A": "L'ion hydronium $H_3O^+$", "B": "L'ion hydroxyde $OH^-$", "C": "L'ion chlorure $Cl^-$", "D": "L'ion sodium $Na^+$" },
+            "r": "B"
+        },
+        {
+            "s": "Définition",
+            "q": "Le caractère 'fort' d'une base signifie que sa réaction avec l'eau est :",
+            "options": { "A": "Partielle", "B": "Totale", "C": "Inexistante", "D": "Lente" },
+            "r": "B"
+        },
+        {
+            "s": "Exemples",
+            "q": "Lequel de ces noms correspond à l'hydroxyde de sodium ($NaOH$) ?",
+            "options": { "A": "La potasse", "B": "La soude", "C": "La chaux vive", "D": "Le sel de cuisine" },
+            "r": "B"
+        },
+        {
+            "s": "Exemples",
+            "q": "L'hydroxyde de potassium ($KOH$) est communément appelé :",
+            "options": { "A": "Soude", "B": "Potasse", "C": "Ammoniac", "D": "Eau de Javel" },
+            "r": "B"
+        },
+        {
+            "s": "Exemples",
+            "q": "Quelle est la formule chimique de l'hydroxyde de calcium ?",
+            "options": { "A": "$CaOH$", "B": "$Ca(OH)_2$", "C": "$Ca_2OH$", "D": "$CaO$" },
+            "r": "B"
+        },
+        {
+            "s": "Équations de dissociation",
+            "q": "Quelle est l'équation de dissociation correcte de la soude dans l'eau ?",
+            "options": { "A": "$NaOH \\rightarrow Na^+ + OH^-$", "B": "$NaOH + H_2O \\rightarrow Na^+ + OH^-$", "C": "$NaOH \\rightleftharpoons Na^+ + OH^-$", "D": "$NaOH \\rightarrow Na + O + H$" },
+            "r": "A"
+        },
+        {
+            "s": "Équations de dissociation",
+            "q": "L'hydroxyde de calcium $Ca(OH)_2$ libère combien d'ions $OH^-$ par mole de soluté ?",
+            "options": { "A": "1 mole", "B": "2 moles", "C": "3 moles", "D": "Aucune mole" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul du pH",
+            "q": "À 25°C ($Ke = 10^{-14}$), quelle est la formule du pH pour une monobase forte de concentration $C$ ?",
+            "options": { "A": "$pH = - \log C$", "B": "$pH = 14 + \log C$", "C": "$pH = 14 - \log C$", "D": "$pH = 7 + \log C$" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul du pH",
+            "q": "Pour une dibase forte comme $Ca(OH)_2$, la formule du pH devient :",
+            "options": { "A": "$pH = 14 + \log C$", "B": "$pH = 14 + \log(2C)$", "C": "$pH = 14 - \log(2C)$", "D": "$pH = 7 + 2\log C$" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul du pH",
+            "q": "Quelle est la valeur du pH d'une solution de soude de concentration $C = 10^{-2}$ mol/L à 25°C ?",
+            "options": { "A": "2", "B": "12", "C": "10", "D": "14" },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Si on dilue 10 fois une solution de base forte, son pH va :",
+            "options": { "A": "Augmenter de 1 unité", "B": "Diminuer de 1 unité", "C": "Rester constant", "D": "Passer à 7 directement" },
+            "r": "B"
+        },
+        {
+            "s": "Relations physico-chimiques",
+            "q": "Que signifie le terme 'pC' dans la relation $pH = 14 - pC$ ?",
+            "options": { "A": "$pC = \log C$", "B": "$pC = - \log C$", "C": "$pC = 10^{-C}$", "D": "$pC = C$" },
+            "r": "B"
+        },
+        {
+            "s": "Relations physico-chimiques",
+            "q": "À 25°C, si $[OH^-] = 10^{-3}$ mol/L, quelle est la concentration en ions hydronium $[H_3O^+]$ ?",
+            "options": { "A": "$10^{-3}$ mol/L", "B": "$10^{-11}$ mol/L", "C": "$10^{-14}$ mol/L", "D": "$10^{-7}$ mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Inventaire des espèces",
+            "q": "Dans une solution de $KOH$, l'ion spectateur est :",
+            "options": { "A": "$OH^-$", "B": "$K^+$", "C": "$H_3O^+$", "D": "$H_2O$" },
+            "r": "B"
+        },
+        {
+            "s": "Inventaire des espèces",
+            "q": "L'équation d'électroneutralité pour une solution de $NaOH$ s'écrit :",
+            "options": { "A": "$[Na^+] = [OH^-]$", "B": "$[Na^+] + [H_3O^+] = [OH^-]$", "C": "$[Na^+] = [H_3O^+] + [OH^-]$", "D": "$[Na^+] + [OH^-] = [H_3O^+]$" },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Le pH d'une solution basique est toujours :",
+            "options": { "A": "Inférieur à 7 à 25°C", "B": "Supérieur à 7 à 25°C", "C": "Égal à 7", "D": "Égal à 14" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul inverse",
+            "q": "Si une solution de monobase forte a un $pH = 13$, quelle est sa concentration $C$ ?",
+            "options": { "A": "13 mol/L", "B": "0,1 mol/L", "C": "0,01 mol/L", "D": "$10^{-13}$ mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Mélange",
+            "q": "Lorsqu'on ajoute une base forte à de l'eau pure, la concentration $[H_3O^+]$ :",
+            "options": { "A": "Augmente", "B": "Diminue", "C": "Reste constante", "D": "Double" },
+            "r": "B"
+        },
+        {
+            "s": "Cas particulier",
+            "q": "Une dibase forte de concentration $C = 0,05$ mol/L a une concentration $[OH^-]$ égale à :",
+            "options": { "A": "0,05 mol/L", "B": "0,10 mol/L", "C": "0,025 mol/L", "D": "1 mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Sécurité et Manipulation",
+            "q": "Pourquoi la soude et la potasse sont-elles qualifiées de substances 'caustiques' ?",
+            "options": { "A": "Car elles sentent mauvais", "B": "Car elles attaquent les tissus vivants (brûlures)", "C": "Car elles sont très sucrées", "D": "Car elles ne réagissent pas" },
+            "r": "B"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="section-title">${item.s}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat : ${score} / ${data.length}`;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+</script>
+
+</body>
+</html>

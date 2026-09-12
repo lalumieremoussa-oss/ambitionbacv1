@@ -1,0 +1,156 @@
+{
+    "title": "Quiz 3",
+    "id": "FR001_Q3",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quelle est la thèse exprimée ?",
+            "réponses": {
+                "A": "La littérature célèbre la société",
+                "B": "La littérature évite de juger la société",
+                "C": "La littérature se limite à distraire",
+                "D": "La littérature vise à corriger les imperfections sociales"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°2": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quelle est l’antithèse de cette thèse ?",
+            "réponses": {
+                "A": "La littérature transforme le monde",
+                "B": "La littérature doit dénoncer les injustices",
+                "C": "La littérature a d’autres rôles dans la société",
+                "D": "La littérature s’attaque aux tares de la société"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quel argument défend la thèse ?",
+            "réponses": {
+                "A": "L’écrivain évite les sujets sensibles",
+                "B": "L’écrivain fait la peinture impartiale de la réalité.",
+                "C": "L’écrivain dénonce les injustices à travers ses œuvres",
+                "D": "L’écrivain fait l’éloge des puissants"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quel argument réfute cette thèse ?",
+            "réponses": {
+                "A": "La littérature est un moyen d’exaltation de l’amour et de la joie de vivre",
+                "B": "La littérature vise à changer le monde en proposant le rêve dans un monde imaginaire.",
+                "C": "La littérature vise à éduquer le lecteur .",
+                "D": "Aucune de ces réponses."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°5": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quel exemple d’œuvre africaine soutient la thèse ?",
+            "réponses": {
+                "A": "Cahier d’un retour au pays natal d’Aimé Césaire",
+                "B": "La carte d’identité de Jean-Marie Adiaffi",
+                "C": "L’aventure ambiguë de Cheikh Hamidou Kane",
+                "D": "Toutes ces propositions."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quel exemple d’œuvre africaine pourrait réfuter cette thèse en mettant l’accent sur l’esthétique ?",
+            "réponses": {
+                "A": "Les contes d’Amadou Koumba de Birago Diop",
+                "B": "Le devoir de violence de Yambo Ouologuem",
+                "C": "La grève des battu d’Aminata Sow Fall",
+                "D": "Aucune de ces propositions"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°7": {
+            "question": "Sujet : « La littérature, c’est un reproche qu’on adresse au monde » Quel argument complémentaire soutient la thèse ?",
+            "réponses": {
+                "A": "La littérature se limite à l’imaginaire",
+                "B": "La littérature se contente de distraire",
+                "C": "La littérature glorifie le passé",
+                "D": "La littérature dévoile les travers cachés de la société"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°8": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quelle est la reformulation correcte de ce sujet ?",
+            "réponses": {
+                "A": "L’écrivain doit placer ses idées politiques avant l’art",
+                "B": "L’artiste crée librement, sans finalité extérieure",
+                "C": "L’artiste, malgré son parti politique, écrit pour convaincre la société.",
+                "D": "L’œuvre d’art doit servir une cause"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quelle est la thèse principale du sujet ?",
+            "réponses": {
+                "A": "L’écrivain doit faire passer son message politique en priorité",
+                "B": "L’artiste crée pour des objectifs sociaux",
+                "C": "L’écrivain écrit rêver et pour donner du plaisir",
+                "D": "L’artiste est un militant"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°10": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quelle est l’antithèse du sujet ?",
+            "réponses": {
+                "A": "L’écrivain a d’autres rôles dans la société.",
+                "B": "L’artiste doit mettre son art au service de la société",
+                "C": "L’artiste écrit dans le vide",
+                "D": "L’art ne sert qu’à divertir"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quel argument soutient la thèse du sujet ?",
+            "réponses": {
+                "A": "L’écrivain est, avant tout, artiste. Ainsi doit écrire pour charmer à travers beauté de son style",
+                "B": "L’écrivain est, avant tout, un membre de la société. Ainsi, il a une responsabilité de venir en aide aux opprimés.",
+                "C": "L’art doit être engagé avant tout",
+                "D": "L’artiste doit toujours critiquer"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°12": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quel argument réfute la thèse ?",
+            "réponses": {
+                "A": "L’artiste doit être un porte-parole des peuples",
+                "B": "L’artiste n’a rien à dire",
+                "C": "L’art n’est qu’un jeu formel",
+                "D": "L’artiste est toujours apolitique"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°13": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quelle œuvre illustre la thèse par sa priorité à l’esthétique ?",
+            "réponses": {
+                "A": "Les contes d’Amadou Koumba de Birago Diop",
+                "B": "Les bouts de bois de Dieu de Sembène Ousmane",
+                "C": "La carte d’identité de Jean-Marie Adiaffi",
+                "D": "Toutes ces propositions"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quelle œuvre illustre l’antithèse par un engagement assumé ?",
+            "réponses": {
+                "A": "Cahier d’un retour au pays natal d’Aimé Césaire",
+                "B": "Les fables de Tanella Boni",
+                "C": "Kpatassé de Bernard Dadié",
+                "D": "Toutes ces propositions"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Sujet : « En dépit de ses convictions politiques les plus fermes, (…) l’artiste ne met rien au-dessus de son travail (…) il ne peut créer que pour rien. » Quel argument supplémentaire soutient la thèse ?",
+            "réponses": {
+                "A": "L’artiste écrit pour transformer le monde",
+                "B": "L’artiste doit faire passer des idées précises",
+                "C": "L’artiste s’engage avant d’écrire",
+                "D": "L’artiste s’efface pour laisser parler son art, sans mission militante"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

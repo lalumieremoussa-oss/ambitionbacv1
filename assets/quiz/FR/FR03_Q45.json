@@ -1,0 +1,156 @@
+{
+    "title": "Sujet 20 : « Le romancier est l’historien du présent » - Georges Duhamel (Trouve l'intrus)",
+    "id": "FR_S20_Q2",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Que signifie le mot « historien » dans cette assertion ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Un savant qui reconstitue le passé avec des documents écrits",
+                "B": "Celui qui raconte et interprète les événements contemporains",
+                "C": "Celui qui observe, enregistre et témoigne des faits de son époque",
+                "D": "Un narrateur qui restitue les mœurs et les mentalités de son temps"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Que désigne le mot « présent » dans ce contexte ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Le monde dans lequel vit le romancier avec ses contradictions",
+                "B": "L'actualité que le roman peut saisir et transmettre",
+                "C": "L'époque contemporaine de l'écrivain, ses réalités immédiates",
+                "D": "Un passé lointain que le romancier reconstitue par l'imagination"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°3": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». La reformulation de cette pensée est : – Trouve l'intrus",
+            "reponses": {
+                "A": "L'écrivain de romans est le chroniqueur de son temps",
+                "B": "Le romancier doit se tourner vers le passé pour instruire le présent",
+                "C": "La fiction romanesque est un témoignage précieux sur le monde actuel",
+                "D": "Le roman est un miroir fidèle des réalités contemporaines"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°4": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». La thèse défendue par Duhamel est que : – Trouve l'intrus",
+            "reponses": {
+                "A": "Le roman est un document humain sur la société contemporaine",
+                "B": "Le romancier doit s'affranchir du réel pour créer des mondes imaginaires",
+                "C": "L'écrivain est un observateur privilégié des mœurs de son temps",
+                "D": "Le romancier a une mission de témoignage sur son époque"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°5": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». L'antithèse de cette thèse soutiendrait que : – Trouve l'intrus",
+            "reponses": {
+                "A": "L'imagination est une faculté libératrice qui échappe au présent",
+                "B": "Le romancier doit impérativement décrire son époque pour être crédible",
+                "C": "Le roman fantastique ou de science-fiction n'est pas un témoignage historique",
+                "D": "La fiction n'a pas l'obligation de coller à la réalité contemporaine"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°6": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Argument 1 en faveur de la thèse : – Trouve l'intrus",
+            "reponses": {
+                "A": "Le roman d'aventure privilégie l'action sur la description sociale",
+                "B": "Zola a voulu faire une étude scientifique de la société sous le Second Empire",
+                "C": "Les écrivains africains postcoloniaux racontent l'histoire de leurs nations",
+                "D": "Les romans réalistes comme Germinal documentent les conditions ouvrières"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°7": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Argument 2 en faveur de la thèse : – Trouve l'intrus",
+            "reponses": {
+                "A": "Les personnages de roman sont souvent typiques de leur époque",
+                "B": "La fiction romanesque est un pur divertissement sans lien avec la réalité",
+                "C": "Le roman engagé permet de dénoncer les travers de la société actuelle",
+                "D": "Le romancier peut, comme l'historien, analyser les causes des événements"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°8": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Argument 3 en faveur de la thèse : – Trouve l'intrus",
+            "reponses": {
+                "A": "Le romancier doit ignorer son temps pour créer des œuvres intemporelles",
+                "B": "Les œuvres comme Les Soleils des Indépendances sont des témoignages politiques",
+                "C": "L'écrivain est un témoin privilégié qui transmet la mémoire vivante",
+                "D": "La littérature peut compléter le travail des historiens"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°9": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Argument 1 en faveur de l'antithèse (le romancier n'est pas un historien) : – Trouve l'intrus",
+            "reponses": {
+                "A": "La subjectivité du romancier fausse la prétention à l'objectivité historique",
+                "B": "Le romancier doit se conformer à la vérité historique absolue",
+                "C": "Le roman relève de l'imaginaire, l'histoire du document",
+                "D": "Les mondes fictionnels n'ont pas à rendre compte de la réalité"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°10": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Argument 2 en faveur de l'antithèse (le romancier n'est pas un historien) : – Trouve l'intrus",
+            "reponses": {
+                "A": "La fantasy et la science-fiction créent des univers qui échappent au présent",
+                "B": "Le roman introspectif se focalise sur l'individu, non sur le collectif",
+                "C": "La poésie romanesque peut primer sur le souci documentaire",
+                "D": "Le romancier doit absolument décrire son époque pour être un grand écrivain"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°11": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Exemple 1 illustrant la thèse (roman comme histoire du présent) : – Trouve l'intrus",
+            "reponses": {
+                "A": "Une vie de boy de Oyono est un témoignage précieux sur la colonisation au Cameroun",
+                "B": "Le Trône de fer de Martin est une fresque historique rigoureuse sur notre temps",
+                "C": "Les Soleils des Indépendances de Kourouma relate les dérives politiques postcoloniales",
+                "D": "Batouala de Maran est un roman qui anticipe les luttes anticolonialistes"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°12": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Exemple 2 illustrant la thèse (roman comme histoire du présent) : – Trouve l'intrus",
+            "reponses": {
+                "A": "Chaka de Senghor, bien que poétique, s'ancre dans une réalité historique",
+                "B": "La Planète des singes de Boulle est un roman documentaire sur la colonisation",
+                "C": "Les Bouts de bois de Dieu de Sembène raconte la grève des cheminots pour l'indépendance",
+                "D": "Une si longue lettre de Mariama Bâ évoque les mutations sociales au Sénégal"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°13": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Exemple 3 illustrant la thèse (roman comme histoire du présent) : – Trouve l'intrus",
+            "reponses": {
+                "A": "Les Misérables de Hugo dépeint la misère sociale du XIXe siècle",
+                "B": "Le Petit Prince de Saint-Exupéry est un traité de sociologie politique de son temps",
+                "C": "Les Larmes de Carène de Yeboua aborde la question du mariage forcé dans la Côte d'Ivoire actuelle",
+                "D": "L'Enfant noir de Camara Laye est un témoignage autobiographique sur la Guinée coloniale"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°14": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Exemple 1 illustrant l'antithèse (roman non historique) : – Trouve l'intrus",
+            "reponses": {
+                "A": "La Planète des singes est une anticipation qui échappe au réel contemporain",
+                "B": "Germinal de Zola est une œuvre d'imagination pure sans portée historique",
+                "C": "Le Trône de fer est une fantasy médiévale qui ne documente aucun présent",
+                "D": "Le Roman comique est une farce burlesque sans ambition documentaire"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Sujet : « Le romancier est l’historien du présent ». Exemple 2 illustrant l'antithèse (roman non historique) : – Trouve l'intrus",
+            "reponses": {
+                "A": "Les Fleurs du Mal de Baudelaire explore l'âme, non la société",
+                "B": "Les Contemplations de Hugo est un recueil lyrique, pas un document historique",
+                "C": "Le Roman inachevé d'Aragon est un poème, non une histoire du présent",
+                "D": "Les Soleils des Indépendances de Kourouma est une pure fiction sans ancrage réel"
+            },
+            "bonne reponse": "D"
+        }
+    }
+}

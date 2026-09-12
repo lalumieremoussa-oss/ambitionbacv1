@@ -1,0 +1,126 @@
+{
+    "title": "Quiz 2",
+    "id": "FR001_Q2",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « La littérature, c’est la pensée accédant à la beauté. » La reformulation est : La littérature est une expression de la pensée sublimée par la beauté.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Sujet : « La littérature, c’est la pensée accédant à la beauté. » Le thème central est la littérature engagée.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "Sujet : « La littérature, c’est la pensée accédant à la beauté. » Ce sujet défend une thèse liée à la fonction esthétique.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Sujet : « La littérature, c’est la pensée accédant à la beauté. » L’antithèse pourrait mettre en avant la mission sociale et politique.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°5": {
+            "question": "Sujet : « La littérature, c’est la pensée accédant à la beauté. » Pour défendre la thèse, on pourrait s’appuyer sur Verlaine, Ionesco ou Kourouma.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Sujet : L'écrivain est au service de ceux qui subissent l'histoire. Une reformulation est : L’écrivain est au service des opprimés.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°7": {
+            "question": "Sujet : L'écrivain est au service de ceux qui subissent l'histoire. Le problème est : Quel est le rôle de l’écrivain dans la société ?",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°8": {
+            "question": "Sujet : L'écrivain est au service de ceux qui subissent l'histoire. La thèse est que l’écrivain doit rester neutre.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Sujet : L'écrivain est au service de ceux qui subissent l'histoire. La fonction engagée constitue un axe pertinent.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Sujet : L'écrivain est au service de ceux qui subissent l'histoire. Une antithèse possible est : L’écrivain a aussi des fonctions esthétiques ou lyriques.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Sujet : « La littérature négro-africaine est une littérature de remise en cause... » La reformulation est : C'est une littérature de dénonciation.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°12": {
+            "question": "Sujet : La littérature négro-africaine est une littérature de remise en cause. Le thème est la fonction évasive.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Sujet : La littérature négro-africaine est une littérature de remise en cause. Ce sujet met en avant l'engagement contre l'oppression.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Sujet : « Toute littérature est inséparable de l’histoire. » Ce sujet invite à discuter la fonction didactique et l'exaltation des valeurs.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Sujet : « Écrire est une certaine façon de vouloir la liberté ; (…) vous êtes engagé. » Ce sujet souligne l'acte de liberté et d'engagement.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

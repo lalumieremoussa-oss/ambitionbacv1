@@ -1,0 +1,186 @@
+{
+  "id": "SVT011_Q1",
+  "title": "Quiz 1",
+  "questions": {
+    "question n°1": {
+      "question": "On croise des souris blanches à moustaches raides avec des souris brunes à moustaches frisées. On obtient à la 1ère génération uniquement des souris brunes à moustaches raides. Dans ce problème, deux caractères sont mis en évidence à savoir :",
+      "réponses": {
+        "A": "le caractère couleur de souris qui s’exprime par 2 phénotypes brun et blanc",
+        "B": "le caractère aspect de souris qui s’exprime par 2 phénotypes brun et blanc",
+        "C": "le caractère couleur du pelage qui s’exprime par 2 phénotypes brun et blanc",
+        "D": "le caractère couleur du moustache qui s’exprime par 2 phénotypes brun et blanc"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "On croise des souris blanches à moustaches raides avec des souris brunes à moustaches frisées. On obtient à la 1ère génération uniquement des souris brunes à moustaches raides. Le deuxième caractère mis en évidence est :",
+      "réponses": {
+        "A": "le caractère forme de souris qui s’exprime par 2 phénotypes raide et frisé.",
+        "B": "le caractère aspect de moustache qui s’exprime par 2 phénotypes raide et frisé.",
+        "C": "le caractère aspect du pelage qui s’exprime par 2 phénotypes raide et frisé.",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "On croise des souris blanches à moustaches raides avec des souris brunes à moustaches frisées. On obtient à la 1ère génération uniquement des souris brunes à moustaches raides. L’analyse correspondante est : les souris croisées de phénotypes différents donnent une descendance homogène.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "On croise des souris blanches à moustaches raides avec des souris brunes à moustaches frisées. On obtient à la 1ère génération uniquement des souris brunes à moustaches raides. Interprétation exacte :",
+      "réponses": {
+        "A": "la descendance étant homogène, les souris croisées sont homozygotes donc de lignée pure.",
+        "B": "Les phénotypes brun et raide qui s’expriment dans la descendance sont dominants",
+        "C": "les phénotypes blanc et frisé sont récessifs.",
+        "D": "Toutes ces réponses sont justes et complémentaires"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Après l’interprétation : la descendance étant homogène, les souris croisées sont homozygotes donc de lignée Pure. Les phénotypes brun et raide qui s’expriment dans la descendance sont dominants et les phénotypes blanc et frisé sont récessifs. Le Choix des symboles qui convient est : [blanc]= [b] ; [brun]= [B] ; [raide]= [r] ;[frisé]= [R] .",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "On croise ensuite les souris de la 1ère génération entre elles. On obtient à la 2ème génération, les résultats suivants : - 56 souris brunes à moustaches raides ; - 6 souris blanches à moustaches frisées ; -18 souris blanches à moustaches raides ; - 20 souris brunes à moustaches frisées. On obtient donc une descendance hétérogène.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "On croise ensuite les souris de la 1ère génération entre elles. On obtient à la 2ème génération, les résultats suivants : - 56 souris brunes à moustaches raides ; - 6 souris blanches à moustaches frisées ; -18 souris blanches à moustaches raides ; - 20 souris brunes à moustaches frisées. Comme la descendance est hétérogène, on fera étude caractère par caractère .",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "On croise ensuite les souris de la 1ère génération entre elles. On obtient à la 2ème génération, les résultats suivants : - 56 souris brunes à moustaches raides ; - 6 souris blanches à moustaches frisées ; -18 souris blanches à moustaches raides ; - 20 souris brunes à moustaches frisées. D’après le calcul des proportions, pour le caractère couleur du pelage, on obtient une descendance de ségrégation 1/4 ; 3/4 au niveau des phénotypes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Le caractère « couleur du pelage » est gouverné par un couple d’allèles avec une codominance complète.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "On croise ensuite les souris de la 1ère génération entre elles. On obtient à la 2ème génération, les résultats suivants : - 56 souris brunes à moustaches raides ; - 6 souris blanches à moustaches frisées ; -18 souris blanches à moustaches raides ; - 20 souris brunes à moustaches frisées. D’après le calcul des proportions, pour le caractère de la moustache, on obtient une descendance en ségrégation ¾ ;1/4 au niveau des génotypes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Le caractère « aspect de la moustache» est gouverné par un couple d’allèles avec une dominance complète. Les parents croisés sont hétérozygotes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Pour faire la démonstration de la liaison ou de l’indépendance des 2 couples d’allèles : on commence par la recherche de la ségrégation, ensuite test de l’hypothèse d’indépendance et enfin conclusion.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Lorsque les effectifs théoriques attendus sont statistiquement identiques aux effectifs observés. Les 2 couples d’allèles B/b et F/f sont liés.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "On croise enfin des souris femelles brunes à moustaches raides avec des souris mâles blanches à moustaches frisées. La descendance obtenue se répartit comme suit : - 20 souris brunes à moustaches raides ; -16 souris blanches à moustaches frisées ; -18 souris blanches à moustaches raides ; -19 souris brunes à moustaches frisées. Ce 3ème croisement est effectué entre une femelle de phénotype double récessif [bf ] et un mâle de double homozygote dominant [BF]",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "On croise enfin des souris femelles brunes à moustaches raides avec des souris mâles blanches à moustaches frisées. La descendance obtenue se répartit comme suit : - 20 souris brunes à moustaches raides ; -16 souris blanches à moustaches frisées ; -18 souris blanches à moustaches raides ; -19 souris brunes à moustaches frisées. ON obtient une descendance composée de 4 phénotypes dans les même proportions (soit environ ¼ ; ¼ ; ¼ ¼). Il s’agit donc d’un test cross.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "L’intérêt de ce croisement (test cross) est qu’il permet de connaître le génotype des souris présentant le phénotype dominant (ici la femelle)",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La femelle présentant le phénotype dominant est hétérozygote.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Dans un croisement, si on obtient 100% d'individus ayant le même phénotype, quel est le type de croisement réalisé ?",
+      "réponses": {
+        "A": "Croisement d'un hybride avec un individu récessif",
+        "B": "Croisement de deux individus de race pure",
+        "C": "Croisement de deux hybrides"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Si la descendance d'un croisement montre une ségrégation de 3/4 d'individus ayant le phénotype dominant et 1/4 d'individus ayant le phénotype récessif, de quel type de croisement s'agit-il ?",
+      "réponses": {
+        "A": "Croisement d'un hybride avec un individu récessif",
+        "B": "Croisement de deux individus de race pure",
+        "C": "Croisement de deux hybrides"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel type de croisement aboutit à une descendance présentant 1/2 d'individus ayant le phénotype intermédiaire, 1/4 et 1/4 d'individus ayant les phénotypes parentaux ?",
+      "réponses": {
+        "A": "Croisement d'un hybride avec un individu récessif",
+        "B": "Croisement de deux individus de race pure",
+        "C": "Croisement de deux hybrides",
+        "D": "Toutes ces propositions sont justes et complémentaires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Lorsqu'un croisement produit une descendance avec 1/2 d'individus ayant le phénotype dominant et 1/2 d'individus ayant le phénotype récessif, quel est le type de croisement effectué ?",
+      "réponses": {
+        "A": "Croisement d'un hybride avec un individu récessif",
+        "B": "test cross ",
+        "C": "Croisement entre un hétérozygote et un homozygote récessif",
+        "D": "toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

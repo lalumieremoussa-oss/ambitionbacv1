@@ -1,0 +1,314 @@
+{
+  "title": "Quiz 2",
+  "id": "SVT002_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Les trois premières stimulations ne donnent aucune réponse car elles sont :",
+      "image": "assets/images/svt/excitabilite.png",
+      "réponses": {
+        "A": "Infraliminaires",
+        "B": "Inefficaces",
+        "C": "Trop faibles pour déclencher un potentiel d’action",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "La stimulation I4 donne la première réponse. I4 est l’intensité :",
+      "image": "assets/images/svt/excitabilite.png",
+      "réponses": {
+        "A": "Liminaire",
+        "B": "Seuil",
+        "C": "Minimale efficace",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "À partir de I4, on obtient une réponse dont :",
+      "image": "assets/images/svt/excitabilite.png",
+      "réponses": {
+        "A": "La fréquence diminue malgré l’augmentation d’intensité",
+        "B": "La durée de latence varie fortement",
+        "C": "L’amplitude reste la même au fur et à mesure que l’intensité augmente",
+        "D": "La vitesse de conduction ralentit"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La réponse de la fibre nerveuse est d’emblée maximale dès que :",
+      "image": "assets/images/svt/excitabilite.png",
+      "réponses": {
+        "A": "L’intensité devient infraliminaire",
+        "B": "Le seuil de tolérance est atteint",
+        "C": "Le seuil est atteint",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "La première stimulation (I1) ne donne aucune réponse car l’intensité I1 est :",
+      "image": "assets/images/svt/sommation.png",
+      "réponses": {
+        "A": "Liminaire",
+        "B": "Inefficace",
+        "C": "Supraliminaire",
+        "D": "Suffisante mais mal appliquée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "La stimulation I2 donne la première réponse. I2 est une intensité supraliminaire.",
+      "image": "assets/images/svt/sommation.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "De I2 à I4, on obtient une réponse dont l’amplitude augmente au fur et à mesure que l’intensité augmente.",
+      "image": "assets/images/svt/sommation.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "À partir de I4, l’amplitude de la réponse reste la même même si l’intensité de la stimulation augmente davantage.",
+      "image": "assets/images/svt/sommation.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Au fur et à mesure que l’intensité de la stimulation augmente, le nombre de fibres qui réagissent augmente et les réponses s’additionnent. C’est la [a].\nÀ partir de I4, toutes les fibres réagissent : c’est la [b] du nerf.",
+      "image": "assets/images/svt/sommation.png",
+      "réponses": {
+        "A": "a – sommation ; b – réponse supraliminaire",
+        "B": "a – loi du tout ou rien ; b – réponse supraliminaire",
+        "C": "a – sommation ; b – réponse globale",
+        "D": "a – loi du tout ou rien ; b – réponse globale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La fibre nerveuse :",
+      "réponses": {
+        "A": "Obéit à la loi du tout ou rien",
+        "B": "N’obéit pas à la loi du tout ou rien",
+        "C": "Réagit de manière progressive",
+        "D": "Réagit proportionnellement à l’intensité"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Le nerf :",
+      "réponses": {
+        "A": "Obéit à la loi du tout ou rien",
+        "B": "N’obéit pas à la loi du tout ou rien",
+        "C": "Ne répond qu’aux stimulations continues",
+        "D": "Réagit uniquement à des stimuli chimiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Complète : la propriété mise en évidence est :",
+      "réponses": {
+        "A": "La plasticité",
+        "B": "La sensibilité",
+        "C": "L’excitabilité",
+        "D": "La tonicité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Lorsque le délai qui sépare les deux stimulations est inférieur à 10 ms :",
+      "image": "assets/images/svt/refractaire1.png",
+      "réponses": {
+        "A": "La fibre répond avec un retard notable.",
+        "B": "Donne une deuxième réponse mais en retard.",
+        "C": "La fibre ne donne pas un deuxième potentiel d’action.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "La fibre ne donne pas un deuxième potentiel avant 10 ms parce que :",
+      "image": "assets/images/svt/refractaire1.png",
+      "réponses": {
+        "A": "L’équilibre ionique n’est pas encore établi.",
+        "B": "Le potentiel est toujours bloqué dans l’hyperpolarisation.",
+        "C": "Les canaux Na⁺ restent toujours fermés à la suite du premier potentiel d’action.",
+        "D": "Toutes ces réponses sont exactes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Tant que l'équilibre ionique n'est pas rétabli suite à la première stimulation, on dit que la fibre nerveuse se trouve dans :",
+      "réponses": {
+        "A": "La période réfractaire.",
+        "B": "La période réfractaire absolue.",
+        "C": "La période réfractaire totale.",
+        "D": "Toutes ces réponses sont exactes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "À partir de 10 ms, on obtient un deuxième potentiel d’action identique au premier car l’équilibre ionique n’est toujours pas encore restauré.",
+      "image": "assets/images/svt/refractaire1.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "La période réfractaire correspond à :",
+      "réponses": {
+        "A": "Une période de repos complet de la fibre où elle est totalement insensible à toute forme de signal nerveux.",
+        "B": "Une phase où les canaux potassiques sont hyperactifs empêchant toute repolarisation.",
+        "C": "Une phase transitoire due à une hyperpolarisation excessive provoquant une suractivation.",
+        "D": "Une phase où la fibre ne peut répondre à une nouvelle stimulation car l’équilibre ionique n’est pas encore rétabli."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Lorsque le délai qui sépare deux stimulations est inférieur à t’, le nerf entier ne donne pas un second potentiel d’action.",
+      "image": "assets/images/svt/refractaire2.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Avant t’, le nerf se trouve dans une période réfractaire.",
+      "image": "assets/images/svt/refractaire2.png",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "À partir de t’, un deuxième potentiel apparaît dont l’amplitude augmente progressivement car :",
+      "image": "assets/images/svt/refractaire2.png",
+      "réponses": {
+        "A": "Les fibres nerveuses commencent à être restaurées à la suite du premier potentiel d’action.",
+        "B": "Le nerf est dans sa période réfractaire.",
+        "C": "Les fibres répondent partiellement en fonction de leur niveau de restauration.",
+        "D": "Toutes ces propositions sont exactes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°21": {
+      "question": "Lorsque le délai atteint t₂, on obtient un deuxième potentiel d’action identique au premier car :",
+      "image": "assets/images/svt/refractaire2.png",
+      "réponses": {
+        "A": "Toutes les fibres nerveuses sont restaurées.",
+        "B": "Le nerf retrouve son excitabilité totale.",
+        "C": "L’équilibre électrochimique est entièrement rétabli.",
+        "D": "Toutes ces propositions sont exactes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Quelle est la principale cause de la période réfractaire chez une fibre nerveuse ?",
+      "réponses": {
+        "A": "La dégradation temporaire des protéines canaux ioniques.",
+        "B": "La fermeture temporaire des canaux sodiques dépendants du voltage.",
+        "C": "Le manque de glucose dans l’espace extracellulaire.",
+        "D": "La saturation du neurotransmetteur acétylcholine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Dans la période réfractaire relative, une nouvelle réponse peut être obtenue si :",
+      "réponses": {
+        "A": "Le neurone est activé mécaniquement.",
+        "B": "Le nerf est massé électriquement.",
+        "C": "La stimulation est plus intense que le seuil habituel.",
+        "D": "Le système nerveux central l’autorise via un influx compensatoire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "La période réfractaire empêche :",
+      "réponses": {
+        "A": "La propagation de l’influx dans une seule direction.",
+        "B": "La sommation immédiate des potentiels d’action consécutifs.",
+        "C": "La dépolarisation des fibres voisines.",
+        "D": "Le retour des ions potassium dans la cellule."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Quelle phrase résume le rôle de la période réfractaire dans l’activité nerveuse ?",
+      "réponses": {
+        "A": "Elle empêche toute forme de communication entre neurones.",
+        "B": "Elle garantit une fréquence limitée des potentiels d’action et protège la fibre d’une surstimulation.",
+        "C": "Elle permet de transformer un réflexe inné en réflexe conditionnel.",
+        "D": "Elle accélère la vitesse de conduction en inhibant la repolarisation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Quel est l’objectif de la courbe de variation de stimulation en fonction de la durée de stimulation ?",
+      "image": "assets/images/svt/rheobase.png",
+      "réponses": {
+        "A": "Exprimer la limite d’excitabilité du nerf.",
+        "B": "Mesurer la vitesse de propagation de l’influx nerveux.",
+        "C": "Déterminer le potentiel de repos de la membrane.",
+        "D": "Visualiser la repolarisation du nerf."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Selon la courbe d’excitabilité, une excitation est considérée comme efficace si elle provoque une réponse. Dans quel cas une excitation est-elle inefficace ?",
+      "image": "assets/images/svt/rheobase.png",
+      "réponses": {
+        "A": "Lorsqu’elle est le temps mis pour réagir est inférieure à celui de l'intensité seuil.",
+        "B": "Lorsque son intensité se situe en dessous de 1 V.",
+        "C": "Lorsqu'elle donne une réponse avant 1,8 millisecondes",
+        "D": "Toutes ces propositions sont justes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Qu’est-ce que la rhéobase ?",
+      "réponses": {
+        "A": "La plus grande intensité de stimulation qui provoque une réponse.",
+        "B": "La plus petite intensité de stimulation qui provoque une réponse.",
+        "C": "Une excitation supraliminaire.",
+        "D": "L’intensité de stimulation nécessaire pour ouvrir les canaux à K+."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Qu'est-ce que le temps utile ?",
+      "image": "assets/images/svt/rheobase.png",
+      "réponses": {
+        "A": "La durée maximale d'application de la rhéobase pour provoquer une réponse.",
+        "B": "La plus petite durée d'application de la rhéobase pour provoquer une réponse.",
+        "C": "La durée d'application de l'intensité double de la rhéobase.",
+        "D": "Le temps nécessaire à la repolarisation du nerf."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Qu'est-ce que la chronaxie et qu'indique-t-elle ?",
+      "image": "assets/images/svt/rheobase.png",
+      "réponses": {
+        "A": "C'est la durée d'application de la rhéobase (1,8 ms) et elle indique l'inexcitabilité du nerf.",
+        "B": "C'est la durée de la période réfractaire et elle indique la vitesse de conduction nerveuse.",
+        "C": "C'est la durée d'application de l'intensité double de la rhéobase (0,6 ms) et plus elle est petite, plus le nerf est excitable.",
+        "D": "C'est l'intensité de stimulation minimale et elle indique la capacité du nerf à se"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+    "title": "Quiz 4 - Partie A",
+    "id": "FR002_Q4_A",
+    "questions": {
+        "question n°1": {
+            "question": "Qu'est-ce qu'un champ lexical ?",
+            "réponses": {
+                "A": "Un dictionnaire de synonymes",
+                "B": "Un groupe de mots appartenant au même domaine de sens",
+                "C": "Une liste de verbes conjugués au même temps"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Dans un commentaire, à quoi sert l'étude du lexique ?",
+            "réponses": {
+                "A": "À compter le nombre de mots dans le texte",
+                "B": "À vérifier l'orthographe de l'auteur",
+                "C": "À dégager l'atmosphère du texte et l'intention de l'auteur"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Quel effet produisent les verbes d'action dans un texte ?",
+            "réponses": {
+                "A": "Ils donnent du dynamisme et du rythme",
+                "B": "Ils traduisent l'immobilité et la réflexion",
+                "C": "Ils marquent l'absence de sentiments"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Lequel de ces verbes est un verbe d'état ?",
+            "réponses": {
+                "A": "Demeurer",
+                "B": "Courir",
+                "C": "Frapper"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°5": {
+            "question": "Quelle est la valeur du présent dans la phrase : 'La Terre est ronde' ?",
+            "réponses": {
+                "A": "Présent de narration",
+                "B": "Présent de vérité générale",
+                "C": "Présent d'habitude"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "Quel temps verbal est privilégié pour la description et l'arrière-plan ?",
+            "réponses": {
+                "A": "Le passé simple",
+                "B": "Le futur",
+                "C": "L'imparfait"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°7": {
+            "question": "Le passé simple est utilisé pour exprimer :",
+            "réponses": {
+                "A": "Des actions brèves et successives dans le récit",
+                "B": "Une habitude ancienne",
+                "C": "Une description lente"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°8": {
+            "question": "Un adjectif à valeur 'appréciative' exprime :",
+            "réponses": {
+                "A": "Un jugement négatif",
+                "B": "Un jugement positif",
+                "C": "Une quantité précise"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Lequel de ces adjectifs a une valeur dépréciative ?",
+            "réponses": {
+                "A": "Admirable",
+                "B": "Noble",
+                "C": "Ignoble"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°10": {
+            "question": "Quel est le rôle des interjections (Ah ! Oh ! Hélas !) ?",
+            "réponses": {
+                "A": "Marquer l'émotion et renforcer la subjectivité",
+                "B": "Remplacer les verbes d'action",
+                "C": "Indiquer la fin d'un paragraphe"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "La forme négative peut servir à :",
+            "réponses": {
+                "A": "Approuver une idée",
+                "B": "Refuser, critiquer ou contester",
+                "C": "Décrire un paysage"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Une question rhétorique est :",
+            "réponses": {
+                "A": "Une question qui attend une réponse précise",
+                "B": "Une affirmation déguisée qui interpelle le lecteur",
+                "C": "Une question sans point d'interrogation"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "L'utilisation du pronom 'Je' ou 'Nous' traduit :",
+            "réponses": {
+                "A": "Une distance par rapport au récit",
+                "B": "Une implication personnelle et la subjectivité",
+                "C": "Une objectivité totale"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "Quelle valeur peut prendre le futur dans un texte ?",
+            "réponses": {
+                "A": "L'espoir, la promesse ou la menace",
+                "B": "Le regret du passé",
+                "C": "La description d'un état présent"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Les adverbes 'très' ou 'trop' précisent :",
+            "réponses": {
+                "A": "Le lieu",
+                "B": "L'intensité",
+                "C": "La négation"
+            },
+            "bonne réponse": "B"
+        }
+    }
+}

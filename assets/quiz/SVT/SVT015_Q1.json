@@ -1,0 +1,186 @@
+{
+  "id": "SVT015_Q1",
+  "title": "Quiz 1: les méthodes de prospection.",
+  "questions": {
+    "question n°1": {
+      "question": "Les méthodes directes de prospection sont uniquement utilisées si la méthode d'évaluation a déjà été validée.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "La prospection alluvionnaire implique la recherche de minéraux lourds dans les alluvions.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Les échantillons de prospection géochimique sont toujours analysés par des techniques de dosage appropriées sans pré-traitement.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La prospection géologique a pour objectif principal d'identifier les propriétés géologiques et le type de roche encaissante.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Les méthodes indirectes de prospection sont celles qui ne permettent pas d'élaborer des cartes pour les zones difficiles d'accès.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "La méthode électrique consiste à mesurer la conductivité et la résistivité des corps.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "La méthode radiométrique utilise un scintillomètre pour déterminer la radioactivité du champ.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "La méthode magnétique analyse les anomalies du champ magnétique dues à la présence de concentrations ferromagnétiques.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "La méthode de la sismotéléflexion est une technique d'enregistrement des ondes sismiques.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "L'évaluation des gisements miniers ne peut être faite que par des méthodes de prospection directes.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Parmi les méthodes de prospection indirecte, laquelle permet d'établir des cartes d'intensités magnétiques ?",
+      "réponses": {
+        "A": "La prospection alluvionnaire",
+        "B": "La méthode électrique",
+        "C": "La méthode magnétique",
+        "D": "La prospection géochimique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel est l'objectif principal de la prospection géologique ?",
+      "réponses": {
+        "A": "Mesurer la conductivité des roches",
+        "B": "Identifier les propriétés géologiques et le type de roche encaissante",
+        "C": "Analyser les anomalies du champ magnétique",
+        "D": "Rechercher des minéraux lourds dans les alluvions"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La prospection géochimique implique l'analyse d'échantillons prélevés dans des sédiments de cours d'eau, des sols ou des roches. Comment sont généralement préparés ces échantillons avant l'analyse ?",
+      "réponses": {
+        "A": "Directement analysés sans aucun traitement",
+        "B": "Pré-desséché et séché, puis passé au tamis fin",
+        "C": "Congelé et immédiatement analysé par spectroscopie de masse",
+        "D": "Humidifié pour faciliter l'extraction des minéraux lourds"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "la prospection alluvionnaire est classée comme une prospection :",
+      "réponses": {
+        "A": "Indirecte",
+        "B": "Géophysique",
+        "C": "Électrique",
+        "D": "Directe"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelles sont les deux grandes catégories de méthodes de prospection ?",
+      "réponses": {
+        "A": "Méthodes magnétiques et radiométriques",
+        "B": "Méthodes directes et méthodes indirectes",
+        "C": "Méthodes alluvionnaires et géochimiques",
+        "D": "Méthodes électriques et sismiques"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "La prospection _______________ consiste à mesurer la _______________ et la résistivité des corps, puis à tracer des contours isovaleurs.",
+      "réponses": {
+        "A": "radiométrique / radioactivité",
+        "B": "alluvionnaire / densité",
+        "C": "géochimique / concentration",
+        "D": "électrique / conductivité"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "La méthode _______________ utilise un scintillomètre ou un _______________ sur un certain nombre d'itinéraires permettant de déterminer la radioactivité de chaque affleurement.",
+      "réponses": {
+        "A": "magnétique / magnétomètre",
+        "B": "sismique / sismographe",
+        "C": "radiométrique / compteur Geiger",
+        "D": "électrique / ohmmètre"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Les méthodes directes de prospection sont celles qui sont utilisées directement sur les _______________ d'échantillonnage. Il s'agit de la prospection _______________ et de la prospection _______________.",
+      "réponses": {
+        "A": "terrains / électrique / magnétique",
+        "B": "sites / alluvionnaire / géochimique",
+        "C": "sédiments / radiométrique / géologique",
+        "D": "anomalies / sismique / électrique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "La prospection géochimique permet de déterminer les _______________ minérales. Elle se fait en trois phases: les échantillons sont prélevés dans des sédiments de cours d'eau, dans des sols ou dans des roches; ils sont _______________ et séchés puis passés au _______________. ",
+      "réponses": {
+        "A": "anomalies / humidifiés / four",
+        "B": "concentrations / desséché / tamis fin",
+        "C": "profondeurs / mélangés / broyeur",
+        "D": "densités / compactés / microscope"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L'interprétation des résultats de prospection est basée sur un ensemble d'opérations exécutées depuis la première _______________ jusqu'à l'évaluation du _______________. ",
+      "réponses": {
+        "A": "indication / gisement",
+        "B": "découverte / minerai",
+        "C": "phase / plan",
+        "D": "analyse / rapport"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

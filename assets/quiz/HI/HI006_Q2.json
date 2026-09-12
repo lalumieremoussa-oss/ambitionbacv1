@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 2",
+  "id": "HI006_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les trois principaux partis nationalistes algériens créés entre 1926 et 1931, et qui en sont les fondateurs ?",
+      "réponses": {
+        "A": "ENA par Ben Badis, FLN par Abane Ramdane, PPA par Ferhat Abbas",
+        "B": "ENA par Messali Hadj, PPA par Messali Hadj, Association des Oulémas par Ben Badis",
+        "C": "MTLD par Messali Hadj, ENA par Ferhat Abbas, UDMA par Ben Khedda",
+        "D": "UDMA par Ben Badis, FLN par Messali Hadj, ENA par Ferhat Abbas"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que prévoyait le projet Blum-Viollette, et pourquoi a-t-il échoué ?",
+      "réponses": {
+        "A": "Il proposait une république autonome en Algérie, mais fut rejeté par le FLN",
+        "B": "Il voulait accorder la citoyenneté à une minorité musulmane, mais fut rejeté par les colons et abandonné",
+        "C": "Il offrait la pleine indépendance aux Musulmans, mais échoua faute de référendum",
+        "D": "Il envisageait l’autonomie religieuse, mais buta sur l’opposition de l’armée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles conséquences les émeutes de Sétif du 8 mai 1945 ont-elles sur les relations franco-algériennes ?",
+      "réponses": {
+        "A": "Elles ont permis l’adoption de réformes progressistes après négociation",
+        "B": "Elles entraînent une répression sanglante avec des milliers de morts musulmans et une rupture durable",
+        "C": "Elles provoquent une réforme immédiate du Code de l’Indigénat",
+        "D": "Elles débouchent sur la constitution d’un gouvernement algérien provisoire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Pourquoi les nationalistes rejettent-ils les réformes de 1947 ?",
+      "réponses": {
+        "A": "Parce qu'elles abolissaient les partis politiques algériens",
+        "B": "Parce qu'elles imposaient l’indépendance immédiate sans transition",
+        "C": "Parce qu'elles instaurent un double collège inégalitaire et une démocratie fictive",
+        "D": "Parce qu'elles favorisaient l’Islam politique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce que le CRUA, formé en 1954, et quel est son objectif ?",
+      "réponses": {
+        "A": "Un comité chargé de négocier l’autonomie dans le cadre français",
+        "B": "Une branche militaire du PPA destinée à sécuriser les élections",
+        "C": "Un groupe clandestin chargé de préparer la lutte armée pour l’indépendance",
+        "D": "Une organisation islamiste opposée au marxisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel rôle le MTLD joue-t-il dans la préparation de la lutte armée ?",
+      "réponses": {
+        "A": "Il lance immédiatement la guerre après l’échec des réformes",
+        "B": "Il fusionne avec le FLN en 1953 pour accélérer l'indépendance",
+        "C": "Il se divise, ce qui pousse les radicaux à créer le CRUA et planifier l’insurrection",
+        "D": "Il organise un référendum sur la séparation de l’Algérie et de la France"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel personnage est le plus lié à la naissance du nationalisme algérien moderne ?",
+      "réponses": {
+        "A": "Messali Hadj, fondateur de l’ENA et du PPA",
+        "B": "Ben Bella, futur dirigeant du FLN dès 1930",
+        "C": "Ferhat Abbas, partisan du rattachement permanent à la France",
+        "D": "Abane Ramdane, membre fondateur du mouvement ouvrier algérien"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Pourquoi l’ENA fut-elle dissoute par la France ?",
+      "réponses": {
+        "A": "Elle était trop proche du parti communiste algérien",
+        "B": "Elle était jugée subversive car elle réclamait l’indépendance algérienne dès 1927",
+        "C": "Elle avait refusé de participer aux élections locales",
+        "D": "Elle s’était alliée aux nazis pendant la Seconde Guerre mondiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle de l’Association des Oulémas dans le nationalisme algérien ?",
+      "réponses": {
+        "A": "Elle militait pour la laïcité et la neutralité politique",
+        "B": "Elle appelait à l’alliance avec les colons européens",
+        "C": "Elle diffusait une identité culturelle arabo-musulmane pour résister à l’assimilation coloniale",
+        "D": "Elle soutenait uniquement les réformes éducatives de la République"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi le PPA fut-il considéré comme dangereux par les autorités coloniales ?",
+      "réponses": {
+        "A": "Parce qu’il appelait à l’indépendance et possédait une organisation bien structurée",
+        "B": "Parce qu’il prônait l’alliance militaire avec la Libye",
+        "C": "Parce qu’il visait uniquement l’autonomie interne dans l’Union Française",
+        "D": "Parce qu’il refusait toute participation politique et restait clandestin"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel est le lien entre Ferhat Abbas et les débuts du nationalisme algérien ?",
+      "réponses": {
+        "A": "Il fut un fervent indépendantiste dès les années 1930",
+        "B": "Il croyait initialement à une intégration égalitaire dans la République française avant d’évoluer vers l’indépendance",
+        "C": "Il s’allia au PPA dès 1926",
+        "D": "Il créa l’ENA avec Messali Hadj"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle est la stratégie du pouvoir colonial français après les événements de Sétif ?",
+      "réponses": {
+        "A": "Accélérer les négociations d’indépendance",
+        "B": "Remettre l’Algérie à l’ONU comme territoire sous tutelle",
+        "C": "Réprimer brutalement les révoltes tout en promettant des réformes illusoires",
+        "D": "Organiser une consultation populaire sur l’autonomie régionale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle est la particularité de l’Assemblée algérienne créée en 1947 ?",
+      "réponses": {
+        "A": "Elle était paritaire entre Musulmans et Européens",
+        "B": "Elle fonctionnait sur un système de double collège très inégalitaire",
+        "C": "Elle interdisait l’accès aux citoyens musulmans",
+        "D": "Elle disposait d’un pouvoir législatif autonome"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi les élections de 1948 en Algérie ont-elles provoqué des tensions ?",
+      "réponses": {
+        "A": "Elles ont abouti à la victoire écrasante du FLN",
+        "B": "Elles ont été entachées de fraudes massives contre les nationalistes",
+        "C": "Elles ont vu l’instauration du multipartisme",
+        "D": "Elles ont donné le pouvoir à un président élu musulman"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle a été la position des Oulémas face à la question nationale dans les années 1930–1940 ?",
+      "réponses": {
+        "A": "Revendiquer une indépendance culturelle et religieuse avant une autonomie politique",
+        "B": "Soutenir la fusion de l’Algérie avec la Syrie",
+        "C": "Combattre le port du voile et promouvoir le modèle républicain français",
+        "D": "Promouvoir la partition entre Nord et Sud algérien"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quel fut le principal effet des divisions internes au MTLD dans les années 1950 ?",
+      "réponses": {
+        "A": "La fin de la lutte politique par absorption dans le FLN",
+        "B": "Le ralliement au gouvernement français",
+        "C": "La naissance du CRUA, regroupant les éléments les plus déterminés à lancer la lutte armée",
+        "D": "L’adoption de l’autonomie dans le cadre de l’Union française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi l'Union Démocratique du Manifeste Algérien (UDMA) se démarque-t-elle du PPA ?",
+      "réponses": {
+        "A": "Elle était favorable à une indépendance immédiate et armée",
+        "B": "Elle préférait une évolution progressive vers l’autonomie dans le respect de la légalité",
+        "C": "Elle soutenait le colonialisme éclairé",
+        "D": "Elle était dirigée par des religieux extrémistes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est la principale critique faite au projet de citoyenneté élargie proposé par la France ?",
+      "réponses": {
+        "A": "Il maintenait la domination coloniale en accordant des droits sans égalité réelle",
+        "B": "Il donnait trop de pouvoir aux élites religieuses",
+        "C": "Il supprimait la langue arabe de l’espace public",
+        "D": "Il imposait le service militaire obligatoire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Qu’est-ce qui caractérise le discours de Ferhat Abbas en 1943 ?",
+      "réponses": {
+        "A": "Il revendique l’indépendance totale et immédiate",
+        "B": "Il réclame une république algérienne autonome dans une Union Franco-Musulmane",
+        "C": "Il défend l’idée d’une monarchie islamique",
+        "D": "Il prône la fédération maghrébine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Pourquoi l’échec des réformes françaises a-t-il précipité l’option de la lutte armée ?",
+      "réponses": {
+        "A": "Parce que les partis communistes algériens ont exigé l’usage des armes",
+        "B": "Parce que toutes les tentatives de réformes ont été soit bloquées, soit vidées de leur contenu",
+        "C": "Parce que la France avait déjà promis l’indépendance en 1952",
+        "D": "Parce que l’ONU a voté une résolution en ce sens"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

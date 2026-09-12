@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chapitre 2 : Composés Carbonylés</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; 
+            padding: 15px; 
+            color: #333; 
+        }
+
+        .container { max-width: 750px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-bottom: 4px solid var(--orange-ivoire);
+        }
+
+        h1 { 
+            color: var(--orange-ivoire); 
+            font-size: 1.6rem;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .section-tag {
+            color: var(--vert-ivoire);
+            font-size: 0.85rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        .question-text { 
+            font-weight: 600; 
+            font-size: 1.1rem; 
+            margin-bottom: 15px; 
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option { 
+            display: flex; 
+            align-items: center;
+            padding: 14px; 
+            margin: 10px 0; 
+            background: #fcfcfc;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .option:hover { background: #fff4ee; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { 
+            margin-right: 15px; 
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.3);
+        }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .feedback { margin-top: 12px; font-weight: bold; font-size: 0.95rem; }
+
+        .btn-submit { 
+            display: block; 
+            width: 100%; 
+            padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 1.2rem; 
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 40px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled { background: #ccc; cursor: not-allowed; }
+
+        .footer-box {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>Composés Carbonylés : Aldéhydes et Cétones</h1>
+        <p>Évaluation des connaissances sur la nomenclature, les tests d'identification et les propriétés chimiques.</p>
+    </div>
+    
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+
+    <div class="footer-box">
+        © AMBITION+ - Excellence en Sciences Physiques
+    </div>
+</div>
+
+<script>
+    const data = [
+        // DÉFINITION ET FORMULES
+        {
+            "s": "Définition et Formules",
+            "q": "Quelle est la définition d'un composé carbonylé ?",
+            "options": {
+                "A": "Un composé avec un groupe hydroxyle $-OH$.",
+                "B": "Un composé avec un carbone lié à deux oxygènes.",
+                "C": "Un composé dont le carbone est doublement lié à un oxygène ($C=O$).",
+                "D": "Un hydrocarbure saturé."
+            },
+            "r": "C"
+        },
+        {
+            "s": "Définition et Formules",
+            "q": "Quelle est la formule brute générale des aldéhydes et des cétones saturés non cycliques ?",
+            "options": {
+                "A": "$C_nH_{2n+2}O$",
+                "B": "$C_nH_{2n}O$",
+                "C": "$C_nH_{2n}O_2$",
+                "D": "$C_nH_{2n-2}O$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Définition et Formules",
+            "q": "Comment calcule-t-on la masse molaire $M$ d'un composé carbonylé en fonction de $n$ ?",
+            "options": {
+                "A": "$M = 14n + 18$",
+                "B": "$M = 12n + 16$",
+                "C": "$M = 14n + 16$",
+                "D": "$M = 14n + 32$"
+            },
+            "r": "C"
+        },
+        // NOMENCLATURE ALDÉHYDES
+        {
+            "s": "Nomenclature des Aldéhydes",
+            "q": "Quel est le nom de l'aldéhyde à un seul atome de carbone ($n=1$) ?",
+            "options": {
+                "A": "Éthanal",
+                "B": "Méthanal",
+                "C": "Propanal",
+                "D": "Méthanone"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Nomenclature des Aldéhydes",
+            "q": "La terminaison utilisée pour nommer un aldéhyde est :",
+            "options": {
+                "A": "-ol",
+                "B": "-one",
+                "C": "-al",
+                "D": "-oïque"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Nomenclature des Aldéhydes",
+            "q": "Quel est le nom systématique de $CH_3-CH(CH_3)-CHO$ ?",
+            "options": {
+                "A": "2-méthylpropanal",
+                "B": "Butanal",
+                "C": "Méthylpropan-1-al",
+                "D": "Isopropanal"
+            },
+            "r": "A"
+        },
+        // NOMENCLATURE CÉTONES
+        {
+            "s": "Nomenclature des Cétones",
+            "q": "Quelle est la terminaison utilisée pour nommer une cétone ?",
+            "options": {
+                "A": "-al",
+                "B": "-one",
+                "C": "-oate",
+                "D": "-yle"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Nomenclature des Cétones",
+            "q": "Dans une cétone, le groupe carbonyle est situé :",
+            "options": {
+                "A": "Toujours en bout de chaîne.",
+                "B": "Entre deux atomes de carbone (milieu de chaîne).",
+                "C": "Lié à un atome d'hydrogène.",
+                "D": "Sur un cycle uniquement."
+            },
+            "r": "B"
+        },
+        {
+            "s": "Nomenclature des Cétones",
+            "q": "Quel est le nom de la cétone la plus simple (3 carbones) ?",
+            "options": {
+                "A": "Éthanone",
+                "B": "Propan-1-one",
+                "C": "Propan-2-one (ou propanone)",
+                "D": "Butan-2-one"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Nomenclature des Cétones",
+            "q": "Le nom d'une cétone à chaîne linéaire se présente sous la forme :",
+            "options": {
+                "A": "Alcan-x-al",
+                "B": "Alcan-x-one",
+                "C": "X-alkylalcanal",
+                "D": "Acide alcanoïque"
+            },
+            "r": "B"
+        },
+        // TESTS D'IDENTIFICATION
+        {
+            "s": "Identification",
+            "q": "Quel réactif permet de mettre en évidence le groupe carbonyle ($C=O$) pour les aldéhydes ET les cétones ?",
+            "options": {
+                "A": "La liqueur de Fehling",
+                "B": "Le réactif de Schiff",
+                "C": "La 2,4-DNPH",
+                "D": "Le nitrate d'argent"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Identification",
+            "q": "Quelle est la couleur du précipité obtenu avec la DNPH en présence d'un composé carbonylé ?",
+            "options": {
+                "A": "Rouge brique",
+                "B": "Jaune ou orangé",
+                "C": "Bleu",
+                "D": "Rose violacée"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Identification",
+            "q": "Quel test est spécifique aux aldéhydes et donne un précipité rouge brique ?",
+            "options": {
+                "A": "Réactif de Schiff",
+                "B": "Réactif de Tollens",
+                "C": "Liqueur de Fehling",
+                "D": "DNPH"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Identification",
+            "q": "En présence de réactif de Tollens, l'aldéhyde provoque la formation d'un :",
+            "options": {
+                "A": "Précipité blanc",
+                "B": "Miroir d'argent",
+                "C": "Gaz incolore",
+                "D": "Changement de pH"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Identification",
+            "q": "Le réactif de Schiff prend une coloration rose violacée en présence de :",
+            "options": {
+                "A": "Une cétone uniquement",
+                "B": "Un aldéhyde uniquement",
+                "C": "Un alcool",
+                "D": "Un acide carboxylique"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Identification",
+            "q": "Si un composé réagit avec la DNPH mais pas avec la liqueur de Fehling, c'est :",
+            "options": {
+                "A": "Un aldéhyde",
+                "B": "Une cétone",
+                "C": "Un alcool",
+                "D": "De l'eau"
+            },
+            "r": "B"
+        },
+        // OBTENTION ET OXYDATION
+        {
+            "s": "Obtention des Composés",
+            "q": "L'oxydation ménagée d'un alcool primaire produit :",
+            "options": {
+                "A": "Une cétone",
+                "B": "Un aldéhyde",
+                "C": "Un alcène",
+                "D": "Un éther"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Obtention des Composés",
+            "q": "L'oxydation ménagée d'un alcool secondaire produit :",
+            "options": {
+                "A": "Un aldéhyde",
+                "B": "Une cétone",
+                "C": "Un acide carboxylique",
+                "D": "Rien"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Obtention des Composés",
+            "q": "L'oxydation ménagée d'un aldéhyde donne :",
+            "options": {
+                "A": "Un alcool primaire",
+                "B": "Un acide carboxylique",
+                "C": "Une cétone",
+                "D": "Du dioxyde de carbone"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Obtention des Composés",
+            "q": "Quelle est la particularité chimique des cétones ?",
+            "options": {
+                "A": "Elles sont très réductrices.",
+                "B": "Elles ne possèdent pas de propriété réductrice.",
+                "C": "Elles s'oxydent facilement en acide.",
+                "D": "Elles réagissent avec le réactif de Tollens."
+            },
+            "r": "B"
+        },
+        // PROPRIÉTÉS ET ISOMÉRIE
+        {
+            "s": "Propriétés",
+            "q": "Le groupe carbonyle est noté :",
+            "options": {
+                "A": "$-OH$",
+                "B": "$-CHO$ (aldéhyde)",
+                "C": "$-CO-$ (cétone)",
+                "D": "Les deux réponses B et C sont vraies."
+            },
+            "r": "D"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Combien d'isomères carbonylés existent pour la formule brute $C_3H_6O$ ?",
+            "options": {
+                "A": "Un seul (propanal)",
+                "B": "Deux (propanal et propanone)",
+                "C": "Trois",
+                "D": "Quatre"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "La masse molaire du propanal ($C_3H_6O$) est :",
+            "options": {
+                "A": "$44\\,g/mol$",
+                "B": "$58\\,g/mol$",
+                "C": "$60\\,g/mol$",
+                "D": "$30\\,g/mol$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Le test au nitrate d'argent ammoniacal s'appelle aussi test de :",
+            "options": {
+                "A": "Fehling",
+                "B": "Schiff",
+                "C": "Tollens",
+                "D": "Lucas"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Propriétés",
+            "q": "L'oxydation ménagée d'un aldéhyde préserve :",
+            "options": {
+                "A": "Le nombre d'atomes de carbone.",
+                "B": "Le nombre d'atomes d'hydrogène.",
+                "C": "La chaîne carbonée uniquement si elle est cyclique.",
+                "D": "Rien, la molécule est détruite."
+            },
+            "r": "A"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Quel composé carbonylé donne un test positif avec la liqueur de Fehling ?",
+            "options": {
+                "A": "Le butan-2-one",
+                "B": "L'éthanal",
+                "C": "Le propanone",
+                "D": "Le pentan-3-one"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "La formule semi-développée du méthanal est :",
+            "options": {
+                "A": "$CH_3-CHO$",
+                "B": "$H-CHO$",
+                "C": "$CH_3-CO-CH_3$",
+                "D": "$CH_2=O$"
+            },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Un alcool tertiaire peut-il donner un composé carbonylé par oxydation ménagée ?",
+            "options": {
+                "A": "Oui, un aldéhyde.",
+                "B": "Oui, une cétone.",
+                "C": "Non, il ne subit pas d'oxydation ménagée.",
+                "D": "Oui, un acide carboxylique."
+            },
+            "r": "C"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Quelle famille chimique précipite avec la DNPH ?",
+            "options": {
+                "A": "Les alcools",
+                "B": "Les acides carboxyliques",
+                "C": "Les aldéhydes et les cétones",
+                "D": "Les alcanes"
+            },
+            "r": "C"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Dans le test de Tollens, le miroir d'argent est formé par la réduction de l'ion :",
+            "options": {
+                "A": "$Ag^+$ en $Ag$",
+                "B": "$Cu^{2+}$ en $Cu$",
+                "C": "$Ag$ en $Ag^+$",
+                "D": "$O_2$ en $H_2O$"
+            },
+            "r": "A"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="section-tag">${item.s}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+                feedback.innerHTML = `<span style="color:var(--vert-ivoire)">✔ Correct</span>`;
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat : ${score} / ${data.length}`;
+        
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        if (window.ExerciceChannel) {
+            window.ExerciceChannel.postMessage(JSON.stringify({
+                "score": score,
+                "total": data.length
+            }));
+        }
+    }
+</script>
+
+</body>
+</html>

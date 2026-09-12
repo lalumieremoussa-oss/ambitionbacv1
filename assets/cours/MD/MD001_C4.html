@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+
+            [
+                {
+                    "title": "Étape 1 : Continuité d'une fonction en un point et sur un intervalle",
+                    "content": "La notion de continuité traduit l'idée qu'une fonction ne présente pas de « saut » ou de « rupture » dans son tracé.\n\n**1. Continuité en un point :**\nSoit $f$ une fonction définie sur un intervalle ouvert contenant $x_0$.\nOn dit que $f$ est continue en $x_0$ si et seulement si :\n$\\lim_{x \to x_0} f(x) = f(x_0)$.\nCela implique trois conditions simultanées :\n- $f$ est définie en $x_0$ ($f(x_0)$ existe).\n- La limite de $f$ en $x_0$ existe et est finie.\n- Cette limite est égale à l'image $f(x_0)$.\n\n**2. Continuité à gauche et à droite :**\nDans certains cas (fonctions définies par morceaux), il faut vérifier :\n- La limite à gauche : $\\lim_{x \to x_0^-} f(x) = f(x_0)$\n- La limite à droite : $\\lim_{x \to x_0^+} f(x) = f(x_0)$\nLa fonction est continue si et seulement si : $\\lim_{x \to x_0^-} f(x) = \\lim_{x \to x_0^+} f(x) = f(x_0)$.\n\n**3. Continuité sur un intervalle :**\nUne fonction est continue sur un intervalle $I$ si elle est continue en tout point $x$ de $I$. Les fonctions usuelles (polynômes, sinus, cosinus, rationnelles sur leur domaine) sont continues sur leurs intervalles de définition.",
+                    "example": "Étudions la continuité de la fonction $f$ définie sur $\\mathbb{R}$ par :\n$f(x) = \\frac{x^2 - 1}{x - 1}$ si $x \\neq 1$ et $f(1) = 2$.\n\n**Analyse au point $x_0 = 1$ :**\n1. L'image est définie : $f(1) = 2$.\n2. Calculons la limite en $1$ :\n$\\lim_{x \to 1} \\frac{x^2 - 1}{x - 1} = \\lim_{x \to 1} \\frac{(x - 1)(x + 1)}{x - 1}$\n$\\lim_{x \to 1} (x + 1) = 1 + 1 = 2$.\n3. Comparaison :\nOn constate que $\\lim_{x \to 1} f(x) = 2$ et $f(1) = 2$.\n\n**Conclusion :**\nComme $\\lim_{x \to 1} f(x) = f(1)$, la fonction $f$ est continue au point $x_0 = 1$.",
+                    "extras": [
+                        "Exemple complet : Soit $g(x) = \\begin{cases} x + 1 & \\text{si } x < 2 \\\\ x^2 - 1 & \\text{si } x \\ge 2 \\end{cases}$. Étudions la continuité en $2$.\n- Image : $g(2) = 2^2 - 1 = 3$.\n- Limite à gauche : $\\lim_{x \to 2^-} (x + 1) = 3$.\n- Limite à droite : $\\lim_{x \to 2^+} (x^2 - 1) = 3$.\n- Conclusion : Limite gauche = Limite droite = Image, donc $g$ est continue en $2$.",
+                        "Exemple de discontinuité : $h(x) = E(x)$ (partie entière) en $x = 1$.\n$\\lim_{x \to 1^-} E(x) = 0$ et $\\lim_{x \to 1^+} E(x) = 1$.\nLes limites à gauche et à droite sont différentes, la fonction n'est pas continue en $1$.",
+                        "Remarque : Si une fonction est dérivable en un point, alors elle est nécessairement continue en ce point. La réciproque est fausse (exemple de la fonction valeur absolue en $0$)."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Prolongement par continuité en un point",
+                    "content": "Le prolongement par continuité permet de « boucher un trou » dans le domaine de définition d'une fonction lorsque celle-ci n'y est pas définie mais possède une limite finie.\n\n**1. Condition de prolongement :**\nSoit $f$ une fonction non définie en $x_0$.\n$f$ admet un prolongement par continuité en $x_0$ si et seulement si :\n$\\lim_{x \to x_0} f(x) = L$ (où $L$ est un nombre réel fini).\n\n**2. Définition de la fonction prolongée :**\nSi cette limite $L$ existe, on définit une nouvelle fonction $g$ par :\n$g(x) = f(x)$ si $x \\in D_f$\n$g(x) = L$ si $x = x_0$\nLa fonction $g$ ainsi définie est continue en $x_0$.\n\n**3. Cas classiques :**\nOn retrouve souvent ce cas dans les fonctions rationnelles après simplification d'une forme $0/0$ ou dans les limites trigonométriques remarquables comme $\\frac{\\sin x}{x}$ en $0$.",
+                    "example": "Soit la fonction $f$ définie par $f(x) = \\frac{\\sin x}{x}$ pour $x \\neq 0$.\nPeut-on prolonger $f$ par continuité en $x_0 = 0$ ?\n\n**Étape 1 : Recherche de la limite.**\nOn sait d'après le cours sur les limites remarquables que :\n$\\lim_{x \to 0} \\frac{\\sin x}{x} = 1$.\nLa limite est finie, donc le prolongement est possible.\n\n**Étape 2 : Définition de la fonction prolongée.**\nOn définit la fonction $g$ sur $\\mathbb{R}$ par :\n$g(x) = \\begin{cases} \\frac{\\sin x}{x} & \\text{si } x \\neq 0 \\\\ 1 & \\text{si } x = 0 \\end{cases}$\n\n**Conclusion :**\nLa fonction $g$ est le prolongement par continuité de $f$ en $0$.",
+                    "extras": [
+                        "Exemple complet : $f(x) = \\frac{x^2 - 4}{x - 2}$ en $x_0 = 2$.\n$f$ n'est pas définie en $2$. Calculons la limite :\n$\\lim_{x \to 2} \\frac{(x-2)(x+2)}{x-2} = \\lim_{x \to 2} (x+2) = 4$.\nLe prolongement est $g(x) = x + 2$ pour tout $x$ réel.",
+                        "Exemple complet : $f(x) = x \\ln(x)$ en $0^+$.\nOn sait que $\\lim_{x \to 0^+} x \\ln(x) = 0$.\nOn peut prolonger $f$ par continuité en posant $f(0) = 0$.",
+                        "Exemple d'impossibilité : $f(x) = \\frac{1}{x}$ en $0$.\n$\\lim_{x \to 0^+} f(x) = +\\infty$.\nLa limite n'étant pas finie, on ne peut pas prolonger cette fonction par continuité en $0$.",
+                        "Exemple complet : $f(x) = \\frac{\\sqrt{x+1} - 1}{x}$ en $0$.\nLimite : $\\lim_{x \to 0} \\frac{(\\sqrt{x+1}-1)(\\sqrt{x+1}+1)}{x(\\sqrt{x+1}+1)} = \\lim_{x \to 0} \\frac{x}{x(\\sqrt{x+1}+1)} = \\frac{1}{2}$.\nLe prolongement par continuité en $0$ est $L = 0,5$.",
+                        "Remarque terminologique : On dit souvent que $g$ est « l'extension continue » de $f$."
+                    ]
+                }
+            ]
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

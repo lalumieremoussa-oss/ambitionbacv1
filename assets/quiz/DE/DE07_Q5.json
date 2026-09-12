@@ -1,0 +1,547 @@
+{
+  "title": "DE07_Q5",
+  "id": "DE07_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le nombre 1 005 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "und",
+        "fünf",
+        "hundert",
+        "sechs",
+        "tausend",
+        "zwanzig",
+        "ein"
+      ],
+      "bonne réponse": "eintausendfünf"
+    },
+    "question n°2": {
+      "question": "Quel est le nombre 2 015 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünf",
+        "und",
+        "vierzehn",
+        "zwei",
+        "hundert",
+        "tausend",
+        "zwanzig",
+        "fünfzehn"
+      ],
+      "bonne réponse": "zweitausendfünfzehn"
+    },
+    "question n°3": {
+      "question": "Quel est le nombre 3 400 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünf",
+        "tausend",
+        "zehn",
+        "vier",
+        "hundert",
+        "sechzig",
+        "drei",
+        "zwei"
+      ],
+      "bonne réponse": "dreitausendvierhundert"
+    },
+    "question n°4": {
+      "question": "Quel est le nombre 4 781 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "einundachtzig",
+        "hundert",
+        "tausend",
+        "zehn",
+        "sieben",
+        "einundsechzig",
+        "neunzig",
+        "zwei",
+        "und",
+        "fünf",
+        "drei",
+        "vier"
+      ],
+      "bonne réponse": "viertausendsiebenhunderteinundachtzig"
+    },
+    "question n°5": {
+      "question": "Quel est le nombre 5 050 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "fünfzig",
+        "hundert",
+        "und",
+        "fünf",
+        "sechs",
+        "zwanzig",
+        "zehn"
+      ],
+      "bonne réponse": "fünftausendfünfzig"
+    },
+    "question n°6": {
+      "question": "Quel est le nombre 6 112 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sechs",
+        "sieben",
+        "ein",
+        "zweiundfünfzig",
+        "hundert",
+        "zwanzig",
+        "vier",
+        "tausend",
+        "zehn",
+        "und",
+        "zweiundneunzig",
+        "zwölf"
+      ],
+      "bonne réponse": "sechstausendeinhundertzwölf"
+    },
+    "question n°7": {
+      "question": "Quel est le nombre 7 809 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "und",
+        "neunundfünfzig",
+        "acht",
+        "zehn",
+        "sieben",
+        "tausend",
+        "achtzig",
+        "neun",
+        "ein",
+        "hundert",
+        "vier",
+        "zwei"
+      ],
+      "bonne réponse": "siebentausendachthundertneun"
+    },
+    "question n°8": {
+      "question": "Quel est le nombre 8 888 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "acht",
+        "zehn",
+        "hundert",
+        "achtundsiebzig",
+        "fünf",
+        "und",
+        "sechs",
+        "acht",
+        "neun",
+        "ein",
+        "achtundachtzig"
+      ],
+      "bonne réponse": "achttausendachthundertachtundachtzig"
+    },
+    "question n°9": {
+      "question": "Quel est le nombre 9 000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "zehn",
+        "hundert",
+        "neun"
+      ],
+      "bonne réponse": "neuntausend"
+    },
+    "question n°10": {
+      "question": "Quel est le nombre 10 200 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünfzig",
+        "hundert",
+        "zwei",
+        "tausend",
+        "vierzig",
+        "ein",
+        "zehn",
+        "zwei"
+      ],
+      "bonne réponse": "zehntausendzweihundert"
+    },
+    "question n°11": {
+      "question": "Quel est le nombre 11 040 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "hundert",
+        "elf",
+        "fünf",
+        "und",
+        "vierzig",
+        "drei",
+        "zehn"
+      ],
+      "bonne réponse": "elftausendvierzig"
+    },
+    "question n°12": {
+      "question": "Quel est le nombre 13 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünf",
+        "und",
+        "neun",
+        "tausend",
+        "siebzig",
+        "dreizehn",
+        "zehn",
+        "achtzig",
+        "hundert",
+        "neunundneunzig",
+        "zwei",
+        "ein"
+      ],
+      "bonne réponse": "dreizehntausendneunhundertneunundneunzig"
+    },
+    "question n°13": {
+      "question": "Quel est le nombre 25 101 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "hundert",
+        "fünfundzwanzig",
+        "zwei",
+        "drei",
+        "tausend",
+        "fünfzig",
+        "und",
+        "sechs",
+        "vier",
+        "zehn",
+        "ein"
+      ],
+      "bonne réponse": "fünfundzwanzigtausendeinhunderteins"
+    },
+    "question n°14": {
+      "question": "Quel est le nombre 30 075 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "fün",
+        "und",
+        "vier",
+        "dreißig",
+        "ein",
+        "tausend",
+        "fünfundsiebzig",
+        "zwei",
+        "fünfundzwanzig"
+      ],
+      "bonne réponse": "dreißigtausendfünfundsiebzig"
+    },
+    "question n°15": {
+      "question": "Quel est le nombre 42 618 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "sechs",
+        "zehn",
+        "zweiundvierzig",
+        "und",
+        "siebzig",
+        "drei",
+        "ein",
+        "achtzehn",
+        "zwölf",
+        "fünf",
+        "tausend"
+      ],
+      "bonne réponse": "zweiundvierzigtausendsechshundertachtzehn"
+    },
+    "question n°16": {
+      "question": "Quel est le nombre 58 000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "tausend",
+        "ein",
+        "achtundfünfzig"
+      ],
+      "bonne réponse": "achtundfünfzigtausend"
+    },
+    "question n°17": {
+      "question": "Quel est le nombre 66 666 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "hundert",
+        "tausend",
+        "siebzig",
+        "sechsundsechzig",
+        "und",
+        "neun",
+        "sechs",
+        "ein",
+        "zwanzig",
+        "sechsundsechzig",
+        "fünf"
+      ],
+      "bonne réponse": "sechsundsechzigtausendsechshundertsechsundsechzig"
+    },
+    "question n°18": {
+      "question": "Quel est le nombre 70 002 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ein",
+        "und",
+        "siebzig",
+        "tausend",
+        "drei",
+        "hundert",
+        "zwei",
+        "zwanzig"
+      ],
+      "bonne réponse": "siebzigtausendzwei"
+    },
+    "question n°19": {
+      "question": "Quel est le nombre 84 321 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "zehn",
+        "und",
+        "ein",
+        "drei",
+        "einundvierzig",
+        "hundert",
+        "sechs",
+        "vierundachtzig",
+        "zwei",
+        "einundzwanzig",
+        "fünf"
+      ],
+      "bonne réponse": "vierundachtzigtausenddreihunderteinundzwanzig"
+    },
+    "question n°20": {
+      "question": "Quel est le nombre 99 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "und",
+        "hundert",
+        "zehn",
+        "neunundneunzig",
+        "acht",
+        "fünf",
+        "neun",
+        "zwei",
+        "neunundneunzig",
+        "siebzig",
+        "ein"
+      ],
+      "bonne réponse": "neunundneunzigtausendneunhundertneunundneunzig"
+    },
+    "question n°21": {
+      "question": "Quel est le nombre 101 001 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "acht",
+        "hundert",
+        "und",
+        "eins",
+        "sechs",
+        "fünf",
+        "und",
+        "tausend",
+        "vier",
+        "zehn",
+        "ein",
+        "sieben",
+        "zwei",
+        "ein"
+      ],
+      "bonne réponse": "einhunderteintausendeins"
+    },
+    "question n°22": {
+      "question": "Quel est le nombre 120 500 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "sechs",
+        "hundert",
+        "und",
+        "fünfzig",
+        "ein",
+        "zehn",
+        "vier",
+        "zwanzig",
+        "hundert",
+        "fünf",
+        "zwei"
+      ],
+      "bonne réponse": "einhundertzwanzigtausendfünfhundert"
+    },
+    "question n°23": {
+      "question": "Quel est le nombre 155 555 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundert",
+        "Million",
+        "fünfundachtzig",
+        "ein",
+        "und",
+        "sechs",
+        "fünfundfünfzig",
+        "fünf",
+        "drei",
+        "sechzehn",
+        "und",
+        "tausend",
+        "fünfundfünfzig",
+        "hundert",
+        "siebzig",
+        "vier",
+        "neunzig",
+        "zwei"
+      ],
+      "bonne réponse": "einhundertfünfundfünfzigtausendfünfhundertfünfundfünfzig"
+    },
+    "question n°24": {
+      "question": "Quel est le nombre 210 010 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "ein",
+        "und",
+        "tausend",
+        "hundert",
+        "fünfzig",
+        "zwei",
+        "sechs",
+        "und",
+        "drei",
+        "vierzehn",
+        "zehn"
+      ],
+      "bonne réponse": "zweihundertzehntausendzehn"
+    },
+    "question n°25": {
+      "question": "Quel est le nombre 300 300 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "tausend",
+        "drei",
+        "hundert",
+        "one",
+        "vier",
+        "fünfzig",
+        "drei",
+        "zwei",
+        "hundert"
+      ],
+      "bonne réponse": "dreihunderttausenddreihundert"
+    },
+    "question n°26": {
+      "question": "Quel est le nombre 444 444 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "tausend",
+        "acht",
+        "hundert",
+        "sechzig",
+        "zehn",
+        "und",
+        "und",
+        "vierundvierzig",
+        "vier",
+        "fünf",
+        "vierundvierzig",
+        "hundert",
+        "neun",
+        "zwei",
+        "vier",
+        "sieben",
+        "ein",
+        "drei"
+      ],
+      "bonne réponse": "vierhundertvierundvierzigtausendvierhundertvierundvierzig"
+    },
+    "question n°27": {
+      "question": "Quel est le nombre 550 000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sechzig",
+        "tausend",
+        "hundert",
+        "fünf",
+        "fünfzig",
+        "ein",
+        "und",
+        "zwei"
+      ],
+      "bonne réponse": "fünfhundertfünfzigtausend"
+    },
+    "question n°28": {
+      "question": "Quel est le nombre 678 901 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "achtzig",
+        "hundert",
+        "zehn",
+        "achtundseventy",
+        "tausend",
+        "und",
+        "eins",
+        "vierzig",
+        "sechs",
+        "und",
+        "fünf",
+        "hundert",
+        "neun",
+        "neun",
+        "sieben",
+        "drei",
+        "zwei",
+        "sechzig"
+      ],
+      "bonne réponse": "sechshundertachtundsiebzigtausendneunhunderteins"
+    },
+    "question n°29": {
+      "question": "Quel est le nombre 800 080 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "siebzig",
+        "acht",
+        "ein",
+        "hundert",
+        "und",
+        "fünf",
+        "tausend",
+        "achtzig",
+        "zehn",
+        "zwei"
+      ],
+      "bonne réponse": "achthunderttausendachtzig"
+    },
+    "question n°30": {
+      "question": "Quel est le nombre 999 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vierzig",
+        "und",
+        "tausend",
+        "ein",
+        "acht",
+        "hundert",
+        "zehn",
+        "neunundneunzig",
+        "drei",
+        "neun",
+        "fünf",
+        "sechs",
+        "und",
+        "hundert",
+        "siebzig",
+        "neunundneunzig",
+        "zwei"
+      ],
+      "bonne réponse": "neunundneunzigtausendneunhundertneunundneunzig"
+    }
+  }
+}

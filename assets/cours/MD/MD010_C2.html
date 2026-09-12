@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Résolution des équations de type $e^A = e^B$ et $e^A = 1$",
+                    "content": "Pour résoudre une équation contenant une exponentielle, la règle d'or est de se ramener à une égalité de puissances de même base. Contrairement au logarithme, l'exponentielle $e^x$ est définie pour tout réel $x$.\n\n**Règles fondamentales :**\n- L'égalité $e^A = e^B$ est équivalente à $A = B$.\n- L'égalité $e^A = 1$ est un cas particulier de la règle précédente. Comme $e^0 = 1$, l'équation $e^A = 1$ revient à résoudre $A = 0$.\n- L'exponentielle est une fonction strictement croissante sur $\\mathbb{R}$, ce qui justifie que $e^A = e^B \\iff A = B$.",
+                    "example": "Résolvons l'équation $e^{x^2 - 4} = e^{2 - 4x}$ :\n\nIci, nous avons une égalité de deux exponentielles, ce qui nous permet d'égaliser directement les exposants.\n$x^2 - 4 = 2 - 4x$\nTransposons tous les termes à gauche pour obtenir une équation du second degré :\n$x^2 + 4x - 4 - 2 = 0$\n$x^2 + 4x - 6 = 0$\nCalcul du discriminant $Δ = b^2 - 4ac$ :\n$Δ = 4^2 - 4(1)(-6) = 16 + 24 = 40$.\nLes racines sont :\n$x_1 = \\frac{-4 - \\sqrt{40}}{2} = \\frac{-4 - 2\\sqrt{10}}{2} = -2 - \\sqrt{10}$\n$x_2 = \\frac{-4 + \\sqrt{40}}{2} = \\frac{-4 + 2\\sqrt{10}}{2} = -2 + \\sqrt{10}$\nL'ensemble de solution est $S = \\{-2 - \\sqrt{10} ; -2 + \\sqrt{10}\\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons $e^{x + 2} = e^3$.\nPar identification des exposants, on a : $x + 2 = 3$.\nEn isolant $x$, on obtient $x = 3 - 2 = 1$.\nL'ensemble de solution est $S = \\{1\\}$.",
+                        "Exemple complet : Résolvons $e^{x^2 - 2x + 2} = 1$.\nOn sait que $1 = e^0$, donc l'équation devient $x^2 - 2x + 2 = 0$.\nCalcul du discriminant : $Δ = (-2)^2 - 4(1)(2) = 4 - 8 = -4$.\nComme $Δ < 0$, l'équation n'a pas de solution réelle.\n$S = \\emptyset$.",
+                        "Exemple complet : Résolvons $\\frac{e^{5x + 2}}{e^{x + 2}} = e^{x - 2}$.\nUtilisons les propriétés de l'exponentielle : $e^{(5x+2) - (x+2)} = e^{x-2}$, soit $e^{4x} = e^{x-2}$.\nOn égalise les exposants : $4x = x - 2 \\implies 3x = -2 \\implies x = -\\frac{2}{3}$.\n$S = \\{-\\frac{2}{3}\\}$.",
+                        "Exemple complet : Résolvons $e^{x - 1} \\times e^{x + 1} = e^{2 + x}$.\nEn utilisant le produit : $e^{(x-1) + (x+1)} = e^{2+x} \\implies e^{2x} = e^{2+x}$.\nOn résout $2x = 2 + x \\implies x = 2$.\n$S = \\{2\\}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Résolution de type $e^A = b$ et Inéquations Exponentielles",
+                    "content": "Pour résoudre l'équation $e^A = b$, il est impératif de vérifier le signe de $b$ :\n- Si $b \\le 0$, l'équation n'admet aucune solution car $e^A$ est toujours strictement positif.\n- Si $b > 0$, on utilise la fonction logarithme népérien ($ln$) pour isoler $A$, car $ln(e^A) = A$. Ainsi, $e^A = b \\iff A = ln(b)$.\n\nPour les inéquations, on utilise la stricte croissance de la fonction exponentielle :\n- $e^A < e^B \\iff A < B$\n- $e^A \\le b \\iff A \\le ln(b)$ (si $b > 0$).",
+                    "example": "Résolvons l'inéquation $e^{x^2 - 9} \\le 1$ :\n\nL'inéquation est équivalente à $e^{x^2 - 9} \\le e^0$.\nEn utilisant la croissance de la fonction exponentielle, cela revient à :\n$x^2 - 9 \\le 0$\n$(x - 3)(x + 3) \\le 0$\nÉtudions le signe du trinôme $x^2 - 9$. C'est un polynôme dont les racines sont $-3$ et $3$.\nLe coefficient devant $x^2$ est positif ($1 > 0$), donc le trinôme est négatif entre les racines.\nL'ensemble de solution est $S = [-3 ; 3]$.",
+                    "extras": [
+                        "Exemple complet : Résolvons $e^x = 2$.\nComme $2 > 0$, on applique le logarithme : $ln(e^x) = ln(2)$, donc $x = ln(2)$.\n$S = \\{ln(2)\\}$.",
+                        "Exemple complet : Résolvons $e^{2x - 3} = -5$.\nL'exponentielle $e^{2x-3}$ est strictement positive pour tout $x$ réel.\nUn nombre positif ne peut être égal à $-5$.\nConclusion : L'équation est impossible, $S = \\emptyset$.",
+                        "Exemple complet : Résolvons $e^{x - 4} < 1$.\n$e^{x - 4} < e^0 \\iff x - 4 < 0 \\iff x < 4$.\n$S = ]-\\infty ; 4[$.",
+                        "Exemple complet : Résolvons $(1 - e^x)(3 + e^x) \\ge 0$.\nOn sait que $e^x > 0$ pour tout $x$, donc $3 + e^x$ est toujours strictement positif.\nLe signe dépend uniquement de $(1 - e^x)$.\n$1 - e^x \\ge 0 \\iff 1 \\ge e^x \\iff e^0 \\ge e^x \\iff 0 \\ge x$.\n$S = ]-\\infty ; 0]$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Systèmes d'équations et Changement de variable",
+                    "content": "Certaines équations ou systèmes complexes nécessitent des méthodes spécifiques :\n1. **Changement de variable :** Pour des équations de type $ae^{2x} + be^x + c = 0$, on pose $X = e^x$ avec $X > 0$ pour se ramener à un polynôme du second degré.\n2. **Systèmes d'équations :** On utilise les propriétés algébriques ($e^x \\times e^y = e^{x+y}$) pour transformer le système en un système linéaire classique.",
+                    "example": "Résolvons le système suivant :\n$e^x \\times e^y = e^{-2}$\n$(e^x)^y = e^{-15}$\n\nTransformation du système :\nLa première équation donne $e^{x+y} = e^{-2}$, soit $x + y = -2$.\nLa deuxième équation donne $e^{xy} = e^{-15}$, soit $xy = -15$.\n\nNous cherchons deux nombres $x$ et $y$ dont la somme $S = -2$ et le produit $P = -15$.\nCes nombres sont les racines de l'équation $X^2 - SX + P = 0$, soit $X^2 + 2X - 15 = 0$.\nCalcul du discriminant : $Δ = 2^2 - 4(1)(-15) = 4 + 60 = 64 = 8^2$.\n$X_1 = \\frac{-2 - 8}{2} = -5$\n$X_2 = \\frac{-2 + 8}{2} = 3$\nLes couples solutions sont $(x, y) \\in \\{(-5, 3) ; (3, -5)\\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons $e^{2x} - 3e^x + 2 = 0$.\nPosons $X = e^x$. L'équation devient $X^2 - 3X + 2 = 0$.\nLes racines sont $X_1 = 1$ et $X_2 = 2$.\nOn revient à $x$ : $e^x = 1 \\implies x = 0$ ou $e^x = 2 \\implies x = ln(2)$.\n$S = \\{0 ; ln(2)\\}$.",
+                        "Exemple complet : Résolvons le système $x + y = 5$ et $e^x \\times e^y = e^6$.\nLa deuxième équation implique $x + y = 6$.\nOn se retrouve avec $x + y = 5$ et $x + y = 6$, ce qui est contradictoire.\n$S = \\emptyset$.",
+                        "Exemple complet : Résolvons $e^x + e^{-x} = 2$.\nMultiplions tout par $e^x$ : $e^{2x} + 1 = 2e^x \\implies e^{2x} - 2e^x + 1 = 0$.\nEn posant $X = e^x$, on a $X^2 - 2X + 1 = 0 \\iff (X-1)^2 = 0 \\iff X = 1$.\n$e^x = 1 \\implies x = 0$.\n$S = \\{0\\}$.",
+                        "Exemple complet : Résolvons le système $e^{x+y} = 10$ et $e^{x-y} = 2$.\nEn appliquant le logarithme : $x + y = ln(10)$ et $x - y = ln(2)$.\nPar addition : $2x = ln(10) + ln(2) = ln(20) \\implies x = \\frac{ln(20)}{2} = ln(\\sqrt{20})$.\nPar soustraction : $2y = ln(10) - ln(2) = ln(5) \\implies y = \\frac{ln(5)}{2} = ln(\\sqrt{5})$."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

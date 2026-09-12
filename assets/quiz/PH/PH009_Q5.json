@@ -1,0 +1,190 @@
+{
+  "id": "PH009_Q5",
+  "title": "Quiz 5",
+  "questions": {
+    "question n°1": {
+      "question": "On considère le sujet suivant : «La verité scientifique est-elle définitive». Dans le contexte du sujet, la « vérité scientifique » fait référence à un savoir :",
+      "réponses": {
+        "A": "Subjectif et changeant, dépendant des opinions personnelles et des interprétations culturelles, sans aucune prétention à l’universalité ou à l’objectivité.",
+        "B": "Principalement intuitif ou révélé, qui ne nécessite pas de démonstration rigoureuse ni de vérification empirique pour être considéré comme exact.",
+        "C": "Poétique ou métaphorique, dont le but est d’inspirer ou de provoquer la réflexion, sans chercher à décrire fidèlement la réalité ou ses lois.",
+        "D": "Objectif et fondé sur des preuves vérifiables, des lois établies par des méthodes rigoureuses (observation, expérimentation, logique), et susceptible d’être universellement admis ou démontré."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Le terme « Définitive » dans le sujet implique une vérité qui serait :",
+      "réponses": {
+        "A": "Seulement temporaire et provisoire, destinée à être systématiquement et rapidement réfutée par de nouvelles découvertes ou de nouveaux paradigmes scientifiques.",
+        "B": "Relative à un contexte culturel ou historique donné, et qui ne peut prétendre à aucune validité au-delà de ses limites spécifiques ou de ses conditions initiales de production.",
+        "C": "Fixée par un consensus majoritaire de la communauté scientifique à un instant T, mais sans aucune garantie de permanence ou d’irrévocabilité à long terme.",
+        "D": "Absolue, incontestable et irrévocable, ne pouvant être remise en question, modifiée ou dépassée par de futures avancées ou des observations contradictoires, constituant ainsi un aboutissement final du savoir."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "La reformulation du problème en : « La vérité scientifique peut-elle être considérée comme définitive, ou bien doit-elle être perçue comme une étape dans un processus sans fin ? » met en évidence une interrogation sur :",
+      "réponses": {
+        "A": "Le fait que la science est une simple suite d’erreurs et de falsifications, sans jamais atteindre de vérité, qu’elle soit provisoire ou définitive.",
+        "B": "La supériorité de la vérité philosophique ou religieuse sur la vérité scientifique, qui serait par nature inférieure et moins pertinente pour l’humanité.",
+        "C": "L’incapacité de la science à produire des connaissances fiables, la rendant incapable de se situer dans un processus évolutif ou d’aboutir à des certitudes.",
+        "D": "La nature même de la vérité scientifique : est-elle une connaissance stable et achevée, un point d’arrivée inébranlable, ou est-elle intrinsèquement provisoire, un jalon dans une quête incessante de savoir, toujours susceptible de révision ?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quels penseurs sont associés à l’idée que la vérité scientifique repose sur des fondements rigoureux et offre des résultats « incontestables » ?",
+      "réponses": {
+        "A": "Karl Popper et Gaston Bachelard, pour leurs théories insistant sur la réfutabilité des hypothèses et le caractère provisoire des connaissances scientifiques.",
+        "B": "René Descartes et Claude Bernard, figures emblématiques d’une vision où la science, par sa méthode rigoureuse (déduction, expérimentation), peut accéder à des certitudes indubitables ou des vérités solides et vérifiables.",
+        "C": "Friedrich Nietzsche et Michel Foucault, pour leurs critiques de la notion de vérité objective, la considérant comme une construction de pouvoir ou une illusion métaphysique.",
+        "D": "David Hume et John Locke, qui, en tant qu’empiristes, mettaient l’accent sur les limites de l’expérience et le caractère probable, non absolu, des généralisations scientifiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "À l’opposé de Descartes et Claude Bernard, quels philosophes remettent en cause l’idée d’une vérité scientifique absolue, en soulignant son caractère provisoire, révisable, voire réfutable ?",
+      "réponses": {
+        "A": "Platon et Aristote, dont les philosophies posent des vérités universelles et intemporelles comme fondement de la connaissance et de l’être.",
+        "B": "Les rationalistes du XVIIe siècle comme Spinoza et Leibniz, pour qui la raison pure permet d’atteindre des vérités éternelles et nécessaires, indépendantes de l’expérience.",
+        "C": "Les positivistes comme Auguste Comte, qui croyaient en un progrès continu et cumulatif de la science, aboutissant à des vérités de plus en plus certaines et stables.",
+        "D": "Karl Popper et Gaston Bachelard, qui, par leurs épistémologies critiques, ont insisté sur le caractère toujours provisoire des théories scientifiques, leur soumission à la falsification et leur évolution par ruptures ou remises en question successives."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Un Argument de l’Axe I (« La vérité scientifique apparaît comme rigoureuse, universelle et indiscutable ») affirme qu’elle repose sur des méthodes fiables. Ces procédures rigoureuses incluent :",
+      "réponses": {
+        "A": "Principalement l’intuition et la spéculation philosophique, sans aucune nécessité de vérification ou de reproduction des résultats en laboratoire.",
+        "B": "L’observation systématique, la formulation d’hypothèses, l’expérimentation contrôlée et la déduction logique, permettant de produire des résultats qui peuvent être vérifiés et reproduits par d’autres chercheurs.",
+        "C": "Des processus arbitraires et non structurés, qui varient d’un scientifique à l’autre et ne permettent pas d’obtenir des résultats cohérents ou reproductibles.",
+        "D": "L’adhésion à des dogmes religieux ou des croyances populaires, qui sont considérés comme suffisants pour établir la validité des connaissances."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Selon Claude Bernard, dans son Introduction à l’étude de la médecine expérimentale, il insiste sur la nécessité de vérifier les faits par l’expérimentation. Cela signifie que :",
+      "réponses": {
+        "A": "L’expérimentation est une étape facultative dans la démarche scientifique, qui peut être omise si les hypothèses sont suffisamment plausibles.",
+        "B": "La science se construit uniquement sur des spéculations théoriques, et la confrontation avec les faits par l’expérimentation est un processus inutile et dénué de sens.",
+        "C": "La validation des connaissances scientifiques exige une confrontation rigoureuse avec la réalité observable, par des tests et des mesures contrôlées, pour confirmer ou infirmer les théories.",
+        "D": "La vérification des faits doit se faire par la seule intuition du chercheur, sans recourir à des protocoles expérimentaux ou des mesures objectives."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "René Descartes admirait les mathématiques pour leur certitude et affirmait : « Je me plaisais surtout aux mathématiques à cause de la certitude de leurs raisons. » Cette citation révèle que pour Descartes :",
+      "réponses": {
+        "A": "Les mathématiques sont une discipline récréative, dont l’unique intérêt est le divertissement de l’esprit, sans aucune portée cognitive sérieuse.",
+        "B": "La certitude est une illusion qui doit être évitée en science, et les mathématiques sont un exemple de cette erreur de jugement.",
+        "C": "La rigueur démonstrative des mathématiques, fondée sur des déductions logiques claires et des axiomes indubitables, offre un modèle de connaissance irréfutable et d’une vérité absolue, contrairement aux connaissances issues des sens.",
+        "D": "Les raisons mathématiques sont complexes et inaccessibles au commun des mortels, ce qui les rend inutiles pour la quête de la vérité universelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Un Argument de l’Axe I est que la vérité scientifique tend vers l’universalité. Cela signifie que :",
+      "réponses": {
+        "A": "Les vérités scientifiques sont culturelles et contextuelles, et ne peuvent être comprises ou acceptées que par les membres d’une communauté spécifique ou d’une civilisation particulière.",
+        "B": "La science est un ensemble de croyances personnelles qui n’ont aucune prétention à s’appliquer au-delà de l’individu qui les énonce ou les valide subjectivement.",
+        "C": "Les vérités scientifiques sont éphémères et ne durent qu’un temps très court, sans aucune capacité à se maintenir à travers les époques ou les changements de paradigmes.",
+        "D": "Les lois et les principes découverts par la science sont valables et s’imposent à tous les êtres humains, quelles que soient leurs origines, leurs cultures ou leurs systèmes de croyances, transcendant ainsi les particularismes et les subjectivités."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Gustave Le Bon, dans Les incertitudes de l’heure présente, affirme : « Les vérités scientifiques sont des vérités universelles. » Cette citation renforce l’idée que la vérité scientifique :",
+      "réponses": {
+        "A": "Est relative aux époques et aux lieux, et ne possède aucune validité en dehors du contexte social et intellectuel de sa découverte.",
+        "B": "Est une construction arbitraire du langage, sans aucune correspondance avec la réalité observable ou une application concrète au monde.",
+        "C": "Ne peut être comprise que par une élite de savants, restant inaccessible au reste de l’humanité en raison de sa complexité et de son caractère ésotérique.",
+        "D": "Possède une validité qui transcende les frontières géographiques et les cultures humaines, s’imposant partout de la même manière en raison de son fondement rationnel et de sa conformité aux faits, garantissant un consensus objectif."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "L’explication de l’Argument précedent affirme que les méthodes rigoureuses de la science permettent de produire des résultats vérifiables et reproductibles. Cela signifie que :",
+      "réponses": {
+        "A": "La validité des conclusions scientifiques est garantie par la possibilité pour d’autres chercheurs de réitérer la même expérience ou observation, et d’obtenir des résultats similaires, assurant ainsi l’objectivité et la fiabilité du savoir.",
+        "B": "Les découvertes scientifiques sont des événements uniques et aléatoires, qui ne peuvent jamais être reproduits dans les mêmes conditions, rendant toute vérification impossible.",
+        "C": "Les résultats scientifiques sont des opinions personnelles qui ne peuvent être confirmées que par le chercheur qui les a initialement formulées, sans aucune possibilité de réplication par d’autres.",
+        "D": "La science se fonde sur des résultats secrets, qui ne doivent jamais être rendus publics ou partagés, afin de préserver l’avantage des découvreurs et d’éviter toute concurrence."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Le « consensus » que génère l’universalité des vérités scientifiques semble faire de la vérité scientifique un savoir :",
+      "réponses": {
+        "A": "Subjectif, instable et temporaire, qui est constamment remis en question par les désaccords entre les scientifiques et les différentes cultures.",
+        "B": "Limitée à des communautés spécifiques, qui ne peut être partagée ou acceptée au-delà de ses frontières internes et de ses conventions particulières.",
+        "C": "Fragile et incertain, car il dépend de la volonté individuelle des chercheurs de l’accepter ou de la refuser, sans aucune contrainte de la réalité.",
+        "D": "Objectif, stable et définitif, s’imposant comme une connaissance partagée par tous en raison de sa conformité à la réalité et de sa capacité à produire des résultats cohérents et universellement reconnus."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Claude Bernard est cité comme un penseur qui remet en question l’idée de vérité scientifique absolue, soulignant son caractère provisoire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "L’introduction peut présenter la science comme une forme de connaissance purement subjective, incapable d’offrir des aperçus objectifs sur le monde.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Un Argument affirme que la science utilise des méthodes rigoureuses telles que l’observation, l’hypothèse, l’expérimentation et la déduction logique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Descartes admirait les mathématiques pour leur incertitude et leur manque de rigueur, les considérant comme un exemple à ne pas suivre pour la science.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Gustave Le Bon affirme que les vérités scientifiques sont des vérités universelles, ce qui contredit l’idée de leur validité limitée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La problématique du sujet (« La vérité scientifique est-elle définitive ? ») explore si la science ne doit être perçue que comme une suite d’opinions personnelles sans fondement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L’explication de l’Argument sur les méthodes fiables de la science précise qu’elles produisent des résultats non vérifiables et non reproductibles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le consensus autour des vérités scientifiques, mentionné dans le texte, les caractérise comme un savoir objectif, stable et définitif.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

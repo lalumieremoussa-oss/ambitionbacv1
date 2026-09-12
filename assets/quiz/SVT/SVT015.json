@@ -1,0 +1,900 @@
+[
+{
+  "id": "SVT015_Q1",
+  "titre": "Quiz 1: les méthodes de prospection.",
+  "questions": {
+    "question n°1": {
+      "question": "Les méthodes directes de prospection sont uniquement utilisées si la méthode d'évaluation a déjà été validée.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "La prospection alluvionnaire implique la recherche de minéraux lourds dans les alluvions.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°3": {
+      "question": "Les échantillons de prospection géochimique sont toujours analysés par des techniques de dosage appropriées sans pré-traitement.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "La prospection géologique a pour objectif principal d'identifier les propriétés géologiques et le type de roche encaissante.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "Les méthodes indirectes de prospection sont celles qui ne permettent pas d'élaborer des cartes pour les zones difficiles d'accès.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°6": {
+      "question": "La méthode électrique consiste à mesurer la conductivité et la résistivité des corps.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°7": {
+      "question": "La méthode radiométrique utilise un scintillomètre pour déterminer la radioactivité du champ.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°8": {
+      "question": "La méthode magnétique analyse les anomalies du champ magnétique dues à la présence de concentrations ferromagnétiques.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°9": {
+      "question": "La méthode de la sismotéléflexion est une technique d'enregistrement des ondes sismiques.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°10": {
+      "question": "L'évaluation des gisements miniers ne peut être faite que par des méthodes de prospection directes.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°11": {
+      "question": "Parmi les méthodes de prospection indirecte, laquelle permet d'établir des cartes d'intensités magnétiques ?",
+      "reponses": {
+        "A": "La prospection alluvionnaire",
+        "B": "La méthode électrique",
+        "C": "La méthode magnétique",
+        "D": "La prospection géochimique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°12": {
+      "question": "Quel est l'objectif principal de la prospection géologique ?",
+      "reponses": {
+        "A": "Mesurer la conductivité des roches",
+        "B": "Identifier les propriétés géologiques et le type de roche encaissante",
+        "C": "Analyser les anomalies du champ magnétique",
+        "D": "Rechercher des minéraux lourds dans les alluvions"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "La prospection géochimique implique l'analyse d'échantillons prélevés dans des sédiments de cours d'eau, des sols ou des roches. Comment sont généralement préparés ces échantillons avant l'analyse ?",
+      "reponses": {
+        "A": "Directement analysés sans aucun traitement",
+        "B": "Pré-desséché et séché, puis passé au tamis fin",
+        "C": "Congelé et immédiatement analysé par spectroscopie de masse",
+        "D": "Humidifié pour faciliter l'extraction des minéraux lourds"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "la prospection alluvionnaire est classée comme une prospection :",
+      "reponses": {
+        "A": "Indirecte",
+        "B": "Géophysique",
+        "C": "Électrique",
+        "D": "Directe"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelles sont les deux grandes catégories de méthodes de prospection ?",
+      "reponses": {
+        "A": "Méthodes magnétiques et radiométriques",
+        "B": "Méthodes directes et méthodes indirectes",
+        "C": "Méthodes alluvionnaires et géochimiques",
+        "D": "Méthodes électriques et sismiques"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°16": {
+      "question": "La prospection _______________ consiste à mesurer la _______________ et la résistivité des corps, puis à tracer des contours isovaleurs.",
+      "reponses": {
+        "A": "radiométrique / radioactivité",
+        "B": "alluvionnaire / densité",
+        "C": "géochimique / concentration",
+        "D": "électrique / conductivité"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "La méthode _______________ utilise un scintillomètre ou un _______________ sur un certain nombre d'itinéraires permettant de déterminer la radioactivité de chaque affleurement.",
+      "reponses": {
+        "A": "magnétique / magnétomètre",
+        "B": "sismique / sismographe",
+        "C": "radiométrique / compteur Geiger",
+        "D": "électrique / ohmmètre"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°18": {
+      "question": "Les méthodes directes de prospection sont celles qui sont utilisées directement sur les _______________ d'échantillonnage. Il s'agit de la prospection _______________ et de la prospection _______________.",
+      "reponses": {
+        "A": "terrains / électrique / magnétique",
+        "B": "sites / alluvionnaire / géochimique",
+        "C": "sédiments / radiométrique / géologique",
+        "D": "anomalies / sismique / électrique"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°19": {
+      "question": "La prospection géochimique permet de déterminer les _______________ minérales. Elle se fait en trois phases: les échantillons sont prélevés dans des sédiments de cours d'eau, dans des sols ou dans des roches; ils sont _______________ et séchés puis passés au _______________. ",
+      "reponses": {
+        "A": "anomalies / humidifiés / four",
+        "B": "concentrations / desséché / tamis fin",
+        "C": "profondeurs / mélangés / broyeur",
+        "D": "densités / compactés / microscope"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "L'interprétation des résultats de prospection est basée sur un ensemble d'opérations exécutées depuis la première _______________ jusqu'à l'évaluation du _______________. ",
+      "reponses": {
+        "A": "indication / gisement",
+        "B": "découverte / minerai",
+        "C": "phase / plan",
+        "D": "analyse / rapport"
+      },
+      "bonne_reponse": "A"
+    }
+  }
+},
+{
+  "id": "SVT015_Q2",
+  "titre": "Quiz 2: les techniques et conséquences d'exploitation",
+  "questions": {
+    "question n°1": {
+      "question": "L’exploitation minière consiste à extraire le minerai du sol.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°2": {
+      "question": "L’exploitation à ciel ouvert concerne les gisements affleurant en surface ou à faible profondeur.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°3": {
+      "question": "Les « morts terrains » sont des roches riches en minerai.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "L’exploitation souterraine se fait en pénétrant dans la zone minéralisée par des voies d’accès appelées galeries.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "La découverture est le procédé d’enlèvement des « morts terrains ».",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°6": {
+      "question": "L’exploitation à ciel ouvert est principalement utilisée pour :",
+      "reponses": {
+        "A": "Les minerais situés à de grandes profondeurs, comme l’or et le diamant.",
+        "B": "Les gisements stratiformes qui nécessitent des tunnels",
+        "C": "Les gisements métallifères comme le fer et le nickel, situés en grande profondeur.",
+        "D": "Les gisements affleurant en surface ou à faible profondeur (graviers, sables, etc.)."
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Comment appelle-t-on les terrains stériles qui recouvrent généralement les gisements ?",
+      "reponses": {
+        "A": "Terrains fertiles",
+        "B": "Terrains minéralisés",
+        "C": "Morts terrains",
+        "D": "Terrains alluvionnaires"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel type d’exploitation concerne les minerais qui sont en profondeur (mines d’or, de diamant…) ?",
+      "reponses": {
+        "A": "L’exploitation à ciel ouvert",
+        "B": "L’exploitation des morts terrains",
+        "C": "L’exploitation souterraine",
+        "D": "L’exploitation stratiforme"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "L’exploitation minière consiste à _______________ le _______________ du sol.",
+      "reponses": {
+        "A": "séparer / roches",
+        "B": "analyser / échantillon",
+        "C": "transformer / sol",
+        "D": "extraire / minerai"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°10": {
+      "question": "L’exploitation à ciel ouvert _______________ les gisements affleurant en _______________ ou à faible _______________.",
+      "reponses": {
+        "A": "concerne / surface / profondeur",
+        "B": "évite / terrain / distance",
+        "C": "modifie / couleur / volume",
+        "D": "analyse / minéral / qualité"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "L’exploitation minière a des impacts positifs, notamment l’apport de richesse et la création d’emplois.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°12": {
+      "question": "Le déplacement et la réinstallation d’humains sont des impacts positifs de l’exploitation minière.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°13": {
+      "question": "L’exploitation des ressources minières contribue à l’amélioration de la qualité de vie des populations.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°14": {
+      "question": "La dégradation de l’environnement, comme la déforestation, n’est pas liée à l’exploitation minière.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°15": {
+      "question": "L’exploitation minière favorise également la diversité culturelle.",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°16": {
+      "question": "Parmi les impacts négatifs de l’exploitation minière mentionnés, lequel est lié à la diminution des moyens d’existence ?",
+      "reponses": {
+        "A": "Création d’emplois",
+        "B": "Apport de richesse",
+        "C": "Création d’écoles",
+        "D": "Déplacement et réinstallation d’humains"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "Selon le texte, l’exploitation minière favorise également :",
+      "reponses": {
+        "A": "L’affaiblissement des moyens d’existence",
+        "B": "La dégradation de la santé de la population",
+        "C": "La dégradation de la couche d’ozone",
+        "D": "La diversité culturelle"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°18": {
+      "question": "Quel est l’un des impacts environnementaux négatifs de l’exploitation minière ?",
+      "reponses": {
+        "A": "Amélioration de la qualité de l’eau",
+        "B": "Lutte contre la désertification",
+        "C": "Dégradation de la qualité de l’air",
+        "D": "Protection de la faune et de la flore"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°19": {
+      "question": "L’exploitation minière se fait en provoquant des _______________ aussi bien _______________ que négatives sur l’environnement et sur la société.",
+      "reponses": {
+        "A": "solutions / simples",
+        "B": "conséquences / positives",
+        "C": "opportunités / économiques",
+        "D": "problèmes / mineurs"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "L’exploitation des ressources minières contribue à l’amélioration de la _______________ des populations par la création d’emplois et d’infrastructures, l’entrée des devises, la _______________, l’augmentation des biens et des services.",
+      "reponses": {
+        "A": "quantité / pollution",
+        "B": "santé / richesse",
+        "C": "qualité de vie / richesse",
+        "D": "diversité / migration"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+},
+{
+  "id": "SVTO15_Q3",
+  "titre": "Quiz 3: La mise en place du gisement minier.",
+  "questions": {
+    "question n°1": {
+      "question": "Un gisement métallifère est un endroit où l’on trouve naturellement une accumulation de métaux en quantité _______________ pour être _______________. On distingue deux grandes classes de gisements métallifères : les gisements primaires et les gisements _______________.",
+      "reponses": {
+        "A": "limitée / observés / mixtes",
+        "B": "suffisante / exploités / secondaires",
+        "C": "faible / analysés / tertiaires",
+        "D": "importante / stockés / artificiels"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Les gisements _______________ sont formés en profondeur et résultent de processus _______________ ou hydrothermaux. Les métaux y sont piégés dans des roches _______________.",
+      "reponses": {
+        "A": "secondaires / sédimentaires / molles",
+        "B": "primaires / magmatiques / dures",
+        "C": "alluvionnaires / érosifs / poreuses",
+        "D": "filoniens / métamorphiques / fracturées"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°3": {
+      "question": "Les gisements _______________ sont formés en surface par _______________, érosion et _______________. Ils résultent du remaniement des gisements _______________.",
+      "reponses": {
+        "A": "primaires / cristallisation / fusion / secondaires",
+        "B": "secondaires / altération / sédimentation / primaires",
+        "C": "magmatiques / refroidissement / dépôt / alluvionnaires",
+        "D": "filoniens / infiltration / précipitation / superficiels"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Les processus de mise en place d’un gisement _______________ s’expliquent par la _______________ magmatique, notamment par la _______________ fractionnée.",
+      "reponses": {
+        "A": "filonien / infiltration / précipitation",
+        "B": "alluvionnaire / érosion / sédimentation",
+        "C": "magmatique / différenciation / cristallisation",
+        "D": "secondaire / altération / transport"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "Au cours de sa remontée et de son _______________, le magma voit certains minéraux cristalliser en _______________, selon leur température de fusion, la _______________ et la composition chimique.",
+      "reponses": {
+        "A": "chauffe / dernier / humidité",
+        "B": "solidification / profondeur / lumière",
+        "C": "refroidissement / premier / pression",
+        "D": "ébullition / aléatoire / densité"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°6": {
+      "question": "Ces minéraux _______________, plus _______________, s’accumulent localement dans la chambre _______________ pour former un gisement magmatique concentré.",
+      "reponses": {
+        "A": "tardifs / légers / rocheuse",
+        "B": "précoces / denses / magmatique",
+        "C": "secondaires / rares / souterraine",
+        "D": "dissous / liquides / volcanique"
+      },
+      "bonne_response": "B"
+    },
+    "question n°7": {
+      "question": "Au cours de sa remontée, le magma peut s’infiltrer dans les _______________, failles ou _______________ des roches préexistantes, où il _______________ pour former des filons.",
+      "reponses": {
+        "A": "cavités / conduits / dissout",
+        "B": "niveaux / couches / évapore",
+        "C": "fissures / diaclases / cristallise",
+        "D": "zones / reliefs / sédimente"
+      },
+      "bonne_response": "C"
+    },
+    "question n°8": {
+      "question": "Si ce magma est riche en _______________, les minéraux métallifères se _______________ dans ces filons, donnant naissance à un gisement métallifère _______________.",
+      "reponses": {
+        "A": "eau / diluent / secondaire",
+        "B": "gaz / dispersent / volcanique",
+        "C": "silice / solidifient / magmatique",
+        "D": "métaux / concentrent / filonien"
+      },
+      "bonne_response": "D"
+    },
+    "question n°9": {
+      "question": "L’_______________ de roches riches en minerais libère ces derniers, qui sont ensuite _______________ avec les sédiments par les eaux de ruissellement jusque dans les plaines ou les bassins, où ils se _______________ et se concentrent.",
+      "reponses": {
+        "A": "érosion / fixés / compactent",
+        "B": "altération / transportés / déposent",
+        "C": "formation / cristallisés / accumulent",
+        "D": "subduction / enfouis / fusionnent"
+      },
+      "bonne_response": "B"
+    },
+    "question n°10": {
+      "question": "Les minerais ainsi _______________ et concentrés dans les _______________ forment un gisement _______________ alluvionnaire.",
+      "reponses": {
+        "A": "créés / failles / primaire",
+        "B": "libérés / alluvions / secondaire",
+        "C": "dissous / roches / magmatique",
+        "D": "précipités / fissures / filonien"
+      },
+      "bonne_response": "B"
+    },
+    "question n°11": {
+      "question": "Les gisements primaires, tels que ceux de _______________ et de _______________, sont caractérisés par des métaux piégés dans des _______________ dures.",
+      "reponses": {
+        "A": "bauxite / fer / sédiments",
+        "B": "cuivre / or / roches",
+        "C": "or alluvionnaire / diamant / graviers",
+        "D": "plomb / zinc / fissures"
+      },
+      "bonne_response": "B"
+    },
+    "question n°12": {
+      "question": "Le processus de mise en place d’un gisement _______________ implique l’infiltration du magma dans des fractures existantes, ce qui conduit à la _______________ des minéraux métallifères dans ces _______________.",
+      "reponses": {
+        "A": "magmatique / dispersion / chambres",
+        "B": "alluvionnaire / sédimentation / bassins",
+        "C": "filonien / concentration / filons",
+        "D": "secondaire / altération / roches"
+      },
+      "bonne_response": "C"
+    },
+    "question n°13": {
+      "question": "Quel est le type de gisement représenté par la lettre A sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement magmatique",
+        "C": "Gisement secondaire résiduel ou gisement d’altération",
+        "D": "Gisement alluvionnaire"
+      },
+      "bonne_response": "C"
+    },
+    "question n°14": {
+      "question": "Quel est le type de gisement représenté par la lettre B sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Gisement secondaire résiduel",
+        "B": "Gisement filonien",
+        "C": "Gisement magmatique",
+        "D": "Gisement alluvionnaire"
+      },
+      "bonne_response": "B"
+    },
+    "question n°15": {
+      "question": "Quel est le type de gisement représenté par la lettre C sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement secondaire résiduel",
+        "C": "Gisement magmatique",
+        "D": "Gisement alluvionnaire"
+      },
+      "bonne_response": "C"
+    },
+    "question n°16": {
+      "question": "Quel est le type de gisement représenté par la lettre D sur le schéma ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Gisement magmatique",
+        "B": "Gisement filonien",
+        "C": "Gisement secondaire résiduel",
+        "D": "Gisement secondaire alluvionnaire ou placer"
+      },
+      "bonne_response": "D"
+    },
+    "question n°17": {
+      "question": "Quelle est la méthode de prospection la plus convenable pour le gisement D ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Prospection géologique",
+        "B": "Prospection géochimique",
+        "C": "Prospection alluvionnaire",
+        "D": "Prospection magnétique"
+      },
+      "bonne_response": "C"
+    },
+    "question n°18": {
+      "question": "Quelle est la méthode de prospection la plus convenable pour le gisement C ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Prospection alluvionnaire",
+        "B": "Prospection géologique",
+        "C": "Prospection géochimique",
+        "D": "Prospection électrique"
+      },
+      "bonne_response": "B"
+    },
+    "question n°19": {
+      "question": "Quelle est la méthode d’exploitation la plus appropriée pour le gisement D ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Exploitation souterraine",
+        "B": "Exploitation à ciel ouvert",
+        "C": "Exploitation par forages",
+        "D": "Exploitation par dragage"
+      },
+      "bonne_response": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la méthode d’exploitation la plus appropriée pour le gisement C ?",
+      "image": "assets/images/svt/roche(1).png",
+      "reponses": {
+        "A": "Exploitation à ciel ouvert",
+        "B": "Exploitation par dissolution",
+        "C": "Exploitation souterraine",
+        "D": "Exploitation par excavation"
+      },
+      "bonne_response": "C"
+    }
+  }
+},
+{
+  "id": "SVT015_Q4",
+  "titre": "Quiz 4 : perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le nom du gisement X ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement alluvionnaire",
+        "C": "Gisement d’altération",
+        "D": "Gisement volcanique"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°2": {
+      "question": "Quel est le nom du gisement Y ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Gisement alluvionnaire",
+        "B": "Gisement résiduel",
+        "C": "Gisement filonien",
+        "D": "Gisement sédimentaire"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel est le nom du gisement Z ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Gisement volcanique",
+        "B": "Gisement filonien",
+        "C": "Gisement d’altération",
+        "D": "Gisement marin"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est l’origine du gisement X ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Origine magmatique",
+        "B": "Origine métamorphique",
+        "C": "Origine sédimentaire",
+        "D": "Origine résiduelle"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle est l’origine du gisement Y ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Origine magmatique",
+        "B": "Origine sédimentaire",
+        "C": "Origine fluviatile",
+        "D": "Origine organique"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est l’origine du gisement Z ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Origine sédimentaire",
+        "B": "Origine magmatique",
+        "C": "Origine résiduelle",
+        "D": "Origine métamorphique"
+      },
+      "bonne_response": "C"
+    },
+    "question n°7": {
+      "question": "La technique de la bâtée consiste à laver les limons à l’aide de récipients et à séparer les sédiments de l’or par la densimétrie.",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°8": {
+      "question": "Lequel de ces gisements est le plus approprié à la bâtée ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "Gisement filonien",
+        "B": "Gisement d’altération",
+        "C": "Gisement alluvionnaire",
+        "D": "Gisement volcanique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Justifiez votre réponse : Les minerais contenus dans ce gisement sont mélangés aux sédiments déposés dans le lit de la rivière. Leur séparation se fait difficilement au moyen de l’eau en fonction de leur densité.",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Rangez en ordre le processus de mise en place de ce gisement :\n(1) Transport mécanique des particules d’or natif par les eaux superficielles\n(2) Altération de la roche encaissante\n(3) Dépôt et accumulation par gravité dans les plaines alluvionnaires\nQuel est le bon ordre ?",
+      "image": "assets/images/svt/roche(2).png",
+      "reponses": {
+        "A": "3 - 2 - 1",
+        "B": "3 - 1 - 2",
+        "C": "1 - 2 - 3",
+        "D": "2 - 1 - 3"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°11": {
+      "question": "Le document ci-contre représente un gisement de coltan à faible profondeur. Nommez la roche encaissante.",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "La roche encaissante est une roche granitique",
+        "B": "La roche encaissante est une roche sédimentaire",
+        "C": "La roche encaissante est une roche magmatique",
+        "D": "La roche encaissante est une roche métamorphique"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°12": {
+      "question": "Identifiez le type de gisement minier.",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "Le gisement de coltan est un gisement secondaire d'altération",
+        "B": "Le gisement de coltan est un gisement primaire filonien",
+        "C": "Le gisement de coltan est un gisement secondaire alluvionnaire",
+        "D": "Le gisement de coltan est un gisement primaire magmatique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Explication du mécanisme de sa mise en place. Quel est le rôle de l’altération de la roche préexistante ?",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "Elle concentre directement le coltan en profondeur",
+        "B": "Elle libère des particules solubles et insolubles",
+        "C": "Elle transforme les sables en graviers",
+        "D": "Elle permet la fusion du coltan"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°14": {
+      "question": "Où sont transportées les particules libérées par altération ?",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "Vers les volcans",
+        "B": "Vers le sous-sol profond",
+        "C": "Vers les bassins sédimentaires",
+        "D": "Vers l’atmosphère"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi le coltan s’accumule-t-il dans les alluvions ?",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "Parce qu’il est soluble dans l’eau",
+        "B": "Parce qu’il est léger et flotte",
+        "C": "Parce qu’il réagit aux aimants",
+        "D": "Parce qu’il est résistant et de densité élevée"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°16": {
+      "question": "La méthode de prospection utilisée est :",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "Alluvionnaire",
+        "B": "Géochimique",
+        "C": "Géologique",
+        "D": "Électrique"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°17": {
+      "question": "La prospection alluvionnaire consiste à rechercher les minéraux dans les sédiments des cours d’eau par la technique de la “découverture”.",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "La technique de la bâtée consiste à laver les limons, les sables et les graviers à l’aide d’un récipient pour séparer les minéraux en fonction de leur densité.",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°19": {
+      "question": "La technique d’exploitation est :",
+      "image": "assets/images/svt/roche(3).png",
+      "reponses": {
+        "A": "L’exploitation à ciel ouvert",
+        "B": "L’exploitation à ciel fermé",
+        "C": "L’exploitation souterraine",
+        "D": "L’exploitation géologique"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°20": {
+      "question": "Un gisement métallifère est :",
+      "reponses": {
+        "A": "Une roche volcanique contenant de l’eau",
+        "B": "Un endroit où l’on trouve une accumulation naturelle de métaux en quantité suffisante pour être exploités",
+        "C": "Un amas de sable sans valeur économique",
+        "D": "Une mine abandonnée"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "Les métaux d’un gisement métallifère sont :",
+      "reponses": {
+        "A": "Synthétisés en laboratoire",
+        "B": "Naturellement présents dans la croûte terrestre",
+        "C": "Fabriqués par les volcans",
+        "D": "Toujours liquides"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°22": {
+      "question": "Pour qu’un gisement soit exploité, il faut :",
+      "reponses": {
+        "A": "Qu’il soit situé dans une zone froide",
+        "B": "Qu’il contienne une quantité de métal économiquement rentable",
+        "C": "Qu’il contienne de l’eau",
+        "D": "Qu’il soit accessible par avion"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°23": {
+      "question": "Associez chaque type de gisement à son numéro :",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "1 = Gisement magmatique",
+        "B": "2 = Gisement filonien",
+        "C": "3 = Gisement alluvionnaire",
+        "D": "Toutes ces propositions sont exactes"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°24": {
+      "question": "Quels sont les gisements primaires ?",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "1 seulement",
+        "B": "3 seulement",
+        "C": "1 et 2",
+        "D": "2 et 3"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°25": {
+      "question": "Quel est le gisement secondaire ?",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "Aucun"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°26": {
+      "question": "Un gisement primaire est :",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "Résultant du transport des métaux",
+        "B": "Formé directement à partir de la roche mère ou du magma",
+        "C": "Toujours en surface",
+        "D": "Un gisement alluvionnaire"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°27": {
+      "question": "Complétez le texte suivant :\nAu cours de sa remontée, le [Trou 1], remplit les [Trou 2] ou failles des roches préexistantes et [Trou 3] pour donner des filons. Si le magma est riche en métaux, le filon obtenu devient un gisement métallifère filonien.",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "sable – cavités – explose",
+        "B": "magma – fissures – cristallise",
+        "C": "magma – fissures – cristallise",
+        "D": "granit – fissures - cristallise"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°28": {
+      "question": "Méthode d’exploitation du gisement filonien :",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "Exploitation à ciel fermé",
+        "B": "Exploitation à ciel ouvert",
+        "C": "Exploitation souterraine",
+        "D": "Exploitation géologique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°29": {
+      "question": "Description de la méthode d’exploitation :\nOn creuse des galeries ou tunnels pour accéder au filon à partir de la surface.",
+      "image": "assets/images/svt/roche(4).png",
+      "reponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne_reponse": "A"
+    }
+  }
+}
+]

@@ -1,0 +1,186 @@
+{
+  "title": "Quiz 6 : Hormones Féminines",
+  "id": "SVT008_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "L'œstrogène et la progestérone sont deux hormones essentielles principalement sécrétées par :",
+      "réponses": {
+        "A": "Les glandes surrénales, situées au-dessus des reins.",
+        "B": "Les ovaires, organes reproducteurs féminins.",
+        "C": "L'hypophyse, une glande située à la base du cerveau.",
+        "D": "Le pancréas, un organe impliqué dans la digestion."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Vers l'âge de 11 ans, l'abondance d'œstrogène et de progestérone favorise des transformations physiques et physiologiques chez la fille, telles que :",
+      "réponses": {
+        "A": "Le développement des cordes vocales et l'apparition de la pilosité faciale.",
+        "B": "La formation de la poitrine et la première menstruation.",
+        "C": "L'augmentation de la masse musculaire et la diminution de la température corporelle.",
+        "D": "L'allongement des os et l'arrêt du développement des organes sexuels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "À partir de la puberté, l'œstrogène est produite en grande quantité pour assurer spécifiquement :",
+      "réponses": {
+        "A": "La diminution des contractions utérines et le renforcement des os.",
+        "B": "La stimulation de la sécrétion du glycogène dans l'utérus.",
+        "C": "Le cycle menstruel et le développement de l'appareil génital.",
+        "D": "L'augmentation constante de la température corporelle basale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Les progestérones jouent un rôle crucial en renforçant l'action des œstrogènes sur l'utérus, en stimulant la sécrétion du glycogène, et en :",
+      "réponses": {
+        "A": "Provoquant des contractions utérines intenses et régulières.",
+        "B": "Diminuant la température corporelle de base.",
+        "C": "Favorisant la formation de la dentelle utérine.",
+        "D": "Inhibant le développement continu de l'appareil génital."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Durant la phase folliculaire (0 à 14 jours) du cycle ovarien, la quantité d'œstrogène évolue de la manière suivante :",
+      "réponses": {
+        "A": "Elle reste très faible et stable tout au long de cette phase.",
+        "B": "Elle diminue lentement puis chute rapidement avant de remonter.",
+        "C": "Elle est initialement très faible, augmente lentement puis rapidement pour un maximum.",
+        "D": "Elle atteint sa valeur maximale dès le premier jour et diminue progressivement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pendant la phase folliculaire (0 à 14 jours), la quantité de progestérone se caractérise par :",
+      "réponses": {
+        "A": "Une augmentation rapide suivie d'une chute brutale.",
+        "B": "Une valeur maximale constante du début à la fin de la phase.",
+        "C": "Une légère augmentation progressive avant l'ovulation.",
+        "D": "Le fait qu'elle reste très faible."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Durant la phase post-ovulatoire (14ème à 28ème jours), la quantité d'œstrogènes subit les variations suivantes :",
+      "réponses": {
+        "A": "Elle augmente très rapidement puis chute avec la progestérone.",
+        "B": "Elle reste constante à sa valeur maximale.",
+        "C": "Elle diminue, puis réaugmente peu avant de chuter.",
+        "D": "Elle est initialement très faible et augmente lentement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'augmentation très rapide de la progestérone durant la phase post-ovulatoire est principalement due à sa production par :",
+      "réponses": {
+        "A": "Les follicules en maturation.",
+        "B": "Les ovaires directement.",
+        "C": "Les corps jaunes.",
+        "D": "L'hypophyse antérieure."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La légère augmentation de la quantité d'œstrogènes observée pendant la phase post-ovulatoire s'explique par :",
+      "réponses": {
+        "A": "La sécrétion d'une grande quantité d'œstrogènes par les follicules restants.",
+        "B": "La production de ces hormones par les glandes surrénales.",
+        "C": "La sécrétion d'une faible quantité d'œstrogènes par le corps jaune.",
+        "D": "L'activation de l'hypophyse antérieure."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "L'oestrogène et la progestérone sont deux hormones sécrétées par les ovaires pour le fonctionnement des organes sexuels primaires et secondaires.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Vers l'âge de 11 ans, l'abondance de ces hormones favorise l'apparition de la pilosité faciale chez la fille.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "À partir de la puberté, les progestérones assurent principalement le cycle menstruel et le développement de l'appareil génital.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Les progestérones renforcent l'action des œstrogènes sur l'utérus, stimulent la sécrétion du glycogène, et favorisent la formation de la dentelle utérine.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La production des œstrogènes et des progestérones suit le cycle ovarien.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Durant la phase folliculaire (0 à 14 jours), la quantité de progestérone reste très faible tandis que l'œstrogène atteint sa valeur maximale.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "La quantité de progestérone augmente très rapidement pendant la phase post-ovulatoire et chute avec l'œstrogène.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Les follicules sont les structures qui sécrètent la progestérone en grande quantité, tandis que les corps jaunes produisent l'œstrogène.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "L'oestrogène et la progestérone jouent également un rôle très important au début de la grossesse.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Durant la phase post-ovulatoire, la quantité d'œstrogènes diminue, puis réaugmente peu avant de chuter.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "L'oestrogène et la progestérone sont deux hormones sécrétées par les ovaires. Vers l'âge de 11 ans, ces hormones sont produites en abondance pour favoriser la transformation physique, comme la formation de la .....A....., et physiologique, notamment la .....B....., permettant à la fille de passer à la .....C......",
+      "réponses": {
+        "A": "A: musculature, B: croissance des cheveux, C: vieillesse",
+        "B": "A: poitrine, B: première menstruation, C: puberté",
+        "C": "A: taille, B: diminution du poids, C: enfance",
+        "D": "A: silhouette, B: perte de densité osseuse, C: ménopause"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 5",
+  "id": "PH004_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Dans le contexte du sujet <<l'homme peut-il économiser la religion ?>>, que signifie \"économiser\" ou \"se passer de\" la religion ?",
+      "réponses": {
+        "A": "Diminuer le coût financier lié à la pratique religieuse et aux institutions cultuelles.",
+        "B": "Considérer la religion comme superflue ou inutile et vivre sans elle.",
+        "C": "Utiliser la religion de manière plus efficace pour résoudre les problèmes sociaux.",
+        "D": "Mettre de côté certaines pratiques religieuses pour adopter des traditions plus modernes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle est la définition de la religion proposée, s'inspirant de Cicéron et du latin religare ?",
+      "réponses": {
+        "A": "Un ensemble de règles de vie en communauté pour assurer la survie de l'espèce.",
+        "B": "Une philosophie de vie basée sur la recherche du bonheur individuel par l'expérience.",
+        "C": "Un ensemble de croyances et de pratiques qui lient l'homme à une réalité transcendante, incluant foi, dogmes et rites.",
+        "D": "Une forme d'art primitif qui exprime les peurs et les désirs inconscients de l'humanité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "La problématique \"L’homme est-il par nature religieux, ou peut-il, à l’ère moderne, se détacher de toute forme de religion ?\" soulève la question de :",
+      "réponses": {
+        "A": "La supériorité de certaines religions sur d'autres en termes de vérité révélée et d'efficacité spirituelle.",
+        "B": "La relation entre l'évolution biologique de l'homme et le développement de ses systèmes de croyances.",
+        "C": "La possibilité pour l'homme de vivre sans un cadre religieux, au regard de sa nature et de l'évolution historique.",
+        "D": "L'influence des facteurs géographiques et climatiques sur la diversité des pratiques religieuses mondiales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "L'introduction mentionne que \"la montée de la science, de la raison et de l’athéisme semble remettre en question cette nécessité\" de la religion. Quel est le point de tension principal ici ?",
+      "réponses": {
+        "A": "La difficulté de concilier les récits mythologiques anciens avec les découvertes archéologiques récentes.",
+        "B": "L'opposition entre l'explication rationnelle et empirique du monde et les explications religieuses basées sur la foi.",
+        "C": "Le conflit d'intérêts entre les institutions scientifiques et les organisations religieuses pour le financement de la recherche.",
+        "D": "La concurrence entre les différentes religions pour attirer de nouveaux fidèles dans un contexte de sécularisation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "L'argument selon lequel \"la pensée moderne valorise la raison et la science comme sources de connaissance\" implique que :",
+      "réponses": {
+        "A": "La religion est devenue obsolète et n'a plus aucune influence sur la société contemporaine.",
+        "B": "L'homme dispose désormais d'outils intellectuels lui permettant de comprendre le monde sans recours aux explications religieuses.",
+        "C": "La science prouve l'inexistence de Dieu et invalide toutes les formes de croyance.",
+        "D": "La raison et la science sont des formes de religion déguisées, avec leurs propres dogmes et rituels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe a affirmé \"Dieu est mort\" dans Le Gai Savoir ?",
+      "réponses": {
+        "A": "Albert Camus, pour sa philosophie de l'absurde et de la révolte.",
+        "B": "Jean-Paul Sartre, pour sa conception de la liberté radicale de l'homme.",
+        "C": "Friedrich Nietzsche, pour sa critique des valeurs chrétiennes et l'annonce de l'avènement du Surhomme.",
+        "D": "Baruch Spinoza, pour sa vision panthéiste de Dieu comme nature."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Selon Jean-Paul Sartre, l'homme est \"condamné à être libre\" parce que :",
+      "réponses": {
+        "A": "Il est né avec une nature humaine prédéfinie, mais il a la liberté de la réaliser pleinement.",
+        "B": "Il n'y a pas de Dieu pour lui donner un sens ou des valeurs préétablies, ce qui le rend entièrement responsable de ses choix.",
+        "C": "La société l'oblige à se conformer à des normes, mais il conserve toujours la liberté de les rejeter.",
+        "D": "Le destin est inéluctable, et la liberté réside dans l'acceptation joyeuse de cette fatalité."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "L'argument \"Il est possible de vivre moralement sans Dieu\" est soutenu par quel philosophe affirmant que la loi morale est \"en nous\" ?",
+      "réponses": {
+        "A": "Platon, avec sa théorie des Idées et le Bien comme principe suprême.",
+        "B": "Emmanuel Kant, qui fonde la morale sur la raison pratique et l'impératif catégorique.",
+        "C": "Saint Augustin, qui voit la loi divine comme la source unique de toute moralité.",
+        "D": "John Stuart Mill, pour sa théorie utilitariste du plus grand bonheur pour le plus grand nombre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Qu'est-ce que l'humanisme laïque propose comme fondement d'une morale sans transcendance ?",
+      "réponses": {
+        "A": "La soumission aux dogmes religieux et aux textes sacrés pour guider le comportement éthique.",
+        "B": "La dignité humaine, la solidarité et la justice comme valeurs intrinsèques, découvertes par la raison et l'expérience.",
+        "C": "La recherche du plaisir individuel et l'évitement de la douleur comme uniques principes moraux.",
+        "D": "L'établissement de lois strictes et l'application de peines sévères pour garantir l'ordre social."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Albert Camus, dans L'homme révolté, suggère que l'homme peut être solidaire et éthique :",
+      "réponses": {
+        "A": "Uniquement en adhérant à une religion monothéiste et en suivant ses préceptes divins.",
+        "B": "Par l'acceptation de l'absurdité de l'existence et l'engagement dans la révolte contre l'injustice, sans besoin de Dieu.",
+        "C": "En se coupant complètement de toute interaction sociale et en cultivant un individualisme radical.",
+        "D": "En se conformant aux traditions ancestrales et aux rites établis par la communauté."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "La notion de \"spiritualité indépendante des dogmes religieux\" est illustrée par la philosophie de Spinoza, pour qui \"Dieu est nature (Deus sive Natura)\". Cela signifie que :",
+      "réponses": {
+        "A": "Dieu est une entité personnelle et transcendante qui intervient directement dans le cours des événements naturels.",
+        "B": "Dieu est l'ensemble des lois physiques et biologiques qui régissent l'univers, sans conscience ni intention.",
+        "C": "Dieu est identifié à la substance unique qui constitue toute réalité, et la spiritualité réside dans la connaissance de cette nature divine.",
+        "D": "La nature est une illusion créée par Dieu pour tester la foi des hommes et révéler leur vraie spiritualité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "L'expression \"spirituels mais non religieux\" fait référence à des individus qui :",
+      "réponses": {
+        "A": "Rejettent toute forme de quête de sens et se concentrent uniquement sur la vie matérielle.",
+        "B": "Adhèrent aux dogmes d'une religion établie mais ne pratiquent aucun rite ni rituel.",
+        "C": "Cherchent une paix intérieure et un sens à leur existence par des voies non-institutionnelles comme la méditation, l'art ou la philosophie.",
+        "D": "Se convertissent à plusieurs religions simultanément pour explorer différentes traditions spirituelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Si l'homme peut se passer de religion, cela impliquerait que l'athéisme n'est pas une illusion, mais une possibilité concrète.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La pensée des Lumières a valorisé la raison et l'expérience au détriment des explications religieuses, ce qui a contribué à l'idée que l'homme pourrait \"économiser\" la religion.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "La citation de Nietzsche \"Dieu est mort\" signifie que les preuves scientifiques ont définitivement réfuté l'existence d'une divinité, ce qui rend la foi impossible.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Selon Sartre, l'absence de Dieu est une libération pour l'homme, car elle le décharge de toute responsabilité morale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Kant affirmait que seule la religion pouvait fonder une morale universelle et incontestable, sans laquelle l'homme serait incapable de distinguer le bien du mal.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La \"spiritualité sans Dieu\" telle que présentée par Comte-Sponville est un concept contradictoire, car toute spiritualité est nécessairement liée à une divinité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'humanisme laïque est une forme de religion déguisée, car il propose des valeurs morales et éthiques similaires à celles des religions établies.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L'idée que l'homme peut se passer de religion implique nécessairement qu'il ne cherche plus de sens à son existence ni de valeurs morales.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

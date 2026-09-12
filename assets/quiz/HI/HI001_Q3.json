@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 3",
+  "id": "HI001_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "La mission de maintien de la paix au Libéria par l’ONU est considérée comme :",
+      "réponses": {
+        "A": "Une neutralité passive",
+        "B": "Une initiative non officielle",
+        "C": "Un échec complet",
+        "D": "Une réussite"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L’ONU a joué un rôle essentiel dans le règlement du conflit :",
+      "réponses": {
+        "A": "Israélo-palestinien",
+        "B": "En Namibie",
+        "C": "Au Rwanda",
+        "D": "En Afghanistan"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Une entreprise réussie de l’ONU a été observée dans le conflit :",
+      "réponses": {
+        "A": "En Sierra Leone",
+        "B": "En Syrie",
+        "C": "En Irak",
+        "D": "En Ukraine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle de ces opérations est une réussite de l’ONU ?",
+      "réponses": {
+        "A": "La guerre en Tchétchénie",
+        "B": "L’intervention au Timor oriental",
+        "C": "L’intervention au Mali",
+        "D": "La guerre du Golfe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle de ces missions de l’ONU est une réussite ?",
+      "réponses": {
+        "A": "L’échec au Darfour",
+        "B": "L’enlisement en Centrafrique",
+        "C": "La supervision des élections en Afrique du Sud",
+        "D": "Le conflit du Cachemire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Le génocide rwandais de 1994 est considéré comme :",
+      "réponses": {
+        "A": "Une affaire régionale sans implication",
+        "B": "Un échec de l’ONU à prévenir un génocide",
+        "C": "Une intervention militaire réussie",
+        "D": "Une grande réussite diplomatique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "L’ONU a échoué à empêcher une guerre majeure en 2003, laquelle ?",
+      "réponses": {
+        "A": "Guerre de Libye",
+        "B": "Guerre de Corée",
+        "C": "Guerre du Congo",
+        "D": "Guerre d’Irak"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Parmi ces événements, lequel représente un échec sécuritaire de l’ONU ?",
+      "réponses": {
+        "A": "Crise sanitaire au Liberia",
+        "B": "Élections en Namibie",
+        "C": "Conflit en ex-Yougoslavie",
+        "D": "Décolonisation du Togo"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Parmi ces actions, laquelle est une œuvre humanitaire réussie de l’ONU ?",
+      "réponses": {
+        "A": "Guerre du Vietnam",
+        "B": "Coup d’État en Égypte",
+        "C": "Blocage économique de Cuba",
+        "D": "Lutte contre la famine au Sahel"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "L’éradication de la variole grâce à l’OMS est une réussite :",
+      "réponses": {
+        "A": "Contestée",
+        "B": "Inexistante",
+        "C": "Limitée à l’Occident",
+        "D": "Mondiale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quelle organisation dépendante de l’ONU intervient efficacement dans les catastrophes naturelles ?",
+      "réponses": {
+        "A": "FMI",
+        "B": "BIT",
+        "C": "OMC",
+        "D": "HCR"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "L’UNICEF agit efficacement dans le domaine de :",
+      "réponses": {
+        "A": "L’énergie nucléaire",
+        "B": "La protection de l’enfance",
+        "C": "La lutte antiterroriste",
+        "D": "L’intelligence artificielle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quelle action humanitaire de l’ONU est jugée limitée ?",
+      "réponses": {
+        "A": "Supervision des élections au Libéria",
+        "B": "Lutte contre le VIH/SIDA",
+        "C": "Aide aux réfugiés palestiniens",
+        "D": "Éradication de la variole"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Une action humanitaire partiellement réussie de l’ONU est :",
+      "réponses": {
+        "A": "Soutien scolaire en Europe",
+        "B": "Réformes politiques en Chine",
+        "C": "Aide au retour des réfugiés en Syrie",
+        "D": "Construction d’aéroports en Russie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Une action politique réussie de l’ONU fut :",
+      "réponses": {
+        "A": "La guerre du Golfe",
+        "B": "L’inaction en Syrie",
+        "C": "L'intervention militaire en Irak",
+        "D": "Le soutien à la fin de l’Apartheid en Afrique du Sud"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle action politique de l’ONU a eu des résultats limités ?",
+      "réponses": {
+        "A": "Transition au Timor oriental",
+        "B": "Fin du régime de Pinochet",
+        "C": "Dénucléarisation de l’Inde",
+        "D": "Résolution du conflit israélo-palestinien"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle est une des raisons des échecs de l’ONU ?",
+      "réponses": {
+        "A": "Son manque de secrétaires",
+        "B": "Le droit de veto des grandes puissances",
+        "C": "Son financement par des syndicats",
+        "D": "L'absence de langues officielles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel autre facteur explique les limites de l’action de l’ONU ?",
+      "réponses": {
+        "A": "Le manque de volonté des États membres",
+        "B": "Le contrôle du Vatican",
+        "C": "La décolonisation rapide",
+        "D": "La surveillance excessive des États-Unis"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quelle solution pourrait améliorer l’efficacité de l’ONU ?",
+      "réponses": {
+        "A": "La réforme du droit de veto",
+        "B": "La fin des missions humanitaires",
+        "C": "La suppression de l’Assemblée Générale",
+        "D": "L’augmentation des membres permanents à 50"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quelle autre solution renforcerait le rôle de l’ONU ?",
+      "réponses": {
+        "A": "Un engagement plus ferme des États membres",
+        "B": "La dissolution du Conseil de sécurité",
+        "C": "La réduction des financements",
+        "D": "L’abolition des missions de paix"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "id": "SVT014_Q1",
+  "title": "Quiz 1 : les étapes de l'infection du VIH",
+  "questions": {
+    "question n°1": {
+      "question": "Que représente la lettre ‘a’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "Une protéine de la capside.",
+        "B": "Une enveloppe lipidique.",
+        "C": "Une protéine d’enveloppe.",
+        "D": "Un filament d’ARN."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Que représente la lettre ‘b’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "Une capside protéique.",
+        "B": "Une enveloppe lipidique.",
+        "C": "Une protéine interne.",
+        "D": "Une enzyme de transcription."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Que représente la lettre ‘c’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "Des protéines structurelles internes.",
+        "B": "La transcriptase inverse.",
+        "C": "L’acide ribonucléique.",
+        "D": "Une membrane cellulaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Que représente la lettre ‘d’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "L’enveloppe externe.",
+        "B": "La capside protéique.",
+        "C": "La couche lipidique.",
+        "D": "Une protéine de surface."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Que représente la lettre ‘e’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "L’ADN viral.",
+        "B": "L’ARN.",
+        "C": "Un acide aminé.",
+        "D": "Une molécule de glucide."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Que représente la lettre ‘f’ sur le schéma du virus ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "Une enzyme de réplication.",
+        "B": "La protéine d’enveloppe.",
+        "C": "La transcriptase inverse.",
+        "D": "Une protéine de fusion."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la définition du VIH ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "Un syndrome d’immunodéficience sévère.",
+        "B": "Un virus qui attaque spécifiquement le système immunitaire humain.",
+        "C": "Une bactérie responsable de maladies opportunistes.",
+        "D": "Une maladie auto-immune chronique et évolutive."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle est la définition du SIDA ?",
+      "image": "assets/images/svt/vih.png",
+      "réponses": {
+        "A": "La première phase d’une infection virale.",
+        "B": "La réaction immunitaire initiale à une agression.",
+        "C": "Le stade avancé de l’infection par le VIH, caractérisé par une immunodéficience profonde.",
+        "D": "Une maladie génétique affectant la production de globules blancs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Que représente l’étape 1 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "La synthèse des protéines virales.",
+        "B": "La fixation du VIH à la surface du Lymphocyte T4 (adsorption).",
+        "C": "L’intégration de l’ADN proviral dans l’ADN de la cellule hôte.",
+        "D": "Le bourgeonnement des virions."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Que représente l’étape 2 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "La transcription de l’ARN viral en ADN proviral.",
+        "B": "L’injection de l’ARN viral et de la transcriptase inverse.",
+        "C": "L’assemblage des différentes protéines.",
+        "D": "La modification des protéines synthétisées."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Que représente l’étape 3 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "L’intégration de l’ADN proviral dans l’ADN de la cellule hôte.",
+        "B": "La synthèse des protéines virales.",
+        "C": "La transcription de l’ARN viral en ADN proviral.",
+        "D": "La fixation du VIH à la surface de la cellule."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Que représente l’étape 4 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "La transcription de l’ADN viral en ARN messager.",
+        "B": "L’injection de l’ARN viral dans la cellule.",
+        "C": "L’intégration de l’ADN proviral dans l’ADN de la cellule hôte.",
+        "D": "L’assemblage des protéines virales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que représente l’étape 5 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "La synthèse des protéines virales.",
+        "B": "La modification des protéines.",
+        "C": "La transcription de l’ADN viral en ARN messager.",
+        "D": "L’injection de la transcriptase inverse."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Que représente l’étape 6 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "L’intégration de l’ADN proviral.",
+        "B": "La synthèse des protéines virales.",
+        "C": "Le bourgeonnement de nouveaux virions.",
+        "D": "L’assemblage des protéines."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Que représente l’étape 7 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "L’injection de l’ARN viral.",
+        "B": "La modification des protéines synthétisées.",
+        "C": "La transcription de l’ARN viral.",
+        "D": "La fixation du virus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Que représente l’étape 8 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "Le bourgeonnement des virions.",
+        "B": "L’assemblage des différentes protéines.",
+        "C": "L’intégration du matériel génétique.",
+        "D": "La modification des protéines."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Que représente l’étape 9 sur le schéma du cycle viral ?",
+      "image": "assets/images/svt/sida.png",
+      "réponses": {
+        "A": "La synthèse de nouvelles enzymes virales.",
+        "B": "L’intégration de l’ADN viral.",
+        "C": "La modification de l’enveloppe virale.",
+        "D": "Le bourgeonnement de virions."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Classez les étapes de l’infection du lymphocyte T4 par le VIH dans l’ordre chronologique de leur déroulement :\n1- Multiplication du VIH dans le Lymphocyte T4\n2- Adsorption du VIH au Lymphocyte T4\n3- Transformation de l’ARN viral en ADN proviral\n4- Injection de l’ARN viral et de la transcriptase inverse\n5- Intégration de l’ADN proviral à l’ADN du Lymphocyte T4",
+      "réponses": {
+        "A": "2 – 4 – 3 – 5 – 1",
+        "B": "1 – 2 – 3 – 4 – 5",
+        "C": "4 – 2 – 5 – 3 – 1",
+        "D": "2 – 3 – 4 – 1 – 5"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Le virus se fixe sur les cellules possédant la […A…] comme certains lymphocytes T contrôlant la réponse immunitaire. La fixation du virus induit la […B…] de la membrane virale et de la membrane plasmique de la cellule hôte, suivie de l’injection de l’ARN viral.",
+      "réponses": {
+        "A": "A : capside, B : réplication",
+        "B": "A : protéine d’enveloppe, B : fusion",
+        "C": "A : transcriptase inverse, B : intégration",
+        "D": "A : protéine de surface, B : bourgeonnement"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "L’ADN proviral produit grâce à la […A…] s’incorpore dans l’[…B…] de la cellule hôte.",
+      "réponses": {
+        "A": "A : synthèse des protéines, B : capside",
+        "B": "A : transcription inverse, B : ADN",
+        "C": "A : réplication virale, B : ARN",
+        "D": "A : modification des protéines, B : enveloppe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "À ce moment, le virus n’entraîne pas de perturbation de la réponse immunitaire. Le sujet est dit […A…]. Il ne présente aucun symptôme, il est susceptible de transmettre le virus soit par le sang soit par les […B…] sexuelles.",
+      "réponses": {
+        "A": "A : symptomatique, B : salivaires",
+        "B": "A : immunisé, B : cutanées",
+        "C": "A : séropositif, B : sécrétions",
+        "D": "A : infecté, B : respiratoires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Après une période de latence pouvant atteindre une dizaine d’années, le virus peut utiliser la machinerie enzymatique de la cellule hôte pour produire de […A…] qui bourgeonnent à la surface du lymphocyte T4.",
+      "réponses": {
+        "A": "A : l’ADN proviral, B : nouvelles protéines",
+        "B": "A : l’ARN messager, B : nouvelles enzymes",
+        "C": "A : nouvelles particules virales, B : virions",
+        "D": "A : nouvelles cellules, B : nouveaux lymphocytes"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

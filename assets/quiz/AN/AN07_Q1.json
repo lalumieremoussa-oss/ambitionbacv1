@@ -1,0 +1,156 @@
+{
+  "title": "AN07_Q1",
+  "id": "AN07_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Comment écrit-on le chiffre 1 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "one"
+    },
+    "question n°2": {
+      "question": "Comment écrit-on le chiffre 2 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "two"
+    },
+    "question n°3": {
+      "question": "Comment écrit-on le chiffre 3 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "three"
+    },
+    "question n°4": {
+      "question": "Comment écrit-on le chiffre 4 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "four"
+    },
+    "question n°5": {
+      "question": "Comment écrit-on le chiffre 5 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "five"
+    },
+    "question n°6": {
+      "question": "Comment écrit-on le chiffre 6 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "six"
+    },
+    "question n°7": {
+      "question": "Comment écrit-on le chiffre 7 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "seven"
+    },
+    "question n°8": {
+      "question": "Comment écrit-on le chiffre 8 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "eight"
+    },
+    "question n°9": {
+      "question": "Comment écrit-on le chiffre 9 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "nine"
+    },
+    "question n°10": {
+      "question": "Comment écrit-on le nombre 10 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "ten"
+    },
+    "question n°11": {
+      "question": "Comment écrit-on le nombre 11 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "eleven"
+    },
+    "question n°12": {
+      "question": "Comment écrit-on le nombre 12 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twelve"
+    },
+    "question n°13": {
+      "question": "Comment écrit-on le nombre 13 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "thirteen"
+    },
+    "question n°14": {
+      "question": "Comment écrit-on le nombre 14 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "fourteen"
+    },
+    "question n°15": {
+      "question": "Comment écrit-on le nombre 15 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "fifteen"
+    },
+    "question n°16": {
+      "question": "Comment écrit-on le nombre 16 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "sixteen"
+    },
+    "question n°17": {
+      "question": "Comment écrit-on le nombre 17 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "seventeen"
+    },
+    "question n°18": {
+      "question": "Comment écrit-on le nombre 18 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "eighteen"
+    },
+    "question n°19": {
+      "question": "Comment écrit-on le nombre 19 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "nineteen"
+    },
+    "question n°20": {
+      "question": "Comment écrit-on le nombre 20 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty"
+    },
+    "question n°21": {
+      "question": "Comment écrit-on le nombre 21 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-one"
+    },
+    "question n°22": {
+      "question": "Comment écrit-on le nombre 22 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-two"
+    },
+    "question n°23": {
+      "question": "Comment écrit-on le nombre 23 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-three"
+    },
+    "question n°24": {
+      "question": "Comment écrit-on le nombre 24 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-four"
+    },
+    "question n°25": {
+      "question": "Comment écrit-on le nombre 25 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-five"
+    },
+    "question n°26": {
+      "question": "Comment écrit-on le nombre 26 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-six"
+    },
+    "question n°27": {
+      "question": "Comment écrit-on le nombre 27 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-seven"
+    },
+    "question n°28": {
+      "question": "Comment écrit-on le nombre 28 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-eight"
+    },
+    "question n°29": {
+      "question": "Comment écrit-on le nombre 29 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty-nine"
+    },
+    "question n°30": {
+      "question": "Comment écrit-on le nombre 30 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "thirty"
+    }
+  }
+}

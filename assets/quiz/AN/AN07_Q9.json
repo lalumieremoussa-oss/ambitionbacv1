@@ -1,0 +1,332 @@
+{
+  "title": "AN07_Q9",
+  "id": "AN07_Q9",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l'heure 8:00 en lettres  ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "eight",
+        "half",
+        "It's",
+        "ten",
+        "seven",
+        "to",
+        "o'clock",
+        "past",
+        "four"
+      ],
+      "bonne réponse": "It's eight o'clock"
+    },
+    "question n°2": {
+      "question": "Quelle est l'heure 8:15 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "seven",
+        "eight",
+        "a",
+        "three",
+        "to",
+        "half",
+        "past",
+        "ten",
+        "quarter",
+        "It's",
+        "five"
+      ],
+      "bonne réponse": "It's a quarter past eight"
+    },
+    "question n°3": {
+      "question": "Quelle est l'heure 8:30 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nine",
+        "half",
+        "twelve",
+        "past",
+        "eight",
+        "seven",
+        "to",
+        "quarter",
+        "It's",
+        "ten"
+      ],
+      "bonne réponse": "It's half past eight"
+    },
+    "question n°4": {
+      "question": "Quelle est l'heure 8:45 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "past",
+        "a",
+        "nine",
+        "ten",
+        "five",
+        "half",
+        "It's",
+        "quarter",
+        "to",
+        "eight",
+        "seven"
+      ],
+      "bonne réponse": "It's a quarter to nine"
+    },
+    "question n°5": {
+      "question": "Quelle est l'heure 12:00  en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "noon",
+        "quarter",
+        "midnight",
+        "It's",
+        "midday",
+        "a"
+      ],
+      "bonne réponse": "It's noon"
+    },
+    "question n°6": {
+      "question": "Quelle est l'heure 00:00  en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "o'clock",
+        "midnight",
+        "noon",
+        "It's",
+        "eight",
+        "midday"
+      ],
+      "bonne réponse": "It's midnight"
+    },
+    "question n°7": {
+      "question": "Quelle est l'heure 5:00 du matin en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "pm",
+        "am",
+        "o'clock",
+        "It's",
+        "ten",
+        "five"
+      ],
+      "bonne réponse": "It's five am"
+    },
+    "question n°8": {
+      "question": "Quelle est l'heure 17:00 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "three",
+        "pm",
+        "am",
+        "o'clock",
+        "five",
+        "It's"
+      ],
+      "bonne réponse": "It's five pm"
+    },
+    "question n°9": {
+      "question": "Quelle est l'heure 10:15 en lettres  ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "past",
+        "a",
+        "nine",
+        "to",
+        "half",
+        "ten",
+        "It's",
+        "eleven",
+        "quarter",
+        "five"
+      ],
+      "bonne réponse": "It's a quarter past ten"
+    },
+    "question n°10": {
+      "question": "Quelle est l'heure 2:30 en lettres (en utilisant half) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "half",
+        "two",
+        "three",
+        "to",
+        "one",
+        "four",
+        "quarter",
+        "past",
+        "It's"
+      ],
+      "bonne réponse": "It's half past two"
+    },
+    "question n°11": {
+      "question": "Quelle est l'heure 7:45 en lettres  ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "a",
+        "past",
+        "ten",
+        "eight",
+        "to",
+        "It's",
+        "one",
+        "half",
+        "seven",
+        "quarter",
+        "five"
+      ],
+      "bonne réponse": "It's a quarter to eight"
+    },
+    "question n°12": {
+      "question": "Quelle est l'heure 11:00 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "to",
+        "eleven",
+        "o'clock",
+        "five",
+        "It's",
+        "twelve",
+        "half"
+      ],
+      "bonne réponse": "It's eleven o'clock"
+    },
+    "question n°13": {
+      "question": "Quelle est l'heure 4:15 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "quarter",
+        "a",
+        "three",
+        "one",
+        "four",
+        "to",
+        "half",
+        "past",
+        "It's",
+        "five"
+      ],
+      "bonne réponse": "It's a quarter past four"
+    },
+    "question n°14": {
+      "question": "Quelle est l'heure 1:30 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "two",
+        "ten",
+        "quarter",
+        "one",
+        "six",
+        "to",
+        "three",
+        "half",
+        "past",
+        "It's"
+      ],
+      "bonne réponse": "It's half past one"
+    },
+    "question n°15": {
+      "question": "Quelle est l'heure 3:45 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "past",
+        "four",
+        "a",
+        "two",
+        "to",
+        "half",
+        "three",
+        "It's",
+        "ten",
+        "quarter",
+        "five"
+      ],
+      "bonne réponse": "It's a quarter to four"
+    },
+    "question n°16": {
+      "question": "Quelle est l'heure 6:00 du soir en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "o'clock",
+        "six",
+        "am",
+        "It's",
+        "seven",
+        "pm"
+      ],
+      "bonne réponse": "It's six pm"
+    },
+    "question n°17": {
+      "question": "Quelle est l'heure 9:15 en lettres  ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eight",
+        "past",
+        "a",
+        "one",
+        "ten",
+        "to",
+        "half",
+        "nine",
+        "It's",
+        "quarter",
+        "five"
+      ],
+      "bonne réponse": "It's a quarter past nine"
+    },
+    "question n°18": {
+      "question": "Quelle est l'heure 11:30 en lettres  ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "half",
+        "eleven",
+        "seven",
+        "twelve",
+        "to",
+        "quarter",
+        "past",
+        "It's",
+        "ten"
+      ],
+      "bonne réponse": "It's half past eleven"
+    },
+    "question n°19": {
+      "question": "Quelle est l'heure 5:45 en lettres  ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "past",
+        "six",
+        "a",
+        "one",
+        "to",
+        "four",
+        "half",
+        "five",
+        "It's",
+        "ten",
+        "quarter"
+      ],
+      "bonne réponse": "It's a quarter to six"
+    },
+    "question n°20": {
+      "question": "Quelle est l'heure 10:00 du matin en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "o'clock",
+        "am",
+        "two",
+        "half",
+        "past",
+        "ten",
+        "one",
+        "eleven",
+        "pm",
+        "It's",
+        "nine"
+      ],
+      "bonne réponse": "It's ten o'clock"
+    }
+  }
+}

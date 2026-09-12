@@ -1,0 +1,191 @@
+
+  {
+    "id": "PH009_Q3",
+    "title": "Quiz 3",
+    "questions": {
+      "question n°1": {
+        "question": "On considère le sujet suivant : Toute Connaissance Scientifique Doit-elle Passer par l’Expérience ? Dans le sujet, le terme « Toute » est utilisé pour :",
+        "réponses": {
+          "A": "Souligner une universalité sans exception, invitant à s’interroger sur la nécessité absolue et le caractère incontournable du lien entre toute connaissance scientifique et l’expérience.",
+          "B": "Mettre en évidence une généralisation incertaine, invitant à considérer si ce lien entre science et expérience est parfois valide, mais pas de manière universelle.",
+          "C": "Indiquer une exception rare ou une possibilité lointaine, suggérant qu’une partie infime de la connaissance scientifique pourrait être concernée par l’expérience.",
+          "D": "Restreindre le champ d’application de la question à des domaines scientifiques très spécifiques, sans que cela n’ait une portée générale pour la science dans son ensemble."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°2": {
+        "question": "Le terme « Expérience » dans le contexte de ce sujet, fait spécifiquement référence à :",
+        "réponses": {
+          "A": "Uniquement les intuitions personnelles et les révélations mystiques qui permettent une compréhension subjective du monde, en dehors de toute observation.",
+          "B": "Les compétences acquises par la pratique d’un métier ou d’une activité, sans que cela n’implique une démarche de vérification scientifique.",
+          "C": "L’expérimentation scientifique, incluant l’observation rigoureuse des faits, la vérification empirique et la confrontation avec la réalité, souvent en laboratoire ou dans la nature.",
+          "D": "L’ensemble des sensations et des perceptions sensorielles brutes, avant toute élaboration conceptuelle ou interprétation rationnelle par l’esprit."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°3": {
+        "question": "La reformulation du sujet, « Peut-on affirmer que l’expérience est un passage obligé pour toute forme de connaissance scientifique ? », met en lumière une interrogation sur :",
+        "réponses": {
+          "A": "La supériorité de la connaissance scientifique sur d’autres formes de savoir, sans remettre en question son mode d’acquisition.",
+          "B": "La possibilité d’acquérir une connaissance scientifique en se basant exclusivement sur l’imagination et la spéculation abstraite, sans aucun lien avec le réel.",
+          "C": "Le caractère purement optionnel et facultatif de l’expérience en science, où elle serait une simple aide mais non une condition essentielle pour la vérité.",
+          "D": "La nécessité absolue de l’expérience sensible ou empirique comme étape incontournable et obligatoire dans le processus d’acquisition de n’importe quelle connaissance scientifique."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°4": {
+        "question": "Quels philosophes « défendent le primat de la raison » et rejettent l’idée que l’expérience est le fondement de toute connaissance scientifique ?",
+        "réponses": {
+          "A": "John Locke et David Hume, pour leur insistance sur le rôle crucial de l’expérience sensorielle dans la formation de toutes les idées et connaissances.",
+          "B": "Francis Bacon et John Stuart Mill, pour leur promotion de la méthode inductive et de l’observation comme base de la science empirique.",
+          "C": "Platon et René Descartes, figures centrales du rationalisme, qui privilégient la raison, la déduction logique et les idées innées comme sources de connaissance première, parfois indépendamment de l’expérience.",
+          "D": "Karl Popper et Thomas Kuhn, pour leurs théories sur la falsifiabilité et les révolutions scientifiques, qui soulignent l’importance de la confrontation des théories aux faits."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°5": {
+        "question": " A l’introduction, on peut opposer les positions de Bacon et Mill (expérience fondatrice) à celles de Platon et Descartes (primat de la raison). Cette divergence nous amenera à poser la problématique du sujet en se demandant :",
+        "réponses": {
+          "A": "Si la science est une quête de savoir pertinente, ou si elle doit être abandonnée au profit de la superstition ou de la croyance.",
+          "B": "Quelle est la forme de connaissance la plus agréable à acquérir, en fonction des préférences individuelles pour l’expérience ou la raison.",
+          "C": "Si le passage par l’expérience est une condition universellement nécessaire pour toute connaissance scientifique, ou si d’autres voies (comme la raison pure) sont possibles et suffisantes.",
+          "D": "Comment concilier la science et la religion, puisque ces deux domaines sont présentés comme étant en opposition fondamentale et irréductible."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°6": {
+        "question": "Un argument de l’Axe 1 (« La science repose sur l’expérience comme fondement de la connaissance ») est que l’expérience permet de :",
+        "réponses": {
+          "A": "D’ignorer les faits et de développer des théories purement spéculatives, sans aucun lien avec la réalité observable.",
+          "B": "D’observer, de vérifier et de reproduire les phénomènes naturels, ce qui est essentiel pour la construction des lois scientifiques.",
+          "C": "De manipuler les données pour confirmer des hypothèses préconçues, sans rigueur ni objectivité méthodologique.",
+          "D": "De se fier uniquement à l’intuition et aux croyances personnelles, en rejetant toute forme de preuve empirique ou de démonstration logique."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°7": {
+        "question": "Francis Bacon est associé à la méthode inductive, qu’il défend en affirmant que « La science véritable est celle qui naît de l’expérience. » Cela signifie que :",
+        "réponses": {
+          "A": "La science est une activité purement théorique qui ne nécessite aucune observation du monde ou vérification des faits.",
+          "B": "La véritable science se développe uniquement par la déduction logique à partir de principes abstraits, sans se soucier du réel.",
+          "C": "L’expérience est un processus secondaire et facultatif dans la science, qui ne joue qu’un rôle mineur après la formulation des lois générales.",
+          "D": "La connaissance scientifique authentique doit impérativement trouver son origine et sa justification dans l’observation attentive et la collecte systématique de données empiriques."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°8": {
+        "question": "L’explication de l’Argument précedent (« La science expérimentale suppose une confrontation directe avec les faits ») met en évidence que cette confrontation est essentielle pour :",
+        "réponses": {
+          "A": "Réduire la science à une simple description des phénomènes isolés, sans chercher à en déduire des principes généraux.",
+          "B": "Maintenir une distance critique entre la théorie scientifique et la réalité, afin d’éviter toute contamination des hypothèses par l’observation.",
+          "C": "Remplacer la logique et la raison par l’observation pure, considérant que la science ne doit être qu’une collection passive de données.",
+          "D": "Produire des lois générales et des théories fiables, en garantissant que les principes scientifiques sont bien ancrés dans le réel et vérifiables."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°9": {
+        "question": "Un Argument  de l’Axe 1 affirme que sans expérience, la science risquerait de sombrer dans :",
+        "réponses": {
+          "A": "La spéculation abstraite et des hypothèses non fondées, manquant de vérification objective et de confrontation avec le réel.",
+          "B": "Un développement plus rapide et plus efficace de nouvelles théories, car les contraintes de l’expérimentation ralentiraient la recherche.",
+          "C": "Une clarté et une rigueur méthodologique accrues, car elle ne serait plus limitée par les contingences du monde sensible.",
+          "D": "Une compréhension plus profonde des lois fondamentales de l’univers, car elle serait libérée des détails superficiels de l’observation."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°10": {
+        "question": "Quel scientifique et philosophe est le « père de la médecine expérimentale » et insiste sur l’importance de l’expérimentation pour confirmer ou infirmer une hypothèse scientifique ?",
+        "réponses": {
+          "A": "Claude Bernard, qui a systématisé la démarche expérimentale en physiologie, soulignant l’importance cruciale de la vérification par l’expérience.",
+          "B": "Louis Pasteur, pour ses découvertes en microbiologie et l’application rigoureuse de la méthode expérimentale.",
+          "C": "Antoine Lavoisier, pour ses travaux sur la combustion et le rôle de l’expérimentation en chimie.",
+          "D": "Gregor Mendel, pour ses travaux sur l’hérédité et ses expériences de croisement de plantes, fondateurs de la génétique."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°11": {
+        "question": "L’explication de l’Argument précedent affirme que l’expérience garantit une « objectivité et une rigueur méthodique » qui empêchent les hypothèses non fondées. Cela signifie que l’expérience :",
+        "réponses": {
+          "A": "Rend toute objectivité impossible en science, car elle introduit des biais subjectifs liés aux sens et à la perception humaine.",
+          "B": "Se limite à la simple accumulation de faits bruts, sans aucune contribution à la formation d’hypothèses ou de théories.",
+          "C": "Permet de soumettre les idées à l’épreuve des faits, de les valider ou de les invalider de manière impartiale, évitant ainsi les spéculations sans fondement empirique.",
+          "D": "Encourage la formation d’hypothèses arbitraires, puisque tout est permis tant que l’on ne se confronte pas directement au réel."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°12": {
+        "question": "Francis Bacon, en affirmant que « La science véritable est celle qui naît de l’expérience », se positionne clairement en faveur de :",
+        "réponses": {
+          "A": "L’empirisme, qui privilégie l’expérience sensible et l’observation comme source principale de connaissance.",
+          "B": "Le rationalisme, qui met l’accent sur la raison et la déduction comme voie d’accès à la vérité.",
+          "C": "Le scepticisme, qui doute de toute possibilité d’atteindre la connaissance, qu’elle soit empirique ou rationnelle.",
+          "D": "L’idéalisme, qui considère que la réalité est avant tout une construction de l’esprit, indépendante de l’expérience extérieure."
+        },
+        "bonne réponse": "A"
+      },
+      "question n°13": {
+        "question": " Bacon et Mill défendent le primat de la raison sur l’expérience comme fondement de la connaissance scientifique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°14": {
+        "question": "La « connaissance scientifique » est définie comme un savoir méthodique et rigoureux, reposant sur des preuves et une logique démonstrative.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°15": {
+        "question": "La science expérimentale évite la confrontation directe avec les faits pour produire des lois générales.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°16": {
+        "question": "Claude Bernard est considéré comme le père de la médecine expérimentale et met en avant l’importance de l’expérimentation.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°17": {
+        "question": "La reformulation du sujet suggère que l’expérience est un passage facultatif et non obligatoire pour toute connaissance scientifique.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°18": {
+        "question": "Un Argument insinue que sans expérience, la science serait plus objective et rigoureuse, car elle serait libérée des contraintes du réel.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°19": {
+        "question": "La problématique du sujet demande si l’expérience est une condition indispensable à la formation des connaissances scientifiques.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°20": {
+        "question": "La citation de Francis Bacon, « La science véritable est celle qui naît de l’expérience », signifie que la seule source de vérité scientifique est la spéculation pure.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      }
+    }
+  }

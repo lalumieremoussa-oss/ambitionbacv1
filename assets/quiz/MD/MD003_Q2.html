@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+
+        <div id="quizForm" class="tex2jax_process"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data =
+            [
+                { "q": "Dérivée de $f(x) = x^3 - 5x + 2$", "options": { "A": "3x^2 - 5", "B": "3x - 5", "C": "x^2 - 5", "D": "3x^2 + 2" }, "r": "A" },
+                { "q": "Dérivée de $f(x) = \\ln(x)$", "options": { "A": "e^x", "B": "1/x", "C": "x", "D": "1" }, "r": "B" },
+                { "q": "Dérivée de $f(x) = \\ln(3x)$", "options": { "A": "3/x", "B": "1/3x", "C": "1/x", "D": "3" }, "r": "C" },
+                { "q": "Dérivée de $f(x) = \\frac{1}{x}$", "options": { "A": "1/x^2", "B": "-1/x^2", "C": "\\ln(x)", "D": "-1/x" }, "r": "B" },
+                { "q": "Dérivée de $f(x) = \\sqrt{x}$", "options": { "A": "1/2\\sqrt{x}", "B": "2\\sqrt{x}", "C": "1/x", "D": "x^2" }, "r": "A" },
+                { "q": "Dérivée de $f(x) = \\ln(x^2 + 1)$", "options": { "A": "1/(x^2+1)", "B": "2x/(x^2+1)", "C": "2x \\ln(x^2+1)", "D": "x/(x^2+1)" }, "r": "B" },
+                { "q": "Dérivée de $f(x) = 4x^2 - \\ln(x)$", "options": { "A": "8x - 1/x", "B": "8x + 1/x", "C": "4x - 1/x", "D": "8 - 1/x" }, "r": "A" },
+                { "q": "Dérivée de $f(x) = \\ln(e^x)$", "options": { "A": "e^x", "B": "1/e^x", "C": "1", "D": "x" }, "r": "C" },
+                { "q": "Dérivée de $f(x) = (2x+1)^2$", "options": { "A": "2(2x+1)", "B": "4(2x+1)", "C": "4x", "D": "8x+4" }, "r": "B" },
+                { "q": "Dérivée de $f(x) = \\ln(1-x)$ sur $]-\\infty; 1[$", "options": { "A": "1/(1-x)", "B": "-1/(1-x)", "C": "1/(x-1)", "D": "Les réponses B et C sont correctes" }, "r": "D" },
+                { "q": "Dérivée de $f(x) = \\frac{3}{x^2}$", "options": { "A": "-6/x^3", "B": "6/x^3", "C": "-3/x^4", "D": "3/x" }, "r": "A" },
+                { "q": "Dérivée de $f(x) = x \\ln(x) - x$", "options": { "A": "\\ln(x)", "B": "\\ln(x)-1", "C": "1/x - 1", "D": "x/x" }, "r": "A" },
+                { "q": "Dérivée de $f(x) = \\ln(x) + \\sqrt{x}$", "options": { "A": "(2\\sqrt{x}+x)/2x\\sqrt{x}", "B": "1/x + 1/2\\sqrt{x}", "C": "Les deux A et B", "D": "1/(x\\sqrt{x})" }, "r": "C" },
+                { "q": "Dérivée de $f(x) = e^x + \\ln(x)$", "options": { "A": "e^x + 1/x", "B": "e^x - 1/x", "C": "xe^x", "D": "1/x" }, "r": "A" },
+                { "q": "Dérivée de $f(x) = \\ln(2x+5)$", "options": { "A": "1/(2x+5)", "B": "2/(2x+5)", "C": "2", "D": "1/2" }, "r": "B" }
+            ]
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

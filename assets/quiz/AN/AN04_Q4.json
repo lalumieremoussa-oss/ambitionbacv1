@@ -1,0 +1,524 @@
+{
+  "title": "Quiz 1",
+  "id": "AN04_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez le groupe nominal : \"une grande maison\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "a house big",
+        "B": "the big house",
+        "C": "a house great",
+        "D": "a big house"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle est la traduction correcte de : \"le livre d'Ali\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "the book of Ali",
+        "B": "Ali's book",
+        "C": "book Ali's",
+        "D": "Alis' book"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Complétez correctement pour traduire : \"son père\" (le père d'un homme)",
+      "type": "QCM",
+      "réponses": {
+        "A": "her father",
+        "B": "our father",
+        "C": "their father",
+        "D": "his father"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle est la structure correcte d'un groupe nominal en anglais ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Déterminant + Nom + Adjectif",
+        "B": "Adjectif + Nom + Déterminant",
+        "C": "Déterminant + Adjectif + Nom",
+        "D": "Nom + Adjectif + Déterminant"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Traduisez correctement : \"leur école\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "his school",
+        "B": "her school",
+        "C": "our school",
+        "D": "their school"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Complétez correctement pour traduire : \"son sac\" (le sac d'une femme)",
+      "type": "QCM",
+      "réponses": {
+        "A": "her bag",
+        "B": "his bag",
+        "C": "my bag",
+        "D": "your bag"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle est l'expression correcte pour : \"la salle de classe des étudiants\" (pluriel) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "the student's classroom",
+        "B": "the classroom of the students",
+        "C": "the students classroom",
+        "D": "the students' classroom"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quelle est la traduction française de \"my small bag\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "ma grande maison",
+        "B": "ma valise",
+        "C": "mon petit sac",
+        "D": "ma sœur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel pronom possessif traduit \"notre/nos\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "our",
+        "B": "your",
+        "C": "their",
+        "D": "my"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Quelle est la traduction correcte de \"la couleur de la voiture\" (objet) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "the car's color",
+        "B": "the color of the car",
+        "C": "car color",
+        "D": "the color to the car"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"mon petit sac\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bag",
+        "small",
+        "her",
+        "big",
+        "room",
+        "my"
+      ],
+      "bonne réponse": "my small bag"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"la voiture rouge\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "red",
+        "clean",
+        "the",
+        "house",
+        "a",
+        "car"
+      ],
+      "bonne réponse": "the red car"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"notre maison est propre\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "their",
+        "house",
+        "near",
+        "a",
+        "Our",
+        "school",
+        "clean"
+      ],
+      "bonne réponse": "Our house is clean"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"le livre de l'élève\" (singulier)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "student's",
+        "a",
+        "on",
+        "book",
+        "new",
+        "the",
+        "is",
+        "teacher's"
+      ],
+      "bonne réponse": "the student's book"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"son livre est sur la table\" (livre d'un homme)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "at",
+        "table",
+        "his",
+        "the",
+        "room",
+        "her",
+        "book",
+        "a",
+        "is",
+        "on",
+        "clean",
+        "my"
+      ],
+      "bonne réponse": "His book is on the table"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"le nom de mon père\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mother's",
+        "is",
+        "a",
+        "father's",
+        "the",
+        "sister",
+        "My",
+        "name"
+      ],
+      "bonne réponse": "My father's name"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"J'ai une petite chambre.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "room",
+        "a",
+        "I",
+        "big",
+        "the",
+        "to",
+        "small",
+        "my",
+        "have"
+      ],
+      "bonne réponse": "I have a small room"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"leurs amis sont gentils\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "are",
+        "our",
+        "kind",
+        "bad",
+        "Their",
+        "my",
+        "friends"
+      ],
+      "bonne réponse": "Their friends are kind"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je lis mon livre\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "my",
+        "your",
+        "do",
+        "book",
+        "read",
+        "sister",
+        "I",
+        "listen"
+      ],
+      "bonne réponse": "I read my book"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"mon ami est à l'école\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "house",
+        "in",
+        "a",
+        "school",
+        "My",
+        "at",
+        "to",
+        "friend",
+        "her",
+        "is"
+      ],
+      "bonne réponse": "My friend is at school"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"la fenêtre de ma chambre est ouverte\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "open",
+        "big",
+        "the",
+        "father's",
+        "window",
+        "is",
+        "door",
+        "My",
+        "clean",
+        "a",
+        "at",
+        "room's"
+      ],
+      "bonne réponse": "My room's window is open"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"la salle de classe des enfants\" (pluriel irrégulier)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "classroom",
+        "a",
+        "my",
+        "large",
+        "teachers'",
+        "The",
+        "is",
+        "children's"
+      ],
+      "bonne réponse": "The children's classroom"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"le nom de l'école\" (objet)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "school",
+        "to",
+        "The",
+        "car",
+        "the",
+        "name",
+        "a",
+        "is",
+        "of",
+        "my"
+      ],
+      "bonne réponse": "The name of the school"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ils aiment leur maison\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "our",
+        "is",
+        "like",
+        "house",
+        "They",
+        "love",
+        "the",
+        "their"
+      ],
+      "bonne réponse": "They like their house"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"la grande ville\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "town",
+        "The",
+        "small",
+        "city",
+        "a",
+        "big"
+      ],
+      "bonne réponse": "The big city"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"sa sœur est jolie\" (sœur d'une fille)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "pretty",
+        "his",
+        "my",
+        "is",
+        "Her",
+        "brother",
+        "a",
+        "sister"
+      ],
+      "bonne réponse": "Her sister is pretty"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"ton livre est neuf\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "old",
+        "new",
+        "is",
+        "the",
+        "my",
+        "a",
+        "Your",
+        "book"
+      ],
+      "bonne réponse": "Your book is new"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"nos parents sont heureux\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "happy",
+        "are",
+        "my",
+        "is",
+        "sad",
+        "parents",
+        "Our",
+        "your"
+      ],
+      "bonne réponse": "Our parents are happy"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"C'est son chien.\" (chien d'un homme)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "her",
+        "dog",
+        "is",
+        "the",
+        "cat",
+        "It",
+        "a",
+        "his"
+      ],
+      "bonne réponse": "It is his dog"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"le sac de la fille\" (singulier)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "girl's",
+        "a",
+        "boy's",
+        "is",
+        "The",
+        "of",
+        "bag",
+        "my"
+      ],
+      "bonne réponse": "The girl's bag"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Je vois ta voiture.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "see",
+        "the",
+        "your",
+        "look",
+        "at",
+        "my",
+        "car",
+        "I"
+      ],
+      "bonne réponse": "I see your car"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"le nom du chien\" (animal)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "cat's",
+        "name",
+        "my",
+        "a",
+        "The",
+        "dog's",
+        "of"
+      ],
+      "bonne réponse": "The dog's name"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"la grande voiture rouge\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "big",
+        "house",
+        "red",
+        "small",
+        "The",
+        "blue",
+        "car",
+        "a"
+      ],
+      "bonne réponse": "The big red car"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"la voiture est rouge\" (sans adjectif avant le nom)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "at",
+        "red",
+        "a",
+        "car",
+        "The",
+        "blue",
+        "is",
+        "big"
+      ],
+      "bonne réponse": "The car is red"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"la maison de mes parents\" ",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "parents",
+        "parent's",
+        "My",
+        "big",
+        "house",
+        "the",
+        "parents'"
+      ],
+      "bonne réponse": "My parents' house"
+    },
+    "question n°36": {
+      "question": "Quel est le déterminant possessif utilisé pour \"son / sa / ses\" lorsque le possesseur est masculin (un homme) ?",
+      "type": "short_answer",
+      "bonne réponse": "his"
+    },
+    "question n°37": {
+      "question": "En anglais, où se place l'adjectif qualificatif par rapport au nom qu'il modifie ? (en français)",
+      "type": "short_answer",
+      "bonne réponse": "Avant le nom"
+    },
+    "question n°38": {
+      "question": "Quel est le déterminant possessif qui signifie \"notre / nos\" ?",
+      "type": "short_answer",
+      "bonne réponse": "our"
+    },
+    "question n°39": {
+      "question": "Comment appelle-t-on la structure de possession utilisant l'apostrophe et un \"s\" ('s) ?",
+      "type": "short_answer",
+      "bonne réponse": "Génitif Saxon"
+    },
+    "question n°40": {
+      "question": "Quelle préposition utilise-t-on pour exprimer la possession d'un objet (non-personne) ? (Ex: the color _____ the car)",
+      "type": "short_answer",
+      "bonne réponse": "OF"
+    }
+  }
+}

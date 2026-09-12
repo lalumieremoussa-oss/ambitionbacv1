@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 2",
+  "id": "PH004_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Toujours dans le cadre du sujet  : \"Peut-on prouver rationnellement l'existence de Dieu?\" Quel philosophe est principalement associé à l'idée que Dieu est une \"projection psychologique\" de l'homme ?",
+      "réponses": {
+        "A": "Friedrich Nietzsche, qui a proclamé la \"mort de Dieu\" et l'avènement du Surhomme.",
+        "B": "Ludwig Feuerbach, qui considère que l'homme projette ses propres qualités idéalisées en Dieu.",
+        "C": "Baruch Spinoza, qui identifie Dieu à la Nature et à la substance unique.",
+        "D": "Emmanuel Kant, qui a montré l'impossibilité de prouver ou de réfuter l'existence de Dieu par la raison pure."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Selon Feuerbach, pourquoi l'homme crée-t-il l'idée de Dieu ?",
+      "réponses": {
+        "A": "Pour trouver un fondement objectif à la morale et à la justice universelle.",
+        "B": "Pour expliquer les phénomènes naturels complexes et incompréhensibles.",
+        "C": "Pour projeter ses propres qualités et désirs de perfection sur un être tout-puissant, compensant ainsi ses propres faiblesses et limites.",
+        "D": "Pour établir une hiérarchie sociale et justifier le pouvoir des dirigeants religieux et politiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "La citation \"L’homme pense à un Dieu riche, mais en réalité, l’essence de Dieu, c’est l’essence de l’homme lui-même\" résume la pensée de :",
+      "réponses": {
+        "A": "René Descartes, concernant l'idée innée de Dieu.",
+        "B": "Georg Wilhelm Friedrich Hegel, sur l'Esprit absolu.",
+        "C": "Ludwig Feuerbach, sur la nature anthropomorphique de Dieu.",
+        "D": "Épicure, concernant le problème du mal."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel est le principal argument des penseurs athées comme Nietzsche concernant l'existence de Dieu ?",
+      "réponses": {
+        "A": "Que la religion est un outil d'oppression des masses par les élites.",
+        "B": "Que l'existence de Dieu est incompatible avec la liberté individuelle et l'autonomie de la volonté.",
+        "C": "Qu'il n'y a aucune preuve sensible ou matérielle de son existence, rendant la foi obsolète dans un monde où l'homme peut penser par lui-même.",
+        "D": "Que les textes sacrés sont pleins de contradictions et d'incohérences logiques, invalidant ainsi toute affirmation divine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Lorsque Nietzsche affirme \"Dieu est mort\", que veut-il principalement signifier ?",
+      "réponses": {
+        "A": "Que la figure d'un Dieu personnel et anthropomorphe a cessé d'exister dans les consciences.",
+        "B": "Que la foi et les valeurs religieuses traditionnelles ont perdu leur sens et leur force contraignante dans la culture moderne.",
+        "C": "Que l'humanité a atteint un niveau de développement technologique tel qu'elle n'a plus besoin de croire en des forces surnaturelles.",
+        "D": "Que toutes les religions ont été réfutées de manière définitive par les découvertes scientifiques récentes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Le fait de ne pas voir, entendre ou pouvoir mesurer Dieu est un argument utilisé pour soutenir :",
+      "réponses": {
+        "A": "L'idée que Dieu est transcendant et au-delà de la compréhension humaine.",
+        "B": "L'argument empirique contre l'existence de Dieu, qui remet en question la validité des croyances sans preuves concrètes.",
+        "C": "La nécessité d'une foi aveugle, car Dieu ne se révèle pas par les sens.",
+        "D": "La nature mystique et insaisissable du divin, qui ne peut être appréhendé que par l'intuition."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel philosophe grec est célèbre pour avoir formulé le problème du mal, interrogeant la compatibilité entre un Dieu bon, tout-puissant et l'existence du mal ?",
+      "réponses": {
+        "A": "Platon, avec sa théorie des Formes et l'Idée du Bien.",
+        "B": "Aristote, avec son concept de Premier Moteur immobile.",
+        "C": "Épicure, dont le dilemme reste une pierre d'achoppement pour la théodicée.",
+        "D": "Socrate, pour son questionnement éthique et la recherche de la vérité par le dialogue."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'argument du mal s'appuie sur quelle contradiction majeure concernant l'idée de Dieu ?",
+      "réponses": {
+        "A": "La contradiction entre la liberté humaine et la prédestination divine.",
+        "B": "La contradiction entre un Dieu infini et un univers fini.",
+        "C": "La contradiction entre un Dieu omniscient et le libre arbitre de l'homme.",
+        "D": "La contradiction entre la bonté et toute-puissance de Dieu et l'existence manifeste de la souffrance et de l'injustice dans le monde."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Si Dieu est bon et tout-puissant, mais que le mal existe, quelle conclusion logique peut être tirée selon le raisonnement épicurien ?",
+      "réponses": {
+        "A": "Dieu permet le mal pour tester la foi des hommes et renforcer leur vertu.",
+        "B": "Le mal est une illusion ou une perception erronée de la réalité divine.",
+        "C": "Soit Dieu n'est pas bon, soit il n'est pas tout-puissant, soit il n'existe pas.",
+        "D": "Le mal est la conséquence inévitable de la liberté humaine et ne peut être imputé à Dieu."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La \"théodicée\" est une branche de la philosophie et de la théologie qui vise à :",
+      "réponses": {
+        "A": "Prouver l'existence de Dieu par des arguments purement logiques et rationnels.",
+        "B": "Réconcilier la bonté et toute-puissance de Dieu avec l'existence du mal.",
+        "C": "Analyser les différentes manifestations culturelles et historiques du divin.",
+        "D": "Critiquer les fondements de la foi religieuse et promouvoir l'athéisme."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "\"Quand un homme pauvre imagine un être qui a tout, il projette ce qu’il aimerait être. De même, l’homme invente Dieu pour se rassurer.\" Cette explication illustre le concept de :",
+      "réponses": {
+        "A": "La sublimation freudienne, où les désirs refoulés sont transformés en activités socialement acceptables.",
+        "B": "L'aliénation religieuse chez Feuerbach, où l'homme se dépouille de ses qualités pour les attribuer à une entité extérieure.",
+        "C": "Le mythe de la caverne de Platon, décrivant la difficulté d'accéder à la vérité.",
+        "D": "La volonté de puissance de Nietzsche, expliquant le désir humain de domination."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "\"On ne voit pas Dieu, on ne l’entend pas, on ne peut pas le mesurer. Il est donc inutile d’y croire. C’est une croyance sans preuve réelle.\" Cet argument s'inscrit dans une démarche :",
+      "réponses": {
+        "A": "Subjectiviste, qui met l'accent sur l'expérience personnelle et intime.",
+        "B": "Rationaliste, qui cherche à établir des vérités par la seule force de la raison.",
+        "C": "Empiriste ou matérialiste, qui exige des preuves sensibles et observables.",
+        "D": "Fidéiste, qui affirme que la foi est indépendante de toute preuve rationnelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "L'argument de Feuerbach soutient que plus l'homme s'élève et se connaît, plus il a besoin de croire en un Dieu transcendant.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "La \"mort de Dieu\" chez Nietzsche signifie que Dieu a physiquement disparu de l'univers.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Le problème du mal est une objection ancienne et persistante contre l'existence d'un Dieu à la fois omnibénévole et omnipotent.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Si le mal existe, cela prouve irréfutablement que Dieu n'existe pas, sans aucune possibilité d'explication alternative.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "L'explication de Feuerbach sur la projection psychologique implique que l'idée de Dieu est le fruit d'une pure invention et non d'une révélation divine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Les philosophes comme Nietzsche rejettent l'existence de Dieu parce qu'ils n'ont pas assez de foi, non parce qu'il n'y a pas de preuves tangibles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'argument empirique contre Dieu est affaibli si l'on considère que Dieu est par définition immatériel et au-delà de la perception sensorielle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "L'idée que l'homme invente Dieu pour se rassurer est une preuve irréfutable de l'inexistence de Dieu, selon la critique philosophique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; padding: 15px; color: #333; 
+        }
+
+        .container { max-width: 850px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text { 
+            font-weight: 600; font-size: 1.1rem; margin-bottom: 15px; display: block; line-height: 1.5;
+        }
+
+        .option { 
+            display: flex; align-items: center; padding: 12px; margin: 8px 0; 
+            background: #fdfdfd; border: 1px solid #eee; border-radius: 10px;
+            cursor: pointer; transition: 0.2s;
+        }
+
+        .option:hover { background: #fff8f0; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { margin-right: 15px; accent-color: var(--orange-ivoire); transform: scale(1.2); }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .btn-submit { 
+            display: block; width: 100%; padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; border: none; border-radius: 12px; font-weight: bold;
+            font-size: 1.2rem; cursor: pointer; margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>EXERCICES D'APPLICATION : ACIDES FORTS</h1>
+        <p>Révision complète sur les pH, les dilutions, les inventaires d'espèces et les mélanges complexes.</p>
+    </div>
+
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+</div>
+
+<script>
+    const data = [
+        // EXERCICE 1
+        {
+            "ex": "Exercice 1 - Acide Chlorhydrique",
+            "q": "On dissout 10g de $HCl$ dans 22L d'eau. Quelle est la masse molaire $M(HCl)$ utilisée dans le calcul ?",
+            "options": { "A": "35,5 g/mol", "B": "36,5 g/mol", "C": "37,5 g/mol", "D": "1 g/mol" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 - Acide Chlorhydrique",
+            "q": "Quelle est la concentration molaire $C$ de cette solution (10g dans 22L) ?",
+            "options": { "A": "0,0125 mol/L", "B": "1,25 mol/L", "C": "0,125 mol/L", "D": "0,0125.10⁻² mol/L" },
+            "r": "A"
+        },
+        {
+            "ex": "Exercice 1 - Acide Chlorhydrique",
+            "q": "Pour un acide fort, quelle relation définit le pH ?",
+            "options": { "A": "$pH = \log C$", "B": "$pH = - \log C$", "C": "$pH = 10^{-C}$", "D": "$pH = - \ln C$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 - Acide Chlorhydrique",
+            "q": "Dans l'inventaire des espèces, pourquoi la molécule $HCl$ est-elle notée mais sa concentration est nulle ?",
+            "options": { "A": "Car elle est insoluble", "B": "Car l'ionisation est totale", "C": "Car elle s'évapore", "D": "Car c'est une base forte" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 - Acide Chlorhydrique",
+            "q": "À 25°C, si $[H_3O^+] = 1,25.10^{-2}$ mol/L, quelle est la valeur de $[OH^-]$ ?",
+            "options": { "A": "$10^{-14}$ mol/L", "B": "$7,94.10^{-13}$ mol/L", "C": "$1,25.10^{-12}$ mol/L", "D": "$10^{-7}$ mol/L" },
+            "r": "B"
+        },
+
+        // EXERCICE 2
+        {
+            "ex": "Exercice 2 - Acide Nitrique",
+            "q": "Comment prouve-t-on qu'un acide est fort à partir de sa concentration $C$ et de son pH ?",
+            "options": { "A": "Si $pH = 7$", "B": "Si $pH = - \log C$", "C": "Si $pH > - \log C$", "D": "Si $pH < - \log C$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 - Acide Nitrique",
+            "q": "Quelle est la base conjuguée de l'acide nitrique $HNO_3$ ?",
+            "options": { "A": "$NO_2^-$", "B": "$NO_3^-$", "C": "$NH_4^+$", "D": "$OH^-$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 - Acide Nitrique",
+            "q": "On dilue la solution d'acide nitrique du volume $V_1=20mL$ vers $V_2=100mL$. Quel est le facteur de dilution ?",
+            "options": { "A": "2", "B": "5", "C": "10", "D": "50" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 - Acide Nitrique",
+            "q": "Si on dilue 5 fois une solution d'acide fort, son pH va :",
+            "options": { "A": "Diminuer", "B": "Augmenter", "C": "Rester constant", "D": "Devenir neutre immédiatement" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 - Acide Nitrique",
+            "q": "Quel instrument est utilisé pour prélever précisément le volume $V_1$ avant dilution ?",
+            "options": { "A": "Éprouvette graduée", "B": "Pipette jaugée", "C": "Bécher", "D": "Erlenmeyer" },
+            "r": "B"
+        },
+
+        // EXERCICE 3
+        {
+            "ex": "Exercice 3 - Acide Perchlorique",
+            "q": "Une solution d'acide perchlorique ($HClO_4$) a un $pH=3$. Quelle est sa concentration ?",
+            "options": { "A": "3 mol/L", "B": "$10^{-3}$ mol/L", "C": "$10^3$ mol/L", "D": "0,3 mol/L" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 - Acide Perchlorique",
+            "q": "L'ion $ClO_4^-$ s'appelle l'ion :",
+            "options": { "A": "Chlorure", "B": "Perchlorate", "C": "Chlorite", "D": "Hypochlorite" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 - Acide Perchlorique",
+            "q": "Pour passer d'un $pH=3$ à un $pH=3,3$, faut-il ajouter de l'acide ou de l'eau ?",
+            "options": { "A": "De l'acide", "B": "De l'eau (dilution)", "C": "Rien", "D": "Chauffer la solution" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 - Acide Perchlorique",
+            "q": "Le volume à prélever pour obtenir 1L de solution $S'$ est calculé par la relation :",
+            "options": { "A": "$V = \frac{C' V'}{C}$", "B": "$V = \frac{C V'}{C'}$", "C": "$V = C' V' C$", "D": "$V = C V'$" },
+            "r": "A"
+        },
+        {
+            "ex": "Exercice 3 - Acide Perchlorique",
+            "q": "Quelle verrerie est indispensable pour préparer précisément 1L de solution diluée ?",
+            "options": { "A": "Un grand bécher", "B": "Une fiole jaugée de 1L", "C": "Un cristallisoir", "D": "Un tube à essai" },
+            "r": "B"
+        },
+
+        // EXERCICE 4
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "Si $S_1$ a un $pH_1=1$, quelle est sa concentration $C_1$ ?",
+            "options": { "A": "1 mol/L", "B": "0,1 mol/L", "C": "0,01 mol/L", "D": "10 mol/L" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "Quelle est la masse $m_1$ de $HCl$ nécessaire pour préparer 100mL de solution à $pH=1$ ?",
+            "options": { "A": "3,65 g", "B": "0,365 g", "C": "36,5 g", "D": "0,036 g" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "L'acide iodhydrique $HI$ est un acide fort. Quelle est sa base conjuguée ?",
+            "options": { "A": "$I_2$", "B": "$I^-$", "C": "$IO_3^-$", "D": "$H_2I^+$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "On donne $m_2=5g$ d'acide iodhydrique dans 1L ($M(HI)=128$ g/mol). Sa concentration $C_2$ est environ :",
+            "options": { "A": "0,039 mol/L", "B": "0,13 mol/L", "C": "0,5 mol/L", "D": "0,013 mol/L" },
+            "r": "A"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "L'acide bromhydrique $HBr$ a $C_3=3,1.10^{-2}$ mol/L et $pH=1,5$. Est-il fort ?",
+            "options": { "A": "Non, car $pH \neq 7$", "B": "Oui, car $-\log(3,1.10^{-2}) \approx 1,5$", "C": "Non, car il est liquide", "D": "On ne peut pas savoir" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "Le volume total du mélange $V_T$ ($V_1=100mL, V_2=1L, V_3=200mL$) est :",
+            "options": { "A": "400 mL", "B": "1,3 L", "C": "1,5 L", "D": "1300 mL (mais noté 1,3 L)" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "Comment calcule-t-on $[H_3O^+]$ dans le mélange final ?",
+            "options": { "A": "$\frac{C_1+C_2+C_3}{3}$", "B": "$\frac{C_1V_1 + C_2V_2 + C_3V_3}{V_T}$", "C": "$10^{-pH_1} + 10^{-pH_2} + 10^{-pH_3}$", "D": "$\frac{V_T}{n_{total}}$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "La relation d'électroneutralité du mélange final s'écrit :",
+            "options": { "A": "$[H_3O^+] = [OH^-]$", "B": "$[H_3O^+] = [Cl^-] + [I^-] + [Br^-] + [OH^-]$", "C": "$[H_3O^+] + [Cl^-] = [I^-]$", "D": "$[Na^+] = [Cl^-]$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "Dans le mélange, l'ion $OH^-$ est-il majoritaire ou ultra-minoritaire ?",
+            "options": { "A": "Majoritaire", "B": "Ultra-minoritaire (négligeable)", "C": "Absent", "D": "En équilibre avec $Na^+$" },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 4 - Mélanges d'Acides",
+            "q": "Si $[H_3O^+] = 0,112$ mol/L dans le mélange, le pH final est d'environ :",
+            "options": { "A": "1,95", "B": "0,95", "C": "7,0", "D": "13" },
+            "r": "B"
+        },
+
+        // SYNTHÈSE ET MÉTHODE
+        {
+            "ex": "Synthèse",
+            "q": "Que signifie le symbole $\rightleftharpoons$ par rapport à $\rightarrow$ dans une équation ?",
+            "options": { "A": "Réaction totale", "B": "Réaction équilibrée (partielle)", "C": "Formation de gaz", "D": "Ébullition" },
+            "r": "B"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "L'autoprotolyse de l'eau produit des ions :",
+            "options": { "A": "$H_3O^+$ et $OH^-$", "B": "$H_2$ et $O_2$", "C": "$Na^+$ et $Cl^-$", "D": "Uniquement $H^+$" },
+            "r": "A"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "Lorsqu'on dilue une solution acide, le pH se rapproche de :",
+            "options": { "A": "0", "B": "7", "C": "14", "D": "1" },
+            "r": "B"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "La masse molaire de l'iode ($I$) étant d'environ 127 g/mol, celle de $HI$ est :",
+            "options": { "A": "127", "B": "128", "C": "126", "D": "254" },
+            "r": "B"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "Une solution est dite électriquement neutre si :",
+            "options": { "A": "Elle n'a pas d'ions", "B": "La somme des charges (+) = Somme des charges (-)", "C": "Son pH est de 7", "D": "Elle contient autant d'eau que d'acide" },
+            "r": "B"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="exercice-tag">${item.ex}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat : ${score} / ${data.length}`;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+</script>
+
+</body>
+</html>

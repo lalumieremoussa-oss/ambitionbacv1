@@ -1,0 +1,306 @@
+{
+  "title": "Quiz 1",
+  "id": "HI002_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Que signifie la bipolarisation du monde ?",
+      "réponses": {
+        "A": "L’indépendance des pays africains",
+        "B": "Le partage du monde en deux blocs antagonistes",
+        "C": "L’unification politique de l’Europe",
+        "D": "Le retour à l’isolationnisme américain"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle idéologie dominait dans le bloc de l’Est dirigé par l’URSS ?",
+      "réponses": {
+        "A": "Le capitalisme",
+        "B": "Le communisme",
+        "C": "Le libéralisme",
+        "D": "Le fascisme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle était l’idéologie principale du bloc de l’Ouest ?",
+      "réponses": {
+        "A": "Le communisme",
+        "B": "Le fascisme",
+        "C": "Le capitalisme",
+        "D": "L’anarchisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelles conférences ont défini le sort de l’Europe après la Seconde Guerre mondiale ?",
+      "réponses": {
+        "A": "Yalta et Potsdam",
+        "B": "San Francisco et Genève",
+        "C": "Téhéran et Moscou",
+        "D": "Bretton Woods et Paris"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle décision a été prise à Yalta et confirmée à Potsdam ?",
+      "réponses": {
+        "A": "Le retrait des troupes américaines",
+        "B": "La division de l’Allemagne en quatre zones",
+        "C": "L’abolition de l’ONU",
+        "D": "Le retrait soviétique d’Europe de l’Est"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Que fit Staline après 1945 dans les pays d’Europe de l’Est ?",
+      "réponses": {
+        "A": "Il retira ses troupes",
+        "B": "Il demanda des élections libres",
+        "C": "Il proposa le Plan Marshall",
+        "D": "Il imposa le communisme"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "En mars 1946, Churchill dénonce la politique soviétique. Comment appelle-t-il la frontière entre les deux blocs ?",
+      "réponses": {
+        "A": "Le mur de Berlin",
+        "B": "Le rideau d’acier",
+        "C": "Le rideau de fer",
+        "D": "La ligne rouge"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la politique internationale adoptée par les USA face au communisme ?",
+      "réponses": {
+        "A": "Le containment",
+        "B": "La rupture",
+        "C": "Le non-alignement",
+        "D": "L’isolement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "En quoi consiste le plan Marshall ?",
+      "réponses": {
+        "A": "Aider militairement les pays communistes",
+        "B": "Aider financièrement l’Europe de l’Ouest",
+        "C": "Favoriser l’URSS",
+        "D": "Mettre en place un nouvel ordre colonial"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Pourquoi l’URSS a-t-elle rejeté le plan Marshall ?",
+      "réponses": {
+        "A": "Elle y voyait une forme de domination économique américaine",
+        "B": "Elle n’avait pas les moyens d’y participer",
+        "C": "Elle n’avait pas été invitée",
+        "D": "Elle avait déjà reçu l’aide de l’ONU"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle organisation créée par l’URSS répond au plan Marshall ?",
+      "réponses": {
+        "A": "OTAN",
+        "B": "Kominform",
+        "C": "GATT",
+        "D": "UNESCO"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que signifie le concept de « guerre froide » ?",
+      "réponses": {
+        "A": "Guerre menée par des troupes en hiver",
+        "B": "Conflit sans affrontement direct entre les deux superpuissances",
+        "C": "Guerre nucléaire uniquement",
+        "D": "Guerre menée contre la Chine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel pays symbolise la division du monde pendant la guerre froide ?",
+      "réponses": {
+        "A": "La France",
+        "B": "L’Allemagne",
+        "C": "La Pologne",
+        "D": "L’Italie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle est la capitale symbolique de la guerre froide ?",
+      "réponses": {
+        "A": "Moscou",
+        "B": "Berlin",
+        "C": "New York",
+        "D": "Londres"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "En quelle année le plan Marshall a-t-il été lancé ?",
+      "réponses": {
+        "A": "1945",
+        "B": "1946",
+        "C": "1947",
+        "D": "1948"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle doctrine américaine visait à endiguer le communisme dès 1947 ?",
+      "réponses": {
+        "A": "Doctrine Monroe",
+        "B": "Doctrine Nixon",
+        "C": "Doctrine Truman",
+        "D": "Doctrine Reagan"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quelles alliances militaires marquent la bipolarisation du monde ?",
+      "réponses": {
+        "A": "ONU et HCR",
+        "B": "OTAN et Pacte de Varsovie",
+        "C": "UNESCO et UNICEF",
+        "D": "OMC et FMI"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quel pays a dirigé la mise en place du plan Marshall ?",
+      "réponses": {
+        "A": "URSS",
+        "B": "États-Unis",
+        "C": "France",
+        "D": "Royaume-Uni"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est un exemple de guerre par procuration pendant la guerre froide ?",
+      "réponses": {
+        "A": "Guerre du Vietnam",
+        "B": "Guerre de Cent Ans",
+        "C": "Guerre d’Algérie",
+        "D": "Guerre d’Espagne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel bloc soutenait la Corée du Nord pendant la guerre de Corée ?",
+      "réponses": {
+        "A": "Le bloc de l’Ouest",
+        "B": "Le bloc de l’Est",
+        "C": "Le bloc neutre",
+        "D": "Le bloc africain"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelle conséquence directe de la bipolarisation a concerné l’Europe ?",
+      "réponses": {
+        "A": "L’unification de l’Allemagne",
+        "B": "La division de l’Allemagne",
+        "C": "L’indépendance de l’Espagne",
+        "D": "La création du Commonwealth"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "En quelle année le Pacte de Varsovie a-t-il été signé ?",
+      "réponses": {
+        "A": "1947",
+        "B": "1950",
+        "C": "1955",
+        "D": "1961"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Quelle organisation défensive fut créée en 1949 par les USA et leurs alliés ?",
+      "réponses": {
+        "A": "L’OTAN",
+        "B": "L’ONU",
+        "C": "Le Pacte de Varsovie",
+        "D": "Le G20"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Quel est le rôle du Kominform ?",
+      "réponses": {
+        "A": "Coopération commerciale",
+        "B": "Encadrer les partis communistes",
+        "C": "Éviter la guerre",
+        "D": "Superviser les droits de l’homme"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Quelle ville allemande a été divisée en 4 zones d’occupation ?",
+      "réponses": {
+        "A": "Munich",
+        "B": "Hambourg",
+        "C": "Berlin",
+        "D": "Dresde"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Quel pays d’Europe de l’Est a été le premier à passer sous influence soviétique après 1945 ?",
+      "réponses": {
+        "A": "Roumanie",
+        "B": "Pologne",
+        "C": "Bulgarie",
+        "D": "Tchécoslovaquie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Quel élément montre l’aspect économique de la bipolarisation ?",
+      "réponses": {
+        "A": "La course à la Lune",
+        "B": "Le plan Marshall",
+        "C": "Le pacte de Varsovie",
+        "D": "Le mur de Berlin"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Quelle institution économique l’URSS a-t-elle mise en place en réponse au Plan Marshall ?",
+      "réponses": {
+        "A": "FMI",
+        "B": "Banque mondiale",
+        "C": "CAEM (COMECON)",
+        "D": "GATT"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Quelle est la date de création de l’ONU, dans le contexte de la bipolarisation ?",
+      "réponses": {
+        "A": "1944",
+        "B": "1945",
+        "C": "1946",
+        "D": "1947"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quel mur est devenu un symbole physique de la guerre froide ?",
+      "réponses": {
+        "A": "Mur de Vienne",
+        "B": "Mur de Londres",
+        "C": "Mur de Berlin",
+        "D": "Mur de Moscou"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

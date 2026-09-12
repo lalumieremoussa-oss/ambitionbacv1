@@ -1,0 +1,556 @@
+{
+  "title": "Quiz 3",
+  "id": "AN05_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Choose the most appropriate response to: \"How are you?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am 18 years old.",
+        "B": "I am fine, thanks. And you?",
+        "C": "I live in Divo.",
+        "D": "My name is Andy."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "What is the polite follow-up after someone says: \"Nice to meet you.\"?\n",
+      "type": "QCM",
+      "réponses": {
+        "A": "How do you do?",
+        "B": "I love music.",
+        "C": "Nice to meet you too.",
+        "D": "Where do you live?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "If someone asks \"Where are you from?\", what are they asking about?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Your current city.",
+        "B": "Your place of birth or origin.",
+        "C": "Your job.",
+        "D": "Your age."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Choose the correct question to ask about someone's age:",
+      "type": "QCM",
+      "réponses": {
+        "A": "What is your age?",
+        "B": "When are you old?",
+        "C": "Are you old?",
+        "D": "How old are you?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Which expression is used when leaving a conversation?",
+      "type": "QCM",
+      "réponses": {
+        "A": "You are welcome.",
+        "B": "How do you do?",
+        "C": "Where do you come from?",
+        "D": "See you later."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "What does Daouda say about his surname?",
+      "type": "QCM",
+      "réponses": {
+        "A": "It is Ouattara.",
+        "B": "It is Daouda.",
+        "C": "It is Abengourou.",
+        "D": "It is 2007."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Which statement is true about Fatima's hobbies?",
+      "type": "QCM",
+      "réponses": {
+        "A": "She likes horror films.",
+        "B": "She likes watching dramas.",
+        "C": "She likes reading and listening to music.",
+        "D": "She is interested in politics."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "What is the purpose of saying \"How do you do?\"?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To politely acknowledge an introduction.",
+        "B": "To ask about their health.",
+        "C": "To ask about their job.",
+        "D": "To say goodbye."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "If Samira says \"I am from Man\", what is Andy's subsequent question (in the dialogue)?",
+      "type": "QCM",
+      "réponses": {
+        "A": "How old are you?",
+        "B": "What do you like?",
+        "C": "And you?",
+        "D": "How are you?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "What is the meaning of \"I am passionate about football\"?",
+      "type": "QCM",
+      "réponses": {
+        "A": "I like football a little.",
+        "B": "I love football very much.",
+        "C": "I am good at football.",
+        "D": "I play professional football."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Which phrase indicates a future ambition?",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am a student.",
+        "B": "I study hard.",
+        "C": "I live in Bouna.",
+        "D": "I want to become a doctor."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Which sentence is NOT about location or origin?",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am from Divo.",
+        "B": "I am 17 years old.",
+        "C": "I live in Tiassalé.",
+        "D": "I was born in Abengourou."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "What is the synonym for \"movies\" in the text about Fatima?",
+      "type": "QCM",
+      "réponses": {
+        "A": "books",
+        "B": "films",
+        "C": "hobbies",
+        "D": "dramas"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "If you want to talk about your preferred activity during non-working hours, you ask:",
+      "type": "QCM",
+      "réponses": {
+        "A": "How are you?",
+        "B": "When were you born?",
+        "C": "What do you like to do in your spare time?",
+        "D": "Where do you live?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "What information is given about Daouda's height?",
+      "type": "QCM",
+      "réponses": {
+        "A": "He is very tall.",
+        "B": "He is 1.70 meters tall.",
+        "C": "He is short.",
+        "D": "He is 1 meter 53 tall."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "What is the correct way to specify your birthplace and date?",
+      "type": "QCM",
+      "réponses": {
+        "A": "I am born on the 11th.",
+        "B": "I was born on the 11th of August 2007.",
+        "C": "I am born in 2007.",
+        "D": "I was born 2007 August 11th."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "What does Samira say about her origin?",
+      "type": "QCM",
+      "réponses": {
+        "A": "She is from Divo.",
+        "B": "She lives in Tiassalé.",
+        "C": "She is from Man.",
+        "D": "She lives in Man."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Daouda mentions he wants to become a good person in the:",
+      "type": "QCM",
+      "réponses": {
+        "A": "present",
+        "B": "past",
+        "C": "future",
+        "D": "school"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Which of the following is NOT a good response to \"Thank you\"?",
+      "type": "QCM",
+      "réponses": {
+        "A": "You are welcome.",
+        "B": "Nice to meet you.",
+        "C": "See you later.",
+        "D": "Goodbye."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "According to the text, what subject does Daouda like very much?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Dramas",
+        "B": "Politics",
+        "C": "English",
+        "D": "Football"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Complete the introduction: A: Hello, I am Andy. B: Hi Andy! (..........) Samira.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Nice to meet you. My name is",
+        "B": "Where are you from",
+        "C": "I live in",
+        "D": "How old are you"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "Complete the exchange: A: Where are you from? B: I am from Man. (..........)?",
+      "type": "QCM",
+      "réponses": {
+        "A": "And you",
+        "B": "Too you",
+        "C": "How are",
+        "D": "Old do"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "Complete the statement: I was born on the (..........) 2007 in Abengourou.",
+      "type": "QCM",
+      "réponses": {
+        "A": "11th of August",
+        "B": "August is of",
+        "C": "In am 11th",
+        "D": "Septembre 2006"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Complete the question: (..........)? I am 17 years old.",
+      "type": "QCM",
+      "réponses": {
+        "A": "How old are you",
+        "B": "When you born",
+        "C": "Where live you",
+        "D": "How were old"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Complete the sentence: I live (..........) family.",
+      "type": "QCM",
+      "réponses": {
+        "A": "in N'douci with my",
+        "B": "on from at",
+        "C": "live family in",
+        "D": "with on my"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Complete the statement about free time: In my free time, (..........) and read simple books.",
+      "type": "QCM",
+      "réponses": {
+        "A": "I like to watch dramas",
+        "B": "Interested am dramas",
+        "C": "I reading is not",
+        "D": "To in I watch"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Complete the statement about (politics) interests: I (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "am not interested in politics",
+        "B": "is love English very",
+        "C": "much politics in am",
+        "D": "very not interested in"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "Complete the exchange: B: I am from Bouaké. But, I live (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "in Yamoussoukro now",
+        "B": "from Yamoussoukro at",
+        "C": "live in am now",
+        "D": "at Yamoussoukro from"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "Complete the statement: (..........) in the future.",
+      "type": "QCM",
+      "réponses": {
+        "A": "I want to become a good person",
+        "B": "Become is live good",
+        "C": "Want to am person",
+        "D": "A bad person to"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°30": {
+      "question": "Complete the farewell: Well, (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "I must go. See you later!",
+        "B": "Go is later see",
+        "C": "You must thanks I",
+        "D": "Am fine see you"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°31": {
+      "question": "Complete the question: (..........)? (Where are you from?)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Where are you from",
+        "B": "What are you from",
+        "C": "Where live you is",
+        "D": "Do you from where"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°32": {
+      "question": "Complete the statement: I am a student (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "and I like English very much",
+        "B": "interested English love",
+        "C": "is very not I am",
+        "D": "much love very English"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°33": {
+      "question": "Complete the sentence: My hobbies are (..........). (Fatima)",
+      "type": "QCM",
+      "réponses": {
+        "A": "reading and listening to music",
+        "B": "to music and love",
+        "C": "are films dramas reading",
+        "D": "listening to and films"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°34": {
+      "question": "Complete the statement: Every day, I go (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "to school and I study hard",
+        "B": "school am study and",
+        "C": "hard home do I to",
+        "D": "is school to hard"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°35": {
+      "question": "Complete the exchange: A: Thank you. B: (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "You are welcome",
+        "B": "Is fine welcome",
+        "C": "Thanks am are",
+        "D": "To you fine"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°36": {
+      "question": "Complete the question: (..........)? I love science fiction movies.",
+      "type": "QCM",
+      "réponses": {
+        "A": "What do you like to do",
+        "B": "You do like do",
+        "C": "Where to live what",
+        "D": "Do you like to live"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°37": {
+      "question": "Complete the introduction: Hello! My name (..........). (Daouda)",
+      "type": "QCM",
+      "réponses": {
+        "A": "is Daouda",
+        "B": "am Daouda",
+        "C": "is surname Daouda",
+        "D": "you from Daouda"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°38": {
+      "question": "Complete the statement: I am 1 meter (..........). (Daouda)",
+      "type": "QCM",
+      "réponses": {
+        "A": "53 tall",
+        "B": "long 53",
+        "C": "short meter",
+        "D": "am 53"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°39": {
+      "question": "Complete the question: (..........)? I was born in 1998.",
+      "type": "QCM",
+      "réponses": {
+        "A": "When were you born",
+        "B": "Where born you are",
+        "C": "Do were when live",
+        "D": "When are you born"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°40": {
+      "question": "Complete the statement: I don't like (..........). (Fatima)",
+      "type": "QCM",
+      "réponses": {
+        "A": "horror films at all",
+        "B": "all read movies fiction",
+        "C": "films music at horror",
+        "D": "science fiction films at"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°41": {
+      "question": "What is the initial, informal greeting used in the dialogue between Andy and Samira?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hello",
+        "B": "Good morning",
+        "C": "How do you do",
+        "D": "What's up"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°42": {
+      "question": "If you want to know where a person lives, what is the main verb in the question?",
+      "type": "QCM",
+      "réponses": {
+        "A": "is",
+        "B": "live",
+        "C": "come",
+        "D": "stay"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°43": {
+      "question": "What is the verb used to state what you prefer to do during relaxation time?",
+      "type": "QCM",
+      "réponses": {
+        "A": "like",
+        "B": "want",
+        "C": "have",
+        "D": "do"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°44": {
+      "question": "What word is used to express strong affection for something (stronger than \"like\")?",
+      "type": "QCM",
+      "réponses": {
+        "A": "good",
+        "B": "passionate",
+        "C": "love",
+        "D": "prefer"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°45": {
+      "question": "Which expression is a formal alternative to \"Nice to meet you\"?",
+      "type": "QCM",
+      "réponses": {
+        "A": "How do you do?",
+        "B": "How are you?",
+        "C": "What's your name?",
+        "D": "See you later"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°46": {
+      "question": "What adjective phrase is used to show a lack of interest in Daouda's text?",
+      "type": "QCM",
+      "réponses": {
+        "A": "not interested",
+        "B": "uninterested",
+        "C": "boring",
+        "D": "not like"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°47": {
+      "question": "What is the noun for a scheduled event or performance, like a play or a show, mentioned in Daouda's hobbies?",
+      "type": "QCM",
+      "réponses": {
+        "A": "movies",
+        "B": "dramas",
+        "C": "films",
+        "D": "theatre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°48": {
+      "question": "Which word is used to express gratitude?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Please",
+        "B": "Thanks",
+        "C": "Welcome",
+        "D": "Hello"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°49": {
+      "question": "What is the verb describing the action of progressing or changing into something, mentioned by both Daouda and Fatima regarding the future?",
+      "type": "QCM",
+      "réponses": {
+        "A": "become",
+        "B": "start",
+        "C": "go",
+        "D": "study"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°50": {
+      "question": "What is the primary focus of the question \"What about you?\" in a self-introduction context?",
+      "type": "QCM",
+      "réponses": {
+        "A": "To return the question to the other person",
+        "B": "To ask about their age only",
+        "C": "To say goodbye",
+        "D": "To introduce yourself again"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

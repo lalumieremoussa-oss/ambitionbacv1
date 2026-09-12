@@ -1,0 +1,288 @@
+{
+  "id": "SVT017_Q4",
+  "title": "Quiz 2: les amendements humifère et calcaire",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est une propriété physique du sol humifère ?",
+      "réponses": {
+        "A": "Une structure non organisée",
+        "B": "Une texture non équilibrée",
+        "C": "Une mauvaise perméabilité à l’eau et à l’air",
+        "D": "Une bonne perméabilité à l’eau et à l’air"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Une propriété chimique du sol humifère est :",
+      "réponses": {
+        "A": "Un pH alcalin",
+        "B": "Un pH acide et absence de sels minéraux",
+        "C": "Une forte concentration en calcaire",
+        "D": "Une absence totale de minéraux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Une propriété biologique du sol humifère est :",
+      "réponses": {
+        "A": "Une activité biologique faible",
+        "B": "Une production élevée d’oxygène",
+        "C": "Une forte présence de micro-organismes",
+        "D": "Une activité biologique faible ou absente"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Pourquoi le sol humifère n’est-il pas propice à l’agriculture ?",
+      "réponses": {
+        "A": "Il est impropre à l’agriculture parce qu’il est trop riche en nutriments.",
+        "B": "Il est impropre à l’agriculture parce qu’il contient trop d’eau.",
+        "C": "Il est impropre à l’agriculture parce qu’il est trop compact.",
+        "D": "Il est impropre à l’agriculture parce qu’il a perdu ses caractéristiques de fertilité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce que l’amendement humifère implique ?",
+      "réponses": {
+        "A": "L’ajout de sels minéraux",
+        "B": "La suppression de toute matière organique",
+        "C": "L’augmentation de l’acidité du sol",
+        "D": "L’apport d’humus"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "À quoi sert l’amendement calcaire ?",
+      "réponses": {
+        "A": "À diminuer le pH du sol et à régulariser l’état ionique",
+        "B": "À rendre le sol plus compact et à régulariser l’état ionique",
+        "C": "À apporter du calcium au sol et à régulariser l’état ionique",
+        "D": "À augmenter la teneur en eau et à régulariser l’état ionique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Qu’est-ce que la chaux vive (CaO) devient une fois hydratée dans le sol ?",
+      "réponses": {
+        "A": "De l’eau pure (H2O)",
+        "B": "Du dioxyde de carbone (CO2)",
+        "C": "De l’hydroxyde de calcium (Ca(OH)2)",
+        "D": "Du chlorure de sodium (NaCl)"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est l’effet des ions Ca$^{2+}$ sur le complexe argilo-humique ?",
+      "réponses": {
+        "A": "Ils le rendent instable ce qui permettent d’avoir une structure organisée",
+        "B": "Ils le rendent imperméable ce qui permettent d’avoir une structure organisée",
+        "C": "Ils augmentent l’acidité du sol ce qui permettent d’avoir une structure organisée",
+        "D": "Ils échangent d’ions H$^{+}$ ce qui permettent d’avoir une structure organisée."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Que forment les ions OH$^{-}$ combinés aux ions H$^{+}$ libérés ?",
+      "réponses": {
+        "A": "Du calcaire",
+        "B": "De l’eau",
+        "C": "Des sels minéraux",
+        "D": "Du dioxyde de carbone"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Qu’est-ce qui se passe au pH du milieu si aucun acide résidu n’apparaît ?",
+      "réponses": {
+        "A": "Le pH diminue.",
+        "B": "Le pH devient neutre.",
+        "C": "Le pH reste stable.",
+        "D": "Le pH s’élève."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est le rôle principal de l’amendement humifère ?",
+      "réponses": {
+        "A": "Diminuer la perméabilité du sol.",
+        "B": "Contribuer à l’amélioration des propriétés physiques, chimiques et biologiques du sol.",
+        "C": "Augmenter le pH du sol.",
+        "D": "Rendre le sol stérile."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment l’amendement humifère améliore-t-il les propriétés physiques du sol ?",
+      "réponses": {
+        "A": "En augmentant sa densité.",
+        "B": "En formant le complexe argilo-humique qui assure la stabilité de l’eau.",
+        "C": "En rendant le sol plus compact.",
+        "D": "En diminuant la porosité."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Comment l’amendement humifère améliore-t-il les propriétés chimiques du sol ?",
+      "réponses": {
+        "A": "En diminuant la disponibilité des éléments minéraux.",
+        "B": "En améliorant la mise à la disposition des plantes des éléments minéraux.",
+        "C": "En augmentant la toxicité des sols.",
+        "D": "En bloquant l’assimilation des nutriments."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est l’effet de l’humus sur les propriétés biologiques du sol ?",
+      "réponses": {
+        "A": "Il diminue l’activité micro-organique.",
+        "B": "Il inhibe la croissance des plantes.",
+        "C": "Il sert de support et d’aliments aux micro-organismes qui améliorent la structure.",
+        "D": "Il n’a aucun impact sur la vie microbienne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "De quoi est composée la matière organique humifère ?",
+      "réponses": {
+        "A": "De sels minéraux uniquement.",
+        "B": "De matière organique de couleur brune ou noirâtre d’origine exclusivement végétale.",
+        "C": "D’éléments inorganiques.",
+        "D": "De matière organique de couleur brune ou noirâtre d’origine exclusivement végétale."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Le sol humifère est un sol qui a des caractéristiques de fertilité optimales.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "L’amendement calcaire permet d’apporter du calcium au sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Les ions Ca2+ contribuent à la formation d’une structure organisée du sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L’hydroxyde de calcium (Ca(OH)2) est une base forte.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Les ions OH$^{-}$ augmentent l’acidité du sol en se combinant aux ions H$^{+}$.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX (Ils forment de l’eau, ce qui réduit l’acidité.)"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "L’amendement humifère dégrade les propriétés physiques du sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Le complexe argilo-humique est important pour la stabilité de l’eau dans le sol.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°23": {
+      "question": "L’humus diminue la disponibilité des éléments minéraux pour les plantes.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Les micro-organismes du sol ne dépendent pas de l’humus pour leur alimentation.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "« Le sol est impropre à l’agriculture parce qu’il a __________ ses caractéristiques de __________. Il faut donc l’amender en lui apportant du calcium (amendement __________). «",
+      "réponses": {
+        "A": "perdu / fertilité / calcaire",
+        "B": "amélioré / composition / organique",
+        "C": "conservé / structure / chimique",
+        "D": "modifié / texture / minéral"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "« Faire l’amendement calcaire c’est apporter du __________ au sol qui permettra de __________ l’argile et l’humus pour former le complexe argilo-humique et de __________ l’état ionique de ce sol. »",
+      "réponses": {
+        "A": "soufre / durcir / stabiliser",
+        "B": "calcium / floculer / régulariser",
+        "C": "azote / disperser / acidifier",
+        "D": "potassium / liquéfier / déséquilibrer"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "« Le précipité de CaCO3 contribue à l’__________ des propriétés physiques, chimiques et biologiques du sol. Des amendements humifères servent de supports et d’__________ aux micro-organismes et sont la __________ de l’humus. »",
+      "réponses": {
+        "A": "amélioration / d’aliments / source",
+        "B": "détérioration / de poisons / cause",
+        "C": "altération / de freins / fin",
+        "D": "diminution / de protections / matière"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "« L’humus est une matière organique variée de couleur __________ ou __________ de composition __________ mais est la seule qui résulte de la décomposition de matière organique d’origine __________ végétale. »",
+      "réponses": {
+        "A": "brune / noirâtre / chimique / exclusivement",
+        "B": "verte / blanche / physique / partiellement",
+        "C": "rouge / jaune / biologique / uniquement",
+        "D": "grise / bleue / minérale / synthétique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "« On peut effectivement __________ la fertilité d’un sol par __________ d’engrais chimiques, mais aussi par des techniques de __________. »",
+      "réponses": {
+        "A": "améliorer / l’apport / protection",
+        "B": "dégrader / l’absence / pollution",
+        "C": "ignorer / l’utilisation / destruction",
+        "D": "perturber / le retrait / restauration"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°30": {
+      "question": "« L’humus, par ses propriétés physiques, contribue à la __________ de l’eau, tandis que par ses propriétés chimiques, il __________ la mise à la disposition des plantes des __________ minéraux directement assimilables. »",
+      "réponses": {
+        "A": "stabilité / améliore / éléments",
+        "B": "imperméabilité / bloque / composés",
+        "C": "évaporation / diminue / nutriments",
+        "D": "absorption / réduit / ressources"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

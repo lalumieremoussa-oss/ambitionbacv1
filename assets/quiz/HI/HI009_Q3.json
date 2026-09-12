@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "HI009_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi l’UA a-t-elle remplacé l’OUA ?",
+      "réponses": {
+        "A": "Pour créer une armée continentale dirigée par un seul commandement.",
+        "B": "Pour instaurer un système unique de gouvernance économique.",
+        "C": "Pour corriger les faiblesses de l’OUA, jugée inefficace et trop conciliante.",
+        "D": "Pour rapprocher l’Afrique de l’Union européenne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels progrès concrets l’UA a-t-elle réalisés ?",
+      "réponses": {
+        "A": "Centralisation des armées africaines et instauration d’une langue commune.",
+        "B": "Création d’organes modernes, actions dans les conflits, promotion des droits.",
+        "C": "Adoption d’une monnaie unique et harmonisation fiscale.",
+        "D": "Suppression des frontières internes et libre circulation généralisée."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel défi majeur freine l’action de l’UA ?",
+      "réponses": {
+        "A": "Trop de diversité religieuse parmi les États membres.",
+        "B": "Lenteur des réformes, difficulté à s’imposer, efficacité limitée.",
+        "C": "Absence totale de financement externe.",
+        "D": "Refus des pays du Maghreb d’adhérer aux décisions collectives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle est la crainte principale face aux réformes de l’UA ?",
+      "réponses": {
+        "A": "Qu’elles soient soutenues par des puissances étrangères.",
+        "B": "Qu’elles affaiblissent les traditions nationales.",
+        "C": "Qu’elles deviennent de simples formalités sans impact réel.",
+        "D": "Qu’elles soient trop contraignantes pour les jeunes États."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "L’UA est-elle perçue comme plus efficace que l’OUA ?",
+      "réponses": {
+        "A": "Non, elle est jugée identique à l’OUA dans sa structure.",
+        "B": "Oui, elle a totalement transformé la gouvernance africaine.",
+        "C": "Partiellement, mais elle reste limitée dans ses résultats concrets.",
+        "D": "Non, elle n’a pas encore entamé de changement institutionnel."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pourquoi dit-on que l’UA reste en quête d’efficacité ?",
+      "réponses": {
+        "A": "Car ses chefs d’État refusent de financer ses actions.",
+        "B": "Parce qu’elle privilégie les grands pays au détriment des petits.",
+        "C": "Parce que ses décisions peinent à être appliquées sur le terrain.",
+        "D": "Parce qu’elle dépend uniquement de l’aide internationale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’un des reproches fréquents envers l’UA ?",
+      "réponses": {
+        "A": "D’imposer une langue unique aux États membres.",
+        "B": "De limiter les investissements étrangers.",
+        "C": "De manquer de réactivité face aux crises urgentes.",
+        "D": "De supprimer les souverainetés nationales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Comment peut-on qualifier la relation entre l’UA et les peuples africains ?",
+      "réponses": {
+        "A": "Une alliance très forte avec une légitimité populaire indiscutable.",
+        "B": "Une relation distante, l’UA peinant à répondre aux attentes.",
+        "C": "Une dépendance totale à l’égard de la société civile.",
+        "D": "Une interaction directe avec des représentants élus localement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Qu’est-ce qui freine l’unité réelle des États membres ?",
+      "réponses": {
+        "A": "Le refus d’abandonner les traditions religieuses.",
+        "B": "La rivalité historique entre les blocs linguistiques.",
+        "C": "Les intérêts nationaux qui dominent souvent l’intérêt collectif.",
+        "D": "Le manque de volonté des chefs traditionnels à coopérer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel paradoxe résume la situation de l’UA ?",
+      "réponses": {
+        "A": "Elle est forte sur le plan militaire mais faible sur le plan social.",
+        "B": "Elle a une structure ambitieuse mais des résultats souvent modestes.",
+        "C": "Elle possède une armée commune mais aucun pouvoir politique.",
+        "D": "Elle impose des lois claires mais n’a aucun organe d’exécution."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle critique structurelle est faite à l’UA ?",
+      "réponses": {
+        "A": "Trop d’autonomie locale dans les parlements nationaux.",
+        "B": "Une surcharge d’institutions, mais peu d’actions concrètes.",
+        "C": "Une absence totale de textes fondateurs.",
+        "D": "Une militarisation excessive des débats politiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle difficulté entrave l’autorité de l’UA ?",
+      "réponses": {
+        "A": "L’adhésion massive à la CPI.",
+        "B": "Le manque d’adhésion populaire directe aux décisions.",
+        "C": "La rotation annuelle de la présidence tournante.",
+        "D": "La pluralité des langues officielles dans les débats."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quelle est la limite des organes de l’UA ?",
+      "réponses": {
+        "A": "Leurs membres sont élus pour des mandats trop longs.",
+        "B": "Ils sont jugés trop proches des régimes autoritaires.",
+        "C": "Ils n’ont pas de siège fixe sur le continent.",
+        "D": "Ils imposent des lois contraires aux coutumes locales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi la Cour africaine est-elle parfois critiquée ?",
+      "réponses": {
+        "A": "Elle est basée hors du continent africain.",
+        "B": "Elle ne traite que les litiges commerciaux.",
+        "C": "Elle n’a pas suffisamment d’indépendance vis-à-vis des États.",
+        "D": "Elle impose des sanctions sans consultation des peuples."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que reproche-t-on à certaines déclarations politiques de l’UA ?",
+      "réponses": {
+        "A": "Leur manque de soutien financier clair.",
+        "B": "Leur absence de langue vernaculaire.",
+        "C": "Leur effet souvent symbolique, sans suite concrète.",
+        "D": "Leur caractère trop légaliste et axé sur le droit coutumier."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est le problème majeur de la coopération interétatique en Afrique selon l’UA ?",
+      "réponses": {
+        "A": "L’ingérence militaire des anciennes puissances coloniales.",
+        "B": "La compétition entre États pour attirer les capitaux.",
+        "C": "Le non-respect des décisions de la FAO.",
+        "D": "Le refus des pays enclavés de signer les accords commerciaux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est le poids de l’UA dans les grandes négociations internationales ?",
+      "réponses": {
+        "A": "Encore faible malgré une volonté de coordination.",
+        "B": "Très fort grâce à son armée continentale.",
+        "C": "Nul, car elle n’est pas reconnue à l’ONU.",
+        "D": "Dominant grâce à l’intégration linguistique et économique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Pourquoi l’UA peine-t-elle à répondre aux urgences humanitaires ?",
+      "réponses": {
+        "A": "Car elle manque d’expertise dans les secours civils.",
+        "B": "Car elle est surchargée de priorités économiques.",
+        "C": "Car elle dépend de la logistique étrangère.",
+        "D": "Car elle attend l’autorisation des chefs coutumiers."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle difficulté empêche parfois l’application des décisions de l’UA ?",
+      "réponses": {
+        "A": "Le refus des juges africains d’appliquer le droit continental.",
+        "B": "La divergence entre le droit traditionnel et les résolutions modernes.",
+        "C": "La suppression des langues coloniales dans les textes.",
+        "D": "L’hostilité des populations rurales à la démocratie représentative."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "En résumé, quel défi fondamental l’UA doit-elle relever pour s’affirmer ?",
+      "réponses": {
+        "A": "Réconcilier souveraineté nationale et engagement collectif.",
+        "B": "Réduire la diversité ethnique dans ses organes.",
+        "C": "Abandonner les textes hérités de l’OUA.",
+        "D": "Fermer ses frontières aux interventions extérieures."
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

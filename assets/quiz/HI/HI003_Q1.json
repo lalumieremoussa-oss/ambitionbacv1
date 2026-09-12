@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI003_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les quatre aspects qui caractérisent la puissance globale des États-Unis après la guerre froide ?",
+      "réponses": {
+        "A": "Puissance écologique, démographique, rurale et touristique",
+        "B": "Influence philosophique, religieuse, maritime et océanique",
+        "C": "Domination démographique, religieuse, climatique et agricole",
+        "D": "Puissance économique, militaire, culturelle et technologique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Comment les États-Unis manifestent-ils leur puissance à l’échelle mondiale après 1991 ?",
+      "réponses": {
+        "A": "Par la conquête militaire de nouveaux territoires",
+        "B": "Par leur influence sur les organisations internationales",
+        "C": "Par le repli sur leur continent",
+        "D": "Par le refus des alliances militaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "En quoi l’élargissement de l’OTAN renforce-t-il l’influence américaine en Europe ?",
+      "réponses": {
+        "A": "En intégrant les anciens pays du bloc soviétique sous commandement américain",
+        "B": "En interdisant aux pays européens de se réarmer",
+        "C": "En imposant le dollar comme monnaie unique européenne",
+        "D": "En plaçant l’Europe sous tutelle militaire de la Russie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelles sont les principales interventions militaires des États-Unis dans les années 1990 et 2000 ?",
+      "réponses": {
+        "A": "Chine, Japon, Corée du Nord, Indonésie",
+        "B": "Somalie, Bosnie, Afghanistan, Irak",
+        "C": "Vietnam, Cambodge, Laos, Corée",
+        "D": "Libye, Égypte, Tunisie, Maroc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Pourquoi peut-on dire que les États-Unis se posent en « gendarmes du monde » ?",
+      "réponses": {
+        "A": "Parce qu’ils contrôlent toutes les frontières du monde",
+        "B": "Parce qu’ils suppriment les armées étrangères",
+        "C": "Parce qu’ils imposent leur religion dans les pays musulmans",
+        "D": "Parce qu’ils interviennent militairement pour défendre la paix et leurs intérêts"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelles sont les limites à l’interventionnisme américain, notamment après 2001 ?",
+      "réponses": {
+        "A": "Le renforcement du communisme en Europe",
+        "B": "La montée du pacifisme chinois dans l’armée américaine",
+        "C": "L’adhésion des États-Unis à l’ONU",
+        "D": "Un refus croissant de la part des alliés de participer aux guerres américaines"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quelle institution illustre le leadership économique des États-Unis ?",
+      "réponses": {
+        "A": "Banque Centrale Européenne",
+        "B": "Organisation des Nations Unies",
+        "C": "Fonds Monétaire International (FMI)",
+        "D": "Banque de développement africaine"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "En quoi le dollar américain est-il un symbole de domination mondiale ?",
+      "réponses": {
+        "A": "C’est la monnaie la plus rare dans les pays pauvres",
+        "B": "Il n'est utilisé que sur le continent américain",
+        "C": "C’est la monnaie de réserve et d’échange international",
+        "D": "Il est imposé par l’ONU dans les traités internationaux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Pourquoi les multinationales renforcent-elles l’hégémonie américaine ?",
+      "réponses": {
+        "A": "Elles financent la CIA",
+        "B": "Elles diffusent la culture, les produits et les valeurs américaines dans le monde entier",
+        "C": "Elles n'emploient que des Américains",
+        "D": "Elles empêchent l’émergence de nouvelles puissances"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel rôle jouent les médias américains dans le soft power ?",
+      "réponses": {
+        "A": "Ils censurent toutes les critiques contre l’Occident",
+        "B": "Ils diffusent uniquement des films éducatifs",
+        "C": "Ils imposent des sanctions économiques",
+        "D": "Ils influencent les mentalités à travers la musique, les films, les réseaux sociaux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Que symbolise l’expression “hyperpuissance” à propos des États-Unis ?",
+      "réponses": {
+        "A": "Leur déclin rapide",
+        "B": "Leur isolement diplomatique",
+        "C": "Leur domination écrasante dans tous les domaines (éco, mili, techno, culturel)",
+        "D": "Le rejet mondial de leur système politique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Pourquoi les États-Unis ont-ils envahi l’Irak en 2003 ?",
+      "réponses": {
+        "A": "Pour défendre les droits de l’homme",
+        "B": "Pour aider l’Union européenne",
+        "C": "Pour détruire des armes de destruction massive supposées et renverser Saddam Hussein",
+        "D": "Pour annexer le territoire irakien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel reproche est souvent fait aux USA dans leurs interventions ?",
+      "réponses": {
+        "A": "De respecter trop les frontières",
+        "B": "De défendre leurs intérêts stratégiques plus que le droit international",
+        "C": "D’agir uniquement via l’ONU",
+        "D": "D’éviter de faire la guerre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle puissance s’oppose de plus en plus à l’hégémonie des États-Unis ?",
+      "réponses": {
+        "A": "Le Japon",
+        "B": "La Chine",
+        "C": "Le Brésil",
+        "D": "L’Union africaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelles sont les conséquences de l’intervention américaine en Afghanistan ?",
+      "réponses": {
+        "A": "Une paix durable établie depuis 2001",
+        "B": "Une guerre longue, coûteuse, sans victoire claire, suivie du retour des Talibans",
+        "C": "L’effondrement économique des USA",
+        "D": "L’annexion de l’Afghanistan par les États-Unis"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Que signifie l’unilatéralisme américain ?",
+      "réponses": {
+        "A": "Une politique de coopération avec tous les pays",
+        "B": "La tendance à agir seul, sans tenir compte des partenaires internationaux",
+        "C": "L’application systématique des décisions de l’ONU",
+        "D": "Le respect total du droit international"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pourquoi parle-t-on d’“Américanisation du monde” ?",
+      "réponses": {
+        "A": "Tous les pays adoptent l’anglais comme langue officielle",
+        "B": "Les frontières américaines s’étendent",
+        "C": "La culture américaine influence la consommation, les valeurs et le mode de vie mondial",
+        "D": "L’ONU est contrôlée par Hollywood"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel président américain a symbolisé l’unilatéralisme au début des années 2000 ?",
+      "réponses": {
+        "A": "Barack Obama",
+        "B": "George W. Bush",
+        "C": "Bill Clinton",
+        "D": "Donald Trump"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est le rôle des GAFAM dans le rayonnement américain ?",
+      "réponses": {
+        "A": "Ce sont des syndicats de travailleurs",
+        "B": "Ils contrôlent les données, les réseaux sociaux et influencent l’opinion mondiale",
+        "C": "Ils fabriquent des armes nucléaires",
+        "D": "Ils sont des ONG indépendantes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle crise a révélé la fragilité de l’image des États-Unis sur la scène internationale ?",
+      "réponses": {
+        "A": "Le boom technologique de la Silicon Valley",
+        "B": "La guerre en Irak et les révélations sur Guantanamo",
+        "C": "L'élection d’Abraham Lincoln",
+        "D": "Le rachat de McDonald’s par la Chine"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

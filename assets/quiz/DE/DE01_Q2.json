@@ -1,0 +1,231 @@
+{
+  "title": "Quiz 2 - Deutsch (Haben)",
+  "id": "DE01_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"J'ai un livre.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin ein Buch.",
+        "B": "Ich hat ein Buch.",
+        "C": "Ich ist ein Buch.",
+        "D": "Ich habe ein Buch."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Il a une voiture.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er haben ein Auto.",
+        "B": "Er sind ein Auto.",
+        "C": "Er ist ein Auto.",
+        "D": "Er hat ein Auto."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Elle a un téléphone.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie haben ein Handy.",
+        "B": "Sie sind ein Handy.",
+        "C": "Sie hat ein Handy.",
+        "D": "Sie bin ein Handy."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Nous avons des amis.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir ist Freunde.",
+        "B": "Wir haben Freunde.",
+        "C": "Wir hat Freunde.",
+        "D": "Wir sind Freunde."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle est la traduction correcte de \"Ils ont les clés\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie hat die Schlüssel.",
+        "B": "Sie sind die Schlüssel.",
+        "C": "Sie ist die Schlüssel.",
+        "D": "Sie haben die Schlüssel."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est la forme correcte de \"haben\" pour le sujet \"Tu\" (Du) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Du hat",
+        "B": "Du ist",
+        "C": "Du bist",
+        "D": "Du hast"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Mon frère a un vélo.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Mein Bruder haben ein Fahrrad.",
+        "B": "Mein Bruder ist ein Fahrrad.",
+        "C": "Mein Bruder sind ein Fahrrad.",
+        "D": "Mein Bruder hat ein Fahrrad."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Les élèves ont des livres.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Die Schüler haben Bücher.",
+        "B": "Die Schüler hat Bücher.",
+        "C": "Die Schüler ist Bücher.",
+        "D": "Die Schüler sind Bücher."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"J'ai un stylo et une règle.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich ist ein Stift und ein Lineal.",
+        "B": "Ich hat ein Stift und ein Lineal.",
+        "C": "Ich bin ein Stift und ein Lineal.",
+        "D": "Ich habe ein Stift und ein Lineal."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quelle est la traduction de \"Nous avons des idées\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wir ist Ideen.",
+        "B": "Wir hat Ideen.",
+        "C": "Wir bin Ideen.",
+        "D": "Wir haben Ideen."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"J'ai un livre.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Ich", "ein", "Buch", "habe", "sie"],
+      "bonne réponse": "Ich habe ein Buch"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Tu as une pomme.\"",
+      "type": "drag_and_drop",
+      "réponses": ["hast", "einen", "Du", "Apfel", "er", "hat", "ein", "Katze"],
+      "bonne réponse": "Du hast einen Apfel"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Elle a un chat.\"",
+      "type": "drag_and_drop",
+      "réponses": ["hat", "eine", "Sie", "Katze", "Ich", "bin", "ist", "glücklich"],
+      "bonne réponse": "Sie hat eine Katze"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Il a un vélo.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Er", "hat", "ein", "wir", "haben", "das", "Fahrrad", "Ball"],
+      "bonne réponse": "Er hat ein Fahrrad"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Nous avons un ballon.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Wir", "einen", "haben", "Ball", "er", "ist", "zu", "Hause"],
+      "bonne réponse": "Wir haben einen Ball"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Ils ont de l'argent.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Geld", "sie", "hat", "Sie", "haben", "Stift"],
+      "bonne réponse": "Sie haben Geld"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"La fille a un stylo.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Das", "hat", "Mädchen", "einen", "Stift", "Ich", "bin", "froh", "du", "bist"],
+      "bonne réponse": "Das Mädchen hat einen Stift"
+    },
+    "question n°18": {
+      "question": "Complétez : \"Je n'ai pas de voiture.\"",
+      "type": "drag_and_drop",
+      "réponses": ["kein", "nicht", "Ich", "habe", "ein", "er", "ist", "sie", "hat", "das", "Auto", "Haus"],
+      "bonne réponse": "Ich habe kein Auto"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Vous avez les crayons.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Bleistifte", "Ihr", "habt", "die", "wir", "sind", "Kinder", "ein"],
+      "bonne réponse": "Ihr habt die Bleistifte"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Elle a les chaussures.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Sie", "die", "hat", "Schuhe", "Ich", "bin", "ist", "schön"],
+      "bonne réponse": "Sie hat die Schuhe"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Il a une idée.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Er", "hat", "eine", "Idee", "wir", "sind", "in", "Schule"],
+      "bonne réponse": "Er hat eine Idee"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Nous avons deux chats.\"",
+      "type": "drag_and_drop",
+      "réponses": ["zwei", "Wir", "Katzen", "sie", "ist", "die", "haben", "Schlüssel"],
+      "bonne réponse": "Wir haben zwei Katzen"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"J'ai un sac à dos.\"",
+      "type": "drag_and_drop",
+      "réponses": ["habe", "Ich", "einen", "sie", "ist", "an", "Rucksack", "Haus"],
+      "bonne réponse": "Ich habe einen Rucksack"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ils ont des problèmes.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Sie", "bin", "Probleme", "haben", "Ich", "traurig"],
+      "bonne réponse": "Sie haben Probleme"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Ma sœur a un enfant.\"",
+      "type": "drag_and_drop",
+      "réponses": ["Schwester", "Kind", "hat", "Meine", "ein", "wir", "sind", "die", "Schüler", "ist"],
+      "bonne réponse": "Meine Schwester hat ein Kind"
+    },
+    "question n°26": {
+      "question": "Traduisez le verbe \"avoir\" (forme infinitive).",
+      "type": "short_answer",
+      "bonne réponse": "haben"
+    },
+    "question n°27": {
+      "question": "Quelle est la conjugaison de \"haben\" pour le pronom personnel \"Nous\" (Wir) ?",
+      "type": "short_answer",
+      "bonne réponse": "Wir haben"
+    },
+    "question n°28": {
+      "question": "Traduisez le groupe de mots \"Elle a\".",
+      "type": "short_answer",
+      "bonne réponse": "Sie hat"
+    },
+    "question n°29": {
+      "question": "Traduisez le groupe de mots \"Vous avez\" (pluriel familier).",
+      "type": "short_answer",
+      "bonne réponse": "Ihr habt"
+    },
+    "question n°30": {
+      "question": "Quelle est la forme du verbe \"haben\" qui correspond à \"Mon oncle\" ?",
+      "type": "short_answer",
+      "bonne réponse": "hat"
+    }
+  }
+}

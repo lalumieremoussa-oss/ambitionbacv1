@@ -1,0 +1,356 @@
+{
+  "title": "Quiz 1",
+  "id": "AN05_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la traduction de l'adverbe : \"jamais\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "often",
+        "B": "today",
+        "C": "never",
+        "D": "always"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Choisissez la traduction correcte de : \"Il vient toujours à l'heure.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "He is always coming on time.",
+        "B": "He comes on time always.",
+        "C": "He always is on time.",
+        "D": "He always comes on time."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle est la traduction de l'expression : \"à la maison\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "in the house",
+        "B": "on home",
+        "C": "at home",
+        "D": "to home"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Où se place l'adverbe \"always\" dans la phrase \"Elle est toujours heureuse\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "She is happy always.",
+        "B": "She is always happy.",
+        "C": "Always she is happy.",
+        "D": "She always happy is."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Traduisez l'adverbe : \"lentement\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "slowly",
+        "B": "quickly",
+        "C": "hard",
+        "D": "well"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Complétez la traduction : \"Je fais mes devoirs _____ le matin.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "on the morning",
+        "B": "in the morning",
+        "C": "at the morning",
+        "D": "with the morning"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle est la traduction de \"yesterday\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "demain",
+        "B": "aujourd’hui",
+        "C": "hier",
+        "D": "souvent"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est l'expression correcte pour \"après l'école\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "at school after",
+        "B": "in the school",
+        "C": "after school",
+        "D": "on school"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Traduisez l'expression : \"chaque jour\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "all day",
+        "B": "in the day",
+        "C": "every day",
+        "D": "all the time"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Choisissez la phrase qui utilise correctement l'adverbe de manière \"well\".",
+      "type": "QCM",
+      "réponses": {
+        "A": "She well speaks English.",
+        "B": "She speaks well English.",
+        "C": "She speaks English well.",
+        "D": "Well, she speaks English."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Il travaille bien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "well",
+        "does",
+        "is",
+        "works",
+        "badly",
+        "He"
+      ],
+      "bonne réponse": "He works well"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Ils jouent souvent au football.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "football",
+        "hard",
+        "play",
+        "always",
+        "to",
+        "They",
+        "at",
+        "often"
+      ],
+      "bonne réponse": "They often play football"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous sommes en classe maintenant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "today",
+        "are",
+        "school",
+        "often",
+        "now",
+        "the",
+        "We",
+        "in",
+        "at",
+        "class"
+      ],
+      "bonne réponse": "We are in class now"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Elle étudie le soir.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sometimes",
+        "evening",
+        "the",
+        "studies",
+        "morning",
+        "in",
+        "to",
+        "at",
+        "is",
+        "She"
+      ],
+      "bonne réponse": "She studies in the evening"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Je fais toujours mes devoirs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "his",
+        "homework",
+        "at",
+        "my",
+        "do",
+        "never",
+        "always",
+        "is",
+        "I",
+        "work"
+      ],
+      "bonne réponse": "I always do my homework"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Je les vois parfois.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "speak",
+        "he",
+        "sometimes",
+        "it",
+        "often",
+        "them",
+        "see",
+        "now",
+        "always",
+        "I"
+      ],
+      "bonne réponse": "I sometimes see them"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"demain\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "now",
+        "yesterday",
+        "Tomorrow",
+        "today"
+      ],
+      "bonne réponse": "Tomorrow"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"rapidement\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "slowly",
+        "well",
+        "badly",
+        "quickly"
+      ],
+      "bonne réponse": "quickly"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je n'écoute jamais.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "always",
+        "listen",
+        "often",
+        "to",
+        "I",
+        "he",
+        "never",
+        "speak"
+      ],
+      "bonne réponse": "I never listen"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Il travaille dur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "slowly",
+        "hard",
+        "is",
+        "works",
+        "well",
+        "He"
+      ],
+      "bonne réponse": "He works hard"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ils sont à l'heure.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "time",
+        "always",
+        "on",
+        "late",
+        "are",
+        "to",
+        "at",
+        "They"
+      ],
+      "bonne réponse": "They are on time"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Il chante mal.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sings",
+        "is",
+        "well",
+        "often",
+        "badly",
+        "He"
+      ],
+      "bonne réponse": "He sings badly"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"après l'école\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "the",
+        "in",
+        "at",
+        "school",
+        "home",
+        "after"
+      ],
+      "bonne réponse": "after school"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je parle lentement.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "well",
+        "quickly",
+        "to",
+        "speak",
+        "slowly",
+        "at",
+        "always",
+        "I"
+      ],
+      "bonne réponse": "I speak slowly"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Je révise aujourd'hui.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "always",
+        "revise",
+        "yesterday",
+        "tomorrow",
+        "today",
+        "I"
+      ],
+      "bonne réponse": "I revise today"
+    },
+    "question n°26": {
+      "question": "Quelle est la traduction de l'adverbe \"always\" ?",
+      "type": "short_answer",
+      "bonne réponse": "toujours"
+    },
+    "question n°27": {
+      "question": "Quelle expression est utilisée pour dire \"le soir\" ? (Ajoutez in au debut)",
+      "type": "short_answer",
+      "bonne réponse": "in the evening"
+    },
+    "question n°28": {
+      "question": "Devant quel verbe l'adverbe se place-t-il après ? (Donnez la forme infinitive du verbe)",
+      "type": "short_answer",
+      "bonne réponse": "To be"
+    },
+    "question n°29": {
+      "question": "Quel adverbe de temps signifie \"parfois\" ?",
+      "type": "short_answer",
+      "bonne réponse": "sometimes"
+    },
+    "question n°30": {
+      "question": "Traduisez l'adverbe \"bien\".",
+      "type": "short_answer",
+      "bonne réponse": "well"
+    }
+  }
+}

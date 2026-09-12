@@ -1,0 +1,190 @@
+{
+  "id": "PH009_Q4",
+  "title": "Quiz 4",
+  "questions": {
+    "question n°1": {
+      "question": "Ce quiz est la suite du quiz précédent (Toute Connaissance Scientifique Doit-elle Passer par l’Expérience ?). L’Axe 2 de ce sujet s’intitule « L’expérience ne suffit pas toujours ; la raison et l’abstraction jouent un rôle capital ». Cela implique que :",
+      "réponses": {
+        "A": "L’expérience est totalement inutile pour la connaissance scientifique, qui dépend exclusivement de la raison pure et des théories abstraites.",
+        "B": "La raison et l’abstraction sont des obstacles à la véritable connaissance scientifique, qui doit se fonder uniquement sur l’observation des faits.",
+        "C": "La connaissance scientifique, bien qu’ancrée dans l’expérience, ne peut s’y limiter et requiert la contribution essentielle de la raison et de la pensée abstraite pour être complète.",
+        "D": "L’expérience est la seule voie d’accès à la vérité scientifique, et l’Axe 2 représente une contradiction sans fondement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "L’Argument (« Certaines sciences reposent sur des raisonnements a priori, indépendants de l’expérience ») met en évidence que ces sciences développent des vérités :",
+      "réponses": {
+        "A": "Qui sont constamment sujettes à la vérification empirique et peuvent être réfutées par de nouvelles observations du monde réel.",
+        "B": "Purement subjectives et variables, qui dépendent des intuitions individuelles sans aucune validité universelle ou objective.",
+        "C": "Universelles et nécessaires, dont la validité est établie par la logique ou la déduction interne, sans avoir recours à l’observation ou à l’expérimentation du monde sensible.",
+        "D": "Qui sont des généralisations approximatives tirées d’un grand nombre d’expériences, mais jamais des vérités absolues ou intemporelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Pour l’explication de l’Argument précedent, on peut utiliser l’exemple des mathématiques pour illustrer que ces dernières développent des vérités universelles :",
+      "réponses": {
+        "A": "En se basant sur des expériences de laboratoire rigoureuses, qui valident leurs théorèmes par la confrontation avec les faits observés.",
+        "B": "Grâce à des enquêtes de terrain et des collectes de données empiriques massives, qui permettent de prouver la réalité de leurs concepts.",
+        "C": "Par l’application de méthodes inductives qui infèrent des principes généraux à partir d’observations répétées et détaillées du monde physique.",
+        "D": "Sans aucun recours à l’observation du monde sensible, mais par des démonstrations purement logiques et des déductions à partir d’axiomes ou de définitions de base."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Pour quel philosophe la vérité réside-t-elle dans un « monde des idées », accessible principalement par la raison et non par les sens ?",
+      "réponses": {
+        "A": "Platon, pour sa distinction entre le monde sensible (connaissance par les sens, imparfaite) et le monde intelligible des Formes ou Idées (connaissance par la raison, vraie et éternelle).",
+        "B": "David Hume, pour son scepticisme concernant la connaissance au-delà de l’expérience et des relations d’idées.",
+        "C": "John Locke, pour sa théorie de l’empirisme selon laquelle toutes nos idées proviennent de l’expérience sensorielle.",
+        "D": "Immanuel Kant, pour sa synthèse entre rationalisme et empirisme, où la connaissance est une construction de l’esprit à partir de l’expérience."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Un Argument affirme que la théorie précède souvent l’expérience et oriente son interprétation. Cela signifie que :",
+      "réponses": {
+        "A": "L’expérience est toujours une donnée brute et neutre, qui s’impose à la théorie sans aucune influence préalable de l’esprit du chercheur.",
+        "B": "La connaissance scientifique implique la formulation d’hypothèses ou de cadres conceptuels élaborés par la raison, qui guident l’observation et la conception des expérimentations.",
+        "C": "La science se limite à la simple accumulation de faits observés, sans jamais nécessiter de cadre théorique pour les organiser ou les comprendre.",
+        "D": "L’expérience est un processus totalement autonome, qui ne dépend d’aucune construction intellectuelle préalable et qui détermine seule la validité des théories."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel physicien est cité pour son idée que « l’imagination et les constructions théoriques précèdent souvent les vérifications expérimentales » ?",
+      "réponses": {
+        "A": "Isaac Newton, dont les lois de la gravitation ont été établies par l’observation minutieuse des corps célestes avant toute théorisation.",
+        "B": "Marie Curie, célèbre pour ses découvertes fondées sur des expériences concrètes en laboratoire et l’observation de la radioactivité.",
+        "C": "Louis Pasteur, dont les travaux sur la pasteurisation et les vaccins sont le fruit d’expérimentations rigoureuses et systématiques en biologie.",
+        "D": "Albert Einstein, dont la théorie de la relativité, née d’une construction intellectuelle audacieuse, a été formulée et acceptée avant de recevoir des confirmations expérimentales directes significatives."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "La référence à la théorie de la relativité d’Einstein, formulée avant d’être confirmée par l’observation, illustre que :",
+      "réponses": {
+        "A": "La confirmation expérimentale est le point de départ absolu de toute théorie scientifique, sans laquelle aucune idée ne peut être avancée.",
+        "B": "Les théories scientifiques les plus importantes sont toujours le fruit du hasard et n’ont aucun lien avec l’imagination ou la construction rationnelle.",
+        "C": "L’observation empirique est la seule source de vérité en physique, et les théories qui ne sont pas immédiatement confirmées par l’expérience sont nécessairement fausses.",
+        "D": "La puissance de la raison et de l’abstraction permet de concevoir des cadres théoriques complexes qui peuvent anticiper la réalité, même en l’absence de preuves empiriques initiales."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "La science suppose des « hypothèses construites rationnellement qui guident l’expérimentation ». Cela signifie que :",
+      "réponses": {
+        "A": "L’expérimentation est un processus aléatoire, qui se déroule sans aucun but ni direction définis par la raison humaine.",
+        "B": "Les hypothèses scientifiques sont des intuitions non fondées, qui n’ont aucune influence sur la manière dont les expériences sont conçues ou interprétées.",
+        "C": "La raison joue un rôle crucial dans la conception des expériences, en formulant des questions précises et en orientant la recherche de preuves, avant même la phase d’observation.",
+        "D": "Seuls les faits observés passivement peuvent générer des connaissances scientifiques, toute tentative de rationalisation étant un obstacle à la découverte."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La conclusion du sujet insiste sur le fait que l’expérience est un « pilier fondamental » de la connaissance scientifique. Ce terme « pilier » signifie qu’elle est :",
+      "réponses": {
+        "A": "Un élément décoratif et non essentiel, qui peut être enlevé sans affecter la solidité de la connaissance scientifique.",
+        "B": "Un soutien essentiel, une base solide et indispensable, sans laquelle la connaissance scientifique perdrait sa vérifiabilité et sa rigueur.",
+        "C": "Un obstacle et une contrainte, qui limite le développement de la connaissance scientifique et l’empêche d’atteindre sa pleine vérité.",
+        "D": "Une source d’erreurs et de confusion, qui doit être évitée pour garantir la pureté et la validité des découvertes scientifiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La conclusion affirme que l’expérience, bien que centrale, « ne suffit pas toujours à elle seule ». Cela signifie que la connaissance scientifique :",
+      "réponses": {
+        "A": "N’a absolument pas besoin de l’expérience, car la raison pure est la seule source de vérité et de certitude.",
+        "B": "Est une quête exclusivement empirique, où l’expérience est la seule condition nécessaire et suffisante pour l’établissement des vérités.",
+        "C": "Est incapable d’atteindre la vérité, quelle que soit la méthode utilisée, que ce soit l’expérience ou la raison.",
+        "D": "Requiert d’autres dimensions complémentaires à l’expérience, telles que la raison, l’intuition théorique, ou l’abstraction, pour se développer pleinement."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "L’idée que la vérité platonicienne réside dans le « monde des idées » et est accessible par la raison et non par les sens signifie que :",
+      "réponses": {
+        "A": "Les vérités les plus profondes sont des sensations brutes, directement perceptibles par les cinq sens, sans aucune intervention de l’intellect.",
+        "B": "La raison est un instrument trompeur qui nous éloigne de la réalité, et la véritable connaissance ne peut être atteinte que par l’expérience sensible.",
+        "C": "Le monde sensible est la seule réalité existante, et toute idée de « monde des idées » est une spéculation sans fondement ou une illusion religieuse.",
+        "D": "Il existe des vérités universelles et éternelles (les Idées) qui ne peuvent être appréhendées par les sens illusoires, mais uniquement par l’intellect qui contemple ces Formes pures."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "La conclusion affirme que si « la science a besoin de l’expérience, elle ne saurait s’y réduire entièrement ». Cela signifie que :",
+      "réponses": {
+        "A": "La science est purement expérimentale et ne contient aucune dimension rationnelle ou théorique qui dépasse la simple observation.",
+        "B": "La science peut se passer de l’expérience dans tous les cas, car la raison seule est suffisante pour générer toutes les connaissances.",
+        "C": "L’expérience est une composante essentielle de la démarche scientifique, mais la science inclut également des aspects non-empiriques, comme la construction de théories et la déduction logique, qui ne se réduisent pas à la seule observation.",
+        "D": "L’expérience est un frein au progrès scientifique, et la science devrait s’en affranchir totalement pour atteindre la vérité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Un Argument soutient que des sciences comme les mathématiques reposent sur des raisonnements a priori, indépendants de l’expérience.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Pour Platon, la vérité est accessible principalement par les sens et non par la raison, car elle réside dans le monde sensible.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Albert Einstein est cité comme un exemple de scientifique pour qui les vérifications expérimentales précèdent et orientent toujours la formulation des théories.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "La science suppose des hypothèses construites rationnellement qui guident l’expérimentation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La conclusion insiste sur le fait que l’expérience est la seule et unique condition suffisante pour la connaissance scientifique, sans aucun besoin de la raison ou de l’abstraction.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La phrase « la science ne saurait s’y réduire entièrement » dans la conclusion signifie que la science est totalement indépendante de l’expérience.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Un Argument défend l’idée que l’expérience est toujours une donnée neutre, qui n’est jamais influencée par la théorie ou l’imagination.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La problématique du sujet (« Toute connaissance scientifique doit-elle passer par l’expérience ? ») interroge si l’expérience est une étape incontournable pour chaque forme de connaissance scientifique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

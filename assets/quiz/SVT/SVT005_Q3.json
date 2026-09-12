@@ -1,0 +1,194 @@
+{
+  "title": "Quiz 3",
+  "id": "SVT005_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Dans quelle partie de la cellule une molécule de glucose est-elle initialement divisée en deux molécules d'acide pyruvique ?",
+      "réponses": {
+        "A": "Dans le noyau cellulaire, où le matériel génétique est stocké et répliqué en continu.",
+        "B": "Dans le hyaloplasme, la partie liquide du cytoplasme où se déroulent les réactions métaboliques.",
+        "C": "Dans le réticulum endoplasmique, impliqué dans la synthèse des protéines et des lipides essentiels.",
+        "D": "Dans la matrice mitochondriale, où les étapes ultérieures de la respiration cellulaire se produisent."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Comment se nomme le processus de décomposition du glucose en deux molécules d'acide pyruvique ?",
+      "réponses": {
+        "A": "La phosphorylation oxydative, une étape de production massive d'énergie dans la mitochondrie.",
+        "B": "La néoglucogenèse, la synthèse de glucose à partir de précurseurs non glucidiques dans le foie.",
+        "C": "La glycolyse, une voie métabolique anaérobie qui initie la dégradation du glucose.",
+        "D": "Le cycle de Krebs, une série de réactions cycliques se déroulant dans la matrice mitochondriale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Avant d'intégrer le cycle de Krebs, l'acide pyruvique est transformé en quelle molécule dans la matrice mitochondriale ?",
+      "réponses": {
+        "A": "En acide lactique, un produit de la fermentation musculaire lors d'efforts intenses.",
+        "B": "En éthanol, un alcool produit par la fermentation de levures dans des conditions spécifiques.",
+        "C": "En acétylcoenzyme A, un intermédiaire essentiel pour l'entrée dans le cycle des acides tricarboxyliques.",
+        "D": "En oxaloacétate, une molécule à quatre carbones participant au début du cycle de Krebs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quels sont les produits de la glycolyse, en plus de l'acide pyruvique, selon l'équation fournie ?",
+      "réponses": {
+        "A": "Du dioxyde de carbone (CO2), de l'oxygène (O2) et des ions hydrogène (H+).",
+        "B": "Des protéines complexes, des lipides membranaires et des glucides de stockage.",
+        "C": "Des acides aminés, des nucléotides et des fragments d’ADN pour la réplication.",
+        "D": "De l’ATP, des protons (H+) et de l’eau (H2O), avec la réduction de NAD+."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Par quelle structure protéique l'acide pyruvique est-il transporté dans la matrice de la mitochondrie ?",
+      "réponses": {
+        "A": "Par l'ATP synthase, une enzyme essentielle à la production d'ATP à travers la membrane interne.",
+        "B": "Par une pompe à protons, qui crée un gradient électrochimique pour la phosphorylation.",
+        "C": "Par la pyruvate translocase, une protéine membranaire spécialisée dans le transport spécifique.",
+        "D": "Par le complexe de la cytochrome oxydase, impliqué dans le transfert d'électrons final."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle enzyme fixe le pyruvate dans la matrice mitochondriale pour former l'acétylcoenzyme A ?",
+      "réponses": {
+        "A": "La déshydrogénase, une catégorie d'enzymes impliquées dans les réactions d'oxydo-réduction.",
+        "B": "La carboxylase, une enzyme qui ajoute ou retire un groupe carboxyle à une molécule.",
+        "C": "Le citrate synthase, l'enzyme qui catalyse la première étape du cycle de Krebs.",
+        "D": "Le coenzyme A, une molécule transporteur d'acyle essentielle dans le métabolisme."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "À quelle molécule à 4 carbones l'Acétyl-CoA se fixe-t-il pour s'engager dans le cycle de Krebs ?",
+      "réponses": {
+        "A": "Au citrate, la première molécule formée dans le cycle des acides tricarboxyliques.",
+        "B": "Au succinate, un intermédiaire du cycle de Krebs qui est ensuite oxydé.",
+        "C": "À l'oxaloacétate, un composé d'entrée et de régénération dans le cycle cyclique.",
+        "D": "Au malate, un substrat du cycle de Krebs qui est déshydrogéné en oxaloacétate."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est le nombre total de molécules d'ATP produites par chaque molécule de glucose engagée dans le cycle de Krebs seul ?",
+      "réponses": {
+        "A": "2 molécules d'ATP, qui représentent un faible rendement énergétique direct.",
+        "B": "4 molécules d'ATP, fournissant une quantité modérée d'énergie à la cellule.",
+        "C": "32 molécules d'ATP, démontrant un rendement énergétique considérable à partir du glucose.",
+        "D": "38 molécules d'ATP, le bilan énergétique global incluant toutes les étapes de la dégradation du glucose."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel est le bilan énergétique global de la dégradation complète du glucose, incluant toutes les étapes ?",
+      "réponses": {
+        "A": "2 ATP, ce qui est caractéristique des processus anaérobies de faible rendement.",
+        "B": "6 ATP, un rendement légèrement supérieur à la fermentation mais toujours faible.",
+        "C": "32 ATP, uniquement la production nette d'ATP du cycle de Krebs sans les pertes.",
+        "D": "38 ATP, le rendement énergétique maximal de la respiration cellulaire aérobie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Combien de molécules d'ATP sont produites par une molécule de FADH2 au cours du cycle de Krebs ?",
+      "réponses": {
+        "A": "1 ATP, un rendement énergétique comparable à celui du transport d'un NADH.",
+        "B": "2 ATP, une quantité spécifique d'énergie générée par ce transporteur d'électrons.",
+        "C": "3 ATP, le rendement habituellement associé à la réoxydation d'une molécule de NADH.",
+        "D": "4 ATP, une production d'énergie significativement plus élevée que les autres molécules."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "La glycolyse est un processus qui se déroule dans la matrice mitochondriale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "L'acide pyruvique est directement intégré dans le cycle de Krebs sans transformation préalable.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Le cycle de Krebs produit des molécules énergétiques telles que l'ATP, le NADH et le FADH2.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Chaque molécule de NADH est capable de produire 3 ATP.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "L'entrée d'une molécule de NADH dans la matrice de la mitochondrie consomme 1 ATP.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Le bilan énergétique de la fermentation est de 38 ATP.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Dans le hyaloplasme, une molécule de glucose est divisée en deux molécules d'acide pyruvique : c'est la __________. Dans la matrice mitochondriale, l'acide pyruvique est transformé en __________ avant d'intégrer le __________.",
+      "réponses": {
+        "A": "glycolyse / acétylcoenzyme A / cycle de Krebs",
+        "B": "respiration / citrate / chaîne respiratoire",
+        "C": "fermentation / éthanol / noyau cellulaire",
+        "D": "phosphorylation / lactate / réticulum endoplasmique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La glycolyse est la décomposition du glucose suite à une série de réactions catalysées par des __________ spécifiques pour produire de l'acide pyruvique, de l'ATP, des protons et de l'eau selon l'équation : Glucose + 2ADP + 2Pi + 2NAD+ → 2 pyruvates + 2ATP + 2H2O + 2NADH. Le pyruvate est transporté dans la __________ de la mitochondrie par une protéine membranaire appelée pyruvate __________. ",
+      "réponses": {
+        "A": "enzymes / matrice / translocase",
+        "B": "hormones / membrane / perméase",
+        "C": "cofacteurs / crête / synthase",
+        "D": "lipides / intermembrane / kinase"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Dans la matrice, une autre enzyme, le __________ A, fixe le pyruvate pour donner l'__________ A. L'Acétyl-CoA se fixe à son tour à une molécule à 4 carbones appelée __________. Cette série de réactions est le cycle de Krebs.",
+      "réponses": {
+        "A": "glucose / enképhaline / fumarate",
+        "B": "pyruvate / déshydrogénase / succinate",
+        "C": "citrate / cofacteur / malate",
+        "D": "coenzyme / acétylcoenzyme / oxaloacétate"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Au cours du cycle de Krebs, les molécules énergétiques suivantes sont produites : 2 ATP, 4 NADH dont chacun contient de l'énergie qui est transformée en __________ ATP, et FADH2 capable de produire __________ ATP. Le bilan énergétique global de la dégradation du glucose est de __________ ATP.",
+      "réponses": {
+        "A": "4 / 1 / 2",
+        "B": "2 / 3 / 32",
+        "C": "3 / 2 / 38",
+        "D": "1 / 4 / 6"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

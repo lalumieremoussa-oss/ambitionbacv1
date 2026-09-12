@@ -1,0 +1,556 @@
+{
+  "title": "Quiz Allemand 3 - Communication et Compréhension",
+  "id": "DE05_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Choisissez la réponse la plus appropriée à : \"Wie geht es dir?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin 18 Jahre alt.",
+        "B": "Mir geht es gut, danke. Und dir?",
+        "C": "Ich wohne in Divo.",
+        "D": "Mein Name ist Andy."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle est la suite polie après que quelqu'un a dit : \"Freut mich, dich kennenzulernen.\"?\n",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie geht es Ihnen?",
+        "B": "Ich liebe Musik.",
+        "C": "Gleichfalls, freut mich auch.",
+        "D": "Wo wohnst du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Si quelqu'un demande \"Woher kommst du?\", sur quoi porte la question ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ta ville actuelle.",
+        "B": "Ton lieu de naissance ou ton origine.",
+        "C": "Ton travail.",
+        "D": "Ton âge."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Choisissez la question correcte pour demander l'âge de quelqu'un :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Was ist dein Alter?",
+        "B": "Wann bist du alt?",
+        "C": "Bist du alt?",
+        "D": "Wie alt bist du?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle expression est utilisée en quittant une conversation ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Gern geschehen.",
+        "B": "Wie geht es Ihnen?",
+        "C": "Woher kommst du?",
+        "D": "Bis später."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Que dit Daouda à propos de son nom de famille (Nachname) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er ist Ouattara.",
+        "B": "Er ist Daouda.",
+        "C": "Er ist Abengourou.",
+        "D": "Er ist 2007."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle affirmation est vraie concernant les loisirs de Fatima ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Elle aime les films d'horreur.",
+        "B": "Elle aime regarder des pièces de théâtre (Dramen).",
+        "C": "Elle aime lire et écouter de la musique.",
+        "D": "Elle s'intéresse à la politique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est le but de dire \"Sehr erfreut\" lors d'une présentation ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Salué poliment après une présentation.",
+        "B": "Demander des nouvelles de sa santé.",
+        "C": "Demander quel est son travail.",
+        "D": "Dire au revoir."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Si Samira dit \"Ich komme aus Man\", quelle est la question suivante d'Andy (dans le dialogue) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie alt bist du?",
+        "B": "Was magst du?",
+        "C": "Und du?",
+        "D": "Wie geht es dir?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la signification de \"Ich bin begeistert von Fußball\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "J'aime un peu le football.",
+        "B": "J'aime énormément le football.",
+        "C": "Je suis doué au football.",
+        "D": "Je joue au football professionnellement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle phrase indique une ambition future ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin Schüler.",
+        "B": "Ich studiere fleißig.",
+        "C": "Ich wohne in Bouna.",
+        "D": "Ich will Arzt werden."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quelle phrase ne concerne PAS le lieu ou l'origine ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich komme aus Divo.",
+        "B": "Ich bin 17 Jahre alt.",
+        "C": "Ich wohne in Tiassalé.",
+        "D": "Ich bin in Abengourou geboren."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel est le synonyme de \"Filme\" dans le texte sur Fatima ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bücher",
+        "B": "Kino",
+        "C": "Hobbys",
+        "D": "Dramen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Si vous voulez parler de votre activité préférée pendant votre temps libre, vous demandez :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wie geht es dir?",
+        "B": "Wann bist du geboren?",
+        "C": "Was machst du gerne in deiner Freizeit?",
+        "D": "Wo wohnst du?"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle information est donnée sur la taille de Daouda ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Il est très grand.",
+        "B": "Il mesure 1,70 mètre.",
+        "C": "Il est petit.",
+        "D": "Er ist 1 Meter 53 groß."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle est la manière correcte de préciser son lieu et sa date de naissance ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin geboren am 11.",
+        "B": "Ich bin am 11. August 2007 geboren.",
+        "C": "Ich bin geboren 2007.",
+        "D": "Ich war geboren 2007 August 11."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Que dit Samira sur son origine ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Elle vient de Divo.",
+        "B": "Elle habite à Tiassalé.",
+        "C": "Sie kommt aus Man.",
+        "D": "Elle habite à Man."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Daouda mentionne qu'il veut devenir une bonne personne dans le :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Gegenwart (présent)",
+        "B": "Vergangenheit (passé)",
+        "C": "Zukunft (futur)",
+        "D": "Schule (école)"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Laquelle des réponses suivantes n'est PAS une bonne réponse à \"Danke\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bitte sehr / Gern geschehen.",
+        "B": "Freut mich, dich kennenzulernen.",
+        "C": "Bis später.",
+        "D": "Auf Wiedersehen."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "D'après le texte, quelle matière Daouda aime-t-il beaucoup ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Dramen",
+        "B": "Politik",
+        "C": "Englisch",
+        "D": "Fußball"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Complétez l'introduction : A: Hallo, ich bin Andy. B: Hi Andy! (..........) Samira.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Freut mich. Mein Name ist",
+        "B": "Woher kommst du",
+        "C": "Ich wohne in",
+        "D": "Wie alt bist du"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "Complétez l'échange : A: Woher kommst du? B: Ich komme aus Man. (..........)?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Auch du",
+        "B": "Und du",
+        "C": "Wie bist",
+        "D": "Alt bist"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Complétez l'affirmation : Ich bin am (..........) 2007 in Abengourou geboren.",
+      "type": "QCM",
+      "réponses": {
+        "A": "August ist von",
+        "B": "11. August",
+        "C": "In bin 11.",
+        "D": "September 2006"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Complétez la question : (..........)? Ich bin 17 Jahre alt.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Wann du geboren",
+        "B": "Wie alt bist du ",
+        "C": "Wo wohnst du",
+        "D": "Wie war alt"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Complétez la phrase : Ich wohne (..........) Familie.",
+      "type": "QCM",
+      "réponses": {
+        "A": "mit auf meine in",
+        "B": "auf von bei",
+        "C": "wohne Familie in",
+        "D": "N'douci mit meiner"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°26": {
+      "question": "Complétez sur le temps libre : In meiner Freizeit (..........) und lese einfache Bücher.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Zu in ich sehe",
+        "B": "Interessiert bin Dramen",
+        "C": "Ich lesen ist nicht",
+        "D": "sehe ich gerne Dramen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°27": {
+      "question": "Complétez sur les intérêts : Ich (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "viel Politik in bin",
+        "B": "ist liebe Englisch sehr",
+        "C": "interessiere mich nicht für Politik",
+        "D": "sehr nicht interessiert in"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Complétez l'échange : B: Ich komme aus Bouaké. Aber ich wohne (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "jetzt in Yamoussoukro",
+        "B": "aus Yamoussoukro bei",
+        "C": "wohne in bin jetzt",
+        "D": "an Yamoussoukro von"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "Complétez l'affirmation : (..........) in der Zukunft.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich will eine gute Person werden",
+        "B": "Werden ist leben gut",
+        "C": "Will zu bin Person",
+        "D": "Eine schlechte Person zu"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°30": {
+      "question": "Complétez l'au revoir : Also, (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "ich muss gehen. Bis später!",
+        "B": "Gehen ist später sehen",
+        "C": "Du musst danke ich",
+        "D": "Bin gut bis du"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°31": {
+      "question": "Complétez la question : (..........)? (D'où viens-tu ?)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Woher kommst du",
+        "B": "Was kommst du von",
+        "C": "Wo wohnst du ist",
+        "D": "Kommst du von wo"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°32": {
+      "question": "Complétez : Ich bin Schüler (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "viel liebe sehr Englisch und",
+        "B": "interessiert Englisch liebe",
+        "C": "ist sehr nicht ich bin",
+        "D": "ich mag Englisch sehr"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°33": {
+      "question": "Complétez la phrase : Meine Hobbys sind (..........). (Fatima)",
+      "type": "QCM",
+      "réponses": {
+        "A": "hören zu und Filme",
+        "B": "zu Musik und Liebe",
+        "C": "sind Filme Dramen lesen",
+        "D": "Lesen und Musik hören"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°34": {
+      "question": "Complétez : Jeden Tag gehe ich (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "ist Schule zu fleißig",
+        "B": "Schule bin studiere und",
+        "C": "fleißig Haus mache ich zu",
+        "D": "zur Schule und studiere fleißig"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°35": {
+      "question": "Complétez l'échange : A: Danke schön. B: (..........).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Gern geschehen",
+        "B": "Ist gut willkommen",
+        "C": "Danke bin sind",
+        "D": "Zu dir gut"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°36": {
+      "question": "Complétez la question : (..........)? Ich liebe Science-Fiction-Filme.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Was machst du gerne",
+        "B": "Du tun magst tun",
+        "C": "Wo zu wohnen was",
+        "D": "Magst du zu wohnen"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°37": {
+      "question": "Complétez l'introduction : Hallo! Mein Name (..........). (Daouda)",
+      "type": "QCM",
+      "réponses": {
+        "A": "ist Daouda",
+        "B": "bin Daouda",
+        "C": "ist Nachname Daouda",
+        "D": "du aus Daouda"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°38": {
+      "question": "Complétez : Ich bin 1 Meter (..........). (Daouda)",
+      "type": "QCM",
+      "réponses": {
+        "A": "klein Meter",
+        "B": "lang 53",
+        "C": "53 groß",
+        "D": "bin 53"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°39": {
+      "question": "Complétez la question : (..........)? Ich bin 1998 geboren.",
+      "type": "QCM",
+      "réponses": {
+        "A": "Tun war wann wohnen",
+        "B": "Wo geboren du bist",
+        "C": "Wann bist du geboren",
+        "D": "Wann sind du geboren"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°40": {
+      "question": "Complétez : Ich mag (..........) überhaupt nicht. (Fatima)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Horrorfilme",
+        "B": "alle lesen Filme Fiction",
+        "C": "Filme Musik bei Horror",
+        "D": "Science-Fiction-Filme bei"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°41": {
+      "question": "Quelle est la salutation informelle initiale utilisée entre Andy et Samira ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Hallo",
+        "B": "Guten Morgen",
+        "C": "Wie geht es Ihnen",
+        "D": "Was geht ab"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°42": {
+      "question": "Si vous voulez savoir où vit une personne, quel est le verbe principal ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "sein (ist)",
+        "B": "wohnen",
+        "C": "kommen",
+        "D": "bleiben"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°43": {
+      "question": "Quel verbe est utilisé pour dire ce que l'on préfère faire pendant son temps libre ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "mögen (mag)",
+        "B": "wollen",
+        "C": "haben",
+        "D": "machen"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°44": {
+      "question": "Quel mot exprime une affection très forte (plus fort que \"mögen\") ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "gut",
+        "B": "begeistert",
+        "C": "lieben",
+        "D": "bevorzugen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°45": {
+      "question": "Quelle expression est une alternative formelle à \"Freut mich\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sehr erfreut / Wie geht es Ihnen?",
+        "B": "Wie geht es dir?",
+        "C": "Wie heißt du?",
+        "D": "Bis später"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°46": {
+      "question": "Quelle expression indique un manque d'intérêt dans le texte de Daouda ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "nicht interessiert",
+        "B": "uninteressiert",
+        "C": "langweilig",
+        "D": "mag nicht"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°47": {
+      "question": "Quel est le nom pour une performance programmée, comme une pièce, mentionnée dans les loisirs ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Filme",
+        "B": "Dramen",
+        "C": "Kinos",
+        "D": "Theater"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°48": {
+      "question": "Quel mot est utilisé pour exprimer la gratitude ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bitte",
+        "B": "Danke",
+        "C": "Willkommen",
+        "D": "Hallo"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°49": {
+      "question": "Quel verbe décrit l'action de changer en quelque chose (futur) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "studieren",
+        "B": "beginnen",
+        "C": "gehen",
+        "D": "werden"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°50": {
+      "question": "Quel est le but de la question \"Und du?\" dans une présentation ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Renvoyer la question à l'autre personne",
+        "B": "Demander l'âge uniquement",
+        "C": "Dire au revoir",
+        "D": "Se présenter à nouveau"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

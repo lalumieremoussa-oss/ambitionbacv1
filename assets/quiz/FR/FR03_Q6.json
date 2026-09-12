@@ -1,0 +1,156 @@
+{
+    "title": "Quiz 2",
+    "id": "FR001_Q2",
+    "questions": {
+        "question n°1": {
+            "question": "Selon le sujet (Bac blanc 2025): « De la musique avant toute chose /De la musique, encore et toujours », que valorise Verlaine ?",
+            "réponses": {
+                "A": "Le sens du poème plus que sa forme",
+                "B": "La fonction esthétique de la poésie",
+                "C": "La dénonciation sociale",
+                "D": "La rigueur du vers classique uniquement"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Quelle antithèse s’oppose à l’idée de Verlaine sur la poésie ?",
+            "réponses": {
+                "A": "La poésie doit favoriser le changement positif de l’homme et de la société",
+                "B": "La poésie doit surtout être musicale",
+                "C": "La poésie ne doit pas avoir de contenu",
+                "D": "La poésie doit rimer sans règle"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°3": {
+            "question": "Sujet : « Le théâtre doit présenter les hommes tels qu’ils sont (…) pour que le public en tire des enseignements » Quelle reformulation correspond à ce sujet ?",
+            "réponses": {
+                "A": "Le théâtre doit être un lieu de rêve sans lien avec la réalité",
+                "B": "Le théâtre est un miroir de la condition humaine, porteur de leçons",
+                "C": "Le théâtre doit faire rire uniquement",
+                "D": "Le théâtre est réservé à l’élite"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°4": {
+            "question": "Quel argument soutient l’idée que « le théâtre présente les hommes tels qu’ils sont » ?",
+            "réponses": {
+                "A": "Le public s'identifie et apprend à travers les comportements des personnages",
+                "B": "Le théâtre est une distraction sans message",
+                "C": "Le théâtre est trop éloigné de la réalité",
+                "D": "Le théâtre ne vise qu’à divertir"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°5": {
+            "question": "« Apporter un message aux hommes, (…) c’est l’affaire des fondateurs de religion (…) Une œuvre d’art n’a rien à voir avec les doctrines ». Selon Eugène Ionesco, quelle est la position exprimée dans le sujet ?",
+            "réponses": {
+                "A": "La littérature est le fruit de l’imagination",
+                "B": "L’œuvre d’art n’a pas à être un outil de propagande",
+                "C": "L’art est essentiellement dogmatique",
+                "D": "L’artiste est un guide politique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "« Apporter un message aux hommes, (…) c’est l’affaire des fondateurs de religion (…) Une œuvre d’art n’a rien à voir avec les doctrines » Quelle antithèse contredit la pensée d’Ionesco ?",
+            "réponses": {
+                "A": "L’art ne doit jamais s’engager",
+                "B": "Toute œuvre d’art est une forme de divertissement.",
+                "C": "Une œuvre d’art doit éduquer et dénoncer pour changer le monde",
+                "D": "Une œuvre ne doit jamais déranger"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°7": {
+            "question": "Sujet (Bac officiel 2025) : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quelle est la reformulation correcte de ce sujet ?",
+            "réponses": {
+                "A": "L’art est une invention totalement coupée de la réalité",
+                "B": "L’art s’inspire des vécus quotidiens",
+                "C": "L’engagement est l’unique vocation de la littérature.",
+                "D": "L’art est toujours abstrait"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quelle thèse ce sujet défend-il ?",
+            "réponses": {
+                "A": "L’art naît de l’imaginaire déconnecté",
+                "B": "L’art naît des expériences et réalités vécues",
+                "C": "L’art ne reflète que des rêves",
+                "D": "L’art n’a aucun lien avec le monde"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quelle antithèse peut être proposée ?",
+            "réponses": {
+                "A": "L’art ne doit représenter que la vie réelle",
+                "B": "La littérature est le fruit de l’imagination",
+                "C": "L’art reflète fidèlement la vie",
+                "D": "L’art se limite aux faits"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°10": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quel argument soutient la thèse ?",
+            "réponses": {
+                "A": "L’écrivain s’inspire de la réalité pour dénoncer tout ce qui rend les hommes malheureux",
+                "B": "L’artiste propose au lecteur, le rêve en voyageant avec lui dans un monde imaginaire.",
+                "C": "L’artiste évite les réalités pour ne pas choquer",
+                "D": "L’artiste ne s’inspire que des mythes"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°11": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quel argument réfute cette thèse ?",
+            "réponses": {
+                "A": "L’art naît de l’imaginaire pur, sans ancrage réel",
+                "B": "L’artiste propose au lecteur, le rêve en voyageant avec lui dans un monde imaginaire.",
+                "C": "L’écrivain cherche à évader en lui faisant détourner de ses soucis.",
+                "D": "Toutes ces propositions."
+            },
+            "bonne réponse": "D"
+        },
+        "question n°12": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quel exemple d’œuvre africaine célèbre illustre la thèse ?",
+            "réponses": {
+                "A": "Toutes ces propositions",
+                "B": "Les soleils des indépendances d’Ahmadou Kourouma",
+                "C": "L’enfant noir de Camara Laye",
+                "D": "Une saison au Congo d’Aimé Césaire"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°13": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quel exemple d’œuvre ou de citations peut réfuter la thèse en valorisant l’imaginaire ?",
+            "réponses": {
+                "A": "Les fleurs du Mal de Charles Baudelaire",
+                "B": "<<Tout œuvre d’art est un beau mensonge>> Stendhal",
+                "C": "Planètes des singes de Pierre Boule",
+                "D": "Toutes ces propositions."
+            },
+            "bonne réponse": "D"
+        },
+        "question n°14": {
+            "question": "Sujet : « Une œuvre d’art se crée, comme toute chose, à partir des matériaux empruntés de la vie » Quel argument supplémentaire défend la thèse ?",
+            "réponses": {
+                "A": "L’art est un moyen d’expression les sentiments personnels",
+                "B": "L’art ignore la réalité pour fuir la vérité",
+                "C": "L’art se contente de décorer le réel",
+                "D": "L’art est un jeu de formes, qui cherche à charmer le lecteur."
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "Sujet (Bac blanc 2025) : « La littérature, c’est un reproche qu’on adresse au monde » Quelle reformulation correspond à ce sujet ?",
+            "réponses": {
+                "A": "La littérature critique les défauts du monde",
+                "B": "La littérature décrit la beauté du monde.",
+                "C": "La littérature célèbre la perfection du monde",
+                "D": "La littérature ignore les défauts du monde"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

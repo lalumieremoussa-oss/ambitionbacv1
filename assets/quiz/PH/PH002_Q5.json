@@ -1,0 +1,371 @@
+
+{
+  "title": "Quiz 5",
+  "id": "PH002_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne la violence dans une approche philosophique ?",
+      "réponses": {
+        "A": "Une réaction à une injustice subie par une personne plus faible.",
+        "B": "Toute forme d’agression exercée volontairement contre autrui ou contre soi",
+        "C": "Une manifestation d’amour contrarié",
+        "D": "Un acte toujours justifié dans la nature"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Qu’est-ce que la nature humaine selon les penseurs classiques ?",
+      "réponses": {
+        "A": "Ce qui résulte exclusivement de l’éducation et de la culture.",
+        "B": "Ce que l’homme devient en société",
+        "C": "Ce qui varie selon les civilisations.",
+        "D": "Ce qui est inné, stable et commun à tous les hommes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "En quoi la pulsion de mort freudienne est-elle un argument pour expliquer la violence ?",
+      "réponses": {
+        "A": "Elle prouve que tout acte violent est rationnel",
+        "B": "Elle révèle une énergie sexuelle non canalisée",
+        "C": "Elle montre qu’une force destructrice habite inconsciemment l’homme",
+        "D": "Elle nie toute forme de responsabilité morale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Pourquoi Hobbes affirme-t-il que l’homme est naturellement en conflit avec autrui ?",
+      "réponses": {
+        "A": "Parce qu’il aime souffrir",
+        "B": "Parce qu’il vit dans une société où les lois ne sont respectées par les autorités.",
+        "C": "Parce que l’État garantit la paix",
+        "D": "Parce qu’en l’absence de lois, chacun défend ses intérêts contre les autres"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la fonction de la violence dans l’état de nature selon certains penseurs ?",
+      "réponses": {
+        "A": "Elle permet une paix durable entre les hommes",
+        "B": "Elle est une stratégie rationnelle de survie",
+        "C": "Elle sert à punir l’injustice divine",
+        "D": "Elle est illégale, donc illogique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Pourquoi peut-on dire que l’agressivité est instinctive selon Freud ?",
+      "réponses": {
+        "A": "Parce qu’elle est enracinée dans l’inconscient",
+        "B": "Parce qu’elle est apprise en société",
+        "C": "Parce que toute violence est un choix moral",
+        "D": "Parce qu’elle est propre à l’éducation chrétienne"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la vision hobbesienne de la violence est-elle pessimiste ?",
+      "réponses": {
+        "A": "Car elle suppose que l’homme peut vivre sans conflit avec les autres.",
+        "B": "Car elle voit la société comme naturellement paisible, où chaque individu se sent libre et heureux",
+        "C": "Car elle décrit l’homme comme naturellement porté à la guerre sans lois",
+        "D": "Car elle exclut toute solution pacifique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi certains philosophes associent-ils violence et volonté irrationnelle ?",
+      "réponses": {
+        "A": "Parce que la volonté est un pur raisonnement",
+        "B": "Parce que la volonté, comme chez Schopenhauer, est aveugle et source de conflit",
+        "C": "Parce que la volonté est orientée uniquement vers le bien",
+        "D": "Parce qu’elle est toujours gouvernée par la raison"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle citation de Freud soutient l’idée d’un instinct d’agressivité inné ?",
+      "réponses": {
+        "A": "« L’homme est un loup pour l’homme. »",
+        "B": "« L’homme doit compter au nombre de ses données instinctives une bonne somme d’agressivité. »",
+        "C": "« Le moi n’est pas maître dans sa propre maison. »",
+        "D": "« L’agression est une invention sociale. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle pensée exprime le pessimisme de Schopenhauer sur la nature humaine ?",
+      "réponses": {
+        "A": "« L’homme est condamné à être libre. »",
+        "B": "« La volonté, aveugle et irrationnelle, engendre conflits et souffrances. »",
+        "C": "« L’homme est libre même en prison. »",
+        "D": "« L’éducation fait l’homme. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle phrase de Hobbes illustre le caractère conflictuel de l’état de nature ?",
+      "réponses": {
+        "A": "« La guerre est le père de toutes choses. »",
+        "B": "« L’homme est un loup pour l’homme. »",
+        "C": "« L’homme est bon par nature. »",
+        "D": "« L’État est l’âme du peuple. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Que souligne Joseph de Maistre dans sa citation sur la violence ?",
+      "réponses": {
+        "A": "Que la guerre est une exception",
+        "B": "Que la violence n’existe que chez les barbares",
+        "C": "Que l’homme tue pour vivre, mais aussi pour le plaisir de tuer",
+        "D": "Que la nature humaine est toujours morale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que veut dire Hobbes par « l’homme est un loup pour l’homme » ?",
+      "réponses": {
+        "A": "Que l’homme est naturellement solidaire",
+        "B": "Que l’homme défend toujours les plus faibles",
+        "C": "Que l’homme est une menace pour autrui sans autorité supérieure",
+        "D": "Que l’homme est un animal loyal"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est le sens profond de la citation de Freud sur l’agressivité instinctive ?",
+      "réponses": {
+        "A": "Que l’homme est uniquement une victime de la violence",
+        "B": "Que l’homme utilise la violence uniquement en cas de guerre",
+        "C": "Que la violence est toujours rationnelle",
+        "D": "Que la violence fait partie de sa constitution psychique profonde"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quel message Schopenhauer fait-il passer avec sa citation ?",
+      "réponses": {
+        "A": "Que seule la raison mène à la paix",
+        "B": "Que la morale est sans fondement",
+        "C": "Que la volonté humaine est irrationnelle et productrice de souffrance",
+        "D": "Que l’homme ne souffre que dans l’enfance"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Pour Freud, la violence humaine est uniquement due à l’éducation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Schopenhauer affirme que la volonté humaine est toujours dirigée par la raison.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Hobbes pense que l’homme est naturellement violent.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Joseph de Maistre nie toute violence inutile chez l’homme.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Comment définir la violence dans une perspective sociale ?",
+      "réponses": {
+        "A": "Un instinct de destruction pure",
+        "B": "Une réponse automatique à la douleur",
+        "C": "Une manifestation d’amour contrarié",
+        "D": "Un acte dirigé contre autrui, souvent causé par des frustrations ou inégalités sociales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°21": {
+      "question": "Que désigne l’organisation sociale en philosophie politique ?",
+      "réponses": {
+        "A": "L’ensemble des choix individuels au hasard",
+        "B": "Le cadre moral d’un peuple",
+        "C": "La manière dont les lois, les institutions et les hiérarchies structurent la société",
+        "D": "L’héritage biologique d’une population"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Pourquoi peut-on dire que la société produit elle-même de la violence ?",
+      "réponses": {
+        "A": "Parce qu’elle punit toujours les criminels",
+        "B": "Parce que les lois protègent tous les citoyens",
+        "C": "Parce que la morale naturelle disparaît",
+        "D": "Parce que les structures sociales engendrent des rapports d’exclusion et d’oppression"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°23": {
+      "question": "Pourquoi les inégalités sociales sont-elles une source de violence selon Rousseau ?",
+      "réponses": {
+        "A": "Parce qu’elles rendent tous les hommes puissants",
+        "B": "Parce qu’elles donnent aux riches l’obligation d’aider les pauvres",
+        "C": "Parce qu’elles assurent la paix sociale",
+        "D": "Parce qu’elles créent humiliation, jalousie et rivalité"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Pourquoi la violence d’un marginal ne peut-elle pas être considérée comme purement naturelle ?",
+      "réponses": {
+        "A": "Parce qu’il est biologiquement pacifique",
+        "B": "Parce qu’il n’a aucun rapport avec la société",
+        "C": "Parce qu’il est écrasé par un ordre établi qui peut provoquer sa révolte",
+        "D": "Parce qu’il agit toujours par plaisir"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Pourquoi la structure sociale peut-elle engendrer des formes de colère ou de révolte ?",
+      "réponses": {
+        "A": "Parce qu’elle donne trop de liberté aux individus",
+        "B": "Parce qu’elle garantit trop d’égalité",
+        "C": "Parce qu’elle supprime les privilèges",
+        "D": "Parce qu’elle crée des frustrations et sentiments d’injustice chez les dominés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°26": {
+      "question": "Pourquoi les rapports de domination sont-ils problématiques ?",
+      "réponses": {
+        "A": "Parce qu’ils sont visibles à la télévision",
+        "B": "Parce qu’ils empêchent les citoyens d’obéir aux lois",
+        "C": "Parce qu’ils créent un déséquilibre profond entre individus, menant à la violence",
+        "D": "Parce qu’ils sont trop bien organisés"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°27": {
+      "question": "Que montre la réaction violente d’un individu face à l’ordre établi ?",
+      "réponses": {
+        "A": "Qu’il n’a pas de conscience morale",
+        "B": "Qu’il cherche à imposer la paix",
+        "C": "Qu’il subit une oppression sociale et tente de s’en libérer",
+        "D": "Qu’il est naturellement dangereux"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "Quelle citation illustre le lien entre structure sociale et oppression selon Sartre ?",
+      "réponses": {
+        "A": "« L’homme est un loup pour l’homme. »",
+        "B": "« Ce n’est pas l’antisémitisme qui fait le Juif, c’est le bourgeois qui fait le prolétaire. »",
+        "C": "« L’homme est naturellement violent. »",
+        "D": "« La violence est le langage des faibles. »"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Quelle est la célèbre affirmation de Rousseau sur la nature humaine ?",
+      "réponses": {
+        "A": "« L’homme est né violent. »",
+        "B": "« L’homme est un animal rationnel. »",
+        "C": "« L’homme est naturellement bon, c’est la société qui le corrompt. »",
+        "D": "« La société nous libère. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Quelle pensée de Joseph de Maistre exprime la brutalité sociale ?",
+      "réponses": {
+        "A": "« L’homme tue pour se nourrir, il tue pour se défendre, il tue pour tuer. »",
+        "B": "« La morale est le fondement de la société. »",
+        "C": "« L’homme est naturellement doux. »",
+        "D": "« La société régule la cruauté. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°31": {
+      "question": "Quelle citation illustre la critique de la propriété privée par Rousseau ?",
+      "réponses": {
+        "A": "« Le premier qui, ayant enclos un terrain, s’avisa de dire ‘ceci est à moi’, fut le véritable fondateur de la société civile. »",
+        "B": "« Tout ce que l’homme possède vient de Dieu. »",
+        "C": "« La propriété rend les hommes frères. »",
+        "D": "« L’État doit garantir l’inégalité. »"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°32": {
+      "question": "Quel est le sens de « c’est le bourgeois qui fait le prolétaire » ?",
+      "réponses": {
+        "A": "Le riche transforme les pauvres en bourgeois",
+        "B": "Le prolétariat crée la classe dominante",
+        "C": "Ce sont les structures économiques qui créent les dominés",
+        "D": "La violence est un choix personnel"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°33": {
+      "question": "En affirmant que « l’homme est naturellement bon », que remet en question Rousseau ?",
+      "réponses": {
+        "A": "L'idée selon laquelle la nature humaine est corrompue par essence",
+        "B": "La doctrine selon laquelle le mal découle de la technique et de la science",
+        "C": "La vision optimiste de l’éducation comme remède aux vices humains",
+        "D": "La conception moderne de la liberté comme absence de contraintes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°34": {
+      "question": "Que signifie « l’homme tue pour tuer » chez Maistre ?",
+      "réponses": {
+        "A": "Que tuer est un art chez l’homme",
+        "B": "Que la violence humaine dépasse souvent la nécessité",
+        "C": "Que la guerre est toujours juste .",
+        "D": "Que la loi impose de tuer"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°35": {
+      "question": "Rousseau pense que la propriété privée a renforcé l’égalité entre les hommes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°36": {
+      "question": "Pour Sartre, l’antisémite existe avant la société.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°37": {
+      "question": "Les inégalités sociales peuvent déclencher des formes de révolte ou de colère.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°38": {
+      "question": "L’organisation sociale empêche toutes les formes de violence.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

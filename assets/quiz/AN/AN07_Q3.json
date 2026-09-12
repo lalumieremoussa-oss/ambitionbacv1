@@ -1,0 +1,156 @@
+{
+  "title": "AN07_Q3",
+  "id": "AN07_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Comment écrit-on le nombre 10 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "ten"
+    },
+    "question n°2": {
+      "question": "Comment écrit-on le nombre 20 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "twenty"
+    },
+    "question n°3": {
+      "question": "Comment écrit-on le nombre 30 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "thirty"
+    },
+    "question n°4": {
+      "question": "Comment écrit-on le nombre 40 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "forty"
+    },
+    "question n°5": {
+      "question": "Comment écrit-on le nombre 50 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "fifty"
+    },
+    "question n°6": {
+      "question": "Comment écrit-on le nombre 60 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "sixty"
+    },
+    "question n°7": {
+      "question": "Comment écrit-on le nombre 70 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "seventy"
+    },
+    "question n°8": {
+      "question": "Comment écrit-on le nombre 80 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "eighty"
+    },
+    "question n°9": {
+      "question": "Comment écrit-on le nombre 90 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "ninety"
+    },
+    "question n°10": {
+      "question": "Comment écrit-on le nombre 100 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "one hundred"
+    },
+    "question n°11": {
+      "question": "Comment écrit-on le nombre 100 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "one hundred"
+    },
+    "question n°12": {
+      "question": "Comment écrit-on le nombre 150 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "one hundred and fifty"
+    },
+    "question n°13": {
+      "question": "Comment écrit-on le nombre 200 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "two hundred"
+    },
+    "question n°14": {
+      "question": "Comment écrit-on le nombre 250 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "two hundred and fifty"
+    },
+    "question n°15": {
+      "question": "Comment écrit-on le nombre 300 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "three hundred"
+    },
+    "question n°16": {
+      "question": "Comment écrit-on le nombre 350 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "three hundred and fifty"
+    },
+    "question n°17": {
+      "question": "Comment écrit-on le nombre 400 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "four hundred"
+    },
+    "question n°18": {
+      "question": "Comment écrit-on le nombre 450 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "four hundred and fifty"
+    },
+    "question n°19": {
+      "question": "Comment écrit-on le nombre 500 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "five hundred"
+    },
+    "question n°20": {
+      "question": "Comment écrit-on le nombre 550 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "five hundred and fifty"
+    },
+    "question n°21": {
+      "question": "Comment écrit-on le nombre 600 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "six hundred"
+    },
+    "question n°22": {
+      "question": "Comment écrit-on le nombre 650 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "six hundred and fifty"
+    },
+    "question n°23": {
+      "question": "Comment écrit-on le nombre 700 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "seven hundred"
+    },
+    "question n°24": {
+      "question": "Comment écrit-on le nombre 750 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "seven hundred and fifty"
+    },
+    "question n°25": {
+      "question": "Comment écrit-on le nombre 800 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "eight hundred"
+    },
+    "question n°26": {
+      "question": "Comment écrit-on le nombre 850 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "eight hundred and fifty"
+    },
+    "question n°27": {
+      "question": "Comment écrit-on le nombre 900 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "nine hundred"
+    },
+    "question n°28": {
+      "question": "Comment écrit-on le nombre 950 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "nine hundred and fifty"
+    },
+    "question n°29": {
+      "question": "Comment écrit-on le nombre 1000 en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "one thousand"
+    },
+    "question n°30": {
+      "question": "Quel est le nombre juste avant two hundred ? (en chiffres)",
+      "type": "short_answer",
+      "bonne réponse": "199"
+    }
+  }
+}

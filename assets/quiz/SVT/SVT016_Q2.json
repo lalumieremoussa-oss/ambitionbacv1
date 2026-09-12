@@ -1,0 +1,406 @@
+{
+  "title": "Quiz 2 : Prospection, extraction et impacts du pétrole",
+  "id": "SVT016_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "La télédétection est principalement utilisée pour :",
+      "réponses": {
+        "A": "Repérer les structures géologiques favorables à la présence d’hydrocarbures.",
+        "B": "Forer les puits de pétrole à grande profondeur.",
+        "C": "Injecter des ondes sismiques dans le sous-sol marin.",
+        "D": "Extraire le pétrole grâce à des satellites spécialisés."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Les images satellites permettent :",
+      "réponses": {
+        "A": "D’analyser la composition chimique du pétrole.",
+        "B": "De repérer des zones sédimentaires propices à la formation de pièges.",
+        "C": "D’observer directement les hydrocarbures sous la surface.",
+        "D": "De mesurer la pression interne du sous-sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La méthode de sismique réflexion repose sur :",
+      "réponses": {
+        "A": "L’étude de la gravité terrestre pour localiser les roches denses.",
+        "B": "L’envoi d’ondes sismiques artificielles et l’analyse de leur réflexion.",
+        "C": "L’observation de la surface par drones thermiques.",
+        "D": "La mesure de la température des nappes phréatiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "En mer, les ondes sismiques sont créées par :",
+      "réponses": {
+        "A": "Des explosions de dynamite sous-marines.",
+        "B": "Des hélicoptères sonores.",
+        "C": "Des canons à air comprimé.",
+        "D": "Des vibrations produites par des bateaux de pêche."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Les ondes réfléchies sous l’eau sont captées grâce à :",
+      "réponses": {
+        "A": "Des géophones terrestres.",
+        "B": "Des antennes radar flottantes.",
+        "C": "Des hydrophones.",
+        "D": "Des sondes thermiques sous-marines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Sur terre, les vibrations sismiques sont produites par :",
+      "réponses": {
+        "A": "Des camions vibrateurs.",
+        "B": "Des éoliennes de surface.",
+        "C": "Des stations météo mobiles.",
+        "D": "Des capteurs satellites géophysiques."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Les ondes de retour sont enregistrées sur terre par :",
+      "réponses": {
+        "A": "Des microphones.",
+        "B": "Des sonomètres.",
+        "C": "Des baromètres.",
+        "D": "Des géophones."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "L’objectif principal de la sismique réflexion est de :",
+      "réponses": {
+        "A": "Mesurer la profondeur des nappes phréatiques.",
+        "B": "Cartographier le sous-sol et repérer des pièges à pétrole.",
+        "C": "Déterminer la qualité chimique du pétrole brut.",
+        "D": "Évaluer la vitesse du vent dans les zones côtières."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Le terme « offshore » désigne :",
+      "réponses": {
+        "A": "L’exploitation en milieu marin, loin des côtes.",
+        "B": "Les activités pétrolières situées sur terre ferme.",
+        "C": "Les forages réalisés dans les zones désertiques.",
+        "D": "Les gisements de surface à faible profondeur."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Le terme « onshore » désigne :",
+      "réponses": {
+        "A": "Les forages réalisés sur la terre ferme.",
+        "B": "Les opérations pétrolières sous-marines.",
+        "C": "Les stations de raffinage situées sur les plages.",
+        "D": "Les puits flottants en pleine mer."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Le forage consiste à :",
+      "réponses": {
+        "A": "Observer les couches sédimentaires à distance.",
+        "B": "Creuser un puits pour prélever des échantillons de roche.",
+        "C": "Injecter du gaz pour stimuler la pression interne.",
+        "D": "Extraire directement le pétrole brut du réservoir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Les échantillons extraits lors du forage sont appelés :",
+      "réponses": {
+        "A": "Copeaux.",
+        "B": "Échantillons sédimentaires superficiels.",
+        "C": "Fragments sismiques.",
+        "D": "Carottes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Le principal but du forage d’exploration est de :",
+      "réponses": {
+        "A": "Mesurer la vitesse de diffusion des ondes sismiques.",
+        "B": "Évacuer le gaz naturel vers la surface.",
+        "C": "Refroidir les roches sédimentaires en profondeur.",
+        "D": "Confirmer la présence effective d’hydrocarbures."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Après le forage, les échantillons de roche sont :",
+      "réponses": {
+        "A": "Soumis à des tests de résistance mécanique.",
+        "B": "Jetés car inutilisables scientifiquement.",
+        "C": "Enfouis pour éviter les pollutions.",
+        "D": "Analysés en laboratoire pour confirmer la présence de pétrole."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle combinaison décrit correctement les trois étapes de prospection ?",
+      "réponses": {
+        "A": "Forage → Sismique → Télédétection.",
+        "B": "Sismique → Forage → Extraction.",
+        "C": "Télédétection → Sismique → Forage.",
+        "D": "Cartographie → Raffinage → Production."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "La production primaire correspond à :",
+      "réponses": {
+        "A": "L’exploitation par forage horizontal.",
+        "B": "Le pompage mécanique assisté par injection d’eau.",
+        "C": "L’extraction naturelle sous l’effet de la pression interne.",
+        "D": "La récupération du pétrole par évaporation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Le rendement de la production primaire est généralement de :",
+      "réponses": {
+        "A": "5 à 10 %.",
+        "B": "15 à 25 %.",
+        "C": "30 à 45 %.",
+        "D": "50 à 60 %."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La production secondaire est utilisée lorsque :",
+      "réponses": {
+        "A": "La pression naturelle devient insuffisante.",
+        "B": "Le gisement contient uniquement du gaz.",
+        "C": "Le pétrole est entièrement épuisé.",
+        "D": "Le gisement est encore à l’état de kérogène."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "La méthode de pompage mécanique consiste à :",
+      "réponses": {
+        "A": "Utiliser des tiges et pistons pour aspirer le pétrole.",
+        "B": "Injecter des produits chimiques dans le sol.",
+        "C": "Détruire les roches par explosion.",
+        "D": "Laisser remonter le pétrole par gravité."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quelle technique est typique de la production secondaire ?",
+      "réponses": {
+        "A": "L’utilisation de drones sous-marins.",
+        "B": "Le forage manuel par percussion.",
+        "C": "L’injection d’eau ou de gaz pour augmenter la pression.",
+        "D": "L’extraction par refroidissement thermique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Le rendement moyen d’une production secondaire est de :",
+      "réponses": {
+        "A": "10 à 15 %.",
+        "B": "30 à 45 %.",
+        "C": "50 à 70 %.",
+        "D": "80 à 90 %."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Pourquoi la production secondaire est-elle dite « assistée » ?",
+      "réponses": {
+        "A": "Parce qu’elle dépend de la lumière solaire.",
+        "B": "Parce qu’elle est réalisée uniquement par robots.",
+        "C": "Parce qu’elle utilise des procédés artificiels pour maintenir la pression.",
+        "D": "Parce qu’elle nécessite la présence de plusieurs gisements."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "L’injection de gaz dans un puits a pour but de :",
+      "réponses": {
+        "A": "Dissoudre les sédiments dans le pétrole.",
+        "B": "Nettoyer les tuyaux du forage.",
+        "C": "Augmenter la pression et faciliter la remontée du pétrole.",
+        "D": "Refroidir la roche réservoir."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°24": {
+      "question": "Quelle est la conséquence d’une pression interne trop faible ?",
+      "réponses": {
+        "A": "Le puits se bouche définitivement.",
+        "B": "Le pétrole remonte trop vite et s’évapore.",
+        "C": "Le pétrole reste bloqué dans la roche réservoir.",
+        "D": "La roche mère se désintègre totalement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Quelle est la principale limite des techniques de production secondaire ?",
+      "réponses": {
+        "A": "Elles augmentent les coûts et peuvent polluer le sous-sol.",
+        "B": "Elles détruisent automatiquement le gisement.",
+        "C": "Elles réduisent la quantité d’hydrocarbures disponibles.",
+        "D": "Elles empêchent toute analyse chimique du pétrole."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Le pompage mécanique est surtout utilisé :",
+      "réponses": {
+        "A": "Dans les roches volcaniques non poreuses.",
+        "B": "En début d’exploitation pour stimuler la production.",
+        "C": "En haute mer uniquement.",
+        "D": "En fin de gisement, quand la pression est faible."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°27": {
+      "question": "Les produits chimiques injectés servent à :",
+      "réponses": {
+        "A": "Neutraliser les gaz sulfurés.",
+        "B": "Solidifier les roches du réservoir.",
+        "C": "Colorer le pétrole pour le repérer.",
+        "D": "Diminuer la viscosité du pétrole pour faciliter son écoulement."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "L’exploitation pétrolière offshore nécessite :",
+      "réponses": {
+        "A": "Des camions vibrateurs",
+        "B": "Des stations mobiles terrestres.",
+        "C": "Des plateformes flottantes ou fixes en mer.",
+        "D": "Des forages à ciel ouvert."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "La récupération totale du pétrole d’un gisement est :",
+      "réponses": {
+        "A": "Limitée uniquement par la profondeur.",
+        "B": "Facile grâce à la pression naturelle.",
+        "C": "Garantie après 10 ans d’exploitation.",
+        "D": "Impossible, même avec les techniques modernes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°30": {
+      "question": "Après extraction, le pétrole brut est :",
+      "réponses": {
+        "A": "Transporté vers les raffineries pour traitement.",
+        "B": "Utilisé directement sans transformation.",
+        "C": "Mélangé à du gaz pour être vendu.",
+        "D": "Injecté à nouveau dans le sous-sol."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°31": {
+      "question": "Les gaz toxiques émis lors de l’exploitation contribuent :",
+      "réponses": {
+        "A": "À l’effet de serre et à la pollution atmosphérique.",
+        "B": "À la purification naturelle de l’air.",
+        "C": "À la baisse de la température terrestre.",
+        "D": "À la formation d’ozone bénéfique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°32": {
+      "question": "Une marée noire est :",
+      "réponses": {
+        "A": "Un phénomène de reflux de sable côtier.",
+        "B": "Une montée naturelle des eaux due à la marée.",
+        "C": "Un déversement accidentel de pétrole dans la mer.",
+        "D": "Une pollution causée uniquement par les usines chimiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°33": {
+      "question": "L’impact immédiat d’une marée noire est :",
+      "réponses": {
+        "A": "La purification des eaux de surface.",
+        "B": "L’augmentation de la productivité des poissons.",
+        "C": "La destruction de la faune et de la flore marines.",
+        "D": "L’enrichissement des algues en oxygène."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°34": {
+      "question": "Les sons émis par la prospection sismique peuvent :",
+      "réponses": {
+        "A": "Attirer les poissons vers les côtes",
+        "B": "Perturber la communication des baleines et dauphins.",
+        "C": "Stabiliser la pression sous-marine.",
+        "D": "Éloigner les requins des zones de pêche."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°35": {
+      "question": "Les collisions entre navires pétroliers provoquent :",
+      "réponses": {
+        "A": "Des fuites massives de pétrole dans les océans.",
+        "B": "Des émissions de gaz carbonique uniquement.",
+        "C": "Des décharges électriques sous-marines.",
+        "D": "Des mouvements de marée renforcés."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°36": {
+      "question": "Parmi les impacts positifs, on note :",
+      "réponses": {
+        "A": "La disparition des espèces marines.",
+        "B": "La désertification accélérée.",
+        "C": "La création d’emplois et l’amélioration du niveau de vie.",
+        "D": "La baisse du pouvoir d’achat des populations."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°37": {
+      "question": "Les revenus pétroliers peuvent servir à :",
+      "réponses": {
+        "A": "Financer la déforestation massive.",
+        "B": "Subventionner uniquement les compagnies étrangères.",
+        "C": "Détruire les zones agricoles proches des puits.",
+        "D": "Construire routes, écoles et hôpitaux."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°38": {
+      "question": "L’utilisation du gaz domestique issu du pétrole :",
+      "réponses": {
+        "A": "Favorise la combustion des forêts tropicales.",
+        "B": "Augmente la coupe abusive des arbres.",
+        "C": "Réduit la déforestation en remplaçant le bois de chauffe.",
+        "D": "Provoque l’acidification des sols forestiers."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°39": {
+      "question": "Sur le plan social, l’exploitation pétrolière peut :",
+      "réponses": {
+        "A": "Neutraliser les migrations internes.",
+        "B": "Garantir une paix durable sans conflits.",
+        "C": "Supprimer toute inégalité économique.",
+        "D": "Créer des tensions entre populations et compagnies."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°40": {
+      "question": "Quelle approche permet de concilier exploitation et environnement ?",
+      "réponses": {
+        "A": "Le rejet des déchets pétroliers en mer.",
+        "B": "L’exploitation intensive sans contrôle.",
+        "C": "L’abandon total de la surveillance environnementale.",
+        "D": "La mise en place d’une gestion durable et de normes écologiques."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

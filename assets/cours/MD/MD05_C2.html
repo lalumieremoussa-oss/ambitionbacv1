@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : La Rotation de centre $\\Omega$ et d'angle $\\theta$",
+                    "content": "Soit $\\Omega$ un point d'affixe $\\omega$ et $\\theta$ un nombre réel.\nLa rotation de centre $\\Omega$ et d'angle $\\theta$ est la transformation qui, à tout point $M(z)$, associe $M'(z')$ tel que :\n$\\Omega M' = \\Omega M$ et $(\\vec{\\Omega M}, \\vec{\\Omega M'}) = \\theta \\ [2\\pi]$.\nL'écriture complexe est : $z' - \\omega = e^{i\\theta}(z - \\omega)$.\nSous forme développée, cela donne $z' = az + b$ avec $|a| = 1$.\nLe point invariant unique est le centre $\\Omega$ (sauf si $\\theta = 0$).\nLa rotation conserve les distances, les angles et les aires.",
+                    "example": "Déterminons l'image d'un point par une rotation d'angle remarquable :\nSoit $r$ la rotation de centre $\\Omega(i)$ et d'angle $\\theta = \\frac{\\pi}{2}$.\nL'affixe du centre est $\\omega = i$ et $e^{i\\pi/2} = i$.\nL'expression est $z' - i = i(z - i)$.\nSoit le point $A$ d'affixe $z_A = 2$.\n$z_{A'} - i = i(2 - i)$\n$z_{A'} - i = 2i - i^2$\n$z_{A'} - i = 2i + 1$\n$z_{A'} = 1 + 3i$.\nL'image de $A(2)$ est le point $A'(1+3i)$.",
+                    "extras": [
+                        "Exemple complet : Identifier la transformation $z' = iz + 1 - i$.\nLe coefficient de $z$ est $a = i$. Comme $|i| = 1$, c'est une rotation.\nL'angle est $\\text{arg}(i) = \\frac{\\pi}{2}$.\nLe centre $\\omega$ vérifie $\\omega = i\\omega + 1 - i$ :\n$\\omega(1 - i) = 1 - i \\implies \\omega = 1$.\nC'est la rotation de centre $\\Omega(1)$ et d'angle $\\pi/2$.",
+                        "Exemple complet : Rotation de centre $O(0)$ et d'angle $\\pi$.\n$e^{i\\pi} = -1$. L'expression est $z' = -z$.\nCeci correspond également à une symétrie centrale de centre $O$ ou une homothétie de rapport -1.\nSi $M = 3-i$, alors $M' = -3+i$.",
+                        "Exemple complet : Soit $z' = e^{i\\pi/3}(z - 2)$.\nC'est une rotation de centre $\\Omega(2)$ et d'angle $60^\\circ$.\nL'image du point $B(4)$ est $z_{B'} = e^{i\\pi/3}(4 - 2) + 2$.\n$z_{B'} = 2(\\frac{1}{2} + i\\frac{\\sqrt{3}}{2}) + 2 = 1 + i\\sqrt{3} + 2 = 3 + i\\sqrt{3}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : La Similitude Directe",
+                    "content": "Une similitude directe $s$ est une transformation qui multiplie les distances par un rapport $k > 0$ et ajoute un angle $\\theta$ aux mesures des angles orientés.\nL'écriture complexe est de la forme : $z' = az + b$ avec $a \\in \\mathbb{C}^*$.\nLes éléments caractéristiques sont :\n- Le rapport $k = |a|$.\n- L'angle $\\theta = \\text{arg}(a) \\ [2\\pi]$.\n- Le centre $\\Omega$ d'affixe $\\omega = \\frac{b}{1-a}$ (si $a \\neq 1$).\nSi $a=1$, la similitude est une translation.\nSi $a \\in \\mathbb{R}^*$, c'est une homothétie.\nSi $|a|=1$, c'est une rotation.",
+                    "example": "Déterminons les éléments caractéristiques d'une similitude :\nSoit $s$ la transformation d'expression $z' = (1 + i)z + 2 - i$.\nCalculons le rapport $k$ :\n$k = |1 + i| = \\sqrt{1^2 + 1^2} = \\sqrt{2}$.\nCalculons l'angle $\\theta$ :\n$\\theta = \\text{arg}(1 + i) = \\frac{\\pi}{4} \\ [2\\pi]$.\nCalculons l'affixe du centre $\\omega$ :\n$\\omega = (1 + i)\\omega + 2 - i$\n$\\omega - \\omega - i\\omega = 2 - i$\n$-i\\omega = 2 - i$\n$\\omega = \\frac{2 - i}{-i} = \\frac{(2 - i)i}{-i^2} = 2i - i^2 = 1 + 2i$.\nConclusion : $s$ est la similitude directe de centre $\\Omega(1+2i)$, de rapport $\\sqrt{2}$ et d'angle $\\pi/4$.",
+                    "extras": [
+                        "Exemple complet : Trouver l'expression de la similitude de centre $\\Omega(i)$, rapport 2 et angle $\\pi/6$.\nOn a $a = 2e^{i\\pi/6} = 2(\\frac{\\sqrt{3}}{2} + \\frac{1}{2}i) = \\sqrt{3} + i$.\nL'expression est $z' - i = (\\sqrt{3} + i)(z - i)$.\n$z' = (\\sqrt{3} + i)z - i\\sqrt{3} - i^2 + i$\n$z' = (\\sqrt{3} + i)z + 1 + i(1 - \\sqrt{3})$.",
+                        "Exemple complet : Soit $s$ telle que $s(A) = B$ et $s(C) = D$ avec $A(0), B(i), C(1), D(2i)$.\nOn utilise $z' = az+b$.\n$i = a(0) + b \\implies b = i$.\n$2i = a(1) + i \\implies a = i$.\nL'expression est $z' = iz + i$.\n$|a|=1$, c'est une rotation d'angle $\\pi/2$ et de centre $\\omega = i/(1-i) = -1/2 + i/2$.",
+                        "Exemple complet : Image d'un triangle par une similitude de rapport $k=3$.\nSi le triangle initial $ABC$ a une aire de $5 \\text{ cm}^2$, l'aire du triangle image $A'B'C'$ sera $k^2 \\times \\text{Aire} = 3^2 \\times 5 = 45 \\text{ cm}^2$.\nLes angles du triangle sont conservés."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

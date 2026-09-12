@@ -1,0 +1,294 @@
+{
+  "id": "SVT013_Q4",
+  "title": "Quiz 4 : soi et non soi",
+  "questions": {
+    "question n°1": {
+      "question": "Toutes les cellules de l’organisme portent des molécules du CMH, sauf :",
+      "réponses": {
+        "A": "Les neurones",
+        "B": "Les cellules musculaires",
+        "C": "Les hématies",
+        "D": "Les cellules épithéliales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le rôle principal du CMH est de :",
+      "réponses": {
+        "A": "Produire des anticorps",
+        "B": "Identifier les cellules comme appartenant au soi",
+        "C": "Détruire les microbes",
+        "D": "Transporter l’oxygène"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Chez l’humain, les molécules du CMH sont appelées :",
+      "réponses": {
+        "A": "MHC",
+        "B": "HCM",
+        "C": "HLA",
+        "D": "CD4"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Une cellule est reconnue comme \"non-soi\" lorsque :",
+      "réponses": {
+        "A": "Elle provient d’un tissu nerveux",
+        "B": "Elle ne possède pas d’ADN",
+        "C": "Ses antigènes diffèrent du CMH du receveur",
+        "D": "Elle provient du système digestif"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Les déterminants antigéniques sont :",
+      "réponses": {
+        "A": "Des enzymes responsables de la phagocytose",
+        "B": "Les parties du CMH qui sont reconnues par les cellules immunitaires",
+        "C": "Des globules rouges spécifiques",
+        "D": "Des anticorps liés à l’ADN"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Toutes les affirmations suivantes sont vraies SAUF :",
+      "réponses": {
+        "A": "Le CMH sert de carte d’identité cellulaire",
+        "B": "Les cellules sans CMH sont toutes détruites automatiquement",
+        "C": "Le CMH varie d’un individu à l’autre",
+        "D": "Le CMH est impliqué dans les rejets de greffe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Vrai ou Faux : Les cellules propres à un individu sont reconnues comme du soi par le système immunitaire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Complétion : Les cellules avec un CMH identique à celui de l’individu sont reconnues comme [...], tandis que celles avec un CMH différent sont reconnues comme [...].",
+      "réponses": {
+        "A": "soi ; étrangères",
+        "B": "infectées ; saines",
+        "C": "spécifiques ; aspecifiques",
+        "D": "immunitaires ; antigéniques"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Contrairement aux autres cellules, les hématies ne possèdent pas :",
+      "réponses": {
+        "A": "D’antigènes",
+        "B": "De CMH",
+        "C": "D’ADN",
+        "D": "D’anticorps"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Une personne qui possède de l’antigène …. est du groupe A, celui qui possède de l’antigène B est du groupe ….. . Des personnes qui possèdent à la fois de l’agglutinogène A et de agglutinogène B sont du groupe ….. Ceux qui n’en possède aucun sont du groupe ….",
+      "réponses": {
+        "A": "B – A – O - AB",
+        "B": "A – B – O - AB",
+        "C": "B – A – AB - O",
+        "D": "A – B – AB – O"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "L’agglutinogène A est considéré comme un élément étranger (non soi) par le groupe B, et inversement. Ainsi, le groupe B produit des anticorps anti-…… pour éliminer l’antigène A. Le groupe AB reconnaît les deux agglutinogènes, ce qui signifie que les antigènes A et B sont perçus comme des …… par ce groupe. Quant au groupe sanguin O, il ne reconnaît ni l’antigène A ni l’antigène B : ces deux antigènes sont donc des …… pour lui.",
+      "réponses": {
+        "A": "B – non soi – soi",
+        "B": "A – non soi – soi",
+        "C": "A – soi – non soi",
+        "D": "B – soi – non soi"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : Une personne Rh+ possède l’antigène Rh sur ses hématies.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Complétion : Une personne de groupe O ne reconnaît aucun antigène comme [...], ce qui signifie qu’elle ne peut recevoir que du sang [...].",
+      "réponses": {
+        "A": "soi ; AB",
+        "B": "soi ; O",
+        "C": "non-soi ; B",
+        "D": "antigénique ; A"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Une autogreffe désigne :",
+      "réponses": {
+        "A": "Une greffe entre deux individus de la même espèce",
+        "B": "Une greffe provenant d’un animal",
+        "C": "Une greffe à partir du même individu",
+        "D": "Une greffe entre jumeaux hétérozygotes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Une greffe entre jumeaux monozygotes est appelée :",
+      "réponses": {
+        "A": "Xénogreffe",
+        "B": "Autogreffe",
+        "C": "Allogreffe",
+        "D": "Isogreffe"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Une allogreffe désigne une greffe entre :",
+      "réponses": {
+        "A": "Espèces différentes",
+        "B": "Frères siamois",
+        "C": "Membres de la même espèce non identiques",
+        "D": "Soi-même"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Une xénogreffe désigne :",
+      "réponses": {
+        "A": "Une greffe venant de soi",
+        "B": "Une greffe entre espèces différentes",
+        "C": "Une greffe sanguine",
+        "D": "Une greffe d’organe entre jumeaux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : Une isogreffe est parfaitement compatible immunitairement.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Complétion : Dans une xénogreffe, le rejet est [...], car les différences de CMH sont [...].",
+      "réponses": {
+        "A": "lent ; minimes",
+        "B": "modéré ; adaptables",
+        "C": "inexistant ; tolérées",
+        "D": "rapide ; très importantes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "La compatibilité entre donneur et receveur dépend principalement de :",
+      "réponses": {
+        "A": "Leur âge",
+        "B": "Leur statut Rh",
+        "C": "Leur système immunitaire",
+        "D": "Leur similarité au niveau du CMH"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°21": {
+      "question": "Vrai ou Faux : Plus le donneur est génétiquement proche, plus les chances d’acceptation du greffon augmentent.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "Un rejet de greffe survient car le greffon est reconnu comme :",
+      "réponses": {
+        "A": "Soi",
+        "B": "Identique au CMH",
+        "C": "Un non-soi",
+        "D": "Rhésus compatible"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "En l’absence de traitement, un greffon provenant d’un donneur non apparenté est rejeté :",
+      "réponses": {
+        "A": "Immédiatement",
+        "B": "Jamais",
+        "C": "Après plusieurs années",
+        "D": "En quelques mois à un an"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Le rejet accéléré d’un greffon déjà transplanté s’explique par :",
+      "réponses": {
+        "A": "Une mutation génétique du receveur",
+        "B": "Une réponse hormonale",
+        "C": "La mémoire immunitaire",
+        "D": "La fatigue cellulaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Vrai ou Faux : Un greffon rejeté une première fois sera automatiquement accepté s’il est réimplanté plus tard.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Complétion : La mémoire immunitaire permet à l’organisme de réagir plus [...], avec plus [...], lors d’un second contact avec le même antigène.",
+      "réponses": {
+        "A": "lentement ; de fatigue",
+        "B": "rapidement ; de précision",
+        "C": "calmement ; de rejet",
+        "D": "faiblement ; d’allergie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Le rejet de greffe peut être évité partiellement grâce à :",
+      "réponses": {
+        "A": "L’aspirine",
+        "B": "Des injections d’anticorps",
+        "C": "L’alignement des groupes Rh",
+        "D": "Une compatibilité CMH élevée"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "Pourquoi les jumeaux monozygotes sont les donneurs idéaux ?",
+      "réponses": {
+        "A": "Leur ADN est totalement différent",
+        "B": "Ils ont un système immunitaire faible",
+        "C": "Ils partagent le même CMH",
+        "D": "Ils produisent des anticorps identiques"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Vrai ou Faux : Le groupe sanguin du receveur est plus important que son CMH pour une greffe rénale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Complétion : Le CMH détermine la compatibilité [...] alors que les antigènes A, B et Rh déterminent la compatibilité [...].",
+      "réponses": {
+        "A": "immunitaire ; sanguine",
+        "B": "hormonale ; sanguine",
+        "C": "cellulaire ; sanguine",
+        "D": "humorale ; immunitaire"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

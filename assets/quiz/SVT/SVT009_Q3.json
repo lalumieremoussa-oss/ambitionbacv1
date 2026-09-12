@@ -1,0 +1,272 @@
+{
+  "id": "SVTD009_Q3",
+  "title": "Quiz 3 : Les étapes de la fécondation",
+  "questions": {
+    "question n°1": {
+      "question": "Le transport des grains de pollen sur le stigmate d’une fleur de la même espèce est un processus biologique appelé :",
+      "réponses": {
+        "A": "La germination des grains de pollen sur la surface du stigmate.",
+        "B": "La fécondation croisée entre des espèces différentes de plantes.",
+        "C": "La pollinisation.",
+        "D": "La déhiscence de l’anthère pour libérer les grains matures."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Lorsqu’une pollinisation est qualifiée de « directe » ou « auto-pollinisation », cela implique spécifiquement que :",
+      "réponses": {
+        "A": "Les pollens sont transportés sur le stigmate d’une autre fleur de la même espèce par un agent.",
+        "B": "Les pollens des étamines d’une fleur tombent sur le stigmate de la même fleur.",
+        "C": "Le vent est l’agent principal et unique de transport des grains de pollen.",
+        "D": "Des insectes ou des oiseaux assurent le transport vers une fleur différente."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Lors de la germination des grains de pollen, un tube fin appelé tube pollinique se forme. Ce tube est spécifiquement limité par quelle membrane du grain de pollen ?",
+      "réponses": {
+        "A": "L’exine, la couche externe perforée du pollen.",
+        "B": "Le tégument protecteur de l’ovule.",
+        "C": "La paroi cellulaire primaire du grain.",
+        "D": "L’intine."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quel est le cheminement correct du tube pollinique après qu’il s’est enfoncé dans le tissu conducteur du style ?",
+      "réponses": {
+        "A": "Il gagne l’ovaire, puis pénètre dans un ovule par le micropyle.",
+        "B": "Il gagne la graine, puis le fruit et enfin l’ovule à fertiliser.",
+        "C": "Il atteint directement le sac embryonnaire sans passer par l’ovaire.",
+        "D": "Il se dirige vers les pétales pour initier le processus de fécondation."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Lorsque le tube pollinique a achevé sa croissance et atteint sa destination, quel est le devenir du noyau végétatif ?",
+      "réponses": {
+        "A": "Il subit une mitose pour former deux gamètes mâles.",
+        "B": "Il dirige la croissance du tube pollinique puis dégénère.",
+        "C": "Il s’unit à l’oosphère pour former l’œuf principal.",
+        "D": "Il reste actif et maintient la viabilité du pollen pour une future fécondation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "La double fécondation, caractéristique des spermaphytes, implique l’union d’un spermatozoïde avec l’oosphère et l’union du second spermatozoïde avec :",
+      "réponses": {
+        "A": "Les trois cellules antipodes du sac embryonnaire.",
+        "B": "La cellule mère du sac embryonnaire avant sa méiose.",
+        "C": "Les deux synergides situées au pôle micropylaire du sac embryonnaire.",
+        "D": "Les deux noyaux du sac."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "La double fécondation est un processus obligatoire spécifiquement chez :",
+      "réponses": {
+        "A": "Les cryptogames vasculaires, comme les fougères.",
+        "B": "Les mousses et les algues, organismes inférieurs.",
+        "C": "Les spermaphytes.",
+        "D": "Les champignons et les lichens, organismes non photosynthétiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Vrai ou Faux : La pollinisation est le transport des grains de pollen sur le stigmate d’une fleur de la même espèce.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : La pollinisation indirecte est également appelée auto-pollinisation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : Le noyau reproducteur est le premier à s’engager dans le tube pollinique lors de la germination.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Le tube pollinique s’enfonce dans le tissu conducteur du style en le digérant.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : Le noyau reproducteur subit une mitose et donne naissance à deux gamètes mâles haploïdes.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Lors de la double fécondation, les deux spermatozoïdes pénètrent dans le nucelle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : L’union d’un spermatozoïde avec l’oosphère forme l’œuf principal ou œuf embryon, qui est diploïde (2n).",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : L’œuf accessoire ou œuf albumen est formé par l’union d’un spermatozoïde avec les deux noyaux du sac et il est triploïde (3n).",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "La pollinisation est le transport des grains de pollen sur le …..A….. d’une fleur de la même espèce. La pollinisation peut être …..B….. (ou auto pollinisation) ou …..C….. (ou croisée).",
+      "réponses": {
+        "A": "A : ovaire, B : indirecte, C : assistée",
+        "B": "A : étamine, B : entomophile, C : anémophile",
+        "C": "A : stigmate, B : directe, C : indirecte",
+        "D": "A : pistil, B : naturelle, C : artificielle"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "À la surface des stigmates, les grains de pollen trouvant des conditions favorables se mettent à germer. Un tube fin, le …..A….., limité par l’…..B….. se forme. Le cytoplasme et les 2 noyaux du grain de pollen migrent dans le tube qui s’allonge. Le noyau …..C….. s’engage le 1er dans le tube.",
+      "réponses": {
+        "A": "A : filament, B : exine, C : reproducteur",
+        "B": "A : tube germinatif, B : tégument, C : secondaire",
+        "C": "A : tube pollinique, B : intine, C : végétatif",
+        "D": "A : micropyle, B : nucelle, C : central"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Le tube pollinique s’enfonce dans le tissu conducteur du style en le digérant. Puis il gagne l’ovaire (en longeant le …..A…..) et pénètre dans un ovule par le …..B…… L’extrémité du tube pollinique parvient jusqu’au …..C……",
+      "réponses": {
+        "A": "A : collet, B : micropyle, C : nucelle",
+        "B": "A : placentaire, B : hile, C : sac ovulaire",
+        "C": "A : placenta, B : micropyle, C : sac embryonnaire",
+        "D": "A : style, B : stigmate, C : tube ovarien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Les 2 spermatozoïdes pénètrent dans le sac embryonnaire : L’un des spermatozoïdes s’unit à l’…..A….. pour former l’œuf principal ou œuf embryon qui est …..B….. (2n). L’autre spermatozoïde s’unit aux …..C….. noyaux du sac pour former l’œuf accessoire ou œuf albumen qui est triploïde (3n).",
+      "réponses": {
+        "A": "A : synergide, B : haploïde, C : un",
+        "B": "A : antipodes, B : triploïde, C : deux",
+        "C": "A : oosphère, B : diploïde, C : deux",
+        "D": "A : cellule centrale, B : diploïde, C : un"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Le tégument de l’ovule se dédouble en deux couches. Laquelle des deux est décrite dans le texte comme étant « dure » ?",
+      "réponses": {
+        "A": "Le tégument interne, qui est de texture molle et souple.",
+        "B": "Le tégument externe.",
+        "C": "L’intine, une membrane fine et interne du grain de pollen.",
+        "D": "L’exine, une membrane perforée présente sur le pollen."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "L’œuf accessoire se place dans la paroi du sac embryonnaire et se divise activement. Cette structure, qui va occuper tout le nucelle et se remplir de réserves, est appelée :",
+      "réponses": {
+        "A": "L’embryon en développement rapide.",
+        "B": "La jeune plantule, prête à germer.",
+        "C": "L’albumen.",
+        "D": "La graine elle-même, dans sa forme finale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "L’embryon ou plantule, formé€ à partir de l’œuf principal, est composé de plusieurs parties. La partie spécifique qui est destinée à devenir la racine de la future plante est :",
+      "réponses": {
+        "A": "La tigelle, qui formera l’axe principal.",
+        "B": "La gemmule, qui donnera le bourgeon terminal.",
+        "C": "La radicule.",
+        "D": "Le ou les cotylédons, pour les premières feuilles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Selon les informations du texte, la graine des Angiospermes a pour fonctions fondamentales d’assurer :",
+      "réponses": {
+        "A": "La croissance rapide du fruit et la protection de l’ovaire floral.",
+        "B": "La dissémination de l’espèce et sa survie.",
+        "C": "La fécondation des gamètes mâles et le développement de la fleur.",
+        "D": "La production abondante de pollen et l’attraction des pollinisateurs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Vrai ou Faux : Le tégument interne de l’ovule est décrit comme étant de consistance molle.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Vrai ou Faux : L’œuf accessoire se place au centre du sac embryonnaire avant d’entamer sa division active.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Vrai ou Faux : La gemmule de l’embryon est la partie qui donnera la tige de la future plante.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Vrai ou Faux : Les graines sans albumen sont qualifiées de « meilleures » dans le texte.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "L’œuf principal se divise activement pour former l’…..A….. ou plantule qui comprend : La radicule qui deviendra la …..B….. et La tigelle qui donnera la …..C……",
+      "réponses": {
+        "A": "A : albumen, B : tige, C : fleur",
+        "B": "A : zygote, B : tige, C : racine",
+        "C": "A : embryon, B : racine, C : tige",
+        "D": "A : nucelle, B : bourgeon, C : feuille"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "L’albumen, formé à partir de l’œuf accessoire, va occuper tout le …..A….. et se remplir de …..B…… D’après le texte, il existe deux types de graines : les graines à albumen et les graines …..C….. albumen.",
+      "réponses": {
+        "A": "A : ovule, B : eau, C : avec",
+        "B": "A : fruit, B : sucre, C : sans",
+        "C": "A : stigmate, B : protéines, C : à",
+        "D": "A : anthère, B : lipides, C : et"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

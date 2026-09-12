@@ -1,0 +1,190 @@
+{
+  "id": "SVTD009_Q2",
+  "title": "Quiz 2: Formation du sac embryonnaire",
+  "questions": {
+    "question n°1": {
+      "question": "L’ovule est entouré par une structure protectrice percée d’un orifice appelé micropyle. Cette structure est :",
+      "réponses": {
+        "A": "Une seule membrane externe perforée.",
+        "B": "Un double tégument.",
+        "C": "Une assise mécanique tendue vers l’extérieur.",
+        "D": "Un péricarpe continu enveloppant le tout."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "À l’intérieur du nucelle de l’ovule, le sac embryonnaire est une structure complexe constituée d’un nombre total de cellules de :",
+      "réponses": {
+        "A": "Cinq cellules distinctes et actives.",
+        "B": "Six cellules regroupées à des pôles opposés.",
+        "C": "Sept cellules.",
+        "D": "Huit cellules, y compris les noyaux non entourés de cytoplasme."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Au pôle micropylaire du sac embryonnaire, on identifie précisément trois cellules qui sont :",
+      "réponses": {
+        "A": "Les trois cellules antipodes.",
+        "B": "La cellule géante centrale et ses noyaux secondaires.",
+        "C": "L’oosphère et les deux synergides.",
+        "D": "Les quatre microspores en cours de formation initiale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La cellule mère du sac embryonnaire, qui est située du côté du micropyle dans le nucelle, est caractérisée par une ploïdie de :",
+      "réponses": {
+        "A": "Haploïde (n) avant toute division cellulaire.",
+        "B": "Diploïde (2n).",
+        "C": "Triploïde (3n) suite à un événement de fusion.",
+        "D": "Tétraploïde (4n) après une duplication complète."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Après la méiose de la cellule mère du sac embryonnaire, quatre cellules haploïdes (n) sont formées en ligne. Parmi elles, combien de cellules dégénèrent au niveau micropylaire ?",
+      "réponses": {
+        "A": "Une seule cellule, la plus petite du groupe.",
+        "B": "Deux cellules, celles situées aux extrémités de la ligne.",
+        "C": "Trois cellules.",
+        "D": "Toutes les quatre cellules initialement formées."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Après la dégénération de certaines cellules, seule une des quatre cellules formées après la méiose se développe pour donner naissance à l’ensemble du sac embryonnaire. Cette cellule est appelée :",
+      "réponses": {
+        "A": "La cellule végétative, responsable de la croissance.",
+        "B": "La microspore, précurseur du grain de pollen.",
+        "C": "L’oocyte II mature, prêt pour la fécondation.",
+        "D": "La méga spore ou macrospore."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Combien de mitoses successives le noyau de la macrospore doit-il subir pour finalement former l’ensemble des noyaux du sac embryonnaire ?",
+      "réponses": {
+        "A": "Une seule mitose rapide et efficace.",
+        "B": "Deux mitoses consécutives et équilibrées.",
+        "C": "Quatre mitoses étendues et complètes.",
+        "D": "Trois mitoses."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Le sac embryonnaire mature, qui résulte de ces divisions successives, est finalement composé d’un total de :",
+      "réponses": {
+        "A": "6 noyaux répartis de manière égale dans 5 cellules.",
+        "B": "8 noyaux haploïdes répartis dans 7 cellules.",
+        "C": "8 noyaux diploïdes répartis dans 8 cellules distinctes.",
+        "D": "7 noyaux haploïdes répartis dans 6 cellules organisées."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Vrai ou Faux : L’ovule est entouré par un simple tégument percé d’un micropyle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Vrai ou Faux : Le nucelle de l’ovule contient le sac embryonnaire, lequel est constitué d’un total de 7 cellules.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : Au pôle opposé du sac embryonnaire, on trouve l’oosphère et les deux synergides.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La cellule géante située au centre du sac embryonnaire contient deux noyaux haploïdes.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : La cellule mère du sac embryonnaire est une cellule diploïde (2n) située du côté du micropyle.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : Après la méiose de la cellule mère du sac embryonnaire, les trois cellules micropylaires dégénèrent.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : Tous les noyaux du sac embryonnaire sont à 2n chromosomes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : La macrospore subit 3 mitoses successives pour donner 8 noyaux haploïdes.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "L’ovule est entouré par un …..A…… Le double tégument est percé d’un orifice appelé …..B…… À l’intérieur se trouve le nucelle contenant le …..C……",
+      "réponses": {
+        "A": "A : double tégument, B : micropyle, C : sac embryonnaire",
+        "B": "A : simple tégument, B : hilum, C : endosperme",
+        "C": "A : périsperme, B : pore germinatif, C : embryon",
+        "D": "A : tégument unique, B : ostiole, C : gamète mâle"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Le sac embryonnaire est constitué de 7 cellules. Au pôle micropylaire on a 3 cellules : l’oosphère et les 2 …..A…… Au pôle opposé on a les 3 cellules : les 3 …..B…… Au centre on a 1 cellule géante à 2 noyaux dits noyaux du sac ou noyaux …..C……",
+      "réponses": {
+        "A": "A : antipodes, B : synergides, C : primaires",
+        "B": "A : noyaux polaires, B : cellules centrales, C : reproducteurs",
+        "C": "A : synergides, B : antipodes, C : secondaires",
+        "D": "A : noyaux végétatifs, B : cellules génératrices, C : gamétiques"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "L’une des cellules du nucelle, appelée cellule mère du sac embryonnaire, est …..A….. (2n). Elle subit une …..B….. ; Il se forme ainsi 4 cellules …..C….. (n) disposées en ligne.",
+      "réponses": {
+        "A": "A : haploïde, B : mitose, C : diploïdes",
+        "B": "A : diploïde, B : méiose, C : haploïdes",
+        "C": "A : triploïde, B : fécondation, C : diploïdes",
+        "D": "A : tétraploïde, B : division cellulaire, C : triploïdes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Les 3 cellules micropylaires dégénèrent. Seule une des 4 cellules, la …..A….. ou macrospore se développe. Le noyau de cette macrospore subit …..B….. mitoses successives, ce qui donne …..C….. noyaux haploïdes (n) qui se repartissent dans 7 cellules dont l’ensemble constitue le sac embryonnaire.",
+      "réponses": {
+        "A": "A : microspore, B : deux, C : quatre",
+        "B": "A : mégaspore, B : trois, C : huit",
+        "C": "A : oosphère, B : une, C : deux",
+        "D": "A : synergide, B : quatre, C : douze"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

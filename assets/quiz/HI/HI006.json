@@ -1,0 +1,620 @@
+[
+{
+  "title": "Quiz 1",
+  "id": "HI006_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le statut administratif de l’Algérie sous la colonisation française ?",
+      "réponses": {
+        "A": "Une colonie d’exploitation rattachée au ministère des Colonies",
+        "B": "Un protectorat placé sous autorité musulmane",
+        "C": "Un département français intégré à la République depuis 1848",
+        "D": "Une région autonome sous mandat franco-britannique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi l’indépendance de l’Algérie était-elle refusée par les autorités françaises ?",
+      "réponses": {
+        "A": "Parce que l’Algérie n’était pas économiquement rentable",
+        "B": "Parce qu’elle était considérée comme une partie intégrante de la France et comptait une population européenne influente",
+        "C": "Parce qu’elle avait demandé un rattachement au Maroc",
+        "D": "Parce qu’elle avait déjà obtenu un statut fédéral"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles étaient les deux principales communautés en Algérie coloniale ?",
+      "réponses": {
+        "A": "Les Européens (Pieds-Noirs), citoyens français à part entière, et les Musulmans, discriminés par le Code de l’indigénat",
+        "B": "Les Espagnols et les Italiens, tous exclus de la vie politique",
+        "C": "Les Français de métropole et les Noirs africains",
+        "D": "Les Catholiques arabes et les Protestants turcs"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelles formes d’injustices frappaient les Musulmans algériens ?",
+      "réponses": {
+        "A": "Ils ne pouvaient pas cultiver leurs terres ni apprendre le français",
+        "B": "Ils étaient interdits de voyager hors d’Algérie",
+        "C": "Discriminations dans le droit, l’éducation, la propriété foncière et la représentation politique",
+        "D": "Ils étaient automatiquement déportés en cas de conflit"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Que réclame le Manifeste du peuple algérien de 1943 ?",
+      "réponses": {
+        "A": "La fusion avec la Tunisie et le Maroc",
+        "B": "L’indépendance immédiate et le départ des Européens",
+        "C": "Un statut autonome et l’égalité des droits pour les Algériens musulmans",
+        "D": "La nationalisation des terres coloniales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pourquoi la demande du Manifeste de 1943 est-elle légitime dans son contexte ?",
+      "réponses": {
+        "A": "Parce que la France perdait la guerre et n’avait plus de pouvoir",
+        "B": "Parce que les idéaux de liberté et d’égalité étaient défendus par les Alliés en pleine Seconde Guerre mondiale",
+        "C": "Parce que les États-Unis exigeaient l’indépendance de l’Algérie",
+        "D": "Parce que la Constitution de 1940 le garantissait"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelles étaient les limites des réformes proposées par la France après la guerre ?",
+      "réponses": {
+        "A": "Elles donnaient l’indépendance aux seuls Européens d’Algérie",
+        "B": "Elles accordaient des droits partiels sans égalité réelle, et maintenaient l’influence coloniale",
+        "C": "Elles supprimaient les élections locales",
+        "D": "Elles interdisaient la pratique de l’islam"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel événement tragique a montré la rupture entre la France et les aspirations des Algériens en mai 1945 ?",
+      "réponses": {
+        "A": "Le massacre de la Casbah d’Alger par les troupes allemandes",
+        "B": "La répression sanglante de Sétif, Guelma et Kherrata par l’armée française",
+        "C": "Le coup d’État du FLN contre le gouvernement français",
+        "D": "Le blocus économique organisé par le Maroc"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Pourquoi les violences de mai 1945 ont-elles radicalisé les nationalistes algériens ?",
+      "réponses": {
+        "A": "Elles ont prouvé que la France souhaitait une indépendance rapide",
+        "B": "Elles ont permis la création d’un gouvernement provisoire",
+        "C": "Elles ont révélé le refus catégorique du dialogue par la France et l’usage de la force pour maintenir l’ordre colonial",
+        "D": "Elles ont conduit à la réunification de l’Afrique du Nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle organisation politique nationaliste émerge dans les années 1940 ?",
+      "réponses": {
+        "A": "Le Parti Républicain Arabe",
+        "B": "L’Union Franco-Algérienne",
+        "C": "Le Parti du Peuple Algérien (PPA), ancêtre du FLN",
+        "D": "L’Organisation Communautaire Islamique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel rôle les inégalités économiques ont-elles joué dans le rejet du système colonial ?",
+      "réponses": {
+        "A": "Elles ont permis aux Européens de s’enrichir au profit des Musulmans",
+        "B": "Elles ont limité l’accès des Musulmans aux métiers techniques",
+        "C": "Elles ont accentué la pauvreté, le chômage et la marginalisation des Algériens",
+        "D": "Elles ont provoqué la fuite des élites vers la Libye"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Pourquoi les réformes de la IVe République n'ont-elles pas apaisé la situation ?",
+      "réponses": {
+        "A": "Parce qu’elles excluaient encore les Algériens des décisions importantes et maintenaient le double collège électoral",
+        "B": "Parce qu’elles favorisaient l’indépendance immédiate",
+        "C": "Parce qu’elles dissolvaient les syndicats européens",
+        "D": "Parce qu’elles favorisaient une immigration massive"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quelle est la spécificité du système électoral colonial mis en place en Algérie ?",
+      "réponses": {
+        "A": "Un droit de vote réservé aux femmes uniquement",
+        "B": "Un double collège qui favorise les Européens même minoritaires",
+        "C": "Un suffrage universel obligatoire dès l’âge de 16 ans",
+        "D": "Un vote communautaire basé sur la religion"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle fut la conséquence de l'échec du dialogue réformiste ?",
+      "réponses": {
+        "A": "La mise en place d’une fédération algéro-française",
+        "B": "Le passage progressif à la lutte armée comme solution considérée légitime",
+        "C": "Le démantèlement des partis politiques musulmans",
+        "D": "Le départ volontaire des colons"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelles catégories sociales musulmanes ont soutenu le nationalisme ?",
+      "réponses": {
+        "A": "Les ouvriers, les paysans, les étudiants et les anciens combattants frustrés",
+        "B": "Uniquement les chefs religieux traditionnels",
+        "C": "Les marchands juifs et les colons pauvres",
+        "D": "Les gouverneurs locaux et les administrateurs coloniaux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quelle organisation clandestine marque la rupture avec le pacifisme politique ?",
+      "réponses": {
+        "A": "Le Parti Libéral du Maghreb",
+        "B": "Le Conseil Islamique Algérien",
+        "C": "L’Organisation Spéciale (OS), bras armé des militants radicaux",
+        "D": "L’Union pour la Méditerranée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi la voie violente est-elle progressivement privilégiée par les indépendantistes ?",
+      "réponses": {
+        "A": "Parce que la Constitution française leur accordait le droit à la guerre",
+        "B": "Parce que tous les moyens légaux ont échoué et que la répression persistait",
+        "C": "Parce que l’ONU leur imposait cette solution",
+        "D": "Parce que l’Égypte leur promettait un appui militaire immédiat"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "En quoi la guerre d’Indochine a-t-elle influencé les nationalistes algériens ?",
+      "réponses": {
+        "A": "Elle a permis de développer l’agriculture coloniale",
+        "B": "Elle a convaincu les colons de négocier",
+        "C": "Elle a montré qu’un peuple colonisé pouvait vaincre une armée occidentale",
+        "D": "Elle a poussé la France à quitter l’Afrique du Nord"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelles leçons les militants algériens ont-ils tirées de la décolonisation asiatique ?",
+      "réponses": {
+        "A": "Que seule une lutte armée déterminée permettait d’obtenir l’indépendance face à un État colonial rigide",
+        "B": "Que la coopération économique suffisait pour obtenir plus de droits",
+        "C": "Que la division ethnique pouvait mener à la paix",
+        "D": "Que l’Europe abandonnait volontairement ses colonies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Pourquoi peut-on dire que le nationalisme violent en Algérie était une réponse ?",
+      "réponses": {
+        "A": "Parce que les colons étaient pacifiques",
+        "B": "Parce que les Musulmans voulaient étendre leur religion",
+        "C": "Parce qu’il s’est construit en réaction à une fermeture totale du système colonial à toute réforme égalitaire",
+        "D": "Parce que la guerre était populaire parmi les jeunes"
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI006_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les trois principaux partis nationalistes algériens créés entre 1926 et 1931, et qui en sont les fondateurs ?",
+      "réponses": {
+        "A": "ENA par Ben Badis, FLN par Abane Ramdane, PPA par Ferhat Abbas",
+        "B": "ENA par Messali Hadj, PPA par Messali Hadj, Association des Oulémas par Ben Badis",
+        "C": "MTLD par Messali Hadj, ENA par Ferhat Abbas, UDMA par Ben Khedda",
+        "D": "UDMA par Ben Badis, FLN par Messali Hadj, ENA par Ferhat Abbas"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que prévoyait le projet Blum-Viollette, et pourquoi a-t-il échoué ?",
+      "réponses": {
+        "A": "Il proposait une république autonome en Algérie, mais fut rejeté par le FLN",
+        "B": "Il voulait accorder la citoyenneté à une minorité musulmane, mais fut rejeté par les colons et abandonné",
+        "C": "Il offrait la pleine indépendance aux Musulmans, mais échoua faute de référendum",
+        "D": "Il envisageait l’autonomie religieuse, mais buta sur l’opposition de l’armée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles conséquences les émeutes de Sétif du 8 mai 1945 ont-elles sur les relations franco-algériennes ?",
+      "réponses": {
+        "A": "Elles ont permis l’adoption de réformes progressistes après négociation",
+        "B": "Elles entraînent une répression sanglante avec des milliers de morts musulmans et une rupture durable",
+        "C": "Elles provoquent une réforme immédiate du Code de l’Indigénat",
+        "D": "Elles débouchent sur la constitution d’un gouvernement algérien provisoire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Pourquoi les nationalistes rejettent-ils les réformes de 1947 ?",
+      "réponses": {
+        "A": "Parce qu'elles abolissaient les partis politiques algériens",
+        "B": "Parce qu'elles imposaient l’indépendance immédiate sans transition",
+        "C": "Parce qu'elles instaurent un double collège inégalitaire et une démocratie fictive",
+        "D": "Parce qu'elles favorisaient l’Islam politique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce que le CRUA, formé en 1954, et quel est son objectif ?",
+      "réponses": {
+        "A": "Un comité chargé de négocier l’autonomie dans le cadre français",
+        "B": "Une branche militaire du PPA destinée à sécuriser les élections",
+        "C": "Un groupe clandestin chargé de préparer la lutte armée pour l’indépendance",
+        "D": "Une organisation islamiste opposée au marxisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel rôle le MTLD joue-t-il dans la préparation de la lutte armée ?",
+      "réponses": {
+        "A": "Il lance immédiatement la guerre après l’échec des réformes",
+        "B": "Il fusionne avec le FLN en 1953 pour accélérer l'indépendance",
+        "C": "Il se divise, ce qui pousse les radicaux à créer le CRUA et planifier l’insurrection",
+        "D": "Il organise un référendum sur la séparation de l’Algérie et de la France"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel personnage est le plus lié à la naissance du nationalisme algérien moderne ?",
+      "réponses": {
+        "A": "Messali Hadj, fondateur de l’ENA et du PPA",
+        "B": "Ben Bella, futur dirigeant du FLN dès 1930",
+        "C": "Ferhat Abbas, partisan du rattachement permanent à la France",
+        "D": "Abane Ramdane, membre fondateur du mouvement ouvrier algérien"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Pourquoi l’ENA fut-elle dissoute par la France ?",
+      "réponses": {
+        "A": "Elle était trop proche du parti communiste algérien",
+        "B": "Elle était jugée subversive car elle réclamait l’indépendance algérienne dès 1927",
+        "C": "Elle avait refusé de participer aux élections locales",
+        "D": "Elle s’était alliée aux nazis pendant la Seconde Guerre mondiale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle de l’Association des Oulémas dans le nationalisme algérien ?",
+      "réponses": {
+        "A": "Elle militait pour la laïcité et la neutralité politique",
+        "B": "Elle appelait à l’alliance avec les colons européens",
+        "C": "Elle diffusait une identité culturelle arabo-musulmane pour résister à l’assimilation coloniale",
+        "D": "Elle soutenait uniquement les réformes éducatives de la République"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi le PPA fut-il considéré comme dangereux par les autorités coloniales ?",
+      "réponses": {
+        "A": "Parce qu’il appelait à l’indépendance et possédait une organisation bien structurée",
+        "B": "Parce qu’il prônait l’alliance militaire avec la Libye",
+        "C": "Parce qu’il visait uniquement l’autonomie interne dans l’Union Française",
+        "D": "Parce qu’il refusait toute participation politique et restait clandestin"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel est le lien entre Ferhat Abbas et les débuts du nationalisme algérien ?",
+      "réponses": {
+        "A": "Il fut un fervent indépendantiste dès les années 1930",
+        "B": "Il croyait initialement à une intégration égalitaire dans la République française avant d’évoluer vers l’indépendance",
+        "C": "Il s’allia au PPA dès 1926",
+        "D": "Il créa l’ENA avec Messali Hadj"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle est la stratégie du pouvoir colonial français après les événements de Sétif ?",
+      "réponses": {
+        "A": "Accélérer les négociations d’indépendance",
+        "B": "Remettre l’Algérie à l’ONU comme territoire sous tutelle",
+        "C": "Réprimer brutalement les révoltes tout en promettant des réformes illusoires",
+        "D": "Organiser une consultation populaire sur l’autonomie régionale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle est la particularité de l’Assemblée algérienne créée en 1947 ?",
+      "réponses": {
+        "A": "Elle était paritaire entre Musulmans et Européens",
+        "B": "Elle fonctionnait sur un système de double collège très inégalitaire",
+        "C": "Elle interdisait l’accès aux citoyens musulmans",
+        "D": "Elle disposait d’un pouvoir législatif autonome"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi les élections de 1948 en Algérie ont-elles provoqué des tensions ?",
+      "réponses": {
+        "A": "Elles ont abouti à la victoire écrasante du FLN",
+        "B": "Elles ont été entachées de fraudes massives contre les nationalistes",
+        "C": "Elles ont vu l’instauration du multipartisme",
+        "D": "Elles ont donné le pouvoir à un président élu musulman"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle a été la position des Oulémas face à la question nationale dans les années 1930–1940 ?",
+      "réponses": {
+        "A": "Revendiquer une indépendance culturelle et religieuse avant une autonomie politique",
+        "B": "Soutenir la fusion de l’Algérie avec la Syrie",
+        "C": "Combattre le port du voile et promouvoir le modèle républicain français",
+        "D": "Promouvoir la partition entre Nord et Sud algérien"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quel fut le principal effet des divisions internes au MTLD dans les années 1950 ?",
+      "réponses": {
+        "A": "La fin de la lutte politique par absorption dans le FLN",
+        "B": "Le ralliement au gouvernement français",
+        "C": "La naissance du CRUA, regroupant les éléments les plus déterminés à lancer la lutte armée",
+        "D": "L’adoption de l’autonomie dans le cadre de l’Union française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Pourquoi l'Union Démocratique du Manifeste Algérien (UDMA) se démarque-t-elle du PPA ?",
+      "réponses": {
+        "A": "Elle était favorable à une indépendance immédiate et armée",
+        "B": "Elle préférait une évolution progressive vers l’autonomie dans le respect de la légalité",
+        "C": "Elle soutenait le colonialisme éclairé",
+        "D": "Elle était dirigée par des religieux extrémistes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est la principale critique faite au projet de citoyenneté élargie proposé par la France ?",
+      "réponses": {
+        "A": "Il maintenait la domination coloniale en accordant des droits sans égalité réelle",
+        "B": "Il donnait trop de pouvoir aux élites religieuses",
+        "C": "Il supprimait la langue arabe de l’espace public",
+        "D": "Il imposait le service militaire obligatoire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Qu’est-ce qui caractérise le discours de Ferhat Abbas en 1943 ?",
+      "réponses": {
+        "A": "Il revendique l’indépendance totale et immédiate",
+        "B": "Il réclame une république algérienne autonome dans une Union Franco-Musulmane",
+        "C": "Il défend l’idée d’une monarchie islamique",
+        "D": "Il prône la fédération maghrébine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Pourquoi l’échec des réformes françaises a-t-il précipité l’option de la lutte armée ?",
+      "réponses": {
+        "A": "Parce que les partis communistes algériens ont exigé l’usage des armes",
+        "B": "Parce que toutes les tentatives de réformes ont été soit bloquées, soit vidées de leur contenu",
+        "C": "Parce que la France avait déjà promis l’indépendance en 1952",
+        "D": "Parce que l’ONU a voté une résolution en ce sens"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI006_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le rôle initial du CRUA dans le contexte algérien de 1954 ?",
+      "réponses": {
+        "A": "Il organisait des manifestations pacifiques contre les lois coloniales.",
+        "B": "Il regroupait des nationalistes modérés favorables à un compromis avec la France.",
+        "C": "Il organisait des soulèvements armés pour arracher l’indépendance.",
+        "D": "Il cherchait à négocier des réformes économiques avec le gouvernement français."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Pourquoi le 1er novembre 1954 est-il considéré comme une date fondatrice ?",
+      "réponses": {
+        "A": "C’est le jour où la France reconnaît l’autonomie de l’Algérie.",
+        "B": "C’est la date d’adoption du manifeste du FLN.",
+        "C": "C’est le début de la guerre d’Algérie, avec une série d’attentats.",
+        "D": "C’est le jour de l’indépendance proclamée par l’ALN."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle affirmation est correcte concernant le FLN ?",
+      "réponses": {
+        "A": "Il est fondé à Tunis par des anciens du MTLD.",
+        "B": "Il succède au CRUA et est créé à Alger.",
+        "C": "Il est exclusivement dirigé par des militaires.",
+        "D": "Il regroupe uniquement des membres du parti PPA-MTLD."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Le FLN a pour but :",
+      "réponses": {
+        "A": "De négocier un statut autonome sous contrôle français.",
+        "B": "De conserver les structures sociales traditionnelles.",
+        "C": "D’instaurer une monarchie constitutionnelle.",
+        "D": "De créer un État moderne et indépendant en Algérie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Le type de violence utilisé dans la guerre d’indépendance algérienne inclut :",
+      "réponses": {
+        "A": "Des bombardements nucléaires contre des zones rurales.",
+        "B": "Des assassinats ciblés d’hommes politiques uniquement.",
+        "C": "Des exactions contre les civils, les tortures et les attentats.",
+        "D": "Une guerre purement frontale entre deux armées régulières."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "En quoi la guerre d’Algérie diffère-t-elle des autres conflits coloniaux français ?",
+      "réponses": {
+        "A": "Elle n’a impliqué aucun civil.",
+        "B": "Elle s’est déroulée entièrement en dehors du territoire français.",
+        "C": "Elle a connu un usage massif de la torture et une guerre psychologique.",
+        "D": "Elle s’est terminée par une victoire militaire française."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’objectif de la Toussaint rouge ?",
+      "réponses": {
+        "A": "Célébrer l’unité entre les communautés algériennes.",
+        "B": "Réaliser un test d’armes dans le désert.",
+        "C": "Organiser une journée nationale de deuil pour les martyrs.",
+        "D": "Marquer symboliquement le début de la lutte armée."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "En quoi l'action du FLN a-t-elle été décisive dans l’internationalisation du conflit ?",
+      "réponses": {
+        "A": "En obtenant une reconnaissance immédiate de l’ONU.",
+        "B": "En limitant le conflit au territoire algérien.",
+        "C": "En médiatisant la cause et en mobilisant les pays du Tiers Monde.",
+        "D": "En signant un traité avec les États-Unis."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel fut le rôle de l’armée française durant la guerre ?",
+      "réponses": {
+        "A": "Elle s’est abstenue de tout acte répressif.",
+        "B": "Elle a pratiqué une répression brutale, incluant la torture.",
+        "C": "Elle a exclusivement défendu les civils.",
+        "D": "Elle a soutenu l’indépendance dès le début du conflit."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle est une conséquence sociale majeure de la guerre ?",
+      "réponses": {
+        "A": "L’amélioration des relations franco-algériennes.",
+        "B": "La disparition de toute violence communautaire.",
+        "C": "Un traumatisme durable dans la mémoire collective des deux pays.",
+        "D": "La création immédiate d’un régime démocratique stable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi le FLN se distingue-t-il des mouvements nationalistes précédents ?",
+      "réponses": {
+        "A": "Il privilégie le dialogue interreligieux.",
+        "B": "Il utilise le terrorisme urbain comme stratégie majeure.",
+        "C": "Il ne compte aucun ancien militant du MTLD.",
+        "D": "Il rejette tout contact avec la population paysanne."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle était l’attitude du gouvernement français au début de la guerre ?",
+      "réponses": {
+        "A": "Il reconnaît la guerre et propose un cessez-le-feu immédiat.",
+        "B": "Il nie qu’il s’agisse d’une guerre et parle d’opérations de maintien de l’ordre.",
+        "C": "Il accepte une médiation de l’ONU.",
+        "D": "Il retire ses troupes dès 1955 pour éviter l’escalade."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel rôle a joué le Général Massu pendant la bataille d’Alger ?",
+      "réponses": {
+        "A": "Il a négocié avec le FLN un accord de paix.",
+        "B": "Il a refusé d’utiliser la torture dans les interrogatoires.",
+        "C": "Il a dirigé la répression violente contre les indépendantistes.",
+        "D": "Il a combattu aux côtés des nationalistes algériens."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "La bataille d’Alger illustre :",
+      "réponses": {
+        "A": "L’absence totale de résistance armée.",
+        "B": "L’échec de la guérilla dans les villes.",
+        "C": "La brutalité de la répression française contre les civils.",
+        "D": "Le soutien populaire massif à la présence française."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle fut la position de l’ONU sur la guerre d’Algérie ?",
+      "réponses": {
+        "A": "Elle a reconnu l’Algérie indépendante dès 1954.",
+        "B": "Elle n’a jamais abordé le sujet officiellement.",
+        "C": "Elle a envoyé des troupes pour arbitrer le conflit.",
+        "D": "Elle a évoqué la question algérienne sous pression des pays non-alignés."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel rôle la diaspora algérienne a-t-elle joué dans la guerre ?",
+      "réponses": {
+        "A": "Aucun rôle significatif dans le conflit.",
+        "B": "Soutien moral sans implication politique.",
+        "C": "Financement du FLN et relais de propagande à l’étranger.",
+        "D": "Refus total de la lutte armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel fut le sort des Harkis après l’indépendance ?",
+      "réponses": {
+        "A": "Ils furent intégrés dans l’armée algérienne.",
+        "B": "Ils restèrent en Algérie dans la sécurité.",
+        "C": "Ils reçurent la nationalité française automatiquement.",
+        "D": "Beaucoup furent massacrés ou abandonnés."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "L’ALN (Armée de Libération Nationale) agit principalement :",
+      "réponses": {
+        "A": "En dehors du territoire algérien uniquement.",
+        "B": "Par des actions diplomatiques.",
+        "C": "Comme le bras armé du FLN contre la France.",
+        "D": "Comme une force de maintien de la paix."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est la spécificité du conflit algérien dans le cadre de la décolonisation ?",
+      "réponses": {
+        "A": "Il fut réglé rapidement sans intervention extérieure.",
+        "B": "Il opposa principalement deux armées étrangères.",
+        "C": "Il fut l’un des plus longs et sanglants des conflits coloniaux.",
+        "D": "Il aboutit à une colonisation renforcée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel accord met fin officiellement à la guerre d’Algérie ?",
+      "réponses": {
+        "A": "Les Accords de Genève signés en 1959.",
+        "B": "Les Accords de Bamako conclus avec le FLN.",
+        "C": "Les Accords d’Évian signés en mars 1962.",
+        "D": "Le Pacte d’Alger négocié par l’ONU."
+      },
+      "bonne réponse": "C"
+    }
+  }
+}
+]

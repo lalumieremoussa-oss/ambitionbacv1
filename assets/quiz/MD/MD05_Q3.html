@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+
+        <div id="quizForm" class="tex2jax_process"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data =
+            [
+                { "q": "Quelle est l'écriture complexe d'une similitude de centre $\\Omega(\\omega)$, de rapport $k$ et d'angle $\\theta$ ?", "options": { "A": "z' = ke^{i\\theta}(z + \\omega)", "B": "z' - \\omega = ke^{i\\theta}(z - \\omega)", "C": "z' = ke^{i\\theta}z - \\omega", "D": "z' = az + b" }, "r": "B" },
+                { "q": "Si $a \\in \\mathbb{R}^* \\setminus \\{1\\}$ dans $z' = az + b$, la transformation est :", "options": { "A": "Une translation", "B": "Une rotation", "C": "Une homothétie", "D": "Une similitude directe non réelle" }, "r": "C" },
+                { "q": "Pour une rotation d'angle $\\pi/3$, quelle est la forme algébrique du coefficient $a = e^{i\\pi/3}$ ?", "options": { "A": "1/2 + i\\sqrt{3}/2", "B": "\\sqrt{3}/2 + i/2", "C": "1 + i\\sqrt{3}", "D": "i/3" }, "r": "A" },
+                { "q": "Dans une homothétie de rapport négatif ($k < 0$), l'angle $\\theta$ de la similitude est :", "options": { "A": "0", "B": "\\pi/2", "C": "\\pi", "D": "2\\pi" }, "r": "C" },
+                { "q": "Quelle est l'affixe $\\omega$ du centre $\\Omega$ d'une similitude directe $z' = az + b$ ($a \\neq 1$) ?", "options": { "A": "\\omega = b / (a - 1)", "B": "\\omega = b / (1 - a)", "C": "\\omega = a / (1 - b)", "D": "\\omega = 1 - a + b" }, "r": "B" },
+                { "q": "Si $|a| = 1$ et $a \\neq 1$, la transformation est une :", "options": { "A": "Translation", "B": "Rotation", "C": "Homothétie", "D": "Similitude de rapport 2" }, "r": "B" },
+                { "q": "L'image $z'$ d'un point $z$ par une translation de vecteur d'affixe $b$ est :", "options": { "A": "z' = z + b", "B": "z' = az + b", "C": "z' = bz", "D": "z' = z - b" }, "r": "A" },
+                { "q": "Une similitude de centre $\\Omega(3+2i)$ et de rapport $k=4$ a pour équation :", "options": { "A": "z' - 4 = (3+2i)(z - 4)", "B": "z' - (3+2i) = 4(z - (3+2i))", "C": "z' = 4z + (3+2i)", "D": "z' = 4(z + 3 + 2i)" }, "r": "B" },
+                { "q": "Le rapport $k$ d'une similitude directe $z' = az + b$ est égal à :", "options": { "A": "arg(a)", "B": "|b|", "C": "|a|", "D": "Re(a)" }, "r": "C" },
+                { "q": "Si $z' = iz + 2$, l'angle de cette rotation est :", "options": { "A": "0", "B": "\\pi/2", "C": "\\pi", "D": "3\\pi/2" }, "r": "B" }
+            ]
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

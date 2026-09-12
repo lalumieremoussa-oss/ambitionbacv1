@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 3 - Partie A",
+  "id": "FR001_Q3_A",
+  "questions": {
+    "question n°1": {
+      "question": "En dehors des fonctions d’engagement et didactique, les autres fonctions de la littérature sont :",
+      "réponses": {
+        "A": "Politique et idéologique",
+        "B": "Esthétique, ludique et évasive",
+        "C": "Historique et scientifique",
+        "D": "Juridique et dogmatique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "L’art pour l’art signifie :",
+      "réponses": {
+        "A": "La littérature doit servir la morale religieuse",
+        "B": "L’œuvre n’a de valeur que si elle a une fonction sociale",
+        "C": "La littérature n’a d’autre but qu’elle-même",
+        "D": "Le style est secondaire face au message"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "En dissertation, \"l’art pour l’art\" est l’antithèse de :",
+      "réponses": {
+        "A": "L’humanisme littéraire",
+        "B": "La littérature de divertissement",
+        "C": "La littérature scientifique",
+        "D": "L’art pour le progrès"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "La fonction esthétique vise principalement à :",
+      "réponses": {
+        "A": "Manipuler les émotions du lecteur",
+        "B": "Instruire de façon directe",
+        "C": "Susciter le plaisir par la beauté de l’expression",
+        "D": "Présenter des données objectives"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Le mot esthétique renvoie à :",
+      "réponses": {
+        "A": "La conformité morale",
+        "B": "L’efficacité argumentative",
+        "C": "La beauté et la sensibilité artistique",
+        "D": "La rigueur scientifique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Une œuvre qui charme par la richesse de la langue et la musicalité relève de :",
+      "réponses": {
+        "A": "La fonction utilitaire",
+        "B": "La fonction esthétique",
+        "C": "La fonction argumentative",
+        "D": "La fonction philosophique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "La fonction ludique de la littérature se manifeste par :",
+      "réponses": {
+        "A": "L’usage rigide des règles grammaticales",
+        "B": "La dénonciation des injustices sociales",
+        "C": "Le jeu intellectuel, l’humour et l’évasion",
+        "D": "L’analyse rationnelle des faits"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Une œuvre qui fait rêver et transporte hors du réel illustre :",
+      "réponses": {
+        "A": "L’esthétique baroque",
+        "B": "La fonction didactique",
+        "C": "L’engagement indirect",
+        "D": "La fonction évasive"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Parmi les énoncés suivants, lequel correspond à la doctrine de Théophile Gautier ?",
+      "réponses": {
+        "A": "« L’art doit éduquer les peuples. »",
+        "B": "« L’art est utile seulement s’il est engagé. »",
+        "C": "« Il n’y a de vraiment beau que ce qui ne peut servir à rien. »",
+        "D": "« L’art est au service de la religion. »"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "« La littérature est un jeu » signifie que :",
+      "réponses": {
+        "A": "Elle ne doit pas être prise au sérieux",
+        "B": "Elle est uniquement destinée aux enfants",
+        "C": "Elle amuse et stimule l’imaginaire par l’invention",
+        "D": "Elle perd sa valeur si elle est belle"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Une œuvre appartenant à l’esthétique pure sera jugée sur :",
+      "réponses": {
+        "A": "Son utilité sociale",
+        "B": "Sa capacité à émouvoir politiquement",
+        "C": "La beauté de sa forme et la maîtrise du langage",
+        "D": "Son impact économique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La littérature évasive a pour fonction de :",
+      "réponses": {
+        "A": "Détourner l’attention du lecteur des enjeux majeurs",
+        "B": "Ouvrir un espace d’imaginaire et de rêve",
+        "C": "Remplacer les arts plastiques",
+        "D": "Éduquer de façon directe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel auteur est souvent associé au principe de « l’art pour l’art » ?",
+      "réponses": {
+        "A": "Jean-Paul Sartre",
+        "B": "Victor Hugo",
+        "C": "Théophile Gautier",
+        "D": "Aimé Césaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Une œuvre esthétique peut être qualifiée de réussie si :",
+      "réponses": {
+        "A": "Elle suit strictement les normes sociales",
+        "B": "Elle dénonce efficacement une injustice",
+        "C": "Elle provoque un plaisir intellectuel ou sensoriel",
+        "D": "Elle résume fidèlement un événement réel"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Dans le contexte littéraire, le mot \"ludique\" signifie :",
+      "réponses": {
+        "A": "Énigmatique",
+        "B": "Réaliste",
+        "C": "Récréatif, léger, fondé sur le jeu",
+        "D": "Archaïque"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Une œuvre peut être qualifiée de ludique si :",
+      "réponses": {
+        "A": "Elle repose sur l’humour et l’imagination",
+        "B": "Elle imite la réalité de façon stricte",
+        "C": "Elle ne présente aucune structure narrative",
+        "D": "Elle s’adresse à une élite érudite uniquement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "L’art pour l’art rejette :",
+      "réponses": {
+        "A": "La beauté formelle",
+        "B": "La fiction pure",
+        "C": "L’utilitarisme de la littérature",
+        "D": "L’esthétisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle œuvre illustre le mieux l’idée de l’art pour l’art ?",
+      "réponses": {
+        "A": "Les Mains sales de Sartre",
+        "B": "Préface de Cromwell de Hugo",
+        "C": "Émaux et Camées de Théophile Gautier",
+        "D": "Une saison au Congo de Césaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "La littérature peut se permettre des inventions irréelles parce que :",
+      "réponses": {
+        "A": "Elle doit tromper le lecteur",
+        "B": "Elle imite la réalité avec neutralité",
+        "C": "Elle offre une liberté créatrice permettant l’évasion",
+        "D": "Elle fonctionne comme un journal d’actualité"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "La fonction évasive de la littérature peut être rapprochée de :",
+      "réponses": {
+        "A": "L’analyse politique",
+        "B": "La rêverie, l’imaginaire et le fantastique",
+        "C": "L’exégèse religieuse",
+        "D": "La dissertation dialectique"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

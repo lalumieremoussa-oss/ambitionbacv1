@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour le progrès – La fonction engagée (3) : Dénonciations spécifiques – Trouve l'intrus",
+    "id": "FR023_Q2_Engage_Denonciations",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : Rebelle de Fatou Keïta. – Trouve l'intrus",
+            "reponses": {
+                "A": "Critique l'avarice et l'obsession de l'argent",
+                "B": "Dénonce les douleurs physiques et psychologiques de l'excision",
+                "C": "Met en scène une héroïne qui lutte contre une tradition violente",
+                "D": "Est un roman socioculturel engagé"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Œuvre : Les Soleils des Indépendances d'Ahmadou Kourouma. – Trouve l'intrus",
+            "reponses": {
+                "A": "Met en scène le personnage de Salimata victime d'excision",
+                "B": "Dénonce l'exploitation des enfants dans les mines",
+                "C": "Dénonce les conséquences irréversibles de l'excision (stérilité)",
+                "D": "Critique la corruption des dirigeants africains"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°3": {
+            "question": "Œuvre : Le Monde s'effondre de Chinua Achebe. – Trouve l'intrus",
+            "reponses": {
+                "A": "Interroge le poids des traditions à travers le sacrifice d'Ikemefuna",
+                "B": "Dénonce les coutumes violentes liées à la royauté",
+                "C": "Est un roman qui célèbre la colonisation comme progrès",
+                "D": "Critique les violences culturelles et religieuses"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : La mort et l'écuyer du roi de Wole Soyinka. – Trouve l'intrus",
+            "reponses": {
+                "A": "Critique des coutumes violentes liées à la royauté",
+                "B": "Est une pièce de théâtre engagée",
+                "C": "Interroge les rituels et la dignité humaine",
+                "D": "Dénonce les dérives de la colonisation portugaise"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : Respect des morts d'Amadou Koné. – Trouve l'intrus",
+            "reponses": {
+                "A": "Célèbre l'identité noire et la révolte contre l'oppression",
+                "B": "Réfléchit sur les rituels et la dignité humaine",
+                "C": "Interroge le poids des traditions funéraires",
+                "D": "Dénonce les sacrifices humains dans les coutumes ancestrales"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°6": {
+            "question": "Œuvre : Melancholia (dans Les Contemplations) de Victor Hugo. – Trouve l'intrus",
+            "reponses": {
+                "A": "Critique le travail des enfants à l'ère industrielle",
+                "B": "Met en lumière l'obsession maladive de l'argent",
+                "C": "Dénonce l'exploitation des plus faibles",
+                "D": "Est un poème engagé socialement"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°7": {
+            "question": "Œuvre : L'Avare de Molière. – Trouve l'intrus",
+            "reponses": {
+                "A": "Expose les conséquences de l'avarice sur les relations humaines",
+                "B": "Est une pièce de théâtre classique",
+                "C": "Dénonce les abus de la colonisation française",
+                "D": "Met en scène un personnage obsédé par l'argent"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°8": {
+            "question": "Auteur : Fatou Keïta. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une écrivaine ivoirienne engagée",
+                "B": "A écrit Rebelle sur l'excision",
+                "C": "A dénoncé les violences culturelles du mariage forcé",
+                "D": "A célébré l'identité noire et la révolte contre l'oppression"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "Auteur : Wole Soyinka. – Trouve l'intrus",
+            "reponses": {
+                "A": "A célébré la colonisation portugaise comme progrès civilisateur",
+                "B": "Est un dramaturge nigérian prix Nobel de littérature",
+                "C": "A écrit La mort et l'écuyer du roi sur les sacrifices rituels",
+                "D": "A dénoncé les coutumes violentes liées à la royauté yoruba"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°10": {
+            "question": "Auteur : Chinua Achebe. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un écrivain nigérian de renom",
+                "B": "A célébré la colonisation comme une bénédiction pour l'Afrique",
+                "C": "A écrit Le Monde s'effondre sur les traditions",
+                "D": "A dénoncé les sacrifices humains dans les cultures ancestrales"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°11": {
+            "question": "Auteur : Victor Hugo. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un poète engagé du XIXe siècle",
+                "B": "A écrit Melancholia sur le travail des enfants",
+                "C": "A dénoncé l'avarice et l'obsession de l'argent",
+                "D": "A écrit Les Contemplations, recueil lyrique et social"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°12": {
+            "question": "Auteur : Amadou Koné. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un écrivain ivoirien contemporain",
+                "B": "A écrit Respect des morts sur les rituels funéraires",
+                "C": "A dénoncé les sacrifices humains dans les traditions",
+                "D": "A célébré l'identité noire et la révolte contre l'oppression"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Œuvre : Le Monde s'effondre de Chinua Achebe. – Trouve l'intrus",
+            "reponses": {
+                "A": "L'œuvre célèbre les bienfaits de la colonisation",
+                "B": "Le sacrifice d'Ikemefuna interroge le poids des traditions",
+                "C": "Le roman dépeint l'arrivée des colons et ses conséquences",
+                "D": "Le héros Okonkwo est un personnage tragique"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Œuvre : Melancholia de Victor Hugo. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce le travail des enfants dans les manufactures",
+                "B": "Célèbre la beauté du travail manuel et la fierté ouvrière",
+                "C": "Critique l'injustice sociale du capitalisme naissant",
+                "D": "Est un poème engagé contre l'exploitation des faibles"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Œuvre : L'Avare de Molière. – Trouve l'intrus",
+            "reponses": {
+                "A": "Expose les conséquences de l'avarice sur les relations humaines",
+                "B": "Met en scène Harpagon dont l'avarice destructrice empoisonne sa famille",
+                "C": "Célèbre l'argent comme source de bonheur et de réussite sociale",
+                "D": "Dénonce les travers de l'accumulation matérielle"
+            },
+            "bonne reponse": "C"
+        }
+    }
+}

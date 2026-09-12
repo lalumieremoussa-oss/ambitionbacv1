@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Entraînement : Composés Oxygénés</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; 
+            padding: 15px; 
+            color: #333; 
+        }
+
+        .container { max-width: 800px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-top: 5px solid var(--orange-ivoire);
+        }
+
+        h1 { color: var(--orange-ivoire); font-size: 1.6rem; text-transform: uppercase; margin: 0; }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercise-title {
+            color: var(--orange-ivoire);
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 0.9rem;
+            margin-bottom: 15px;
+            display: block;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+
+        .question-text { font-weight: 600; font-size: 1.1rem; margin-bottom: 15px; display: block; line-height: 1.5; }
+
+        .option { 
+            display: flex; 
+            align-items: center;
+            padding: 14px; 
+            margin: 10px 0; 
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .option:hover { background: #fff4ee; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { margin-right: 15px; accent-color: var(--orange-ivoire); transform: scale(1.3); }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .feedback { margin-top: 12px; font-weight: bold; font-size: 0.95rem; }
+
+        .btn-submit { 
+            display: block; 
+            width: 100%; 
+            padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 1.2rem; 
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 40px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled { background: #ccc; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>Série d'Entraînement Intensive : Composés Oxygénés</h1>
+        <p>Progressez à travers ces 30 questions basées sur vos exercices d'analyse élémentaire et de réactivité.</p>
+    </div>
+    
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Valider mes réponses</button>
+</div>
+
+<script>
+    const data = [
+        // EXERCICE 1
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Le composé B contient 66,7% de C, 11,1% de H et un seul atome d'oxygène. Quelle est sa masse molaire $M$ ?",
+            "options": {
+                "A": "$58\\,g/mol$",
+                "B": "$72\\,g/mol$",
+                "C": "$86\\,g/mol$",
+                "D": "$44\\,g/mol$"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "À partir de $M = 72\\,g/mol$ et $C_nH_{2n}O$, déterminez la valeur de $n$.",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Quelle est donc la formule brute du composé B ?",
+            "options": {
+                "A": "$C_3H_6O$",
+                "B": "$C_4H_{10}O$",
+                "C": "$C_4H_8O$",
+                "D": "$C_5H_{10}O$"
+            },
+            "r": "C"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Le composé B réagit avec la 2,4-DNPH. Quelles sont les fonctions chimiques possibles ?",
+            "options": {
+                "A": "Alcool ou Aldéhyde",
+                "B": "Aldéhyde ou Cétone",
+                "C": "Cétone ou Acide",
+                "D": "Alcool ou Cétone"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Combien d'isomères carbonylés (aldéhydes + cétones) possède $C_4H_8O$ ?",
+            "options": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "B donne un précipité rouge brique avec la liqueur de Fehling. Sa fonction est :",
+            "options": {
+                "A": "Cétone",
+                "B": "Alcool primaire",
+                "C": "Aldéhyde",
+                "D": "Acide carboxylique"
+            },
+            "r": "C"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "On admet que B a une chaîne ramifiée. Quelle est sa formule semi-développée ?",
+            "options": {
+                "A": "$CH_3-CH_2-CH_2-CHO$",
+                "B": "$CH_3-CH(CH_3)-CHO$",
+                "C": "$CH_3-CO-CH_2-CH_3$",
+                "D": "$CH_3-CH_2-CHO$"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Quel est le nom de ce composé B (chaîne ramifiée) ?",
+            "options": {
+                "A": "Butanal",
+                "B": "Butan-2-one",
+                "C": "2-méthylpropanal",
+                "D": "Méthylpropan-2-ol"
+            },
+            "r": "C"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Le composé B est obtenu par oxydation d'un alcool A. Identifiez l'alcool A :",
+            "options": {
+                "A": "Butan-1-ol",
+                "B": "2-méthylpropan-1-ol",
+                "C": "2-méthylpropan-2-ol",
+                "D": "Propan-2-ol"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Quelle est la classe de l'alcool A (2-méthylpropan-1-ol) ?",
+            "options": {
+                "A": "Primaire",
+                "B": "Secondaire",
+                "C": "Tertiaire",
+                "D": "Saturée"
+            },
+            "r": "A"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "L'oxydation de B par le dichromate de potassium en milieu acide donne C. La fonction de C est :",
+            "options": {
+                "A": "Cétone",
+                "B": "Alcool secondaire",
+                "C": "Acide carboxylique",
+                "D": "Aldéhyde"
+            },
+            "r": "C"
+        },
+        {
+            "ex": "Exercice 1 : Analyse du composé B",
+            "q": "Quel est le nom du composé C obtenu ?",
+            "options": {
+                "A": "Acide butanoïque",
+                "B": "Acide 2-méthylpropanoïque",
+                "C": "2-méthylpropan-1-ol",
+                "D": "Propanone"
+            },
+            "r": "B"
+        },
+        // EXERCICE 2
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Le composé B a une masse molaire de $86\\,g/mol$. Quelle est sa formule brute ($C_nH_{2n}O$) ?",
+            "options": {
+                "A": "$C_4H_8O$",
+                "B": "$C_5H_{10}O$",
+                "C": "$C_6H_{12}O$",
+                "D": "$C_5H_{12}O$"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Vérifions le pourcentage de carbone pour $C_5H_{10}O$. Il est de :",
+            "options": {
+                "A": "66,7 %",
+                "B": "69,77 %",
+                "C": "72,1 %",
+                "D": "64,5 %"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Pourquoi B est-il qualifié de composé carbonylé ?",
+            "options": {
+                "A": "À cause du groupe $-OH$",
+                "B": "À cause de la liaison $C=O$ impliquée par la formule $C_nH_{2n}O$",
+                "C": "Parce qu'il contient du carbone",
+                "D": "Parce qu'il réagit avec l'eau"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Lequel de ces noms correspond à un isomère aldéhyde de $C_5H_{10}O$ ?",
+            "options": {
+                "A": "Pentan-2-one",
+                "B": "Pentanal",
+                "C": "Butan-2-one",
+                "D": "3-méthylbutan-2-one"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Quel est le nom de l'isomère cétone linéaire à 5 carbones ?",
+            "options": {
+                "A": "Pentan-1-one",
+                "B": "Pentan-2-one",
+                "C": "Méthylbutanone",
+                "D": "Propanone"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Quel test permet d'identifier globalement tous les isomères de B ?",
+            "options": {
+                "A": "Liqueur de Fehling",
+                "B": "Réactif de Schiff",
+                "C": "2,4-DNPH",
+                "D": "Réactif de Tollens"
+            },
+            "r": "C"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Quels isomères réagissent positivement au test de Tollens ?",
+            "options": {
+                "A": "Les cétones uniquement",
+                "B": "Les aldéhydes uniquement",
+                "C": "Tous les composés carbonylés",
+                "D": "Les alcools"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 2 : Composé B ($M=86\\,g/mol$)",
+            "q": "Combien d'aldéhydes isomères peut-on former avec $C_5H_{10}O$ ?",
+            "options": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "r": "C"
+        },
+        // EXERCICE 3
+        {
+            "ex": "Exercice 3 : Oxydation d'un alcool secondaire",
+            "q": "L'oxydation ménagée d'un alcool secondaire donne un composé F. Quelle est sa fonction ?",
+            "options": {
+                "A": "Aldéhyde",
+                "B": "Cétone",
+                "C": "Acide carboxylique",
+                "D": "Alcane"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 : Oxydation d'un alcool secondaire",
+            "q": "F contient 10,34 % d'hydrogène. En utilisant $C_nH_{2n}O$, calculez $M$.",
+            "options": {
+                "A": "$44\\,g/mol$",
+                "B": "$58\\,g/mol$",
+                "C": "$72\\,g/mol$",
+                "D": "$86\\,g/mol$"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 : Oxydation d'un alcool secondaire",
+            "q": "Quelle est la formule brute de F ($M = 58\\,g/mol$) ?",
+            "options": {
+                "A": "$C_2H_4O$",
+                "B": "$C_3H_6O$",
+                "C": "$C_3H_8O$",
+                "D": "$C_4H_8O$"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 : Oxydation d'un alcool secondaire",
+            "q": "Identifiez le nom unique possible pour F (cétone à 3 carbones) :",
+            "options": {
+                "A": "Propanal",
+                "B": "Propan-2-one (Propanone)",
+                "C": "Éthanal",
+                "D": "Butanone"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Exercice 3 : Oxydation d'un alcool secondaire",
+            "q": "Quel test est négatif pour F mais positif pour son isomère de fonction ?",
+            "options": {
+                "A": "DNPH",
+                "B": "Liqueur de Fehling",
+                "C": "Combustion",
+                "D": "Test au pH"
+            },
+            "r": "B"
+        },
+        // QUESTIONS DE SYNTHÈSE / LOGIQUE
+        {
+            "ex": "Synthèse",
+            "q": "L'ion permanganate $MnO_4^-$ utilisé à l'exercice 3 est de couleur :",
+            "options": {
+                "A": "Verte",
+                "B": "Violette",
+                "C": "Orange",
+                "D": "Incolore"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "Dans l'oxydation de l'alcool secondaire de l'exercice 3, l'alcool de départ était :",
+            "options": {
+                "A": "Propan-1-ol",
+                "B": "Propan-2-ol",
+                "C": "Éthanol",
+                "D": "Butan-2-ol"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "Si F avait été un aldéhyde, le réactif de Schiff serait devenu :",
+            "options": {
+                "A": "Bleu",
+                "B": "Rose violacé",
+                "C": "Jaune",
+                "D": "Noir"
+            },
+            "r": "B"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "Le miroir d'argent (Tollens) est dû à la réduction de quel ion ?",
+            "options": {
+                "A": "$Ag^+$",
+                "B": "$Cu^{2+}$",
+                "C": "$Fe^{3+}$",
+                "D": "$Mn^{2+}$"
+            },
+            "r": "A"
+        },
+        {
+            "ex": "Synthèse",
+            "q": "La formule générale d'une cétone est :",
+            "options": {
+                "A": "$R-CHO$",
+                "B": "$R-CO-R'$",
+                "C": "$R-COOH$",
+                "D": "$R-OH$"
+            },
+            "r": "B"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="exercise-title">${item.ex}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+                feedback.innerHTML = `<span style="color:var(--vert-ivoire)">✔ Correct</span>`;
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat : ${score} / ${data.length}`;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        if (window.ExerciceChannel) {
+            window.ExerciceChannel.postMessage(JSON.stringify({
+                "score": score,
+                "total": data.length
+            }));
+        }
+    }
+</script>
+
+</body>
+</html>

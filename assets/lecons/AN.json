@@ -1,0 +1,1483 @@
+{
+  "ANGLAIS": [
+    {
+      "level": "LEVEL 1 (6ÈME-5ÈME) – LET’S BEGIN!",
+      "lessons": [
+        {
+          "id": "AN01",
+          "titre": "The verbs to have and to be",
+          "sections": [
+            {
+              "id": "AN01_C1",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN01_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN01_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN01_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN01_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN01_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN02",
+          "titre": "Introducing oneself (1)",
+          "sections": [
+            {
+              "id": "AN02_C1",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN02_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN02_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN02_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN02_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN02_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "AN02_Q4",
+              "titre": "Quiz 4"
+            }
+          ]
+        },
+        {
+          "id": "AN03",
+          "titre": "Expressing oneself in the present tense",
+          "sections": [
+            {
+              "id": "AN03_C1",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN03_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN03_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN03_Q0",
+              "titre": "Quiz "
+            },
+            {
+              "id": "AN03_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN03_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN03_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "AN03_Q4",
+              "titre": "Quiz 4"
+            }
+          ]
+        },
+        {
+          "id": "AN04",
+          "titre": "Building correct sentences",
+          "sections": [
+            {
+              "id": "AN04_C1",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN04_C2",
+              "titre": "Lesson 2"
+            },
+            {
+              "id": "AN04_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN04_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN04_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN04_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN04_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "AN04_Q4",
+              "titre": "Quiz 4"
+            },
+            {
+              "id": "AN04_Q5",
+              "titre": "Quiz 5"
+            }
+          ]
+        },
+        {
+          "id": "AN05",
+          "titre": "Introducing oneself (2)",
+          "sections": [
+            {
+              "id": "AN05_C1",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN05_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN05_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN05_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN05_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN05_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN07",
+          "titre": "Number and time",
+          "sections": [
+            {
+              "id": "AN07_C1",
+              "titre": "Lesson 1: number"
+            },
+            {
+              "id": "AN07_C2",
+              "titre": "Lesson 2: time"
+            },
+            {
+              "id": "AN07_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN07_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN07_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN07_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN07_Q3",
+              "titre": "Quiz 3"
+            },
+            {
+              "id": "AN07_Q4",
+              "titre": "Quiz 4"
+            },
+            {
+              "id": "AN07_Q5",
+              "titre": "Quiz 5"
+            },
+            {
+              "id": "AN07_Q6",
+              "titre": "Quiz 6"
+            },
+            {
+              "id": "AN07_Q7",
+              "titre": "Quiz 7"
+            },
+            {
+              "id": "AN07_Q8",
+              "titre": "Quiz 8"
+            },
+            {
+              "id": "AN07_Q9",
+              "titre": "Quiz 9"
+            },
+            {
+              "id": "AN07_Q10",
+              "titre": "Quiz 10"
+            }
+          ]
+        },
+        {
+          "id": "AN08",
+          "titre": "Questions: What do you ...?",
+          "sections": [
+            {
+              "id": "AN08_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN08_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN08_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN08_Q1",
+              "titre": "Quiz 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "LEVEL 2 (4ÈME) – DAILY ENGLISH",
+      "lessons": [
+        {
+          "id": "AN11",
+          "titre": "At school",
+          "sections": [
+            {
+              "id": "AN11_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN11_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN11_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN11_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN11_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN11_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN12",
+          "titre": "At home",
+          "sections": [
+            {
+              "id": "AN12_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN12_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN12_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN12_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN12_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN12_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN13",
+          "titre": "Meals and food",
+          "sections": [
+            {
+              "id": "AN13_C1",
+              "titre": "Lesson: At the market"
+            },
+            {
+              "id": "AN13_C2",
+              "titre": "Lesson: What food do you like? "
+            },
+            {
+              "id": "AN13_C3",
+              "titre": "Lesson: Kitchen "
+            },
+            {
+              "id": "AN13_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN13_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN13_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN13_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN13_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN14",
+          "titre": "At the station",
+          "sections": [
+            {
+              "id": "AN14_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN14_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN14_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN14_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN14_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN14_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN15",
+          "titre": "Getting around town (asking for directions)",
+          "sections": [
+            {
+              "id": "AN15_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN15_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN15_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN15_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN15_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN15_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN16",
+          "titre": "At the sports field",
+          "sections": [
+            {
+              "id": "AN16_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN16_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN16_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN16_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN16_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN16_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "LEVEL 3 (3ÈME) – BEYOND BASICS",
+      "lessons": [
+        {
+          "id": "AN17",
+          "titre": "Ceremonies and celebrations",
+          "sections": [
+            {
+              "id": "AN17_C1",
+              "titre": "Lesson: What are you celebrating?"
+            },
+            {
+              "id": "AN17_C2",
+              "titre": "Lesson: Independence day: what are you celebrating?"
+            },
+            {
+              "id": "AN17_C3",
+              "titre": "Lesson: The yam festival"
+            },
+            {
+              "id": "AN17_C4",
+              "titre": "Lesson: Wedding"
+            },
+            {
+              "id": "AN17_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN17_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN17_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN17_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN17_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN18",
+          "titre": "Telling a past event",
+          "sections": [
+            {
+              "id": "AN18_C1",
+              "titre": "The past simple tense"
+            },
+            {
+              "id": "AN18_C2",
+              "titre": "methodology"
+            },
+            {
+              "id": "AN18_C3",
+              "titre": "subjet 1"
+            },
+            {
+              "id": "AN18_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN18_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN18_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN18_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN18_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN19",
+          "titre": "Writing an argumentative text",
+          "sections": [
+            {
+              "id": "AN19_C1",
+              "titre": "methodology"
+            },
+            {
+              "id": "AN19_C2",
+              "titre": "Teenage pregnancy in schools"
+            },
+            {
+              "id": "AN19_C3",
+              "titre": "The dangers of social media"
+            },
+            {
+              "id": "AN19_C4",
+              "titre": "The role of the girl child in society"
+            },
+            {
+              "id": "AN19_C5",
+              "titre": "The benefits of the Internet"
+            },
+            {
+              "id": "AN19_C6",
+              "titre": "The benefits of reading"
+            },
+            {
+              "id": "AN19_C7",
+              "titre": "The dangers of war"
+            },
+            {
+              "id": "AN19_C8",
+              "titre": "Forest protection"
+            },
+            {
+              "id": "AN19_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN19_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN19_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN19_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN19_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN21",
+          "titre": "Simple debates and short presentations: Methodology",
+          "sections": [
+            {
+              "id": "AN21_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN21_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN21_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN21_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN21_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN21_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN22",
+          "titre": "Simple debate: Corporal punishment in a child’s education",
+          "sections": [
+            {
+              "id": "AN22_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN22_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN22_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN22_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN22_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN22_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN23",
+          "titre": "Simple debate: The role of influencers in society",
+          "sections": [
+            {
+              "id": "AN23_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN23_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN23_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN23_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN23_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN23_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN24",
+          "titre": "Presentation: Artificial intelligence and students",
+          "sections": [
+            {
+              "id": "AN24_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN24_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN24_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN24_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN24_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN24_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "LEVEL 4 – CHANGE THE WORLD",
+      "lessons": [
+        {
+          "id": "AN31",
+          "titre": "Structured and complex debates: Methodology",
+          "sections": [
+            {
+              "id": "AN31_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN31_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN31_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN31_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN31_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN31_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN32",
+          "titre": "Complex debate: The economic independence of Black Africa – Myth or reality?",
+          "sections": [
+            {
+              "id": "AN32_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN32_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN32_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN32_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN32_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN32_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN33",
+          "titre": "Complex debate: “Today’s young people no longer want to work.” – What do you think?",
+          "sections": [
+            {
+              "id": "AN33_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN33_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN33_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN33_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN33_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN33_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN34",
+          "titre": "Open debate: “If schools did their job, every graduate would have a job” – What do you think?",
+          "sections": [
+            {
+              "id": "AN34_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN34_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN34_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN34_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN34_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN34_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "AN35",
+          "titre": "Open debate: The high cost of living – Who is responsible? The government or the people?",
+          "sections": [
+            {
+              "id": "AN35_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "AN35_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "AN35_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "AN35_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "AN35_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "AN35_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": "DICTIONNARY",
+      "lessons": [
+        {
+          "id": "ANDIC01",
+          "titre": "Les couleurs et les adjectifs qualificatifs",
+          "sections": [
+            {
+              "id": "ANDIC01_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC01_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC01_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC01_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC01_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC01_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC02",
+          "titre": "Les nombres, les quantités et les formes",
+          "sections": [
+            {
+              "id": "ANDIC02_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC02_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC02_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC02_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC02_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC02_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC03",
+          "titre": "Les objets courants du quotidien",
+          "sections": [
+            {
+              "id": "ANDIC03_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC03_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC03_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC03_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC03_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC03_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC04",
+          "titre": "Les jours, les mois, les saisons et les moments de la journée",
+          "sections": [
+            {
+              "id": "ANDIC04_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC04_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC04_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC04_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC04_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC04_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC05",
+          "titre": "Les adverbes et les prépositions de base",
+          "sections": [
+            {
+              "id": "ANDIC05_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC05_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC05_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC05_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC05_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC05_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC06",
+          "titre": "Les verbes d’action les plus fréquents",
+          "sections": [
+            {
+              "id": "ANDIC06_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC06_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC06_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC06_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC06_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC06_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC07",
+          "titre": "La famille et les relations sociales",
+          "sections": [
+            {
+              "id": "ANDIC07_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC07_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC07_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC07_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC07_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC07_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC08",
+          "titre": "Les vêtements et accessoires",
+          "sections": [
+            {
+              "id": "ANDIC08_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC08_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC08_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC08_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC08_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC08_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC09",
+          "titre": "Les lieux et les bâtiments",
+          "sections": [
+            {
+              "id": "ANDIC09_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC09_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC09_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC09_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC09_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC09_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC10",
+          "titre": "La nourriture et les boissons",
+          "sections": [
+            {
+              "id": "ANDIC10_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC10_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC10_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC10_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC10_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC10_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC11",
+          "titre": "L’école et les matières scolaires",
+          "sections": [
+            {
+              "id": "ANDIC11_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC11_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC11_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC11_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC11_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC11_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC12",
+          "titre": "Les activités quotidiennes et domestiques",
+          "sections": [
+            {
+              "id": "ANDIC12_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC12_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC12_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC12_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC12_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC12_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC13",
+          "titre": "Les moyens de transport et les déplacements",
+          "sections": [
+            {
+              "id": "ANDIC13_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC13_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC13_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC13_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC13_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC13_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC14",
+          "titre": "La météo et le climat",
+          "sections": [
+            {
+              "id": "ANDIC14_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC14_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC14_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC14_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC14_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC14_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC15",
+          "titre": "Les animaux",
+          "sections": [
+            {
+              "id": "ANDIC15_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC15_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC15_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC15_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC15_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC15_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC16",
+          "titre": "Les sentiments et émotions",
+          "sections": [
+            {
+              "id": "ANDIC16_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC16_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC16_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC16_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC16_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC16_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC17",
+          "titre": "Le corps humain et la santé",
+          "sections": [
+            {
+              "id": "ANDIC17_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC17_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC17_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC17_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC17_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC17_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC18",
+          "titre": "Les métiers et le monde du travail",
+          "sections": [
+            {
+              "id": "ANDIC18_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC18_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC18_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC18_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC18_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC18_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC19",
+          "titre": "Les loisirs et passe-temps",
+          "sections": [
+            {
+              "id": "ANDIC19_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC19_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC19_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC19_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC19_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC19_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        },
+        {
+          "id": "ANDIC20",
+          "titre": "La vie politique et économique",
+          "sections": [
+            {
+              "id": "ANDIC20_C",
+              "titre": "Lesson"
+            },
+            {
+              "id": "ANDIC20_V1",
+              "titre": "Vidéo 1"
+            },
+            {
+              "id": "ANDIC20_V2",
+              "titre": "Vidéo 2"
+            },
+            {
+              "id": "ANDIC20_Q1",
+              "titre": "Quiz 1"
+            },
+            {
+              "id": "ANDIC20_Q2",
+              "titre": "Quiz 2"
+            },
+            {
+              "id": "ANDIC20_Q3",
+              "titre": "Quiz 3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

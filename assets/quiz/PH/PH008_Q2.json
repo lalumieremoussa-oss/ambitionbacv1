@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 2",
+  "id": "PH008_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "L'Axe 2 du sujet du quiz précédent (\"Les limites du langage face à la complexité de la pensée\") met en évidence que le langage, bien qu'efficace, est un système :",
+      "réponses": {
+        "A": "Illimité et parfaitement adapté à exprimer l'intégralité de la pensée humaine, sans aucune perte ou déformation.",
+        "B": "Purement décoratif, sans aucune fonction réelle dans la structuration ou la communication des idées complexes.",
+        "C": "Intrinsèquement supérieur à la pensée elle-même, car il la précède et la détermine dans toutes ses formes et contenus.",
+        "D": "Limité face à la richesse infinie de la pensée humaine, ce qui signifie que certaines idées, émotions ou expériences échappent aux mots."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L'explication de l'Argument de l'Axe 2 souligne que des expériences comme l'émotion, le rêve, la douleur ou des intuitions intellectuelles sont souvent difficiles à exprimer car le langage :",
+      "réponses": {
+        "A": "N'est pas assez développé dans toutes les cultures pour pouvoir traduire ces phénomènes complexes.",
+        "B": "Est par nature trop rigide pour capturer la fluidité et l'informe de ces vécus intimes.",
+        "C": "Se limite uniquement à la description des faits objectifs et des réalités concrètes, sans rapport avec la subjectivité.",
+        "D": "Est un outil exclusivement rationnel, incapable de véhiculer des dimensions affectives ou inconscientes de l'esprit."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La phrase \"Le langage impose une forme à ce qui est parfois informe ou trop subtil\" signifie que :",
+      "réponses": {
+        "A": "La pensée est toujours claire et distincte avant d'être formulée, et le langage ne fait que la reproduire fidèlement sans y ajouter de structure.",
+        "B": "Le langage, par sa nature même, a la capacité de rendre clair et intelligible tout ce qui est obscur ou confus dans l'esprit humain.",
+        "C": "La complexité du langage est insuffisante pour saisir certaines réalités intérieures fluides, les forçant à s'adapter à des catégories qui ne les représentent pas totalement.",
+        "D": "L'absence de forme dans la pensée indique une pensée absurde ou inexistante, qui ne mérite pas d'être exprimée par des mots."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Maurice Merleau-Ponty rappelle que \"tant qu'elle n'est pas formulée, la pensée est un leurre\". Cependant, il reconnaît aussi que le langage :",
+      "réponses": {
+        "A": "Est la seule et unique preuve de l'existence de la pensée, sans laquelle aucune idée ne peut prendre corps ou être reconnue.",
+        "B": "Ne capte pas toujours toute la richesse intérieure, suggérant une part de la pensée qui résiste à une pleine verbalisation.",
+        "C": "Est un outil parfait qui permet toujours de traduire fidèlement la totalité de l'expérience vécue, sans aucune perte ou altération.",
+        "D": "Est fondamentalement trompeur et mensonger, empêchant la pensée d'atteindre sa véritable clarté et sa pleine expression."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La référence aux poètes, mystiques ou amoureux qui \"ressentent souvent qu'aucun mot ne suffit à dire ce qu'ils vivent\" illustre :",
+      "réponses": {
+        "A": "Leur manque de compétence linguistique, ne parvenant pas à trouver les mots justes pour exprimer des idées simples.",
+        "B": "La preuve que ces expériences sont purement imaginaires et n'ont aucune réalité objective en dehors de l'esprit.",
+        "C": "La limite du langage conventionnel à exprimer l'intensité, la profondeur ou l'unicité de certaines expériences subjectives et non-conceptuelles.",
+        "D": "Leur refus délibéré d'utiliser le langage, préférant le silence pour préserver le caractère sacré ou secret de leurs émotions."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Même René Descartes, qui lie langage et pensée, admet que les animaux peuvent ressentir sans pouvoir l'exprimer. Cette affirmation renforce l'idée que :",
+      "réponses": {
+        "A": "La pensée est entièrement réductible à des processus linguistiques et que les animaux, n'ayant pas de langage, ne pensent pas du tout.",
+        "B": "Le langage est la seule voie d'accès à la conscience et à la sensation, rendant les animaux dépourvus de toute forme de sensibilité.",
+        "C": "La sensation et l'expérience vécue (chez les animaux et par extension chez l'homme) peuvent exister indépendamment de la capacité de les formuler verbalement.",
+        "D": "Les animaux possèdent un langage secret et complexe, mais que l'homme n'est pas encore capable de déchiffrer ou de comprendre pleinement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "L'Argument de l'Axe 2 insiste sur le fait qu'il y a un \"écart entre ce que l'on pense profondément et ce que l'on peut dire clairement\". Cet écart révèle :",
+      "réponses": {
+        "A": "Une insuffisance structurelle du langage à traduire la totalité de la richesse et de la subtilité de la pensée, particulièrement dans ses dimensions non-rationnelles.",
+        "B": "Une défaillance intrinsèque de la pensée humaine, qui est par nature confuse et incapable de se clarifier elle-même.",
+        "C": "Un manque de volonté de la part de l'individu d'exprimer ses pensées les plus intimes et les plus complexes.",
+        "D": "La supériorité de la communication non-verbale, qui est toujours plus efficace et plus précise que l'expression par les mots."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "La notion de \"leurre\" appliquée à la pensée non formulée par Merleau-Ponty suggère que :",
+      "réponses": {
+        "A": "Toute pensée non verbalisée est une illusion trompeuse, sans aucune réalité ou existence concrète.",
+        "B": "La pensée, même confuse, est une entité parfaitement réelle et consciente avant toute expression.",
+        "C": "Le langage est un piège qui déforme la pensée, la rendant fausse et superficielle une fois qu'elle est traduite en mots.",
+        "D": "La pensée, si elle n'est pas exprimée, n'atteint pas son plein achèvement ou sa pleine clarté, risquant de rester indistincte pour soi-même et pour autrui."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "La \"richesse infinie de la pensée humaine\" (Argument) implique que la pensée :",
+      "réponses": {
+        "A": "Est une entité simple et homogène, facilement réductible à un ensemble fini de concepts et de définitions.",
+        "B": "Est limitée par les cadres linguistiques préexistants, incapable de générer des idées qui dépassent le vocabulaire et la grammaire.",
+        "C": "Comprend une multitude de nuances, d'associations, de sentiments et d'intuitions qui dépassent la capacité structurante et finie du langage verbal.",
+        "D": "Ne peut exister que sous forme fragmentée, sans aucune cohérence ou profondeur qui la rendrait difficile à exprimer dans son ensemble."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quand il est dit que \"le langage impose une forme\" à la pensée, cela signifie qu'il :",
+      "réponses": {
+        "A": "Libère la pensée de toute contrainte et lui permet d'exprimer son essence la plus profonde sans aucune limite.",
+        "B": "Organise et structure la pensée selon ses propres règles (syntaxe, grammaire, vocabulaire), ce qui peut ne pas correspondre parfaitement à la nature informelle de certaines idées ou émotions.",
+        "C": "Supprime toute originalité ou individualité de la pensée, la rendant conforme à des modèles prédéfinis et universels.",
+        "D": "N'a aucun impact sur la forme ou le contenu de la pensée, agissant comme un simple réceptacle passif et neutre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Le fait que les mystiques ressentent qu'aucun mot ne suffit à dire ce qu'ils vivent met en évidence la difficulté du langage à exprimer :",
+      "réponses": {
+        "A": "Les concepts scientifiques abstraits qui nécessitent un vocabulaire technique très précis.",
+        "B": "Les réalités quotidiennes et les faits objectifs qui sont facilement descriptibles par des mots simples.",
+        "C": "Les expériences spirituelles, transcendantes ou intérieures qui sont au-delà des catégories conventionnelles et de la logique verbale.",
+        "D": "Les informations pratiques et les instructions techniques qui ne requièrent qu'une communication claire et concise."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "L'expression \"écart entre ce que l'on pense profondément et ce que l'on peut dire clairement\" suggère une tension constante entre :",
+      "réponses": {
+        "A": "La volonté d'exprimer et la capacité intellectuelle de former des idées.",
+        "B": "La fluidité de la pensée intérieure et la rigidité nécessaire de l'expression verbale.",
+        "C": "La pensée collective et l'expression individuelle du langage.",
+        "D": "La clarté de la pensée intuitive et l'opacité de la pensée rationnelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'Axe 2 affirme que le langage est parfaitement illimité et capable d'exprimer l'infinie richesse de la pensée humaine sans aucune difficulté.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Des émotions fortes, des rêves ou des douleurs sont toujours facilement et parfaitement exprimables par les mots, sans aucune difficulté.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Maurice Merleau-Ponty soutient que la pensée, même non formulée, n'est jamais un \"leurre\" et existe pleinement dans sa clarté originelle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Les poètes et les amoureux sont cités comme des exemples de personnes qui trouvent toujours les mots exacts et suffisants pour exprimer la totalité de leurs expériences intimes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Descartes admet que les animaux peuvent ressentir sans pouvoir l'exprimer, ce qui suggère une possible existence de la sensation sans l'expression verbale.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "L'idée qu'il y a un \"écart entre ce que l'on pense profondément et ce que l'on peut dire clairement\" implique une parfaite adéquation entre la pensée et son expression linguistique.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Le langage, en imposant une forme à la pensée, la libère de toute contrainte et lui permet d'être totalement informe et spontanée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La conclusion générale de cet axe est que le langage est toujours un vecteur parfaitement fidèle et sans limite de la pensée humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

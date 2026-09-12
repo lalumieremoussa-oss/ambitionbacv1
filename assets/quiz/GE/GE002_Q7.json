@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 7",
+  "id": "GE002_Q7",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle était la situation de l'industrie ivoirienne avant l'indépendance ?",
+      "réponses": {
+        "A": "Elle produisait des véhicules pour l’Afrique de l’Ouest",
+        "B": "Elle était très développée grâce aux investissements locaux",
+        "C": "Elle concurrençait les industries européennes",
+        "D": "Elle était embryonnaire et dominée par la métropole"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Que signifie la politique d'import-substitution entre 1960 et 1970 ?",
+      "réponses": {
+        "A": "Favoriser l’importation de produits agricoles étrangers",
+        "B": "Investir uniquement dans les produits d’exportation",
+        "C": "Importer des produits de substitution de l’Europe",
+        "D": "Réduire les importations en valorisant les ressources locales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quel secteur a été particulièrement soutenu durant la période 1970-1980 ?",
+      "réponses": {
+        "A": "L’industrie lourde",
+        "B": "Le secteur des télécommunications",
+        "C": "Le secteur textile et agroalimentaire",
+        "D": "Le secteur des transports"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelle est la conséquence principale de la crise économique de 1980 à 1993 ?",
+      "réponses": {
+        "A": "Une modernisation massive des usines",
+        "B": "L’ouverture à de nouveaux marchés internationaux",
+        "C": "Le ralentissement de l'activité industrielle",
+        "D": "Une hausse de la consommation intérieure"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle structure a été créée en 1995 pour promouvoir l’investissement privé ?",
+      "réponses": {
+        "A": "SIR",
+        "B": "CIE",
+        "C": "CEPICI",
+        "D": "SODEFOR"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quelle industrie est considérée comme le « poumon » de l’économie industrielle ivoirienne ?",
+      "réponses": {
+        "A": "L’agroalimentaire",
+        "B": "L’industrie automobile",
+        "C": "L’industrie pétrolière",
+        "D": "Le textile"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle ville concentre plus de 60% de l'activité industrielle en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Bouaké",
+        "B": "Abidjan",
+        "C": "San-Pédro",
+        "D": "Yamoussoukro"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel problème majeur freine le développement industriel ivoirien ?",
+      "réponses": {
+        "A": "La surproduction industrielle",
+        "B": "Le manque de matières premières",
+        "C": "L’excès de main-d’œuvre qualifiée",
+        "D": "Le coût élevé de production"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle du code d’investissement ?",
+      "réponses": {
+        "A": "Favoriser l’importation massive",
+        "B": "Créer des sociétés publiques",
+        "C": "Accorder des avantages fiscaux aux investisseurs",
+        "D": "Nationaliser les entreprises étrangères"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelle est la principale raison de la baisse de l’industrie textile ?",
+      "réponses": {
+        "A": "L’augmentation du prix de l’électricité",
+        "B": "L’interdiction de l’exportation du coton",
+        "C": "La concurrence de la friperie et la contrebande",
+        "D": "La fermeture des ports"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l’un des objectifs des forums d’investissement organisés par le CEPICI ?",
+      "réponses": {
+        "A": "Promouvoir le tourisme balnéaire",
+        "B": "Nationaliser les entreprises étrangères",
+        "C": "Stimuler la consommation locale",
+        "D": "Montrer les potentialités économiques du pays"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quel pourcentage du PNB est fourni par le secteur industriel en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "10 %",
+        "B": "24 %",
+        "C": "36 %",
+        "D": "50 %"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quelle industrie emploie plus de 10 000 personnes dans environ 75 sociétés ?",
+      "réponses": {
+        "A": "L’industrie textile",
+        "B": "L’industrie métallurgique",
+        "C": "L’industrie du bois",
+        "D": "L’industrie chimique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelle est une solution proposée face à la non-compétitivité des produits ivoiriens ?",
+      "réponses": {
+        "A": "Augmenter les taxes douanières",
+        "B": "Fermer les marchés aux produits étrangers",
+        "C": "Créer une monnaie parallèle",
+        "D": "Améliorer la qualité et baisser les prix des produits locaux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Pourquoi parle-t-on de concentration industrielle à Abidjan ?",
+      "réponses": {
+        "A": "Parce qu’Abidjan est le siège de la présidence",
+        "B": "Car Abidjan possède une majorité d’entreprises agricoles",
+        "C": "Parce qu’Abidjan concentre plus de 60 % du tissu industriel",
+        "D": "Parce qu’elle est la capitale politique du pays"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelles sont les industries qui transforment les matières premières agricoles ?",
+      "réponses": {
+        "A": "Les industries pétrolières",
+        "B": "Les industries minières",
+        "C": "Les industries textiles",
+        "D": "Les industries agroalimentaires"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce qui freine l’essor des industries locales malgré les ressources disponibles ?",
+      "réponses": {
+        "A": "L'excès de formation technique",
+        "B": "La faiblesse du pouvoir d’achat et l’étroitesse du marché intérieur",
+        "C": "La disponibilité massive de capitaux",
+        "D": "L’ouverture limitée vers l’extérieur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle politique a marqué le redémarrage de l’industrie après 1994 ?",
+      "réponses": {
+        "A": "La guerre civile",
+        "B": "La suppression des taxes douanières",
+        "C": "La fermeture du CEPICI",
+        "D": "Le nouveau code d’investissement de 1995"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quelle est la contribution de l'industrie pétrolière et chimique dans le chiffre d'affaires industriel ?",
+      "réponses": {
+        "A": "10 %",
+        "B": "27 %",
+        "C": "37 %",
+        "D": "58,5 %"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Pourquoi promouvoir l’industrie lourde selon le document ?",
+      "réponses": {
+        "A": "Pour faire plaisir aux investisseurs étrangers",
+        "B": "Pour faciliter l'importation des machines",
+        "C": "Pour nationaliser les entreprises minières",
+        "D": "Parce qu’elle est la base de tout développement industriel"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

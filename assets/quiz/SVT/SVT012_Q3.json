@@ -1,0 +1,286 @@
+{
+  "id": "SVT012_Q3",
+  "title": "Quiz 3 : La Régulation de l'Eau et du Sodium",
+  "questions": {
+    "question n°1": {
+      "question": "En cas de déficit en eau dans l'organisme, que se passe-t-il au niveau de la volémie ?",
+      "réponses": {
+        "A": "Elle diminue.",
+        "B": "Elle augmente.",
+        "C": "Elle reste stable.",
+        "D": "Elle n'est pas affectée."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Quelle hormone est sécrétée par la posthypophyse en cas de déficit en eau ?",
+      "réponses": {
+        "A": "L'aldostérone.",
+        "B": "La rénine.",
+        "C": "L'ADH (hormone antidiurétique).",
+        "D": "L'angiotensine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Sur quelle partie du néphron l'ADH agit-elle principalement pour favoriser la réabsorption d'eau en cas de déficit ?",
+      "réponses": {
+        "A": "Les glomérules.",
+        "B": "L'anse de Henlé.",
+        "C": "Les tubules collecteurs.",
+        "D": "Les capsules de Bowman."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "En cas d'excès d'eau dans l'organisme, que se passe-t-il au niveau de la sécrétion d'ADH ?",
+      "réponses": {
+        "A": "Elle est fortement stimulée.",
+        "B": "Elle est inhibée.",
+        "C": "Elle reste inchangée.",
+        "D": "Elle est transformée en une autre hormone."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel est le résultat d'une faible réabsorption d'eau due à l'inhibition d'ADH en cas d'excès d'eau ?",
+      "réponses": {
+        "A": "Une chute du débit urinaire.",
+        "B": "Une diurèse élevée (élimination accrue d'eau).",
+        "C": "Une augmentation de la pression osmotique.",
+        "D": "Une stimulation des volorécepteurs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "En cas de déficit de Na+, que se passe-t-il au niveau de la pression osmotique ?",
+      "réponses": {
+        "A": "Elle diminue.",
+        "B": "Elle augmente.",
+        "C": "Elle reste normale.",
+        "D": "Elle fluctue de manière imprévisible."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelle enzyme est sécrétée par les reins en cas de déficit de Na+ ?",
+      "réponses": {
+        "A": "L'aldostérone.",
+        "B": "La rénine.",
+        "C": "L'angiotensine.",
+        "D": "L'ADH."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle protéine inactive est transformée en angiotensine par la rénine ?",
+      "réponses": {
+        "A": "L'aldostérone.",
+        "B": "L'ADH.",
+        "C": "La vasopressine",
+        "D": "L’angiotensinogène."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle glande stimule l'angiotensine pour sécréter l'aldostérone ?",
+      "réponses": {
+        "A": "La thyroïde.",
+        "B": "La parathyroïde.",
+        "C": "Les glandes corticosurrénales.",
+        "D": "Le pancréas."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "En cas d'excès de Na+, que se passe-t-il concernant la sécrétion de rénine ?",
+      "réponses": {
+        "A": "Elle est fortement stimulée.",
+        "B": "Elle est inhibée.",
+        "C": "Elle reste constante.",
+        "D": "Elle est convertie en aldostérone."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "En cas de déficit en eau, la pression osmotique de l'organisme diminue.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Les volorécepteurs et les osmorécepteurs sont stimulés en cas d'excès d'eau dans l'organisme.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "L'ADH favorise la réabsorption d'eau au niveau des tubules collecteurs, ce qui entraîne une chute du débit urinaire.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "En cas d'excès d'eau, le retour à une volémie normale est le résultat d'une forte réabsorption d'eau.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Un déficit de Na+ entraîne une augmentation de la pression osmotique.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Les osmorécepteurs carotidiens sont fortement stimulés en cas de déficit de Na+.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "L'aldostérone est l'hormone qui transforme l'angiotensinogène en angiotensine.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "L'angiotensine stimule la secretion d'aldostérone par les reins.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "En cas d'excès de Na+, le sodium en excès est éliminé dans l'urine.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "En cas d'excès de Na+, les osmorécepteurs sont fortement stimulés.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Lors d'un déficit en eau, la volémie [...A...] et la pression osmotique [...B...]. Cela stimule les volorécepteurs et osmorécepteurs, qui envoient un influx nerveux à l'[...C...] pour déclencher la sécrétion d'ADH.",
+      "réponses": {
+        "A": "A: augmente, B: diminue, C: reins",
+        "B": "A: diminue, B: augmente, C: hypothalamus",
+        "C": "A: reste stable, B: augmente, C: glandes surrénales",
+        "D": "A: diminue, B: diminue, C: coeur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "L'ADH, libérée par la [...A...], agit sur le néphron, en particulier au niveau des [...B...] collecteurs, pour favoriser la [...C...] d'eau, ce qui entraîne une chute du débit urinaire.",
+      "réponses": {
+        "A": "A: antéhypophyse, B: glomérules, C: filtration",
+        "B": "A: posthypophyse, B: tubules, C: réabsorption",
+        "C": "A: thyroïde, B: anses de Henlé, C: sécrétion",
+        "D": "A: surrénale, B: capsules de Bowman, C: élimination"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Lorsqu'il y a un excès d'eau, la volémie [...A...] et la pression osmotique [...B...]. Cela mène à une inhibition de la sécrétion d'ADH, résultant en une faible [...C...] d'eau et une diurèse élevée.",
+      "réponses": {
+        "A": "A : augmente, B : diminue, C : réabsorption",
+        "B": "A : diminue, B : augmente, C : filtration",
+        "C": "A: reste stable, B: augmente, C: sécrétion",
+        "D": "A: augmente, B: reste stable, C: élimination"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Un déficit de Na+ provoque une [...A...] de la pression osmotique, ce qui stimule fortement les osmorécepteurs carotidiens. Cela déclenche la sécrétion de [...B...] par les reins, qui transforme l'angiotensinogène en [...C...].",
+      "réponses": {
+        "A": "A: augmentation, B: aldostérone, C: ADH",
+        "B": "A: diminution, B: rénine, C: angiotensine",
+        "C": "A: stabilité, B: ADH, C: rénine",
+        "D": "A: hausse, B: angiotensine, C: rénine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "L'angiotensine stimule la sécrétion d'[...A...] par les glandes [...B...]. Cette hormone agit sur le néphron pour favoriser la [...C...] du sodium, ramenant la pression osmotique à la normale.",
+      "réponses": {
+        "A": "A: ADH, B: thyroïdes, C: élimination",
+        "B": "A: rénine, B: pancréas, C: filtration",
+        "C": "A: aldostérone, B: corticosurrénales, C: réabsorption",
+        "D": "A: vasopressine, B: parathyroïdes, C: excrétion"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "En cas d'excès de Na+, la pression osmotique [...A...]. Les osmorécepteurs sont [...B...] stimulés, ce qui inhibe la sécrétion de rénine et la cascade angiotensine/aldostérone. Le sodium en excès est alors [...C...] dans l'urine.",
+      "réponses": {
+        "A": "A: diminue, B: fortement, C: retenu",
+        "B": "A: augmente, B: peu, C: éliminé",
+        "C": "A: reste stable, B: très, C: réabsorbé",
+        "D": "A: varie, B: normalement, C: stocké"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Lorsque l'organisme est en déficit en eau, l'hypothalamus reçoit un influx nerveux des [...A...] et des [...B...], ce qui déclenche la sécrétion d'[...C...] par la posthypophyse.",
+      "réponses": {
+        "A": "A: néphrons, B: reins, C: rénine",
+        "B": "A : tubules, B : glomérules, C : angiotensine",
+        "C": "A: glandes surrénales, B: carotides, C: aldostérone",
+        "D": "A : volorécepteurs, B : osmorécepteurs, C : ADH"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "Une [...A...] réabsorption d'eau due à l'inhibition d'ADH en cas d'excès d'eau conduit à une [...B...] élevée, ce qui signifie une élimination [...C...] d'eau par les reins.",
+      "réponses": {
+        "A": "A: forte, B: diurèse basse, C: faible",
+        "B": "A: faible, B: diurèse élevée, C: accrue",
+        "C": "A: nulle, B: pression osmotique, C: réduite",
+        "D": "A: moyenne, B: volémie normale, C: progressive"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "Le déficit en Na+ mène à une diminution de la [...A...] osmotique. Pour compenser, les reins sécrètent de la [...B...], qui initie une cascade aboutissant à la production d'[...C...] et à la réabsorption de sodium.",
+      "réponses": {
+        "A": "A: pression, B: aldostérone, C: ADH",
+        "B": "A: volémie, B: angiotensine, C: rénine",
+        "C": "A: pression, B: rénine, C: aldostérone",
+        "D": "A: concentration, B: ADH, C: angiotensinogène"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°30": {
+      "question": "Lors d'un excès de Na+, la pression osmotique [...A...]. Les osmorécepteurs sont [...B...] stimulés, ce qui a pour conséquence d'inhiber la cascade rénine-angiotensine-aldostérone et de permettre l'[...C...] du sodium en excès dans l'urine.",
+      "réponses": {
+        "A": "A: diminue, B: fortement, C: réabsorption",
+        "B": "A : varie, B : très, C : conservation",
+        "C": "A: reste stable, B: normalement, C: stockage",
+        "D": "A : augmente, B : peu, C : élimination"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

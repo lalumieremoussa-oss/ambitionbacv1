@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+    </div>
+
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            { "q": "Soit $U_{n+1} = 2U_n + 3$ et $V_n = U_n + 3$. Quelle est la nature de la suite $(V_n)$ ?", "options": { "A": "Arithmétique", "B": "Géométrique", "C": "Ni arithmétique ni géométrique", "D": "Constante" }, "r": "B" },
+            { "q": "Soit $U_{n+1} = \\frac{U_n}{1 + 3U_n}$ et $V_n = \\frac{1}{U_n}$. Quelle est la nature de la suite $(V_n)$ ?", "options": { "A": "Arithmétique", "B": "Géométrique", "C": "Ni arithmétique ni géométrique", "D": "Divergente" }, "r": "A" },
+            { "q": "Soit $U_{n+1} = U_n^2$. Quelle est la nature de la suite $(U_n)$ ?", "options": { "A": "Arithmétique", "B": "Géométrique", "C": "Ni arithmétique ni géométrique", "D": "Périodique" }, "r": "C" },
+            { "q": "Soit $U_{n+1} = 3U_n - 4$ et $V_n = U_n - 2$. Quelle est la raison de la suite $(V_n)$ ?", "options": { "A": "r = 3", "B": "q = 3", "C": "q = -4", "D": "r = -2" }, "r": "B" },
+            { "q": "Soit $U_{n+1} = U_n + 2n$. Quelle est la nature de la suite $(U_n)$ ?", "options": { "A": "Arithmétique", "B": "Géométrique", "C": "Ni arithmétique ni géométrique", "D": "Arithmético-géométrique" }, "r": "C" },
+            { "q": "Soit $V_n = U_n - 6$ une suite géométrique de raison $1/2$. Quelle est la limite de $U_n$ ?", "options": { "A": "0", "B": "6", "C": "1/2", "D": "+\\infty" }, "r": "B" },
+            { "q": "Pour $U_{n+1} = 0,5U_n + 3$ avec $U_0 = 1$, la suite $(U_n)$ est-elle croissante ?", "options": { "A": "Oui, car $U_{n+1} - U_n > 0$", "B": "Non, elle est décroissante", "C": "Elle est constante", "D": "On ne peut pas savoir" }, "r": "A" },
+            { "q": "Si $V_n = -5 \\times (1/2)^n$, quelle est la somme $S_n = V_0 + ... + V_n$ ?", "options": { "A": "-10(1 - (1/2)^{n+1})", "B": "-5(1 - (1/2)^n)", "C": "-10(1 - (1/2)^n)", "D": "-5n + 1/2" }, "r": "A" },
+            { "q": "Soit $U_n = 3 \\times 2^n + 5$. Quelle est la nature de $(U_n)$ ?", "options": { "A": "Arithmétique", "B": "Géométrique", "C": "Ni arithmétique ni géométrique", "D": "Constante" }, "r": "C" },
+            { "q": "Dans $U_{n+1} = 2U_n - 3$ avec $V_n = U_n - 3$, si $U_0 = 2$, quelle est la valeur de $V_0$ ?", "options": { "A": "2", "B": "3", "C": "-1", "D": "0" }, "r": "C" },
+            { "q": "Un capital de 10 000 F CFA est placé à 5% d'intérêts composés par an. La suite des capitaux est :", "options": { "A": "Arithmétique de raison 500", "B": "Géométrique de raison 1,05", "C": "Géométrique de raison 0,05", "D": "Ni l'un ni l'autre" }, "r": "B" },
+            { "q": "Le prix d'un loyer de 50 000 F augmente de 2 000 F chaque année. Quelle est la formule explicite ?", "options": { "A": "U_n = 50000 \\times 1,02^n", "B": "U_n = 50000 + 2000n", "C": "U_n = 52000n", "D": "U_n = 50000 \\times n + 2000" }, "r": "B" },
+            { "q": "Une population de 1000 bactéries diminue de 20% chaque heure. Quelle est la raison $q$ de cette suite ?", "options": { "A": "0,2", "B": "-0,2", "C": "0,8", "D": "1,2" }, "r": "C" },
+            { "q": "Un forage coûte 5 000 F le 1er mètre, puis 1 000 F de plus par mètre. Quel est le coût du 10ème mètre ?", "options": { "A": "15 000 F", "B": "14 000 F", "C": "10 000 F", "D": "60 000 F" }, "r": "B" },
+            { "q": "Un épargnant dépose 5 000 F le 1er mois, puis augmente chaque mois son dépôt de 10%. Quelle est la nature de ses dépôts ?", "options": { "A": "Géométrique de raison 1,1", "B": "Arithmétique de raison 500", "C": "Géométrique de raison 0,1", "D": "Arithmétique de raison 1,1" }, "r": "A" }
+        ]
+
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

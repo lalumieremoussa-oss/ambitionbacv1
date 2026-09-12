@@ -1,0 +1,321 @@
+{
+  "title": "Quiz Allemand 5 - Se présenter et décrire",
+  "id": "DE04_Q5",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Mein Name ist Mariam.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Name",
+        "ist",
+        "bin",
+        "wohne",
+        "Mariam",
+        "Mein",
+        "Ich",
+        "Familie"
+      ],
+      "bonne réponse": "Mein Name ist Mariam"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Ich wohne bei meiner Familie.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "wohne",
+        "Familie",
+        "Zimmer",
+        "Ich",
+        "seiner",
+        "bei",
+        "wohnt",
+        "seinen",
+        "meiner",
+        "er"
+      ],
+      "bonne réponse": "Ich wohne bei meiner Familie"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Mein Vater heißt Ali.\" (Le nom de mon père est Ali)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "der",
+        "ist",
+        "meiner",
+        "Mutter",
+        "Vaters",
+        "Name",
+        "Meines",
+        "Ali"
+      ],
+      "bonne réponse": "Der Name meines Vaters ist Ali"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Meine Mutters Tasche ist groß.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "klein",
+        "groß",
+        "Die",
+        "kleine",
+        "ist",
+        "Mutter",
+        "meiner",
+        "Tasche",
+        "von",
+        "Buch"
+      ],
+      "bonne réponse": "Die Tasche meiner Mutter ist groß"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"Ich habe ein kleines Zimmer.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "habe",
+        "ein",
+        "kleines",
+        "Zimmer",
+        "großes",
+        "Ich",
+        "eine",
+        "groß"
+      ],
+      "bonne réponse": "Ich habe ein kleines Zimmer"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Das Fenster meines Zimmers ist offen.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "das",
+        "die",
+        "geschlossen",
+        "Zimmers",
+        "ist",
+        "meines",
+        "offen",
+        "Fenster",
+        "Tür",
+        "Schwester"
+      ],
+      "bonne réponse": "Das Fenster meines Zimmers ist offen"
+    },
+    "question n°7": {
+      "question": "Traduisez : \"Ich lese mein Buch jeden Abend.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ich",
+        "jeden",
+        "Morgen",
+        "Abend",
+        "weiß",
+        "lese",
+        "das",
+        "Buch",
+        "spreche",
+        "mein"
+      ],
+      "bonne réponse": "Ich lese mein Buch jeden Abend"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Die Schule meiner Schwester ist nah.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "weit",
+        "ist",
+        "Schule",
+        "der",
+        "Die",
+        "von",
+        "das",
+        "nah",
+        "Schwester",
+        "meiner"
+      ],
+      "bonne réponse": "Die Schule meiner Schwester ist nah"
+    },
+    "question n°9": {
+      "question": "Traduisez : \"Ihre Freunde sind nett.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ihre",
+        "ihre",
+        "Freunde",
+        "böse",
+        "Sie",
+        "sind",
+        "nett",
+        "sie",
+        "sind"
+      ],
+      "bonne réponse": "Ihre Freunde sind nett"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"Unser Haus ist sauber.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "schmutzig",
+        "unseres",
+        "Unser",
+        "sauber",
+        "Haus",
+        "ihr",
+        "ist",
+        "klein"
+      ],
+      "bonne réponse": "Unser Haus ist sauber"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Das Klassenzimmer der Kinder ist groß.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "die",
+        "Kinder",
+        "klein",
+        "das",
+        "ist",
+        "der",
+        "Klassenzimmer",
+        "Raum",
+        "Haus",
+        "groß"
+      ],
+      "bonne réponse": "Das Klassenzimmer der Kinder ist groß"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Das Haus meiner Eltern ist schön.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Das",
+        "Mein",
+        "Haus",
+        "schön",
+        "Vater",
+        "ist",
+        "meiner",
+        "Schwester",
+        "der",
+        "Eltern"
+      ],
+      "bonne réponse": "Das Haus meiner Eltern ist schön"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Ich liebe meine Familie sehr.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "liebe",
+        "meine",
+        "wie",
+        "sehr",
+        "viel",
+        "hassen",
+        "Ich",
+        "Familie"
+      ],
+      "bonne réponse": "Ich liebe meine Familie sehr"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Ich wohne bei meiner Familie.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ich",
+        "bei",
+        "ihrer",
+        "Hause",
+        "du",
+        "wohne",
+        "Familie",
+        "meiner"
+      ],
+      "bonne réponse": "Ich wohne bei meiner Familie"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Die Tasche meiner Mutter ist groß.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mutter",
+        "Meiner",
+        "Vaters",
+        "ist",
+        "Zimmer",
+        "Tasche",
+        "klein",
+        "groß"
+      ],
+      "bonne réponse": "Meiner Mutter Tasche ist groß"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Ich habe ein kleines Zimmer.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "kleines",
+        "habe",
+        "großes",
+        "Zimmer",
+        "Sie",
+        "ist",
+        "Ich",
+        "ein"
+      ],
+      "bonne réponse": "Ich habe ein kleines Zimmer"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Die Schule meiner Schwester ist nah.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Haus",
+        "Meiner",
+        "nah",
+        "Bruders",
+        "ist",
+        "Schule",
+        "weit",
+        "Schwester"
+      ],
+      "bonne réponse": "Meiner Schwester Schule ist nah"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Ihre Freunde sind nett.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sind",
+        "ist",
+        "Ihre",
+        "traurig",
+        "Unsere",
+        "Junge",
+        "Freunde",
+        "nett"
+      ],
+      "bonne réponse": "Ihre Freunde sind nett"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Unser Haus ist sauber.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "sauber",
+        "ihr",
+        "schmutzig",
+        "Zimmer",
+        "Haus",
+        "Unser",
+        "Schule"
+      ],
+      "bonne réponse": "Unser Haus ist sauber"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Das Klassenzimmer der Kinder est groß.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ist",
+        "Das",
+        "Eltern",
+        "klein",
+        "groß",
+        "Klassenzimmer",
+        "Kinder",
+        "mein"
+      ],
+      "bonne réponse": "Das Klassenzimmer der Kinder ist groß"
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "id": "SVT012_Q1",
+  "title": "Quiz1 : le milieu intérieur et la structure du rein",
+  "questions": {
+    "question n°1": {
+      "question": "Qu’est-ce que la cellule représente pour les organismes vivants ?",
+      "réponses": {
+        "A": "Une unité secondaire et décorative.",
+        "B": "Une unité fondamentale, structurale et fonctionnelle.",
+        "C": "Une unité de stockage d’énergie uniquement.",
+        "D": "Une unité transitoire et non essentielle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels sont les trois principaux composants qui constituent le milieu intérieur ?",
+      "réponses": {
+        "A": "Le sang, l’urine et la salive.",
+        "B": "Le plasma, la lymphe canalaire et la lymphe interstitielle.",
+        "C": "Les enzymes, les hormones et les neurotransmetteurs.",
+        "D": "L’eau, les minéraux et les vitamines."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est l’unité fonctionnelle du rein ?",
+      "réponses": {
+        "A": "La pyramide de Malpighi.",
+        "B": "La capsule fibreuse.",
+        "C": "Le cortex rénal.",
+        "D": "Le néphron."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Le milieu intérieur sert de milieu de vie aux cellules, leur permettant de puiser ce dont elles ont besoin et d’éliminer leurs déchets.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Le rein ne comporte qu’une seule zone principale, la zone corticale.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "La zone médullaire du rein contient des pyramides de Malpighi et des portions de néphrons.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Le rein est un organe qui a une forme d’haricot. Chez l’homme, il comporte deux zones : la zone […A…] ou le cortex rénal, et la zone […B…], qui contient des […C…] de Malpighi.",
+      "réponses": {
+        "A": "A : médullaire, B : corticale, C : néphrons",
+        "B": "A : corticale, B : médullaire, C : pyramides",
+        "C": "A : interne, B : externe, C : tubes",
+        "D": "A : fibreuse, B : glomérulaire, C : capillaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Le milieu intérieur est constitué par le […A…] (55% de la masse sanguine), la […B…] canalaire, et la lymphe […C…] ou liquide interstitiel.",
+      "réponses": {
+        "A": "A : sang, B : plasma, C : intraveineuse",
+        "B": "A : urine, B : bile, C : cellulaire",
+        "C": "A : sérum, B : globules, C : extracellulaire",
+        "D": "A : plasma, B : lymphe, C : interstitielle"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "La lettre ‘a’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Cortex rénal",
+        "B": "Médulla rénale",
+        "C": "Capsule rénale",
+        "D": "Pyramide de Malpighi"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "La lettre ‘b’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Cortex rénal",
+        "B": "Capsule rénale",
+        "C": "Calice mineur",
+        "D": "Bassinet"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "La lettre ‘c’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Colonne de Bertin",
+        "B": "Pyramide de Malpighi",
+        "C": "Médulla rénale",
+        "D": "Calice majeur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "La lettre ‘d’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Artère rénale",
+        "B": "Veine rénale",
+        "C": "Calice mineur",
+        "D": "Bassinet"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "La lettre ‘e’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Uretère",
+        "D": "Nœud lymphatique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "La lettre ‘f’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Artère rénale",
+        "B": "Veine rénale",
+        "C": "Uretère",
+        "D": "Nerf rénal"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La lettre ‘g’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Calice mineur",
+        "B": "Calice majeur",
+        "C": "Bassinet",
+        "D": "Uretère"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "La lettre ‘h’ désigne :",
+      "image": "assets/images/svt/rein.png",
+      "réponses": {
+        "A": "Bassinet",
+        "B": "Veine rénale",
+        "C": "Artère rénale",
+        "D": "Uretère"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Le numéro 1 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "réponses": {
+        "A": "Artériole afférente",
+        "B": "Glomérule",
+        "C": "Capsule de Bowman",
+        "D": "Artériole efférente"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Le numéro 2 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "réponses": {
+        "A": "Tubule contourné distal",
+        "B": "Tube collecteur",
+        "C": "Tube contourné proximal",
+        "D": "Anse de Henlé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Le numéro 3 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "réponses": {
+        "A": "Tubule contourné proximal",
+        "B": "Tube collecteur",
+        "C": "Tubule contourné distal",
+        "D": "Anse de Henlé"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Le numéro 4 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tubule contourné distal",
+        "C": "Anse de Henlé",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Le numéro 5 désigne :",
+      "image": "assets/images/svt/nephron.png",
+      "réponses": {
+        "A": "Tubule contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Tubule contourné distal",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

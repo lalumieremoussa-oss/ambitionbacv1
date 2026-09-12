@@ -1,0 +1,397 @@
+{
+  "id": "SVT012_Q4",
+  "title": "Quiz 4 : perfectionnement",
+  "questions": {
+    "question n°1": {
+      "question": "La réabsorption du glucose :",
+      "réponses": {
+        "A": "Peut-être passive ou active",
+        "B": "Est uniquement active",
+        "C": "Est uniquement passive."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "La réabsorption du glucose se fait au niveau :",
+      "réponses": {
+        "A": "De la capsule de Bowman.",
+        "B": "Du tube collecteur.",
+        "C": "Des vaisseaux sanguins.",
+        "D": "Du tubule contourné proximal."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Le rein joue le rôle de :",
+      "réponses": {
+        "A": "Filtration – sécrétion – élimination",
+        "B": "Filtration – élimination – respiration",
+        "C": "Sécrétion – fixation – élimination"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "La sécrétion consiste à :",
+      "réponses": {
+        "A": "Fabriquer de nouveaux éléments.",
+        "B": "Détruire certains éléments.",
+        "C": "Rejeter certains éléments."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "L’unité fonctionnelle du rein est :",
+      "réponses": {
+        "A": "Le néphron.",
+        "B": "Le neurone",
+        "C": "Le sarcomère.",
+        "D": "la fibre rénale"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Le numéro 1 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Le numéro 2 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Le numéro 3 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Le numéro 4 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Hypothalamus",
+        "B": "Hypophyse postérieure",
+        "C": "ADH",
+        "D": "Hypophyse antérieure"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Le numéro 5 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Corticosurrénale",
+        "B": "Médullosurrénale",
+        "C": "Aldostérone",
+        "D": "Capsule de Bowman"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Le numéro 6 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Corticosurrénale",
+        "B": "Médullosurrénale",
+        "C": "Aldostérone",
+        "D": "Capsule de Bowman"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le numéro 7 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Corticosurrénale",
+        "B": "Médullosurrénale",
+        "C": "Aldostérone",
+        "D": "Capsule de Bowman"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Le numéro 8 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Le numéro 9 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Le numéro 10 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Le numéro 11 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Filtration",
+        "D": "Réabsorption"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Le numéro 12 désigne :",
+      "image": "assets/images/svt/rein(1).png",
+      "réponses": {
+        "A": "Capsule de Bowman",
+        "B": "Tube collecteur",
+        "C": "Urine",
+        "D": "Réabsorption"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Le numéro 1 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Le numéro 2 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Le numéro 3 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Le numéro 4 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Pyramide de Malpighi",
+        "D": "Bassinet"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°22": {
+      "question": "Le numéro 5 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Néphron (tube urinifère)",
+        "D": "Uretère"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Le numéro 6 (Figure a) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Veine rénale",
+        "B": "Artère rénale",
+        "C": "Néphron (tube urinifère)",
+        "D": "Uretère"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°24": {
+      "question": "Le numéro 7 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tube contourné distal",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "Le numéro 8 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Tube contourné proximal (tube proximal)",
+        "B": "Tube contourné distal (tube distal)",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur (canal collecteur)"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Le numéro 9 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tube contourné distal (tube distal)",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Le numéro 10 (Figure b) désigne :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Tube contourné distal",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur (canal collecteur)"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°28": {
+      "question": "La Figure a représente :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "Le schéma d’un néphron.",
+        "B": "La coupe longitudinale du rein.",
+        "C": "Une artère rénale.",
+        "D": "Un tube collecteur."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "La Figure b représente :",
+      "image": "assets/images/svt/rein(2).png",
+      "réponses": {
+        "A": "La coupe longitudinale du rein.",
+        "B": "Le schéma d’un néphron.",
+        "C": "Une pyramide de Malpighi.",
+        "D": "Un uretère."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction de Filtration ?",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°31": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction de Réabsorption ?",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°32": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction de Sécrétion ?",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°33": {
+      "question": "Quelle partie du néphron est principalement associée à la fonction d’Excrétion ?",
+      "réponses": {
+        "A": "Tube contourné proximal",
+        "B": "Anse de Henlé",
+        "C": "Capsule de Bowman",
+        "D": "Tube collecteur"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°34": {
+      "question": "L’ADH est sécrétée dans l’hypothalamus puis déversée dans le sang au niveau de la […1…]. Cette hormone a un rôle […2…] sur la diurèse en favorisant la […3…] de l’eau par le tubule urinaire.",
+      "réponses": {
+        "A": "1-posthypophyse ; 2-freinateur ; 3-réabsorption",
+        "B": "1-hypophyse antérieure ; 2-activateur ; 3-libération",
+        "C": "1-corticosurrénale ; 2-modulateur ; 3-spécifique",
+        "D": "1-médullosurrénale ; 2-inhibiteur ; 3-excrétion"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°35": {
+      "question": "L’aldostérone est sécrétée par la […4…]. Elle stimule la réabsorption du […5…] au niveau du tubule urinaire.",
+      "réponses": {
+        "A": "4-hypophyse postérieure ; 5-eau",
+        "B": "4-glande corticosurrénale ; 5-sodium",
+        "C": "4-hypothalamus ; 5-glucose",
+        "D": "4-reins ; 5-potassium"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°36": {
+      "question": "La […6…] de l’ADH est déclenchée par des récepteurs […7…]. Les variations de […8…] du plasma stimulent des […9…] situés au niveau de la paroi carotidienne.",
+      "réponses": {
+        "A": "6-freinateur ; 7-non libération ; 8-volémie ; 9-volorécepteurs",
+        "B": "6-libération ; 7-spécifique ; 8-la pression osmotique ; 9-osmorécepteurs",
+        "C": "6-réabsorption ; 7-module ; 8-débit sanguin ; 9-barorécepteurs",
+        "D": "6-excrétion ; 7-généraux ; 8-température ; 9-thermorécepteurs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°37": {
+      "question": "L’information qui prend naissance au niveau de ces récepteurs est transmise […10…], à l’hypothalamus, centre commande qui […11…] la libération de l’ADH provoquant soit une augmentation de la diurèse, en cas de […12…] de l’ADH soit […13…] de la diurèse, en cas de libération de l’ADH.",
+      "réponses": {
+        "A": "10-par voie sanguine ; 11-inhibe ; 12-libération ; 13-non libération",
+        "B": "10-par voie directe ; 11-diminue ; 12-excès ; 13-déficit",
+        "C": "10-par voie humorale ; 11-augmente ; 12-faible ; 13-forte",
+        "D": "10-par voie nerveuse ; 11-module ; 12-non libération ; 13-libération"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

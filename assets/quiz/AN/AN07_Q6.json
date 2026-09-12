@@ -1,0 +1,492 @@
+{
+  "title": "quiz 6",
+  "id": "AN07_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la réponse de 1000 + 50 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "forty",
+        "hundred",
+        "and",
+        "one",
+        "thousand",
+        "fifty",
+        "two"
+      ],
+      "bonne réponse": "one thousand and fifty"
+    },
+    "question n°2": {
+      "question": "Quelle est la réponse de 2000 - 999 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "hundred",
+        "and",
+        "four",
+        "one",
+        "thousand",
+        "two",
+        "fifteen"
+      ],
+      "bonne réponse": "one thousand and one"
+    },
+    "question n°3": {
+      "question": "Quelle est la réponse de 2500 + 75 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "seventy-five",
+        "three",
+        "hundred",
+        "two",
+        "five",
+        "and",
+        "seventy",
+        "four",
+        "twenty"
+      ],
+      "bonne réponse": "two thousand five hundred and seventy-five"
+    },
+    "question n°4": {
+      "question": "Quelle est la réponse de 4000 - 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nine",
+        "two",
+        "and",
+        "three",
+        "fifty",
+        "hundred",
+        "ninety-nine",
+        "four",
+        "thousand"
+      ],
+      "bonne réponse": "three thousand nine hundred and ninety-nine"
+    },
+    "question n°5": {
+      "question": "Quelle est la réponse de 5000 + 400 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "thousand",
+        "five",
+        "four",
+        "seven",
+        "hundred",
+        "two"
+      ],
+      "bonne réponse": "five thousand four hundred"
+    },
+    "question n°6": {
+      "question": "Quelle est la réponse de 6000 + 666 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "six",
+        "ten",
+        "and",
+        "hundred",
+        "fifty",
+        "sixty-six",
+        "thousand",
+        "three",
+        "twenty",
+        "nine",
+        "six"
+      ],
+      "bonne réponse": "six thousand six hundred and sixty-six"
+    },
+    "question n°7": {
+      "question": "Quelle est la réponse de 10000 - 50 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "thousand",
+        "one",
+        "nine",
+        "ten",
+        "hundred",
+        "fifty",
+        "five",
+        "twenty",
+        "nine"
+      ],
+      "bonne réponse": "nine thousand nine hundred and fifty"
+    },
+    "question n°8": {
+      "question": "Quelle est la réponse de 12000 + 120 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "two",
+        "hundred",
+        "thousand",
+        "one",
+        "ten",
+        "and",
+        "thirty",
+        "twenty",
+        "twelve"
+      ],
+      "bonne réponse": "twelve thousand one hundred and twenty"
+    },
+    "question n°9": {
+      "question": "Quelle est la réponse de 15000 + 5000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "fifteen",
+        "ten",
+        "twenty"
+      ],
+      "bonne réponse": "twenty thousand"
+    },
+    "question n°10": {
+      "question": "Quelle est la réponse de 25000 + 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "two",
+        "and",
+        "thousand",
+        "thirty",
+        "hundred",
+        "one",
+        "twenty-five"
+      ],
+      "bonne réponse": "twenty-five thousand and one"
+    },
+    "question n°11": {
+      "question": "Quelle est la réponse de 33333 + 333 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sixty-six",
+        "ten",
+        "hundred",
+        "thousand",
+        "thirty-three",
+        "and",
+        "six",
+        "two",
+        "twenty",
+        "eight",
+        "forty"
+      ],
+      "bonne réponse": "thirty-three thousand six hundred and sixty-six"
+    },
+    "question n°12": {
+      "question": "Quelle est la réponse de 50000 - 100 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nine",
+        "thousand",
+        "fifty",
+        "ten",
+        "hundred",
+        "forty-nine",
+        "five"
+      ],
+      "bonne réponse": "forty-nine thousand nine hundred"
+    },
+    "question n°13": {
+      "question": "Quelle est la réponse de 60000 + 12345 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "three",
+        "one",
+        "thousand",
+        "two",
+        "seven",
+        "eight",
+        "forty-five",
+        "nine",
+        "ten",
+        "five",
+        "hundred",
+        "seventy-two"
+      ],
+      "bonne réponse": "seventy-two thousand three hundred and forty-five"
+    },
+    "question n°14": {
+      "question": "Quelle est la réponse de 99999 - 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "nine",
+        "ten",
+        "one",
+        "ninety-eight",
+        "and",
+        "hundred",
+        "two",
+        "four",
+        "ninety-nine"
+      ],
+      "bonne réponse": "ninety-nine thousand nine hundred and ninety-eight"
+    },
+    "question n°15": {
+      "question": "Quelle est la réponse de 100000 + 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "one",
+        "ten",
+        "hundred",
+        "and",
+        "thousand",
+        "five",
+        "two",
+        "one"
+      ],
+      "bonne réponse": "one hundred thousand and one"
+    },
+    "question n°16": {
+      "question": "Quelle est la réponse de 150000 + 50 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "one",
+        "ten",
+        "thousand",
+        "four",
+        "fifty",
+        "thirty",
+        "two",
+        "hundred",
+        "fifty"
+      ],
+      "bonne réponse": "one hundred fifty thousand and fifty"
+    },
+    "question n°17": {
+      "question": "Quelle est la réponse de 200000 - 1000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "one",
+        "fifty",
+        "hundred",
+        "ninety-nine",
+        "two",
+        "ten"
+      ],
+      "bonne réponse": "one hundred ninety-nine thousand"
+    },
+    "question n°18": {
+      "question": "Quelle est la réponse de 250000 + 4 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "five",
+        "ten",
+        "hundred",
+        "two",
+        "thousand",
+        "one",
+        "and",
+        "four",
+        "fifty",
+        "three",
+        "seven"
+      ],
+      "bonne réponse": "two hundred fifty thousand and four"
+    },
+    "question n°19": {
+      "question": "Quelle est la réponse de 333333 + 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "thirty-four",
+        "ten",
+        "hundred",
+        "one",
+        "three",
+        "sixty",
+        "three",
+        "and",
+        "five",
+        "four",
+        "thirty-three",
+        "two",
+        "hundred"
+      ],
+      "bonne réponse": "three hundred thirty-three thousand three hundred and thirty-four"
+    },
+    "question n°20": {
+      "question": "Quelle est la réponse de 400000 - 50000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "two",
+        "hundred",
+        "three",
+        "five",
+        "fifty"
+      ],
+      "bonne réponse": "three hundred fifty thousand"
+    },
+    "question n°21": {
+      "question": "Quelle est la réponse de 500000 + 15 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "fifteen",
+        "thousand",
+        "and",
+        "ten",
+        "seven",
+        "five",
+        "two",
+        "twenty"
+      ],
+      "bonne réponse": "five hundred thousand and fifteen"
+    },
+    "question n°22": {
+      "question": "Quelle est la réponse de 600000 + 66666 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sixty-six",
+        "six",
+        "eight",
+        "thousand",
+        "and",
+        "hundred",
+        "two",
+        "sixty-six",
+        "one",
+        "ten",
+        "five",
+        "six",
+        "three",
+        "four",
+        "hundred"
+      ],
+      "bonne réponse": "six hundred sixty-six thousand six hundred and sixty-six"
+    },
+    "question n°23": {
+      "question": "Quelle est la réponse de 700000 - 7000 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "hundred",
+        "thousand",
+        "seven",
+        "eight",
+        "six",
+        "ninety-three",
+        "fifty"
+      ],
+      "bonne réponse": "six hundred ninety-three thousand"
+    },
+    "question n°24": {
+      "question": "Quelle est la réponse de 800000 + 888 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eight",
+        "one",
+        "hundred",
+        "ten",
+        "thousand",
+        "and",
+        "eight",
+        "eighty-eight",
+        "nine",
+        "two",
+        "hundred",
+        "three"
+      ],
+      "bonne réponse": "eight hundred thousand eight hundred and eighty-eight"
+    },
+    "question n°25": {
+      "question": "Quelle est la réponse de 900000 + 99 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "three",
+        "ninety-nine",
+        "and",
+        "hundred",
+        "eight",
+        "nine",
+        "thousand",
+        "five",
+        "two",
+        "one"
+      ],
+      "bonne réponse": "nine hundred thousand and ninety-nine"
+    },
+    "question n°26": {
+      "question": "Quelle est la réponse de 10000 + 5 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ten",
+        "and",
+        "thousand",
+        "one",
+        "hundred",
+        "five",
+        "twenty"
+      ],
+      "bonne réponse": "ten thousand and five"
+    },
+    "question n°27": {
+      "question": "Quelle est la réponse de 200 + 15 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "seven",
+        "and",
+        "three",
+        "fifteen",
+        "hundred",
+        "two",
+        "ten"
+      ],
+      "bonne réponse": "two hundred and fifteen"
+    },
+    "question n°28": {
+      "question": "Quelle est la réponse de 1000 + 100 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "thousand",
+        "one",
+        "ten",
+        "one",
+        "hundred",
+        "two"
+      ],
+      "bonne réponse": "one thousand one hundred"
+    },
+    "question n°29": {
+      "question": "Quelle est la réponse de 500 - 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ninety-nine",
+        "three",
+        "and",
+        "one",
+        "five",
+        "four",
+        "hundred",
+        "twenty"
+      ],
+      "bonne réponse": "four hundred and ninety-nine"
+    },
+    "question n°30": {
+      "question": "Quelle est la réponse de 1000000 - 1 en lettres ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "and",
+        "hundred",
+        "nine",
+        "ten",
+        "ninety-nine",
+        "five",
+        "thousand",
+        "one",
+        "twenty",
+        "nine",
+        "three",
+        "and",
+        "hundred",
+        "eight",
+        "two",
+        "ninety-nine"
+      ],
+      "bonne réponse": "nine hundred ninety-nine thousand nine hundred and ninety-nine"
+    }
+  }
+}

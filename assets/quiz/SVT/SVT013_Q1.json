@@ -1,0 +1,210 @@
+{
+  "id": "SVT013_Q1",
+  "title": "Quiz 1 : la défense non spécifique",
+  "questions": {
+    "question n°1": {
+      "question": "La peau et les muqueuses constituent quelle ligne de défense de l'organisme ?",
+      "réponses": {
+        "A": "La troisième ligne de défense.",
+        "B": "La première ligne de défense.",
+        "C": "Une barrière secondaire temporaire.",
+        "D": "Une défense spécifique acquise."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle est la principale fonction des bactéries non pathogènes présentes dans le tube digestif ?",
+      "réponses": {
+        "A": "Elles digèrent les protéines complexes.",
+        "B": "Elles sont une source d’antigènes pour l’organisme.",
+        "C": "Elles produisent des toxines microbiennes.",
+        "D": "Elles constituent une barrière biologique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quel pH est spécifiquement mentionné pour la sueur en tant que barrière chimique ?",
+      "réponses": {
+        "A": "Un pH neutre de 7.",
+        "B": "Un pH acide de 3,5.",
+        "C": "Un pH alcalin de 8.",
+        "D": "Un pH variable entre 5 et 6."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Parmi les signes suivants, lequel n'est pas une manifestation locale de la réaction inflammatoire ?",
+      "réponses": {
+        "A": "La rougeur de la peau.",
+        "B": "L'enflure des tissus.",
+        "C": "La douleur intense et persistante.",
+        "D": "La fièvre générale élevée."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Les polynucléaires et les macrophages sont qualifiés de phagocytes en raison de leur capacité à :",
+      "réponses": {
+        "A": "Produire des anticorps protecteurs.",
+        "B": "Déclencher une réaction inflammatoire.",
+        "C": "Envahir les cellules infectées.",
+        "D": "Reconnaître, engloutir et digérer les microbes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Lorsque les bactéries non vaincues par la lutte locale gagnent les ganglions lymphatiques, l'inflammation de ces derniers est appelée :",
+      "réponses": {
+        "A": "Une lymphangite.",
+        "B": "Une septicémie.",
+        "C": "Une adénite.",
+        "D": "Une toxémie."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Comment se manifeste la \"toxémie\" dans l'organisme ?",
+      "réponses": {
+        "A": "Par la présence de microbes vivants dans la circulation sanguine.",
+        "B": "Par la diffusion de substances toxiques produites par des microbes.",
+        "C": "Par l'enflure des ganglions lymphatiques locaux.",
+        "D": "Par la multiplication rapide des bactéries dans les tissus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle est une caractéristique essentielle de la réaction de défense innée ?",
+      "réponses": {
+        "A": "Elle est lente et spécifique à chaque agresseur.",
+        "B": "Elle est immédiate et non spécifique.",
+        "C": "Elle implique une mémoire immunitaire.",
+        "D": "Elle est déclenchée uniquement par des virus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Les barrières biologiques sont des bactéries non pathogènes qui vivent dans l'organisme en parfaite harmonie.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Une augmentation de la volémie locale et une sortie des globules blancs du sang sont des événements typiques d'une réaction inflammatoire.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "La phagocytose est un processus qui garantit toujours la destruction complète et immédiate de tous les microbes.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Les ganglions lymphatiques agissent comme la première ligne de défense de l'organisme contre les agressions.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La lymphangite est le terme désignant l'inflammation des ganglions lymphatiques.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "La septicémie est le résultat de la diffusion de substances chimiques produites par des microbes dans la circulation sanguine.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La réaction de défense innée ne nécessite pas une reconnaissance préalable de l'antigène spécifique.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Une adénite se produit lorsque des bactéries franchissent la deuxième barrière de défense et passent dans la circulation sanguine.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "La peau et les muqueuses représentent les barrières [...A...] de l'organisme, constituant la [...B...] ligne de défense.",
+      "réponses": {
+        "A": "A : naturelles, B : première",
+        "B": "A : immunitaires, B : seconde",
+        "C": "A: actives, B: principale",
+        "D": "A: physiques, B: ultérieure"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Lors d'une agression, une augmentation de la volémie localisée et le passage des [...A...] et des [...B...] dans les tissus caractérisent la réaction inflammatoire.",
+      "réponses": {
+        "A": "A: lymphocytes, B: plasmocytes",
+        "B": "A: anticorps, B: enzymes",
+        "C": "A: polynucléaires, B: macrophages",
+        "D": "A: globules rouges, B: plaquettes"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Si les bactéries ne sont pas vaincues par la lutte locale, elles gagnent les [...A...] lymphatiques via les [...B...] lymphatiques.",
+      "réponses": {
+        "A": "A: organes, B: artères",
+        "B": "A: tissus, B: capillaires",
+        "C": "A: ganglions, B: vaisseaux",
+        "D": "A: cellules, B: veines"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Lorsqu'un corps étranger pénètre l'organisme, une réaction de défense [...A...] et [...B...] est immédiatement déclenchée.",
+      "réponses": {
+        "A": "A: acquise, B: spécifique",
+        "B": "A: innée, B: spécifique",
+        "C": "A: innée, B: non spécifique",
+        "D": "A: adaptative, B: rapide"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Une toxine microbienne est une substance [...A...] par un microbe et qui possède un pouvoir [...B...] sur l'organisme.",
+      "réponses": {
+        "A": "A: absorbée, B: cicatrisant",
+        "B": "A: produite, B: pathogène",
+        "C": "A: neutralisée, B: protecteur",
+        "D": "A: digérée, B: régénérant"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Si les microbes persistent et franchissent la deuxième barrière de défense, ils passent dans la [...A...] sanguine, ce qui peut entraîner une infection appelée [...B...].",
+      "réponses": {
+        "A": "A: lymphe, B: adénite",
+        "B": "A: circulation, B: septicémie",
+        "C": "A: cellule, B: lymphangite",
+        "D": "A: tissu, B: toxémie"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Résolution d'Équations de types $ln(A) = ln(B)$ et $ln(A) = 0$",
+                    "content": "La résolution d'équations logarithmiques repose sur une règle d'or : l'argument d'un logarithme doit toujours être strictement positif. \nAvant tout calcul, il faut déterminer l'ensemble de validité $D$ en résolvant $A > 0$ et $B > 0$.\n\nUne fois le domaine fixé, on utilise les propriétés d'injectivité :\n1. $ln(A) = ln(B) \\iff A = B$.\n2. $ln(A) = 0 \\iff A = 1$ (car $ln(1) = 0$).\n\nAprès résolution de l'équation algébrique obtenue, on doit impérativement vérifier si les solutions appartiennent au domaine $D$.",
+                    "example": "Résolvons l'équation $ln(2x - 4) = ln(x + 1)$ :\n\n**1. Recherche du domaine de validité $D$ :**\nIl faut $2x - 4 > 0 \\implies 2x > 4 \\implies x > 2$.\nIl faut aussi $x + 1 > 0 \\implies x > -1$.\nL'intersection donne $D = ]2 ; +\\infty[$.\n\n**2. Résolution :**\n$ln(2x - 4) = ln(x + 1) \\iff 2x - 4 = x + 1$\n$2x - x = 1 + 4$\n$x = 5$\n\n**3. Vérification :**\n$5 \\in ]2 ; +\\infty[$, donc la solution est valide.\n$S = \\{5\\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons $ln(5 - 2x) = 0$.\nCondition : $5 - 2x > 0 \\implies -2x > -5 \\implies x < 2,5$. $D = ]-\\infty ; 2,5[$.\nRésolution : $ln(5 - 2x) = 0 \\iff 5 - 2x = 1 \\implies -2x = -4 \\implies x = 2$.\nComme $2 < 2,5$, alors $S = \\{2\\}$.",
+                        "Exemple complet : Résolvons $ln(x^2 - 4) = ln(2 - 4x)$.\nCondition : $x^2 - 4 > 0 \\implies x \\in ]-\\infty ; -2[ \\cup ]2 ; +\\infty[$ et $2 - 4x > 0 \\implies x < 0,5$.\nL'intersection donne $D = ]-\\infty ; -2[$.\nRésolution : $x^2 - 4 = 2 - 4x \\implies x^2 + 4x - 6 = 0$.\n$\\Delta = 16 - 4(1)(-6) = 40$. $x_1 = \\frac{-4 - \\sqrt{40}}{2} = -2 - \\sqrt{10} \\approx -5,16$ et $x_2 = -2 + \\sqrt{10} \\approx 1,16$.\nSeule $x_1 \\in D$, donc $S = \\{-2 - \\sqrt{10}\\}$.",
+                        "Exemple complet : Résolvons $ln(x - 1) + ln(x + 1) = ln(2 + x)$.\nCondition : $x > 1$, $x > -1$ et $x > -2 \\implies D = ]1 ; +\\infty[$.\nSimplification : $ln((x - 1)(x + 1)) = ln(2 + x) \\implies x^2 - 1 = 2 + x \\implies x^2 - x - 3 = 0$.\nLes racines sont $x_1 = \\frac{1 - \\sqrt{13}}{2}$ (négatif) et $x_2 = \\frac{1 + \\sqrt{13}}{2} \\approx 2,30$.\nSeule $x_2 \\in D$, donc $S = \\{\\frac{1 + \\sqrt{13}}{2}\\}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Résolution via l'Exponentielle et Systèmes d'Équations",
+                    "content": "Pour les équations de type $ln(A) = b$, on utilise la fonction exponentielle qui est la bijection réciproque du logarithme népérien.\nLa règle est : $ln(A) = b \\iff A = e^b$.\n\nPour les systèmes d'équations logarithmiques, on procède souvent par substitution ou par changement de variable (en posant $X = ln(x)$ et $Y = ln(y)$) pour se ramener à un système linéaire classique. \nLà encore, les conditions d'existence sur les inconnues ($x > 0, y > 0$) sont obligatoires avant de conclure sur l'ensemble des couples solutions.",
+                    "example": "Résolvons le système suivant :\n$2ln(x) + ln(y) = 1$\n$5ln(x) + 3ln(y) = 4$\n\n**1. Domaine :** $x > 0$ et $y > 0$.\n\n**2. Changement de variable :** Posons $X = ln(x)$ et $Y = ln(y)$.\n$2X + Y = 1 \\implies Y = 1 - 2X$\n$5X + 3(1 - 2X) = 4$\n$5X + 3 - 6X = 4 \\implies -X = 1 \\implies X = -1$\n$Y = 1 - 2(-1) = 3$\n\n**3. Retour aux variables initiales :**\n$ln(x) = -1 \\implies x = e^{-1} = \\frac{1}{e}$\n$ln(y) = 3 \\implies y = e^3$\n\n**Conclusion :** Les deux valeurs sont positives, le couple solution est $S = \\{(\\frac{1}{e} ; e^3)\\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons l'inéquation $ln(x - 4) < 0$.\nCondition : $x - 4 > 0 \\implies x > 4$. $D = ]4 ; +\\infty[$.\nRésolution : $ln(x - 4) < ln(1) \\iff x - 4 < 1 \\implies x < 5$.\nEn croisant avec le domaine, $S = ]4 ; 5[$.",
+                        "Exemple complet : Résolvons $2ln(x) \\le 1$.\nCondition : $x > 0$. $D = ]0 ; +\\infty[$.\n$ln(x) \\le \\frac{1}{2} \\iff x \\le e^{1/2} \\iff x \\le \\sqrt{e}$.\nEn croisant avec le domaine, $S = ]0 ; \\sqrt{e}]$.",
+                        "Exemple complet : Résolvons le système $x^2 + y^2 = 29$ et $ln(x) + ln(y) = ln(10)$.\nConditions : $x > 0, y > 0$.\nL'équation 2 devient $ln(xy) = ln(10) \\implies xy = 10$.\nOn cherche deux nombres dont la somme des carrés est 29 et le produit est 10.\n$(x+y)^2 = x^2+y^2+2xy = 29 + 20 = 49 \\implies x+y = 7$ (car $x,y > 0$).\nLes solutions de $t^2 - 7t + 10 = 0$ sont 2 et 5.\n$S = \\{(2 ; 5) ; (5 ; 2)\\}$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Équations de type $ln(A) \\pm ln(B) = ln(C)$ et propriétés opératoires",
+                    "content": "Pour résoudre des équations plus complexes, on utilise les propriétés de transformation du logarithme pour se ramener à la forme fondamentale $ln(u) = ln(v)$.\nLes règles principales sont :\n1. **Somme en Produit :** $ln(A) + ln(B) = ln(A \\times B)$\n2. **Différence en Quotient :** $ln(A) - ln(B) = ln(\\frac{A}{B})$\n3. **Coefficient en Puissance :** $a \\times ln(A) = ln(A^a)$\n\n**Attention :** Il est crucial de définir le domaine de validité $D$ sur l'équation initiale avant toute transformation, car les propriétés algébriques peuvent modifier l'ensemble de définition des expressions.",
+                    "example": "Résolvons l'équation $ln(x - 1) + ln(x + 1) = ln(2 + x)$ :\n\n**1. Domaine de validité $D$ :**\n- $x - 1 > 0 \\implies x > 1$\n- $x + 1 > 0 \\implies x > -1$\n- $2 + x > 0 \\implies x > -2$\nL'intersection de ces trois conditions donne $D = ]1 ; +\\infty[$.\n\n**2. Transformation et Résolution :**\nEn utilisant la propriété $ln(A) + ln(B) = ln(A \\times B)$, on obtient :\n$ln[(x - 1)(x + 1)] = ln(2 + x)$\n$(x - 1)(x + 1) = 2 + x$\n$x^2 - 1 = 2 + x$\n$x^2 - x - 3 = 0$\n\n**3. Calcul des racines :**\n$\\Delta = (-1)^2 - 4(1)(-3) = 1 + 12 = 13$.\n$x_1 = \\frac{1 - \\sqrt{13}}{2} \\approx -1,30$\n$x_2 = \\frac{1 + \\sqrt{13}}{2} \\approx 2,30$\n\n**4. Vérification :**\n$x_1 \\notin D$ et $x_2 \\in D$.\nL'ensemble de solution est $S = \\{ \\frac{1 + \\sqrt{13}}{2} \\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons $ln(5x + 2) - ln(x + 2) = ln(x - 2)$.\nConditions : $x > -0,4$, $x > -2$ et $x > 2$. Donc $D = ]2 ; +\\infty[$.\nTransformation : $ln(\\frac{5x + 2}{x + 2}) = ln(x - 2) \\implies \\frac{5x + 2}{x + 2} = x - 2$.\n$5x + 2 = (x - 2)(x + 2) \\implies 5x + 2 = x^2 - 4 \\implies x^2 - 5x - 6 = 0$.\nLes racines sont $x_1 = -1$ et $x_2 = 6$. Seule $x_2 \\in D$.\n$S = \\{6\\}$.",
+                        "Exemple complet : Résolvons $ln(2x - 3) + 2ln(x + 1) = ln(x - 1)$.\nConditions : $x > 1,5$, $x > -1$ et $x > 1$. Donc $D = ]1,5 ; +\\infty[$.\nTransformation : $ln(2x - 3) + ln[(x + 1)^2] = ln(x - 1) \\implies ln[(2x - 3)(x + 1)^2] = ln(x - 1)$.\nCeci mène à une équation de degré 3 : $(2x - 3)(x^2 + 2x + 1) = x - 1$.\nSi après résolution une solution est $\\le 1,5$, elle est rejetée.",
+                        "Exemple complet : Résolvons $2ln(x) = ln(x + 2)$.\nCondition : $x > 0$. $D = ]0 ; +\\infty[$.\nTransformation : $ln(x^2) = ln(x + 2) \\implies x^2 = x + 2 \\implies x^2 - x - 2 = 0$.\n$\\Delta = 9$. $x_1 = -1$ (rejeté) et $x_2 = 2$ (accepté).\n$S = \\{2\\}$."
+                    ]
+                },
+                {
+                    "title": "Étape 4 : Synthèse et Systèmes d'équations logarithmiques",
+                    "content": "La synthèse d'équations regroupe l'utilisation simultanée des propriétés algébriques, du changement de variable et de la résolution de systèmes. \nPour les systèmes d'équations dans $\\mathbb{R} \\times \\mathbb{R}$, on utilise deux méthodes classiques :\n1. **Substitution :** On exprime une variable en fonction de l'autre depuis une équation linéaire pour l'injecter dans l'équation logarithmique.\n2. **Changement de variable :** On remplace $ln(x)$ par $X$ et $ln(y)$ par $Y$ pour transformer le système en un système linéaire de type $aX + bY = c$.\n\nIl est impératif que les solutions finales $(x ; y)$ respectent $x > 0$ et $y > 0$.",
+                    "example": "Résolvons le système suivant :\n$x - y = -2$ (L1)\n$ln(x) + ln(y) = ln(2)$ (L2)\n\n**1. Conditions d'existence :**\n$x > 0$ et $y > 0$.\n\n**2. Transformation de l'équation (L2) :**\n$ln(x \\times y) = ln(2) \\implies xy = 2$.\n\n**3. Résolution par substitution :**\nDepuis (L1), on a $x = y - 2$.\nInjectons dans $xy = 2$ :\n$(y - 2)y = 2$\n$y^2 - 2y - 2 = 0$\n$\\Delta = (-2)^2 - 4(1)(-2) = 4 + 8 = 12$.\n$y_1 = \\frac{2 - \\sqrt{12}}{2} = 1 - \\sqrt{3} \\approx -0,73$ (Rejeté car $y > 0$)\n$y_2 = \\frac{2 + \\sqrt{12}}{2} = 1 + \\sqrt{3} \\approx 2,73$ (Accepté)\n\n**4. Calcul de x :**\n$x = y_2 - 2 = (1 + \\sqrt{3}) - 2 = \\sqrt{3} - 1 \\approx 0,73$ (Accepté car $x > 0$).\n\n**Conclusion :**\nLe couple solution est $S = \\{(\\sqrt{3} - 1 ; 1 + \\sqrt{3})\\}$.",
+                    "extras": [
+                        "Exemple complet : Résolvons le système $(ln x)(ln y) = -15$ et $ln(xy) = -2$.\nPosons $X = ln x$ et $Y = ln y$.\nLe système devient : $X \\times Y = -15$ et $X + Y = -2$.\n$X$ et $Y$ sont solutions de $t^2 + 2t - 15 = 0$.\n$\\Delta = 64$. $t_1 = -5$ et $t_2 = 3$.\nCas 1 : $ln x = -5 \\implies x = e^{-5}$ et $ln y = 3 \\implies y = e^3$.\nCas 2 : $ln x = 3 \\implies x = e^3$ et $ln y = -5 \\implies y = e^{-5}$.\n$S = \\{(e^{-5} ; e^3) ; (e^3 ; e^{-5})\\}$.",
+                        "Exemple complet : Résolvons $ln|x - 1| + ln|2x + 1| = 0$.\nCondition : $x \\neq 1$ et $x \\neq -0,5$ (car la valeur absolue doit être $>0$).\nTransformation : $ln|(x - 1)(2x + 1)| = ln(1) \\implies |2x^2 - x - 1| = 1$.\nDeux cas : $2x^2 - x - 1 = 1$ ou $2x^2 - x - 1 = -1$.\nÉquation A : $2x^2 - x - 2 = 0 \\implies x = \\frac{1 \\pm \\sqrt{17}}{4}$.\nÉquation B : $2x^2 - x = 0 \\implies x(2x - 1) = 0 \\implies x = 0$ ou $x = 0,5$.\n$S = \\{0 ; 0,5 ; \\frac{1 - \\sqrt{17}}{4} ; \\frac{1 + \\sqrt{17}}{4}\\}$.",
+                        "Exemple complet : Système $x^2 + y^2 = 29$ et $ln x + ln y = ln 10$.\nOn sait que $xy = 10$. On utilise $(x+y)^2 = x^2+y^2+2xy = 29 + 20 = 49$.\nComme $x,y > 0$, $x+y=7$. Les nombres dont la somme est 7 et le produit 10 sont 2 et 5.\n$S = \\{(2 ; 5) ; (5 ; 2)\\}$."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

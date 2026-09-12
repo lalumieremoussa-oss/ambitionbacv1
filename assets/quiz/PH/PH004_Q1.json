@@ -1,0 +1,190 @@
+{
+  "title": "Quiz 1",
+  "id": "PH004_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Le quiz porte sur sujet suivant : \"Peut-on prouver rationnellement l'existence de Dieu?\" Quelle est la meilleure définition du terme \"Dieu\" dans le contexte de la tradition philosophique et religieuse ?",
+      "réponses": {
+        "A": "Un être supérieur qui intervient occasionnellement dans les affaires humaines, sans rôle créateur.",
+        "B": "Un concept abstrait représentant la somme des croyances individuelles et collectives d'une société.",
+        "C": "Un être suprême, infini, tout-puissant, créateur de l’univers et garant de l’ordre moral.",
+        "D": "La projection de nos désirs inconscients pour une figure parentale protectrice et bienveillante."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Que signifie \"prouver\" dans le cadre d'une argumentation philosophique rationnelle ?",
+      "réponses": {
+        "A": "Affirmer une croyance avec conviction, même sans éléments factuels concrets pour la soutenir.",
+        "B": "Démontrer quelque chose de manière logique, rationnelle ou scientifique, en se basant sur des faits ou des raisonnements solides.",
+        "C": "Convaincre une majorité de personnes de la validité d'une idée, par la persuasion ou l'éloquence.",
+        "D": "Accumuler un ensemble d'opinions personnelles et d'expériences subjectives pour former une hypothèse."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Le terme \"rationnellement\" implique-t-il l'utilisation de la foi, des émotions ou de la tradition pour prouver l'existence de Dieu ?",
+      "réponses": {
+        "A": "Oui, car la foi est un élément essentiel de toute démarche rationnelle en philosophie.",
+        "B": "Non, cela signifie se fonder uniquement sur la raison, en excluant la foi, les émotions ou la tradition.",
+        "C": "Seule la tradition est acceptée comme fondement, car elle contient la sagesse accumulée par les générations passées.",
+        "D": "Les émotions sont primordiales, car elles permettent une connexion intuitive avec le divin que la raison seule ne peut atteindre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel philosophe est associé à l'argument de la \"première cause\" ou du \"moteur premier\" pour prouver l'existence de Dieu ?",
+      "réponses": {
+        "A": "René Descartes, qui a développé la preuve ontologique basée sur l'idée de perfection.",
+        "B": "Friedrich Nietzsche, qui a proclamé la \"mort de Dieu\" et critiqué les fondements de la morale chrétienne.",
+        "C": "Baruch Spinoza, pour qui Dieu est la substance unique et immanente à toute chose dans l'univers.",
+        "D": "Aristote, qui postule l'existence d'un \"moteur immobile\" comme cause première de tout mouvement dans le monde."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Comment l'argument cosmologique d'Aristote mène-t-il à la nécessité d'un \"premier moteur\" ?",
+      "réponses": {
+        "A": "Il observe que l'univers est en expansion constante, ce qui nécessite une force initiale le poussant.",
+        "B": "Il argumente que chaque événement a une cause, et cette chaîne de causes doit avoir un point de départ non causé.",
+        "C": "Il déduit que l'ordre et la complexité du monde sont trop parfaits pour être le fruit du hasard.",
+        "D": "Il affirme que l'existence d'êtres imparfaits comme les humains implique nécessairement l'existence d'un être parfait les ayant créés."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel est le courant philosophique associé à René Descartes et sa \"preuve ontologique\" de l'existence de Dieu ?",
+      "réponses": {
+        "A": "L'empirisme, qui met l'accent sur l'expérience sensorielle comme source de toute connaissance.",
+        "B": "Le rationalisme, qui privilégie la raison et la déduction comme voie d'accès à la vérité.",
+        "C": "Le matérialisme, qui considère que seule la matière existe et que les phénomènes sont le résultat d'interactions physiques.",
+        "D": "Le mysticisme, qui cherche une union directe avec le divin par l'intuition et l'expérience spirituelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Selon Descartes, pourquoi l'idée de perfection que nous avons en nous ne peut-elle pas venir de nous-mêmes ?",
+      "réponses": {
+        "A": "Parce que nos sens sont trompeurs et ne peuvent nous fournir une idée claire et distincte de la perfection.",
+        "B": "Parce que nous sommes des êtres imparfaits, et l'effet ne peut être supérieur à sa cause ; donc une idée parfaite doit avoir une cause parfaite.",
+        "C": "Parce que l'éducation et la société nous imposent des concepts de perfection qui ne sont pas innés.",
+        "D": "Parce que la perfection est un idéal inaccessible et que seule la foi peut nous rapprocher de cette notion."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel philosophe considère Dieu comme la \"pensée absolue\" ou le \"point le plus élevé de la raison\" ?",
+      "réponses": {
+        "A": "Platon, pour qui Dieu est l'Idée du Bien, suprême et parfaite, source de toutes les autres Idées.",
+        "B": "Emmanuel Kant, qui considère que l'existence de Dieu est un postulat de la raison pratique, mais non prouvable par la raison théorique.",
+        "C": "Georg Wilhelm Friedrich Hegel, qui voit Dieu comme l'Esprit se réalisant et se comprenant lui-même à travers l'histoire.",
+        "D": "Søren Kierkegaard, pour qui l'existence de Dieu est une question de foi et de saut existentiel, non de démonstration rationnelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Dans la philosophie de Hegel, comment l'homme contribue-t-il à la compréhension de la \"pensée absolue\" qu'est Dieu ?",
+      "réponses": {
+        "A": "Par l'abandon total de la raison au profit d'une expérience mystique transcendante.",
+        "B": "En se concentrant sur les preuves empiriques de l'ordre divin dans la nature et l'univers.",
+        "C": "En cherchant à comprendre et à réfléchir, sa pensée atteignant son sommet lorsqu'elle se tourne vers l'idée de l'infini et de la totalité.",
+        "D": "En niant toute forme de spiritualité et en se basant uniquement sur des faits observables et mesurables."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "\"Tout ce qui bouge est mis en mouvement par autre chose. Mais il ne peut y avoir une chaîne infinie de causes. Il faut donc un premier moteur, une cause qui n’est elle-même causée par rien.\" Cette citation exprime un argument de :",
+      "réponses": {
+        "A": "Hegel, soulignant la progression dialectique de l'Esprit vers sa pleine réalisation.",
+        "B": "Descartes, illustrant l'indubitabilité de l'existence de Dieu à partir de l'idée de perfection.",
+        "C": "Aristote, posant l'existence d'un moteur immobile à l'origine de tout mouvement dans le cosmos.",
+        "D": "Kant, distinguant la chose en soi, inconnaissable par la raison, de ses manifestations phénoménales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "\"Or, nous avons en nous l’idée de cette perfection, alors que nous sommes imparfaits. Cette idée ne peut venir de nous-mêmes. Elle doit venir d’un être réellement parfait : Dieu.\" Cette affirmation est un pilier de la preuve :",
+      "réponses": {
+        "A": "Cosmologique, qui déduit l'existence de Dieu de l'ordre et des causes dans l'univers.",
+        "B": "Ontologique, qui déduit l'existence de Dieu de l'idée même que nous en avons.",
+        "C": "Téléologique, qui s'appuie sur la finalité et le dessein apparents dans la nature.",
+        "D": "Morale, qui postule Dieu comme fondement des lois morales universelles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "\"Dieu est la pensée absolue, le point le plus élevé de la raison. Il n’est pas un vieillard dans le ciel, mais la totalité de l’Esprit qui se comprend lui-même à travers l’histoire.\" Cette citation provient de :",
+      "réponses": {
+        "A": "Søren Kierkegaard, qui met l'accent sur la subjectivité et le paradoxe de la foi.",
+        "B": "Friedrich Nietzsche, qui critiquait toute forme de transcendance et d'idéalisme métaphysique.",
+        "C": "Georg Wilhelm Friedrich Hegel, qui conçoit Dieu comme la manifestation de l'Esprit absolu dans l'histoire.",
+        "D": "Arthur Schopenhauer, qui voyait la Volonté comme la réalité fondamentale et irrationnelle de l'univers."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "L'argument cosmologique part de l'observation que tout dans le monde est contingent (pourrait ne pas exister) pour arriver à la nécessité d'un être absolument nécessaire, Dieu.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La preuve ontologique de Descartes est qualifiée de \"a posteriori\" car elle nécessite l'expérience du monde pour être formulée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Pour Hegel, Dieu est une entité statique et immuable, entièrement séparée du processus historique et de la pensée humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Si l'on prouve rationnellement l'existence de Dieu, cela rend la foi inutile, car la foi ne concerne que ce qui est indémontrable.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Un des pièges courants dans la réflexion sur Dieu est de le concevoir comme un être purement matériel et sensible, alors qu'il est souvent défini comme transcendant.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "L'idée que l'existence de Dieu est simplement une \"construction humaine née d'un besoin affectif ou social\" est une critique souvent adressée aux preuves rationnelles de son existence.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'explication de l'argument d'Aristote souligne que le \"premier moteur\" est lui-même mis en mouvement par une cause antérieure, ce qui mène à une régression à l'infini.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La citation \"L’homme pense, réfléchit, cherche à comprendre. Cette pensée atteint un sommet quand elle se tourne vers Dieu. Dieu, c’est la pensée de la totalité, de l’infini, de l’absolu\" peut être attribuée à Descartes pour illustrer sa conception de la perfection divine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

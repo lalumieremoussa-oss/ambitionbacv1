@@ -1,0 +1,336 @@
+{
+  "title": "Quiz 1 - Deutsch (Begrüßung)",
+  "id": "DE02_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Guten Abend.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Bonne nuit.",
+        "B": "Au revoir.",
+        "C": "Bonjour (le matin).",
+        "D": "Bonsoir."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Bonjour, mon ami.\" (Utilisé le matin)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Tag, mein Freund.",
+        "B": "Guten Morgen, mein Freund.",
+        "C": "Hallo, mein Freund.",
+        "D": "Gute Nacht, mein Freund."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel est le sens de l'expression \"Wie heißt du?\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Quelle est ta profession ?",
+        "B": "Quel est ton nom ?",
+        "C": "Comment vas-tu ?",
+        "D": "Où es-tu ?"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Je m'appelle Aïcha.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Ich bin Aïcha.",
+        "B": "Mein Name ist Aïcha.",
+        "C": "A et B sont correctes.",
+        "D": "Ich habe Aïcha."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quelle salutation utiliseriez-vous pour souhaiter une bonne nuit avant de dormir ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Abend",
+        "B": "Guten Tag",
+        "C": "Gute Nacht",
+        "D": "Guten Morgen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Bonjour, Madame.\" (Utilisé pendant la journée)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Morgen, Frau.",
+        "B": "Guten Tag, Frau.",
+        "C": "Guten Abend, Frau.",
+        "D": "Gute Nacht, Frau."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Le mot \"Hi\" ou \"Hallo\" en allemand signifie :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Au revoir.",
+        "B": "Bonne nuit.",
+        "C": "Comment allez-vous ?",
+        "D": "Salut / Bonjour."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Comment dit-on \"Bonsoir, professeur\" en allemand ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Guten Morgen, Lehrer.",
+        "B": "Guten Tag, Lehrer.",
+        "C": "Guten Abend, Lehrer.",
+        "D": "Gute Nacht, Lehrer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Complétez : \"Hallo, mein Name _____ Siata.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "habe",
+        "B": "sind",
+        "C": "bin",
+        "D": "ist"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Quel est le pronom utilisé pour se présenter avec \"Ich bin...\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Du",
+        "B": "Er",
+        "C": "Wir",
+        "D": "Ich"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Bonjour, professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hallo",
+        "ist",
+        "Lehrer",
+        "mein"
+      ],
+      "bonne réponse": "Hallo Lehrer"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Mon nom est Konan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "ist",
+        "der",
+        "Konan",
+        "Ich",
+        "bin",
+        "Name",
+        "Buch"
+      ],
+      "bonne réponse": "Mein Name ist Konan"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Je suis Sylvain.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ich",
+        "Sylvain",
+        "ist",
+        "bin",
+        "Name",
+        "sie"
+      ],
+      "bonne réponse": "Ich bin Sylvain"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Bonjour, Monsieur.\" (pendant la journée)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Guten",
+        "Nacht",
+        "Herr",
+        "Morgen",
+        "Tag",
+        "ist"
+      ],
+      "bonne réponse": "Guten Tag Herr"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Salut, je m'appelle Soumahoro.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hallo",
+        "der",
+        "mein",
+        "bin",
+        "Name",
+        "ist",
+        "Soumahoro",
+        "Morgen",
+        "Ich",
+        "Buch"
+      ],
+      "bonne réponse": "Hallo mein Name ist Soumahoro"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Bonsoir, Madame.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Guten",
+        "mein",
+        "Frau",
+        "ist",
+        "Abend",
+        "Name"
+      ],
+      "bonne réponse": "Guten Abend Frau"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Bonne nuit, mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Gute",
+        "ist",
+        "mein",
+        "Freund",
+        "zu",
+        "Hause",
+        "der",
+        "Nacht"
+      ],
+      "bonne réponse": "Gute Nacht mein Freund"
+    },
+    "question n°18": {
+      "question": "Complétez : \"A: Wie heißt du? B: Mein _____ ist Konan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "bin",
+        "habe",
+        "Name",
+        "ist",
+        "Lehrer"
+      ],
+      "bonne réponse": "Mein Name ist"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Salut, Aïcha.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Aïcha",
+        "ist",
+        "mein",
+        "Hallo"
+      ],
+      "bonne réponse": "Hallo Aïcha"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Bonjour, Monsieur.\" (le matin)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Guten",
+        "Herr",
+        "Morgen",
+        "Abend"
+      ],
+      "bonne réponse": "Guten Morgen"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Quel est ton nom ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Wie",
+        "zu",
+        "dein",
+        "ist",
+        "Name",
+        "Ich",
+        "bin",
+        "Hause"
+      ],
+      "bonne réponse": "Wie ist dein Name"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Je suis Soumahoro.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Ich",
+        "bin",
+        "Soumahoro",
+        "Name"
+      ],
+      "bonne réponse": "Ich bin Soumahoro"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Bon après-midi / Bonjour.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Guten",
+        "Morgen",
+        "Tag",
+        "Abend"
+      ],
+      "bonne réponse": "Guten Tag"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Salut, professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hallo",
+        "mein",
+        "Lehrer",
+        "Name"
+      ],
+      "bonne réponse": "Hallo Lehrer"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Mon nom est Sylvain Konan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mein",
+        "ist",
+        "Name",
+        "Konan",
+        "Ich",
+        "bin",
+        "Sylvain",
+        "der"
+      ],
+      "bonne réponse": "Mein Name ist Sylvain Konan"
+    },
+    "question n°26": {
+      "question": "Traduisez le mot \"Salut\" (informel).",
+      "type": "short_answer",
+      "bonne réponse": "Hallo"
+    },
+    "question n°27": {
+      "question": "Traduisez l'expression \"Mon nom est\".",
+      "type": "short_answer",
+      "bonne réponse": "Mein Name ist"
+    },
+    "question n°28": {
+      "question": "Comment salueriez-vous quelqu'un en début de soirée ?",
+      "type": "short_answer",
+      "bonne réponse": "Guten Abend"
+    },
+    "question n°29": {
+      "question": "Traduisez le mot \"Bonjour\" (utilisé le matin).",
+      "type": "short_answer",
+      "bonne réponse": "Guten Morgen"
+    },
+    "question n°30": {
+      "question": "Quelle expression signifie \"Quel est ton nom ?\" en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "Wie heißt du"
+    }
+  }
+}

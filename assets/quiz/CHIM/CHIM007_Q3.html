@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Mélange de Solutions Ioniques</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; padding: 15px; color: #333; 
+        }
+
+        .container { max-width: 800px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .step-tag {
+            background: var(--vert-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+            text-transform: uppercase;
+        }
+
+        .question-text { 
+            font-weight: 600; font-size: 1.1rem; margin-bottom: 15px; display: block; line-height: 1.5;
+        }
+
+        .option { 
+            display: flex; align-items: center; padding: 12px; margin: 8px 0; 
+            background: #fdfdfd; border: 1px solid #eee; border-radius: 10px;
+            cursor: pointer; transition: 0.2s;
+        }
+
+        .option:hover { background: #fff8f0; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { margin-right: 15px; accent-color: var(--orange-ivoire); transform: scale(1.2); }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .btn-submit { 
+            display: block; width: 100%; padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; border: none; border-radius: 12px; font-weight: bold;
+            font-size: 1.2rem; cursor: pointer; margin: 40px 0;
+        }
+        
+        .formula-box {
+            background: #f8f9fa;
+            padding: 10px;
+            border-radius: 8px;
+            margin: 10px 0;
+            font-size: 0.95rem;
+            border: 1px dashed #ccc;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>Étude Quantitative d'un Mélange Ionique</h1>
+        <p>Analyse des solutions $S_1$ (BaCl₂), $S_2$ (NaCl) et $S_3$ (NaOH) et de leur mélange final $S$.</p>
+    </div>
+
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Calculer mon score</button>
+</div>
+
+<script>
+    const data = [
+        // PARTIE 1 : ÉQUATIONS ET MASSES MOLAIRES
+        {
+            "s": "Équations et Masses Molaires",
+            "q": "Quelle est la masse molaire moléculaire du chlorure de baryum $BaCl_2$ ?",
+            "options": { "A": "172,5 g/mol", "B": "208 g/mol", "C": "137 g/mol", "D": "243,5 g/mol" },
+            "r": "B"
+        },
+        {
+            "s": "Équations et Masses Molaires",
+            "q": "Parmi les équations suivantes, laquelle représente la dissociation correcte du $BaCl_2$ ?",
+            "options": { "A": "$BaCl_2 \\rightarrow Ba^+ + Cl_2^-$", "B": "$BaCl_2 \\rightarrow Ba^{2+} + 2Cl^-$", "C": "$BaCl_2 \\rightarrow Ba + Cl_2$", "D": "$BaCl_2 \\rightarrow Ba^{2+} + Cl^{2-}$" },
+            "r": "B"
+        },
+        {
+            "s": "Équations et Masses Molaires",
+            "q": "Quelle est la masse molaire de l'hydroxyde de sodium $NaOH$ ?",
+            "options": { "A": "23 g/mol", "B": "39 g/mol", "C": "40 g/mol", "D": "58,5 g/mol" },
+            "r": "C"
+        },
+        {
+            "s": "Équations et Masses Molaires",
+            "q": "L'équation de dissociation de $NaOH$ dans l'eau s'écrit :",
+            "options": { "A": "$NaOH \\rightarrow Na + OH$", "B": "$NaOH \\rightarrow Na^+ + O^{2-} + H^+$", "C": "$NaOH \\rightarrow Na^+ + OH^-$", "D": "$NaOH \\rightarrow NaO^- + H^+$" },
+            "r": "C"
+        },
+
+        // PARTIE 2 : CONCENTRATIONS INITIALES
+        {
+            "s": "Concentrations des solutions initiales",
+            "q": "Pour $S_1$ (50g de $BaCl_2$ dans 800mL), quelle est la concentration molaire $C_1$ ?",
+            "options": { "A": "0,15 mol/L", "B": "0,30 mol/L", "C": "0,60 mol/L", "D": "0,24 mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Concentrations des solutions initiales",
+            "q": "Dans la solution $S_1$, quelle est la concentration molaire des ions chlorure $[Cl^-]_1$ ?",
+            "options": { "A": "0,30 mol/L", "B": "0,15 mol/L", "C": "0,60 mol/L", "D": "0,45 mol/L" },
+            "r": "C"
+        },
+        {
+            "s": "Concentrations des solutions initiales",
+            "q": "Pour $S_2$ (20g de $NaCl$ dans 500mL), la concentration $C_2$ est environ :",
+            "options": { "A": "0,34 mol/L", "B": "0,68 mol/L", "C": "1,36 mol/L", "D": "0,50 mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Concentrations des solutions initiales",
+            "q": "Pour $S_3$ (10g de $NaOH$ dans 300mL), la concentration $C_3$ est environ :",
+            "options": { "A": "0,83 mol/L", "B": "0,40 mol/L", "C": "1,20 mol/L", "D": "0,33 mol/L" },
+            "r": "A"
+        },
+
+        // PARTIE 3 : LE MÉLANGE (VOLUME ET BILAN)
+        {
+            "s": "Le mélange final S",
+            "q": "Quel est le volume total $V_T$ du mélange final ?",
+            "options": { "A": "1300 mL", "B": "1,6 L", "C": "160 mL", "D": "2,0 L" },
+            "r": "B"
+        },
+        {
+            "s": "Le mélange final S",
+            "q": "Quels sont les ions présents dans le mélange final ?",
+            "options": { "A": "$Ba^{2+}, Na^+, Cl^-$", "B": "$Ba^{2+}, Na^+, Cl^-, OH^-$", "C": "$Ba^{2+}, Na^+, Cl^-, OH^-, H_3O^+$", "D": "$Ba, Na, Cl, O, H$" },
+            "r": "C"
+        },
+        {
+            "s": "Le mélange final S",
+            "q": "Pourquoi l'ion $H_3O^+$ est-il listé dans le bilan alors qu'aucun acide n'a été ajouté ?",
+            "options": { "A": "Il provient de l'impureté des sels", "B": "Il provient de l'autoprotolyse de l'eau", "C": "Il provient de la réaction entre $Na$ et $Cl$", "D": "Il n'existe pas en milieu basique" },
+            "r": "B"
+        },
+
+        // PARTIE 4 : CALCUL DES CONCENTRATIONS DANS LE MÉLANGE
+        {
+            "s": "Calcul des concentrations dans S",
+            "q": "Quelle est la concentration en ions $Ba^{2+}$ dans le mélange final ?",
+            "options": { "A": "0,30 mol/L", "B": "0,15 mol/L", "C": "0,075 mol/L", "D": "0,24 mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul des concentrations dans S",
+            "q": "Pour calculer $[Cl^-]$ dans le mélange, quelle formule doit-on utiliser ?",
+            "options": { "A": "$\\frac{C_1V_1 + C_2V_2}{V_T}$", "B": "$\\frac{2C_1V_1 + C_2V_2}{V_T}$", "C": "$\\frac{C_1V_1 + 2C_2V_2}{V_T}$", "D": "$\\frac{C_1+C_2}{V_T}$" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul des concentrations dans S",
+            "q": "Quelle est la valeur de $[Cl^-]$ dans le mélange final ?",
+            "options": { "A": "0,51 mol/L", "B": "0,36 mol/L", "C": "0,66 mol/L", "D": "0,82 mol/L" },
+            "r": "A"
+        },
+        {
+            "s": "Calcul des concentrations dans S",
+            "q": "L'ion sodium $Na^+$ provient de quelles solutions ?",
+            "options": { "A": "$S_1$ et $S_2$", "B": "$S_2$ et $S_3$", "C": "$S_1$ et $S_3$", "D": "Uniquement $S_2$" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul des concentrations dans S",
+            "q": "Quelle est la valeur de $[Na^+]$ dans le mélange final ?",
+            "options": { "A": "0,36 mol/L", "B": "0,51 mol/L", "C": "0,15 mol/L", "D": "0,68 mol/L" },
+            "r": "A"
+        },
+        {
+            "s": "Calcul des concentrations dans S",
+            "q": "Quelle est la valeur de $[OH^-]$ dans le mélange final ?",
+            "options": { "A": "0,83 mol/L", "B": "0,15 mol/L", "C": "0,30 mol/L", "D": "0,41 mol/L" },
+            "r": "B"
+        },
+
+        // PARTIE 5 : ÉLECTRONEUTRALITÉ
+        {
+            "s": "Électroneutralité",
+            "q": "L'équation d'électroneutralité pour cette solution est :",
+            "options": { "A": "$[Ba^{2+}] + [Na^+] = [Cl^-] + [OH^-]$", "B": "$2[Ba^{2+}] + [Na^+] + [H_3O^+] = [Cl^-] + [OH^-]$", "C": "$[Ba^{2+}] + [Na^+] + [H_3O^+] = 2[Cl^-] + [OH^-]$", "D": "$2[Ba^{2+}] + [Cl^-] = [Na^+] + [OH^-]$" },
+            "r": "B"
+        },
+        {
+            "s": "Électroneutralité",
+            "q": "Quelle est la somme des charges positives ($2[Ba^{2+}] + [Na^+]$) ?",
+            "options": { "A": "0,36 mol/L", "B": "0,51 mol/L", "C": "0,66 mol/L", "D": "0,30 mol/L" },
+            "r": "C"
+        },
+        {
+            "s": "Électroneutralité",
+            "q": "Quelle est la somme des charges négatives ($[Cl^-] + [OH^-]$) ?",
+            "options": { "A": "0,66 mol/L", "B": "0,51 mol/L", "C": "0,15 mol/L", "D": "0,68 mol/L" },
+            "r": "A"
+        },
+        {
+            "s": "Électroneutralité",
+            "q": "La vérification montre que $0,66 = 0,66$. Que conclut-on ?",
+            "options": { "A": "La solution est instable", "B": "La solution est électriquement neutre", "C": "Il y a une erreur de calcul", "D": "La solution est acide" },
+            "r": "B"
+        },
+
+        // PARTIE 6 : pH DE LA SOLUTION
+        {
+            "s": "pH de la solution",
+            "q": "Quelle est la relation entre $[H_3O^+]$, $[OH^-]$ et $Ke$ ?",
+            "options": { "A": "$[H_3O^+] = Ke \\times [OH^-]$", "B": "$[H_3O^+] = \\frac{Ke}{[OH^-]}$", "C": "$[H_3O^+] = \\frac{[OH^-]}{Ke}$", "D": "$[H_3O^+] = 14 - [OH^-]$" },
+            "r": "B"
+        },
+        {
+            "s": "pH de la solution",
+            "q": "À 25°C, si $[OH^-] = 0,15\\,mol/L$, quelle est la valeur de $[H_3O^+]$ ?",
+            "options": { "A": "$10^{-14}$", "B": "$6,67.10^{-14}\\,mol/L$", "C": "$1,5.10^{-13}\\,mol/L$", "D": "$10^{-7}\\,mol/L$" },
+            "r": "B"
+        },
+        {
+            "s": "pH de la solution",
+            "q": "Quel est le pH de la solution final S (arrondi à 0,1) ?",
+            "options": { "A": "13,2", "B": "0,8", "C": "7,0", "D": "12,5" },
+            "r": "A"
+        },
+        {
+            "s": "pH de la solution",
+            "q": "La solution S est de nature :",
+            "options": { "A": "Acide", "B": "Neutre", "C": "Basique", "D": "Amphotère" },
+            "r": "C"
+        },
+
+        // QUESTIONS DE SYNTHÈSE
+        {
+            "s": "Synthèse",
+            "q": "Si on doublait le volume d'eau distillée du mélange final, la concentration $[Ba^{2+}]$ deviendrait :",
+            "options": { "A": "0,30 mol/L", "B": "0,075 mol/L", "C": "0,15 mol/L", "D": "0,60 mol/L" },
+            "r": "B"
+        },
+        {
+            "s": "Synthèse",
+            "q": "Le pH d'une solution basique augmente si :",
+            "options": { "A": "On ajoute de l'eau", "B": "On augmente la concentration en ions $OH^-$", "C": "On ajoute un acide", "D": "On diminue la température" },
+            "r": "B"
+        },
+        {
+            "s": "Synthèse",
+            "q": "Quel indicateur coloré serait approprié pour confirmer le caractère basique de S ?",
+            "options": { "A": "Héliantine", "B": "Phénolphtaléine", "C": "Rouge de méthyle", "D": "BBT" },
+            "r": "B"
+        },
+        {
+            "s": "Synthèse",
+            "q": "La concentration massique finale en ions $Na^+$ est calculée par :",
+            "options": { "A": "$[Na^+] \\times M(Na)$", "B": "$[Na^+] / M(Na)$", "C": "$[Na^+] + M(Na)$", "D": "$M(Na) / [Na^+]$" },
+            "r": "A"
+        },
+        {
+            "s": "Synthèse",
+            "q": "Dans ce mélange, quel ion est le moins concentré ?",
+            "options": { "A": "$Na^+$", "B": "$Ba^{2+}$", "C": "$H_3O^+$", "D": "$OH^-$" },
+            "r": "C"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="step-tag">${item.s}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat final : ${score} / ${data.length}`;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+</script>
+
+</body>
+</html>

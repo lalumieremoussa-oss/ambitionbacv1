@@ -1,0 +1,237 @@
+{
+  "title": "Quiz 4",
+  "id": "SVT007_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "La lettre 'a' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le bulbe rachidien.",
+        "B": "La moelle épinière.",
+        "C": "Le ganglion étoilé.",
+        "D": "Le sinus carotidien."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "La lettre 'b' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le bulbe rachidien.",
+        "B": "La moelle épinière.",
+        "C": "Le ganglion étoilé.",
+        "D": "La crosse aortique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La lettre 'c' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le bulbe rachidien.",
+        "B": "La moelle épinière.",
+        "C": "Le ganglion étoilé.",
+        "D": "Le sinus carotidien."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La lettre 'd' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le nerf pneumogastrique (n.p.).",
+        "B": "Le nerf de Cyon (n.c.).",
+        "C": "Le nerf orthosympathique (n.o.).",
+        "D": "Le nerf de Héring (n.h.)."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "La lettre 'e' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le nerf de Cyon (n.c.).",
+        "B": "Le nerf pneumogastrique (n.p.).",
+        "C": "Le nerf orthosympathique (n.o.).",
+        "D": "Le nerf de Héring (n.h.)."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la structure représentée par la lettre C?",
+      "image": "assets/images/svt/fibre_nerveuse.png",
+      "réponses": {
+        "A": "Collatorale",
+        "B": "Corps cellulaire",
+        "C": "Terminaison axonale",
+        "D": "Nœud de Ranvier"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La lettre 'f' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le sinus carotidien (s.c.).",
+        "B": "La crosse aortique (c.o.).",
+        "C": "Le ganglion étoilé.",
+        "D": "Le bulbe rachidien."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "La lettre 'g' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "La crosse aortique (c.o.).",
+        "B": "Le ganglion étoilé.",
+        "C": "Le sinus carotidien (s.c.).",
+        "D": "Le cœur."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La lettre 'h' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le nerf de Cyon (n.c.).",
+        "B": "Le nerf pneumogastrique (n.p.).",
+        "C": "Le nerf orthosympathique (n.o.).",
+        "D": "Le nerf de Héring (n.h.)."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "La lettre 'i' sur le schéma représente :",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Le nerf de Cyon (n.c.).",
+        "B": "Le nerf pneumogastrique (n.p.).",
+        "C": "Le nerf de Héring (n.h.).",
+        "D": "Le nerf orthosympathique (n.o.)."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle est la conséquence sur le rythme cardiaque de la stimulation du centre 'a' (bulbe rachidien) ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Accélération.",
+        "B": "Ralentissement.",
+        "C": "Aucune modification.",
+        "D": "Arrêt."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle est la conséquence sur le rythme cardiaque de la stimulation du centre 'b' (moelle épinière) ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Ralentissement.",
+        "B": "Aucune modification.",
+        "C": "Accélération.",
+        "D": "Arrêt."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est l'effet de la stimulation du nerf 'd' (nerf orthosympathique) sur le rythme cardiaque ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Ralentissement.",
+        "B": "Accélération.",
+        "C": "Aucune modification.",
+        "D": "Bradycardie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est l'effet de la section du nerf 'd' (nerf orthosympathique) sur le rythme cardiaque ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Accélération.",
+        "B": "Ralentissement.",
+        "C": "Aucune modification.",
+        "D": "Tachycardie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel est l'effet de la stimulation du nerf 'e' (nerf pneumogastrique) sur le rythme cardiaque ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Ralentissement.",
+        "B": "Accélération",
+        "C": "Aucune modification.",
+        "D": "Tachycardie."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Quel est l'effet de la section du nerf 'e' (nerf pneumogastrique) sur le rythme cardiaque ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Ralentissement.",
+        "B": "Bradycardie",
+        "C": "Aucune modification.",
+        "D": "Accélération."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel est l'effet d'une stimulation du bout central du nerf 'i' (nerf de Héring) sur la fréquence cardiaque ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "Augmentation.",
+        "B": "Fluctuation",
+        "C": "Aucune modification.",
+        "D": "Diminution."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quelle substance est cardio-modératrice et entraîne un ralentissement du rythme cardiaque ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "L'adrénaline.",
+        "B": "La noradrénaline.",
+        "C": "L'acétylcholine.",
+        "D": "La dopamine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle substance est cardio-accélératrice et stimule l'activité du nœud sinusal ?",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "L'acétylcholine.",
+        "B": "L'adrénaline (ou noradrénaline).",
+        "C": "L'histamine.",
+        "D": "La sérotonine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le centre 'a' (bulbe rachidien) est qualifié de centre cardio-.....A..... et est relié au cœur par le nerf .....B..... (e).",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "A: accélérateur, B: orthosympathique",
+        "B": "A: modérateur, B: pneumogastrique",
+        "C": "A: régulateur, B: de Cyon",
+        "D": "A: excitateur, B: de Héring"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Le centre 'b' (moelle épinière) est qualifié de centre cardio-.....A..... et est relié au cœur par le nerf .....B..... (d).",
+      "image": "assets/images/svt/coeur.png",
+      "réponses": {
+        "A": "A: modérateur, B: pneumogastrique",
+        "B": "A: accélérateur, B: orthosympathique",
+        "C": "A: régulateur, B: de Cyon",
+        "D": "A: excitateur, B: de Héring"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

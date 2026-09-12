@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE (BAC 2012)</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "D'après l'expression de la tension $u(t) = 12\\sqrt{2}\\cos(100\\pi t + 0,92)$, quelle est la valeur de la tension efficace $U$ ?",
+                "img": "",
+                "options": {
+                    "A": "$12\\sqrt{2}\\ \\text{V}$",
+                    "B": "$12\\ \\text{V}$",
+                    "C": "$24\\ \\text{V}$",
+                    "D": "$100\\pi\\ \\text{V}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "La pulsation $\\omega$ du signal délivré par le GBF est :",
+                "img": "",
+                "options": {
+                    "A": "$50\\ \\text{rad/s}$",
+                    "B": "$100\\ \\text{rad/s}$",
+                    "C": "$100\\pi\\ \\text{rad/s}$",
+                    "D": "$314\\ \\text{Hz}$"
+                },
+                "r": "C"
+            },
+            {
+                "q": "La fréquence $f$ du courant est égale à :",
+                "img": "",
+                "options": {
+                    "A": "$100\\ \\text{Hz}$",
+                    "B": "$50\\ \\text{Hz}$",
+                    "C": "$25\\ \\text{Hz}$",
+                    "D": "$314\\ \\text{Hz}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Quelle est la phase à l'origine $\\phi_u$ de la tension ?",
+                "img": "",
+                "options": {
+                    "A": "$0\\ \\text{rad}$",
+                    "B": "$100\\pi\\ \\text{rad}$",
+                    "C": "$0,92\\ \\text{rad}$",
+                    "D": "$\\frac{\\pi}{2}\\ \\text{rad}$"
+                },
+                "r": "C"
+            },
+            {
+                "q": "L'ampèremètre indique $I = 1,2\\ \\text{A}$. Cette valeur représente :",
+                "img": "",
+                "options": {
+                    "A": "L'intensité maximale $I_m$",
+                    "B": "L'intensité efficace $I$",
+                    "C": "L'intensité instantanée $i(t)$",
+                    "D": "L'intensité moyenne"
+                },
+                "r": "B"
+            },
+            {
+                "q": "L'impédance $Z$ de la bobine est calculée par la relation :",
+                "img": "",
+                "options": {
+                    "A": "$Z = U \\cdot I$",
+                    "B": "$Z = \\frac{U}{I}$",
+                    "C": "$Z = \\frac{I}{U}$",
+                    "D": "$Z = \\frac{U^2}{I}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Avec $U = 12\\ \\text{V}$ et $I = 1,2\\ \\text{A}$, la valeur de l'impédance $Z$ est :",
+                "img": "",
+                "options": {
+                    "A": "$14,4\\ \\Omega$",
+                    "B": "$10\\ \\Omega$",
+                    "C": "$0,1\\ \\Omega$",
+                    "D": "$12\\ \\Omega$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Dans un circuit inductif (bobine), l'intensité du courant $i(t)$ est :",
+                "img": "",
+                "options": {
+                    "A": "En avance sur la tension $u(t)$",
+                    "B": "En phase avec la tension $u(t)$",
+                    "C": "En retard sur la tension $u(t)$",
+                    "D": "En opposition de phase"
+                },
+                "r": "C"
+            },
+            {
+                "q": "Le déphasage de la tension par rapport à l'intensité $\\phi_{u/i}$ vérifie :",
+                "img": "",
+                "options": {
+                    "A": "$\\phi_{u/i} < 0$",
+                    "B": "$\\phi_{u/i} = 0,92\\ \\text{rad}$",
+                    "C": "$\\phi_{u/i} = \\frac{\\pi}{2}\\ \\text{rad}$",
+                    "D": "$\\phi_{u/i} = \\pi\\ \\text{rad}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "L'expression de l'impédance $Z$ en fonction de $r$, $L$ et $\\omega$ est :",
+                "img": "",
+                "options": {
+                    "A": "$Z = r + L\\omega$",
+                    "B": "$Z = \\sqrt{r^2 + (L\\omega)^2}$",
+                    "C": "$Z = \\sqrt{r + L\\omega}$",
+                    "D": "$Z = r^2 + (L\\omega)^2$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Le facteur de puissance s'exprime par :",
+                "img": "",
+                "options": {
+                    "A": "$\\cos\\phi = \\frac{L\\omega}{Z}$",
+                    "B": "$\\cos\\phi = \\frac{r}{Z}$",
+                    "C": "$\\cos\\phi = \\frac{Z}{r}$",
+                    "D": "$\\sin\\phi = \\frac{r}{Z}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Si $\\cos(0,92) \\approx 0,6$, la résistance interne $r$ est :",
+                "img": "",
+                "options": {
+                    "A": "$10\\ \\Omega$",
+                    "B": "$6\\ \\Omega$",
+                    "C": "$8\\ \\Omega$",
+                    "D": "$1,2\\ \\Omega$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "La relation entre $L\\omega$, $r$ et $\\phi$ est :",
+                "img": "",
+                "options": {
+                    "A": "$\\tan\\phi = \\frac{r}{L\\omega}$",
+                    "B": "$\\tan\\phi = \\frac{L\\omega}{r}$",
+                    "C": "$\\tan\\phi = r \\cdot L\\omega$",
+                    "D": "$\\sin\\phi = \\frac{r}{L\\omega}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Si $\\phi_{u/i} = 0,92$ rad et $\\phi_u = 0,92$ rad, alors $\\phi_i$ vaut :",
+                "img": "",
+                "options": {
+                    "A": "$1,84\\ \\text{rad}$",
+                    "B": "$0\\ \\text{rad}$",
+                    "C": "$-0,92\\ \\text{rad}$",
+                    "D": "$\\frac{\\pi}{2}\\ \\text{rad}$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Si $X_L = 8\\ \\Omega$ et $\\omega = 100\\pi$, alors l'inductance $L$ vaut :",
+                "img": "",
+                "options": {
+                    "A": "$0,025\\ \\text{H}$",
+                    "B": "$800\\pi\\ \\text{H}$",
+                    "C": "$2,5\\ \\text{H}$",
+                    "D": "$0,25\\ \\text{H}$"
+                },
+                "r": "A"
+            }
+        ];
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

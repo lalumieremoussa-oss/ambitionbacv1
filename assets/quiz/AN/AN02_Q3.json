@@ -1,0 +1,344 @@
+{
+  "title": "Quiz 3",
+  "id": "AN02_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Bonjour, mon ami.\" (Utilisé le matin)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good afternoon, my friend.",
+        "B": "Good evening, my friend.",
+        "C": "Hello, my friend.",
+        "D": "Good morning, my friend."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle est la traduction de \"Son nom (à elle) est Aminata\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "His name is Aminata.",
+        "B": "Her name is Aminata.",
+        "C": "My name is Aminata.",
+        "D": "Your name is Aminata."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel est le sens de \"What is your first name?\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Quel est ton nom de famille ?",
+        "B": "Quel est ton surnom ?",
+        "C": "Où es-tu ?",
+        "D": "Quel est ton prénom ?"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Comment dit-on \"Bonsoir\" en anglais ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Good morning",
+        "B": "Good evening",
+        "C": "Good afternoon",
+        "D": "Good night"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quel déterminant possessif correspond à \"vos\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "My",
+        "B": "His",
+        "C": "Her",
+        "D": "Your"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Je suis Soumahoro.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My name is Soumahoro.",
+        "B": "Soumahoro is me.",
+        "C": "I am Soumahoro.",
+        "D": "I have Soumahoro."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel pronom interrogatif signifie \"où\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "What",
+        "B": "Who",
+        "C": "Where",
+        "D": "Why"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pour traduire \"Sa sœur (à lui)\", quel déterminant possessif utilisez-vous ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Her",
+        "B": "His",
+        "C": "My",
+        "D": "Your"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel mot signifie \"Nom de famille\" en anglais ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "First name",
+        "B": "Family name",
+        "C": "Nickname",
+        "D": "My name"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Le mot \"Hello\" en anglais signifie :",
+      "type": "QCM",
+      "réponses": {
+        "A": "Au revoir",
+        "B": "Bonne nuit",
+        "C": "Comment allez-vous",
+        "D": "Salut / Bonjour"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Salut, professeur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Hello",
+        "teacher",
+        "is",
+        "my"
+      ],
+      "bonne réponse": "Hello teacher"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Mon prénom est Aminata.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "first",
+        "name",
+        "is",
+        "Aminata",
+        "Her",
+        "family",
+        "are",
+        "the",
+        "book"
+      ],
+      "bonne réponse": "My first name is Aminata"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Où es-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Where",
+        "are",
+        "you",
+        "am",
+        "is",
+        "from"
+      ],
+      "bonne réponse": "Where are you"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Son nom (à lui).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "His",
+        "name",
+        "Her",
+        "is"
+      ],
+      "bonne réponse": "His name"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Sa sœur (à elle).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Her",
+        "sister",
+        "His",
+        "name"
+      ],
+      "bonne réponse": "Her sister"
+    },
+    "question n°16": {
+      "question": "Complétez : \"My family name _____ Traoré.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "family",
+        "name",
+        "is",
+        "Traoré",
+        "first",
+        "am",
+        "are"
+      ],
+      "bonne réponse": "My family name is Traoré"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Comment vas-tu ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "How",
+        "are",
+        "you",
+        "is",
+        "am",
+        "the"
+      ],
+      "bonne réponse": "How are you"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Mon prénom.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "first",
+        "name",
+        "family",
+        "is",
+        "your"
+      ],
+      "bonne réponse": "My first name"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Quel est ton nom ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "What",
+        "is",
+        "your",
+        "name",
+        "are",
+        "am",
+        "the",
+        "book"
+      ],
+      "bonne réponse": "What is your name"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Bonne nuit, Madam.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "night",
+        "Madam",
+        "morning",
+        "is",
+        "my"
+      ],
+      "bonne réponse": "Good night Madam"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ton ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Your",
+        "friend",
+        "my",
+        "is"
+      ],
+      "bonne réponse": "Your friend"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Pourquoi est-il triste ?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Why",
+        "is",
+        "he",
+        "sad",
+        "are",
+        "have",
+        "she",
+        "happy"
+      ],
+      "bonne réponse": "Why is he sad"
+    },
+    "question n°23": {
+      "question": "Traduisez le pronom interrogatif : \"combien\".",
+      "type": "drag_and_drop",
+      "réponses": [
+        "How",
+        "many",
+        "when",
+        "where",
+        "is",
+        "you"
+      ],
+      "bonne réponse": "How many"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Son prénom (à lui) est Ali.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "His",
+        "first",
+        "name",
+        "is",
+        "Ali",
+        "Her",
+        "my",
+        "the",
+        "book",
+        "are"
+      ],
+      "bonne réponse": "His first name is Ali"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Bon après-midi, mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Good",
+        "afternoon",
+        "my",
+        "friend",
+        "morning",
+        "evening",
+        "is",
+        "the"
+      ],
+      "bonne réponse": "Good afternoon my friend"
+    },
+    "question n°26": {
+      "question": "Traduisez l'expression \"Je m'appelle...\" (en utilisant \"I\").",
+      "type": "short_answer",
+      "bonne réponse": "I am..."
+    },
+    "question n°27": {
+      "question": "Quel déterminant possessif est utilisé pour traduire \"sa/ses\" quand on parle d'une femme ?",
+      "type": "short_answer",
+      "bonne réponse": "Her"
+    },
+    "question n°28": {
+      "question": "Quel pronom interrogatif signifie \"quand\" ?",
+      "type": "short_answer",
+      "bonne réponse": "When"
+    },
+    "question n°29": {
+      "question": "Comment dit-on \"Bon après-midi\" en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "Good afternoon"
+    },
+    "question n°30": {
+      "question": "Quel mot anglais signifie \"surnom\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Nickname"
+    }
+  }
+}

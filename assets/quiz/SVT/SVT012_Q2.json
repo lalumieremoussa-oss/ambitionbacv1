@@ -1,0 +1,285 @@
+{
+  "id": "SVT012_Q2",
+  "title": "Quiz 2: Les fonctions du rein et du néphron",
+  "questions": {
+    "question n°1": {
+      "question": "Parmi les substances suivantes, lesquelles sont spécifiques au plasma et ne devraient normalement pas se retrouver dans l’urine ?",
+      "réponses": {
+        "A": "L’eau et le chlorure de sodium.",
+        "B": "L’urée et l’acide urique.",
+        "C": "Les protéines, les lipides et les glucides.",
+        "D": "L’ammoniaque et les sels minéraux."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle du rein en ce qui concerne les substances utiles à l’organisme comme les protéines et les lipides ?",
+      "réponses": {
+        "A": "Il les sécrète activement dans l’urine.",
+        "B": "Il les élimine comme des déchets azotés.",
+        "C": "Il agit comme une barrière qui empêche leur passage du plasma vers l’urine.",
+        "D": "Il les laisse passer librement selon les besoins du corps."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Le passage libre de l’eau et des sels minéraux (NaCl) du plasma vers l’urine, selon les besoins du corps, démontre quel rôle du rein ?",
+      "réponses": {
+        "A": "Son rôle de sécréteur.",
+        "B": "Son rôle d’excréteur.",
+        "C": "Son rôle de filtre sélectif.",
+        "D": "Son rôle de stockage."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelles sont les substances spécifiques à l’urine, presque absentes dans le plasma, qui sont des déchets azotés ?",
+      "image": "assets/images/svt/tableau_rein.png",
+      "réponses": {
+        "A": "Les lipides, les protéines et l’eau.",
+        "B": "Le chlorure de sodium et le glucose.",
+        "C": "L’urée, l’acide urique et l’ammoniaque.",
+        "D": "Les vitamines et les minéraux."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Comment appelle-t-on le processus par lequel le rein élimine les déchets azotés comme l’urée et l’acide urique ?",
+      "réponses": {
+        "A": "La filtration.",
+        "B": "La réabsorption.",
+        "C": "L’excrétion.",
+        "D": "La sécrétion."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Les protéines, les glucides (glucose) et les lipides sont des substances considérées comme des déchets azotés par l’organisme.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Le rein joue un rôle de filtre sélectif en retenant les substances utiles à l’organisme.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "L’eau et le chlorure de sodium sont des composés qui passent librement entre le plasma et l’urine selon les besoins du corps.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Le rôle de « sécréteur » du rein implique l’élimination des déchets azotés comme l’urée.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "L’ammoniac est une substance qui est ajoutée à l’urine par le rein, illustrant son rôle de sécréteur.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Le rein agit comme un filtre sélectif, retenant les substances […A…] telles que les protéines et le glucose. Il joue également un rôle de […B…] en ajoutant certaines substances comme l’ammoniac dans l’urine, et un rôle d’[…C…] en éliminant les déchets azotés.",
+      "réponses": {
+        "A": "A : inutiles, B : filtre, C : absorption",
+        "B": "A : utiles, B : sécréteur, C : excréteur",
+        "C": "A : toxiques, B : réabsorbeur, C : stockage",
+        "D": "A : spécifiques, B : transformateur, C : production"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Dans l’analyse comparative entre le plasma et l’urine, les composés […A…] aux deux liquides, comme l’eau et le chlorure de sodium, passent […B…] selon les besoins du corps, ce qui montre que le rein joue un rôle de […C…].",
+      "réponses": {
+        "A": "A : absents, B : difficilement, C : pompe",
+        "B": "A : spécifiques, B : rarement, C : barrière",
+        "C": "A : communs, B : librement, C : filtre sélectif",
+        "D": "A : différents, B : lentement, C : transformateur"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Les substances spécifiques à l’urine, comme l’[…A…], l’acide urique et l’ammoniaque, sont des déchets […B…] produits par le métabolisme. Elles sont […C…] par le rein pour être éliminées.",
+      "réponses": {
+        "A": "A : glucose, B : carbonés, C : retenues",
+        "B": "A : protéines, B : lipidiques, C : recyclées",
+        "C": "A : urée, B : azotés, C : sécrétées ou excrétées",
+        "D": "A : sels minéraux, B : minéraux, C : absorbées"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quelles substances, spécifiques au plasma, sont incapables de traverser les parois du glomérule pour passer dans l’urine primitive ?",
+      "réponses": {
+        "A": "L’eau et les sels minéraux.",
+        "B": "L’urée et la créatinine.",
+        "C": "Les lipides et les protéines.",
+        "D": "L’ammoniac et l’acide hippurique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Parmi les substances suivantes, lesquelles sont communes au plasma et à l’urine primitive ?",
+      "réponses": {
+        "A": "Les lipides et les protéines.",
+        "B": "L’ammoniac et l’acide hippurique.",
+        "C": "L’eau, le chlore, le sodium, le potassium,etc….",
+        "D": "Seulement l’eau et le chlorure de sodium."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "La diminution ou l’absence de quelles substances dans l’urine définitive, par rapport à l’urine primitive, s’explique par le phénomène de réabsorption tubulaire ?",
+      "réponses": {
+        "A": "Les lipides et les protéines et d’autres composés de grossesse molécule.",
+        "B": "L’ammoniac et l’acide hippurique et d’autres ions.",
+        "C": "L’urée L’ammoniac, l’acide hippurique et l’acide urique.",
+        "D": "Les glucides et d’autres petites molécules/ions comme l’eau et les sels minéraux."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Comment sont qualifiés les composés spécifiques à l’urine définitive, comme l’ammoniac et l’acide hippurique ?",
+      "réponses": {
+        "A": "Ils sont filtrés sélectivement.",
+        "B": "Ils sont réabsorbés au niveau des tubules.",
+        "C": "Ce sont des substances utiles que le corps retient",
+        "D": "Ils sont sécrétés par les tubules et rejetés directement dans l’urine."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quel phénomène permet aux petites molécules et aux ions de passer du plasma vers l’urine primitive à travers les parois du glomérule ?",
+      "réponses": {
+        "A": "La filtration glomérulaire.",
+        "B": "La sécrétion tubulaire.",
+        "C": "La réabsorption tubulaire.",
+        "D": "L’excrétion rénale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Lequel des rôles suivants n’est pas un rôle principal du néphron mentionné dans le texte ?",
+      "réponses": {
+        "A": "Le stockage de l’urine.",
+        "B": "La réabsorption tubulaire.",
+        "C": "La filtration glomérulaire.",
+        "D": "La sécrétion tubulaire."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Les glucides sont totalement absents du plasma.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "La quantité de l’eau et du chlorure de sodium diminue considérablement dans l’urine définitive par rapport à l’urine primitive, en raison de la réabsorption tubulaire.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°22": {
+      "question": "Les lipides et les protéines sont des composés de petite taille capables de traverser librement les parois du glomérule.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "L’ammoniac et l’acide hippurique sont des composés qui sont réabsorbés par les tubules pour être conservés par l’organisme.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Le néphron a trois rôles principaux : la filtration glomérulaire, la réabsorption tubulaire et la sécrétion tubulaire.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "La créatinine est une substance spécifique au plasma et absente de l’urine primitive.",
+      "réponses": {
+        "A": "Vrai.",
+        "B": "Faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Les composés de […A…] molécules comme les protéines et les lipides sont […B…] de traverser les parois de la glomérule pour passer à l’urine primitive, démontrant ainsi le rôle de […C…] glomérulaire.",
+      "réponses": {
+        "A": "A : petites, B : capables, C : réabsorption",
+        "B": "A : grosses, B : incapables, C : filtration",
+        "C": "A : moyennes, B : partiellement, C : sécrétion",
+        "D": "A : diverses, B : souvent, C : concentration"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Les substances communes au plasma et à l’urine primitive sont soit des ions soit des […A…] molécules. Leur diminution dans l’urine définitive s’explique par le phénomène de la […B…] tubulaire, répondant ainsi aux […C…] de l’organisme.",
+      "réponses": {
+        "A": "A : grosses, B : filtration, C : déchets",
+        "B": "A : complexes, B : sécrétion, C : régulations",
+        "C": "A : petites, B : réabsorption, C : besoins",
+        "D": "A : uniques, B : excrétion, C : préférences"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°28": {
+      "question": "L’ammoniac et l’acide hippurique sont des composés […A…] à l’urine définitive. Ils sont […B…] par les tubules et rejetés […C…] dans l’urine.",
+      "réponses": {
+        "A": "A : spécifiques, B : sécrétés, C : directement",
+        "B": "A : communs, B : filtrés, C : partiellement",
+        "C": "A : absents, B : réabsorbés, C : indirectement",
+        "D": "A : variés, B : transformés, C : lentement"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°29": {
+      "question": "Le néphron, unité fonctionnelle du rein, est responsable de la […A…] glomérulaire, processus durant lequel les petites molécules traversent le glomérule. Ensuite, la […B…] tubulaire permet de récupérer les substances utiles pour le corps, tandis que la […C…] tubulaire ajoute des déchets spécifiques à l’urine.",
+      "réponses": {
+        "A": "A : réabsorption, B : sécrétion, C : filtration",
+        "B": "A : absorption, B : élimination, C : production",
+        "C": "A : sécrétion, B : filtration, C : réabsorption",
+        "D": "A : filtration, B : réabsorption, C : sécrétion"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°30": {
+      "question": "L’urine primitive contient des substances utiles comme le glucose et des déchets comme l’[…A…]. L’absence de […B…] et la diminution des autres substances utiles dans l’urine définitive indiquent une réabsorption tubulaire essentielle pour maintenir l’[…C…] du corps.",
+      "réponses": {
+        "A": "A : acide hippurique, B : protéines, C : équilibre des lipides",
+        "B": "A : créatinine, B : glucides, C : homéostasie",
+        "C": "A : potassium, B : sels minéraux, C : régulation thermique",
+        "D": "A : chlore, B : lipides, C : pression sanguine"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

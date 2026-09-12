@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "Pour un solide de masse $m$ attaché à un ressort de raideur $k$, l’équation différentielle du mouvement est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$x'' - \\frac{k}{m}x = 0$",
+                    "B": "$x'' + \\frac{k}{m}x = 0$",
+                    "C": "$x' + kx = 0$",
+                    "D": "$x'' = kx$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : cette équation correspond à :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "un mouvement rectiligne uniforme",
+                    "B": "un oscillateur harmonique",
+                    "C": "un mouvement circulaire",
+                    "D": "un mouvement accéléré"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : une solution de cette équation est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$x(t) = Xm \\sin(wt)$",
+                    "B": "$x(t) = Xm \\cos(wt + \\varphi)$",
+                    "C": "$x(t) = at$",
+                    "D": "$x(t) = t^2$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : la vitesse est donnée par :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$v = wXm \\cos(wt+\\varphi)$",
+                    "B": "$v = -wXm \\sin(wt+\\varphi)$",
+                    "C": "$v = gt$",
+                    "D": "$v = x$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’accélération est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$a = -w^2 x$",
+                    "B": "$a = wx$",
+                    "C": "$a = gt$",
+                    "D": "$a = x$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : la pulsation propre est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$w = \\frac{k}{m}$",
+                    "B": "$w = \\sqrt{\\frac{k}{m}}$",
+                    "C": "$w = \\frac{m}{k}$",
+                    "D": "$w = g$"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’énergie mécanique est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$Em = \\frac{1}{2}mv^2$",
+                    "B": "$Em = \\frac{1}{2}kx^2$",
+                    "C": "$Em = \\frac{1}{2}mv^2 + \\frac{1}{2}kx^2$",
+                    "D": "$Em = mgx$"
+                },
+                "r": "C"
+            },
+            {
+                "q": "Suite du précédent : l’énergie mécanique est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "variable",
+                    "B": "constante",
+                    "C": "nulle",
+                    "D": "infinie"
+                },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : l’expression de l’énergie mécanique maximale est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$Em = \\frac{1}{2}ka^2$",
+                    "B": "$Em = ma$",
+                    "C": "$Em = ka$",
+                    "D": "$Em = \\frac{1}{2}mv^2$"
+                },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : la vitesse maximale est :",
+                "img": "ressort1.png",
+                "options": {
+                    "A": "$V_{max} = a\\sqrt{\\frac{k}{m}}$",
+                    "B": "$V_{max} = g$",
+                    "C": "$V_{max} = a$",
+                    "D": "$V_{max} = ka$"
+                },
+                "r": "A"
+            }
+        ];
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

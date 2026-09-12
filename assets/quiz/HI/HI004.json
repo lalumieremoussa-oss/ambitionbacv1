@@ -1,0 +1,621 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "HI004_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Que découvrent les Africains à travers les deux guerres mondiales ?",
+      "réponses": {
+        "A": "Les Européens sont des sauveurs désintéressés",
+        "C": "Les Européens sont vulnérables et dépendent des Africains",
+        "D": "L’Afrique est à l’origine du conflit mondial",
+        "B": "L’Europe protège mieux les colonies que prévu"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Par quels canaux les idées de liberté et d’égalité ont-elles circulé en Afrique coloniale ?",
+      "réponses": {
+        "A": "Les contes traditionnels",
+        "C": "Les cours du soir organisés par les chefs coutumiers",
+        "D": "L’école, les missions, la presse et les anciens combattants",
+        "B": "Les douanes et les chefs de village"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Comment les USA et l’URSS ont-ils influencé les nationalistes africains ?",
+      "réponses": {
+        "A": "En imposant des constitutions aux colonies",
+        "C": "En réclamant l’exclusion de l’Afrique de l’ONU",
+        "D": "En soutenant les pouvoirs coloniaux",
+        "B": "En s’opposant à la colonisation et en soutenant les luttes pour l’indépendance"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle est la portée du discours de Wilson sur le droit des peuples à disposer d’eux-mêmes ?",
+      "réponses": {
+        "A": "Il a encouragé les peuples colonisés à revendiquer leur autonomie",
+        "C": "Il a renforcé la domination coloniale",
+        "D": "Il était uniquement destiné aux peuples européens",
+        "B": "Il a été rejeté par les nationalistes africains"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelles luttes de décolonisation ont inspiré les Africains ?",
+      "réponses": {
+        "A": "La guerre de Sécession",
+        "C": "L’indépendance de l’Inde, la Révolution française et la guerre du Vietnam",
+        "D": "Le plan Marshall",
+        "B": "L’accord de Munich"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel fut le rôle des Églises chrétiennes ?",
+      "réponses": {
+        "A": "Elles ont soutenu les colons",
+        "C": "Elles ont exigé la suppression des langues africaines",
+        "D": "Elles ont diffusé des valeurs de justice et formé des leaders",
+        "B": "Elles ont interdit l’école aux enfants africains"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Pourquoi USA et URSS s’opposaient-ils à la colonisation ?",
+      "réponses": {
+        "A": "Pour défendre les intérêts des rois africains",
+        "C": "Pour des raisons idéologiques mais aussi stratégiques",
+        "D": "Pour maintenir l'ordre colonial",
+        "B": "Parce que l’Afrique avait menacé l’Occident"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle fut l’action de l’ONU contre la colonisation ?",
+      "réponses": {
+        "A": "Elle a envoyé des troupes en Afrique",
+        "C": "Elle a condamné le colonialisme et soutenu le droit à l’autodétermination",
+        "D": "Elle a soutenu les gouverneurs coloniaux",
+        "B": "Elle a créé de nouvelles colonies"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel est le rôle du Conseil de Tutelle de l’ONU ?",
+      "réponses": {
+        "A": "Appliquer le code de l’indigénat",
+        "C": "Organiser les guerres d’indépendance",
+        "D": "Préparer les territoires sous tutelle à l’indépendance",
+        "B": "Recoloniser les territoires libérés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Comment certaines opinions publiques européennes ont-elles soutenu les Africains ?",
+      "réponses": {
+        "A": "En militant pour plus d’impôts",
+        "C": "En défendant les privilèges coloniaux",
+        "D": "En s’opposant à toute réforme",
+        "B": "En dénonçant les abus coloniaux et en soutenant les indépendantistes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel message les anciens combattants africains ont-ils rapporté ?",
+      "réponses": {
+        "A": "L’égalité des races est une illusion européenne",
+        "C": "Les Européens ne savent pas se battre",
+        "D": "La colonisation est une punition divine",
+        "B": "Les Européens ont besoin des Africains pour survivre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Pourquoi la presse a-t-elle été importante ?",
+      "réponses": {
+        "A": "Elle censurait les idées d’indépendance",
+        "C": "Elle a relayé les valeurs de liberté, parfois discrètement",
+        "D": "Elle a toujours soutenu la France",
+        "B": "Elle était réservée aux colons"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que montre la participation des soldats africains aux conflits mondiaux ?",
+      "réponses": {
+        "A": "Une adhésion totale à l’idéologie coloniale",
+        "C": "Une incompétence militaire",
+        "D": "Une peur de l’indépendance",
+        "B": "Une capacité à se battre pour leurs droits"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel impact ont eu les conférences internationales sur les nationalistes africains ?",
+      "réponses": {
+        "A": "Elles ont donné de la visibilité aux revendications des colonisés",
+        "C": "Elles ont renforcé la légitimité des empires",
+        "D": "Elles ont été ignorées en Afrique",
+        "B": "Elles ont interdit l’adhésion des Africains"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Pourquoi le discours égalitaire des colons était-il contradictoire ?",
+      "réponses": {
+        "A": "Il prônait la polygamie",
+        "C": "Il ignorait la religion",
+        "D": "Il affirmait l’égalité tout en maintenant l’exploitation coloniale",
+        "B": "Il interdisait l’usage de la radio"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel fut l’impact des missions chrétiennes sur les jeunes Africains ?",
+      "réponses": {
+        "A": "Elles empêchaient toute ambition politique",
+        "C": "Elles limitaient l’usage des langues étrangères",
+        "D": "Elles formaient uniquement des prêtres",
+        "B": "Elles ont éveillé certaines élites aux valeurs universelles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Qu’est-ce que le combat pour les droits civiques aux États-Unis a provoqué en Afrique ?",
+      "réponses": {
+        "A": "Une prise de conscience sur la discrimination raciale et la nécessité de l’indépendance",
+        "C": "Un soutien au colonialisme",
+        "D": "Un rejet des valeurs de liberté",
+        "B": "Une admiration pour le Ku Klux Klan"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel fut le rôle de la radio dans l’éveil africain ?",
+      "réponses": {
+        "A": "Propager des chansons coloniales",
+        "C": "Diffuser des publicités",
+        "D": "Transmettre les idées nationalistes venues d’Europe",
+        "B": "Imposer les langues locales"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Quel est l’effet du rejet du colonialisme par les religions ?",
+      "réponses": {
+        "A": "Renforcement de l’autorité coloniale",
+        "C": "Légitimation des luttes pour la justice et l’égalité",
+        "D": "Abandon des langues locales",
+        "B": "Soutien à l’armée française"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Pourquoi certains Européens ont-ils soutenu les nationalistes africains ?",
+      "réponses": {
+        "A": "Par souci moral et en réaction aux injustices coloniales",
+        "C": "Pour renforcer les empires",
+        "D": "Pour éviter leur propre décolonisation",
+        "B": "Pour garantir l’exploitation minière"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI004_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels abus du système colonial ont déclenché l’indignation des Africains ?",
+      "réponses": {
+        "A": "Les festivals culturels réguliers",
+        "B": "Le travail forcé, les violences, les spoliations et humiliations",
+        "C": "L’accès gratuit aux soins médicaux",
+        "D": "L’enseignement universel pour tous"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi les inégalités entre Noirs et Blancs ont-elles alimenté le nationalisme ?",
+      "réponses": {
+        "A": "Parce que les Blancs n’avaient pas de lois",
+        "C": "Parce que les Noirs étaient majoritaires mais systématiquement discriminés",
+        "D": "Parce qu’ils refusaient la modernité",
+        "B": "Parce qu’ils voulaient imiter la culture occidentale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Comment les impôts coloniaux étaient-ils perçus par les Africains ?",
+      "réponses": {
+        "A": "Comme une contribution équitable",
+        "C": "Comme un don volontaire pour le développement",
+        "D": "Comme une compensation pour l’enseignement",
+        "B": "Comme une injustice brutale sans bénéfice en retour"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel a été l’effet de l’aliénation culturelle coloniale ?",
+      "réponses": {
+        "A": "Le renforcement des coutumes africaines",
+        "C": "Une ouverture totale à la culture française",
+        "D": "Une perte de repères et un désir de retrouver l’identité africaine",
+        "B": "L’adoption du paganisme"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Pourquoi le christianisme et la langue du colon ont-ils été parfois rejetés ?",
+      "réponses": {
+        "A": "Parce qu’ils étaient trop simples à apprendre",
+        "C": "Parce qu’ils empêchaient de voyager",
+        "B": "Parce qu’ils étaient jugés inadaptés à la culture",
+        "D": "Parce qu’ils étaient perçus comme des outils de domination"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Que s’est-il passé pour les institutions traditionnelles africaines sous la colonisation ?",
+      "réponses": {
+        "A": "Elles ont été renforcées",
+        "C": "Elles ont été affaiblies ou manipulées par les colons",
+        "D": "Elles ont été nommées au parlement français",
+        "B": "Elles ont conquis l’Europe"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelles nouvelles classes sociales ont émergé sous la colonisation ?",
+      "réponses": {
+        "A": "Une élite intellectuelle adoptant certaines valeurs occidentales mais rejetant la domination coloniale",
+        "C": "Une aristocratie royale fidèle aux colons",
+        "D": "Une caste militaire uniquement traditionnelle",
+        "B": "Des agriculteurs illettrés opposés à toute réforme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Qui étaient les élites africaines nées de la colonisation ?",
+      "réponses": {
+        "A": "Les griots et chasseurs",
+        "C": "Les enseignants, fonctionnaires et intellectuels revendiquant plus de justice",
+        "D": "Les rois et reines traditionnels exclusivement",
+        "B": "Les sorciers des villages"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quel rôle l’école coloniale a-t-elle joué dans le développement du nationalisme ?",
+      "réponses": {
+        "A": "Elle a formé uniquement des militaires",
+        "D": "Elle a permis l’émergence d’une conscience politique chez certains Africains",
+        "C": "Elle n’enseignait que le catéchisme",
+        "B": "Elle interdisait toute critique du colon"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Qui sont des figures africaines formées par les colons devenues nationalistes ?",
+      "réponses": {
+        "A": "Martin Luther King, Nelson Mandela",
+        "B": "Che Guevara, Thomas Sankara",
+        "C": "Sékou Touré, Houphouët-Boigny, Nkrumah, Senghor",
+        "D": "Patrice Lumumba et Napoléon"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle forme de travail imposée symbolise l’oppression coloniale ?",
+      "réponses": {
+        "A": "L’artisanat libre",
+        "C": "Le bénévolat rural",
+        "D": "Le commerce équitable",
+        "B": "Le travail forcé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle injustice éducative renforce le ressentiment des colonisés ?",
+      "réponses": {
+        "A": "L’exclusion des Noirs des écoles supérieures",
+        "C": "L’enseignement gratuit pour tous",
+        "D": "Le bilinguisme obligatoire",
+        "B": "Les cours de théâtre africain"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Quel domaine reflète fortement la discrimination coloniale ?",
+      "réponses": {
+        "A": "La musique traditionnelle",
+        "C": "La justice, l’emploi, l’éducation",
+        "D": "L’artisanat local",
+        "B": "Le tourisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Que signifie la \"spoliation des terres\" pour les Africains ?",
+      "réponses": {
+        "A": "Un prêt de terrains pour les écoles",
+        "B": "Une restitution des terres",
+        "D": "La confiscation violente des terres par les colons",
+        "C": "Une réforme agraire égalitaire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle contradiction choquante vivait l’élite africaine ?",
+      "réponses": {
+        "A": "Être contre l’école tout en y enseignant",
+        "B": "Être éduquée par le colon tout en luttant contre sa domination",
+        "C": "Être riche mais analphabète",
+        "D": "Être chrétienne mais animiste"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel message transmet l’humiliation raciale aux colonisés ?",
+      "réponses": {
+        "A": "La fierté de servir",
+        "C": "La dévotion au colon",
+        "D": "Le besoin de dignité et d’indépendance",
+        "B": "Le désir d’émigrer"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel type d’instruction coloniale a inspiré certains leaders ?",
+      "réponses": {
+        "A": "L’apprentissage de la chasse",
+        "C": "La poésie orale",
+        "B": "La formation classique occidentale, base de leur critique politique",
+        "D": "L’enseignement des proverbes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi l’élite africaine rejetait-elle le système colonial malgré sa formation ?",
+      "réponses": {
+        "A": "Par ingratitude",
+        "C": "Parce qu’elle constatait les injustices structurelles malgré sa position privilégiée",
+        "D": "Par fidélité aux traditions",
+        "B": "Pour obtenir des terres"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Comment les colons justifiaient-ils souvent leur domination ?",
+      "réponses": {
+        "A": "Par la volonté de transmettre la démocratie",
+        "D": "Par une prétendue mission civilisatrice",
+        "C": "Par amour pour la culture africaine",
+        "B": "Par devoir religieux"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel paradoxe révèle la scolarisation coloniale ?",
+      "réponses": {
+        "A": "Elle produit des Africains capables de penser contre le colonisateur",
+        "C": "Elle forme uniquement des serviteurs",
+        "D": "Elle supprime toute ambition politique",
+        "B": "Elle efface la mémoire collective"
+      },
+      "bonne réponse": "A"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI004_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Qu’est-ce qu’un mouvement nationaliste ?",
+      "réponses": {
+        "A": "Une association religieuse indépendante",
+        "C": "Un regroupement luttant pour l’indépendance et la souveraineté de leur nation",
+        "D": "Un groupe de soutien au colonisateur",
+        "B": "Une école d’administration coloniale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels étaient les objectifs des nationalistes africains ?",
+      "réponses": {
+        "A": "Imposer la culture occidentale",
+        "C": "Créer des empires royaux africains",
+        "D": "Obtenir l’indépendance, l’égalité et la dignité pour les Africains",
+        "B": "Devenir gouverneur colonial"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quels moyens ont été utilisés pour revendiquer l’indépendance ?",
+      "réponses": {
+        "A": "Pétitions, journaux, discours, manifestations et lutte armée",
+        "C": "Colonisation d’autres peuples",
+        "D": "Coopération militaire avec la France",
+        "B": "La guerre civile entre ethnies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quels partis politiques sont nés de ces mouvements ?",
+      "réponses": {
+        "A": "ONU, FMI, OMC",
+        "C": "RDA, CPP, PDG, PAI, FLN, MPLA",
+        "D": "KGB, CIA, GIGN",
+        "B": "ANC, OTAN, FIFA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel rôle les syndicats ont-ils joué ?",
+      "réponses": {
+        "A": "Aucun, car interdits à l’époque",
+        "D": "Organisation de grèves et mobilisation des travailleurs",
+        "C": "Soutien financier aux colons",
+        "B": "Protection de l’autorité coloniale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Pourquoi les grèves et manifestations ont-elles été utiles ?",
+      "réponses": {
+        "A": "Elles ont montré la force du peuple et alerté l’opinion internationale",
+        "C": "Elles ont permis d’obtenir des prêts de la Banque mondiale",
+        "D": "Elles ont renforcé la présence militaire française",
+        "B": "Elles ont conduit à la fermeture des écoles"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Quelles revendications étaient formulées ?",
+      "réponses": {
+        "A": "Plus d’impôts pour l’administration",
+        "C": "Égalité des droits, autonomie, fin du travail forcé",
+        "D": "Création d’un Empire colonial africain",
+        "B": "Exclusion des étrangers du continent"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Citez un leader nationaliste et son pays.",
+      "réponses": {
+        "A": "Kwame Nkrumah (Ghana), Sékou Touré (Guinée)",
+        "C": "Abraham Lincoln (Nigéria), Mao Zedong (Cameroun)",
+        "D": "Léopold II (Congo), Staline (Mali)",
+        "B": "Nelson Mandela (Sénégal), Tito (Bénin)"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quel a été un résultat concret des mouvements nationalistes ?",
+      "réponses": {
+        "A": "L’exil de tous les colons",
+        "C": "L’obtention des indépendances et des gouvernements africains",
+        "D": "La partition des pays africains",
+        "B": "La recolonisation de certains territoires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "En quoi ces mouvements ont-ils préparé les peuples à l’indépendance ?",
+      "réponses": {
+        "A": "Par l’éducation politique et l’organisation administrative",
+        "C": "Par la fermeture des écoles coloniales",
+        "D": "Par l’expulsion des missionnaires",
+        "B": "Par l’adoption du communisme"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel instrument juridique les nationalistes ont-ils utilisé ?",
+      "réponses": {
+        "A": "La guerre psychologique",
+        "C": "Les pétitions et revendications pacifiques",
+        "D": "Le chantage commercial",
+        "B": "La prière collective"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi les journaux étaient-ils utiles ?",
+      "réponses": {
+        "A": "À diffuser les idées nationalistes et à sensibiliser les masses",
+        "C": "À faire l’éloge des colons",
+        "D": "À publier les textes religieux",
+        "B": "À annoncer les jours de marché"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Pourquoi les colons redoutaient-ils les grèves générales ?",
+      "réponses": {
+        "A": "Parce qu’elles rendaient les routes impraticables",
+        "C": "Parce qu’elles faisaient fuir les missionnaires",
+        "D": "Parce qu’elles empêchaient l’enseignement",
+        "B": "Parce qu’elles paralysaient l’économie coloniale et montraient la force des travailleurs"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi certains mouvements ont-ils opté pour la lutte armée ?",
+      "réponses": {
+        "A": "Parce que les voies pacifiques étaient refusées ou réprimées",
+        "C": "Parce que les nationalistes adoraient la violence",
+        "D": "Pour devenir dictateurs militaires",
+        "B": "Pour envahir d’autres colonies"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle organisation coloniale les partis nationalistes ont-ils souvent affrontée ?",
+      "réponses": {
+        "A": "Le Vatican",
+        "C": "Le FMI",
+        "B": "L’armée française ou les administrations coloniales",
+        "D": "Le pouvoir colonial en place"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Quel pays africain a arraché son indépendance après un long conflit armé avec la France ?",
+      "réponses": {
+        "A": "L’Algérie",
+        "C": "Le Sénégal",
+        "D": "La Côte d’Ivoire",
+        "B": "Le Togo"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel a été le rôle de la jeunesse dans les luttes nationalistes ?",
+      "réponses": {
+        "A": "Aucun, ils étaient trop jeunes",
+        "C": "Forte mobilisation à travers les écoles, syndicats et journaux",
+        "D": "Soutien à l’armée coloniale",
+        "B": "Appui aux gouverneurs français"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle région a vu naître le Rassemblement Démocratique Africain (RDA) ?",
+      "réponses": {
+        "A": "Afrique de l’Ouest",
+        "C": "Afrique du Nord",
+        "D": "Asie du Sud",
+        "B": "Afrique centrale"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Quel mouvement africain a lutté pour l’indépendance en Angola ?",
+      "réponses": {
+        "A": "CPP",
+        "C": "MPLA",
+        "D": "PDG",
+        "B": "RDA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Quel est le lien entre la presse et la lutte anticoloniale ?",
+      "réponses": {
+        "A": "Aucun, la presse était interdite",
+        "B": "La presse racontait les contes africains",
+        "D": "Elle dénonçait les abus et servait d’outil de mobilisation",
+        "C": "Elle diffusait les discours du gouverneur colonial"
+      },
+      "bonne réponse": "D"
+    }
+  }
+}
+]

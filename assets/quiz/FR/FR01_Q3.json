@@ -1,0 +1,156 @@
+{
+    "title": "TROUVE L'INTRUS (15 questions)",
+    "id": "FR004_Q2",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : Batouala de René Maran. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Critique les abus coloniaux",
+                "B": "A obtenu le Prix Goncourt",
+                "C": "Dénonce l'exploitation des enfants à l'ère industrielle",
+                "D": "Roman engagé sur la colonisation"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°2": {
+            "question": "Œuvre : Une vie de boy de Ferdinand Oyono. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Met en lumière l'inhumanité de la colonisation",
+                "B": "A pour thème la dénonciation de l'oppression raciale",
+                "C": "Dénonce les dérives de la dictature militaire",
+                "D": "Roman engagé sociopolitiquement"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Œuvre : Les Bouts de bois de Dieu d'Ousmane Sembène. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Évoque la marche vers l'indépendance",
+                "B": "Dénonce l'exploitation coloniale",
+                "C": "Critique les abus coloniaux à travers la grève des cheminots",
+                "D": "A pour auteur principal Aimé Césaire"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°4": {
+            "question": "Œuvre : Cahier d'un retour au pays natal d'Aimé Césaire. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Clame l'identité noire",
+                "B": "Exalte la révolte contre l'oppression",
+                "C": "Dénonce les douleurs physiques de l'excision",
+                "D": "Est une œuvre poétique engagée"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°5": {
+            "question": "Œuvre : La guerre de Troie n'aura pas lieu de Jean Giraudoux. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Fait la satire des discours bellicistes",
+                "B": "Critique les dérives du pouvoir militaire et politique",
+                "C": "Dénonce la trahison des idéaux postcoloniaux",
+                "D": "Est une pièce de théâtre engagée"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°6": {
+            "question": "Œuvre : Le Soleil des Indépendances d'Ahmadou Kourouma. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Dénonce la trahison des idéaux postcoloniaux",
+                "B": "Met en scène le personnage de Salimata victime d'excision",
+                "C": "Dénonce l'exploitation des enfants dans les mines",
+                "D": "Critique la corruption des dirigeants africains"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°7": {
+            "question": "Œuvre : Les Termitières de la savane de Chinua Achebe. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Critique les dérives du pouvoir en Afrique",
+                "B": "Est un roman politique engagé",
+                "C": "A pour auteur Wole Soyinka",
+                "D": "Dénonce l'oppression et la manipulation politique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°8": {
+            "question": "Œuvre : Rebelle de Fatou Keïta. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Dénonce les douleurs physiques et psychologiques de l'excision",
+                "B": "Met en scène une héroïne qui lutte contre une tradition violente",
+                "C": "Critique l'avarice et l'obsession de l'argent",
+                "D": "Est un roman socioculturel engagé"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°9": {
+            "question": "Œuvre : Le Monde s'effondre de Chinua Achebe. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Interroge le poids des traditions à travers le sacrifice d'Ikemefuna",
+                "B": "Dénonce les coutumes violentes liées à la royauté",
+                "C": "Critique les violences culturelles et religieuses",
+                "D": "Est un roman qui célèbre la colonisation comme progrès"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°10": {
+            "question": "Œuvre : La mort et l'écuyer du roi de Wole Soyinka. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Critique des coutumes violentes liées à la royauté",
+                "B": "Dénonce les dérives de la colonisation portugaise",
+                "C": "Est une pièce de théâtre engagée",
+                "D": "Interroge les rituels et la dignité humaine"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Œuvre : Melancholia (dans Les Contemplations) de Victor Hugo. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Critique le travail des enfants à l'ère industrielle",
+                "B": "Dénonce l'exploitation des plus faibles",
+                "C": "Met en lumière l'obsession maladive de l'argent",
+                "D": "Est un poème engagé socialement"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°12": {
+            "question": "Œuvre : L'Avare de Molière. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Expose les conséquences de l'avarice sur les relations humaines",
+                "B": "Dénonce les abus de la colonisation française",
+                "C": "Est une pièce de théâtre classique",
+                "D": "Met en scène un personnage obsédé par l'argent"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Œuvre : Sous l'orage de Seydou Badian. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Conflit générationnel autour du mariage imposé",
+                "B": "Dénonce les tensions dans les familles polygames",
+                "C": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "D": "Roman socioculturel sur le mariage forcé"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°14": {
+            "question": "Œuvre : Commandant Chaka de Baba Moustapha. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Critique l'oppression militaire",
+                "B": "Dénonce les dérives de la dictature",
+                "C": "A pour auteur Léopold Sédar Senghor",
+                "D": "Roman politique engagé"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°15": {
+            "question": "Œuvre : Prière de paix de Léopold Sédar Senghor. Quel est l'intrus ?",
+            "réponses": {
+                "A": "Évoque la souffrance du peuple africain colonisé",
+                "B": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "C": "Est un poème qui appelle à la réconciliation",
+                "D": "Critique les sacrifices humains dans les traditions ancestrales"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

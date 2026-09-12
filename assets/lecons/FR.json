@@ -1,0 +1,508 @@
+[
+  {
+    "id": "FR01",
+    "titre": "Culture Littéraire",
+    "sections": [
+      {
+        "id": "FR01_C1",
+        "titre": "Définitions"
+      },
+      {
+        "id": "FR01_C2",
+        "titre": "Fonction engagée"
+      },
+      {
+        "id": "FR01_C3",
+        "titre": "Fonction didactique"
+      },
+      {
+        "id": "FR01_C4",
+        "titre": "Fonction esthétique"
+      },
+      {
+        "id": "FR01_C5",
+        "titre": "Fonction ludique"
+      },
+      {
+        "id": "FR01_C6",
+        "titre": "Conclusion"
+      },
+      {
+        "id": "FR01_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "FR01_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "FR01_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "FR01_Q4",
+        "titre": "Quiz 4"
+      },
+      {
+        "id": "FR01_Q5",
+        "titre": "Quiz 5"
+      },
+      {
+        "id": "FR01_Q6",
+        "titre": "Quiz 6"
+      },
+      {
+        "id": "FR01_Q7",
+        "titre": "Quiz 7"
+      },
+      {
+        "id": "FR01_Q8",
+        "titre": "Quiz 8"
+      },
+      {
+        "id": "FR01_Q9",
+        "titre": "Quiz 9"
+      },
+      {
+        "id": "FR01_Q10",
+        "titre": "Quiz 10"
+      }
+    ]
+  },
+  {
+    "id": "FR03",
+    "titre": "Dissertation littéraire",
+    "sections": [
+      {
+        "id": "FR03_C1",
+        "titre": "Méthodologie de dissertation"
+      },
+      {
+        "id": "FR03_C2",
+        "titre": "Exemple de rédaction - 1"
+      },
+      {
+        "id": "FR03_C3",
+        "titre": "Exemple de rédaction - 2"
+      },
+      {
+        "id": "FR03_C4",
+        "titre": "Exemple de rédaction - 3"
+      },
+      {
+        "id": "FR03_C5",
+        "titre": "Exemple de rédaction - 4"
+      },
+      {
+        "id": "FR03_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "FR03_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "FR03_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "FR03_Q4",
+        "titre": "Quiz 4"
+      },
+      {
+        "id": "FR03_Q5",
+        "titre": "Quiz 5"
+      },
+      {
+        "id": "FR03_Q6",
+        "titre": "Quiz 6"
+      },
+      {
+        "id": "FR03_Q7",
+        "titre": "Quiz 7"
+      },
+      {
+        "id": "FR03_Q8",
+        "titre": "Quiz 8"
+      },
+      {
+        "id": "FR03_Q9",
+        "titre": "Quiz 9"
+      },
+      {
+        "id": "FR03_Q10",
+        "titre": "Quiz 10"
+      },
+      {
+        "id": "FR03_Q11",
+        "titre": "Quiz 11"
+      },
+      {
+        "id": "FR03_Q12",
+        "titre": "Quiz 12"
+      },
+      {
+        "id": "FR03_Q13",
+        "titre": "Quiz 13"
+      },
+      {
+        "id": "FR03_Q14",
+        "titre": "Quiz 14"
+      },
+      {
+        "id": "FR03_Q15",
+        "titre": "Quiz 15"
+      },
+      {
+        "id": "FR03_Q16",
+        "titre": "Quiz 16"
+      },
+      {
+        "id": "FR03_Q17",
+        "titre": "Quiz 17"
+      },
+      {
+        "id": "FR03_Q18",
+        "titre": "Quiz 18"
+      },
+      {
+        "id": "FR03_Q19",
+        "titre": "Quiz 19"
+      },
+      {
+        "id": "FR03_Q20",
+        "titre": "Quiz 20"
+      }
+    ]
+  },
+  {
+    "id": "FR02",
+    "titre": "Anciens sujets et exercices de perfectionnement",
+    "sections": [
+      {
+        "id": "FR02_C1",
+        "titre": "Sujet 2026"
+      },
+      {
+        "id": "FR02_C2",
+        "titre": "Sujet 2025"
+      },
+      {
+        "id": "FR02_C3",
+        "titre": "Sujet 2024"
+      },
+      {
+        "id": "FR02_C4",
+        "titre": "Sujet 2023"
+      },
+      {
+        "id": "FR02_C5",
+        "titre": "Sujet 2022"
+      },
+      {
+        "id": "FR02_C6",
+        "titre": "Sujet 2021"
+      },
+      {
+        "id": "FR02_C7",
+        "titre": "Sujet 2020"
+      },
+      {
+        "id": "FR02_C8",
+        "titre": "Sujet 2019"
+      },
+      {
+        "id": "FR02_C9",
+        "titre": "Sujet 2018"
+      },
+      {
+        "id": "FR02_C10",
+        "titre": "Sujet 2017"
+      },
+      {
+        "id": "FR02_C11",
+        "titre": "Sujet 2016"
+      },
+      {
+        "id": "FR02_C12",
+        "titre": "Sujet 2015"
+      },
+      {
+        "id": "FR02_C13",
+        "titre": "Bac 2027"
+      },
+      {
+        "id": "FR02_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "FR02_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "FR02_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "FR02_Q4",
+        "titre": "Quiz 4"
+      },
+      {
+        "id": "FR02_Q5",
+        "titre": "Quiz 5"
+      },
+      {
+        "id": "FR02_Q6",
+        "titre": "Quiz 6"
+      },
+      {
+        "id": "FR02_Q7",
+        "titre": "Quiz 7"
+      },
+      {
+        "id": "FR02_Q8",
+        "titre": "Quiz 8"
+      },
+      {
+        "id": "FR02_Q9",
+        "titre": "Quiz 9"
+      },
+      {
+        "id": "FR02_Q10",
+        "titre": "Quiz 10"
+      },
+      {
+        "id": "FR02_Q11",
+        "titre": "Quiz 11"
+      },
+      {
+        "id": "FR02_Q12",
+        "titre": "Quiz 12"
+      },
+      {
+        "id": "FR02_Q13",
+        "titre": "Quiz 13"
+      },
+      {
+        "id": "FR02_Q14",
+        "titre": "Quiz 14"
+      },
+      {
+        "id": "FR02_Q15",
+        "titre": "Quiz 15"
+      },
+      {
+        "id": "FR02_Q16",
+        "titre": "Quiz 16"
+      },
+      {
+        "id": "FR02_Q17",
+        "titre": "Quiz 17"
+      },
+      {
+        "id": "FR02_Q18",
+        "titre": "Quiz 18"
+      },
+      {
+        "id": "FR02_Q19",
+        "titre": "Quiz 19"
+      },
+      {
+        "id": "FR02_Q20",
+        "titre": "Quiz 20"
+      },
+      {
+        "id": "FR03_Q21",
+        "titre": "Quiz 21"
+      },
+      {
+        "id": "FR03_Q22",
+        "titre": "Quiz 22"
+      },
+      {
+        "id": "FR03_Q23",
+        "titre": "Quiz 23"
+      },
+      {
+        "id": "FR03_Q24",
+        "titre": "Quiz 24"
+      },
+      {
+        "id": "FR03_Q25",
+        "titre": "Quiz 25"
+      },
+      {
+        "id": "FR03_Q26",
+        "titre": "Quiz 26"
+      },
+      {
+        "id": "FR03_Q27",
+        "titre": "Quiz 27"
+      },
+      {
+        "id": "FR03_Q28",
+        "titre": "Quiz 28"
+      },
+      {
+        "id": "FR03_Q29",
+        "titre": "Quiz 29"
+      },
+      {
+        "id": "FR03_Q30",
+        "titre": "Quiz 30"
+      },
+      {
+        "id": "FR03_Q31",
+        "titre": "Quiz 31"
+      },
+      {
+        "id": "FR03_Q32",
+        "titre": "Quiz 32"
+      },
+      {
+        "id": "FR03_Q33",
+        "titre": "Quiz 33"
+      },
+      {
+        "id": "FR03_Q34",
+        "titre": "Quiz 34"
+      },
+      {
+        "id": "FR03_Q35",
+        "titre": "Quiz 35"
+      },
+      {
+        "id": "FR03_Q36",
+        "titre": "Quiz 36"
+      },
+      {
+        "id": "FR03_Q37",
+        "titre": "Quiz 37"
+      },
+      {
+        "id": "FR03_Q38",
+        "titre": "Quiz 38"
+      },
+      {
+        "id": "FR03_Q39",
+        "titre": "Quiz 39"
+      },
+      {
+        "id": "FR03_Q40",
+        "titre": "Quiz 40"
+      },
+      {
+        "id": "FR03_Q41",
+        "titre": "Quiz 41"
+      },
+      {
+        "id": "FR03_Q42",
+        "titre": "Quiz 42"
+      },
+      {
+        "id": "FR03_Q43",
+        "titre": "Quiz 43"
+      },
+      {
+        "id": "FR03_Q44",
+        "titre": "Quiz 44"
+      },
+      {
+        "id": "FR03_Q45",
+        "titre": "Quiz 45"
+      },
+      {
+        "id": "FR03_Q46",
+        "titre": "Quiz 46"
+      },
+      {
+        "id": "FR03_Q47",
+        "titre": "Quiz 47"
+      },
+      {
+        "id": "FR03_Q48",
+        "titre": "Quiz 48"
+      },
+      {
+        "id": "FR03_Q49",
+        "titre": "Quiz 49"
+      },
+      {
+        "id": "FR03_Q50",
+        "titre": "Quiz 50"
+      }
+    ]
+  },
+  {
+    "id": "FR002",
+    "titre": "Commentaire composé",
+    "sections": [
+      {
+        "id": "FR002_C1",
+        "titre": "Les figures de style"
+      },
+      {
+        "id": "FR002_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "FR002_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "FR002_Q3",
+        "titre": "Quiz 3"
+      },
+      {
+        "id": "FR002_Q4",
+        "titre": "Quiz 4"
+      },
+      {
+        "id": "FR002_Q5",
+        "titre": "Quiz 5"
+      },
+      {
+        "id": "FR002_Q6",
+        "titre": "Quiz 6"
+      },
+      {
+        "id": "FR002_C4",
+        "titre": "Connaissances grammaticales nécessaires"
+      },
+      {
+        "id": "FR002_Q7",
+        "titre": "Quiz 7"
+      },
+      {
+        "id": "FR002_Q8",
+        "titre": "Quiz 8"
+      },
+      {
+        "id": "FR002_C2",
+        "titre": "Méthodologie de rédaction"
+      },
+      {
+        "id": "FR002_C5",
+        "titre": "Sujet Bac 2026  "
+      }
+    ]
+  },
+  {
+    "id": "FR003",
+    "titre": "Résumé et rédaction",
+    "sections": [
+      {
+        "id": "FR003_C1",
+        "titre": "Méthodologie de résumé"
+      },
+      {
+        "id": "FR003_C2",
+        "titre": "Méthodologie de rédaction"
+      },
+      {
+        "id": "FR003_C3",
+        "titre": "Anciens sujets et exercices de perfectionnement"
+      }
+    ]
+  }
+]

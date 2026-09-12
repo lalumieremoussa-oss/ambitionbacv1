@@ -1,0 +1,206 @@
+{
+    "title": "TROUVE L'INTRUS - Série 1 – Difficulté moyenne (20 questions)",
+    "id": "FR010_Q2_S1",
+    "questions": {
+        "question n°1": {
+            "question": "Citation : « Le théâtre, c'est d'être réel dans l'irréel » (Giraudoux). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La littérature doit dénoncer les injustices sociales",
+                "B": "Le théâtre mêle vérité humaine et fiction scénique",
+                "C": "L'illusion théâtrale repose sur une part de rêve",
+                "D": "L'imaginaire permet d'explorer le réel autrement"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Citation : « Faire de la poésie, c'est mentir, mais bien » (Yourcenar). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La poésie est un mensonge qui révèle une vérité supérieure",
+                "B": "Le poète doit transmettre un message moral aux lecteurs",
+                "C": "L'imagination poétique transforme le réel par la beauté",
+                "D": "Le mensonge artistique est plus vrai que la réalité brute"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "Argument : « La littérature, fruit de l'imagination ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Les récits littéraires inventent des mondes fictifs",
+                "B": "L'écrivain s'autorise des mensonges pour émerveiller",
+                "C": "La littérature doit instruire et transmettre un savoir",
+                "D": "L'imaginaire est le moteur de la création littéraire"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°4": {
+            "question": "Œuvre : La Planète des singes de Pierre Boulle. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un roman de science-fiction sur un monde inversé",
+                "B": "Met en scène des singes qui dominent les humains",
+                "C": "Propose une évasion hors du réel et du quotidien",
+                "D": "Dénonce les abus coloniaux et l'oppression raciale"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°5": {
+            "question": "Œuvre : Les Fleurs du Mal de Charles Baudelaire. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Critique les dérives du pouvoir militaire en Afrique",
+                "B": "Invite à une évasion spirituelle et esthétique",
+                "C": "Propose une poésie de la modernité et du spleen",
+                "D": "Est un recueil de poèmes sur le voyage et l'idéal"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "Citation : « Le réalisme ne peut se passer d'un minimum de subjectivité » (Camus). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La réalité objective est inaccessible à l'écrivain",
+                "B": "L'écrivain doit dénoncer les injustices de son temps",
+                "C": "L'imaginaire et le réel se mêlent dans toute œuvre",
+                "D": "La subjectivité est une part nécessaire de la création"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°7": {
+            "question": "Œuvre : Le Roman comique de Paul Scarron. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un roman burlesque plein d'humour et de fantaisie",
+                "B": "Dénonce les sacrifices humains dans les traditions",
+                "C": "Met en scène des comédiens et des aventures rocambolesques",
+                "D": "Divertit le lecteur par son ton léger et caricatural"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°8": {
+            "question": "Argument : « Le théâtre comme divertissement ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le dramaturge doit instruire et éveiller les consciences",
+                "B": "Le théâtre vise d'abord à distraire et à amuser",
+                "C": "La comédie et l'ironie sont des moyens de plaire",
+                "D": "Le rire est une finalité légitime de l'art dramatique"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°9": {
+            "question": "Citation : « L'affaire du théâtre est de divertir » (Brecht). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le divertissement est la fonction première du théâtre",
+                "B": "L'écrivain doit avant tout amuser son public",
+                "C": "Le rire et le plaisir sont essentiels à la scène",
+                "D": "La littérature engagée est la seule forme d'art valable"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "Œuvre : On se chamaille pour un siège de Hyacinthe Kacou. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une comédie burlesque ivoirienne humoristique",
+                "B": "Met en scène des personnages ridicules et querelleurs",
+                "C": "Propose un divertissement basé sur la caricature sociale",
+                "D": "Dénonce la trahison des idéaux postcoloniaux africains"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Œuvre : Le Trône de fer de George R.R. Martin. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un univers épique de fantasy médiévale",
+                "B": "Critique les violences culturelles du mariage forcé",
+                "C": "Met en scène des intrigues politiques et guerrières",
+                "D": "Propose une évasion dans un monde imaginaire"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°12": {
+            "question": "Citation : « Un seul être vous manque, et tout est dépeuplé » (Lamartine). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Exprime la solitude profonde d'un amour perdu",
+                "B": "Dénonce l'exploitation des enfants dans les usines",
+                "C": "Traduit un sentiment de vide et de mélancolie",
+                "D": "Est un vers lyrique sur l'absence et le manque"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°13": {
+            "question": "Œuvre : Les Confessions de Jean-Jacques Rousseau. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Explore l'intimité et les émotions de l'auteur",
+                "B": "Est une autobiographie introspective et lyrique",
+                "C": "Dénonce les dérives du pouvoir en Afrique postcoloniale",
+                "D": "Partage les sentiments les plus profonds de l'écrivain"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "Argument : « La fonction lyrique de la littérature ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La littérature permet d'exprimer ses émotions intimes",
+                "B": "L'écrivain partage sa nostalgie et sa joie profonde",
+                "C": "Le lyrisme est l'expression du moi intérieur",
+                "D": "La poésie doit instruire et transmettre un savoir"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°15": {
+            "question": "Auteur : Charles Baudelaire. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A dénoncé les abus coloniaux et l'injustice raciale",
+                "B": "Est un poète de la modernité et du spleen parisien",
+                "C": "A écrit Les Fleurs du Mal sur l'évasion et l'idéal",
+                "D": "A influencé la poésie symboliste par son esthétique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°16": {
+            "question": "Argument : « La littérature comme source d'évasion ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Les récits permettent de voyager dans l'imaginaire",
+                "B": "L'écrivain doit s'engager contre les injustices",
+                "C": "L'évasion libère des contraintes du quotidien",
+                "D": "Le lecteur explore d'autres vies par la fiction"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°17": {
+            "question": "Auteur : Pierre Boulle. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A dénoncé les violences culturelles du patriarcat",
+                "B": "Est un écrivain français du XXe siècle reconnu",
+                "C": "Propose une réflexion sur l'humanité et l'aliénation",
+                "D": "A écrit La Planète des singes sur un monde inversé"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°18": {
+            "question": "Citation : « Mentir, mais bien » selon Yourcenar. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le poète invente pour révéler une beauté cachée",
+                "B": "La littérature engagée est la seule forme d'art valable",
+                "C": "Le mensonge artistique est une forme de vérité",
+                "D": "L'imagination transforme le réel en œuvre d'art"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°19": {
+            "question": "Auteur : Hyacinthe Kacou. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A dénoncé les douleurs physiques de l'excision rituelle",
+                "B": "Est un dramaturge ivoirien de comédies burlesques",
+                "C": "A écrit On se chamaille pour un siège humoristique",
+                "D": "Propose un théâtre de divertissement et de caricature"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°20": {
+            "question": "Argument : « Le lyrisme autobiographique ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "L'écrivain explore son intériorité et ses souvenirs",
+                "B": "La poésie doit dénoncer les injustices sociales",
+                "C": "La subjectivité est au cœur de l'expression lyrique",
+                "D": "Les Confessions de Rousseau en sont un exemple majeur"
+            },
+            "bonne réponse": "D"
+        }
+    }
+}

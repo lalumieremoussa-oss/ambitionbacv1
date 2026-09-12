@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Détermination d'une similitude directe par deux points et leurs images",
+                    "content": "Une similitude directe $s$ est entièrement déterminée par la donnée de deux points distincts $A$ et $B$ et de leurs images respectives $C$ et $D$.\nL'expression complexe d'une similitude directe est de la forme $z' = az + b$ où $a \\in \\mathbb{C}^*$ et $b \\in \\mathbb{C}$.\nPour trouver les complexes $a$ et $b$, on doit résoudre le système d'équations suivant :\n$\\begin{cases} z_C = a z_A + b \\\\ z_D = a z_B + b \\end{cases}$\nLa méthode la plus efficace consiste à :\n1. Soustraire membre à membre les deux équations pour éliminer $b$ : $z_C - z_D = a(z_A - z_B)$.\n2. En déduire $a = \\frac{z_C - z_D}{z_A - z_B}$.\n3. Remplacer $a$ par sa valeur dans l'une des équations (par exemple la première) pour isoler $b = z_C - a z_A$.",
+                    "example": "Déterminons l'expression complexe de la similitude directe $s$ telle que $s(A) = C$ et $s(B) = D$ avec $A(1)$, $B(i)$, $C(2+i)$ et $D(3+2i)$ :\nPosons $z' = az + b$.\nLe système est :\n$\\begin{cases} 2 + i = a(1) + b \\\\ 3 + 2i = a(i) + b \\end{cases}$\nSoustrayons la deuxième ligne à la première :\n$(2 + i) - (3 + 2i) = a(1) - a(i)$\n$-1 - i = a(1 - i)$\n$a = \\frac{-1 - i}{1 - i} = \\frac{(-1 - i)(1 + i)}{(1 - i)(1 + i)} = \\frac{-1 - i - i - i^2}{1^2 + 1^2} = \\frac{-1 - 2i + 1}{2} = \\frac{-2i}{2} = -i$.\nCalculons maintenant $b$ en utilisant $2 + i = a + b$ :\n$b = 2 + i - a = 2 + i - (-i) = 2 + 2i$.\nL'expression complexe est donc : $z' = -iz + 2 + 2i$.",
+                    "extras": [
+                        "Exemple complet : Déterminons $s$ telle que $s(O) = A(1+i)$ et $s(B(1)) = C(2)$.\nLe système est :\n$\\begin{cases} 1 + i = a(0) + b \\implies b = 1 + i \\\\ 2 = a(1) + b \\end{cases}$\nEn remplaçant $b$ dans la deuxième équation :\n$2 = a + 1 + i$\n$a = 2 - 1 - i = 1 - i$.\nL'expression est $z' = (1 - i)z + 1 + i$.",
+                        "Exemple complet : Soit $s$ une similitude de centre $A(2)$ telle que $s(B(3)) = C(2+i)$.\nComme $A$ est le centre, $s(A) = A$. Le système est :\n$\\begin{cases} 2 = 2a + b \\\\ 2 + i = 3a + b \\end{cases}$\nEn soustrayant : $(2+i) - 2 = 3a - 2a$, d'où $a = i$.\nCalcul de $b$ : $b = 2 - 2a = 2 - 2i$.\nL'expression est $z' = iz + 2 - 2i$.",
+                        "Exemple complet : Trouver $s$ telle que $s(i) = 0$ et $s(1) = 1+i$.\n$\\begin{cases} 0 = ai + b \\\\ 1 + i = a + b \\end{cases}$\nSoustraction : $1 + i - 0 = a - ai = a(1 - i)$.\n$a = \\frac{1 + i}{1 - i} = \\frac{(1+i)^2}{2} = \\frac{1+2i-1}{2} = i$.\nCalcul de $b$ : $b = -ai = -(i)(i) = 1$.\nL'expression est $z' = iz + 1$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Identification des éléments caractéristiques d'une similitude directe",
+                    "content": "Une fois l'expression complexe $z' = az + b$ obtenue, on peut identifier les éléments géométriques de la similitude.\nCes éléments sont au nombre de trois :\n1. Le rapport $k$ : C'est le module du coefficient de $z$, soit $k = |a|$. Il indique si la transformation est une réduction ($k < 1$) ou un agrandissement ($k > 1$).\n2. L'angle $\\theta$ : C'est l'argument du coefficient $a$, soit $\\theta = \\text{arg}(a) \\pmod{2\\pi}$.\n3. Le centre $\\Omega$ : C'est l'unique point invariant de la transformation, tel que $s(\\Omega) = \\Omega$.\nOn trouve son affixe $\\omega$ en résolvant l'équation $\\omega = a\\omega + b$, ce qui donne la formule : $\\omega = \\frac{b}{1 - a}$ (valable si $a \\neq 1$).",
+                    "example": "Soit la similitude directe d'expression complexe $z' = (1 + i)z + 2 - i$. Identifions ses éléments :\nCalcul du rapport $k$ :\n$k = |1 + i| = \\sqrt{1^2 + 1^2} = \\sqrt{2}$.\nCalcul de l'angle $\\theta$ :\n$\\theta = \\text{arg}(1 + i)$. Comme $\\cos\\theta = \\frac{1}{\\sqrt{2}}$ et $\\sin\\theta = \\frac{1}{\\sqrt{2}}$, on a $\\theta = \\frac{\\pi}{4} \\pmod{2\\pi}$.\nCalcul de l'affixe $\\omega$ du centre $\\Omega$ :\n$\\omega = \\frac{b}{1 - a} = \\frac{2 - i}{1 - (1 + i)} = \\frac{2 - i}{-i} = \\frac{(2 - i)i}{-i^2} = \\frac{2i - i^2}{1} = 2i + 1 = 1 + 2i$.\nConclusion : $s$ est la similitude directe de centre $\\Omega(1+2i)$, de rapport $\\sqrt{2}$ et d'angle $\\frac{\\pi}{4}$.",
+                    "extras": [
+                        "Exemple complet : Éléments de $z' = 2iz + 1 - i$.\n$k = |2i| = 2$.\n$\\theta = \\text{arg}(2i) = \\frac{\\pi}{2} \\pmod{2\\pi}$.\n$\\omega = \\frac{1 - i}{1 - 2i} = \\frac{(1 - i)(1 + 2i)}{1^2 + 2^2} = \\frac{1 + 2i - i + 2}{5} = \\frac{3 + i}{5} = 0,6 + 0,2i$.\nLa similitude a pour centre $\\Omega(0,6 + 0,2i)$, de rapport 2 et d'angle $90^\\circ$.",
+                        "Exemple complet : Cas d'une homothétie $z' = 3z - 4$.\n$k = |3| = 3$.\n$\\theta = \\text{arg}(3) = 0 \\pmod{2\\pi}$.\n$\\omega = \\frac{-4}{1 - 3} = \\frac{-4}{-2} = 2$.\nC'est une homothétie de centre $\\Omega(2)$ et de rapport 3.",
+                        "Exemple complet : Cas d'une rotation $z' = -iz + 2i$.\n$k = |-i| = 1$.\n$\\theta = \\text{arg}(-i) = -\\frac{\\pi}{2} \\pmod{2\\pi}$.\n$\\omega = \\frac{2i}{1 - (-i)} = \\frac{2i}{1 + i} = \\frac{2i(1 - i)}{2} = i(1 - i) = i + 1 = 1 + i$.\nC'est une rotation de centre $\\Omega(1+i)$ et d'angle $-90^\\circ$."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${steps[step].title}</div>
+        <div>${steps[step].content}</div>
+        <div class="example">${steps[step].example}</div>
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+                let div = document.createElement("div");
+                div.className = "extra";
+                div.innerHTML = steps[step].extras[exampleIndex];
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">🎉 Leçon terminée !</h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 4",
+  "id": "HI002_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Où se situe Cuba ?",
+      "réponses": {
+        "A": "En Afrique",
+        "B": "Dans les Caraïbes, au sud de la Floride",
+        "C": "En Asie",
+        "D": "En Méditerranée"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Pourquoi les États-Unis s’intéressent-ils de près à Cuba ?",
+      "réponses": {
+        "A": "Parce que c’est une colonie américaine",
+        "B": "Car ils y ont des intérêts économiques et une base militaire",
+        "C": "Pour des raisons religieuses",
+        "D": "Parce que c’est un pays communiste depuis 1900"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la base américaine installée à Cuba ?",
+      "réponses": {
+        "A": "La Havane",
+        "B": "Santiago",
+        "C": "Guantanamo",
+        "D": "Nassau"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Que s’est-il passé en janvier 1959 à Cuba ?",
+      "réponses": {
+        "A": "Fidel Castro a pris le pouvoir après une révolution populaire",
+        "B": "Cuba a été envahie par les USA",
+        "C": "L’URSS a annexé Cuba",
+        "D": "La dictature de Batista a été renforcée"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle réforme importante Castro adopte-t-il en mai 1959 ?",
+      "réponses": {
+        "A": "Réforme agraire avec expropriation des terres américaines",
+        "B": "Libéralisation du marché",
+        "C": "Démocratisation du pays",
+        "D": "Adoption du dollar comme monnaie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle autre mesure économique Castro adopte-t-il en 1960 ?",
+      "réponses": {
+        "A": "Ouverture au commerce américain",
+        "B": "Nationalisation du sucre et de l’industrie",
+        "C": "Alliance militaire avec l’OTAN",
+        "D": "Vente d’armes à l’URSS"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle mesure les USA prennent-ils en octobre 1960 ?",
+      "réponses": {
+        "A": "Embargo sur les exportations vers Cuba",
+        "B": "Reconnaissance du régime cubain",
+        "C": "Création d’une base à La Havane",
+        "D": "Ouverture d’un consulat"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Quand les USA rompent-ils leurs relations diplomatiques avec Cuba ?",
+      "réponses": {
+        "A": "Juin 1960",
+        "B": "Avril 1962",
+        "C": "Janvier 1961",
+        "D": "Décembre 1963"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle opération militaire américaine échoue en avril 1961 ?",
+      "réponses": {
+        "A": "Opération Condor",
+        "B": "Débarquement de la Baie des Cochons",
+        "C": "Invasion de Panama",
+        "D": "Bombardement de Guantanamo"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle stratégie Castro adopte-t-il pour protéger son régime ?",
+      "réponses": {
+        "A": "Il rejoint l’OTAN",
+        "B": "Il se rapproche de l’URSS",
+        "C": "Il adopte le capitalisme",
+        "D": "Il quitte les Nations Unies"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Comment l’URSS répond-elle à l’appel de Castro ?",
+      "réponses": {
+        "A": "Elle achète le sucre cubain et protège le régime",
+        "B": "Elle impose un embargo",
+        "C": "Elle attaque les USA",
+        "D": "Elle soutient Batista"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Combien de missiles, soldats et sous-marins l’URSS installe-t-elle à Cuba ?",
+      "réponses": {
+        "A": "10 missiles, 5 000 soldats, 2 sous-marins",
+        "B": "100 missiles, 100 000 soldats, 10 sous-marins",
+        "C": "36 000 missiles, 50 000 soldats, 4 sous-marins",
+        "D": "5 missiles, 10 000 soldats, 1 sous-marin"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Comment les USA découvrent-ils la présence des missiles soviétiques à Cuba ?",
+      "réponses": {
+        "A": "Par un espion cubain",
+        "B": "Grâce aux avions espions U2",
+        "C": "Via un satellite soviétique",
+        "D": "Par une fuite médiatique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quelle est la réaction immédiate des USA ?",
+      "réponses": {
+        "A": "Invasion de Cuba",
+        "B": "Bombardement de La Havane",
+        "C": "Exigence du retrait immédiat des missiles soviétiques",
+        "D": "Reconnaissance de la RDA"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quelle mesure les USA prennent-ils le 22 octobre 1962 ?",
+      "réponses": {
+        "A": "Attaque aérienne sur Moscou",
+        "B": "Blocus militaire de Cuba",
+        "C": "Signature d’un traité avec Castro",
+        "D": "Déploiement nucléaire en Asie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelle organisation internationale intervient pour calmer la crise ?",
+      "réponses": {
+        "A": "OTAN",
+        "B": "ONU",
+        "C": "OEA",
+        "D": "Ligue arabe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quand l’URSS accepte-t-elle de retirer ses missiles de Cuba ?",
+      "réponses": {
+        "A": "26 octobre 1962",
+        "B": "28 octobre 1962",
+        "C": "31 décembre 1962",
+        "D": "15 novembre 1962"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Qu’est-ce que les USA promettent en échange du retrait des missiles ?",
+      "réponses": {
+        "A": "Soutenir Castro",
+        "B": "Ne pas envahir Cuba",
+        "C": "Retirer Guantanamo",
+        "D": "Quitter l’OEA"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel retrait secret les USA effectuent-ils ensuite ?",
+      "réponses": {
+        "A": "Retrait des missiles Jupiter de Turquie",
+        "B": "Retrait de l’OTAN",
+        "C": "Retrait du personnel diplomatique",
+        "D": "Abandon du dollar à Cuba"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quelle innovation diplomatique naît de cette crise ?",
+      "réponses": {
+        "A": "Création de l’OEA",
+        "B": "Union URSS-USA",
+        "C": "Téléphone rouge entre la Maison Blanche et le Kremlin",
+        "D": "ONU devient armée internationale"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

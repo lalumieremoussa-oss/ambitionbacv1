@@ -1,0 +1,528 @@
+{
+  "title": "Quiz 1",
+  "id": "AN04_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Remettez les mots dans l'ordre pour traduire : \"Mon père travaille chaque jour.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Every day my father works.",
+        "B": "Works my father every day.",
+        "C": "My father every day works.",
+        "D": "My father works every day."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle est la forme correcte pour : \"Mariam _____ (go) to school.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "go",
+        "B": "is go",
+        "C": "goes",
+        "D": "going"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Traduisez correctement : \"Il est toujours heureux.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Always he is happy.",
+        "B": "He always is happy.",
+        "C": "He is happy always.",
+        "D": "He is always happy."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle préposition complète la phrase : \"I study _____ the evening.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "at",
+        "B": "in",
+        "C": "on",
+        "D": "for"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Complétez correctement : \"She comes _____ Monday.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in",
+        "B": "on",
+        "C": "at",
+        "D": "to"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Traduisez l'expression : \"un verre d'eau\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "a glass in water",
+        "B": "a glass for water",
+        "C": "a glass of water",
+        "D": "a glass with water"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Choisissez la traduction du moyen de transport : \"en voiture\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in car",
+        "B": "by car",
+        "C": "with car",
+        "D": "on car"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle phrase utilise correctement l'adverbe \"often\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "We play often football.",
+        "B": "We often play football.",
+        "C": "We play football often.",
+        "D": "Often we play football."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle est la phrase conjuguée correctement ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "My parents works every day.",
+        "B": "He go to market.",
+        "C": "My father works hard.",
+        "D": "They goes to school."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel est l'adverbe anglais pour \"mal\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "badly",
+        "B": "well",
+        "C": "quick",
+        "D": "slow"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Je mange du riz.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "we",
+        "is",
+        "eat",
+        "rice",
+        "I",
+        "homework"
+      ],
+      "bonne réponse": "I eat rice"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Elle va à l'école.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "go",
+        "He",
+        "goes",
+        "She",
+        "eat",
+        "to",
+        "at",
+        "school"
+      ],
+      "bonne réponse": "She goes to school"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Ils jouent au football.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "football",
+        "she",
+        "play",
+        "works",
+        "is",
+        "They"
+      ],
+      "bonne réponse": "They play football"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"J'écris mes leçons.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "my",
+        "do",
+        "I",
+        "his",
+        "lessons",
+        "write"
+      ],
+      "bonne réponse": "I write my lessons"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Elle chante une chanson.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "he",
+        "sings",
+        "a",
+        "song",
+        "She",
+        "sing",
+        "the"
+      ],
+      "bonne réponse": "She sings a song"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Mon père travaille chaque jour.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "every",
+        "father",
+        "My",
+        "is",
+        "work",
+        "day",
+        "works",
+        "do",
+        "we",
+        "your"
+      ],
+      "bonne réponse": "My father works every day"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Elle ne vient jamais en retard.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "comes",
+        "is",
+        "always",
+        "come",
+        "in",
+        "her",
+        "never",
+        "late",
+        "She",
+        "on"
+      ],
+      "bonne réponse": "She never comes late"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Nous buvons de l'eau.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "drink",
+        "We",
+        "juice",
+        "water",
+        "drives",
+        "do"
+      ],
+      "bonne réponse": "We drink water"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je fais mes devoirs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "my",
+        "homework",
+        "do",
+        "I",
+        "is",
+        "his",
+        "lessons",
+        "the"
+      ],
+      "bonne réponse": "I do my homework"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Il est à la maison.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "at",
+        "home",
+        "He",
+        "is",
+        "in",
+        "school",
+        "she",
+        "go"
+      ],
+      "bonne réponse": "He is at home"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ils sont à l'heure.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "on",
+        "time",
+        "They",
+        "at",
+        "always",
+        "is",
+        "do"
+      ],
+      "bonne réponse": "They are on time"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"un verre d'eau\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "glass",
+        "a",
+        "of",
+        "water",
+        "the",
+        "in",
+        "tea",
+        "for"
+      ],
+      "bonne réponse": "a glass of water"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Elle parle anglais rapidement.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "English",
+        "speaks",
+        "quickly",
+        "She",
+        "well",
+        "slowly",
+        "at",
+        "her"
+      ],
+      "bonne réponse": "She speaks English quickly"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je vais à l'école en bus.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "school",
+        "by",
+        "bus",
+        "to",
+        "go",
+        "I",
+        "the",
+        "at",
+        "in",
+        "car",
+        "my",
+        "she"
+      ],
+      "bonne réponse": "I go to school by bus"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Je viens de l'école.\" (Origine)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "from",
+        "school",
+        "come",
+        "go",
+        "to",
+        "at"
+      ],
+      "bonne réponse": "I come from school"
+    },
+    "question n°26": {
+      "question": "Traduisez : \"Nous allons au marché.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "market",
+        "go",
+        "We",
+        "to",
+        "at",
+        "school",
+        "she",
+        "the"
+      ],
+      "bonne réponse": "We go to market"
+    },
+    "question n°27": {
+      "question": "Traduisez : \"C'est pour moi.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "is",
+        "for",
+        "me",
+        "It",
+        "you",
+        "at"
+      ],
+      "bonne réponse": "It is for me"
+    },
+    "question n°28": {
+      "question": "Traduisez : \"dans la maison\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "in",
+        "the",
+        "house",
+        "at",
+        "school",
+        "a"
+      ],
+      "bonne réponse": "in the house"
+    },
+    "question n°29": {
+      "question": "Traduisez : \"Mon frère chante souvent.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "brother",
+        "My",
+        "sings",
+        "often",
+        "always",
+        "sing",
+        "is",
+        "we"
+      ],
+      "bonne réponse": "My brother often sings"
+    },
+    "question n°30": {
+      "question": "Traduisez : \"Elle est triste.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "She",
+        "is",
+        "sad",
+        "are",
+        "happy",
+        "it"
+      ],
+      "bonne réponse": "She is sad"
+    },
+    "question n°31": {
+      "question": "Traduisez : \"Nous mangeons le matin.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eat",
+        "We",
+        "in",
+        "the",
+        "morning",
+        "evening",
+        "do",
+        "at"
+      ],
+      "bonne réponse": "We eat in the morning"
+    },
+    "question n°32": {
+      "question": "Traduisez : \"Je travaille avec mon ami.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "work",
+        "with",
+        "my",
+        "friend",
+        "I",
+        "do",
+        "is",
+        "mother",
+        "in",
+        "her"
+      ],
+      "bonne réponse": "I work with my friend"
+    },
+    "question n°33": {
+      "question": "Traduisez : \"Ma sœur écrit bien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "writes",
+        "well",
+        "My",
+        "sister",
+        "write",
+        "badly",
+        "do",
+        "in"
+      ],
+      "bonne réponse": "My sister writes well"
+    },
+    "question n°34": {
+      "question": "Traduisez : \"Je fais mes exercices.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "my",
+        "do",
+        "exercises",
+        "I",
+        "does",
+        "the",
+        "write",
+        "work"
+      ],
+      "bonne réponse": "I do my exercises"
+    },
+    "question n°35": {
+      "question": "Traduisez : \"Elle va à Abidjan.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "goes",
+        "to",
+        "Abidjan",
+        "She",
+        "He",
+        "is",
+        "at",
+        "in"
+      ],
+      "bonne réponse": "She goes to Abidjan"
+    },
+    "question n°36": {
+      "question": "Complétez la réponse à : \"Are you a teacher?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "student",
+        "not",
+        "am",
+        "a",
+        "you",
+        "are",
+        "I",
+        "teacher"
+      ],
+      "bonne réponse": "I am a student"
+    },
+    "question n°37": {
+      "question": "Répondez à la question : \"How are you?\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fine",
+        "I",
+        "is",
+        "am",
+        "you",
+        "sad"
+      ],
+      "bonne réponse": "I am fine"
+    },
+    "question n°38": {
+      "question": "Quel pronom personnel remplace un nom féminin singulier (ex: Mariam) ?",
+      "type": "short_answer",
+      "bonne réponse": "She"
+    },
+    "question n°39": {
+      "question": "Quelle préposition utilisez-vous pour le moyen de transport (il sgnifie généralement PAR) ?",
+      "type": "short_answer",
+      "bonne réponse": "BY"
+    },
+    "question n°40": {
+      "question": "Quel est le sens de l'adverbe \"often\" ?",
+      "type": "short_answer",
+      "bonne réponse": "souvent"
+    }
+  }
+}

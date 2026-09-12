@@ -1,0 +1,206 @@
+{
+  "id": "SVTD009_Q4",
+  "title": "Quiz 4 : Perfectionnement 1 - La Reproduction des Angiospermes",
+  "questions": {
+    "question n°1": {
+      "question": "Les pièces reproductrices mâles des fleurs sont les …..A….., qui forment l’…..B…… Les pièces reproductrices femelles sont les …..C….., qui forment le gynécée ou pistil.",
+      "réponses": {
+        "A": "A : carpelles, B : gynécée, C : étamines",
+        "B": "A : ovules, B : ovaire, C : stigmates",
+        "C": "A : étamines, B : androcée, C : carpelles",
+        "D": "A : pistils, B : androcée, C : ovules"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "L’ovaire est la structure qui contient les …..A….. et se transformera en …..B….. après la …..C……",
+      "réponses": {
+        "A": "A : étamines, B : graine, C : germination",
+        "B": "A : pollen, B : fleur, C : pollinisation",
+        "C": "A : ovules, B : fruit, C : fécondation",
+        "D": "A : carpelles, B : plantule, C : maturation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Le trajet du grain de pollen vers la fécondation débute par le dépôt du grain de pollen sur le …..A…… Suit la …..B….. du grain de pollen et la formation d’un …..C……",
+      "réponses": {
+        "A": "A : ovaire, B : déhiscence, C : sac embryonnaire",
+        "B": "A : anthère, B : libération, C : gamète mâle",
+        "C": "A : nucelle, B : division, C : noyau végétatif",
+        "D": "A : stigmate, B : germination, C : tube pollinique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Le tube pollinique traverse le …..A….. et atteint l’…..B…… Ensuite, il y a la libération des …..C….. et la fécondation de l’ovule.",
+      "réponses": {
+        "A": "A : ovaire, B : stigmate, C : noyaux centraux",
+        "B": "A : pistil, B : anthère, C : cellules antipodes",
+        "C": "A : gynécée, B : carpelle, C : noyaux végétatifs",
+        "D": "A : style, B : ovule, C : spermatozoïdes"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "On parle de fécondation double chez les Angiospermes car un spermatozoïde féconde l’…..A….. pour former le …..B….. (futur embryon), et l’autre spermatozoïde fusionne avec deux …..C….. pour former l’endosperme (réserve nutritive).",
+      "réponses": {
+        "A": "A : synergide, B : albumen, C : cellules antipodes",
+        "B": "A : noyau végétatif, B : graine, C : noyaux reproducteurs",
+        "C": "A : oosphère, B : zygote, C : noyaux centraux",
+        "D": "A : microspore, B : plantule, C : noyaux du sac"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Les cellules mères des grains de pollen, situées dans les …..A….., sont …..B….. (2n). Elles subissent une …..C….., produisant 4 cellules haploïdes (n) appelées microspores.",
+      "réponses": {
+        "A": "A : ovules, B : haploïdes, C : mitose",
+        "B": "A : carpelles, B : triploïdes, C : fécondation",
+        "C": "A : étamines, B : haploïdes, C : division",
+        "D": "A : anthères, B : diploïdes, C : méiose"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Chaque microspore subit une …..A….., donnant un grain de pollen avec deux noyaux : Le noyau …..B….. qui dirige la formation du tube pollinique, et le noyau …..C….. qui donnera deux gamètes mâles.",
+      "réponses": {
+        "A": "A : méiose, B : reproducteur, C : végétatif",
+        "B": "A : fécondation, B : génératif, C : central",
+        "C": "A : déhiscence, B : primaire, C : secondaire",
+        "D": "A : mitose, B : végétatif, C : reproducteur"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "La cellule mère du sac embryonnaire, …..A….. (2n), subit une …..B….. donnant 4 cellules haploïdes. Trois cellules dégénèrent, la …..C….. restante se développe.",
+      "réponses": {
+        "A": "A : diploïde, B : méiose, C : mégaspore",
+        "B": "A : triploïde, B : division, C : oosphère",
+        "C": "A : haploïde, B : mitose, C : microspore",
+        "D": "A : tétraploïde, B : fécondation, C : synergide"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Le noyau de la mégaspore restante subit …..A….. mitoses successives, produisant …..B….. noyaux haploïdes qui forment …..C….. cellules au total.",
+      "réponses": {
+        "A": "A : une, B : quatre, C : trois",
+        "B": "A : deux, B : six, C : cinq",
+        "C": "A : trois, B : huit, C : sept",
+        "D": "A : quatre, B : douze, C : neuf"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Dans le sac embryonnaire, il y a 3 cellules antipodes situées …..A….. au micropyle, et 2 …..B….. situées près du micropyle. L’…..C….. est le gamète femelle.",
+      "réponses": {
+        "A": "A : opposées, B : synergides, C : oosphère",
+        "B": "A : du côté, B : oosphères, C : noyau central",
+        "C": "A : près, B : antipodes, C : synergide",
+        "D": "A : loin, B : noyaux centraux, C : microspore"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Dans le sac embryonnaire, il y a deux …..A….., qui fusionneront après la fécondation pour former l’…..B…… La première étape de la double fécondation implique le tube pollinique qui atteint le sac embryonnaire et libère deux …..C….. haploïdes (n).",
+      "réponses": {
+        "A": "A : noyaux végétatifs, B : zygote, C : noyaux reproducteurs",
+        "B": "A : noyaux centraux, B : albumen, C : spermatozoïdes",
+        "C": "A : cellules centrales, B : embryon, C : gamètes femelles",
+        "D": "A : cellules antipodes, B : endosperme, C : ovules"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le premier spermatozoïde libéré féconde l’…..A….. pour former le …..B….. (2n), qui est le futur …..C……",
+      "réponses": {
+        "A": "A : synergide, B : albumen, C : endosperme",
+        "B": "A : noyau central, B : plantule, C : graine",
+        "C": "A : oosphère, B : zygote, C : embryon",
+        "D": "A : cellule antipodale, B : fruit, C : ovaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Le deuxième spermatozoïde libéré fusionne avec les deux …..A….. pour former l’…..B….. (3n). Cette série d’événements caractérise la …..C….. fécondation.",
+      "réponses": {
+        "A": "A : synergides, B : zygote, C : simple",
+        "B": "A : antipodes, B : embryon, C : unique",
+        "C": "A : cellules mères, B : graine, C : partielle",
+        "D": "A : noyaux centraux, B : albumen, C : double"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "À la suite de la fécondation, l’ovule se transforme en …..A…… De plus, les parois de l’…..B….. grossissent pour former le …..C……",
+      "réponses": {
+        "A": "A : fruit, B : ovule, C : graine",
+        "B": "A : fleur, B : stigmate, C : ovaire",
+        "C": "A : graine, B : ovaire, C : fruit",
+        "D": "A : plantule, B : étamine, C : pistil"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Les pièces reproductrices …..A….. des fleurs sont les étamines, qui forment l’androcée. Les pièces reproductrices …..B….. sont les carpelles, qui forment le gynécée ou …..C……",
+      "réponses": {
+        "A": "A : internes, B : externes, C : ovaire",
+        "B": "A : vertes, B : colorées, C : étamine",
+        "C": "A : mâles, B : femelles, C : pistil",
+        "D": "A : basales, B : apicales, C : ovule"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Le noyau végétatif du grain de pollen a pour rôle de diriger la formation du …..A…… Le noyau …..B….. du grain de pollen, quant à lui, donnera deux …..C….. mâles.",
+      "réponses": {
+        "A": "A : tube pollinique, B : reproducteur, C : gamètes",
+        "B": "A : embryon, B : central, C : ovules",
+        "C": "A : sporophyte, B : végétatif, C : gamètes femelles",
+        "D": "A : graine, B : primaire, C : noyaux secondaires"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Dans la formation du sac embryonnaire, après la méiose de la cellule mère, trois cellules dégénèrent. Seule une des quatre cellules, la …..A….., se développe. Son noyau subit …..B….. mitoses successives, produisant …..C….. noyaux haploïdes.",
+      "réponses": {
+        "A": "A : microspore, B : une, C : quatre",
+        "B": "A : oosphère, B : deux, C : six",
+        "C": "A : synergide, B : quatre, C : douze",
+        "D": "A : mégaspore, B : trois, C : huit"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Le sac embryonnaire est constitué de sept cellules : 3 cellules antipodes, 2 …..A….., 1 …..B….., et 2 …..C….. qui fusionneront après la fécondation.",
+      "réponses": {
+        "A": "A : antipodes, B : ovule, C : noyaux végétatifs",
+        "B": "A : microspores, B : plantule, C : noyaux reproducteurs",
+        "C": "A : synergides, B : oosphère, C : noyaux centraux",
+        "D": "A : cellules mères, B : graine, C : cellules secondaires"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Lors des étapes de la double fécondation, le tube pollinique atteint le sac embryonnaire et libère deux …..A….. haploïdes (n). Le premier féconde l’oosphère, et le deuxième fusionne avec les …..B….. noyaux centraux pour former l’…..C……",
+      "réponses": {
+        "A": "A : noyaux végétatifs, B : un, C : zygote",
+        "B": "A : noyaux reproducteurs, B : trois, C : embryon",
+        "C": "A : spermatozoïdes, B : deux, C : albumen",
+        "D": "A : gamètes femelles, B : quatre, C : endosperme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Les cellules mères des grains de pollen sont situées dans les …..A…… La cellule mère du sac embryonnaire est située dans le …..B….. et subit une méiose. Les deux noyaux centraux du sac embryonnaire fusionneront après la fécondation pour former l’…..C……",
+      "réponses": {
+        "A": "A : carpelles, B : ovaire, C : zygote",
+        "B": "A : ovules, B : stigmate, C : embryon",
+        "C": "A : anthères, B : nucelle, C : albumen",
+        "D": "A : pistils, B : style, C : graine"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

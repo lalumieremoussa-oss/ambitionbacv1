@@ -1,0 +1,156 @@
+{
+    "title": "Sujet Bac 2017 – Jean-Pierre MAKOUTA-MBOUKOU : « Toute littérature est inséparable de l'histoire »",
+    "id": "FR030_Q2_Makouta",
+    "questions": {
+        "question n°1": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel est le thème général de ce sujet ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La poésie pure et dénuée de toute référence au passé",
+                "B": "Le lien indissociable entre les œuvres et leur contexte historique",
+                "C": "La littérature comme mémoire des peuples",
+                "D": "Le rapport entre la littérature et l'histoire"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Que signifie le mot-clé « inséparable » dans ce contexte ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Indissociable, lié intimement",
+                "B": "Unis par des liens profonds et essentiels",
+                "C": "Dépendant étroitement l'un de l'autre",
+                "D": "Sans aucun rapport ou connexion"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°3": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Que signifie le mot « histoire » dans cette affirmation ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La mémoire collective des sociétés",
+                "B": "Les récits fictifs inventés par l'imagination",
+                "C": "Le contexte historique dans lequel l'œuvre est produite",
+                "D": "Les faits politiques et sociaux d'une époque"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°4": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quelle est la reformulation de l'opinion de Makouta-Mboukou ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Les textes littéraires portent la marque de l'histoire",
+                "B": "La littérature est rattachée à l'histoire",
+                "C": "La littérature est totalement indépendante du réel",
+                "D": "L'œuvre littéraire est le reflet de son temps"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°5": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quelle est la thèse défendue par l'auteur ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La littérature est un pur produit de l'imagination sans lien avec le passé",
+                "B": "Les œuvres littéraires sont ancrées dans leur époque",
+                "C": "La littérature est liée à l'histoire (fonction didactique)",
+                "D": "La littérature témoigne des réalités historiques"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°6": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quelle antithèse peut-on opposer à cette thèse ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La littérature est aussi le fruit de l'imagination",
+                "B": "L'œuvre peut transcender son contexte historique",
+                "C": "La littérature invente des mondes sans lien direct avec l'histoire",
+                "D": "La littérature n'est que le produit des faits historiques"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°7": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel argument soutient la thèse (lien littérature-histoire) ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Les œuvres conservent la mémoire collective",
+                "B": "Les livres se passent de tout contexte historique",
+                "C": "La littérature critique les figures politiques du passé",
+                "D": "La littérature retrace les événements historiques"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°8": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel autre argument soutient cette thèse ? – Trouve l'intrus",
+            "reponses": {
+                "A": "L'écrivain est un témoin de son temps",
+                "B": "Les œuvres sont influencées par les guerres et les révolutions",
+                "C": "Les récits s'inspirent des réalités politiques",
+                "D": "La littérature est un monde fermé sur lui-même"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel troisième argument soutient cette thèse ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La littérature permet de comprendre les racines du présent",
+                "B": "Les œuvres poétiques peuvent évoquer des faits historiques",
+                "C": "L'écrivain crée sans aucune référence au monde réel",
+                "D": "Le théâtre met souvent en scène des épisodes du passé"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°10": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel argument soutient l'antithèse (littérature comme imagination) ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La fiction s'affranchit des contraintes historiques",
+                "B": "Le roman peut se passer dans un monde imaginaire",
+                "C": "La littérature est toujours un reflet exact du passé",
+                "D": "L'écrivain invente des personnages qui n'ont jamais existé"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°11": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel autre argument soutient l'antithèse ? – Trouve l'intrus",
+            "reponses": {
+                "A": "L'imagination du poète ne connaît pas de limites temporelles",
+                "B": "L'œuvre peut être un pur jeu de l'esprit",
+                "C": "Les écrivains sont prisonniers des faits historiques",
+                "D": "Les récits de science-fiction projettent des futurs possibles"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°12": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel exemple illustre la thèse (littérature liée à l'histoire) ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Soundjata ou l'épopée mandingue (fondation de l'Empire du Mali)",
+                "B": "La Planète des singes de Pierre Boulle (monde de fiction totale)",
+                "C": "Les Châtiments de Victor Hugo (critique de Napoléon III)",
+                "D": "La Prise de Sikasso (résistance à la colonisation)"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°13": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel autre exemple illustre cette thèse ? – Trouve l'intrus",
+            "reponses": {
+                "A": "La guerre de Troie n'aura pas lieu (critique du bellicisme inspirée de la Grèce antique)",
+                "B": "Minerai noir de Depestre (poème d'amour sans ancrage historique)",
+                "C": "Batouala de René Maran (colonisation en Afrique)",
+                "D": "Une vie de boy de Ferdinand Oyono (administration coloniale)"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°14": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quel exemple illustre l'antithèse (littérature d'imagination) ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Soundjata ou l'épopée mandingue (épopée historique)",
+                "B": "La Rose des vents de Georges I. Treik (temps inventé en 32087)",
+                "C": "La Planète des singes (univers de science-fiction)",
+                "D": "Les Contemplations de Hugo (lyrisme personnel)"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°15": {
+            "question": "Sujet : « Toute littérature est inséparable de l'histoire. » – Quelle problématique soulève ce sujet ? – Trouve l'intrus",
+            "reponses": {
+                "A": "Quelle est la meilleure technique pour écrire un roman policier ?",
+                "B": "Quel est le rapport entre la littérature et l'histoire ?",
+                "C": "La littérature est-elle une mémoire du passé ?",
+                "D": "La littérature est-elle le reflet de l'histoire ?"
+            },
+            "bonne reponse": "A"
+        }
+    }
+}

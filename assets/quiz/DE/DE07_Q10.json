@@ -1,0 +1,106 @@
+{
+  "title": "DE07_Q10",
+  "id": "DE07_Q10",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le jour de la semaine qui vient après Sonntag ?",
+      "type": "short_answer",
+      "bonne réponse": "Montag"
+    },
+    "question n°2": {
+      "question": "Quel est le jour de la semaine qui vient avant Donnerstag ?",
+      "type": "short_answer",
+      "bonne réponse": "Mittwoch"
+    },
+    "question n°3": {
+      "question": "Comment dit-on « Samedi » en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "Samstag"
+    },
+    "question n°4": {
+      "question": "Quel jour est le troisième jour de la semaine (en partant du lundi) ?",
+      "type": "short_answer",
+      "bonne réponse": "Mittwoch"
+    },
+    "question n°5": {
+      "question": "Quel est le jour de la semaine qui commence par la lettre 'D' et vient avant Mittwoch ?",
+      "type": "short_answer",
+      "bonne réponse": "Dienstag"
+    },
+    "question n°6": {
+      "question": "Quel est le jour de la semaine qui commence par la lettre 'F' ?",
+      "type": "short_answer",
+      "bonne réponse": "Freitag"
+    },
+    "question n°7": {
+      "question": "Comment dit-on « Dimanche » en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "Sonntag"
+    },
+    "question n°8": {
+      "question": "Quel jour est le dernier jour de travail (traditionnellement) ?",
+      "type": "short_answer",
+      "bonne réponse": "Freitag"
+    },
+    "question n°9": {
+      "question": "Quel est le jour de la semaine qui suit Dienstag ?",
+      "type": "short_answer",
+      "bonne réponse": "Mittwoch"
+    },
+    "question n°10": {
+      "question": "Quel jour est entre Mittwoch et Freitag ?",
+      "type": "short_answer",
+      "bonne réponse": "Donnerstag"
+    },
+    "question n°11": {
+      "question": "Quel est le premier mois de l'année ?",
+      "type": "short_answer",
+      "bonne réponse": "Januar"
+    },
+    "question n°12": {
+      "question": "Quel est le mois qui vient après April ?",
+      "type": "short_answer",
+      "bonne réponse": "Mai"
+    },
+    "question n°13": {
+      "question": "Quel est le mois des vacances d'été qui commence par un 'J' et se termine par un 'I' ?",
+      "type": "short_answer",
+      "bonne réponse": "Juli"
+    },
+    "question n°14": {
+      "question": "Comment dit-on « Février » en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "Februar"
+    },
+    "question n°15": {
+      "question": "Quel est le mois qui vient après Oktober ?",
+      "type": "short_answer",
+      "bonne réponse": "November"
+    },
+    "question n°16": {
+      "question": "Quel est le mois des célébrations de Noël ?",
+      "type": "short_answer",
+      "bonne réponse": "Dezember"
+    },
+    "question n°17": {
+      "question": "Quel est le mois entre Juni et August ?",
+      "type": "short_answer",
+      "bonne réponse": "Juli"
+    },
+    "question n°18": {
+      "question": "Quel est le mois qui vient juste avant September ?",
+      "type": "short_answer",
+      "bonne réponse": "August"
+    },
+    "question n°19": {
+      "question": "Comment dit-on « Mars » en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "März"
+    },
+    "question n°20": {
+      "question": "Quel est le neuvième mois de l'année ?",
+      "type": "short_answer",
+      "bonne réponse": "September"
+    }
+  }
+}

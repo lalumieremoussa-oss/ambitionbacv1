@@ -1,0 +1,206 @@
+{
+    "title": "TROUVE L'INTRUS - Série 2 – Difficulté élevée (20 questions)",
+    "id": "FR009_Q2_S2",
+    "questions": {
+        "question n°1": {
+            "question": "Argument : « Je ne suis pas un prédicateur » (Ionesco). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le théâtre doit renoncer à toute fonction moralisatrice",
+                "B": "L'écrivain doit instruire et éveiller les consciences",
+                "C": "L'art n'a pas à délivrer de message aux hommes",
+                "D": "Une œuvre d'art est distincte des doctrines politiques"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°2": {
+            "question": "Citation : « De la musique avant toute chose » (Verlaine). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La poésie doit d'abord être une expérience sonore",
+                "B": "L'effet esthétique est plus important que le sens",
+                "C": "L'engagement politique est la priorité du poète",
+                "D": "La musicalité des vers prime sur leur signification"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°3": {
+            "question": "Argument : « Ce qui compte, c'est le plaisir du texte » (Kourouma). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La jouissance esthétique est la raison d'être du roman",
+                "B": "L'écrivain doit dénoncer les injustices de son temps",
+                "C": "Le lecteur cherche avant tout une expérience agréable",
+                "D": "La beauté du style est une finalité en soi légitime"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°4": {
+            "question": "Œuvre : Note et Contre-Note d'Eugène Ionesco. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Défend un théâtre absurde sans message moralisateur",
+                "B": "Affirme que l'art n'a rien à voir avec les doctrines",
+                "C": "Dénonce la trahison des idéaux postcoloniaux africains",
+                "D": "Critique les fondateurs de religions et les moralistes"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°5": {
+            "question": "Argument : « Littérature et joie de vivre ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "L'amour et la passion sont des thèmes esthétiques majeurs",
+                "B": "La beauté du monde est une source d'inspiration artistique",
+                "C": "Les sentiments humains sont exaltés par la création littéraire",
+                "D": "La littérature doit dénoncer les violences culturelles"
+            },
+            "bonne réponse": "D"
+        },
+        "question n°6": {
+            "question": "Œuvre : Le Sublime sacrifice de François d'Assise N'Dah. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Célèbre l'amour comme source de joie et de plénitude",
+                "B": "Rend hommage à la beauté féminine à travers Taloua Klaman",
+                "C": "Dénonce les abus coloniaux et l'exploitation des Noirs",
+                "D": "Est un roman sur la passion amoureuse et l'admiration"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°7": {
+            "question": "Œuvre : Demain j'arrête de Gilles Legardinier. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une comédie romantique sur l'obsession amoureuse",
+                "B": "Exalte la légèreté et le bonheur du quotidien parisien",
+                "C": "Critique les dérives du pouvoir militaire en Afrique",
+                "D": "Met en scène Julie et son mystérieux voisin de palier"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°8": {
+            "question": "Œuvre : Trois moments dans la vie et l'amour d'une femme d'Agnès Echène. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une pièce de théâtre sur les âges de la vie amoureuse",
+                "B": "Dénonce les sacrifices humains dans les traditions",
+                "C": "Explore l'évolution des sentiments de 20 à 60 ans",
+                "D": "Montre comment l'amour se transforme avec le temps"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°9": {
+            "question": "Poème : Minerai noir de René Depestre. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un poème d'amour dédié à la beauté féminine",
+                "B": "Proclame que « Ton délice à chaque instant me recrée »",
+                "C": "Fustige l'obsession maladive pour l'argent et le pouvoir",
+                "D": "Contient une vision érotique et spirituelle de l'aimée"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°10": {
+            "question": "Auteur : Eugène Ionesco. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un dramaturge du théâtre de l'absurde et de la dérision",
+                "B": "A dénoncé les violences culturelles du mariage forcé",
+                "C": "A refusé la fonction engagée de la littérature",
+                "D": "A écrit Note et Contre-Note sur l'esthétique théâtrale"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Argument : « L'art pour l'art contre l'art engagé ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La beauté est une valeur absolue indépendante du contexte",
+                "B": "La littérature doit instruire et transmettre un savoir",
+                "C": "Le plaisir esthétique est supérieur à toute autre finalité",
+                "D": "L'écrivain ne doit pas se faire le porte-voix des opprimés"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "Auteur : Paul Verlaine. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est un poète symboliste attaché à la musicalité des vers",
+                "B": "A dénoncé l'exploitation des enfants à l'ère industrielle",
+                "C": "A influencé la poésie moderne par sa théorie du flou",
+                "D": "A écrit Art Poétique comme manifeste esthétique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°13": {
+            "question": "Argument : « La beauté du style selon Ionesco ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Le théâtre doit charmer par sa poésie et son absurdité",
+                "B": "Les images et les sons créent un plaisir esthétique pur",
+                "C": "L'écrivain doit transmettre un message moral aux lecteurs",
+                "D": "La forme prime sur le fond dans la création dramatique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°14": {
+            "question": "Œuvre : Art Poétique de Paul Verlaine. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Défend une poésie fondée sur la nuance et l'indicible",
+                "B": "Dénonce les abus coloniaux et l'injustice raciale",
+                "C": "Propose de « prendre l'éloquence et tordre-lui le cou »",
+                "D": "Affirme que « De la musique avant toute chose »"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°15": {
+            "question": "Auteur : René Depestre. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A écrit Minerai noir sur l'amour et la beauté",
+                "B": "Célèbre la femme comme source de renaissance poétique",
+                "C": "A dénoncé les dérives du pouvoir en Afrique postcoloniale",
+                "D": "Est un poète haïtien exilé, engagé et lyrique"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°16": {
+            "question": "Argument : « L'esthétique, une fonction primordiale ». Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "La littérature est d'abord un art avant d'être un outil",
+                "B": "L'écrivain doit d'abord instruire et éduquer les masses",
+                "C": "La richesse de la langue est un plaisir en soi",
+                "D": "L'harmonie des images procure une émotion esthétique"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°17": {
+            "question": "Auteur : François d'Assise N'Dah. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A écrit Le Sublime sacrifice sur la beauté féminine",
+                "B": "A dénoncé les douleurs physiques de l'excision rituelle",
+                "C": "Est un auteur ivoirien de la génération montante",
+                "D": "Exalte la joie de vivre et les sentiments dans ses œuvres"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°18": {
+            "question": "Citation : « Une œuvre d'art n'a rien à voir avec les doctrines » (Ionesco). Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "L'art doit rester indépendant des idéologies politiques",
+                "B": "La littérature engagée est la seule forme d'art valable",
+                "C": "Le théâtre à thèse est une trahison de l'esthétique",
+                "D": "Les fondateurs de religions sont seuls à délivrer des messages"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°19": {
+            "question": "Œuvre : Demain j'arrête de Gilles Legardinier. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "Est une comédie sentimentale sur la vie parisienne",
+                "B": "Dénonce les violences culturelles du patriarcat",
+                "C": "Met en scène une femme fascinée par son voisin",
+                "D": "Célèbre l'amour et l'humour dans le quotidien"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°20": {
+            "question": "Auteur : Agnès Echène. Trouvez l'intrus parmi les 4 propositions.",
+            "réponses": {
+                "A": "A écrit Trois moments dans la vie et l'amour d'une femme",
+                "B": "A dénoncé les abus coloniaux et l'oppression raciale",
+                "C": "Est une dramaturge française sur les sentiments féminins",
+                "D": "Explore les âges de la vie amoureuse au théâtre"
+            },
+            "bonne réponse": "B"
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+  "title": "DE07_Q1",
+  "id": "DE07_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Comment écrit-on le chiffre 1 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "eins"
+    },
+    "question n°2": {
+      "question": "Comment écrit-on le chiffre 2 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwei"
+    },
+    "question n°3": {
+      "question": "Comment écrit-on le chiffre 3 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "drei"
+    },
+    "question n°4": {
+      "question": "Comment écrit-on le chiffre 4 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vier"
+    },
+    "question n°5": {
+      "question": "Comment écrit-on le chiffre 5 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünf"
+    },
+    "question n°6": {
+      "question": "Comment écrit-on le chiffre 6 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechs"
+    },
+    "question n°7": {
+      "question": "Comment écrit-on le chiffre 7 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sieben"
+    },
+    "question n°8": {
+      "question": "Comment écrit-on le chiffre 8 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "acht"
+    },
+    "question n°9": {
+      "question": "Comment écrit-on le chiffre 9 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neun"
+    },
+    "question n°10": {
+      "question": "Comment écrit-on le nombre 10 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zehn"
+    },
+    "question n°11": {
+      "question": "Comment écrit-on le nombre 11 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "elf"
+    },
+    "question n°12": {
+      "question": "Comment écrit-on le nombre 12 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwölf"
+    },
+    "question n°13": {
+      "question": "Comment écrit-on le nombre 13 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreizehn"
+    },
+    "question n°14": {
+      "question": "Comment écrit-on le nombre 14 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vierzehn"
+    },
+    "question n°15": {
+      "question": "Comment écrit-on le nombre 15 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünfzehn"
+    },
+    "question n°16": {
+      "question": "Comment écrit-on le nombre 16 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechzehn"
+    },
+    "question n°17": {
+      "question": "Comment écrit-on le nombre 17 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "siebzehn"
+    },
+    "question n°18": {
+      "question": "Comment écrit-on le nombre 18 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "achtzehn"
+    },
+    "question n°19": {
+      "question": "Comment écrit-on le nombre 19 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neunzehn"
+    },
+    "question n°20": {
+      "question": "Comment écrit-on le nombre 20 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwanzig"
+    },
+    "question n°21": {
+      "question": "Comment écrit-on le nombre 21 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "einundzwanzig"
+    },
+    "question n°22": {
+      "question": "Comment écrit-on le nombre 22 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zweiundzwanzig"
+    },
+    "question n°23": {
+      "question": "Comment écrit-on le nombre 23 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreiundzwanzig"
+    },
+    "question n°24": {
+      "question": "Comment écrit-on le nombre 24 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vierundzwanzig"
+    },
+    "question n°25": {
+      "question": "Comment écrit-on le nombre 25 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünfundzwanzig"
+    },
+    "question n°26": {
+      "question": "Comment écrit-on le nombre 26 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechsundzwanzig"
+    },
+    "question n°27": {
+      "question": "Comment écrit-on le nombre 27 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "siebenundzwanzig"
+    },
+    "question n°28": {
+      "question": "Comment écrit-on le nombre 28 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "achtundzwanzig"
+    },
+    "question n°29": {
+      "question": "Comment écrit-on le nombre 29 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neunundzwanzig"
+    },
+    "question n°30": {
+      "question": "Comment écrit-on le nombre 30 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreißig"
+    }
+  }
+}

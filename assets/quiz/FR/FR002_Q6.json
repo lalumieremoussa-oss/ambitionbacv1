@@ -1,0 +1,141 @@
+{
+    "title": "Quiz 3 - Partie B",
+    "id": "FR002_Q3_B",
+    "questions": {
+        "question n°1": {
+            "question": "« Je sentis tout mon corps et transir et brûler. » contient une répétition de voyelles appelée :",
+            "réponses": {
+                "A": "Assonance",
+                "B": "Allitération",
+                "C": "Ellipse"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "La structure (A–B / B’–A’) définit quelle figure ?",
+            "réponses": {
+                "A": "L'antithèse",
+                "B": "Le chiasme",
+                "C": "Le zeugma"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "« Mais moi, la barre du bourreau s’était... brisée » est une :",
+            "réponses": {
+                "A": "Anacoluthe",
+                "B": "Ellipse",
+                "C": "Paronomase"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "L'allitération joue sur les sons de :",
+            "réponses": {
+                "A": "Voyelles",
+                "B": "Consonnes",
+                "C": "Mots entiers"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Quelle figure est utilisée dans les virelangues (« Un chasseur sachant chasser... ») ?",
+            "réponses": {
+                "A": "Le paradoxe",
+                "B": "La paronomase",
+                "C": "Le zeugma"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°6": {
+            "question": "« Les sanglots longs des violons de l’automne… » est une célèbre :",
+            "réponses": {
+                "A": "Assonance",
+                "B": "Anacoluthe",
+                "C": "Antiphrase"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°7": {
+            "question": "Le zeugma rapproche deux mots de natures différentes, généralement :",
+            "réponses": {
+                "A": "Masculin et féminin",
+                "B": "Concret et abstrait",
+                "C": "Singulier et pluriel"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°8": {
+            "question": "Dans une antithèse, l'opposition se fait entre :",
+            "réponses": {
+                "A": "Des mots ou des groupes de mots",
+                "B": "Seulement des adjectifs",
+                "C": "Seulement des voyelles"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "L'ellipse permet de :",
+            "réponses": {
+                "A": "Rendre le texte plus rapide et dynamique",
+                "B": "Rapprocher des sons identiques",
+                "C": "Inverser l'ordre des mots"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "L'expression « Ah, bravo ! » devant une bêtise est une figure d'opposition nommée :",
+            "réponses": {
+                "A": "Oxymore",
+                "B": "Antiphrase",
+                "C": "Chiasme"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Quel auteur a écrit « Cette obscure clarté... » ?",
+            "réponses": {
+                "A": "Hugo",
+                "B": "Racine",
+                "C": "Corneille"
+            },
+            "bonne réponse": "C"
+        },
+        "question n°12": {
+            "question": "Le paradoxe cherche avant tout à :",
+            "réponses": {
+                "A": "Surprendre ou choquer",
+                "B": "Adoucir une réalité",
+                "C": "Répéter une structure"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°13": {
+            "question": "Quelle est la figure de rupture par excellence selon le document ?",
+            "réponses": {
+                "A": "L'anacoluthe",
+                "B": "L'oxymore",
+                "C": "L'assonance"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°14": {
+            "question": "« Va, cours, vole... » est une ellipse car :",
+            "réponses": {
+                "A": "Elle supprime le complément ou le pronom",
+                "B": "Elle oppose le mouvement au repos",
+                "C": "Elle imite le son du vent"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "La figure de style qui joue sur le sens et le son comme dans les publicités est la :",
+            "réponses": {
+                "A": "Paronomase",
+                "B": "Antithèse",
+                "C": "Anacoluthe"
+            },
+            "bonne réponse": "A"
+        }
+    }
+}

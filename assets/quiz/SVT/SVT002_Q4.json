@@ -1,0 +1,311 @@
+{
+  "title": "Quiz 4",
+  "id": "SVT002_Q4",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle phase de la figure 2 représente le potentiel de repos ou de membrane ? (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "La phase ab",
+        "B": "La phase bcd",
+        "C": "La phase defgh",
+        "D": "La phase ef"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Comment se nomme la phase ef sur la figure 2 ? (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "Repolarisation",
+        "B": "Hyperpolarisation",
+        "C": "Dépolarisation",
+        "D": "Temps de latence"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel est le nom de la phase gh sur la figure 2 ? (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "Dépolarisation",
+        "B": "Repolarisation",
+        "C": "Hyperpolarisation",
+        "D": "Artefact de stimulation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Comment est obtenu le potentiel zéro (phase ab) ? (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "Suite à une stimulation efficace.",
+        "B": "Lorsque les deux électrodes réceptrices sont enfoncées à l'intérieur de la fibre.",
+        "C": "Si on pose deux électrodes réceptrices à la surface d’une fibre nerveuse.",
+        "D": "Par l'entrée massive d'ions Na+."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quand est obtenu le potentiel de repos (phase bcd) ?",
+      "réponses": {
+        "A": "Lorsque les deux électrodes réceptrices sont à la surface.",
+        "B": "Si le deuxième électrode est enfoncé à l’intérieur de la fibre.",
+        "C": "Après une hyperpolarisation.",
+        "D": "Suite à l'ouverture des canaux Na+ voltage dépendants."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "L'obtention du potentiel d'action (phases defgh) est le résultat de quelle condition ? (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "Une stimulation inefficace.",
+        "B": "Une stimulation efficace lorsque la deuxième électrode reste enfoncée.",
+        "C": "Le départ de l'onde de négativité.",
+        "D": "La fermeture des canaux K+ voltage dépendants."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Que représente la phase d sur la figure 2 ? (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "Le temps de latence.",
+        "B": "L'artefact de stimulation.",
+        "C": "Le potentiel de repos.",
+        "D": "La dépolarisation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "La phase ‘de’ représente : (potentiel.png)",
+      "image": "assets/images/svt/potentiel.png",
+      "réponses": {
+        "A": "La repolarisation.",
+        "B": "L'hyperpolarisation.",
+        "C": "Le temps de latence.",
+        "D": "La dépolarisation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Que révèle le potentiel zéro concernant la surface de l'axone ?",
+      "réponses": {
+        "A": "Qu'elle est chargée négativement.",
+        "B": "Qu'elle est au même potentiel.",
+        "C": "Qu'elle est polarisée au repos.",
+        "D": "Qu'elle présente une inversion de charges."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Au repos, quelle est la charge de l'intérieur et de l'extérieur de la fibre nerveuse ?",
+      "réponses": {
+        "A": "Intérieur positif, extérieur négatif.",
+        "B": "Intérieur négatif, extérieur positif.",
+        "C": "Les deux sont neutres.",
+        "D": "Les deux sont positifs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Lors d'une excitation efficace, que se passe-t-il au niveau des charges électriques de la membrane ?",
+      "réponses": {
+        "A": "L'intérieur devient électronégatif et l'extérieur électropositif.",
+        "B": "L'intérieur et l'extérieur restent neutres.",
+        "C": "L'intérieur devient électropositif et l'extérieur électronégatif.",
+        "D": "Il n'y a pas de changement de charges."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Le temps de latence correspond au temps mis par l'influx nerveux pour :",
+      "réponses": {
+        "A": "Dépolariser la membrane.",
+        "B": "Atteindre la première électrode réceptrice R1.",
+        "C": "Provoquer l'hyperpolarisation.",
+        "D": "Se repolariser."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Qu'indique l'artéfact de stimulation ?",
+      "réponses": {
+        "A": "La durée du potentiel d'action.",
+        "B": "Le moment précis de la repolarisation.",
+        "C": "Le moment précis de la stimulation.",
+        "D": "Le niveau du potentiel de repos."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Ioniquement, qu'est-ce qui cause la dépolarisation ?",
+      "réponses": {
+        "A": "La sortie massive d'ions K+.",
+        "B": "La fermeture des canaux Na+ voltage dépendants.",
+        "C": "L'entrée massive des ions sodium (Na+) due à l'ouverture des canaux Na+ voltage dépendants.",
+        "D": "L'ouverture des canaux K+ voltage dépendants."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi l'hyperpolarisation se produit-elle, ioniquement ?",
+      "réponses": {
+        "A": "En raison de la fermeture des canaux K+ voltage dépendants.",
+        "B": "Par l'action accélérée de la pompe ionique.",
+        "C": "À cause de la sortie supplémentaire d'ions K+ due à des canaux K+ restant ouverts.",
+        "D": "En raison de l'entrée massive d'ions Na+."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Le document présente trois axones A, B, et C. Comment A et B sont-ils liés à C ? (synapse.png)",
+      "image": "assets/images/svt/synapse.png",
+      "réponses": {
+        "A": "Ils sont directement connectés par des jonctions communicantes.",
+        "B": "Ils sont liés à C par synapse.",
+        "C": "Ils sont tous les trois liés par une seule synapse commune.",
+        "D": "Ils n’ont aucun lien direct entre eux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quelle observation est faite lors de la stimulation du neurone A ? (synapse.png)",
+      "image": "assets/images/svt/synapse.png",
+      "réponses": {
+        "A": "Seule la réponse de B est provoquée.",
+        "B": "Sa propre réponse est provoquée, puis celle de B et C.",
+        "C": "Sa propre réponse est provoquée, puis celle de C mais pas celle de B.",
+        "D": "Aucune réponse n’est provoquée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Que se passe-t-il lors de la stimulation du neurone B après injection de cholinestérase ? (synapse.png)",
+      "image": "assets/images/svt/synapse.png",
+      "réponses": {
+        "A": "Sa propre réponse est provoquée, puis celle de A et C.",
+        "B": "Sa propre réponse est provoquée, mais pas celle de A et C.",
+        "C": "Seule la réponse de C est provoquée.",
+        "D": "La réponse de A est provoquée, mais pas celle de B et C."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Pourquoi la stimulation de chaque neurone provoque-t-elle sa propre réponse ? (synapse.png)",
+      "image": "assets/images/svt/synapse.png",
+      "réponses": {
+        "A": "Parce que la cholinestérase est présente.",
+        "B": "Parce qu’un neurone excité génère un message nerveux (potentiel d’action) qui se propage le long de son axone.",
+        "C": "Grâce à la transmission unidirectionnelle.",
+        "D": "En raison de l’inactivation des neurotransmetteurs."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Lorsque le message nerveux (électrique) arrive au niveau de la synapse, en quoi est-il converti ?",
+      "réponses": {
+        "A": "En message thermique.",
+        "B": "En message chimique.",
+        "C": "En message lumineux.",
+        "D": "En message mécanique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Comment le message chimique traverse-t-il la fente synaptique pour atteindre le neurone C ?",
+      "réponses": {
+        "A": "Il est directement injecté dans le neurone C.",
+        "B": "Il se fixe sur le neurone C, générant un nouveau message nerveux dans C.",
+        "C": "Il est transporté par la pompe ionique.",
+        "D": "Il est dégradé par une enzyme."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°22": {
+      "question": "Quelle est la conclusion principale concernant la transmission synaptique, d’après le résultat des situations ?",
+      "réponses": {
+        "A": "Elle est bidirectionnelle.",
+        "B": "Elle est toujours du neurone postsynaptique vers le présynaptique.",
+        "C": "Elle est unidirectionnelle.",
+        "D": "Elle ne dépend pas des neurotransmetteurs."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "La cholinestérase est une enzyme dont le rôle est de : (synapse.png)",
+      "image": "assets/images/svt/synapse.png",
+      "réponses": {
+        "A": "Synthétiser les neurotransmetteurs.",
+        "B": "Dégrader le neurotransmetteur acétylcholine.",
+        "C": "Faciliter la recapture des neurotransmetteurs.",
+        "D": "Bloquer les récepteurs postsynaptiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Que se passe-t-il si le neurotransmetteur libéré par le neurone B est détruit rapidement par la cholinestérase avant de pouvoir se fixer sur le neurone C ?",
+      "réponses": {
+        "A": "Le neurone C est activé plus rapidement.",
+        "B": "Le neurone C n’est pas activé et ne génère pas de message nerveux.",
+        "C": "Le message nerveux remonte vers le neurone A.",
+        "D": "La transmission synaptique devient bidirectionnelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Vrai ou Faux : La stimulation du neurone A provoque sa propre réponse mais aussi celle de B.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°26": {
+      "question": "Vrai ou Faux : Un message nerveux électrique est converti en message chimique au niveau de la synapse.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°27": {
+      "question": "Vrai ou Faux : Le message nerveux peut remonter la synapse du neurone postsynaptique vers le neurone présynaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Vrai ou Faux : L’injection de cholinestérase n’a aucun effet sur la transmission synaptique.",
+      "réponses": {
+        "A": "VRAI",
+        "B": "FAUX"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "La transmission synaptique est …..A…… Elle se fait toujours du neurone …..B….. vers le neurone …..C…… Le message nerveux ne peutvdonc pas remonter la synapse de B vers A. C’est pourquoi A ne répond pas à la stimulation de B.",
+      "réponses": {
+        "A": "A : bidirectionnelle, B : postsynaptique, C : présynaptique",
+        "B": "A : unidirectionnelle, B : présynaptique, C : postsynaptique",
+        "C": "A : continue, B : sensoriel, C : moteur",
+        "D": "A : inversible, B : récepteur, C : effecteur"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Les neurotransmetteurs sont …..A….. à la transmission synaptique, et leur inactivation (par des enzymes comme la …..B…..) empêche la …..C….. du message. Voir expérience 3. (synapse.png)",
+      "image": "assets/images/svt/synapse.png",
+      "réponses": {
+        "A": "A : facultatifs, B : amylase, C : amplification",
+        "B": "A : essentiels, B : cholinestérase, C : transmission",
+        "C": "A : secondaires, B : lipase, C : dégradation",
+        "D": "A : inutiles, B : protéase, C : création"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

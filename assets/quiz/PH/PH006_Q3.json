@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 3",
+  "id": "PH006_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Thème : le lien entre la Raison et le Mythe. Sujet: La Raison récuse-t-elle le Mythe ? Quelle est la meilleure définition de la \"Raison\" dans le cadre de ce Sujet ?",
+      "réponses": {
+        "A": "Une simple capacité d'accumulation d'informations et de mémorisation de faits divers, sans réelle faculté d'analyse ou de synthèse critique.",
+        "B": "La faculté humaine permettant de penser de manière logique, de distinguer le vrai du faux, et d’établir des liens de cause à effet pour une compréhension objective du monde.",
+        "C": "L'ensemble des préjugés et des croyances populaires qui guident les actions humaines, souvent sans fondement rationnel ou vérifiable.",
+        "D": "Une intuition spontanée et irréfléchie, qui permet de prendre des décisions rapides sans passer par une étape de délibération ou de jugement conscient."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie le terme \"Récuser\" lorsque l'on dit que la raison récuse le mythe ?",
+      "réponses": {
+        "A": "Chercher à mieux comprendre et à interpréter les éléments symboliques et traditionnels contenus dans le mythe pour en extraire une sagesse cachée.",
+        "B": "Adopter une approche critique et analyser le mythe à travers le prisme de la logique et de la vérification, sans pour autant rejeter son contenu intégralement.",
+        "C": "Rejeter ou refuser d'admettre la validité, la crédibilité ou la pertinence de quelque chose, en l'occurrence du mythe, en le considérant comme dénué de fondement.",
+        "D": "Intégrer les récits mythiques dans un système de pensée rationnel, en leur donnant une nouvelle signification qui les rend compatibles avec les exigences de la démonstration scientifique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Un \"Mythe\" est décrit comme un récit traditionnel ou imaginaire servant à expliquer des phénomènes. Ce récit est souvent caractérisé par son origine :",
+      "réponses": {
+        "A": "Purement scientifique et empirique, s'appuyant sur des observations rigoureuses et des expérimentations reproductibles pour valider ses hypothèses.",
+        "B": "Religieuse ou symbolique, visant à donner du sens à l'existence, à l'origine du monde ou à des pratiques sociales par des narrations non vérifiables.",
+        "C": "Philosophique et conceptuelle, élaborant des systèmes de pensée abstraits pour résoudre les grandes énigmes de l'univers et de la conscience humaine.",
+        "D": "Historique et factuelle, se basant sur des événements réels et documentés pour reconstituer le passé de manière objective et fidèle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "La problématique \"La raison peut-elle véritablement se passer du mythe ?\" suggère que l'opposition entre raison et mythe est :",
+      "réponses": {
+        "A": "Absolument irréductible et totale, sans aucune possibilité de coexistence ou de dialogue entre les deux modes de pensée.",
+        "B": "Une pure illusion, car la raison et le mythe sont, en réalité, deux facettes d'une même approche de la connaissance humaine.",
+        "C": "Temporaire et destinée à disparaître avec le progrès inéluctable de la science, rendant le mythe entièrement obsolète et sans intérêt.",
+        "D": "Complexe et nuancée, invitant à explorer si, malgré l'opposition apparente, il n'existe pas une complémentarité ou une dépendance mutuelle."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Le mythe repose sur l'imaginaire et la croyance, tandis que la raison exige des preuves et des démonstrations. Cette distinction met en évidence la différence de :",
+      "réponses": {
+        "A": "Niveau de complexité du langage utilisé par chacun, l'un étant simple et l'autre sophistiqué.",
+        "B": "Nature de leur fondement et de leur méthode d'accès à la vérité, l'un étant intuitif et l'autre logique et vérifiable.",
+        "C": "Impact émotionnel sur l'individu, le mythe étant plus touchant et la raison plus froide et impersonnelle.",
+        "D": "Ancienneté chronologique, le mythe étant toujours antérieur à la raison dans l'histoire des civilisations."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe est associé à l'idée que l'imagination est une \"maîtresse d'erreur et de fausseté\" ?",
+      "réponses": {
+        "A": "René Descartes, pour sa méfiance envers les sens et l'imagination dans la recherche de vérités claires et distinctes.",
+        "B": "Baruch Spinoza, pour sa distinction entre la connaissance intuitive et la connaissance rationnelle, où l'imagination est source d'idées confuses.",
+        "C": "David Hume, pour son empirisme radical et sa suspicion envers les idées abstraites et les raisonnements spéculatifs qui dépassent l'expérience.",
+        "D": "Blaise Pascal, dans ses Pensées, critiquant le rôle de l'imagination dans l'égarement de l'esprit humain et sa propension à l'illusion."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "La citation de Blaise Pascal sur l'imagination comme \"maîtresse d'erreur et de fausseté\" signifie que :",
+      "réponses": {
+        "A": "L'imagination, qui nourrit les récits mythiques, est une force puissante capable d'induire en erreur et de produire des illusions, s'opposant ainsi à la recherche rationnelle de la vérité.",
+        "B": "L'imagination, bien que parfois source d'illusions, est un guide fiable pour atteindre la vérité divine et les mystères de la foi, supplantant la raison.",
+        "C": "L'imagination est une faculté créatrice indispensable, qui permet à l'homme d'inventer de nouvelles réalités et de se libérer des contraintes du monde sensible.",
+        "D": "L'imagination est une fonction psychologique neutre, qui se contente de reproduire les perceptions du monde extérieur sans jamais altérer la réalité des faits observés."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "La science, en tant que produit de la raison, a supplanté les explications mythologiques en :",
+      "réponses": {
+        "A": "S'appuyant sur des récits symboliques plus élaborés et des croyances collectives plus profondes que les mythes traditionnels.",
+        "B": "Développant des lois naturelles démontrables, des relations de cause à effet et des explications vérifiables, remplaçant ainsi les narrations imaginaires.",
+        "C": "Reléguant les phénomènes inexplicables à des forces surnaturelles, reconnaissant ainsi la supériorité du mythe dans les domaines du mystère et de l'ineffable.",
+        "D": "Se contentant d'accumuler des observations sans jamais chercher à en tirer des conclusions générales ou des lois universelles."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quel philosophe est l'auteur de la théorie des \"trois états\" (théologique, métaphysique, positif) de l'humanité ?",
+      "réponses": {
+        "A": "Émile Durkheim, pour sa sociologie des religions et l'étude des fonctions sociales du mythe.",
+        "B": "Auguste Comte, fondateur du positivisme, décrivant l'évolution de l'esprit humain vers l'état scientifique où la raison domine.",
+        "C": "Carl Gustav Jung, pour sa théorie des archétypes et de l'inconscient collectif qui nourrit les mythes.",
+        "D": "Friedrich Wilhelm Joseph Schelling, pour sa philosophie de la nature et sa réhabilitation de la mythologie comme source de connaissance primordiale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "La théorie des \"trois états\" d'Auguste Comte, en particulier l'état théologique, suggère que :",
+      "réponses": {
+        "A": "Les explications par les dieux et les mythes sont la forme la plus évoluée et la plus parfaite de la connaissance humaine.",
+        "B": "Les hommes ont commencé par expliquer le monde par des forces surnaturelles et des mythes, ce qui constitue une étape primitive de l'esprit humain.",
+        "C": "Le mythe est une forme de pensée qui coexiste éternellement et harmonieusement avec la science et la raison, sans jamais être dépassée.",
+        "D": "L'état théologique est le résultat d'une régression de la raison, où l'humanité perd sa capacité à distinguer le vrai du faux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "L'explication de l'Argument 1 met en lumière l'opposition entre le mythe comme \"récit symbolique, souvent religieux ou traditionnel, sans méthode de vérification\" et la raison qui \"s’appuie sur des démonstrations logiques\". Cette opposition porte sur :",
+      "réponses": {
+        "A": "La finalité éthique de leurs discours, l'un visant le bien et l'autre la vérité.",
+        "B": "La capacité à émouvoir l'auditoire, le mythe étant plus performatif que la raison.",
+        "C": "La méthode d'accès à la connaissance et la nature de la validité de leurs affirmations.",
+        "D": "Le public visé par chaque discours, le mythe s'adressant aux masses et la raison à une élite."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Selon la perspective d'Auguste Comte, lorsque l'humanité atteint l'état positif, cela signifie que :",
+      "réponses": {
+        "A": "Les mythes retrouvent leur place centrale comme principale forme d'explication du monde, reléguant la science au second plan.",
+        "B": "La science et la raison dominent la connaissance, et les explications mythiques sont alors considérées comme des étapes révolues de l'esprit humain.",
+        "C": "Il y a un équilibre parfait entre le mythe et la raison, chacun apportant une contribution égale à la compréhension du monde.",
+        "D": "L'humanité cesse toute forme de recherche de connaissance, s'étant résignée à l'inexplicable et à l'arbitraire des phénomènes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "La raison, selon sa définition, est la faculté humaine permettant de distinguer le vrai du faux et d'établir des liens de cause à effet.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'expression \"récuser le mythe\" implique de l'accepter pleinement comme une forme de connaissance valide et démontrable, sans aucune contestation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Le mythe est un récit imaginaire souvent d'origine religieuse, qui ne cherche pas à expliquer l'origine du monde ou des phénomènes naturels.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Blaise Pascal considère l'imagination, qui nourrit les mythes, comme une ennemie de la vérité et donc de la raison.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Auguste Comte, dans sa théorie des trois états, suggère que l'état positif, où la science et la raison dominent, précède l'état théologique (mythique).",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La science, en cherchant les causes réelles et les lois universelles, remplace les explications imaginaires du mythe par des vérités démontrables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "La problématique du sujet met en évidence une opposition si radicale entre la raison et le mythe qu'elle exclut toute possibilité de complémentarité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Le fait que le mythe repose sur l'imaginaire collectif et la croyance, sans méthode de vérification, est l'une des raisons pour lesquelles la raison le récuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

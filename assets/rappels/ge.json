@@ -1,0 +1,682 @@
+[
+  {
+    "citation": "Le succès de ce pays repose sur l'agriculture.",
+    "auteur": "Félix Houphouët-Boigny",
+    "source": "Discours officiel sur l'orientation économique nationale (1960)",
+    "contexte": "Déclaration fondatrice qui consacre les atouts du milieu physique et l'agriculture comme piliers centraux du développement socio-économique et du « miracle ivoirien ».",
+    "analyse_a": [
+      {
+        "titre": "Variété des sols, du relief et des climats",
+        "illustration": "Sols ferralitiques du Sud subéquatorial et zones tropicales du Nord",
+        "description": "La diversité des conditions agro-climatiques permet un développement agricole dual : cultures de rente (cacao, café, hévéa, palmier à huile) au Sud et cultures vivrières associées à l'élevage au Nord."
+      },
+      {
+        "titre": "Densité du réseau hydrographique et ouverture maritime",
+        "illustration": "Grands fleuves (Bandama, Sassandra, Comoé, Cavally) et littoral de 550 km",
+        "description": "L'abondance des ressources en eau favorise l'irrigation, la production hydroélectrique (barrages de Kossou, Taabo, Soubré) et les échanges commerciaux internationaux via les ports d'Abidjan et San Pedro."
+      },
+      {
+        "titre": "Richesse du sous-sol et ressources énergétiques",
+        "illustration": "Gisements d'or (Tongon, Ity), de pétrole/gaz offshore (bassin pélagique) et potentiel solaire",
+        "description": "L'abondance minérale et le potentiel hydrocarbure/énergétique soutiennent l'industrie extractives, alimentent les recettes budgétaires de l'État et diversifient l'économie au-delà du secteur agricole."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Déforestation massive et dégradation des sols",
+        "illustration": "Recul de la couverture forestière de 16 millions d'hectares en 1900 à moins de 3 millions d'hectares",
+        "description": "L'exploitation agricole intensive et la coupe de bois non durable entraînent la perte de la biodiversité, l'érosion des sols et l'assèchement progressif des terres fertiles."
+      },
+      {
+        "titre": "Vulnérabilité au changement climatique et aléas pluviométriques",
+        "illustration": "Sècheresses récurrentes au Nord et inondations/érosion côtière au Sud (ex. Grand-Bassam)",
+        "description": "La perturbation des cycles de précipitations menace directement les rendements agricoles, la sécurité alimentaire et les infrastructures côtières stratégiques."
+      },
+      {
+        "titre": "Défis de transformation locale et durabilité de l'exploitation",
+        "illustration": "Exportation prédominante de matières premières brutes (cacao, minerais)",
+        "description": "L'extraction des ressources naturelles peine encore à générer une plus-value industrielle maximale sur place, exposant l'économie aux fluctuations des cours mondiaux et aux risques environnementaux."
+      }
+    ]
+  },
+  {
+    "citation": "L'eau n'est pas nécessaire à la vie, l'eau est la vie.",
+    "auteur": "Antoine de Saint-Exupéry",
+    "source": "Terre des hommes (1939)",
+    "contexte": "Citation soulignant le rôle vital et irremplaçable de la ressource hydraulique dans la subsistance des populations et le développement des activités économiques.",
+    "analyse_a": [
+      {
+        "titre": "Les grands fleuves nationaux et leurs bassins versants",
+        "illustration": "Le Bandama (1050 km), le Sassandra (650 km), la Comoé (1160 km) et le Cavally (700 km)",
+        "description": "Quatre grands cours d'eau orientés Nord-Sud traversent le territoire et constituent la colonne vertébrale du réseau hydrographique ivoirien, drainant la quasi-totalité du pays."
+      },
+      {
+        "titre": "Le réseau lagunaire et les fleuves côtiers",
+        "illustration": "La lagune Ébrié, la lagune de Grand-Bassam et les fleuves Bia, Agnéby, Boubo",
+        "description": "Le littoral ivoirien dispose d'un vaste système lagunaire étendu sur plus de 300 km et de multiples fleuves côtiers à débit régulier grâce au climat subéquatorial."
+      },
+      {
+        "titre": "Les plans d'eau artificiels et réservoirs d'eau",
+        "illustration": "Lacs de retenue des barrages de Kossou, Taabo, Buyo, Ayamé et Soubré",
+        "description": "L'aménagement des grands cours d'eau a permis la création de vastes retenues d'eau artificielles réparties sur le territoire, augmentant la capacité de stockage hydraulique du pays."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Production d'énergie hydroélectrique et alimentation industrielle",
+        "illustration": "Barrages hydroélectriques (Soubré, Taabo, Kossou, Singrobo) et centrales de production",
+        "description": "Les cours d'eau fournissent une part majeure de l'électricité nationale, alimentant les usines, les ménages et le tissu industriel tout en exportant de l'énergie dans la sous-région."
+      },
+      {
+        "titre": "Support à l'agriculture, à la pêche et à l'aquaculture",
+        "illustration": "Irrigation des périmètres rizicoles, cultures maraîchères et pêche artisanale en lagune",
+        "description": "L'eau soutient la souveraineté alimentaire en irriguant les cultures en saison sèche et en fournissant des ressources halieutiques abondantes pour le marché national."
+      },
+      {
+        "titre": "Vecteur de transport, de commerce et d'approvisionnement en eau potable",
+        "illustration": "Transport lagunaire à Abidjan (STL, CITRANS, SOTRA), ports d'Abidjan et San-Pedro, stations SODECI",
+        "description": "Les plans d'eau facilitent la mobilité urbaine, le commerce maritime international et alimentent les réseaux de distribution d'eau potable pour les ménages et les entreprises."
+      }
+    ]
+  },
+  {
+    "citation": "Le succès de ce pays repose sur l'agriculture.",
+    "auteur": "Félix Houphouët-Boigny",
+    "source": "Discours officiel sur l'orientation économique nationale (1960)",
+    "contexte": "Déclaration fondatrice érigeant le secteur agricole en moteur stratégique de la croissance et du modèle de développement socio-économique de la Côte d'Ivoire.",
+    "analyse_a": [
+      {
+        "titre": "Les facteurs naturels et climatiques favorables",
+        "illustration": "Relief à dominante de plaines/plateaux, sols fertiles et diversité des climats (subéquatorial au Sud, tropical au Nord)",
+        "description": "Le milieu physique offre un cadre idéal pour la diversification des cultures, combinant de vastes plantations industrielles au Sud et des zones de cultures vivrières et d'élevage au Nord."
+      },
+      {
+        "titre": "Les atouts humains et la disponibilité de la main-d'œuvre",
+        "illustration": "Plus de 60 % de la population active employée dans l'agriculture et marché intérieur de plus de 29 millions d'habitants",
+        "description": "La dynamique démographique garantit une main-d'œuvre abondante nationale et sous-régionale, tout en constituant un bassin de consommation massif pour la production agricole."
+      },
+      {
+        "titre": "L'encadrement étatique, la recherche et l'incitation politique",
+        "illustration": "Création du CNRA, de l'ANADER, du Conseil Café-Cacao et application d'un Code des investissements incitatif",
+        "description": "L'État soutient le secteur par la recherche agronomique, la vulgarisation des techniques agricoles, la stabilisation des prix d'achat aux planteurs et l'encadrement des filières."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Positions de premier plan sur les marchés mondiaux",
+        "illustration": "1er producteur mondial de cacao et d'anacarde, 1er producteur africain de caoutchouc naturel",
+        "description": "Les performances exceptionnelles des cultures d'exportation confèrent au pays un leadership agro-industriel mondial et une place stratégique dans le commerce international."
+      },
+      {
+        "titre": "Pilier des finances publiques et pourvoyeur de devises",
+        "illustration": "Près de 70 % des recettes d'exportation et contribution directe au budget via le Droit Unique de Sortie (DUS)",
+        "description": "Les rentrées financières issues des exportations agricoles approvisionnent les caisses de l'État, permettant le financement des infrastructures nationales et du service de la dette."
+      },
+      {
+        "titre": "Moteur socio-économique, d'emploi et de sécurité alimentaire",
+        "illustration": "Soutien à l'agro-industrie, alimentation des villes et création d'emplois directs et indirects (transport, commerce)",
+        "description": "En plus de nourrir la population locale grâce aux cultures vivrières (igname, manioc, riz), l'agriculture induit le développement du secteur tertiaire et des usines de transformation locale."
+      }
+    ]
+  },
+  {
+    "citation": "L'eau est le berceau de la vie et la pêche en est l'un des plus anciens piliers de la nourriture des hommes.",
+    "auteur": "Principe de développement des ressources halieutiques",
+    "source": "Directives FAO pour une pêche responsable",
+    "contexte": "Mise en valeur des atouts naturels et du potentiel maritime de la Côte d'Ivoire pour soutenir le secteur halieutique et la sécurité alimentaire.",
+    "analyse_a": [
+      {
+        "titre": "Le potentiel hydrographique, lagunaire et maritime",
+        "illustration": "Façade maritime de ~600 km sur le golfe de Guinée, 4 grands fleuves, lacs de retenue (Kossou, Taabo) et réseau lagunaire (Ébrié, Aby)",
+        "description": "Le milieu physique ivoirien offre un cadre exceptionnel et diversifié permettant à la fois la pêche maritime, la pêche continentale, la pêche lagunaire et l'aquaculture."
+      },
+      {
+        "titre": "La dynamique démographique et le marché de consommation",
+        "illustration": "Population de plus de 29 millions d'habitants avec une jeunesse majoritaire (60 % de moins de 20 ans)",
+        "description": "La forte croissance démographique garantit un bassin de consommation massif pour les produits de la mer tout en fournissant une main-d'œuvre abondante et jeune pour la filière."
+      },
+      {
+        "titre": "Les infrastructures portuaires et le cadre institutionnel",
+        "illustration": "Ports de pêche d'Abidjan (1er port thonier d'Afrique de l'Ouest) et de San Pedro, complétés par le Code des investissements",
+        "description": "L'existence d'équipements industriels modernes (chaînes de froid, conserveries) et d'une politique libérale incitative attire les investissements capitaux dans le secteur."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Contribution économique directe et recettes budgétaires",
+        "illustration": "Génération de devises via les exportations de thon et rentrées fiscales/douanières pour l'État",
+        "description": "En tant que sous-secteur agricole majeur, la pêche alimente le PIB national, fournit des ressources financières publiques et équilibre la balance commerciale."
+      },
+      {
+        "titre": "Sécurité alimentaire, création d'emplois et impact social",
+        "illustration": "Fourniture de la principale source de protéines animales accessibles et emplois de mareyeuses, pêcheurs et transformateurs",
+        "description": "La pêche constitue le filet de sécurité nutritionnel des populations urbaines et rurales tout en redistribuant des revenus directs à des milliers de ménages."
+      },
+      {
+        "titre": "Entraînement des activités connexes et développement local",
+        "illustration": "Développement de l'artisanat naval, du transport frigorifique, de l'agro-industrie (fumage, séchage) et des marchés locaux",
+        "description": "Le secteur halieutique stimule tout un écosystème économique périphérique, favorisant la modernisation des infrastructures du littoral et de l'intérieur du pays."
+      }
+    ]
+  },
+  {
+    "citation": "La forêt précède l'homme, le désert le suit.",
+    "auteur": "François-René de Chateaubriand",
+    "source": "Les Natchez (1826)",
+    "contexte": "Mise en garde classique illustrant les périls écologiques et socio-économiques d'une surexploitation des ressources forestières non régulée.",
+    "analyse_a": [
+      {
+        "titre": "La déforestation massive et la perte de biodiversité",
+        "illustration": "Effondrement de la couverture forestière de 16 millions d'hectares en 1960 à moins de 3 millions aujourd'hui",
+        "description": "L'abattage incontrôlé et le défrichage agricole entraînent la destruction irréversible du couvert végétal d'origine, détruisant la faune et les espèces végétales à haute valeur économique."
+      },
+      {
+        "titre": "La dégradation des sols et la perturbation climatique",
+        "illustration": "Baisse de la pluviométrie, sécheresses récurrentes et risques d'avancée de la désertification",
+        "description": "La disparition de la forêt modifie le microclimat national et appauvrit les sols, ce qui menace directement les rendements agricoles et la sécurité alimentaire du pays."
+      },
+      {
+        "titre": "L'épuisement des ressources et les tensions socio-foncières",
+        "illustration": "Surchauffe sur les terres arables, conflits intercommunautaires et rareté des essences de bois nobles",
+        "description": "La surexploitation compromet les réserves économiques des générations futures tout en attisant les tensions foncières entre populations locales, exploitants forestiers et agriculteurs."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La génération de devises et le soutien aux finances publiques",
+        "illustration": "Exportations d'essences précieuses (Acajou, Teck, Framiré, Iroko) et perception des taxes forestières",
+        "description": "Le commerce international du bois fournit d'importantes recettes douanières et fiscales à l'État, contribuant à l'équilibre financier de la nation."
+      },
+      {
+        "titre": "La création d'emplois et de revenus pour les ménages",
+        "illustration": "Emplois dans l'abattage, le charroie, le sciage et la menuiserie artisanale",
+        "description": "La filière bois emploie une main-d'œuvre importante dans les zones rurales et urbaines, fournissant un moyen de subsistance direct à de nombreuses familles."
+      },
+      {
+        "titre": "Le développement du tissu industriel et des infrastructures",
+        "illustration": "Implantation de scieries, d'unités de contreplaqué et désenclavement des zones rurales",
+        "description": "L'exploitation forestière stimule la première transformation industrielle sur le territoire national et favorise l'ouverture de pistes et routes dans l'arrière-pays."
+      }
+    ]
+  },
+  {
+    "citation": "L'industrie est le moteur principal de la transformation structurelle de notre économie.",
+    "auteur": "Orientation du Plan National de Développement (PND)",
+    "source": "Document stratégique du Ministère de l'Économie et des Finances",
+    "contexte": "Définition des objectifs de modernisation et de valeur ajoutée locale pour faire de la Côte d'Ivoire un pays émergent soutenu par son secteur secondaire.",
+    "analyse_a": [
+      {
+        "titre": "L'abondance des ressources brutes et la morphologie du territoire",
+        "illustration": "Matières premières agricoles (cacao, anacarde, hévéa) et minières/énergétiques (or, pétrole, gaz) couplées à un relief plat",
+        "description": "La richesse du sol et du sous-sol garantit un approvisionnement continu en matières premières à transformer, tandis que le relief accessible facilite l'implantation des usines."
+      },
+      {
+        "titre": "Les facteurs démographiques et le marché de consommation",
+        "illustration": "Population jeune, main-d'œuvre disponible et accès aux marchés de l'UEMOA et de la CEDEAO",
+        "description": "Une démographie dynamique fournit à la fois la main-d'œuvre nécessaire (ouvriers, techniciens) et un vaste bassin de consommateurs à l'échelle nationale et sous-régionale."
+      },
+      {
+        "titre": "Les infrastructures, zones industrielles et incitations étatiques",
+        "illustration": "Zones industrielles (Yopougon, Koumassi, PK24, San-Pedro), ports autonomes et Code des investissements incitatif (PND)",
+        "description": "L'État soutient l'essor industriel par des aménagements structurels de pointe, des réseaux de transport reliés aux ports et un cadre juridique libéral attractif pour le capital privé."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Contribution financière, fiscale et création de valeur ajoutée",
+        "illustration": "Représentation de près de 30 % du PIB ivoirien et paiement d'impôts directs et cédulaires",
+        "description": "Le secteur secondaire génère d'importantes recettes fiscales pour le budget national et accroît la valeur des exportations en transformant localement les produits bruts."
+      },
+      {
+        "titre": "Génération d'emplois qualifiés et amélioration du niveau de vie",
+        "illustration": "Absorbtion d'environ 14 % de la population active (ouvriers, ingénieurs, cadres)",
+        "description": "L'industrialisation crée des emplois mieux rémunérés que le secteur primaire traditionnel, favorisant l'émergence d'une classe moyenne et la qualification professionnelle."
+      },
+      {
+        "titre": "Entraînement des autres secteurs et souveraineté économique",
+        "illustration": "Effet d'entraînement sur le transport, le BTP, le commerce et réduction des importations",
+        "description": "L'industrie transforme la production agricole, approvisionne le marché intérieur en biens manufacturés et limite la dépendance commerciale du pays vis-à-vis de l'extérieur."
+      }
+    ]
+  },
+  {
+    "citation": "Il ne peut y avoir d'émergence sans une transformation structurelle portée par une industrialisation forte et durable.",
+    "auteur": "Orientation du Plan National de Développement (PND)",
+    "source": "Stratégie de développement industriel de la Côte d'Ivoire",
+    "contexte": "Diagnostic des contraintes du secteur secondaire ivoirien et définition des leviers prioritaires pour renforcer la transformation locale des matières premières.",
+    "analyse_a": [
+      {
+        "titre": "Le faible taux de transformation locale des matières premières",
+        "illustration": "Exportation majoritaire du cacao, de l'anacarde et du minerai à l'état brut ou semi-fini",
+        "description": "L'industrie reste encore trop peu développée en aval, privant l'économie ivoirienne d'une importante valeur ajoutée et d'un potentiel de création d'emplois qualifiés."
+      },
+      {
+        "titre": "Les coûts élevés des facteurs de production et de logistique",
+        "illustration": "Facture énergétique élevée, coût du transport terrestre et surcharge des infrastructures",
+        "description": "Les charges liées à l'électricité, à l'eau, au carburant et aux réseaux de transport réduisent la compétitivité des entreprises locales face aux produits importés."
+      },
+      {
+        "titre": "La faiblesse du financement et le manque de main-d'œuvre qualifiée",
+        "illustration": "Accès difficile aux crédits bancaires à long terme et inadéquation formation-emploi",
+        "description": "Les PME/PMI industrielles peinent à obtenir des financements adaptés pour moderniser leurs équipements, tout en faisant face à une pénurie de techniciens spécialisés."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "L'intensification de la transformation locale et l'innovation",
+        "illustration": "Objectifs nationaux de transformation de 100 % du cacao et de l'anacarde sur le sol national",
+        "description": "L'État incite à l'implantation d'usines de deuxième et troisième transformations pour capter davantage de valeur sur le marché international."
+      },
+      {
+        "titre": "La modernisation des infrastructures et la réduction des coûts énergétiques",
+        "illustration": "Développement du parc solaire, du gaz naturel, du barrage de Soubré et extension des zones industrielles (PK24)",
+        "description": "L'investissement dans des énergies renouvelables et des zones industrielles viabilisées permet d'abaisser les coûts de production des usines."
+      },
+      {
+        "titre": "Le soutien financier aux PME et l'adaptation de la formation professionnelle",
+        "illustration": "Création de fonds de garantie régionaux et renforcement des filières techniques/ingénieurs (INPHB)",
+        "description": "La mise en place de guichets de financement adaptés et la réorientation du système éducatif vers l'enseignement technique garantissent un écosystème industriel solide."
+      }
+    ]
+  },
+  {
+    "citation": "La Côte d'Ivoire est la porte d'entrée et le poumon logistique naturel de l'Afrique de l'Ouest.",
+    "auteur": "Orientation stratégique des transports",
+    "source": "Ministère des Transports de Côte d'Ivoire",
+    "contexte": "Mise en valeur de la position géographique et des équipements infrastructurels faisant du pays le carrefour des échanges commerciaux sous-régionaux.",
+    "analyse_a": [
+      {
+        "titre": "La position géostratégique et la façade maritime",
+        "illustration": "Façade maritime de 520 km sur l'Atlantique et ouverture sur les pays hinterlands (Mali, Burkina Faso, Niger)",
+        "description": "La géographie ivoirienne positionne le pays comme un hub naturel de transit commercial pour l'ensemble de la sous-région ouest-africaine."
+      },
+      {
+        "titre": "La densité des infrastructures de transport multimodales",
+        "illustration": "Ports d'Abidjan et San-Pedro, axe ferroviaire Abidjan-Ouagadougou, réseau routier inter-États et aéroport international Félix Houphouët-Boigny",
+        "description": "L'interconnexion des réseaux routiers, ferroviaires, maritimes et aériens permet d'assurer une fluidité logistique de premier ordre pour les personnes et les marchandises."
+      },
+      {
+        "titre": "L'engagement de l'État et la dynamique démographique",
+        "illustration": "Projets du Plan National de Développement (PND), Partenariats Public-Privé (PPP) et jeunesse de la main-d'œuvre",
+        "description": "Les investissements publics soutenus modernisent les équipements tout en mobilisant une main-d'œuvre abondante dans les métiers de la logistique et de la maintenance."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La contribution au PIB et aux finances publiques",
+        "illustration": "Collecte des recettes douanières, droits de transit et création de valeur ajoutée dans les comptes nationaux",
+        "description": "Le secteur des transports alimente directement les caisses de l'État par les taxes de passage, les redevances portuaires et les activités logistiques."
+      },
+      {
+        "titre": "La création d'emplois et le désenclavement du territoire",
+        "illustration": "Emplois de dockers, chauffeurs, logisticiens et acheminement des produits vivriers vers les marchés urbains",
+        "description": "Le secteur absorbe une main-d'œuvre massive, améliore la mobilité des citoyens et garantit la sécurité alimentaire par le ravitaillement régulier des villes."
+      },
+      {
+        "titre": "L'effet d'entraînement économique et le rayonnement régional",
+        "illustration": "Soutien à l'agriculture, l'industrie et dynamisation des services (assurances, banques, stations-services)",
+        "description": "En connectant la production locale aux marchés mondiaux, les transports renforcent le statut de la Côte d'Ivoire en tant que plaque tournante économique de la sous-région."
+      }
+    ]
+  },
+  {
+    "citation": "Le tourisme doit être le troisième piller de l'économie ivoirienne après l'agriculture et l'industrie.",
+    "auteur": "Orientation de la stratégie nationale « Sublime Côte d'Ivoire »",
+    "source": "Ministère du Tourisme de Côte d'Ivoire",
+    "contexte": "Politique nationale de développement visant à valoriser les potentialités naturelles et culturelles pour faire du pays la 5e destination touristique d'Afrique.",
+    "analyse_a": [
+      {
+        "titre": "La richesse du patrimoine naturel, paysager et le climat",
+        "illustration": "Littoral de 520 km (Assinie, Grand-Bassam), parcs UNESCO (Taï, Comoé) et reliefs de l'Ouest (Man)",
+        "description": "La diversité des écosystèmes permet une offre touristique variée associant le tourisme balnéaire, l'écotourisme, le tourisme de vision et la randonnée en zone montagneuse."
+      },
+      {
+        "titre": "La diversité culturelle, humaine et l'attractivité événementielle",
+        "illustration": "Patrimoine de plus de 60 ethnies (masques, danses), gastronomie, MASA et événements sportifs d'envergure (CAN)",
+        "description": "L'authenticité des traditions folkloriques combinée à la vitalité culturelle et aux grands événements internationaux attire un flux constant de visiteurs régionaux et mondiaux."
+      },
+      {
+        "titre": "La stratégie étatique « Sublime Côte d'Ivoire » et les infrastructures",
+        "illustration": "Réseau hôtelier moderne, aéroports internationaux, réseau routier et cadre incitatif du Ministère du Tourisme",
+        "description": "Les investissements massifs dans les transports et la promotion institutionnelle créent un environnement propice au tourisme d'affaires et de loisirs."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La contribution au PIB, aux devises et aux recettes publiques",
+        "illustration": "Représentation d'environ 7 % du PIB national et rentrées fiscales sur l'hôtellerie/restauration",
+        "description": "Les dépenses des visiteurs internationaux et des résidents injectent des devises fraîches dans l'économie et alimentent directement le budget de l'État."
+      },
+      {
+        "titre": "La création d'emplois et la valorisation des communautés locales",
+        "illustration": "Emplois directs (hôteliers, guides, agences) et indirects (artisans, transporteurs, commerçants)",
+        "description": "Le secteur touristique absorbe une main-d'œuvre importante, redistribue des revenus aux populations locales et préserve le patrimoine culturel matériel et immatériel."
+      },
+      {
+        "titre": "L'effet d'entraînement économique et le rayonnement international",
+        "illustration": "Dynamisation du BTP, des transports, des télécommunications et renforcement du Brand Côte d'Ivoire",
+        "description": "L'essor touristique stimule la modernisation des équipements structurants du territoire tout en consolidant l'image de marque et l'attractivité du pays à l'étranger."
+      }
+    ]
+  },
+  {
+    "citation": "Le commerce est le cœur battant de l'économie ivoirienne, assurant la jonction vitale entre nos campagnes productrices et nos villes consommatrices.",
+    "auteur": "Orientation stratégique du Commerce Intérieur",
+    "source": "Ministère du Commerce et de l'Industrie de Côte d'Ivoire",
+    "contexte": "Valorisation des fondements de l'économie de marché et de la distribution nationale pour garantir la souveraineté alimentaire et la dynamisation des échanges locaux.",
+    "analyse_a": [
+      {
+        "titre": "La diversité des ressources locales et la dynamique démographique",
+        "illustration": "Disponibilité des produits agricoles/miniers et marché intérieur de plus de 29 millions de consommateurs",
+        "description": "L'abondance de la production nationale fournit un flux constant de marchandises, tandis que la croissance démographique et le réseau de commerçants traditionnels garantissent un niveau de demande élevé."
+      },
+      {
+        "titre": "Le cadre libéral, les institutions et l'armature urbaine",
+        "illustration": "Système économique libéral, rôle de la CCI-CI et grands pôle urbains (Abidjan, Bouaké, Daloa, Yamoussoukro)",
+        "description": "L'État sécurise le secteur par un cadre juridique protecteur et des structures d'encadrement, soutenus par des métropoles régionales qui agissent comme de puissants moteurs de consommation."
+      },
+      {
+        "titre": "La modernité des infrastructures et les traditions d'échanges",
+        "illustration": "Réseaux de transport/télécoms, grandes surfaces, marchés modernes et circuits transfrontaliers historiques",
+        "description": "L'interconnexion des réseaux logistiques et digitaux modernise la distribution tout en s'appuyant sur l'héritage culturel d'échanges commerciaux solidement ancré dans le pays."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La création de richesse, les recettes fiscales et la distribution",
+        "illustration": "Distribution des produits locaux/importés, génération de revenus pour les ménages et collecte de taxes",
+        "description": "Le commerce irrigue financièrement l'ensemble du territoire, alimente directement les caisses de l'État et garantit l'acheminement des biens des zones de production aux consommateurs."
+      },
+      {
+        "titre": "L'absorption de la main-d'œuvre et le ravitaillement national",
+        "illustration": "Emplois massifs (grossistes, détaillants, manutentionnaires) et approvisionnement quotidien des ménages",
+        "description": "Le secteur représente le premier réservoir d'emplois pour les jeunes et les femmes, tout en assurant l'accès régulier des populations aux biens de consommation de première nécessité."
+      },
+      {
+        "titre": "L'effet d'entraînement multisectoriel et la structuration territoriale",
+        "illustration": "Dynamisation des banques, de la téléphonie, du BTP et développement des infrastructures marchandes urbaines",
+        "description": "En stimulant les services financiers et logistiques, le commerce accélère la modernisation des réseaux de distribution et le développement harmonieux des grands centres urbains."
+      }
+    ]
+  },
+  {
+    "citation": "Il faut structurer le commerce intérieur et lutter contre l'informel pour bâtir une économie moderne et compétitive.",
+    "auteur": "Orientation du Ministère du Commerce et de l'Industrie",
+    "source": "Politique nationale de modernisation des marchés et des échanges extérieurs",
+    "contexte": "Diagnostic des contraintes structurelles du secteur commercial ivoirien et mise en œuvre de réformes pour un environnement des affaires assaini et performant.",
+    "analyse_a": [
+      {
+        "titre": "Les freins humains, organisationnels et informels",
+        "illustration": "Analfabétisme d'une frange des acteurs, faible structuration et prédominance du secteur informel",
+        "description": "La gestion empirique des petits commerces et la concurrence déloyale de l'informel limitent la rentabilité des entreprises légalement constituées et ralentissent la modernisation du secteur."
+      },
+      {
+        "titre": "Les contraintes financières, fiscales et administratives",
+        "illustration": "Accès restreint aux crédits bancaires, tracasseries administratives/routières et pesanteurs bureaucratiques",
+        "description": "Le manque de fonds de roulement adaptés et les prélèvements illégaux entravent la croissance des PME commerciales, tout en augmentant les coûts de distribution pour le consommateur final."
+      },
+      {
+        "titre": "Les déficits infrastructurels et environnementaux",
+        "illustration": "Dégradation des pistes de desserte agricole, manque de magasins de stockage frigorifique et insalubrité des marchés",
+        "description": "L'insuffisance des équipements modernes de conservation provoque d'importantes pertes post-récolte, tandis que la mauvaise gestion des déchets dégrade le cadre de vie urbain."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La formalisation du secteur et le renforcement des capacités",
+        "illustration": "Accompagnement vers le statut d'entreprenant, création de coopératives et formations en gestion",
+        "description": "La transition programmée de l'informel vers le formel sécurise l'activité des acteurs, améliore la maîtrise de la fiscalité et élargit l'assiette fiscale de l'État."
+      },
+      {
+        "titre": "L'inclusion financière et la simplification du cadre réglementaire",
+        "illustration": "Développement des institutions de microfinance, numérisation des paiements et lutte contre la corruption",
+        "description": "L'accès facilité au crédit bancaire couplé à la dématérialisation des démarches administratives réduit les coûts de transaction et dynamise les investissements privés."
+      },
+      {
+        "titre": "La modernisation des infrastructures et la gestion durable",
+        "illustration": "Construction de marchés couverts modernes, de plateformes logistiques et aménagement salubre des espaces marchands",
+        "description": "Le développement d'équipements commerciaux modernes sécurise l'approvisionnement des villes, préserve la qualité des denrées et améliore l'hygiène publique."
+      }
+    ]
+  },
+  {
+    "citation": "Le commerce extérieur est le principal moteur de la croissance économique et le premier fournisseur de devises de la Côte d'Ivoire.",
+    "auteur": "Orientation de la politique du Commerce Extérieur",
+    "source": "Ministère du Commerce et de l'Industrie de Côte d'Ivoire",
+    "contexte": "Stratégie d'insertion de la Côte d'Ivoire dans les échanges mondiaux s'appuyant sur l'agro-industrie, la valorisation minière et l'intégration économique régionale.",
+    "analyse_a": [
+      {
+        "titre": "La diversité des matières premières et le positionnement littoral",
+        "illustration": "Culture du cacao, de l'anacarde, du coton, ressources minières/pétrolières et façade maritime de 520 km",
+        "description": "L'abondance et la variété des ressources agricoles et extractives combinées à un accès maritime privilégié confèrent au pays un avantage comparatif majeur sur les marchés mondiaux."
+      },
+      {
+        "titre": "L'intégration régionale, le cadre institutionnel et la diplomatie commerciale",
+        "illustration": "Appartenance à l'UEMOA, à la CEDEAO, rôle de l'OMC, du Conseil du Café-Cacao et accords bilatéraux",
+        "description": "L'orientation libérale de l'économie et la régulation par des structures sectorielles spécialisées sécurisent les filières d'exportation et facilitent l'accès aux marchés internationaux."
+      },
+      {
+        "titre": "La puissance de l'outil portuaire, de la logistique et de l'agro-industrie",
+        "illustration": "Ports autonomes d'Abidjan et de San Pedro, réseau d'interconnexion sous-régional et usines de transformation",
+        "description": "La performance des infrastructures portuaires et des axes de transit en fait le hub logistique naturel de l'Afrique de l'Ouest tout en amorçant la valorisation locale des produits bruts."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "L'apport massif en devises, l'équilibre commercial et les recettes de l'État",
+        "illustration": "Place de 1er producteur mondial de cacao/anacarde, perception du DUS et consolidation du PIB",
+        "description": "Les ventes à l'exportation approvisionnent les réserves de change, alimentent le budget national via les taxes douanières et maintiennent un solde commercial excédentaire."
+      },
+      {
+        "titre": "L'impact social, la création d'emplois et le pouvoir d'achat rural",
+        "illustration": "Millions d'emplois dans les filières agricoles/minières et hausse des revenus des planteurs et transporteurs",
+        "description": "L'activité d'exportation fait vivre une part prépondérante de la population active, redistribue la richesse dans les zones rurales et soutient directement le niveau de vie des ménages."
+      },
+      {
+        "titre": "L'effet d'entraînement tertiaire, les équipements socio-économiques et le prestige mondial",
+        "illustration": "Stimulation des banques, assurances, logistique, construction d'écoles/hôpitaux et leadership agricole mondial",
+        "description": "Les flux du commerce extérieur irriguent les services financiers et de transport tout en finançant la modernisation des infrastructures publiques et en affirmant le poids géopolitique du pays."
+      }
+    ]
+  },
+  {
+    "citation": "La Côte d'Ivoire est le moteur économique de l'Afrique de l'Ouest francophone, mais elle doit diversifier ses leviers pour assurer une croissance durable et inclusive.",
+    "auteur": "Rapport sur la situation économique de la Côte d'Ivoire",
+    "source": "Banque Mondiale / Ministère de l'Économie et des Finances",
+    "contexte": "Bilan synthétique des acquis structurels de l'économie ivoirienne et des vulnérabilités systémiques à surmonter pour consolidé son émergence.",
+    "analyse_a": [
+      {
+        "titre": "Les solides piliers agro-miniers et la position maritime stratégique",
+        "illustration": "Diversité des cultures d'exportation (cacao, anacarde, hévéa), ressources minières/pétrolières et façade de 520 km",
+        "description": "Le pays bénéficie d'une base productive naturelle exceptionnellement riche et variée, articulée à une ouverture océanique qui en fait une plaque tournante commerciale mondiale."
+      },
+      {
+        "titre": "La dynamique démographique, le cadre libéral et l'intégration régionale",
+        "illustration": "Population jeune, réseaux marchands transfrontaliers, partenariats UEMOA/CEDEAO et organes de régulation (CCC, CCA)",
+        "description": "L'économie s'appuie sur une main-d'œuvre disponible et entreprenante, encadrée par des politiques publiques libérales et une forte ouverture sur le marché sous-régional."
+      },
+      {
+        "titre": "La performance des hubs portuaires, logistiques et agro-industriels",
+        "illustration": "Ports autonomes d'Abidjan/San-Pedro, axes ferroviaires/routiers inter-États et usines de première transformation",
+        "description": "La Côte d'Ivoire dispose des infrastructures logistiques les plus modernes de la sous-région, facilitant le transit des pays de l'hinterland et l'amorce de la transformation locale."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La vulnérabilité aux cours mondiaux et le déficit de transformation local",
+        "illustration": "Forte dépendance au binôme café-cacao et exportations prédominantes de matières premières brutes",
+        "description": "La faible transformation industrielle locale expose l'économie aux tasses de volatilité des marchés internationaux, réduisant la captation de valeur ajoutée."
+      },
+      {
+        "titre": "Les freins humains, administratifs et les déficits sociaux",
+        "illustration": "Pauvreté rurale, analphabétisme des producteurs, lourdeurs bureaucratiques et corruption",
+        "description": "Les faiblesses en matière de qualification professionnelle et de gouvernance pèsent sur la productivité globale et freinent la redistribution inclusive des fruits de la croissance."
+      },
+      {
+        "titre": "Les goulets d'étranglement infrastructurels et la crise environnementale",
+        "illustration": "Dégradation des pistes rurales, surcoût du transport et déforestation liée aux cultures de rente",
+        "description": "Les insuffisances des voies de desserte agricole majorent les coûts de collecte, tandis que la pression sur le couvert forestier et la pollution minière menacent la durabilité du modèle."
+      }
+    ]
+  },
+  {
+    "citation": "L'avenir de l'économie ivoirienne dépendra de la capacité des gouvernants et des citoyens à transformer ces faiblesses en opportunités de développement durable.",
+    "auteur": "Orientation Générale des PND (Plans Nationaux de Développement)",
+    "source": "Ministère de l'Économie, du Plan et du Développement",
+    "contexte": "Analyse prospective des vulnérabilités de l'économie ivoirienne et de ses leviers de transformation structurelle pour une croissance durable et inclusive.",
+    "analyse_a": [
+      {
+        "titre": "La vulnérabilité du modèle de rente et la faible industrialisation",
+        "illustration": "Dépendance au binôme café-cacao, exposition aux cours mondiaux et exportation de produits bruts sans valeur ajoutée",
+        "description": "L'économie souffre d'un manque de transformation locale des matières premières, ce qui limite la création de valeur et expose le pays aux chocs extérieurs."
+      },
+      {
+        "titre": "Les fractures socio-économiques, le chômage et la pauvreté",
+        "illustration": "Taux de pauvreté résiduel important, sous-emploi des jeunes et concentration des richesses à Abidjan/San Pedro",
+        "description": "Malgré les performances macroéconomiques, la croissance peine à réduire significativement le chômage des jeunes et les déséquilibres régionaux."
+      },
+      {
+        "titre": "Les freins institutionnels, logistiques et de gouvernance",
+        "illustration": "Bureaucratie, corruption, détournements de fonds et couverture infrastructurelle encore incomplète",
+        "description": "Les lourdeurs administratives et le déficit d'interconnexion de certaines zones enclavées pénalisent la compétitivité et la transparence globale."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Les leviers d'accélération : diversification, hub régional et démographie",
+        "illustration": "Exploitation pétro-gazière/minière, positionnement maritime stratégique et population jeune",
+        "description": "La Côte d'Ivoire possède une base de ressources variées et une main-d'œuvre abondante pour diversifier son modèle au-delà du secteur agricole."
+      },
+      {
+        "titre": "La dynamique des réformes, les PND et l'essor des grandes infrastructures",
+        "illustration": "Mise en œuvre des PND, grands travaux (Métro d'Abidjan, barrages, autoroutes) et amélioration du climat des affaires",
+        "description": "Les investissements structurants du gouvernement visent à assainir l'environnement des investissements et à doter le pays de réseaux modernes."
+      },
+      {
+        "titre": "Les axes de résorption : industrialisation, gouvernance et croissance inclusive",
+        "illustration": "Transformation sur place du cacao/coton, lutte contre la corruption et formation professionnelle des jeunes",
+        "description": "La transition vers une industrialisation poussée et la moralisation de la vie publique permettront d'étendre les bénéfices de la croissance à l'ensemble du territoire."
+      }
+    ]
+  },
+  {
+    "citation": "La jeunesse et le dynamisme de la population ivoirienne constituent le principal capital pour bâtir une économie moderne, inclusive et résiliente.",
+    "auteur": "Orientation Générale de la Politique Nationale de la Population",
+    "source": "Ministère de l'Économie, du Plan et du Développement",
+    "contexte": "Bilan du dividende démographique en Côte d'Ivoire, analyse des défis d'insertion socio-professionnelle de la jeunesse et axes d'action stratégiques.",
+    "analyse_a": [
+      {
+        "titre": "La masse critique du marché et la vitalité de la jeunesse",
+        "illustration": "Plus de 29 millions d'habitants et près de 60 % de la population âgée de moins de 25 ans",
+        "description": "Le volume démographique assure un grand marché intérieur de consommation, tandis que la prédominance des jeunes offre un important vivier de main-d'œuvre."
+      },
+      {
+        "titre": "Le capital culturel, l'écosystème entrepreneurial et l'apport de la diaspora",
+        "illustration": "Savoir-faire artisanaux/agricoles, essor des start-up et transferts financiers des Ivoiriens de l'extérieur",
+        "description": "L'émergence d'une jeunesse instruite stimule l'innovation, pendant que la diaspora réinjecte des capitaux substantiels dans le tissu économique national."
+      },
+      {
+        "titre": "Les dynamiques migratoires et le renouvellement des forces vives",
+        "illustration": "Migrations internes et sous-régionales alimentant les secteurs du commerce, des transports et des services",
+        "description": "La mobilité spatiale des populations favorise le brassage économique, le dynamisme commercial et le développement des échanges interrégionaux."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Les pressions démographiques et la crise de l'emploi des jeunes",
+        "illustration": "Croissance démographique supérieure à 2,5 % par an et fort taux de sous-emploi chez les diplômés",
+        "description": "Le rythme d'accroissement de la population sature les infrastructures de base et dépasse la capacité de création d'emplois formels du marché."
+      },
+      {
+        "titre": "L'exode rural, la saturation urbaine et le déficit de qualification",
+        "illustration": "Hypertrophie démographique d'Abidjan, urbanisation anarchique et persistance de l'analphabétisme",
+        "description": "La migration massive vers les grands centres urbains crée de graves déséquilibres spatiaux, compliqués par une main-d'œuvre parfois peu qualifiée."
+      },
+      {
+        "titre": "Les axes de remédiation : planification, formation et cohésion sociale",
+        "illustration": "Maîtrise de la fécondité, adéquation formation-emploi, promotion de l'auto-emploi et consolidation de la paix",
+        "description": "Surmonter ces défis exige d'adapter l'offre éducative aux besoins du marché, d'encourager l'entrepreneuriat et de renforcer l'inclusion sociale."
+      }
+    ]
+  },
+  {
+    "citation": "La CEDEAO doit se réinventer pour passer d'une 'CEDEAO des États' à une 'CEDEAO des peuples', plus proche des aspirations citoyennes et capable d'assurer la stabilité régionale.",
+    "auteur": "Vision Stratégique CEDEAO 2050",
+    "source": "Commission de la CEDEAO & Recommandations des Sommets des Chefs d'État",
+    "contexte": "Diagnostic des faiblesses structurelles et sécuritaires de l'organisation ouest-africaine et définition des axes de réforme pour refonder l'intégration régionale.",
+    "analyse_a": [
+      {
+        "titre": "Les faiblesses politiques, institutionnelles et la crise de légitimité",
+        "illustration": "Retrait acté du Mali, du Burkina Faso et du Niger (AES), perçu comme un échec de la diplomatie communautaire et des sanctions",
+        "description": "L'organisation fait face à une crise d'autorité et à un rejet d'une partie des populations qui la perçoivent comme un 'syndicat de chefs d'État' déconnecté des réalités du terrain."
+      },
+      {
+        "titre": "Les contraintes économiques, monétaires et le faible commerce intra-régional",
+        "illustration": "Echanges commerciaux inter-États représentant moins de 15 % du total et reports successifs de la monnaie unique (l'ECO)",
+        "description": "Les divergences macroéconomiques, le maintien des barrières non tarifaires et les tracasseries routières/douanières freinent la création d'un véritable marché commun."
+      },
+      {
+        "titre": "L'insécurité transfrontalière et la dépendance financière extérieure",
+        "illustration": "Expansion des groupes armés terroristes dans le Sahel et dépendance du budget de l'institution vis-à-vis des bailleurs internationaux",
+        "description": "Le manque de financement propre et l'absence d'une force armée permanente opérationnelle limitent la capacité de réponse autonome face aux crises sécuritaires."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "La refonte de la gouvernance, le dialogue politique et le retour à la cohésion",
+        "illustration": "Privilégier la diplomatie préventive, réviser le Protocole sur la Démocratie et réengager les pays de l'AES",
+        "description": "Il est impératif d'assouplir l'approche punitive, de moderniser le cadre constitutionnel communautaire et de promouvoir un dialogue inclusif pour éviter la fragmentation de la sous-région."
+      },
+      {
+        "titre": "L'accélération de l'intégration économique, industrielle et monétaire",
+        "illustration": "Application stricte du SLE (Schéma de Libéralisation des Échanges), harmonisation fiscale et calendrier réaliste pour la monnaie ECO",
+        "description": "La levée effective des tracas frontaliers et le développement des infrastructures inter-États (énergie, transports) permettront de booster la transformation industrielle régionale."
+      },
+      {
+        "titre": "L'autonomie financière et la mutualisation des capacités de défense",
+        "illustration": "Opérationnalisation complète de la Force en attente de la CEDEAO (FAC) et prélèvement effectif de la taxe communautaire",
+        "description": "Assurer un financement pérenne et endogène permet d'acquérir une souveraineté décisionnelle et de lutter efficacement contre le terrorisme et la criminalité transnationale."
+      }
+    ]
+  },
+  {
+    "citation": "Le partenariat UE-OEACP constitue un cadre historique unique de coopération multilatérale, visant la transformation économique, le développement durable et le renforcement des liens géopolitiques.",
+    "auteur": "Principes de l'Accord de Samoa (successeur de Cotonou)",
+    "source": "Union Européenne & Organisation des États d'Afrique, des Caraïbes et du Pacifique (OEACP)",
+    "contexte": "Évaluation du bilan stratégique, économique et politique des accords de coopération entre l'Union Européenne et le groupe des États ACP.",
+    "analyse_a": [
+      {
+        "titre": "Avantages pour l'Union Européenne",
+        "illustration": "Accès sécurisé aux matières premières critiques (agricoles, minières, énergétiques), marchés d'exportation pour les produits manufacturés et soutien diplomatique dans les instances internationales",
+        "description": "L'UE consolide son influence géopolitique mondiale, sécurise ses approvisionnements industriels et sécurise des débouchés commerciaux pour ses entreprises dans des régions en forte croissance."
+      },
+      {
+        "titre": "Avantages pour les pays ACP",
+        "illustration": "Aide Publique au Développement (FED/NDICI), accès préférentiel ou à droits nuls au marché européen (APE, APEA) et transferts de technologies/investissements direct étrangers",
+        "description": "Les États ACP bénéficient de financements concessionnels importants pour leurs infrastructures, d'un accès privilégié au 1er marché mondial et d'appuis techniques pour la modernisation économique."
+      },
+      {
+        "titre": "Dynamique partenariale globale",
+        "illustration": "Cadres institutionnels structurés depuis Lomé jusqu'à Cotonou et Samoa, axés sur la gouvernance, les droits humains et le climat",
+        "description": "Le partenariat offre une plateforme de dialogue politique permanent permettant de traiter conjointement des défis mondiaux comme la transition écologique et la sécurité."
+      }
+    ],
+    "analyse_b": [
+      {
+        "titre": "Limites et contraintes du côté des pays ACP",
+        "illustration": "Perpétuation d'un schéma asymétrique (exportation de produits bruts / importation de biens finis), menaces des APE sur les jeunes industries locales et dépendance financière vis-à-vis de l'aide",
+        "description": "Les accords de libre-échange mettent en concurrence des économies aux niveaux de développement très inégaux, privant parfois les États ACP de recettes douanières et freinant leur industrialisation."
+      },
+      {
+        "titre": "Limites et contraintes du côté de l'Union Européenne",
+        "illustration": "Coût financier élevé des programmes d'aide, lourdeurs bureaucratiques d'octroi des fonds et risques de perte d'influence face à l'émergence d'autres acteurs (Chine, BRICS)",
+        "description": "L'UE fait face à l'insatisfaction de certains partenaires ACP jugés exigeants sur la conditionnalité politique (droits humains, normes environnementales) et à la concurrence de nouveaux créanciers sans conditionnalités."
+      },
+      {
+        "titre": "Perspectives de rééquilibrage",
+        "illustration": "Mise en œuvre du programme Global Gateway de l'UE et exigence d'une transformation locale des matières premières par les pays ACP",
+        "description": "L'avenir du partenariat repose sur un passage d'une logique d'assistance à un véritable partenariat stratégique fondé sur le co-investissement et la création de valeur partagée."
+      }
+    ]
+  }
+]

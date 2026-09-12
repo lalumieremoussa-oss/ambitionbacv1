@@ -1,0 +1,721 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "GE001_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est l'ensemble des atouts naturels dont dispose la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Une variété de langues locales, des ports modernes, des routes bitumées et des universités de renom",
+        "B": "Un relief peu accidenté, une végétation variée, un climat favorable et des sols cultivables",
+        "C": "Une population active, une monnaie stable, des investissements étrangers et des services développés",
+        "D": "Des industries performantes, des réserves de change, des banques solides et un bon système de santé"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie l'expression 'relief peu accidenté' en parlant de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Des montagnes abruptes entrecoupées de profonds ravins",
+        "B": "Des surfaces planes et légèrement ondulées, faciles à aménager",
+        "C": "Des collines très escarpées recouvertes de forêts denses",
+        "D": "Des plateaux rocailleux aux pentes inaccessibles"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel avantage général la diversité naturelle donne-t-elle à la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Elle favorise uniquement le développement touristique et minier",
+        "B": "Elle limite l’accès aux terres agricoles et aux grandes villes",
+        "C": "Elle empêche le développement de cultures modernes",
+        "D": "Elle permet la mise en valeur du territoire dans plusieurs domaines"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelle est la particularité des ressources naturelles ivoiriennes ?",
+      "réponses": {
+        "A": "Elles sont rares, peu exploitables et très concentrées dans une seule région",
+        "B": "Elles sont utilisées uniquement pour des activités artisanales sans impact économique",
+        "C": "Elles sont diversifiées, abondantes et réparties sur tout le territoire",
+        "D": "Elles nécessitent des technologies complexes pour être accessibles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pourquoi dit-on que la Côte d’Ivoire est bien pourvue en ressources naturelles ?",
+      "réponses": {
+        "A": "Elle dispose uniquement de pétrole en mer et d’or dans l’ouest du pays",
+        "B": "Elle est recouverte majoritairement de désert et de zones arides",
+        "C": "Elle possède un relief favorable, des climats variés, des sols fertiles et une végétation riche",
+        "D": "Elle dépend entièrement des importations pour son agriculture et son énergie"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment les atouts naturels influencent-t-ils le peuplement de la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Ils poussent les populations à se concentrer dans les zones désertiques du nord",
+        "B": "Ils limitent les installations humaines dans toutes les régions rurales",
+        "C": "Ils sont à l’origine d’un exode massif vers les pays voisins",
+        "D": "Ils favorisent une répartition équilibrée et facilitent l’installation des populations"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Comment se caractérise le relief du sud de la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Une succession de montagnes aux pentes raides avec des vallées étroites",
+        "B": "Des plateaux aux altitudes élevées et des collines très escarpées",
+        "C": "Des plaines peu accidentées favorables à l’installation humaine et aux infrastructures",
+        "D": "Un désert plat et aride sans grande variation de relief"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Dans quelles régions se trouvent les montagnes de la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "À l’Ouest et au Nord-Ouest du pays",
+        "B": "Au centre-sud et au sud-est du pays",
+        "C": "Dans les zones forestières proches de la lagune",
+        "D": "Dans les zones urbaines et industrielles de la capitale"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quelle zone de la Côte d’Ivoire est caractérisée par des plateaux ?",
+      "réponses": {
+        "A": "La zone côtière de Grand-Bassam à San Pedro",
+        "B": "La partie centrale et nordique du pays",
+        "C": "Les zones humides autour des lacs artificiels",
+        "D": "La région frontalière avec le Ghana à l’est"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que le relief ivoirien est favorable à l’aménagement du territoire ?",
+      "réponses": {
+        "A": "Parce qu’il est constitué uniquement de hauts sommets et de volcans actifs",
+        "B": "Parce que les fleuves y sont nombreux et toujours navigables toute l’année",
+        "C": "Parce qu’il est peu accidenté, facilitant la construction de routes et d’infrastructures",
+        "D": "Parce qu’il est désertique et demande peu de travaux d’entretien"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "En quoi le relief de la Côte d'Ivoire constitue-t-il un atout pour son développement économique ?",
+      "réponses": {
+        "A": "Il oblige à construire en hauteur, ce qui réduit l’utilisation des terres",
+        "B": "Il empêche la circulation, favorisant le transport aérien uniquement",
+        "C": "Il rend difficile l'accès aux zones rurales pour les agriculteurs",
+        "D": "Il facilite la construction d'infrastructures telles que les routes, les usines et les marchés"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Quel avantage économique offre un relief monotone comme celui de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Il rend les activités sportives extrêmes plus populaires dans le pays",
+        "B": "Il attire les touristes amateurs de montagnes et d’alpinisme",
+        "C": "Il permet une installation humaine dense et une bonne organisation des villes",
+        "D": "Il favorise uniquement l’exploitation minière et l’isolement des villages"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelles sont les deux grandes formations végétales en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le désert et la steppe",
+        "B": "Les forêts boréales et les forêts de bambou",
+        "C": "La forêt au sud et la savane au centre et au nord",
+        "D": "Les cactus au centre et les mangroves à l’ouest"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Où se situe principalement la savane en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Dans les zones portuaires et maritimes du sud",
+        "B": "Dans les régions du centre et du nord",
+        "C": "Dans les basses vallées des montagnes de l’ouest",
+        "D": "Autour des grandes métropoles urbaines"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quel type de végétation pousse au bord des lagunes en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "La mangrove, végétation typique des zones marécageuses",
+        "B": "La forêt de montagne aux arbres géants",
+        "C": "La steppe aride composée uniquement d’herbes sèches",
+        "D": "La savane boisée dominée par les baobabs et les cactées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Pourquoi la variété de végétation est-elle un atout économique ?",
+      "réponses": {
+        "A": "Elle empêche l’exploitation agricole à grande échelle",
+        "B": "Elle empêche la circulation dans les zones rurales",
+        "C": "Elle favorise les incendies à répétition en saison sèche",
+        "D": "Elle offre de nombreuses possibilités agro-pastorales dans différentes zones"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel est l’avantage de la forêt dans le sud pour l’économie ivoirienne ?",
+      "réponses": {
+        "A": "Elle limite l’installation des populations locales",
+        "B": "Elle permet l’exploitation du bois et la culture du cacao et du café",
+        "C": "Elle empêche l’accès aux zones minières de l’ouest",
+        "D": "Elle est uniquement utile pour le tourisme écologique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi la savane est-elle aussi un atout économique ?",
+      "réponses": {
+        "A": "Elle est stérile et inutilisable pour toute activité humaine",
+        "B": "Elle est recouverte d’eau pendant la majeure partie de l’année",
+        "C": "Elle permet l’élevage et certaines cultures adaptées comme le coton ou le maïs",
+        "D": "Elle empêche l’élevage et favorise uniquement les forages profonds"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quels sont les deux types de climats dominants en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Le climat désertique et le climat montagnard",
+        "B": "Le climat équatorial et le climat glacial",
+        "C": "Le climat subéquatorial au sud et le climat tropical humide au nord",
+        "D": "Le climat méditerranéen et le climat tempéré"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Où se situe le climat baouléen ?",
+      "réponses": {
+        "A": "Dans la région lagunaire et maritime du sud-est",
+        "B": "Dans la région centrale du pays",
+        "C": "Dans les zones montagneuses de l’ouest",
+        "D": "Dans les déserts de la bande sahélienne"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelle région connaît le climat soudanais en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Les villes côtières proches de la lagune Ebrié",
+        "B": "Les hautes terres du sud-ouest",
+        "C": "Les régions du nord de la Côte d'Ivoire",
+        "D": "Les zones forestières autour de Yamoussoukro"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "En quoi le climat chaud et humide est-il un atout pour la Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Il empêche les activités agricoles en provoquant des inondations constantes",
+        "B": "Il favorise les sécheresses prolongées dans toutes les régions",
+        "C": "Il est propice à l’agriculture, au peuplement et aux activités économiques",
+        "D": "Il rend impossible la culture de plantes tropicales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°23": {
+      "question": "Pourquoi la pluviométrie abondante est-elle favorable à l’économie ?",
+      "réponses": {
+        "A": "Elle détruit les routes et empêche les transports de marchandises",
+        "B": "Elle assure une bonne irrigation pour les cultures agricoles",
+        "C": "Elle freine l’implantation des zones industrielles dans le sud",
+        "D": "Elle favorise uniquement la production de sel marin"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Comment les climats diversifiés aident-ils au développement économique ?",
+      "réponses": {
+        "A": "Ils permettent la culture de produits agricoles variés adaptés à chaque région",
+        "B": "Ils réduisent le nombre de jours de travail dans les plantations",
+        "C": "Ils empêchent l’adaptation de l’agriculture aux conditions climatiques",
+        "D": "Ils freinent la migration des populations vers les zones rurales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°25": {
+      "question": "Quels types de sols trouve-t-on en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Des sols ferralitiques, ferrugineux et hydromorphes",
+        "B": "Uniquement des sols sablonneux de type désertique",
+        "C": "Des sols volcaniques et glacés dans les montagnes",
+        "D": "Des sols pierreux et non cultivables dans tout le pays"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°26": {
+      "question": "Où trouve-t-on principalement les sols hydromorphes ?",
+      "réponses": {
+        "A": "Dans les régions arides du nord sahélien",
+        "B": "Dans les savanes herbeuses du centre",
+        "C": "Dans les bas-fonds et zones marécageuses du pays",
+        "D": "Sur les hauts plateaux volcaniques du sud-ouest"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°27": {
+      "question": "Les sols ferrugineux se retrouvent surtout dans quelles zones ?",
+      "réponses": {
+        "A": "Dans les déserts et zones salées du pays",
+        "B": "Dans les savanes du centre et du nord",
+        "C": "Sur les plages du littoral atlantique",
+        "D": "Dans les forêts humides du sud profond"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°28": {
+      "question": "Pourquoi dit-on que les sols ivoiriens sont favorables à l’agriculture ?",
+      "réponses": {
+        "A": "Parce qu’ils sont secs et durs comme la pierre toute l’année",
+        "B": "Parce qu’ils contiennent des métaux précieux exploitables",
+        "C": "Parce qu’ils sont humides, variés et adaptés à différentes cultures",
+        "D": "Parce qu’ils se trouvent uniquement dans les zones non peuplées"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°29": {
+      "question": "Comment les bas-fonds contribuent-ils à l’économie agricole ?",
+      "réponses": {
+        "A": "Ils empêchent toute culture à cause des inondations",
+        "B": "Ils offrent des sols humides adaptés au maraîchage et à la riziculture",
+        "C": "Ils sont utilisés pour la construction de routes et d’aéroports",
+        "D": "Ils sont impropres à toute utilisation humaine"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Quel rôle jouent les sols ferralitiques pour l’économie ?",
+      "réponses": {
+        "A": "Ils sont uniquement décoratifs et peu utiles pour l’agriculture",
+        "B": "Ils permettent la culture de produits tropicaux comme le cacao et le café",
+        "C": "Ils ne retiennent pas l’eau et causent des pertes agricoles",
+        "D": "Ils sont exploités uniquement pour la construction de maisons en banco"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "GE001_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quels sont les grands fleuves de la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Les fleuves Niger, Sénégal, Volta et Oubangui",
+        "B": "Cavally, Sassandra, Bandama et Comoé",
+        "C": "Boubo, Mé, Bia et Agnéby",
+        "D": "Aby, Ebrié, Adjin et Kossou"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels cours d’eau sont considérés comme fleuves côtiers en Côte d'Ivoire ?",
+      "réponses": {
+        "A": "Agnéby, Bia, Mé et Boubo",
+        "B": "Cavally, Bandama, Comoé et Sassandra",
+        "C": "Aby, Ebrié, Adjin et Taabo",
+        "D": "Taabo, Buyo, Kossou et Ayamé"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Parmi les éléments suivants, lesquels font partie du système lagunaire ivoirien ?",
+      "réponses": {
+        "A": "Lagune Ebrié, lagune Aby et lagune Adjin",
+        "B": "Le fleuve Niger, le fleuve Comoé et le lac Volta",
+        "C": "Les rivières Agnéby, Mé et Boubo",
+        "D": "Les barrages hydroélectriques et les lacs artificiels"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quel rôle jouent les barrages comme Kossou, Taabo ou Buyo ?",
+      "réponses": {
+        "A": "Ils créent uniquement des frontières naturelles pour les régions administratives",
+        "B": "Ils sont des obstacles pour les cultures irriguées dans les zones rurales",
+        "C": "Ils produisent de l’électricité grâce à l’énergie hydroélectrique",
+        "D": "Ils servent uniquement de sites touristiques sans autre fonction"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "En quoi les fleuves et les lagunes participent-ils au transport ?",
+      "réponses": {
+        "A": "Ils sont trop pollués pour être utilisés par les populations",
+        "B": "Ils servent uniquement à la navigation des canoës de pêche traditionnelle",
+        "C": "Ils facilitent le transport maritime et lagunaire, notamment pour les marchandises",
+        "D": "Ils sont uniquement utilisés pour les compétitions sportives nationales"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment le réseau hydrographique aide-t-il à l’alimentation en eau des ménages ?",
+      "réponses": {
+        "A": "Il est inutilisé par les populations car il est inaccessible en saison sèche",
+        "B": "Il alimente les villes en eau potable via des sociétés comme la SODECI",
+        "C": "Il est uniquement exploité pour la culture de riz et de manioc",
+        "D": "Il est réservé aux réserves naturelles interdites au public"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quel est l’impact du réseau hydrographique sur le climat ivoirien ?",
+      "réponses": {
+        "A": "Il contribue à adoucir le climat grâce à la présence d’eau dans l’environnement",
+        "B": "Il favorise les tempêtes de sable en saison sèche dans le sud",
+        "C": "Il ne joue aucun rôle dans les températures du pays",
+        "D": "Il est responsable des vagues de chaleur dans les zones urbaines"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Pourquoi le réseau hydrographique est-il un atout pour le secteur primaire ?",
+      "réponses": {
+        "A": "Il ralentit l’agriculture à cause de la multiplication des marécages",
+        "B": "Il empêche l’élevage du fait de la forte humidité",
+        "C": "Il gêne la construction des infrastructures agricoles modernes",
+        "D": "Il permet la pêche, la pisciculture et l’irrigation des cultures"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quels gisements correspondent à l’or en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Zones : Zouahounien, Ity (Danané), Affema (Aboisso), Angovia (Bouaflé)",
+        "B": "Zones : Jacqueville, Grand-Lahou, Assinie, San‑Pedro",
+        "C": "Zones : Abidjan, Yamoussoukro, Bouaké, Daloa",
+        "D": "Zones : Kossou, Taabo, Ayamé, Buyo"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Où trouve‑t‑on les gisements de diamant ?",
+      "réponses": {
+        "A": "Toumodi, Divo, Bondoukou, Odienné, Bouaflé, Dimbokro",
+        "B": "Grand‑Bassam, Grand‑Lahou, Jacqueville, Assinie",
+        "C": "San‑Pedro, Vridi, Azito, Jacqueville",
+        "D": "Kouibly, Man, Bangolo, San‑Pedro"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Dans quelles régions retrouve‑t‑on les mines de manganèse ?",
+      "réponses": {
+        "A": "Hiré (Divo), Toumodi, Tongon (Korhogo), Séguéla, Tortiya",
+        "B": "Kossou, Taabo, Ayamé, Buyo",
+        "C": "Zouahounien, Ity, Affema, Angovia",
+        "D": "Jacqueville, Grand‑Lahou, Vridi, Azito"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Les gisements de fer sont exploitables où ?",
+      "réponses": {
+        "A": "Touba, Odienné, Bondoukou, Grand‑Bassam",
+        "B": "Touba, Odienné, Bondoukou, Gran‑Lahou",
+        "C": "Jacqueville, San‑Pedro, Assinie, Divo",
+        "D": "Bouaflé, Dimbokro, Tortiya, Séguéla"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Le pétrole en Côte d’Ivoire est exploité principalement à :",
+      "réponses": {
+        "A": "Grand‑Bassam, Grand‑Lahou, Jacqueville, Assinie, San‑Pedro",
+        "B": "Taabo, Kossou, Ayamé, Buyo",
+        "C": "Kouibly, Man, Bangolo, San‑Pedro",
+        "D": "Toumodi, Divo, Bondoukou, Odienné"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Le gaz naturel est produit autour de :",
+      "réponses": {
+        "A": "Jacqueville, Grand‑Lahou, Azito, Vridi",
+        "B": "Zouahounien, Ity, Affema, Angovia",
+        "C": "Touba, Odienné, Bondoukou, Grand‑Bassam",
+        "D": "Hiré, Toumodi, Tongon, Séguéla"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Les barrages hydroélectriques se trouvent surtout à :",
+      "réponses": {
+        "A": "Grand‑Bassam et San‑Pedro",
+        "B": "Taabo, Kossou, Ayamé et Buyo",
+        "C": "Jacqueville, Vridi, Assinie",
+        "D": "Divo, Bondoukou, Odienné"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi l’exploitation minière est‑elle bénéfique pour l’économie ?",
+      "réponses": {
+        "A": "Elle permet de générer des matières premières exportables, des revenus fiscaux à l’État et des emplois locaux",
+        "B": "Elle cause uniquement la destruction des sols sans bénéfice majeur",
+        "C": "Elle limite les zones agricoles sans offrir d’avantages commerciaux",
+        "D": "Elle est inutile car les minerais sont peu demandés à l’international"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel impact les mines ont‑elles sur les infrastructures locales ?",
+      "réponses": {
+        "A": "Elles créent des routes, écoles, hôpitaux et marchés dans les zones d’exploitation",
+        "B": "Elles isolent les villages en interdisant la construction de routes",
+        "C": "Elles transforment l’agriculture en zone strictement industrielle",
+        "D": "Elles empêchent la mise en place de services publics"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Pourquoi le pétrole et le gaz naturel sont‑ils stratégiques ?",
+      "réponses": {
+        "A": "Ils servent uniquement au chauffage domestique",
+        "B": "Ils alimentent les industries pétrochimiques et sont vendus à l’exportation, générant des recettes",
+        "C": "Ils sont gaspillés car difficiles à extraire",
+        "D": "Ils sont utilisés uniquement comme matière première locale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel rôle joue l’hydroélectricité ivoirienne ?",
+      "réponses": {
+        "A": "Elle est réservée à un usage industriel sans alimenter le réseau national",
+        "B": "Elle produit de l’électricité pour les ménages, les usines et réduit la dépendance aux combustibles fossiles",
+        "C": "Elle bloque la navigation des rivières sans produire d’énergie",
+        "D": "Elle sert uniquement à la pisciculture au pied des barrages"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Comment les énergies renouvelables (solaire, bioénergie, bois‑de‑chauffe) influencent‑elles l’économie ?",
+      "réponses": {
+        "A": "Elles n’ont aucun impact car la Côte d’Ivoire ignore ces ressources",
+        "B": "Elles diversifient le mix énergétique, favorisent l’accès en zones rurales et créent des emplois",
+        "C": "Elles sont remplacées par le charbon importé et ne sont plus utilisées",
+        "D": "Elles sont exploitées seulement pour les festivals culturels"
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "GE001_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le principal avantage de la jeunesse de la population ivoirienne ?",
+      "réponses": {
+        "A": "Elle entraîne une forte demande d’écoles et d’hôpitaux sans intérêt économique",
+        "B": "Elle complique la gestion des retraites à cause d’une population sans emploi",
+        "C": "Elle constitue une main-d’œuvre abondante et dynamique pour les secteurs économiques",
+        "D": "Elle augmente les dépenses de l’État sans participation au développement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle caractéristique démographique rend la population ivoirienne stratégique ?",
+      "réponses": {
+        "A": "Elle est vieillissante et peu productive",
+        "B": "Elle est jeune, nombreuse et en croissance rapide",
+        "C": "Elle est concentrée uniquement dans les régions minières",
+        "D": "Elle est strictement urbaine, sans diversité culturelle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel pourcentage de la population ivoirienne est d’origine étrangère ?",
+      "réponses": {
+        "A": "10 % de ressortissants européens résidant dans les grandes villes",
+        "B": "5 % de touristes venus pour affaires ou loisirs",
+        "C": "24 % majoritairement issus des pays de la CEDEAO",
+        "D": "30 % d’expatriés d’Amérique du Nord installés en zone rurale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Comment la diversité ethnique contribue-t-elle au développement ?",
+      "réponses": {
+        "A": "Elle complique l’unité nationale et crée des conflits permanents",
+        "B": "Elle bloque la gouvernance à cause de différences linguistiques",
+        "C": "Elle est ignorée dans les politiques nationales",
+        "D": "Elle enrichit la culture, stimule l’artisanat et dynamise le tourisme"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Pourquoi dit-on que la population ivoirienne est un marché de consommation ?",
+      "réponses": {
+        "A": "Parce qu’elle est nombreuse et ses besoins variés stimulent la production",
+        "B": "Parce qu’elle est concentrée dans une seule grande ville",
+        "C": "Parce qu’elle dépend totalement des importations",
+        "D": "Parce qu’elle refuse l’accès aux produits modernes"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Comment se répartit la population en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Uniformément sur tout le territoire, sans densité particulière",
+        "B": "Concentrée uniquement dans les régions forestières du nord",
+        "C": "Plus dense au sud, au centre et au centre-ouest que dans le nord",
+        "D": "Dispersée autour des frontières et zones industrielles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’impact du taux d’urbanisation (50,3 %) en Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Il crée un vide démographique dans les villes secondaires",
+        "B": "Il favorise l’émergence d’un tissu économique urbain moderne",
+        "C": "Il freine l’investissement dans les campagnes rurales",
+        "D": "Il empêche l’accès des jeunes à la formation professionnelle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Pourquoi la croissance démographique est-elle un défi et un atout ?",
+      "réponses": {
+        "A": "Elle nécessite des investissements massifs, mais offre une réserve de consommateurs",
+        "B": "Elle oblige l’État à fermer les frontières et réduire les naissances",
+        "C": "Elle entraîne la destruction des terres agricoles",
+        "D": "Elle bloque toute évolution sociale et politique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quel est l’intérêt économique de la population rurale ?",
+      "réponses": {
+        "A": "Elle participe activement à l’agriculture et à la sécurité alimentaire",
+        "B": "Elle provoque un exode massif vers les pays voisins",
+        "C": "Elle est peu impliquée dans les activités économiques",
+        "D": "Elle freine la croissance urbaine à cause de la migration inverse"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Comment la diversité culturelle impacte-t-elle l’économie locale ?",
+      "réponses": {
+        "A": "Elle empêche l’unité linguistique dans les entreprises",
+        "B": "Elle soutient les secteurs de l’artisanat, du tourisme et du commerce",
+        "C": "Elle favorise le repli communautaire et les tensions sociales",
+        "D": "Elle n’a aucun effet notable sur l’économie nationale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quel est le système économique adopté par la Côte d’Ivoire ?",
+      "réponses": {
+        "A": "Le capitalisme libéral avec intervention de l’État et ouverture à l’étranger",
+        "B": "Le socialisme d’État fondé sur la nationalisation complète",
+        "C": "L’économie dirigée sans investissement privé",
+        "D": "Un système coutumier basé uniquement sur le troc rural"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle du CEPICI dans le développement économique ?",
+      "réponses": {
+        "A": "Il gère la formation militaire et l’emploi dans les casernes",
+        "B": "Il promeut l’image de la Côte d’Ivoire auprès des investisseurs",
+        "C": "Il organise la distribution des denrées alimentaires importées",
+        "D": "Il réglemente l’accès à la propriété foncière coutumière"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Que fait l’État en tant qu’actionnaire ?",
+      "réponses": {
+        "A": "Il vend les actions des sociétés privées aux étrangers uniquement",
+        "B": "Il détient des parts dans certaines entreprises privées (CIE, SODECI)",
+        "C": "Il contrôle les prix sans investir dans les entreprises",
+        "D": "Il interdit l’implantation de sociétés étrangères en zone rurale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Qu’est-ce que le désengagement de l’État ?",
+      "réponses": {
+        "A": "La cession partielle ou totale des entreprises publiques au secteur privé",
+        "B": "L’exclusion des citoyens étrangers du marché du travail",
+        "C": "L’abolition des taxes pour les entreprises nationales",
+        "D": "La fermeture des écoles techniques publiques et privées"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "À quoi servent les PAS et les PASR ?",
+      "réponses": {
+        "A": "À financer uniquement l’armée et les douanes",
+        "B": "À redresser l’économie et sortir des crises sous l’encadrement du FMI et de la Banque mondiale",
+        "C": "À créer des zones de repli fiscal pour les sociétés étrangères",
+        "D": "À imposer des règles coutumières aux sociétés étrangères"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quelles mesures fiscales favorisent l’investissement étranger ?",
+      "réponses": {
+        "A": "Exonérations fiscales, garantie de rapatriement des capitaux, absence de nationalisation",
+        "B": "Imposition forfaitaire sur tout capital étranger, limitation d’embauche",
+        "C": "Taxation lourde sur les profits et blocage des dividendes",
+        "D": "Obligation pour tout étranger de s’associer à une coopérative villageoise"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Quel est le rôle de l’État incitateur ?",
+      "réponses": {
+        "A": "Il empêche la libre entreprise par des mesures protectionnistes",
+        "B": "Il organise uniquement les foires artisanales traditionnelles",
+        "C": "Il valorise les opportunités économiques auprès des investisseurs",
+        "D": "Il nationalise systématiquement les grandes entreprises"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Pourquoi les foires organisées par l’État sont-elles utiles ?",
+      "réponses": {
+        "A": "Elles permettent de vendre les stocks militaires excédentaires",
+        "B": "Elles exposent les potentialités agricoles, commerciales et industrielles",
+        "C": "Elles sont réservées à la culture et au sport uniquement",
+        "D": "Elles sont destinées aux festivités religieuses intercommunautaires"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Comment renforcer les ressources financières de l’État ?",
+      "réponses": {
+        "A": "En augmentant la dette extérieure et supprimant les impôts",
+        "B": "En promouvant le civisme fiscal, l’épargne nationale et la lutte contre la fraude",
+        "C": "En privatisant toutes les entreprises nationales de manière intégrale",
+        "D": "En réduisant les services publics essentiels à la population"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quel impact les politiques d’ajustement ont-elles sur l’économie ?",
+      "réponses": {
+        "A": "Elles empêchent la croissance en bloquant les investissements publics",
+        "B": "Elles permettent une meilleure gestion économique malgré des mesures souvent douloureuses",
+        "C": "Elles sont inutiles car imposées par des institutions étrangères",
+        "D": "Elles bloquent l’accès aux ressources naturelles pour les entreprises locales"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}
+]

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+            [
+                {
+                    "title": "Étape 1 : Détermination des Ensembles de Définition ($D_f$)",
+                    "content": "La fonction exponentielle, notée $\\exp(x)$ ou $e^x$, est définie sur $\\mathbb{R}$. \nPour une fonction composée du type $f(x) = e^{u(x)}$, l'ensemble de définition de $f$ est identique à celui de la fonction $u$ située en exposant.\nLes restrictions de $D_f$ ne surviennent que dans les cas suivants :\n1. Si l'exposant contient une fraction, son dénominateur doit être non nul.\n2. Si l'exposant contient une racine carrée, l'expression sous la racine doit être supérieure ou égale à zéro.\n3. Si la fonction exponentielle est elle-même au dénominateur d'une fraction, ce dénominateur ne doit pas s'annuler.\n\n**Rappels importants :**\n- Pour tout réel $x$, $e^x > 0$.\n- $e^x = 1 \\iff x = 0$.\n- $e^x = a \\iff x = \\ln(a)$ (pour $a > 0$).",
+                    "example": "Analysons l'ensemble de définition de la fonction $f(x) = e^{\\sqrt{x^2-1}}$ :\nIci, la fonction est définie si et seulement si l'expression sous la racine carrée est positive ou nulle.\nCondition : $x^2 - 1 \\geq 0$.\nRésolution de l'inéquation :\n$x^2 - 1 = 0 \\iff (x-1)(x+1) = 0$.\nLes racines sont $x = -1$ et $x = 1$.\nLe coefficient de $x^2$ est $1 > 0$, donc le trinôme est positif à l'extérieur des racines.\nL'ensemble de définition est donc : $D_f = ]-\\infty ; -1] \\cup [1 ; +\infty[$.",
+                    "extras": [
+                        "Exemple complet : Soit $f(x) = e^{2-3x}$.\nL'exposant $2-3x$ est une fonction polynôme.\nUn polynôme est défini sur tout $\\mathbb{R}$.\nConclusion : $D_f = \\mathbb{R}$.",
+                        "Exemple complet : Soit $f(x) = -5x + 5 + e^{\\frac{1}{x-7}}$.\nL'exposant est une fonction rationnelle.\nCondition : Le dénominateur $x-7 \\neq 0$, ce qui donne $x \\neq 7$.\nConclusion : $D_f = \\mathbb{R} \\setminus \\{7\\} = ]-\\infty ; 7[ \\cup ]7 ; +\infty[$.",
+                        "Exemple complet : Soit $f(x) = \\frac{1}{e^x-2}$.\nLa fonction est définie si le dénominateur est non nul.\nCondition : $e^x - 2 \\neq 0 \\implies e^x \\neq 2$.\nEn appliquant le logarithme népérien : $x \\neq \\ln(2)$.\nConclusion : $D_f = \\mathbb{R} \\setminus \\{\\ln 2\\}$.",
+                        "Exemple complet : Soit $f(x) = \\frac{e^x+1}{e^{2x}-1}$.\nCondition : $e^{2x} - 1 \\neq 0 \\implies e^{2x} \\neq 1$.\nOn sait que $e^0 = 1$, donc $2x \\neq 0$, soit $x \\neq 0$.\nConclusion : $D_f = \\mathbb{R}^* = ]-\\infty ; 0[ \\cup ]0 ; +\infty[.$"
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Calculs et Propriétés Algébriques de la fonction exponentielle",
+                    "content": "La fonction exponentielle suit des règles de calcul similaires aux puissances classiques.\nPour tous réels $a$ et $b$, et pour tout entier relatif $n$ :\n1. Produit : $e^a \\times e^b = e^{a+b}$\n2. Quotient : $\\frac{e^a}{e^b} = e^{a-b}$\n3. Inverse : $\\frac{1}{e^a} = e^{-a}$\n4. Puissance : $(e^a)^n = e^{n \\times a}$\n5. Racine carrée : $\\sqrt{e^a} = (e^a)^{\\frac{1}{2}} = e^{\\frac{a}{2}}$\n\nCes propriétés permettent de simplifier des expressions complexes ou de résoudre des équations impliquant la fonction $\\exp$.",
+                    "example": "Simplifions l'expression $A = \\frac{e^x \\times e^{2x+1}}{e^{3x-1}}$ :\nÉtape 1 : Simplifier le numérateur en utilisant la règle du produit ($e^a \\times e^b = e^{a+b}$).\n$e^x \\times e^{2x+1} = e^{x + 2x + 1} = e^{3x+1}$.\n\nÉtape 2 : Utiliser la règle du quotient ($\\frac{e^a}{e^b} = e^{a-b}$).\n$A = \\frac{e^{3x+1}}{e^{3x-1}} = e^{(3x+1) - (3x-1)}$.\n\nÉtape 3 : Réduire l'exposant.\n$3x + 1 - 3x + 1 = 2$.\nRésultat final : $A = e^2$.",
+                    "extras": [
+                        "Exemple complet : Simplifier $B = \\frac{e^5}{e^2}$.\nEn utilisant la règle du quotient :\n$B = e^{5-2} = e^3$.",
+                        "Exemple complet : Simplifier $C = (e^{-3})^2 \\times e^4$.\nÉtape 1 (puissance) : $(e^{-3})^2 = e^{-3 \\times 2} = e^{-6}$.\nÉtape 2 (produit) : $e^{-6} \\times e^4 = e^{-6+4} = e^{-2}$.\nÉtape 3 (inverse) : $e^{-2} = \\frac{1}{e^2}$.",
+                        "Exemple complet : Simplifier $D = \\sqrt{e^{4x}}$.\nOn utilise la propriété $\\sqrt{e^a} = e^{\\frac{a}{2}}$.\n$D = e^{\\frac{4x}{2}} = e^{2x}$.",
+                        "Exemple complet : Développer $E = (e^x + e^{-x})^2$.\nIl s'agit de l'identité remarquable $(a+b)^2 = a^2 + 2ab + b^2$.\n$E = (e^x)^2 + 2(e^x \\times e^{-x}) + (e^{-x})^2$.\n$E = e^{2x} + 2e^{x-x} + e^{-2x}$.\n$E = e^{2x} + 2e^0 + e^{-2x}$.\nComme $e^0 = 1$, on obtient : $E = e^{2x} + 2 + e^{-2x}$."
+                    ]
+                }
+            ]
+
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

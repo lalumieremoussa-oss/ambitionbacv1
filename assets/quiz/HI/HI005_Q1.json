@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 1",
+  "id": "HI005_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quel était le statut de la Côte d’Ivoire pendant la colonisation ?",
+      "réponses": {
+        "A": "Une colonie autonome",
+        "B": "Une colonie d’exploitation, soumise aux intérêts économiques français",
+        "C": "Un département français",
+        "D": "Une colonie britannique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels abus ont marqué l’exploitation coloniale ?",
+      "réponses": {
+        "A": "La liberté d’expression",
+        "B": "La création de syndicats",
+        "C": "L’expropriation, les impôts forcés, les corvées, le travail forcé",
+        "D": "L’égalité devant la loi"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Qu’est-ce que la conférence de Brazzaville ?",
+      "réponses": {
+        "A": "Un sommet de la CEDEAO",
+        "B": "Une réunion de 1944 organisée par De Gaulle pour repenser la politique coloniale",
+        "C": "Un congrès du PDCI",
+        "D": "Une conférence syndicale"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Pourquoi cette conférence a-t-elle été un tournant ?",
+      "réponses": {
+        "A": "Elle a proclamé l’indépendance immédiate",
+        "B": "Elle a supprimé tous les impôts",
+        "C": "Elle a permis aux colons de quitter l’Afrique",
+        "D": "Elle a ouvert la voie à la participation des Africains à la gestion de leur territoire"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelles réformes furent proposées à Brazzaville ?",
+      "réponses": {
+        "A": "Fin du travail forcé, création de syndicats, accès à tous les emplois",
+        "B": "Suppression des écoles françaises",
+        "C": "Interdiction des partis politiques",
+        "D": "Droit au service militaire"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quel impact ont eu ces résolutions sur les Ivoiriens ?",
+      "réponses": {
+        "A": "Elles ont renforcé la colonisation",
+        "B": "Elles ont été ignorées par les leaders africains",
+        "C": "Elles ont affaibli le mouvement nationaliste",
+        "D": "Elles ont renforcé les revendications d’autonomie et de liberté"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quel rôle a joué André Latrille ?",
+      "réponses": {
+        "A": "Il a réprimé toutes les revendications",
+        "B": "Il a imposé la loi martiale",
+        "C": "Il a permis la création de syndicats et l’organisation d’élections",
+        "D": "Il a fermé les écoles traditionnelles"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel syndicat fut créé avec l’autorisation de Latrille, et par qui ?",
+      "réponses": {
+        "A": "Le Syndicat Agricole Africain (SAA), dirigé par Houphouët-Boigny",
+        "B": "La Confédération Ivoirienne des Travailleurs",
+        "C": "L’Union des Élites Noires",
+        "D": "Le Comité de Libération des Paysans"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quand et comment les Africains ont-ils accédé au Parlement français ?",
+      "réponses": {
+        "A": "En 1960, après l’indépendance",
+        "B": "En 1945, lors des premières élections légales organisées en Côte d’Ivoire",
+        "C": "En 1920, sous les Indigènes libres",
+        "D": "En 1958, par décret présidentiel"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel fut l’effet des mesures prises par Latrille sur le nationalisme ?",
+      "réponses": {
+        "A": "Elles ont permis la répression des leaders",
+        "B": "Elles ont affaibli le mouvement paysan",
+        "C": "Elles ont restauré l’administration coloniale",
+        "D": "Elles ont permis l’organisation légale de la lutte politique"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Quel est le principal moteur du nationalisme en Côte d’Ivoire dans les années 1940 ?",
+      "réponses": {
+        "A": "Le refus des injustices coloniales et le désir d’autonomie",
+        "B": "Le soutien massif des colons",
+        "C": "L’envie d’imiter les monarchies européennes",
+        "D": "La guerre civile"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Pourquoi la conférence de Brazzaville a-t-elle déçu certains Africains ?",
+      "réponses": {
+        "A": "Elle proclamait l’indépendance immédiate",
+        "B": "Elle proposait la création d’un État fédéral africain",
+        "C": "Elle refusait clairement toute idée d’indépendance à court terme",
+        "D": "Elle supprimait les syndicats africains"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle date correspond à la création du SAA ?",
+      "réponses": {
+        "A": "1945",
+        "B": "10 juillet 1944",
+        "C": "1958",
+        "D": "1er janvier 1960"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "En quoi Houphouët-Boigny fut-il un pionnier du nationalisme ivoirien ?",
+      "réponses": {
+        "A": "Il a refusé tout contact avec les Français",
+        "B": "Il a utilisé les institutions coloniales (Parlement, syndicats) pour faire avancer la cause africaine",
+        "C": "Il a mené une rébellion armée",
+        "D": "Il a rejeté toute forme d’administration"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quelle était l’attitude des colons face aux premières réformes ?",
+      "réponses": {
+        "A": "Ils les ont soutenues massivement",
+        "B": "Ils ont demandé l’indépendance immédiate",
+        "C": "Ils ont créé des écoles pour les Africains",
+        "D": "Ils les ont combattues car elles menaçaient leur domination"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Pourquoi les Ivoiriens voulaient-ils avoir des représentants politiques ?",
+      "réponses": {
+        "A": "Pour organiser une fête nationale",
+        "B": "Pour faire entendre leurs revendications au Parlement français",
+        "C": "Pour remplacer le gouverneur",
+        "D": "Pour gérer les plantations de cacao"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Que dénonçait particulièrement le SAA ?",
+      "réponses": {
+        "A": "L’exploitation injuste des paysans africains",
+        "B": "Le coût du cacao",
+        "C": "Le climat tropical",
+        "D": "Les mosquées coloniales"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quel élément prouve que la lutte des Ivoiriens était d’abord pacifique ?",
+      "réponses": {
+        "A": "La grève des cheminots de 1932",
+        "B": "L’usage de syndicats et d’élections pour revendiquer",
+        "C": "Les combats militaires contre la France",
+        "D": "Le boycott des fêtes religieuses"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel a été le premier effet concret de l’éveil nationaliste ivoirien ?",
+      "réponses": {
+        "A": "L’élection d’un député africain à l’Assemblée française",
+        "B": "L’abolition de la colonisation",
+        "C": "La reconnaissance du drapeau ivoirien",
+        "D": "Le retour des colons en France"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Comment peut-on qualifier la stratégie d’Houphouët-Boigny dans la lutte nationaliste ?",
+      "réponses": {
+        "A": "Violente et radicale",
+        "B": "Mystique et religieuse",
+        "C": "Institutionnelle et progressive",
+        "D": "Coloniale et autoritaire"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

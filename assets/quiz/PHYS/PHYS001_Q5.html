@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz 1 : Nomenclature et type d'alcools</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        h1 {
+            color: var(--orange-ivoire);
+            text-align: center;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 12px;
+            display: block;
+        }
+
+        .question-image {
+            width: 100%;
+            max-width: 350px;
+            height: auto;
+            display: block;
+            margin: 10px auto 20px auto;
+            border-radius: 10px;
+            border: 1px solid #eee;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        input[type="radio"] {
+            margin-right: 12px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 18px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 30px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled {
+            background: #ccc;
+            box-shadow: none;
+            cursor: not-allowed;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1 id="quizTitle">QUIZ DE PHYSIQUE</h1>
+
+        <div id="quizForm"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Soumettre mes réponses</button>
+    </div>
+
+    <script>
+        const data = [
+            {
+                "q": "Une automobile roule sur une droite à $108\\text{ km/h}$ ($30\\text{ m/s}$). Elle freine sur $150\\text{ m}$ pour atteindre $45\\text{ km/h}$ ($12,5\\text{ m/s}$). Calcule l'intensité de l'accélération.",
+                "img": "",
+                "options": { "A": "$2,48\\text{ m/s}^2$", "B": "$1,45\\text{ m/s}^2$", "C": "$3,25\\text{ m/s}^2$", "D": "$5,10\\text{ m/s}^2$" },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : Quel est le sens du vecteur accélération durant cette phase de ralentissement ?",
+                "img": "",
+                "options": { "A": "Même sens que le mouvement", "B": "Sens opposé au mouvement", "C": "Perpendiculaire à la route", "D": "Vers le haut" },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : Calcule le temps mis par le conducteur pour atteindre le panneau ($150\\text{ m}$) depuis le début du freinage.",
+                "img": "",
+                "options": { "A": "$5,24\\text{ s}$", "B": "$8,12\\text{ s}$", "C": "$7,05\\text{ s}$", "D": "$12,0\\text{ s}$" },
+                "r": "C"
+            },
+            {
+                "q": "Une auto passe de $30\\text{ m/s}$ à $60\\text{ km/h}$ ($16,67\\text{ m/s}$) sur $150\\text{ m}$. Calcule l'accélération algébrique nécessaire.",
+                "img": "",
+                "options": { "A": "$-1,25\\text{ m/s}^2$", "B": "$-2,07\\text{ m/s}^2$", "C": "$-3,15\\text{ m/s}^2$", "D": "$-0,85\\text{ m/s}^2$" },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : Quelle serait alors la durée du freinage pour atteindre exactement cette vitesse de $60\\text{ km/h}$ ?",
+                "img": "",
+                "options": { "A": "$6,44\\text{ s}$", "B": "$4,50\\text{ s}$", "C": "$9,20\\text{ s}$", "D": "$10,1\\text{ s}$" },
+                "r": "A"
+            },
+            {
+                "q": "Un conducteur voit un panneau à $150\\text{ m}$ mais ne freine qu'après $0,8\\text{ s}$. Quelle distance a-t-il parcourue à $30\\text{ m/s}$ avant de freiner ?",
+                "img": "",
+                "options": { "A": "$15\\text{ m}$", "B": "$24\\text{ m}$", "C": "$30\\text{ m}$", "D": "$0,8\\text{ m}$" },
+                "r": "B"
+            },
+            {
+                "q": "Suite du précédent : Sachant qu'il a déjà parcouru $24\\text{ m}$, quelle distance lui reste-t-il pour freiner avant le panneau ?",
+                "img": "",
+                "options": { "A": "$150\\text{ m}$", "B": "$174\\text{ m}$", "C": "$126\\text{ m}$", "D": "$100\\text{ m}$" },
+                "r": "C"
+            },
+            {
+                "q": "Suite du précédent : Avec $a = -2,48\\text{ m/s}^2$ sur $126\\text{ m}$ (vitesse initiale $30\\text{ m/s}$), calcule sa vitesse à l'arrivée au panneau.",
+                "img": "vitesse_calcul.png",
+                "options": { "A": "$16,58\\text{ m/s}$", "B": "$12,50\\text{ m/s}$", "C": "$20,10\\text{ m/s}$", "D": "$25,45\\text{ m/s}$" },
+                "r": "A"
+            },
+            {
+                "q": "Suite du précédent : La vitesse calculée est de $16,58\\text{ m/s}$ ($59,7\\text{ km/h}$). Si la limite est à $60\\text{ km/h}$, est-il en infraction ?",
+                "img": "",
+                "options": { "A": "VRAI", "B": "FAUX" },
+                "r": "B"
+            },
+            {
+                "q": "L'expression de la vitesse dans un mouvement rectiligne uniformément varié est :",
+                "img": "",
+                "options": { "A": "$v(t) = v_0$", "B": "$v(t) = at + v_0$", "C": "$v(t) = \\frac{1}{2}at^2$", "D": "$v(t) = a + v_0$" },
+                "r": "B"
+            },
+            {
+                "q": "La relation entre vitesse et distance sans le temps est donnée par :",
+                "img": "",
+                "options": { "A": "$v_2^2 - v_1^2 = 2a\\Delta x$", "B": "$v_2 - v_1 = 2a\\Delta x$", "C": "$v^2 = at$", "D": "$x = vt$" },
+                "r": "A"
+            },
+            {
+                "q": "Convertir $108\\text{ km/h}$ en mètres par seconde ($m/s$) :",
+                "img": "",
+                "options": { "A": "$10,8\\text{ m/s}$", "B": "$30\\text{ m/s}$", "C": "$300\\text{ m/s}$", "D": "$45\\text{ m/s}$" },
+                "r": "B"
+            },
+            {
+                "q": "Dans un mouvement rectiligne uniforme, l'accélération est :",
+                "img": "",
+                "options": { "A": "Constante et non nulle", "B": "Nulle", "C": "Toujours positive", "D": "Égale à la vitesse" },
+                "r": "B"
+            },
+            {
+                "q": "L'accélération moyenne est définie par :",
+                "img": "",
+                "options": { "A": "$a = v \\cdot t$", "B": "$a = \\frac{\\Delta v}{\\Delta t}$", "C": "$a = \\frac{\\Delta x}{\\Delta t}$", "D": "$a = v^2/R$" },
+                "r": "B"
+            },
+            {
+                "q": "Si le vecteur vitesse et le vecteur accélération sont de sens opposés, le mouvement est :",
+                "img": "",
+                "options": { "A": "Accéléré", "B": "Uniforme", "C": "Ralenti (retardé)", "D": "Circulaire" },
+                "r": "C"
+            }
+        ]
+
+
+
+            ;
+
+        const form = document.getElementById('quizForm');
+
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+            }
+
+            let imageTag = item.img ? `<img src="${item.img}" class="question-image">` : '';
+
+            form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="question-text">${i + 1}. ${item.q}</span>
+                ${imageTag}
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+        });
+
+        function corriger() {
+            let score = 0;
+            let total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+                }
+
+                const radios = document.getElementsByName(`q${i}`);
+                radios.forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Score : ${score} / ${total}`;
+
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 1",
+  "id": "HI001_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quand la Charte de l’Atlantique a-t-elle été signée ?",
+      "réponses": {
+        "A": "25 avril 1945",
+        "B": "1er janvier 1942",
+        "C": "28 novembre 1943",
+        "D": "14 août 1941"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Où a eu lieu la conférence qui a signé la Charte de l’Atlantique ?",
+      "réponses": {
+        "A": "Terre-Neuve",
+        "B": "Washington",
+        "C": "Moscou",
+        "D": "San Francisco"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "Quel événement a eu lieu le 1er janvier 1942 ?",
+      "réponses": {
+        "A": "La conférence de Moscou",
+        "B": "La Déclaration des Nations Unies",
+        "C": "La conférence de Téhéran",
+        "D": "La conférence de Washington"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quel terme a été utilisé pour la première fois lors de la conférence de Washington pour désigner les Nations Unies ?",
+      "réponses": {
+        "A": "Organisation mondiale",
+        "B": "Nations alliées",
+        "C": "Forum mondial",
+        "D": "Nations unies"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quand la conférence de Moscou a-t-elle eu lieu ?",
+      "réponses": {
+        "A": "Du 1er au 15 octobre 1943",
+        "B": "Du 28 novembre au 1er décembre 1943",
+        "C": "Du 19 au 30 octobre 1943",
+        "D": "Du 21 septembre au 7 octobre 1944"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quel était le principal objectif de la conférence de Téhéran ?",
+      "réponses": {
+        "A": "Créer une organisation de paix internationale",
+        "B": "Résoudre les problèmes économiques",
+        "C": "Mettre en place une coalition militaire",
+        "D": "Définir le droit de veto"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Où a eu lieu la conférence de Dumbarton Oaks ?",
+      "réponses": {
+        "A": "Londres",
+        "B": "New York",
+        "C": "Washington",
+        "D": "Moscou"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel principe a été abordé lors de la conférence de Dumbarton Oaks ?",
+      "réponses": {
+        "A": "L'admission de nouveaux membres",
+        "B": "Le droit de veto",
+        "C": "La création d’une armée permanente",
+        "D": "La structure de l’ONU"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle conférence a permis d’élaborer la première ébauche de la Charte des Nations Unies ?",
+      "réponses": {
+        "A": "La conférence de Dumbarton Oaks",
+        "B": "La conférence de San Francisco",
+        "C": "La conférence de Yalta",
+        "D": "La conférence de Téhéran"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "En quelle année la Charte des Nations Unies a-t-elle été adoptée ?",
+      "réponses": {
+        "A": "1944",
+        "B": "1945",
+        "C": "1946",
+        "D": "1943"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quand l’ONU a-t-elle commencé à fonctionner ?",
+      "réponses": {
+        "A": "24 octobre 1945",
+        "B": "1er janvier 1946",
+        "C": "1er octobre 1945",
+        "D": "15 décembre 1945"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Combien de membres comptait l’ONU en 2012 ?",
+      "réponses": {
+        "A": "198",
+        "B": "190",
+        "C": "180",
+        "D": "193"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "Quel pays a été le dernier à adhérer à l’ONU ?",
+      "réponses": {
+        "A": "Le Vatican",
+        "B": "Le Kosovo",
+        "C": "Le Monténégro",
+        "D": "Le Soudan du Sud"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Quel est le principal objectif de l’ONU ?",
+      "réponses": {
+        "A": "Organiser des élections",
+        "B": "Renforcer l’armée mondiale",
+        "C": "Promouvoir les relations commerciales",
+        "D": "Maintenir la paix et la sécurité mondiale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quel principe est essentiel pour les membres de l’ONU ?",
+      "réponses": {
+        "A": "La priorité des puissances mondiales",
+        "B": "L’adhésion à un pacte militaire",
+        "C": "L’égalité souveraine des États",
+        "D": "La soumission des petites nations"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle organisation a été remplacée par l’ONU ?",
+      "réponses": {
+        "A": "Le Conseil de l’Europe",
+        "B": "La Conférence de la Paix",
+        "C": "L’OTAN",
+        "D": "La Société des Nations"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Pourquoi la Société des Nations a-t-elle échoué ?",
+      "réponses": {
+        "A": "Elle n’avait pas de siège fixe",
+        "B": "Elle n’était pas soutenue par les États-Unis",
+        "C": "Elle n’a pas pu empêcher la Seconde Guerre mondiale",
+        "D": "Elle soutenait le colonialisme"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Combien de membres permanents composent le Conseil de Sécurité ?",
+      "réponses": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quels sont les membres permanents du Conseil de Sécurité avec droit de veto ?",
+      "réponses": {
+        "A": "États-Unis, Russie, Chine, France, Royaume-Uni",
+        "B": "Russie, Espagne, France, Japon, États-Unis",
+        "C": "Canada, Italie, France, Afrique du Sud, Russie",
+        "D": "Allemagne, Japon, Chine, Brésil, Inde"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Lors de quelle conférence l’ONU est-elle officiellement née ?",
+      "réponses": {
+        "A": "San Francisco",
+        "B": "Téhéran",
+        "C": "Dumbarton Oaks",
+        "D": "Yalta"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "title": "Quiz Allemand 1",
+  "id": "DE04_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez le groupe de mots : \"aller au marché\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "gehen in Markt",
+        "B": "gehen an Markt",
+        "C": "gehen für Markt",
+        "D": "zum Markt gehen"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Quelle préposition est utilisée pour indiquer la composition ou le contenu, comme dans \"ein Glas _____ Wasser\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "MIT",
+        "B": "IN",
+        "C": "AN",
+        "D": "VON"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle est la préposition correcte pour parler d'une période de temps comme \"le matin\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "An den Morgen",
+        "B": "Zu dem Morgen",
+        "C": "Am Morgen",
+        "D": "In den Morgen"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez l'expression française : \"à 7 heures\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in 7 Uhr",
+        "B": "am 7 Uhr",
+        "C": "um 7 Uhr",
+        "D": "für 7 Uhr"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Complétez la phrase : \"_____ Montag\" (Lundi)",
+      "type": "QCM",
+      "réponses": {
+        "A": "Um",
+        "B": "In",
+        "C": "Mit",
+        "D": "Am"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Traduisez le groupe de mots : \"avec mon ami\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "für meinen Freund",
+        "B": "mit meinem Freund",
+        "C": "an meinem Freund",
+        "D": "bei meinem Freund"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle préposition est utilisée pour exprimer l'origine ou la provenance (de/depuis) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "NACH",
+        "B": "ZU",
+        "C": "AUS",
+        "D": "VON"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Traduisez le moyen de transport : \"en voiture\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "in Auto",
+        "B": "mit Auto",
+        "C": "mit dem Auto",
+        "D": "auf Auto"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Quelle est la traduction française de \"im Haus\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "dans la maison",
+        "B": "sur la maison",
+        "C": "à la maison",
+        "D": "de la maison"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Complétez la phrase : \"Dieses Geschenk ist _____ dich\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "mit",
+        "B": "von",
+        "C": "zu",
+        "D": "für"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"une tasse de thé\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eine",
+        "Tee",
+        "von",
+        "Tasse",
+        "die",
+        "Wasser",
+        "in",
+        "für"
+      ],
+      "bonne réponse": "eine Tasse Tee"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"dans Abidjan\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "in",
+        "Abidjan",
+        "auf",
+        "das"
+      ],
+      "bonne réponse": "in Abidjan"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"sur la table\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "den",
+        "an",
+        "Tisch",
+        "zu",
+        "auf",
+        "dem"
+      ],
+      "bonne réponse": "auf dem Tisch"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"à l'école\" (lieu où l'on est)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "in",
+        "Schule",
+        "der",
+        "auf"
+      ],
+      "bonne réponse": "in der Schule"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"aller à l'école\" (Direction)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zur",
+        "gehen",
+        "an",
+        "Schule",
+        "die",
+        "auf"
+      ],
+      "bonne réponse": "zur Schule gehen"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"à partir d'Abidjan\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "aus",
+        "Abidjan",
+        "zu",
+        "in",
+        "mit",
+        "von"
+      ],
+      "bonne réponse": "aus Abidjan"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"avec ma mère\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "meiner",
+        "Mutter",
+        "mit",
+        "ihrer",
+        "Vater",
+        "zu"
+      ],
+      "bonne réponse": "mit meiner Mutter"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"pour toi\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "für",
+        "dich",
+        "mich",
+        "mit"
+      ],
+      "bonne réponse": "für dich"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"en bus\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mit",
+        "Bus",
+        "dem",
+        "auf"
+      ],
+      "bonne réponse": "mit dem Bus"
+    },
+    "question n°20": {
+      "question": "Complétez la traduction : \"une bouteille de jus\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eine",
+        "Flasche",
+        "Saft",
+        "der",
+        "für",
+        "mit",
+        "Wasser"
+      ],
+      "bonne réponse": "eine Flasche Saft"
+    },
+    "question n°21": {
+      "question": "Complétez la phrase : \"_____ 2025\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "im Jahr",
+        "2025",
+        "am",
+        "um"
+      ],
+      "bonne réponse": "im Jahr 2025"
+    },
+    "question n°22": {
+      "question": "Complétez la phrase : \"aller au marché\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gehen",
+        "zum",
+        "Markt",
+        "Schule",
+        "in",
+        "den"
+      ],
+      "bonne réponse": "zum Markt gehen"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"de l'école\" (Origine/Sortie)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "aus",
+        "Schule",
+        "der",
+        "in",
+        "zu"
+      ],
+      "bonne réponse": "aus der Schule"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"avec mon ami\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "mit",
+        "meinem",
+        "Freund",
+        "Vater",
+        "für",
+        "Mutter"
+      ],
+      "bonne réponse": "mit meinem Freund"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"à pied\" (déplacement)",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zu",
+        "Fuß",
+        "mit",
+        "Bus"
+      ],
+      "bonne réponse": "zu Fuß"
+    },
+    "question n°26": {
+      "question": "Quelle préposition allemande est utilisée pour indiquer une surface (sur) ?",
+      "type": "short_answer",
+      "bonne réponse": "AUF"
+    },
+    "question n°27": {
+      "question": "Quelle préposition est utilisée pour indiquer le bénéficiaire (pour) ?",
+      "type": "short_answer",
+      "bonne réponse": "FÜR"
+    },
+    "question n°28": {
+      "question": "Quel pronom interrogatif (Fragewort) utiliseriez-vous pour demander où se trouve quelqu'un ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Was",
+        "B": "Wer",
+        "C": "Wie",
+        "D": "Wo"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°29": {
+      "question": "Quelle préposition est couramment utilisée pour indiquer la direction vers une ville ou un pays ?",
+      "type": "short_answer",
+      "bonne réponse": "NACH"
+    },
+    "question n°30": {
+      "question": "Quel est le sens de la préposition \"MIT\" ?",
+      "type": "short_answer",
+      "bonne réponse": "avec"
+    }
+  }
+}

@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 3",
+  "id": "PH008_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Soit le sujet suivant : << Parler, est-ce dire la vérité ?>> Dans le contexte de ce sujet, le verbe \"Parler\" désigne l'acte de :",
+      "réponses": {
+        "A": "Recevoir passivement des informations auditives sans aucune capacité d'articulation ou de production de sons signifiants.",
+        "B": "Un processus de pensée purement interne et silencieux, qui n'implique aucune interaction avec le monde extérieur ou d'autres individus.",
+        "C": "Produire et articuler des mots, oralement ou par écrit, afin de communiquer des pensées, des idées, des émotions ou des informations.",
+        "D": "Mimer des actions ou utiliser des gestes non-verbaux pour exprimer des intentions, sans jamais recourir à la langue ou aux phonèmes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le terme \"Vérité\" dans l'intitulé du sujet fait référence à :",
+      "réponses": {
+        "A": "Un concept subjectif et relatif, qui varie constamment selon les humeurs ou les opinions individuelles, sans aucun lien avec la réalité objective.",
+        "B": "Une affirmation ou une proposition qui correspond fidèlement à la réalité des faits, à une pensée juste ou à un principe moral universellement valable.",
+        "C": "Une illusion purement linguistique, créée par la structure des mots, sans aucune relation avec l'existence réelle ou la connaissance vérifiable.",
+        "D": "L'ensemble des croyances populaires et des préjugés sociaux qui sont acceptés sans examen critique par la majorité des individus."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La problématique \"Parler, est-ce nécessairement dire la vérité ?\" interroge la relation entre le langage et la vérité, en se demandant si cette relation est :",
+      "réponses": {
+        "A": "Toujours et absolument contingente, sans aucune connexion possible entre ce qui est dit et la réalité des faits.",
+        "B": "Inévitable et systématique, impliquant que tout acte de parole est intrinsèquement un acte de dire le vrai, sans exception.",
+        "C": "Purement aléatoire et imprévisible, ne permettant aucune généralisation sur la nature de la vérité dans la communication humaine.",
+        "D": "Une question secondaire et sans importance pour la philosophie, car le langage n'a aucune influence sur la découverte de la vérité."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Un Argument affirme que le langage est l'expression directe de la pensée, ce qui permet à la vérité de se manifester car :",
+      "réponses": {
+        "A": "La pensée, une fois exprimée par des mots, perd toute sa substance et sa clarté, devenant confuse et insignifiante.",
+        "B": "Le langage, par sa nature arbitraire, déforme toujours la pensée, la rendant incapable de refléter fidèlement la vérité qu'elle contient.",
+        "C": "La pensée prend forme et se structure à travers les mots, devenant ainsi accessible et susceptible de tendre vers la vérité en s'objectivant.",
+        "D": "Seule la pensée silencieuse et non-verbale peut contenir la vérité, le fait de parler la rendant inévitablement fausse ou superficielle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quel philosophe est associé à l'affirmation que \"c'est dans les mots que nous pensons (…). Ainsi le mot donne à la pensée son existence la plus haute et la plus vraie\" ?",
+      "réponses": {
+        "A": "Georg Wilhelm Friedrich Hegel, soulignant l'interdépendance profonde entre la pensée et le langage, le langage étant la forme d'existence la plus achevée de la pensée.",
+        "B": "John Locke, pour son empirisme où les idées viennent de l'expérience et les mots sont des signes arbitraires de ces idées.",
+        "C": "Emmanuel Kant, pour sa distinction entre le phénomène et la chose en soi, suggérant les limites de la connaissance discursive.",
+        "D": "Ferdinand de Saussure, pour sa linguistique structurale qui analyse le signe linguistique comme l'union d'un signifiant et d'un signifié, sans lien direct avec la vérité des choses."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "La citation de Hegel : \"C'est dans les mots que nous pensons (…). Ainsi le mot donne à la pensée son existence la plus haute et la plus vraie\" signifie que :",
+      "réponses": {
+        "A": "Les mots sont une simple convention sociale, sans lien réel avec la structure de la pensée ou sa capacité à atteindre la vérité.",
+        "B": "La pensée est autonome et existe pleinement avant tout langage, les mots étant un simple moyen de communication externe sans impact sur sa nature.",
+        "C": "La pensée ne devient pleinement consciente d'elle-même, claire et vraie qu'en s'articulant dans le langage, les mots étant son lieu de manifestation privilégié.",
+        "D": "La vérité est une propriété exclusive des mots, et la pensée elle-même est incapable d'accéder au vrai sans la médiation d'une forme linguistique préexistante."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Un autre Argument  affirme que les mots permettent de nommer et comprendre le monde, ce qui signifie qu'ils :",
+      "réponses": {
+        "A": "Ajoutent une complexité inutile à la réalité, rendant le monde plus difficile à appréhender par l'esprit humain.",
+        "B": "Ordonnent l'univers et permettent de saisir les choses par leur nom, révélant ainsi l'essence ou la vérité des choses elles-mêmes.",
+        "C": "Dissolvent la réalité dans une série de sons arbitraires, empêchant toute connaissance objective ou toute compréhension cohérente du réel.",
+        "D": "Créent des illusions et des fantômes, éloignant l'homme de la réalité sensible et le plongeant dans un monde purement linguistique et déconnecté."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quel philosophe, dans Le Cratyle, déclare : \"Qui connaît les mots, connaît les choses\" ?",
+      "réponses": {
+        "A": "Héraclite, pour sa philosophie du devenir et l'idée que tout est flux, rendant la connaissance des mots et des choses relative.",
+        "B": "Aristote, pour sa logique et sa théorie des catégories, bien qu'il discute la relation entre mots et réalité.",
+        "C": "Platon, interrogeant la relation entre le langage et la réalité, et suggérant dans cette œuvre une possible correspondance entre le nom et l'essence de la chose.",
+        "D": "Gorgias, pour son sophisme qui nie la possibilité de connaître et de communiquer la vérité, affirmant que rien n'existe, rien ne peut être connu, et rien ne peut être communiqué."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La citation de Platon dans Le Cratyle : \"Qui connaît les mots, connaît les choses\" implique que :",
+      "réponses": {
+        "A": "Le langage est un obstacle à la connaissance, car il nous enferme dans des conventions arbitraires qui nous éloignent de la réalité des choses.",
+        "B": "La connaissance des mots n'a aucune relation avec la connaissance des choses, car les mots sont de simples étiquettes sans aucun lien intrinsèque avec le réel.",
+        "C": "La vérité réside uniquement dans les choses elles-mêmes, et les mots ne peuvent jamais la saisir ou la communiquer de manière fidèle.",
+        "D": "Le langage, lorsqu'il est bien utilisé ou qu'il reflète une juste nomination, a le pouvoir de révéler la véritable nature ou l'essence du réel, facilitant ainsi la connaissance."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "L'explication de l'Argument 1 suggère que lorsque l'on parle, on donne \"forme à notre pensée\", ce qui permet à la vérité de se manifester. Cela signifie que :",
+      "réponses": {
+        "A": "La pensée est déjà parfaitement structurée et intelligible avant l'acte de parler, et le langage ne fait que la dupliquer.",
+        "B": "La vérité est une entité indépendante du langage et de la pensée, qui se révèle spontanément sans aucune intervention humaine.",
+        "C": "La verbalisation est un processus actif qui organise et objective la pensée, la rendant apte à être confrontée au critère de la vérité et à être partagée.",
+        "D": "Le fait de parler altère systématiquement la vérité, en la soumettant aux limites des conventions linguistiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "L'idée que \"Parler, c'est révéler la pensée, donc potentiellement la vérité\" (Explication de l'Argument 1) implique que l'acte de parole est :",
+      "réponses": {
+        "A": "Toujours une dissimulation de la pensée, car l'homme cherche constamment à masquer ses véritables intentions et convictions.",
+        "B": "Une pure performance linguistique, sans aucune intention de communiquer des idées ou de refléter une réalité quelconque.",
+        "C": "Une activité exclusivement artistique, dont le but est de créer des fictions, et non de rendre compte de la réalité ou de la vérité.",
+        "D": "Un processus de dévoilement de ce qui est dans l'esprit, offrant une voie possible vers l'expression du vrai, même si la vérité n'est pas toujours atteinte."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "La transition à la fin de l'Axe 1, \"Cependant, n'y a-t-il pas des pensées qui résistent à toute formulation ?\", introduit l'idée que :",
+      "réponses": {
+        "A": "Le langage est l'unique et parfait moyen d'expression pour toutes les pensées humaines, sans exception ni limite, et cette question est inutile.",
+        "B": "Toute pensée est, par définition, formulable, et l'absence d'expression indique un manque de clarté de la pensée elle-même.",
+        "C": "La pensée est entièrement réductible à des systèmes logiques et mathématiques, rendant l'utilisation du langage naturel superflue pour son expression.",
+        "D": "Il pourrait exister des limites à la capacité du langage à exprimer l'intégralité de la pensée, suggérant une potentialité d'inexprimable ou de trahison de la vérité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "L'introduction du sujet mentionne que certains philosophes comme Bergson ou Freud réfute l’idée que parler ne serait que dire la vérité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Hegel affirme que le mot donne à la pensée son existence la plus haute et la plus vraie, suggérant une étroite interdépendance entre langage et pensée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Selon l'Argument 2, les mots, en nommant les choses, brouillent la compréhension du monde et empêchent de saisir la réalité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Platon, dans Le Cratyle, déclare que \"Qui connaît les mots, connaît les choses\", impliquant que le langage, bien utilisé, peut révéler l'essence du réel.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Le sujet interroge la possibilité de traduire intégralement la pensée en langage, d'exprimer fidèlement et totalement ce que l'on pense.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "L'explication de l'Argument 1 suggère que la pensée, avant d'être exprimée, est déjà parfaitement claire et précise, sans besoin du langage pour se manifester.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'idée que \"Parler, c'est révéler la pensée\" signifie que l'acte de parole est toujours une dissimulation volontaire et une trahison de la vérité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La divergence d'opinions entre philosophes (Hegel/Platon vs Bergson/Freud) concernant le rapport entre langage et vérité est ce qui amène la problématique du sujet.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

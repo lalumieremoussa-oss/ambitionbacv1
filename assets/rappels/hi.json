@@ -1,0 +1,842 @@
+[
+    {
+        "citation": "L’ONU n’a pas été créée pour faire rentrer tout le monde au paradis mais pour éviter l’enfer à l’humanité",
+        "auteur": "Dag Hammarskjöld",
+        "source": "Discours officiel",
+        "contexte": "Le rôle primordial et réaliste de l'ONU dans la préservation de la paix mondiale et la gestion des crises internationales.",
+        "analyse_a": [
+            {
+                "titre": "Prévention des conflits majeurs et dissuasion",
+                "illustration": "Résolutions du Conseil de sécurité durant la guerre froide",
+                "description": "L'ONU sert de cadre diplomatique permanent permettant d'éviter l'escalade vers un affrontement mondial direct entre grandes puissances."
+            },
+            {
+                "titre": "Intervention directe et maintien de la paix sur le terrain",
+                "illustration": "Déploiement des Casques bleus (ex. FINUL au Liban)",
+                "description": "À travers les opérations de maintien de la paix, l'institution s'interpose pour stabiliser les zones de crise et protéger les populations civiles."
+            },
+            {
+                "titre": "Arbitrage et résolution pacifique des différends",
+                "illustration": "Arrêts de la Cour internationale de Justice (CIJ)",
+                "description": "Elle offre un cadre juridique international pour régler les litiges territoriaux et politiques par le droit plutôt que par les armes."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Incapacité à empêcher certains conflits majeurs et blocages politiques",
+                "illustration": "Droit de veto au Conseil de sécurité et crise syrienne ou guerre en Ukraine",
+                "description": "L'utilisation du droit de veto par les membres permanents paralyse fréquemment l'organisation et révèle ses limites face aux guerres contemporaines."
+            },
+            {
+                "titre": "Échecs tragiques des missions de protection",
+                "illustration": "Génocide des Tutsis au Rwanda (1994) et massacre de Srebrenica (1995)",
+                "description": "Dans plusieurs crises majeures, l'ONU n'a pas réussi à empêcher le pire, démontrant les failles opérationnelles des forces de maintien de la paix."
+            },
+            {
+                "titre": "Diversification vers l'humanitaire, le développement et le droit",
+                "illustration": "Actions de l'UNESCO, du PAM, de l'OMS et de l'UNICEF",
+                "description": "Le rôle de l'ONU dépasse largement la simple gestion des guerres en œuvrant pour la santé, l'éducation, les droits de l'homme et le développement durable."
+            }
+        ]
+    },
+    {
+        "citation": "L'ONU a été créée non pas pour nous conduire au ciel, mais pour nous sauver de l'enfer.",
+        "auteur": "Dag Hammarskjöld",
+        "source": "Déclaration sur le rôle des Nations Unies",
+        "contexte": "Réflexion stratégique du deuxième Secrétaire général de l'ONU sur la mission réaliste de l'organisation face aux limites de la politique internationale et à la nécessité de préserver la paix.",
+        "analyse_a": [
+            {
+                "titre": "Preservation de la paix mondiale et diplomatie préventive",
+                "illustration": "Évitement d'un conflit nucléaire direct pendant la Guerre froide et maintien des canaux de dialogue",
+                "description": "L'ONU a offert un cadre multilatéral permanent permettant aux grandes puissances de négocier, de désamorcer des crises majeures et d'éviter un troisième conflit mondial."
+            },
+            {
+                "titre": "Déploiement des opérations de maintien de la paix (Casques bleus)",
+                "illustration": "Missions de stabilisation (ex. FINUL au Liban, ONUC au Congo, MONUSCO)",
+                "description": "L'organisation a réussi à interposer des forces internationales de neutralité pour sécuriser les cessez-le-feu, protéger les populations et accompagner le retour à la stabilité."
+            },
+            {
+                "titre": "Avancées majeures en matière de développement, droits humains et santé",
+                "illustration": "Déclaration universelle des droits de l'homme (1948), campagnes d'éradication de maladies par l'OMS et aide humanitaire du PAM/UNICEF",
+                "description": "Au-delà de la sécurité, l'ONU a coordonné l'entraide internationale, favorisé la décolonisation, réduit la pauvreté globale et codifié le droit international public."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Paralysie institutionnelle et hégémonie du Conseil de sécurité",
+                "illustration": "Utilisation récurrente du droit de veto par les membres permanents (ex. crises syrienne, ukrainienne ou israélo-palestinienne)",
+                "description": "Le droit de veto accordé aux cinq membres permanents bloque fréquemment les interventions de l'ONU, la rendant impuissante face aux rivalités géopolitiques des grandes puissances."
+            },
+            {
+                "titre": "Incapacité à empêcher des génocides et drames humanitaires",
+                "illustration": "Génocide des Tutsis au Rwanda (1994) et massacre de Srebrenica (1995)",
+                "description": "L'organisation a subi des échecs moraux et opérationnels tragiques, incapable d'intervenir à temps pour éviter des massacres de masse et protéger les civils sous sa garde."
+            },
+            {
+                "titre": "Nécessité de réformes structurelles et contestation de représentativité",
+                "illustration": "Revendications pour la réforme du Conseil de sécurité (représentation de l'Afrique, de l'Amérique latine et de l'Asie)",
+                "description": "L'architecture de l'ONU, héritée de 1945, peine à refléter les réalités géopolitiques du XXIe siècle et à faire respecter ses résolutions face à l'unilatéralisme de certains États."
+            }
+        ]
+    },
+    {
+        "citation": "Le monde se trouve divisé en deux camps : le camp impérialiste et antidémocratique, et le camp anti-impérialiste et démocratique.",
+        "auteur": "Andreï Jdanov",
+        "source": "Rapport Jdanov (Fondation du Kominform)",
+        "contexte": "Déclaration officielle de l'URSS en réponse à la doctrine Truman et au Plan Marshall, formalisant la rupture idéologique et la bipolarisation du monde.",
+        "analyse_a": [
+            {
+                "titre": "Cause 1: Incompatibilité idéologique et méfiance réciproque",
+                "illustration": "Capitalisme libéral américain contre communisme soviétique",
+                "description": "L'opposition fondamentale entre la démocratie libérale axée sur le marché et le modèle soviétique fondé sur la planification et le parti unique."
+            },
+            {
+                "titre": "Cause 2: Expansion soviétique et réaction américaine",
+                "illustration": "Mise en place du Rideau de fer et doctrine Truman (Containment)",
+                "description": "La satellisation de l'Europe de l'Est par Staline provoque la riposte américaine visant à stopper la progression du communisme."
+            },
+            {
+                "titre": "Cause 3: Rupture économique et doctrines opposées",
+                "illustration": "Plan Marshall vs Doctrine Jdanov",
+                "description": "L'aide américaine pour la reconstruction européenne et le refus soviétique scellent la division irréversible du continent en deux sphères d'influence."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Manifestation 1: Institutionalisation politique et économique des blocs",
+                "illustration": "OECE / Plan Marshall à l'Ouest et CAEM (Comecon) à l'Est",
+                "description": "La structuration de deux ensembles économiques hermétiques guidés respectivement par Washington et Moscou."
+            },
+            {
+                "titre": "Manifestation 2: Pactes militaires et course aux armements",
+                "illustration": "OTAN (1949) face au Pacte de Varsovie (1955)",
+                "description": "La création d'alliances militaires permanentes et le développement de l'arsenal nucléaire garantissant l'équilibre de la terreur."
+            },
+            {
+                "titre": "Consequences: Confrontations indirectes et crises de la Guerre froide",
+                "illustration": "Blocus de Berlin, Guerre de Corée, Crise de Cuba",
+                "description": "L'émergence de conflits périphériques et de tensions majeures où les superpuissances s'affrontent sans jamais entrer en guerre directe."
+            }
+        ]
+    },
+    {
+        "citation": "De Stettin sur la Baltique à Trieste sur l'Adriatique, un rideau de fer s'est abattu à travers le continent.",
+        "auteur": "Winston Churchill",
+        "source": "Discours de Fulton (5 mars 1946)",
+        "contexte": "Constat post-conférences de Yalta et Potsdam dénonçant l'application unilatérale des accords par Staline et la division naissante de l'Europe en deux zones d'influence.",
+        "analyse_a": [
+            {
+                "titre": "Organisation de la défaite de l'Allemagne et du monde post-3e Reich",
+                "illustration": "Décision à Yalta et Potsdam du découpage de l'Allemagne et de Berlin en 4 zones d'occupation (USA, URSS, RU, France)",
+                "description": "Les Alliés s'accordent sur le principe de la dénazification, de la démilitarisation, de la décartellisation et de la démocratisation de l'Allemagne, ainsi que sur le montant des réparations de guerre."
+            },
+            {
+                "titre": "Règlement des frontières et création d'un nouvel ordre mondial",
+                "illustration": "Création de l'ONU décidée à Yalta et déplacement des frontières de la Pologne à Potsdam (ligne Oder-Neisse)",
+                "description": "Les conférences posent la structure institutionnelle de la paix future à travers l'Organisation des Nations Unies et redessinent la carte géopolitique de l'Europe centrale."
+            },
+            {
+                "titre": "Engagement soviétique contre le Japon et capitulation alliée",
+                "illustration": "Promesse de Staline à Yalta d'entrer en guerre contre le Japon trois mois après la défaite allemande (tenue en août 1945)",
+                "description": "Les Alliés coordonnent leurs efforts militaires globaux pour sceller la fin totale de la Seconde Guerre mondiale en Asie comme en Europe."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "L'émergence des zones d'influence et l'illusion de l'unité",
+                "illustration": "Divergences sur le sort de la Pologne et la tenue d'élections libres en Europe de l'Est",
+                "description": "Sous couvert d'accords communs, Staline impose la soviétisation progressive des territoires libérés par l'Armée rouge, violant l'esprit de la Déclaration sur l'Europe libérée."
+            },
+            {
+                "titre": "Changement de climat politique entre Yalta et Potsdam",
+                "illustration": "Remplacement de Roosevelt par Truman et disparition politique de Churchill au profit d'Attlee",
+                "description": "Le changement des dirigeants occidentaux à Potsdam, combiné à la maîtrise de la bombe atomique par les États-Unis, accroît la méfiance réciproque et durcit le ton des négociations."
+            },
+            {
+                "titre": "Germes de la division allemande et de la Guerre froide",
+                "illustration": "Querelles sur la gestion économique commune de l'Allemagne et le prélèvement des réparations par l'URSS",
+                "description": "L'impossibilité d'appliquer une politique unifiée sur le territoire allemand transforme les zones d'occupation en lignes de fracture de la future bipolarisation du monde."
+            }
+        ]
+    },
+    {
+        "citation": "Si nous nous retirons de Berlin, nous perdons toute notre position en Allemagne et en Europe.",
+        "auteur": "Harry S. Truman",
+        "source": "Mémoires du Président Truman",
+        "contexte": "Déclaration du président américain lors du déclenchement du blocus de Berlin en 1948, affirmant la détermination des États-Unis à maintenir leur présence dans la ville enclavée.",
+        "analyse_a": [
+            {
+                "titre": "Cause 1: Désaccords sur la gestion quadripartite de l'Allemagne",
+                "illustration": "Conférences de Yalta et Potsdam (1945)",
+                "description": "Malgré le découpage initial en quatre zones d'occupation et la création du Conseil de contrôle, les tensions idéologiques et les querelles sur les réparations financières paralysent la gestion commune."
+            },
+            {
+                "titre": "Cause 2: Unification occidentale et réforme monétaire",
+                "illustration": "Création de la Trizone et introduction du Deutsche Mark (janvier-juin 1948)",
+                "description": "La fusion des zones américaine, britannique et française ainsi que le changement de monnaie visent à redresser l'économie sans l'accord de Moscou."
+            },
+            {
+                "titre": "Cause 3: Réaction soviétique et coupure des accès",
+                "illustration": "Retrait de l'URSS du Conseil de contrôle quadripartite",
+                "description": "Considérant l'unification occidentale comme une violation des accords, Staline cherche à asphyxier Berlin-Ouest pour forcer les Alliés à abandoned la ville."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Manifestation: Le blocus terrestre et la riposte par le pont aérien",
+                "illustration": "Du 23 juin 1948 au 12 mai 1949 (278 000 vols d'approvisionnement)",
+                "description": "L'URSS coupe tous les accès routiers, ferroviaires et électriques vers Berlin-Ouest, auxquels les Américains et Britanniques répondent par un pont aérien massif ravitaillant la population."
+            },
+            {
+                "titre": "Consequence 1: Échec soviétique et victoire du containment",
+                "illustration": "Levée du blocus par Staline en mai 1949",
+                "description": "La détermination occidentale contraint l'URSS à céder, marquant le succès opérationnel de la politique d'endig meublée par les États-Unis."
+            },
+            {
+                "titre": "Consequence 2: Division définitive de l'Allemagne et ancrage de la Guerre froide",
+                "illustration": "Création de la RFA (mai 1949) et de la RDA (octobre 1949)",
+                "description": "La crise scelle la rupture irréversible du territoire allemand en deux États idéologiquement opposés et accélère la bipolarisation de l'Europe."
+            }
+        ]
+    },
+    {
+        "citation": "Un mur vaut mieux qu'une guerre.",
+        "auteur": "John F. Kennedy",
+        "source": "Déclaration privée durant la crise de Berlin (1961)",
+        "contexte": "Réaction du président américain à l'érection du Mur de Berlin par le bloc soviétique pour stopper l'exode des citoyens d'Est en Ouest sans risquer un affrontement armé direct.",
+        "analyse_a": [
+            {
+                "titre": "Cause 1: Division de l'Allemagne et contraste socio-économique",
+                "illustration": "Prospérité de la RFA/Berlin-Ouest face aux difficultés de la RDA",
+                "description": "La création de la RFA et de la RDA en 1949 génère une opposition flagrante entre la vitrine capitaliste florissante et le modèle communiste touché par les pénuries."
+            },
+            {
+                "titre": "Cause 2: Hémorragie démographique et fuite des cerveaux",
+                "illustration": "Départ de plus de 2 à 3 millions d'Allemands de l'Est via Berlin-Ouest entre 1949 et 1961",
+                "description": "L'exode massif des populations fuyant la pauvreté et la répression prive la RDA de sa main-d'œuvre qualifiée et fragilise le régime."
+            },
+            {
+                "titre": "Cause 3: L'ultimatum de Khrouchtchev et l'échec diplomatique",
+                "illustration": "Rencontres de Genève (1959), Camp David (1959), Paris (1960) et Vienne (1961)",
+                "description": "L'URSS exige en 1958 le départ des Alliés et la démilitarisation de Berlin ; la fermeté occidentale mène au blocage des négociations."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Manifestation: Érection du Mur de Berlin et séparation physique",
+                "illustration": "Nuit du 12 au 13 août 1961",
+                "description": "La construction précipitée du mur stoppe net l'exode de la population est-allemande et concrétise la séparation de la ville pendant 28 ans."
+            },
+            {
+                "titre": "Conséquences humaines et familiales tragiques",
+                "illustration": "Division des familles berlinoises et victimes au franchissement du mur",
+                "description": "La fermeture hermétique de la frontière déchire les foyers et entraîne la mort de nombreuses personnes tentant de fuir vers l'Ouest."
+            },
+            {
+                "titre": "Surenchère idéologique et symbole de la Guerre froide",
+                "illustration": "Dénomination du « Mur de la honte » et discours « Ich bin ein Berliner »",
+                "description": "Le mur devient le symbole universel de l'oppression soviétique et du monde bipolaire jusqu'à sa chute le 9 novembre 1989."
+            }
+        ]
+    },
+    {
+        "citation": "L'Allemagne sera unifiée ou elle ne sera pas, mais elle ne restera pas divisée.",
+        "auteur": "Konrad Adenauer",
+        "source": "Déclaration officielle sur la question allemande (1952)",
+        "contexte": "Affirmation du premier chancelier de la RFA refusant la division définitive du peuple allemand et fixant l'ancrage à l'Ouest tout en gardant l'objectif de la réunification.",
+        "analyse_a": [
+            {
+                "titre": "Fondation et divergence des systèmes politiques",
+                "illustration": "Proclamation de la RFA (mai 1949, capitale Bonn) et de la RDA (octobre 1949, capitale Berlin-Est)",
+                "description": "La RFA adopte une démocratie parlementaire et le libéralisme (Loi fondamentale), tandis que la RDA devient un État socialiste autoritaire à parti unique (SED) sous tutelle soviétique."
+            },
+            {
+                "titre": "L'ancrage économique et le « miracle économique » (Wirtschaftswunder)",
+                "illustration": "Économie sociale de marché et Plan Marshall pour la RFA contre économie planifiée et collectivisation pour la RDA",
+                "description": "La RFA se redresse rapidement et devient une puissance industrielle majeure à l'Ouest, alors que la RDA souffre de pénuries, de retard technologique et des prélevments de réparations par l'URSS."
+            },
+            {
+                "titre": "Intégration dans les alliances militaires de la Guerre froide",
+                "illustration": "Adhésion de la RFA à l'OTAN (1955) et intégration de la RDA au Pacte de Varsovie (1955)",
+                "description": "Les deux États allemands deviennent la frontière directe et le symbole de la confrontation idéologique et militaire entre le bloc occidental et le bloc soviétique."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Tensions frontalières, exode et érection du Mur de Berlin",
+                "illustration": "Fuite de 3 millions de citoyens d'Est en Ouest et construction du Mur le 13 août 1961",
+                "description": "L'écart de niveau de vie et de liberté provoque une hémorragie démographique en RDA, poussant le régime communiste à enfermer sa population par la force."
+            },
+            {
+                "titre": "L'Ostpolitik et le rapprochement pragmatique",
+                "illustration": "Politique d'ouverture de Willy Brandt (1969) et Traité fondamental (1972)",
+                "description": "La RFA change de stratégie en reconnaissant l'existence de la RDA pour normaliser les relations, faciliter les contacts humains et apaiser les tensions au cœur de l'Europe."
+            },
+            {
+                "titre": "Effondrement du bloc de l'Est et réunification allemande",
+                "illustration": "Chute du Mur de Berlin (9 novembre 1989) et Traité « 2+4 » (3 octobre 1990)",
+                "description": "Les manifestations populaires en RDA et la fin du soutien soviétique entraînent la dissolution de la RDA et l'absorption de ses territoires par la RFA, scellant la réunification."
+            }
+        ]
+    },
+    {
+        "citation": "Un coup de feu pouvait faire flamber le monde.",
+        "auteur": "John F. Kennedy",
+        "source": "Mémoires sur la crise des missiles (1962)",
+        "contexte": "Déclaration illustrant l'extrême tension durant les treize jours de la crise de Cuba, où le risque d'un affrontement nucléaire direct entre les deux superpuissances était imminent.",
+        "analyse_a": [
+            {
+                "titre": "Cause 1: Révolution cubaine et rupture avec Washington",
+                "illustration": "Renversement de Batista par Castro (1959) et échec du débarquement de la Baie des Cochons (1961)",
+                "description": "L'arrivée au pouvoir de Fidel Castro et ses nationalisations provoquent l'hostilité des États-Unis, poussant le régime cubain à s'allier avec l'URSS pour garantir sa sécurité."
+            },
+            {
+                "titre": "Cause 2: Déploiement stratégique des missiles soviétiques",
+                "illustration": "Installation secrète de rampes de lancement nucléaires à Cuba en 1962",
+                "description": "Khrouchtchev installe des puces nucléaires à proximité immédiate du territoire américain pour rétablir l'équilibre stratégique face aux missiles américains basés en Turquie."
+            },
+            {
+                "titre": "Cause 3: Découverte américaine et riposte militaire",
+                "illustration": "Survol des avions espions U2 (14 octobre 1962) et blocus naval (22 octobre 1962)",
+                "description": "La révélation des installations pousse le président Kennedy à imposer un quarantaine maritime autour de l'île et à lancer un ultimatum strict à Moscou."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Manifestation: Dénouement diplomatique et compromis sous haute tension",
+                "illustration": "Retrait des missiles de Cuba contre promesse de non-invasion et retrait secret des missiles en Turquie",
+                "description": "Les négociations directes entre Kennedy et Khrouchtchev permettent de désamorcer l'affrontement et d'éviter un holocauste nucléaire."
+            },
+            {
+                "titre": "Inauguration de la Détente et prévention des risques",
+                "illustration": "Mise en place du « téléphone rouge » (1963) et Traité d'interdiction partielle des essais nucléaires",
+                "description": "La prise de conscience du danger atomique pousse Washington et Moscou à établir une communication directe et à amorcer une phase de coexistence pacifique."
+            },
+            {
+                "titre": "Impacts politiques sur les dirigeants et le régime cubain",
+                "illustration": "Maintien de Castro au pouvoir et destitution de Khrouchtchev en 1964",
+                "description": "Si la crise renforce le prestige de Kennedy et maintient le sanctuaire communiste à Cuba, le recul perçu de l'URSS fragilise Khrouchtchev au sein du Kremlin."
+            }
+        ]
+    },
+    {
+        "citation": "Il n'y a que deux voies : soit la coexistence pacifique, soit la guerre la plus destructrice de l'histoire.",
+        "auteur": "Nikita Khrouchtchev",
+        "source": "Discours sur la coexistence pacifique (1956)",
+        "contexte": "Déclaration théorisant le concept de coexistence pacifique après la mort de Staline, visant à éviter un affrontement nucléaire direct avec les États-Unis tout en poursuivant la rivalité idéologique.",
+        "analyse_a": [
+            {
+                "titre": "L'équilibre de la terreur et la dissuasion nucléaire",
+                "illustration": "Doctrine de la destruction mutuelle assurée (MAD) et « téléphone rouge » (1963)",
+                "description": "La possession d'un arsenal atomique équivalent par les deux superpuissances rend tout conflit direct suicidaire, imposant la diplomatie et le dialogue comme seuls moyens de gestion des crises."
+            },
+            {
+                "titre": "Coopération diplomatique et maîtrise des armements",
+                "illustration": "Traité de non-prolifération nucléaire (1968) et accords SALT I",
+                "description": "Les deux blocs concrétisent la détente en signant des traités majeurs d'encadrement des armes stratégiques et en multipliant les sommets bilatéraux."
+            },
+            {
+                "titre": "Déplacement de la rivalité vers des voies non militaires",
+                "illustration": "Course à l'espace (missions Apollo et Spoutnik) et compétition sportive/culturelle",
+                "description": "L'affrontement armé direct est remplacé par une compétition d'influence économique, technologique et symbolique pour prouver la supériorité de chaque modèle."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Persistance des conflits par procuration (Proxy Wars)",
+                "illustration": "Guerre du Vietnam, Guerre d'Afghanistan, crises au Moyen-Orient",
+                "description": "La paix directe entre l'URSS et les États-Unis masque une violence permanente dans le Tiers-Monde, où les superpuissances s'affrontent indirectement par alliés interposés."
+            },
+            {
+                "titre": "Répression des contestations au sein des zones d'influence",
+                "illustration": "Insurrection de Budapest (1956) et Printemps de Prague (1968)",
+                "description": "La coexistence repose sur le maintien strict du contrôle de chaque bloc sur sa sphère d'influence, autorisant l'usage de la force armée pour écraser toute velléité d'émancipation."
+            },
+            {
+                "titre": "Poursuite de la course aux armements et méfiance réciproque",
+                "illustration": "Développement des missiles intercontinentaux et espionnage continu",
+                "description": "Malgré les traités, la rivalité idéologique reste totale et le réarmement qualitatif se poursuit, révélant la coexistence pacifique comme une trêve stratégique plutôt qu'une paix réelle."
+            }
+        ]
+    },
+    {
+        "citation": "Si nous nous retirons du Vietnam, la vague communiste déferlera sur l'ensemble de l'Asie du Sud-Est.",
+        "auteur": "Lyndon B. Johnson",
+        "source": "Discours sur l'engagement américain au Vietnam (1965)",
+        "contexte": "Déclaration du président américain justifiant l'escalade militaire et l'envoi massif de troupes pour appliquer la théorie des dominos et le containment contre le bloc communiste.",
+        "analyse_a": [
+            {
+                "titre": "La doctrine du containment et la théorie des dominos",
+                "illustration": "Soutien au régime de Ngo Dinh Diem au Sud-Vietnam dès 1955",
+                "description": "La volonté des États-Unis d'empêcher la propagation du communisme en Asie du Sud-Est les pousse à soutenir le Sud et à refuser les élections de réunification."
+            },
+            {
+                "titre": "L'escalade militaire et l'incident du golfe du Tonkin",
+                "illustration": "Résolution du Golfe du Tonkin (1964) et déploiement de 500 000 soldats dès 1965",
+                "description": "Utilisant un prétexte naval, le gouvernement américain transforme un soutien indirect en une intervention militaire massive et directe face au Viet-Cong."
+            },
+            {
+                "titre": "Guerre asymétrique, guérilla et enlisement",
+                "illustration": "Offensive du Têt (1968) et emploi du napalm/Agent Orange",
+                "description": "Incapables d'adapter leur puissance de feu face aux méthodes de guérilla et à la détermination du Viet-Cong, les forces américaines subissent un choc stratégique majeur."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Retrait sans victoire et défaite diplomatique",
+                "illustration": "Accords de paix de Paris (1973) et chute de Saïgon (1975)",
+                "description": "Les États-Unis reprennent leurs troupes sans avoir atteint leur objectif, laissant le Vietnam se réunifier entièrement sous un régime communiste."
+            },
+            {
+                "titre": "Syndrome vietnamien et traumatisme sociopolitique interne",
+                "illustration": "Contestation de la jeunesse américaine, pertes humaines (58 000 morts) et crise morale",
+                "description": "Le conflit divise profondément la société américaine, remet en cause le rôle de gendarme du monde et crée un blocage durable sur les interventions armées à l'étranger."
+            },
+            {
+                "titre": "Reconfiguration des alliances stratégiques en Asie",
+                "illustration": "Dissolution de l'OTASE (1977) et émergence de l'ASEAN",
+                "description": "L'échec militaire contraint Washington à revoir sa politique étrangère en privilégiant des partenariats régionaux et une diplomatie plus prudente."
+            }
+        ]
+    },
+    {
+        "citation": "Nous ne pouvons plus vivre ainsi.",
+        "auteur": "Mikhaïl Gorbatchev",
+        "source": "Propos tenus à Edouard Chevardnadze (1985)",
+        "contexte": "Constat lucide du nouveau secrétaire général du Parti communiste sur la crise systémique, économique et sociale profonde qui frappe l'URSS lors de son accession au pouvoir.",
+        "analyse_a": [
+            {
+                "titre": "L'épuisement du modèle économique et la crise sociale",
+                "illustration": "Stagnation des années Brejnev, pénuries et poids de la course aux armements",
+                "description": "L'économie planifiée soviétique, minée par la bureaucratie, le retard technologique et le coût de la compétition militaire avec les États-Unis, ne parvient plus à répondre aux besoins vitaux de la population."
+            },
+            {
+                "titre": "Le blocage politique et la perte de légitimité du régime",
+                "illustration": "Autoritarisme du Parti unique, corruption et gérontocratie",
+                "description": "Le système politique figé et le manque de libertés publiques provoquent un profond cynisme au sein de la société et un attrait croissant pour le modèle occidental."
+            },
+            {
+                "titre": "Mise en place de la Perestroïka et de la Glasnost",
+                "illustration": "Réformes économiques de libéralisation partielle et ouverture du débat public (1985-1987)",
+                "description": "Gorbatchev lance la restructuration économique et la transparence politique dans l'espoir de moderniser et de sauver le système socialiste sans l'anéantir."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Désorganisation économique et réveil des nationalismes",
+                "illustration": "Indépendance des pays baltes (1990) et déclarations de souveraineté des 15 républiques",
+                "description": "L'échec de la Perestroïka aggrave la crise économique tandis que la Glasnost libère les revendications indépendantistes qui morcellent l'Union soviétique de l'intérieur."
+            },
+            {
+                "titre": "Effondrement du bloc de l'Est en Europe centrale",
+                "illustration": "Victoire de Solidarność en Pologne, Révolution de Velours et Chute du Mur de Berlin (1989)",
+                "description": "L'abandon de la doctrine Brejnev et la fin de l'ingérence militaire soviétique entraînent la chute en chaîne des régimes communistes satellites et la dissolution du Pacte de Varsovie."
+            },
+            {
+                "titre": "Implosion de l'URSS et fin de la bipolarité",
+                "illustration": "Démission de Gorbatchev et dissolution officielle de l'URSS le 25 décembre 1991",
+                "description": "Après le coup d'État manqué d'août 1991 et l'émergence de Boris Eltsine en Russie, l'empire soviétique disparaît, scellant la fin définitive de la Guerre froide."
+            }
+        ]
+    },
+    {
+        "citation": "L’URSS n’a pas été détruite par des forces extérieures, elle s’est effondrée sous le poids de ses propres contradictions et des choix de ses propres dirigeants.",
+        "auteur": "Mikhaïl Gorbatchev",
+        "source": "Mémoires et déclarations post-dissolution (1991)",
+        "contexte": "Analyse rétrospective soulignant que la chute du bloc soviétique découle principalement de failles structurelles internes, des réformes politiques (Glasnost, Perestroïka) et de la poussée des nationalismes régionaux plutôt que d'une défaite militaire directe face aux États-Unis.",
+        "analyse_a": [
+            {
+                "titre": "Crise économique structurelle et faillite du système planifié",
+                "illustration": "Pénuries récurrentes, retard technologique et poids financier de la course aux armements",
+                "description": "L'économie collectivisée soviétique s'est asphyxiée de l'intérieur, incapable de répondre aux besoins de la population et d'assumer les coûts de la compétition avec le bloc occidental."
+            },
+            {
+                "titre": "Impact déstabilisateur des réformes internes (Perestroïka et Glasnost)",
+                "illustration": "Politiques de transparence et de restructuration engagées par Gorbatchev dès 1985",
+                "description": "En voulant démocratiser et moderniser le régime, les dirigeants soviétiques ont involontairement libéré la parole publique et détruit les fondements autoritaires qui maintenaient l'Union."
+            },
+            {
+                "titre": "Implosion politique et poussée des nationalismes internes",
+                "illustration": "Proclamations d'indépendance des républiques baltes et accords de Belavezha (décembre 1991)",
+                "description": "Ce sont les élites locales soviétiques (notamment Boris Eltsine en Russie et les dirigeants d'Ukraine et de Biélorussie) qui ont formellement dissous l'URSS pour prendre le pouvoir."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Pression extérieure décisive de la politique américaine",
+                "illustration": "Doctrine Reagan, programme IDS (« Guerre des étoiles ») et hausse des dépenses militaires",
+                "description": "La surenchère stratégique et la fermeté diplomatique de Washington ont poussé l'économie soviétique au-delà de ses capacités de résistance."
+            },
+            {
+                "titre": "Guerres par procuration et usure de l'armée rouge",
+                "illustration": "Enlisement soviétique en Afghanistan (1979-1989) soutenu par les États-Unis",
+                "description": "L'intervention militaire en Afghanistan a épuisé les ressources financières de l'URSS et sapé le moral de l'armée, accentuant l'isolement international du régime."
+            },
+            {
+                "titre": "Guerre économique, idéologique et culturelle globale",
+                "illustration": "Chute des cours du pétrole organisée dans les années 1980 et attrait du modèle occidental",
+                "description": "L'action conjuguée du blocus économique, de la guerre de l'information et de l'attrait de la société de consommation a activement sapé la légitimité du modèle soviétique de l'extérieur."
+            }
+        ]
+    },
+    {
+        "citation": "Garder les Américains à l'intérieur, les Russes à l'extérieur et les Allemands sous tuteur.",
+        "auteur": "Lord Ismay",
+        "source": "Déclaration du premier Secrétaire général de l'OTAN (1952)",
+        "contexte": "Définition synthétique de la triple mission stratégique attribuée à l'Alliance atlantique lors de sa mise en place au début de la Guerre froide.",
+        "analyse_a": [
+            {
+                "titre": "Fondation et ancrage de la sécurité collective occidentale",
+                "illustration": "Signature du Traité de Washington (4 avril 1949) par 12 pays fondateurs",
+                "description": "Créée en réponse au Blocus de Berlin et au Coup de Prague, l'OTAN formalise une alliance militaire transatlantique fondée sur la défense mutuelle (Article 5)."
+            },
+            {
+                "titre": "Institutionalisation et réarmement face au bloc soviétique",
+                "illustration": "Intégration de la RFA (1955) et doctrine de la riposte graduée",
+                "description": "L'adhésion de l'Allemagne de l'Ouest provoque la réplique directe de Moscou avec la création du Pacte de Varsovie, structurant le face-à-face militaire bipolaire."
+            },
+            {
+                "titre": "Dissuasion nucléaire et équilibre des forces en Europe",
+                "illustration": "Déploiement du parapluie atomique américain et gestion des crises de la Guerre froide",
+                "description": "L'organisation sert de bouclier stratégique pour prévenir toute agression soviétique en Europe de l'Ouest durant les phases de forte tension militaire."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Contestations internes et quête d'indépendance nationale",
+                "illustration": "Retrait de la France du commandement militaire intégré par de Gaulle (1966)",
+                "description": "L'Alliance traverse des tensions politiques liées au leadership américain, conduisant la France à développer sa propre force de frappe nucléaire autonome."
+            },
+            {
+                "titre": "La crise des Euromissiles et le pic de tension des années 1980",
+                "illustration": "Déploiement des Pershing II occidentaux face aux SS-20 soviétiques (1979-1983)",
+                "description": "Face au renouvellement de l'arsenal soviétique, l'OTAN engage un bras de fer militaire et politique majeur jusqu'à la signature du Traité FNI en 1987."
+            },
+            {
+                "titre": "Fin de la Guerre froide et redéfinition stratégique",
+                "illustration": "Dissolution du Pacte de Varsovie (juillet 1991) et effondrement de l'URSS (décembre 1991)",
+                "description": "La disparition de la menace soviétique directe contraint l'OTAN à transformer son rôle stratégique pour passer d'une alliance défensive fixe à un acteur de sécurité globale."
+            }
+        ]
+    },
+    {
+        "citation": "Celui qui ne regrette pas la disparition de l'Union soviétique n'a pas de cœur ; celui qui veut la reconstituer telle quelle n'a pas de tête.",
+        "auteur": "Vladimir Poutine",
+        "source": "Discours officiel",
+        "contexte": "Réflexion sur la continuité historique, culturelle et géopolitique entre l'Empire russe, l'URSS et la Fédération de Russie contemporaine.",
+        "analyse_a": [
+            {
+                "titre": "La Russie, centre névralgique et moteur de l'Empire soviétique",
+                "illustration": "Prédominance de la RSFSR (République socialiste fédérative soviétique de Russie) et rôle central de Moscou",
+                "description": "Bien que l'URSS fût théoriquement une fédération d'États égaux, la Russie en constituait le cœur politique, économique, militaire et territorial majeur."
+            },
+            {
+                "titre": "Russification et diffusion de la culture russe",
+                "illustration": "Imposition du russe comme langue officielle d'État et déplacements de populations",
+                "description": "Le pouvoir soviétique a utilisé la langue, la littérature et l'appareil administratif russes pour unifier idéologiquement les 15 républiques de l'Union."
+            },
+            {
+                "titre": "Statut de superpuissance et héritage géopolitique",
+                "illustration": "Siège permanent au Conseil de sécurité de l'ONU et contrôle de l'arsenal nucléaire",
+                "description": "La Russie a été reconnue internationalement comme l'État successeur juridique unique de l'URSS après son effondrement en 1991."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Ruptures idéologiques et politiques majeures",
+                "illustration": "Transition du modèle communiste à parti unique vers la Fédération de Russie capitaliste",
+                "description": "La fin de l'URSS a marqué l'abandon de la doctrine marxiste-léniniste au profit d'un État nationaliste réintégré dans le marché mondial."
+            },
+            {
+                "titre": "Rétractation territoriale et perte d'influence",
+                "illustration": "Indépendance des 14 autres républiques soviétiques (Ukraine, Biélorussie, Kazakhstan, etc.)",
+                "description": "La dissolution de 1991 a privé Moscou d'une grande partie de son glacis protecteur et de sa sphère d'influence directe en Europe de l'Est et en Asie centrale."
+            },
+            {
+                "titre": "Traumatisme socio-économique et quête de puissance contemporaine",
+                "illustration": "Crise économique des années 1990 et politiques d'affirmation géopolitique sous Vladimir Poutine",
+                "description": "L'effondrement soviétique est perçu par le pouvoir russe actuel comme une catastrophe géopolitique, justifiant des tentatives de réaffirmation de sa puissance régionale."
+            }
+        ]
+    },
+    {
+        "citation": "Un monde unipolaire est un monde où une seule puissance impose ses volontés au reste du monde.",
+        "auteur": "Hubert Védrine",
+        "source": "Concepts de géopolitique post-Guerre froide (1998)",
+        "contexte": "Analyse de l'ancien ministre français des Affaires étrangères conceptualisant l'hyperpuissance américaine au lendemain de la chute de l'URSS.",
+        "analyse_a": [
+            {
+                "titre": "Hégémonie politique et militaire globale",
+                "illustration": "Interventions dans le Golfe (1991), au Kosovo (1999) et rôle de « gendarme du monde »",
+                "description": "Seule superpuissance après 1991, les États-Unis imposent le nouvel ordre mondial, élargissent l'OTAN à l'Est et étendent leur présence militaire dans plus de 70 pays."
+            },
+            {
+                "titre": "Domination économique et technologique mondiale",
+                "illustration": "Suprématie du dollar, institutions de Bretton Woods et géants de la Tech (GAFAM)",
+                "description": "Cœur financier et technologique de la mondialisation, le pays diffuse le modèle capitaliste libéral tout en contrôlant les flux commerciaux internationaux."
+            },
+            {
+                "titre": "Rayonnement culturel et « Soft Power »",
+                "illustration": "Diffusion universelle d'Hollywood, de la musique et du mode de vie américain (American Way of Life)",
+                "description": "L'influence américaine s'appuie sur une puissance d'attraction culturelle inégalée, véhiculant ses valeurs démocratiques et de consommation à l'échelle planétaire."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Échecs militaires, unilatéralisme et usure diplomatique",
+                "illustration": "Invasion de l'Irak (2003) sans mandat de l'ONU et retrait chaotique d'Afghanistan (2021)",
+                "description": "Les interventions armées coûteuses et infructueuses entament la crédibilité américaine, érodent son image internationale et provoquent un rejet de ses ingérences."
+            },
+            {
+                "titre": "Emergence du multipolarisme et contestation des BRICS",
+                "illustration": "L'ascension économique et militaire de la Chine et le révisionnisme géopolitique de la Russie",
+                "description": "De nouvelles puissances émergentes remettent directement en cause la domination du dollar, le multilatéralisme occidental et le leadership de Washington."
+            },
+            {
+                "titre": "Doutes internes et tentation du désengagement",
+                "illustration": "Politiques d'isolationnisme « America First » et fractures sociopolitiques internes",
+                "description": "Les crises économiques successives et la polarisation politique incitent l'opinion publique américaine à questionner le coût et la pertinence du rôle de gendarme du monde."
+            }
+        ]
+    },
+    {
+        "citation": "Aujourd'hui, notre nation a vu le mal, le pire de la nature humaine, et nous avons répondu avec le meilleur de l'Amérique.",
+        "auteur": "George W. Bush",
+        "source": "Adresse à la nation le soir du 11 septembre 2001",
+        "contexte": "Déclaration du président américain le soir des attentats orchestrés par Al-Qaïda contre le World Trade Center et le Pentagone, marquant le basculement dans l'ère de la lutte globale contre le terrorisme.",
+        "analyse_a": [
+            {
+                "titre": "Attaques terroristes inédites au cœur de la superpuissance",
+                "illustration": "Détournement de 4 avions de ligne, destruction des tours jumelles du World Trade Center et frappe sur le Pentagone (près de 3 000 morts)",
+                "description": "L'organisation Al-Qaïda dirigée par Oussama Ben Laden frappe les symboles économiques et militaires des États-Unis, démontrant la vulnérabilité du territoire américain en pleine période d'hyperpuissance."
+            },
+            {
+                "titre": "Choc psychologique et mobilisation sécuritaire interne",
+                "illustration": "Adoption du Patriot Act (2001) et création du Département de la Sécurité intérieure",
+                "description": "Le traumatisme national entraîne un durcissement législatif sans précédent, restreignant certaines libertés individuelles au profit d'une sécurité renforcée et d'un contrôle accru des frontières."
+            },
+            {
+                "titre": "Lancement de la « Guerre globale contre le terreur » et intervention en Afghanistan",
+                "illustration": "Invasion de l'Afghanistan (Opération Enduring Freedom, octobre 2001) avec le soutien de l'OTAN",
+                "description": "Washington déclenche l'Article 5 du traité de l'OTAN pour chasser le régime des Talibans qui abritait la direction d'Al-Qaïda, inaugurant une nouvelle doctrine de frappes préventives."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Unilatéralisme et dérive militaire : la guerre en Irak",
+                "illustration": "Invasion de l'Irak en 2003 sans le mandat du Conseil de sécurité de l'ONU",
+                "description": "Au nom de la lutte contre le terrorisme et sous prétexte de la présence d'armes de destruction massive, les États-Unis s'engagent dans un conflit controversé qui divise les alliés occidentaux et isole Washington."
+            },
+            {
+                "titre": "Déstabilisation durable du Moyen-Orient et essor du djihadisme",
+                "illustration": "Emergence de l'État islamique (Daech) et guerres civiles régionales",
+                "description": "Le vide politique créé par le renversement des régimes afghan et irakien alimente un chaos géopolitique majeur et la propagation de nouveaux réseaux terroristes transnationaux."
+            },
+            {
+                "titre": "Atteinte au Soft Power américain et remise en cause de l'ordre mondial",
+                "illustration": "Scandales d'Abou Ghraib, Guantanamo et contestation du leadership occidental par les puissances émergentes",
+                "description": "Les méthodes employées dans la lutte antiterroriste érodent l'autorité morale des États-Unis, accélérant la transition d'un monde unipolaire vers un monde multipolaire contesté."
+            }
+        ]
+    },
+    {
+        "citation": "L'émergence des BRICS reflète la transition irréversible vers un monde multipolaire plus juste et représentatif.",
+        "auteur": "Dilma Rousseff",
+        "source": "Discours à la présidence de la Nouvelle Banque de Développement",
+        "contexte": "Déclaration soulignant l'ambition des pays émergents de rééquilibrer la gouvernance économique et politique mondiale face à l'hégémonie des institutions occidentales.",
+        "analyse_a": [
+            {
+                "titre": "Une force économique et démographique majeure",
+                "illustration": "Plus de 40 % de la population mondiale et une part du PIB mondial dépassant celle du G7 en parité de pouvoir d'achat",
+                "description": "Le groupe rassemble des géants démographiques et économiques mondiaux (Chine, Inde, Brésil, Russie, Afrique du Sud) capables de peser de façon décisive sur le commerce et la croissance globale."
+            },
+            {
+                "titre": "Création d'institutions financières alternatives",
+                "illustration": "Fondation de la Nouvelle Banque de Développement (NBD) et du Fonds de réserve d'urgence",
+                "description": "Les BRICS ont mis en place leurs propres structures financières pour financer les infrastructures du Tiers-Monde sans dépendre des conditions imposées par le FMI et la Banque mondiale."
+            },
+            {
+                "titre": "Contestation du monopole financier occidental et dédollarisation",
+                "illustration": "Augmentation des échanges commerciaux en monnaies nationales (Yuan, Roupie, Real)",
+                "description": "Le bloc cherche à réduire sa dépendance au dollar américain dans les transactions internationales pour se protéger des sanctions financières occidentales."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Hétérogénéité politique et divergences d'intérêts internes",
+                "illustration": "Rivalités territoriales et géopolitiques entre l'Inde et la Chine",
+                "description": "Le groupe réunit des régimes politiques très différents (démocraties, régimes autoritaires) dont les priorités stratégiques divergent souvent, compliquant l'adoption de positions communes."
+            },
+            {
+                "titre": "Inégalités de puissance et prédominance économique chinoise",
+                "illustration": "Poids économique de la Chine représentant plus de 60 % du PIB total du groupe initial",
+                "description": "La dissymétrie au profit de Pékin fait craindre à certains membres que le bloc ne devienne un instrument d'influence exclusivement au service des intérêts chinois."
+            },
+            {
+                "titre": "Défis liés à l'élargissement et à l'institutionnalisation",
+                "illustration": "Intégration de nouveaux membres (Iran, Égypte, Éthiopie, Émirats Arabes Unis) à partir de 2024",
+                "description": "L'expansion du groupe accentue sa diversité idéologique et géographique, posant le défi de transformer cette alliance en une organisation structurée et cohérente sur la scène internationale."
+            }
+        ]
+    },
+    {
+        "citation": "L'éveil de la conscience nationale en Afrique est une vague puissante que rien ne peut plus arrêter ; il appartient au monde de l'accompagner avec justice.",
+        "auteur": "Félix Houphouët-Boigny",
+        "source": "Discours sur l'émancipation politique de l'Afrique noire",
+        "contexte": "Déclaration soulignant la montée irréversible du nationalisme et des revendications d'émancipation politique en Afrique noire sous domination coloniale française après la Seconde Guerre mondiale.",
+        "analyse_a": [
+            {
+                "titre": "Les facteurs favorisants et le rôle catalyseur des guerres mondiales",
+                "illustration": "Participation des tirailleurs sénégalais aux conflits mondiaux et perte du prestige de la métropole en 1940",
+                "description": "La participation aux combats démystifie la supériorité de l'occupant. De plus, la Conférence de Brazzaville (1944) et la création de l'Union française (1946) ouvrent la voie aux libertés syndicales et politiques."
+            },
+            {
+                "titre": "L'émergence d'élites intellectuelles et d'organisations politiques",
+                "illustration": "Fondation du RDA (Rassemblement Démocratique Africain) en 1946 par Félix Houphouët-Boigny et figures comme Léopold Sédar Senghor",
+                "description": "Formées à l'école occidentale ou inspirées par le mouvement de la Négritude, les élites locales structurent des partis politiques et des syndicats pour revendiquer l'égalité des droits, l'abolition du travail forcé et l'autonomie."
+            },
+            {
+                "titre": "Le contexte international favorable à l'émancipation",
+                "illustration": "Anticolonialisme des deux superpuissances (USA, URSS), charte de l'ONU et Conférence de Bandung (1955)",
+                "description": "La pression internationale et la vague de décolonisation en Asie et au Maghreb renforcent les mouvements nationalistes africains et contraignent la France à réformer son empire."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "L'escalade des revendications : de l'assimilation à l'indépendance",
+                "illustration": "Promulgation de la Loi-cadre Defferre (1956) instaurant le suffrage universel et des conseils de gouvernement locaux",
+                "description": "Initialement axées sur l'égalité des droits au sein de l'Union française, les revendications nationalistes s'orientent rapidement vers la souveraineté nationale face à l'insuffisance des réformes administratives."
+            },
+            {
+                "titre": "Le tournant du Référendum de 1958 et la Communauté française",
+                "illustration": "Le « NON » historique de Ahmed Sékou Touré en Guinée entraînant son indépendance immédiate",
+                "description": "Le projet de Communauté proposé par le général de Gaulle éclate sous la pression des nationalismes : la Guinée ouvre la voie, poussant les autres territoires à réclamer leur indépendance."
+            },
+            {
+                "titre": "L'aboutissement de 1960 et les défis post-indépendance",
+                "illustration": "Accession à l'indépendance de 14 États d'Afrique noire francophone au cours de l'année 1960",
+                "description": "Bien que l'indépendance politique soit acquise, le jeune nationalisme africain reste confronté au défi de la construction nationale, à la dépendance économique et au maintien des liens néocoloniaux (Françafrique)."
+            }
+        ]
+    },
+    {
+        "citation": "Nous voulons la liberté, nous voulons l’égalité des droits, mais nous entendons rester unis à la France dans une fraternité confiante et féconde.",
+        "auteur": "Félix Houphouët-Boigny",
+        "source": "Discours à l'Assemblée nationale française (1946)",
+        "contexte": "Déclaration accompagnant le vote de la loi abolissant le travail forcé, illustrant la stratégie ivoirienne d'utiliser le cadre réformateur français pour conquérir l'émancipation politique.",
+        "analyse_a": [
+            {
+                "titre": "Les réformes juridiques et politiques fondatrices (1944-1946)",
+                "illustration": "Suppression du travail forcé (Loi Houphouët-Boigny, avril 1946) et citoyenneté (Loi Lamine Guèye, mars 1946)",
+                "description": "Dans le sillage de la Conférence de Brazzaville (1944), la France adopte des lois décisives qui mettent fin à l'indigénat et permettent la création du Syndicat Agricole Africain (SAA) puis du PDCI-RDA."
+            },
+            {
+                "titre": "La réorganisation institutionnelle sous l'Union française",
+                "illustration": "Constitution de 1946 et élévation de la Côte d'Ivoire au statut de Territoire d'Outre-Mer (TOM)",
+                "description": "La création de l'Assemblée territoriale et l'envoi de députés ivoiriens au Parlement français offrent une tribune politique majeure aux dirigeants africains au cœur des institutions de la Métropole."
+            },
+            {
+                "titre": "L'autonomie administrative via la Loi-cadre Defferre (1956)",
+                "illustration": "Création du Conseil de gouvernement local et instauration du collège unique au suffrage universel",
+                "description": "Cette réforme transfère le pouvoir exécutif local aux élus ivoiriens, permettant au PDCI-RDA de prendre en main la gestion effective des affaires publiques et des services administratifs."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "L'émergence d'une élite politique et la structuration du nationalisme",
+                "illustration": "Hégémonie électorale du PDCI-RDA dirigé par Félix Houphouët-Boigny",
+                "description": "Les réformes permettent l'apprentissage du jeu parlementaire et renforcent l’ancrage populaire des dirigeants locaux, transformant la protestation syndicale en un parti politique représentatif."
+            },
+            {
+                "titre": "De la Communauté de 1958 à l'indépendance de 1960",
+                "illustration": "Adoption massive du « OUI » au référendum de 1958 suivi de la proclamation de l'indépendance le 7 août 1960",
+                "description": "Bien que conçue par le général de Gaulle pour préserver le lien colonial, la Communauté franco-africaine sert de transition pacifique vers la souveraineté internationale complète."
+            },
+            {
+                "titre": "Une décolonisation négociée et l'héritage de la coopération",
+                "illustration": "Signature des accords de partenariat économique, culturel et militaire avec la France",
+                "description": "Contrairement aux ruptures conflictuelles observées ailleurs, le processus ivoirien débouche sur une indépendance dans la continuité, instaurant un modèle de développement fondé sur l'alliance franco-ivoirienne."
+            }
+        ]
+    },
+    {
+        "citation": "L'Algérie, c'est la France ; et la France ne reconnaîtra pas chez elle d’autre autorité que la sienne.",
+        "auteur": "François Mitterrand",
+        "source": "Discours devant la Commission des affaires étrangères (novembre 1954)",
+        "contexte": "Déclaration du ministre de l'Intérieur français au lendemain de la Toussaint rouge, illustrant le refus initial de la France de concéder l'indépendance à ce territoire statutairement départementalisé.",
+        "analyse_a": [
+            {
+                "titre": "Les origines et l'éveil du nationalisme algérien",
+                "illustration": "Massacres de Sétif et Guelma (8 mai 1945) et structuration des partis (MTLD, UDMA, Oulémas)",
+                "description": "Face aux profondes inégalités du système colonial, à la spoliation des terres et à la répression sanglante des manifestations de 1945, le mouvement nationaliste algérien se radicalise progressivement."
+            },
+            {
+                "titre": "Le déclenchement de la Guerre de libération nationale",
+                "illustration": "Insurrection de la « Toussaint rouge » (1er novembre 1954) et création du Front de Libération Nationale (FLN)",
+                "description": "Le FLN et son bras armé (ALN) optent pour la lutte armée afin de briser le statu quo colonial et d'imposer la question de la souveraineté algérienne sur la scène internationale."
+            },
+            {
+                "titre": "L'internationalisation du conflit et la pression sur la France",
+                "illustration": "Soutien des pays arabes, de l'URSS, du bloc des non-alignés et débats récurrents à l'ONU",
+                "description": "La cause algérienne gagne une vaste sympathie diplomatique mondiale, isolant la diplomatie française et transformant la guerre locale en une crise géopolitique majeure."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Une guerre asymétrique, violente et traumatique",
+                "illustration": "Bataille d'Alger (1957), usage de la torture, regroupements de populations et actions de l'OAS",
+                "description": "Le conflit se caractérise par une extrême violence militaire et civile qui déchire l'Algérie, provoque des centaines de milliers de victimes et fracture l'opinion publique internationale."
+            },
+            {
+                "titre": "La crise politique en France et le tournant gaulliste",
+                "illustration": "Chute de la IVe République le 13 mai 1958 et retour au pouvoir du Général de Gaulle",
+                "description": "L'impasse militaire et l'instabilité ministérielle provoquent l'effondrement du régime français ; de Gaulle évolue du slogan « L'Algérie française » vers la reconnaissance de l'autodétermination."
+            },
+            {
+                "titre": "Les Accords d'Évian et la naissance de la République algérienne",
+                "illustration": "Signature des Accords d'Évian (18 mars 1962) et proclamation de l'indépendance le 5 juillet 1962",
+                "description": "Après le référendum d'autodétermination, l'Algérie accède à la souveraineté nationale, marquée par l'exode massif des Pieds-Noirs et les débuts de la construction d'un État souverain."
+            }
+        ]
+    },
+    {
+        "citation": "La démocratie est le gouvernement du peuple, par le peuple, pour le peuple.",
+        "auteur": "Abraham Lincoln",
+        "source": "Discours de Gettysburg (1863)",
+        "contexte": "Définition classique et universelle posant les bases fondamentales de la souveraineté populaire et de la légitimité politique démocratique.",
+        "analyse_a": [
+            {
+                "titre": "La souveraineté populaire et le suffrage universel",
+                "illustration": "Organisation d'élections libres, transparentes et régulières",
+                "description": "Le pouvoir politique émane directement des citoyens qui désignent leurs représentants au terme de consultations électorales ouvertes et concurrentielles."
+            },
+            {
+                "titre": "La séparation stricte des pouvoirs",
+                "illustration": "Théorie de Montesquieu (Exécutif, Législatif, Judiciaire)",
+                "description": "L'organisation institutionnelle répartit les prérogatives de l'État entre différents organes indépendants pour éviter la concentration autoritaire du pouvoir."
+            },
+            {
+                "titre": "La garantie des libertés fondamentales et l'État de droit",
+                "illustration": "Déclaration universelle des droits de l'homme (1948) et prééminence de la Constitution",
+                "description": "Le système garantit la protection juridique des libertés individuelles et collectives (expression, presse, association, culte) face aux abus éventuels de l'État."
+            }
+        ],
+        "analyse_b": [
+            {
+                "titre": "Pluralisme politique et alternance démocratique",
+                "illustration": "Coexistence de plusieurs partis politiques et de sensibilités idéologiques diverses",
+                "description": "La démocratie libérale permet le libre débat d'idées et assure la possibilité d'une transition pacifique du pouvoir en fonction des choix électoraux du peuple."
+            },
+            {
+                "titre": "Limites socio-économiques et risque d'abstentionnisme",
+                "illustration": "Inégalités sociales, précarité et désintérêt croissant pour les urnes",
+                "description": "L'égalité juridique ne garantit pas l'égalité réelle, ce qui peut engendrer un sentiment de frustration, d'exclusion politique ou de perte de confiance des citoyens."
+            },
+            {
+                "titre": "Dérives démagogiques et déstabilisations contemporaines",
+                "illustration": "Désinformation sur les réseaux sociaux, populismes et poussée des extrémismes",
+                "description": "La liberté d'expression et l'ouverture du système peuvent être exploitées par des discours polarisants ou des ingérences, fragilisant la stabilité des institutions démocratiques."
+            }
+        ]
+    }
+]

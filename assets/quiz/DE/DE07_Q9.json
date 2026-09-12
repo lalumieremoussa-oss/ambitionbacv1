@@ -1,0 +1,332 @@
+{
+  "title": "DE07_Q9",
+  "id": "DE07_Q9",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l'heure 8:00 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünf",
+        "acht",
+        "halb",
+        "Es ist",
+        "zehn",
+        "sieben",
+        "vor",
+        "Uhr",
+        "nach",
+        "vier"
+      ],
+      "bonne réponse": "Es ist acht Uhr"
+    },
+    "question n°2": {
+      "question": "Quelle est l'heure 8:15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sieben",
+        "acht",
+        "ein",
+        "drei",
+        "vor",
+        "halb",
+        "nach",
+        "zehn",
+        "Viertel",
+        "Es ist",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist Viertel nach acht"
+    },
+    "question n°3": {
+      "question": "Quelle est l'heure 8:30 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "neun",
+        "halb",
+        "zwölf",
+        "nach",
+        "acht",
+        "sieben",
+        "vor",
+        "Viertel",
+        "Es ist",
+        "zehn"
+      ],
+      "bonne réponse": "Es ist halb neun"
+    },
+    "question n°4": {
+      "question": "Quelle est l'heure 8:45 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nach",
+        "ein",
+        "neun",
+        "zehn",
+        "fünf",
+        "halb",
+        "Es ist",
+        "Viertel",
+        "vor",
+        "acht",
+        "sieben"
+      ],
+      "bonne réponse": "Es ist Viertel vor neun"
+    },
+    "question n°5": {
+      "question": "Quelle est l'heure 12:00 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Mittag",
+        "Viertel",
+        "Mitternacht",
+        "Es ist",
+        "mittag",
+        "ein"
+      ],
+      "bonne réponse": "Es ist Mittag"
+    },
+    "question n°6": {
+      "question": "Quelle est l'heure 00:00 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Uhr",
+        "Mitternacht",
+        "Mittag",
+        "Es ist",
+        "acht",
+        "mittag"
+      ],
+      "bonne réponse": "Es ist Mitternacht"
+    },
+    "question n°7": {
+      "question": "Quelle est l'heure 5:00 du matin en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "pm",
+        "morgens",
+        "Uhr",
+        "Es ist",
+        "zehn",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist fünf Uhr morgens"
+    },
+    "question n°8": {
+      "question": "Quelle est l'heure 17:00 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "drei",
+        "nachmittags",
+        "morgens",
+        "Uhr",
+        "fünf",
+        "Es ist"
+      ],
+      "bonne réponse": "Es ist fünf Uhr nachmittags"
+    },
+    "question n°9": {
+      "question": "Quelle est l'heure 10:15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "nach",
+        "ein",
+        "neun",
+        "vor",
+        "halb",
+        "zehn",
+        "Es ist",
+        "elf",
+        "Viertel",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist Viertel nach zehn"
+    },
+    "question n°10": {
+      "question": "Quelle est l'heure 2:30 en lettres (en allemand, utilisant halb) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "halb",
+        "zwei",
+        "drei",
+        "vor",
+        "eins",
+        "vier",
+        "Viertel",
+        "nach",
+        "Es ist"
+      ],
+      "bonne réponse": "Es ist halb drei"
+    },
+    "question n°11": {
+      "question": "Quelle est l'heure 7:45 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "ein",
+        "nach",
+        "zehn",
+        "acht",
+        "vor",
+        "Es ist",
+        "eins",
+        "halb",
+        "sieben",
+        "Viertel",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist Viertel vor acht"
+    },
+    "question n°12": {
+      "question": "Quelle est l'heure 11:00 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vor",
+        "elf",
+        "Uhr",
+        "fünf",
+        "Es ist",
+        "zwölf",
+        "halb"
+      ],
+      "bonne réponse": "Es ist elf Uhr"
+    },
+    "question n°13": {
+      "question": "Quelle est l'heure 4:15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "Viertel",
+        "ein",
+        "drei",
+        "eins",
+        "vier",
+        "vor",
+        "halb",
+        "nach",
+        "Es ist",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist Viertel nach vier"
+    },
+    "question n°14": {
+      "question": "Quelle est l'heure 1:30 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwei",
+        "zehn",
+        "Viertel",
+        "eins",
+        "sechs",
+        "vor",
+        "drei",
+        "halb",
+        "nach",
+        "Es ist"
+      ],
+      "bonne réponse": "Es ist halb zwei"
+    },
+    "question n°15": {
+      "question": "Quelle est l'heure 3:45 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nach",
+        "vier",
+        "ein",
+        "zwei",
+        "vor",
+        "halb",
+        "drei",
+        "Es ist",
+        "zehn",
+        "Viertel",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist Viertel vor vier"
+    },
+    "question n°16": {
+      "question": "Quelle est l'heure 6:00 du soir en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Uhr",
+        "sechs",
+        "morgens",
+        "Es ist",
+        "sieben",
+        "abends"
+      ],
+      "bonne réponse": "Es ist sechs Uhr abends"
+    },
+    "question n°17": {
+      "question": "Quelle est l'heure 9:15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "acht",
+        "nach",
+        "ein",
+        "eins",
+        "zehn",
+        "vor",
+        "halb",
+        "neun",
+        "Es ist",
+        "Viertel",
+        "fünf"
+      ],
+      "bonne réponse": "Es ist Viertel nach neun"
+    },
+    "question n°18": {
+      "question": "Quelle est l'heure 11:30 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "halb",
+        "elf",
+        "sieben",
+        "zwölf",
+        "vor",
+        "Viertel",
+        "nach",
+        "Es ist",
+        "zehn"
+      ],
+      "bonne réponse": "Es ist halb zwölf"
+    },
+    "question n°19": {
+      "question": "Quelle est l'heure 5:45 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nach",
+        "sechs",
+        "ein",
+        "eins",
+        "vor",
+        "vier",
+        "halb",
+        "fünf",
+        "Es ist",
+        "zehn",
+        "Viertel"
+      ],
+      "bonne réponse": "Es ist Viertel vor sechs"
+    },
+    "question n°20": {
+      "question": "Quelle est l'heure 10:00 du matin en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Uhr",
+        "morgens",
+        "zwei",
+        "halb",
+        "nach",
+        "zehn",
+        "eins",
+        "elf",
+        "abends",
+        "Es ist",
+        "neun"
+      ],
+      "bonne réponse": "Es ist zehn Uhr"
+    }
+  }
+}

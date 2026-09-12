@@ -1,0 +1,207 @@
+
+{
+  "title": "Quiz 3",
+  "id": "HI007_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le rôle principal des partis politiques en Occident ?",
+      "réponses": {
+        "A": "Ils exécutent les lois votées par les assemblées élues.",
+        "B": "Ils organisent uniquement les campagnes électorales.",
+        "C": "Ils représentent les citoyens, animent le débat et conquièrent le pouvoir.",
+        "D": "Ils rédigent la Constitution et contrôlent l’armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels types de systèmes politiques trouve-t-on dans le monde occidental ?",
+      "réponses": {
+        "A": "Le système théocratique et le système communautaire.",
+        "B": "Le multipartisme (France, Italie) et le bipartisme (USA, GB, Japon).",
+        "C": "Le régime militaire et le régime de coalition unifiée.",
+        "D": "Le centralisme démocratique et la démocratie populaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Qui sont les autres acteurs majeurs de la vie politique en Occident ?",
+      "réponses": {
+        "A": "Les gouverneurs provinciaux et les chambres royales.",
+        "B": "Les syndicats, le patronat, la presse et les associations.",
+        "C": "Les tribunaux militaires et les entreprises d’État.",
+        "D": "Les églises, les familles royales et les chefs coutumiers."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Qu’appelle-t-on un groupe de pression ?",
+      "réponses": {
+        "A": "Un parti politique cherchant à obtenir la majorité.",
+        "B": "Une milice armée qui impose ses idées par la force.",
+        "C": "Une organisation apolitique qui influence les décisions politiques.",
+        "D": "Un média d’opinion contrôlé par l’exécutif."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pourquoi les groupes de pression sont-ils essentiels dans les démocraties ?",
+      "réponses": {
+        "A": "Ils garantissent la légalité des élections et rédigent les lois.",
+        "B": "Ils diffusent la propagande gouvernementale dans les médias.",
+        "C": "Ils défendent des intérêts collectifs et influencent les décisions publiques.",
+        "D": "Ils remplacent les partis politiques en période de crise."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quels sont les trois types de régimes démocratiques présents en Occident ?",
+      "réponses": {
+        "A": "Le régime autoritaire, le régime communautaire et le régime fédéral.",
+        "B": "Le régime présidentiel, le semi-présidentiel et le parlementaire.",
+        "C": "Le régime coutumier, le monarchique et le participatif.",
+        "D": "Le régime uninominal, proportionnel et majoritaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Comment fonctionne un régime présidentiel pur ?",
+      "réponses": {
+        "A": "Le président partage le pouvoir exécutif avec le parlement.",
+        "B": "Le président gouverne avec un roi qui détient un droit de veto.",
+        "C": "Le président exerce seul l’exécutif, sans dépendance du législatif.",
+        "D": "Le président est uniquement une figure symbolique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la caractéristique d’un régime semi-présidentiel ?",
+      "réponses": {
+        "A": "Le président nomme tous les députés du parlement.",
+        "B": "Le chef de l’État est élu par le parlement uniquement.",
+        "C": "Le président partage l’exécutif avec un Premier ministre responsable devant le parlement.",
+        "D": "Le gouvernement est totalement autonome vis-à-vis du parlement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "En régime parlementaire, quel est le rôle du chef de l’État ?",
+      "réponses": {
+        "A": "Il préside le conseil des ministres et nomme les députés.",
+        "B": "Il gouverne seul pendant les périodes électorales.",
+        "C": "Il est essentiellement symbolique, sans véritable pouvoir exécutif.",
+        "D": "Il rédige les lois et contrôle la justice."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelles sont les deux formes principales de régime parlementaire ?",
+      "réponses": {
+        "A": "République militaire et république monarchique.",
+        "B": "République communautaire et monarchie semi-présidentielle.",
+        "C": "République parlementaire et monarchie parlementaire.",
+        "D": "République autoritaire et monarchie constitutionnelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Dans le système bipartite, pourquoi le débat politique est-il intense ?",
+      "réponses": {
+        "A": "Parce que les deux partis contrôlent les médias officiels.",
+        "B": "Parce que deux partis alternent au pouvoir et concentrent les oppositions.",
+        "C": "Parce que les décisions sont prises uniquement par des technocrates.",
+        "D": "Parce que le parlement est souvent absent du processus décisionnel."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle d’un syndicat dans une démocratie occidentale ?",
+      "réponses": {
+        "A": "Représenter l’élite financière et faire pression pour abroger les lois sociales.",
+        "B": "Influencer le marché boursier au nom du gouvernement.",
+        "C": "Défendre les intérêts des travailleurs face aux employeurs.",
+        "D": "Superviser les entreprises publiques et imposer la concurrence."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi les ONG sont-elles considérées comme des acteurs politiques indirects ?",
+      "réponses": {
+        "A": "Parce qu’elles légifèrent à la place du parlement.",
+        "B": "Parce qu’elles participent aux élections comme candidats indépendants.",
+        "C": "Parce qu’elles influencent les politiques publiques sans faire partie du gouvernement.",
+        "D": "Parce qu’elles remplacent les institutions démocratiques en crise."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "En démocratie, à quoi sert la presse indépendante ?",
+      "réponses": {
+        "A": "À relayer uniquement les opinions des gouvernements élus.",
+        "B": "À contrôler les dépenses des partis politiques.",
+        "C": "À informer, critiquer, et permettre le débat d’idées.",
+        "D": "À censurer les propos allant à l’encontre de la majorité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Qu’est-ce qu’un contre-pouvoir ?",
+      "réponses": {
+        "A": "Une institution qui double les fonctions du parlement.",
+        "B": "Un acteur social capable de limiter ou de contester les décisions d’un pouvoir établi.",
+        "C": "Une police spéciale indépendante du ministère de l’intérieur.",
+        "D": "Un parti extrême qui refuse la Constitution en place."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "En régime parlementaire, que signifie la responsabilité politique du gouvernement ?",
+      "réponses": {
+        "A": "Le gouvernement peut gouverner sans tenir compte du parlement.",
+        "B": "Le gouvernement peut être renversé par un vote du parlement.",
+        "C": "Le chef de l’État peut remplacer le gouvernement par décret.",
+        "D": "Le gouvernement n’a de comptes à rendre qu’au peuple, pas aux institutions."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pourquoi le régime présidentiel américain est-il considéré comme un modèle ?",
+      "réponses": {
+        "A": "Parce qu’il sépare strictement les pouvoirs et protège les libertés.",
+        "B": "Parce qu’il garantit une neutralité politique totale.",
+        "C": "Parce qu’il centralise les trois pouvoirs dans la personne du président.",
+        "D": "Parce qu’il favorise les décisions rapides au détriment des débats."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Que représente la Chambre des représentants aux États-Unis ?",
+      "réponses": {
+        "A": "L’organe qui élit directement le président.",
+        "B": "Le conseil chargé d’élaborer les textes religieux nationaux.",
+        "C": "L’une des deux chambres du Congrès qui vote les lois.",
+        "D": "Un organe consultatif issu de la société civile."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est la spécificité du multipartisme en France ?",
+      "réponses": {
+        "A": "Un seul parti domine sans opposition significative.",
+        "B": "Les partis se succèdent dans un cadre autoritaire.",
+        "C": "Une multitude de partis participe à la vie politique, rendant les majorités complexes.",
+        "D": "Tous les partis sont issus du pouvoir militaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Dans une démocratie, pourquoi la séparation des pouvoirs est-elle essentielle ?",
+      "réponses": {
+        "A": "Pour garantir que chaque pouvoir collabore sans contrôle.",
+        "B": "Pour permettre à un seul pouvoir de centraliser la gouvernance.",
+        "C": "Pour donner au pouvoir judiciaire la primauté sur l’exécutif.",
+        "D": "Pour éviter les abus en répartissant les rôles entre des institutions indépendantes."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

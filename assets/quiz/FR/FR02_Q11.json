@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour l'art – Synthèse ultra-difficile (Série 4) – Trouve l'intrus",
+    "id": "FR031_Q2_APA4",
+    "questions": {
+        "question n°1": {
+            "question": "Œuvre : La Planète des singes de Pierre Boulle. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la division de l'Afrique par les puissances coloniales",
+                "B": "Est un récit d'anticipation et d'imaginaire",
+                "C": "Est un roman de science-fiction sur un monde inversé",
+                "D": "Propose une évasion hors du réel et du quotidien"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°2": {
+            "question": "Œuvre : Le Roman comique de Paul Scarron. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une œuvre de pur divertissement",
+                "B": "Met en scène des personnages extravagants et drôles",
+                "C": "Est un roman baroque mêlant humour et aventures",
+                "D": "Est une tragédie politique sur les dérives du pouvoir"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°3": {
+            "question": "Auteur : Bertolt Brecht (« L'affaire du théâtre est de divertir »). – Trouve l'intrus",
+            "reponses": {
+                "A": "L'affaire du théâtre est d'abord de distraire le public",
+                "B": "Le divertissement est une finalité légitime du théâtre",
+                "C": "Le plaisir du spectateur est essentiel à l'art dramatique",
+                "D": "Le dramaturge doit instruire et éveiller les consciences"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°4": {
+            "question": "Œuvre : On se chamaille pour un siège de Hyacinthe Kacou. – Trouve l'intrus",
+            "reponses": {
+                "A": "Dénonce la trahison des idéaux postcoloniaux africains",
+                "B": "Propose un théâtre de divertissement et de caricature",
+                "C": "Fait rire par ses situations comiques et absurdes",
+                "D": "Est une comédie ivoirienne sur les querelles ridicules"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°5": {
+            "question": "Œuvre : Les Fleurs du Mal de Charles Baudelaire. – Trouve l'intrus",
+            "reponses": {
+                "A": "Explore le mal et la beauté sans visée morale",
+                "B": "Est un voyage poétique dans l'imaginaire",
+                "C": "Est un recueil de poèmes engagés contre la colonisation",
+                "D": "Invite à une évasion spirituelle et esthétique"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°6": {
+            "question": "Poème : Minerai noir de René Depestre. – Trouve l'intrus",
+            "reponses": {
+                "A": "Exalte l'amour comme force de renaissance créatrice",
+                "B": "Propose une vision érotique et spirituelle de l'aimée",
+                "C": "Fustige l'oppression militaire et la dictature en Afrique",
+                "D": "Contient le vers « Ton délice à chaque instant me recrée »"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°7": {
+            "question": "Œuvre : Demain j'arrête de Gilles Legardinier. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une comédie romantique sur la vie parisienne",
+                "B": "Critique les dérives du pouvoir et la dictature",
+                "C": "Propose un divertissement sentimental et humoristique",
+                "D": "Met en scène Julie obsédée par son mystérieux voisin"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°8": {
+            "question": "Œuvre : Trois moments dans la vie et l'amour d'une femme d'Agnès Echène. – Trouve l'intrus",
+            "reponses": {
+                "A": "Montre comment l'amour se transforme avec l'âge",
+                "B": "Explore l'amour à 20, 40 et 60 ans chez une femme",
+                "C": "Est une pièce de théâtre sur les sentiments féminins",
+                "D": "Dénonce les sacrifices humains dans les traditions"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°9": {
+            "question": "Œuvre : Le Sublime sacrifice de François d'Assise N'Dah. – Trouve l'intrus",
+            "reponses": {
+                "A": "Célèbre l'amour comme source de plénitude",
+                "B": "Rend hommage à la beauté féminine à travers Taloua Klaman",
+                "C": "Critique l'avarice et l'obsession de l'argent",
+                "D": "Exalte la joie de vivre et les sentiments humains"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°10": {
+            "question": "Auteur : Bertolt Brecht. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un dramaturge allemand du XXe siècle",
+                "B": "A écrit Le Petit Organon sur l'esthétique théâtrale",
+                "C": "A célébré la colonisation comme un progrès pour l'Afrique",
+                "D": "A influencé le théâtre épique et la distanciation"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°11": {
+            "question": "Auteur : Paul Scarron. – Trouve l'intrus",
+            "reponses": {
+                "A": "A écrit Le Roman comique sur des comédiens ambulants",
+                "B": "A dénoncé les abus coloniaux dans ses romans",
+                "C": "Est connu pour son style léger et fantaisiste",
+                "D": "Propose une littérature de divertissement et d'humour"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°12": {
+            "question": "Auteur : Hyacinthe Kacou. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose un théâtre de divertissement et de caricature",
+                "B": "Met en scène des personnages ridicules et querelleurs",
+                "C": "Est un dramaturge ivoirien de comédies burlesques",
+                "D": "A dénoncé l'excision rituelle dans ses comédies"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Argument : La fonction esthétique (Verlaine). – Trouve l'intrus",
+            "reponses": {
+                "A": "L'engagement politique est la priorité du poète",
+                "B": "Le plaisir esthétique prime sur le message moral",
+                "C": "La poésie doit d'abord charmer par sa musicalité",
+                "D": "La suggestion et le flou sont préférables à l'éloquence"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Argument : La fonction ludique (Boulle). – Trouve l'intrus",
+            "reponses": {
+                "A": "Les récits de science-fiction transportent hors du réel",
+                "B": "Le roman doit instruire et éduquer le lecteur",
+                "C": "L'imaginaire est un territoire de liberté créative",
+                "D": "La littérature permet de s'évader dans l'imaginaire"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°15": {
+            "question": "Argument : La fonction lyrique (Rousseau). – Trouve l'intrus",
+            "reponses": {
+                "A": "Le lyrisme est inutile pour la compréhension du monde",
+                "B": "La subjectivité est au cœur de la création lyrique",
+                "C": "Les Confessions sont un modèle d'expression de soi",
+                "D": "Les émotions personnelles sont une source d'inspiration"
+            },
+            "bonne reponse": "A"
+        }
+    }
+}

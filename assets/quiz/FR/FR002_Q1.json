@@ -1,0 +1,141 @@
+{
+  "title": "Quiz 1 - Partie A",
+  "id": "FR002_Q1_A",
+  "questions": {
+    "question n°1": {
+      "question": "« Ses yeux verts ressemblaient à deux pures émeraudes. » Quelle est la figure de style ?",
+      "réponses": {
+        "A": "Métaphore",
+        "B": "Comparaison",
+        "C": "Périphrase"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle figure remplace un mot par une expression qui le définit, comme 'La langue de Shakespeare' ?",
+      "réponses": {
+        "A": "Périphrase",
+        "B": "Synecdoque",
+        "C": "Allégorie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "« La forêt gémit sous le vent. » Il s'agit d'une :",
+      "réponses": {
+        "A": "Métonymie",
+        "B": "Métaphore",
+        "C": "Personnification"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "L'expression 'Boire un verre' est un exemple de :",
+      "réponses": {
+        "A": "Métonymie",
+        "B": "Comparaison",
+        "C": "Allégorie"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Laquelle de ces figures utilise obligatoirement un outil comme 'semblable à' ou 'pareil à' ?",
+      "réponses": {
+        "A": "La métaphore",
+        "B": "La comparaison",
+        "C": "La personnification"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "« Les voiles disparurent à l’horizon. » Ici, 'voiles' désigne les bateaux. C'est une :",
+      "réponses": {
+        "A": "Synecdoque",
+        "B": "Périphrase",
+        "C": "Personnification"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Comment appelle-t-on une idée abstraite représentée sous une forme concrète (ex: La Liberté) ?",
+      "réponses": {
+        "A": "Une métaphore",
+        "B": "Une allégorie",
+        "C": "Une métonymie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "« Gaston est aussi aimable qu'une porte de prison. » Quel est l'outil de comparaison ?",
+      "réponses": {
+        "A": "Gaston",
+        "B": "Aimable",
+        "C": "Aussi... que"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Une métaphore se distingue d'une comparaison car :",
+      "réponses": {
+        "A": "Elle n'a pas d'outil de comparaison",
+        "B": "Elle n'utilise que des êtres vivants",
+        "C": "Elle est toujours une expression lexicalisée"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "L'expression 'Un cœur de pierre' est considérée par le document comme :",
+      "réponses": {
+        "A": "Une périphrase",
+        "B": "Un cliché",
+        "C": "Une allégorie"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Dans quel cas utilise-t-on souvent une majuscule pour symboliser une idée ?",
+      "réponses": {
+        "A": "L'allégorie",
+        "B": "La métonymie",
+        "C": "La comparaison"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "La synecdoque est un cas particulier de :",
+      "réponses": {
+        "A": "La périphrase",
+        "B": "La métonymie",
+        "C": "La métaphore"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "« La terre est bleue comme une orange. » (Eluard) est une métaphore car :",
+      "réponses": {
+        "A": "Elle utilise des termes au sens figuré sans outil comparatif direct de ressemblance",
+        "B": "Elle remplace un mot par un autre lien logique",
+        "C": "Elle donne des traits humains à la terre"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L'expression 'Fondre en larmes' est :",
+      "réponses": {
+        "A": "Une métonymie",
+        "B": "Une expression lexicalisée",
+        "C": "Une périphrase"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Identifier la figure : 'Le fer' pour désigner 'une épée'.",
+      "réponses": {
+        "A": "Comparaison",
+        "B": "Personnification",
+        "C": "Synecdoque (matière pour l'objet)"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

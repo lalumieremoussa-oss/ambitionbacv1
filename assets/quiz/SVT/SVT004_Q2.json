@@ -1,0 +1,292 @@
+{
+  "title": "Quiz 2",
+  "id": "SVT004_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est l'objectif principal de l'expérience du professeur des SVT mentionnée ?",
+      "réponses": {
+        "A": "Expliquer la structure du muscle.",
+        "B": "Comprendre le mécanisme de la contraction musculaire.",
+        "C": "Établir la relation entre le nerf et le muscle.",
+        "D": "Mesurer l'intensité de la stimulation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Selon l'analyse des résultats, comment se positionne la secousse musculaire par rapport au potentiel d'action ?",
+      "réponses": {
+        "A": "Elle suit le potentiel d'action.",
+        "B": "Elle précède le potentiel d'action.",
+        "C": "Elle est simultanée au potentiel d'action.",
+        "D": "Elle n'a aucun lien avec le potentiel d'action."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles sont les trois phases qui composent la secousse musculaire ?",
+      "réponses": {
+        "A": "Latence, dépolarisation, repolarisation.",
+        "B": "Contraction, relâchement, fatigue.",
+        "C": "Temps de latence, phase de contraction, phase de relâchement.",
+        "D": "Sommation, tétanos, récupération."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Que représente le temps de latence de la secousse musculaire ?",
+      "réponses": {
+        "A": "Le temps de contraction maximale du muscle.",
+        "B": "Le temps mis par l'influx nerveux pour parvenir au muscle.",
+        "C": "Le temps de relâchement complet du muscle.",
+        "D": "Le temps de propagation du potentiel d'action."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La phase de contraction de la secousse musculaire est caractérisée par :",
+      "réponses": {
+        "A": "L'allongement rapide du muscle.",
+        "B": "La diminution rapide de la longueur du muscle.",
+        "C": "La reprise de la position initiale du muscle.",
+        "D": "L'absence de mouvement musculaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Vrai ou Faux : La phase de relâchement est le moment où le muscle reprend sa position initiale.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "La stimulation apportée fait naître un message nerveux (le .....A.....) qui est conduit jusqu’à la .....B..... et de la moelle épinière au .....C..... provoquant ainsi la contraction musculaire.",
+      "réponses": {
+        "A": "A: potentiel de repos, B: fibre nerveuse, C: nerf",
+        "B": "A: potentiel d'action nerveux, B: moelle épinière, C: muscle",
+        "C": "A: influx chimique, B: synapse, C: tendon",
+        "D": "A: secousse musculaire, B: synapse, C: cerveau"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Pourquoi la première stimulation (S1) ne provoque-t-elle aucune réponse du muscle ?",
+      "réponses": {
+        "A": "Elle est supraliminaire.",
+        "B": "Elle est seuille.",
+        "C": "Elle est infraliminaire.",
+        "D": "Elle est trop longue."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Comment est qualifiée la stimulation S2 qui déclenche la plus petite réponse du muscle ?",
+      "réponses": {
+        "A": "Infraliminaire.",
+        "B": "Seuille.",
+        "C": "Supraliminaire.",
+        "D": "Maximale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Pourquoi observe-t-on des secousses musculaires d'amplitudes croissantes de la stimulation S2 à S5 ?",
+      "réponses": {
+        "A": "Le nombre de fibres musculaires recrutées diminue.",
+        "B": "L'intensité de la stimulation diminue.",
+        "C": "Le nombre de fibres musculaires recrutées augmente et les réponses s'additionnent.",
+        "D": "La fatigue musculaire s'installe."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel terme est utilisé pour décrire le phénomène d'addition des réponses musculaires lorsque le nombre de fibres excitées augmente ?",
+      "réponses": {
+        "A": "Le tétanos.",
+        "B": "La fusion.",
+        "C": "La sommation.",
+        "D": "Le temps de latence."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "De S5 à S8, le myogramme enregistre des secousses musculaires isolées de même amplitude malgré l'intensité croissante des stimulations. Pourquoi ?",
+      "réponses": {
+        "A": "Les fibres musculaires sont fatiguées.",
+        "B": "Toutes les fibres musculaires sont déjà stimulées.",
+        "C": "Le potentiel d'action a atteint son maximum.",
+        "D": "La stimulation est devenue infraliminaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Une stimulation infraliminaire peut provoquer une petite réponse du muscle.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : La sommation implique une diminution du nombre de fibres musculaires recrutées.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La stimulation S2 donne la plus petite réponse du muscle car elle est .....A...... De S2 à S5, on obtient des secousses musculaires d’amplitudes croissantes car au fur et à mesure que l’intensité de la stimulation augmente, le nombre de fibres musculaires recrutées .....B..... et les réponses s’.....C...... C’est la .....D......",
+      "réponses": {
+        "A": "A: infraliminaire, B: diminue, C: se séparent, D: fatigue",
+        "B": "A: seuille, B: augmente, C: additionnent, D: sommation",
+        "C": "A: maximale, B: reste constant, C: s'annulent, D: tétanos",
+        "D": "A: supraliminaire, B: fluctue, C: s'inhibent, D: fusion"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Lors de deux stimulations successives, de quoi dépendent l'amplitude et la durée de la réponse du muscle ?",
+      "réponses": {
+        "A": "De la température ambiante.",
+        "B": "Du diamètre de la fibre nerveuse.",
+        "C": "Du délai qui sépare les deux stimulations.",
+        "D": "De la nature du muscle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Dans quel cas les deux réponses musculaires fusionnent-elles partiellement ?",
+      "réponses": {
+        "A": "Lorsque la deuxième stimulation est portée pendant la phase de contraction de la première secousse.",
+        "B": "Lorsque la deuxième stimulation est portée pendant la phase de relâchement de la première secousse.",
+        "C": "Lorsque les deux stimulations sont simultanées.",
+        "D": "Lorsque les stimulations sont infraliminaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Dans quel cas les deux réponses musculaires fusionnent-elles totalement ?",
+      "réponses": {
+        "A": "Lorsque la deuxième stimulation est portée pendant la phase de relâchement de la première secousse.",
+        "B": "Lorsque la deuxième stimulation est portée pendant la phase de contraction de la première secousse.",
+        "C": "Lorsque le délai entre les stimulations est très long.",
+        "D": "Lorsque l'amplitude de la première stimulation est faible."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : L'amplitude et la durée de la réponse sont moins élevées dans les cas de fusion partielle ou totale par rapport à une secousse isolée.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : Une fusion totale signifie que la deuxième stimulation a été portée pendant la phase de relâchement de la première secousse.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°21": {
+      "question": "Lorsque la deuxième stimulation est portée pendant la phase de .....A..... de la première secousse, les deux réponses fusionnent .....B...... Lorsque la deuxième stimulation est portée pendant la phase de .....C..... de la première secousse, les deux réponses fusionnent .....D......",
+      "réponses": {
+        "A": "A: contraction, B: partiellement, C: relâchement, D: totalement",
+        "B": "A: relâchement, B: totalement, C: contraction, D: partiellement",
+        "C": "A: relâchement, B: partiellement, C: contraction, D: totalement",
+        "D": "A: latence, B: totalement, C: relâchement, D: partiellement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Une réponse sous forme d'un plateau ou de dents de scie est appelée :",
+      "réponses": {
+        "A": "Tétanos parfait.",
+        "B": "Tétanos imparfait.",
+        "C": "Secousse isolée.",
+        "D": "Sommation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Le tétanos imparfait est obtenu si chaque stimulation atteint le muscle pendant :",
+      "réponses": {
+        "A": "La phase de contraction de la secousse précédente.",
+        "B": "La phase de relâchement de la secousse précédente.",
+        "C": "Le temps de latence de la secousse précédente.",
+        "D": "La phase de récupération complète."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°24": {
+      "question": "Une réponse sous la forme d'un plateau lisse est appelée :",
+      "réponses": {
+        "A": "Tétanos imparfait.",
+        "B": "Tétanos parfait.",
+        "C": "Secousse unique.",
+        "D": "Fusion partielle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°25": {
+      "question": "Le tétanos parfait est obtenu si chaque stimulation atteint le muscle pendant :",
+      "réponses": {
+        "A": "La phase de relâchement de la secousse précédente.",
+        "B": "Le temps de latence.",
+        "C": "La phase de contraction de la secousse précédente.",
+        "D": "Une phase de repos prolongé."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°26": {
+      "question": "Vrai ou Faux : Un tétanos parfait est obtenu si chaque stimulation atteint le muscle pendant la phase de relâchement de la secousse précédente.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°27": {
+      "question": "Vrai ou Faux : Le tétanos est obtenu suite à une série de stimulations supraliminaires.",
+      "réponses": {
+        "A": "VRAI.",
+        "B": "FAUX."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°28": {
+      "question": "Quelles sont les conséquences des stimulations répétées sur le temps de latence et la phase de relâchement du muscle ?",
+      "réponses": {
+        "A": "Ils raccourcissent.",
+        "B": "Ils s'allongent.",
+        "C": "Ils restent constants.",
+        "D": "Ils disparaissent."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°29": {
+      "question": "En cas de fatigue musculaire due à des stimulations répétées, que se passe-t-il avec l'amplitude de la réponse ?",
+      "réponses": {
+        "A": "Elle augmente.",
+        "B": "Elle diminue.",
+        "C": "Elle reste constante.",
+        "D": "Elle devient irrégulière."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°30": {
+      "question": "Des stimulations répétées entraînent la .....A..... ; le temps de latence et la phase de .....B..... s’allongent et l’.....C..... diminue.",
+      "réponses": {
+        "A": "A: récupération, B: contraction, C: durée",
+        "B": "A: sommation, B: tension, C: force",
+        "C": "A: fatigue musculaire, B: relâchement, C: amplitude",
+        "D": "A: hyperactivité, B: stimulation, C: fréquence"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

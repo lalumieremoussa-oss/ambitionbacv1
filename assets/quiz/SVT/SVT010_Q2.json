@@ -1,0 +1,186 @@
+{
+  "id": "SVT010_Q2",
+  "title": "Quiz 2: Transmission des caractères et groupes sanguins",
+  "questions": {
+    "question n°1": {
+      "question": "Cet arbre généalogique montre que chaque enfant malade a au moins un parent malade.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "La maladie se transmet sans saut de génération.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": "L’allèle responsable de la maladie est récessif.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "L’allèle responsable de la maladie est lié au sexe.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "L’allèle responsable est porté par un autosome, car la transmission père-fille n’est pas respectée. En effet, le père 2 est malade et pourtant certaines de ses filles (6 et 7) sont saines.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Tous les individus sains dans l’arbre sont homozygotes s//s.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Les parents 1 et 2 sont homozygotes S//S.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Les parents 1 et 2 sont hétérozygotes S//s, car ils ont des enfants sains et des enfants malades.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Les enfants 4 et 5 ne sont pas forcément hétérozygotes S//s.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Les enfants 4 et 5 peuvent être soit S//s soit S//S, car leurs deux parents sont hétérozygotes.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Les enfants 11 à 18 sont tous malades parce que leur mère est infidèle.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comme tous les enfants de la femme 9 sont malades, alors elle est homozygote S//S.",
+      "image": "assets/images/svt/mono(3).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "Les parents I1 et I2, respectivement du groupe A et B, ont quatre enfants dont un de groupe AB. Cela montre qu'aucun de ces deux allèles n’est dominant sur l’autre.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Les allèles A et B sont codominants.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "L’enfant II1 est homozygote. Il reçoit l’allèle A de sa mère et l’allèle B de son père.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Le groupe O de l’enfant II2 prouve que les parents portent chacun un allèle O sous forme masquée.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "La mère I1 est génotypée A//O.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Le père I2 est génotypé B//O.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Le garçon II2 est homozygote O//O.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Les enfants II3 et II4 sont homozygotes A//A et B//B.",
+      "image": "assets/images/svt/mono(4).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

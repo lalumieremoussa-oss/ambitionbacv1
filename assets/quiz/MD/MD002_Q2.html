@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Acides Forts et Mélanges</title>
+
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--gris-fond);
+            margin: 0;
+            padding: 15px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+        }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        .question-card {
+            background: var(--blanc);
+            margin-bottom: 25px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .exercice-tag {
+            background: var(--orange-ivoire);
+            color: white;
+            padding: 4px 12px;
+            border-radius: 5px;
+            font-size: 0.8rem;
+            font-weight: bold;
+            margin-bottom: 12px;
+            display: inline-block;
+        }
+
+        .question-text {
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin-bottom: 15px;
+            display: block;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 12px;
+            margin: 8px 0;
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .option:hover {
+            background: #fff8f0;
+            border-color: var(--orange-ivoire);
+        }
+
+        input[type="radio"] {
+            margin-right: 15px;
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.2);
+        }
+
+        .correct {
+            border-left: 8px solid var(--vert-ivoire) !important;
+            background: #e8f5e9;
+        }
+
+        .wrong {
+            border-left: 8px solid #f44336 !important;
+            background: #ffebee;
+        }
+
+        .btn-submit {
+            display: block;
+            width: 100%;
+            padding: 20px;
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            font-size: 1.2rem;
+            cursor: pointer;
+            margin: 40px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-box">
+            <h1>EXERCICES D'APPLICATION</h1>
+            <p>Ne vous précipitez pas pour cocher les réponses comme s'il s'agissait d'un simple jeu. Prenez le temps de
+                faire les calculs au brouillon avant de choisir,
+                car c'est cet entraînement qui vous rendra plus fort.</p>
+        </div>
+
+        <div id="quizForm" class="tex2jax_process"></div>
+
+        <button id="submitBtn" class="btn-submit" onclick="corriger()">Vérifier mes réponses</button>
+    </div>
+
+    <script>
+        const data =
+            [
+                {
+                    "ex": "Concepts de base",
+                    "q": "Pour sécuriser les nouveaux casiers du lycée, chaque élève doit créer un code composé de 3 chiffres (choisis parmi 0, 1, 2, 3, 4, 5, 6, 7, 8, 9) suivis de 2 lettres (choisies parmi les voyelles uniquement : A, E, I, O, U, Y).  Le choix d'un code où l'ordre des chiffres et des lettres compte est-il une combinaison ou une p-liste ?",
+                    "options": { "A": "Une combinaison", "B": "Une p-liste", "C": "Un ensemble", "D": "Une permutation" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Calcul du total",
+                    "q": "Combien de codes différents peut-on former au total (répétition autorisée) ?",
+                    "options": { "A": "36 000", "B": "1 000 000", "C": "15 600", "D": "26 000" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Chiffres distincts",
+                    "q": "Si les 3 chiffres doivent être distincts (sans répétition), combien de combinaisons de chiffres existe-t-il ?",
+                    "options": { "A": "1 000", "B": "720", "C": "120", "D": "504" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Lettres distinctes",
+                    "q": "Combien y a-t-il de paires de lettres (les 2 lettres) si la répétition est interdite ?",
+                    "options": { "A": "36", "B": "30", "C": "25", "D": "15" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Restrictions",
+                    "q": "Combien de codes commencent par le chiffre '7' ?",
+                    "options": { "A": "3 600", "B": "100", "C": "360", "D": "1 200" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Restrictions",
+                    "q": "Combien de codes se terminent par 'AA' ?",
+                    "options": { "A": "100", "B": "1 000", "C": "10", "D": "3 600" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Codes pairs",
+                    "q": "Combien de codes ont un dernier chiffre pair (0, 2, 4, 6, 8) ?",
+                    "options": { "A": "18 000", "B": "5 000", "C": "36 000", "D": "7 200" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Codes miroirs",
+                    "q": "Combien de codes utilisent le même chiffre 3 fois (ex: 555-AE) ?",
+                    "options": { "A": "360", "B": "10", "C": "60", "D": "3 600" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Probabilités",
+                    "q": "Quelle est la probabilité de tomber sur le code '000-AA' par hasard ?",
+                    "options": { "A": "1/1 000", "B": "1/36 000", "C": "1/36", "D": "1/10 000" },
+                    "r": "B"
+                },
+                {
+                    "ex": "Analyse combinatoire",
+                    "q": "Combien de codes ne contiennent aucune voyelle 'A' ?",
+                    "options": { "A": "25 000", "B": "30 000", "C": "20 000", "D": "15 000" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Analyse combinatoire",
+                    "q": "Combien de codes utilisent uniquement les chiffres 1, 2 et 3 ?",
+                    "options": { "A": "972", "B": "27", "C": "36", "D": "1 000" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Nombres spécifiques",
+                    "q": "Combien de codes forment un nombre de 3 chiffres supérieur à 800 (ex: 801, 802...) ?",
+                    "options": { "A": "7 200", "B": "3 600", "C": "6 000", "D": "8 000" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Logique",
+                    "q": "Si on interdit le chiffre 0 en première position, combien de codes reste-t-il ?",
+                    "options": { "A": "32 400", "B": "36 000", "C": "28 000", "D": "35 000" },
+                    "r": "A"
+                },
+                {
+                    "ex": "Combinaison vs Arrangement",
+                    "q": "Pour choisir les 2 lettres parmi 6 sans importance de l'ordre, quel outil utilise-t-on ?",
+                    "options": { "A": "p-liste", "B": "Arrangement", "C": "Combinaison", "D": "Factorielle" },
+                    "r": "C"
+                },
+                {
+                    "ex": "Synthèse",
+                    "q": "Combien de codes ont exactement 3 chiffres identiques et 2 lettres identiques ?",
+                    "options": { "A": "60", "B": "16", "C": "360", "D": "100" },
+                    "r": "A"
+                }
+            ]
+            ;
+        const form = document.getElementById('quizForm');
+        let htmlFinal = "";
+        data.forEach((item, i) => {
+            let opts = '';
+            for (let key in item.options) {
+                opts += `
+            <label class="option">
+                <input type="radio" name="q${i}" value="${key}">
+                <span><b>${key})</b> $${item.options[key]}$</span>
+            </label>`;
+            }
+            htmlFinal += `
+        <div class="question-card" id="card${i}">
+            <span class="exercice-tag">Exercice</span>
+            <span class="question-text">${i + 1}. ${item.q}</span>
+            <div class="options-container">${opts}</div>
+            <div id="feedback${i}" class="feedback"></div>
+        </div>`;
+        });
+
+        form.innerHTML = htmlFinal;
+
+        if (window.MathJax) {
+            MathJax.typesetPromise();
+        }
+
+        function corriger() {
+            let score = 0;
+            const total = data.length;
+
+            data.forEach((item, i) => {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                const card = document.getElementById(`card${i}`);
+                const feedback = document.getElementById(`feedback${i}`);
+
+                if (selected && selected.value === item.r) {
+                    score++;
+                    card.classList.add("correct");
+                } else {
+                    card.classList.add("wrong");
+                    feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+                }
+                document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+            });
+
+            const btn = document.getElementById('submitBtn');
+            btn.disabled = true;
+            btn.innerHTML = `Résultat : ${score} / ${total}`;
+
+            // ✅ Envoi identique au deuxième quiz
+            if (window.ExerciceChannel) {
+                window.ExerciceChannel.postMessage(JSON.stringify({
+                    "score": score,
+                    "total": total
+                }));
+            }
+
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+
+</body>
+
+</html>

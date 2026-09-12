@@ -1,0 +1,156 @@
+{
+  "title": "DE07_Q2",
+  "id": "DE07_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Comment écrit-on le chiffre 1 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "eins"
+    },
+    "question n°2": {
+      "question": "Comment écrit-on le chiffre 3 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "drei"
+    },
+    "question n°3": {
+      "question": "Comment écrit-on le chiffre 5 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünf"
+    },
+    "question n°4": {
+      "question": "Comment écrit-on le chiffre 7 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sieben"
+    },
+    "question n°5": {
+      "question": "Comment écrit-on le chiffre 9 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neun"
+    },
+    "question n°6": {
+      "question": "Comment écrit-on le chiffre 2 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwei"
+    },
+    "question n°7": {
+      "question": "Comment écrit-on le chiffre 4 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vier"
+    },
+    "question n°8": {
+      "question": "Comment écrit-on le chiffre 6 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechs"
+    },
+    "question n°9": {
+      "question": "Comment écrit-on le chiffre 8 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "acht"
+    },
+    "question n°10": {
+      "question": "Comment écrit-on le chiffre 10 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zehn"
+    },
+    "question n°11": {
+      "question": "Comment écrit-on le nombre 11 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "elf"
+    },
+    "question n°12": {
+      "question": "Comment écrit-on le nombre 13 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "dreizehn"
+    },
+    "question n°13": {
+      "question": "Comment écrit-on le nombre 15 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "fünfzehn"
+    },
+    "question n°14": {
+      "question": "Comment écrit-on le nombre 17 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "siebzehn"
+    },
+    "question n°15": {
+      "question": "Comment écrit-on le nombre 19 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "neunzehn"
+    },
+    "question n°16": {
+      "question": "Comment écrit-on le nombre 12 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwölf"
+    },
+    "question n°17": {
+      "question": "Comment écrit-on le nombre 14 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "vierzehn"
+    },
+    "question n°18": {
+      "question": "Comment écrit-on le nombre 16 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "sechzehn"
+    },
+    "question n°19": {
+      "question": "Comment écrit-on le nombre 18 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "achtzehn"
+    },
+    "question n°20": {
+      "question": "Comment écrit-on le nombre 20 en allemand ?",
+      "type": "short_answer",
+      "bonne réponse": "zwanzig"
+    },
+    "question n°21": {
+      "question": "Écrivez en lettres : 1 + 2 = 3",
+      "type": "short_answer",
+      "bonne réponse": "drei"
+    },
+    "question n°22": {
+      "question": "Écrivez en lettres : 5 + 5 = 10",
+      "type": "short_answer",
+      "bonne réponse": "zehn"
+    },
+    "question n°23": {
+      "question": "Écrivez en lettres : 8 + 1 = 9",
+      "type": "short_answer",
+      "bonne réponse": "neun"
+    },
+    "question n°24": {
+      "question": "Écrivez en lettres : 20 - 10 = 10",
+      "type": "short_answer",
+      "bonne réponse": "zehn"
+    },
+    "question n°25": {
+      "question": "Écrivez en lettres : 6 + 7 = 13",
+      "type": "short_answer",
+      "bonne réponse": "dreizehn"
+    },
+    "question n°26": {
+      "question": "Écrivez en lettres : 10 + 10 = 20",
+      "type": "short_answer",
+      "bonne réponse": "zwanzig"
+    },
+    "question n°27": {
+      "question": "Écrivez en lettres : 15 - 3 = 12",
+      "type": "short_answer",
+      "bonne réponse": "zwölf"
+    },
+    "question n°28": {
+      "question": "Écrivez en lettres : 11 + 4 = 15",
+      "type": "short_answer",
+      "bonne réponse": "fünfzehn"
+    },
+    "question n°29": {
+      "question": "Écrivez en lettres : 9 + 8 = 17",
+      "type": "short_answer",
+      "bonne réponse": "siebzehn"
+    },
+    "question n°30": {
+      "question": "Écrivez en lettres : 19 - 1 = 18",
+      "type": "short_answer",
+      "bonne réponse": "achtzehn"
+    }
+  }
+}

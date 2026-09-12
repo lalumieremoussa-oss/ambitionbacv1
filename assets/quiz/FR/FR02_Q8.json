@@ -1,0 +1,156 @@
+{
+    "title": "L'Art pour l'art – Fonctions esthétique & imagination (Série 1) – Trouve l'intrus",
+    "id": "FR028_Q2_APA1",
+    "questions": {
+        "question n°1": {
+            "question": "Auteur : Paul Verlaine (Art Poétique). – Trouve l'intrus",
+            "reponses": {
+                "A": "La beauté du style est une fin en soi artistique",
+                "B": "« De la musique avant toute chose » est son credo",
+                "C": "La poésie doit d'abord charmer par sa musicalité",
+                "D": "L'engagement politique est la priorité absolue du poète"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°2": {
+            "question": "Auteur : Eugène Ionesco (Note et Contre-Note). – Trouve l'intrus",
+            "reponses": {
+                "A": "« Je n'ai pas de message à livrer » est sa position",
+                "B": "L'art n'a rien à voir avec les doctrines politiques",
+                "C": "Il refuse d'être un prédicateur ou un moraliste",
+                "D": "L'écrivain doit dénoncer les injustices coloniales dans ses pièces"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°3": {
+            "question": "Auteur : Ahmadou Kourouma (« Ce qui compte, c'est le plaisir du texte »). – Trouve l'intrus",
+            "reponses": {
+                "A": "La jouissance esthétique du lecteur est essentielle",
+                "B": "L'écrivain doit s'engager politiquement avant toute chose",
+                "C": "Le style et la beauté de l'écriture sont des fins en soi",
+                "D": "La lecture doit être une expérience agréable"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°4": {
+            "question": "Auteur : Jean Giraudoux (« Le théâtre, c'est d'être réel dans l'irréel »). – Trouve l'intrus",
+            "reponses": {
+                "A": "L'illusion théâtrale repose sur une part de rêve",
+                "B": "L'irréel au théâtre permet d'approfondir le réel",
+                "C": "Le dramaturge doit dénoncer les injustices sociales",
+                "D": "La scène crée une illusion qui reflète pourtant le vrai"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°5": {
+            "question": "Auteur : Albert Camus (« Le réalisme ne peut se passer d'un minimum de subjectivité »). – Trouve l'intrus",
+            "reponses": {
+                "A": "Toute représentation du réel est teintée de subjectivité",
+                "B": "Le réalisme est une copie exacte du réel sans aucune subjectivité",
+                "C": "L'imaginaire et le réel sont indissociables dans l'art",
+                "D": "La subjectivité est une part nécessaire de la création"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°6": {
+            "question": "Auteur : Marguerite Yourcenar (« Faire de la poésie, c'est mentir, mais bien »). – Trouve l'intrus",
+            "reponses": {
+                "A": "L'imagination transforme le réel en œuvre d'art",
+                "B": "L'invention poétique est plus vraie que le réel brut",
+                "C": "La poésie doit avant tout instruire et transmettre un savoir moral",
+                "D": "La beauté du mensonge révèle une vérité esthétique"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°7": {
+            "question": "Œuvre : La Chanson de Roland (épopée médiévale). – Trouve l'intrus",
+            "reponses": {
+                "A": "Critique les dérives du pouvoir militaire en Afrique",
+                "B": "Propose une évasion dans l'héroïsme et la bravoure",
+                "C": "Met en scène Roland et les combats contre les Sarrasins",
+                "D": "Est un poème épique sur les exploits guerriers francs"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°8": {
+            "question": "Œuvre : Le Trône de fer de George R.R. Martin. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est une saga fantasy aux intrigues politiques complexes",
+                "B": "Dénonce les violences culturelles du mariage forcé",
+                "C": "Est un univers épique de pure imagination",
+                "D": "Propose une évasion dans un monde médiéval fantastique"
+            },
+            "bonne reponse": "B"
+        },
+        "question n°9": {
+            "question": "Œuvre : L'Épée de vérité de Terry Goodkind. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un récit d'imagination pure sans ancrage historique",
+                "B": "Met en scène des héros et des forces du mal puissantes",
+                "C": "Dénonce l'exploitation coloniale et l'oppression raciale",
+                "D": "Propose une évasion dans un monde merveilleux et dangereux"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°10": {
+            "question": "Auteur : Paul Verlaine. – Trouve l'intrus",
+            "reponses": {
+                "A": "A écrit Art Poétique sur la musicalité des vers",
+                "B": "Privilégie la suggestion et le flou sur le message",
+                "C": "A dénoncé les abus coloniaux dans ses recueils",
+                "D": "Est un poète symboliste du XIXe siècle"
+            },
+            "bonne reponse": "C"
+        },
+        "question n°11": {
+            "question": "Auteur : Eugène Ionesco. – Trouve l'intrus",
+            "reponses": {
+                "A": "A dénoncé les sacrifices humains dans les traditions",
+                "B": "A critiqué le théâtre à thèse et les moralisateurs",
+                "C": "Est un dramaturge du théâtre de l'absurde",
+                "D": "Est d'origine roumaine et a marqué le XXe siècle"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°12": {
+            "question": "Auteur : Albert Camus. – Trouve l'intrus",
+            "reponses": {
+                "A": "Est un philosophe existentialiste français",
+                "B": "A écrit La Nausée sur l'absurde et la liberté",
+                "C": "Invite à la réflexion sur la responsabilité humaine",
+                "D": "A célébré la tradition orale africaine dans ses écrits"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°13": {
+            "question": "Argument : La fonction esthétique de la littérature. – Trouve l'intrus",
+            "reponses": {
+                "A": "L'écrivain doit transmettre un message moral aux lecteurs",
+                "B": "La musicalité des phrases et l'harmonie des images sont essentielles",
+                "C": "La poésie doit d'abord être une expérience sonore",
+                "D": "Le plaisir esthétique est une finalité légitime de l'art"
+            },
+            "bonne reponse": "A"
+        },
+        "question n°14": {
+            "question": "Argument : L'imagination comme fruit de la littérature. – Trouve l'intrus",
+            "reponses": {
+                "A": "Les récits littéraires s'autorisent des inventions pour émerveiller",
+                "B": "Le romancier peut s'affranchir du réel pour créer du beau",
+                "C": "L'imaginaire est une source inépuisable de création",
+                "D": "La littérature doit être un document historique rigoureux"
+            },
+            "bonne reponse": "D"
+        },
+        "question n°15": {
+            "question": "Œuvre : Le Trône de fer de George R.R. Martin. – Trouve l'intrus",
+            "reponses": {
+                "A": "Propose un divertissement intellectuel à travers l'imaginaire",
+                "B": "Est une autobiographie réelle de l'auteur",
+                "C": "Est une œuvre de pure fiction sans prétention documentaire",
+                "D": "Est une évasion dans un univers médiéval fantastique"
+            },
+            "bonne reponse": "B"
+        }
+    }
+}

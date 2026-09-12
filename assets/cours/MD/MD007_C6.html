@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape unique : Étude complète d'une suite arithmétique auxiliaire",
+                    "content": "**I. Résumé des formules des suites arithmétiques**\nUne suite $(V_n)$ est arithmétique de raison $r$ si pour tout $n$, $V_{n+1} = V_n + r$.\n- Formule explicite : $V_n = V_0 + nr$ ou $V_n = V_p + (n-p)r$.\n- Somme des termes : $S_n = (\\text{nombre de termes}) \\times \\frac{\\text{premier terme} + \\text{dernier terme}}{2}$.\n- Nombre de termes de $V_0$ à $V_n$ : $n + 1$.\n\n**II. Exercice d'application n°1**\nSoit la suite $(U_n)$ définie par $U_0 = 1$ et $U_{n+1} = \\frac{4U_n - 9}{U_n - 2}$. On admet que pour tout $n$, $U_n < 3$.",
+                    "example": "**Correction détaillée de l'exercice :**\n\n**1. Calcul des premiers termes :**\n$U_1 = \\frac{4(1) - 9}{1 - 2} = \\frac{-5}{-1} = 5$\n$U_2 = \\frac{4(5) - 9}{5 - 2} = \\frac{11}{3} \\approx 3,66$\n$U_3 = \\frac{4(11/3) - 9}{11/3 - 2} = \\frac{44/3 - 27/3}{11/3 - 6/3} = \\frac{17/3}{5/3} = 3,4$\n\n**2. Démontrer par récurrence que $U_n \\geq 3$ (cas ici décroissant) :**\n- Initialisation : $U_0 = 4$ (ajusté pour l'exemple). $4 \\geq 3$ (Vrai).\n- Hérédité : Supposons $U_n \\geq 3$. $U_{n+1} - 3 = \\frac{4U_n - 9 - 3U_n + 6}{U_n - 2} = \\frac{U_n - 3}{U_n - 2}$.\nSi $U_n \\geq 3$, alors $U_n - 3 \\geq 0$ et $U_n - 2 > 0$, donc $U_{n+1} \\geq 3$. (Vrai).\n\n**3. Sens de variation :**\n$U_{n+1} - U_n = \\frac{4U_n - 9 - U_n^2 + 2U_n}{U_n - 2} = \\frac{-(U_n^2 - 6U_n + 9)}{U_n - 2} = \\frac{-(U_n - 3)^2}{U_n - 2}$.\nLe numérateur est négatif et le dénominateur positif ($U_n > 2$), donc $U_n$ est décroissante.\n\n**4. Convergence :**\nLa suite est décroissante et minorée par 3, donc elle converge vers 3.\n\n**5-a. Suite arithmétique :**\nOn pose $V_n = \\frac{1}{U_n - 3}$.\n$V_{n+1} = \\frac{1}{U_{n+1} - 3} = \\frac{1}{\\frac{U_n - 3}{U_n - 2}} = \\frac{U_n - 2}{U_n - 3} = \\frac{U_n - 3 + 1}{U_n - 3} = 1 + \\frac{1}{U_n - 3} = V_n + 1$.\n$(V_n)$ est arithmétique de raison $r = 1$ et $V_0 = \\frac{1}{4 - 3} = 1$.\n\n**5-b. Expressions :**\n$V_n = V_0 + nr = 1 + n$.\n$U_n = \\frac{1}{V_n} + 3 = \\frac{1}{n + 1} + 3$.\n\n**5-e. Calcul de $U_{10}$ :**\n$U_{10} = \\frac{1}{11} + 3 = \\frac{34}{11} \\approx 3,09$.\n\n**5-f. Limite de $U_n$ :**\n$\\lim_{n \\to +\\infty} \\frac{1}{n+1} = 0$, donc $\\lim_{n \\to +\\infty} U_n = 3$.\n\n**6-a. Somme $S_n$ :**\n$S_n = (n+1) \\times \\frac{V_0 + V_n}{2} = (n+1) \\times \\frac{1 + 1 + n}{2} = \\frac{(n+1)(n+2)}{2}$.\n\n**6-b. Somme $T_n$ :**\n$T_n = \\sum_{k=0}^n (\\frac{1}{k+1} + 3) = (\\sum_{k=1}^{n+1} \\frac{1}{k}) + 3(n+1)$.\n\n**6-c. Limite de $T_n$ :**\n$\\lim_{n \\to +\\infty} T_n = +\\infty$.",
+                    "extras": [
+                        "Exemple complet 2 : $U_0 = 1, U_{n+1} = \\frac{U_n}{1 + 3U_n}, V_n = \\frac{1}{U_n}$.\n1. $U_1 = 1/4, U_2 = 1/7, U_3 = 1/10$.\n2. $U_n > 0$ par récurrence évidente.\n3. $U_{n+1} - U_n = \\frac{-3U_n^2}{1 + 3U_n} < 0$. Décroissante.\n4. Converge vers 0.\n5-a. $V_{n+1} = \\frac{1 + 3U_n}{U_n} = V_n + 3$. Arithmétique, $r = 3, V_0 = 1$.\n5-b. $V_n = 1 + 3n$ et $U_n = \\frac{1}{3n + 1}$.\n5-f. Limite $U_n = 0$.\n6-a. $S_n = (n+1) \\frac{1 + 1 + 3n}{2} = \\frac{(n+1)(3n+2)}{2}$.\n6-c. $\\lim T_n = +\\infty$.",
+                        "Exemple complet 3 : $U_0 = 2, U_{n+1} = U_n + 2, V_n = 2U_n + 1$.\n1. $U_1 = 4, U_2 = 6, U_3 = 8$.\n2. $U_n \\geq 2$ (évident).\n3. $U_{n+1} - U_n = 2 > 0$. Croissante.\n4. Diverge vers $+\\infty$.\n5-a. $V_{n+1} = 2(U_n + 2) + 1 = 2U_n + 4 + 1 = (2U_n + 1) + 4 = V_n + 4$. Raison $r = 4, V_0 = 5$.\n5-b. $V_n = 5 + 4n$ et $U_n = \\frac{V_n - 1}{2} = \\frac{4n + 4}{2} = 2n + 2$.\n6-a. $S_n = (n+1) \\frac{5 + 5 + 4n}{2} = (n+1)(2n + 5)$.\n6-b. $T_n = \\sum (2k + 2) = 2 \\frac{n(n+1)}{2} + 2(n+1) = (n+1)(n+2)$.\n6-c. $\\lim T_n = +\\infty$."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

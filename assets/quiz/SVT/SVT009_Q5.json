@@ -1,0 +1,358 @@
+{
+  "id": "SVTD009_Q5",
+  "titre": "Quiz 5 : Perfectionnement 2 - La Reproduction des Angiospermes",
+  "questions": {
+    "question n°1": {
+      "question": "Rangez dans l'ordre chronologique les étapes de la formation du sac embryonnaire (voir figure ci-dessous) :",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A-D-E-F-C-B",
+        "B": "A-B-D-E-F-C",
+        "C": "A-E-F-D-C-B",
+        "D": "A-E-F-D-B-C"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°2": {
+      "question": "Dans le schéma, 'A' est la cellule mère de la mégaspore (MMC). C'est la cellule initiale .....A..... qui va subir la .....B......",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: haploïde, B: mitose",
+        "B": "A: triploïde, B: fécondation",
+        "C": "A: diploïde, B: méiose",
+        "D": "A: tétraploïde, B: germination"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°3": {
+      "question": "Le stade 'E' montre la première division .....A..... donnant .....B..... cellules. La MMC subit la .....C....., ce qui donne deux cellules haploïdes.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: mitotique, B: quatre, C: méiose II",
+        "B": "A: méiotique, B: deux, C: méiose I",
+        "C": "A: cellulaire, B: trois, C: mitose",
+        "D": "A: réductrice, B: une, C: fécondation"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°4": {
+      "question": "Stade 'F' : la deuxième division .....A..... donnant .....B..... cellules. Les deux cellules issues de la méiose I subissent la .....C....., formant une tétrade linéaire de quatre mégaspores haploïdes.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: méiotique, B: quatre, C: méiose II",
+        "B": "A: nucléaire, B: trois, C: fécondation",
+        "C": "A: mitotique, B: deux, C: méiose I",
+        "D": "A: cellulaire, B: six, C: mitose"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°5": {
+      "question": "Le stade 'D' représente la mégaspore .....A....., tandis que les .....B..... autres mégaspores .....C......",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: fonctionnelle, B: trois, C: dégénèrent",
+        "B": "A: immature, B: une, C: se développent",
+        "C": "A: stérile, B: deux, C: survivent",
+        "D": "A: diploïde, B: toutes les, C: se transforment"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°6": {
+      "question": "Le stade 'B' représente les divisions .....A..... successives. Le noyau de la .....B..... fonctionnelle subit une série de trois divisions .....C..... sans cytocinèse.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: méiotiques, B: cellule mère, C: réductrices",
+        "B": "A: cellulaires, B: tétrade, C: primaires",
+        "C": "A: nucléaires, B: oosphère, C: successives",
+        "D": "A: mitotiques, B: mégaspore, C: mitotiques"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°7": {
+      "question": "Ces divisions sans cytocinèse conduisent à la formation de plusieurs .....A..... dans la même cellule. L'image 'B' représente ici le stade à .....B..... noyaux après la .....C..... mitose.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: cellules, B: quatre, C: deuxième",
+        "B": "A: zygotes, B: un, C: méiose",
+        "C": "A: gamètes, B: huit, C: troisième",
+        "D": "A: noyaux, B: deux, C: première"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°8": {
+      "question": "Le stade 'C' est le sac embryonnaire .....A..... (7 cellules différenciées). Après les mitoses, les noyaux se réorganisent et des .....B..... se forment pour donner le sac mature composé de .....C..... cellules.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: immature, B: cytosomes, C: huit",
+        "B": "A: en formation, B: membranes, C: six",
+        "C": "A: mature, B: parois cellulaires, C: sept",
+        "D": "A: diploïde, B: enveloppes, C: neuf"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°9": {
+      "question": "Le sac embryonnaire mature est composé de sept cellules et .....A..... noyaux, incluant une oosphère, deux .....B....., une cellule centrale avec deux noyaux .....C....., et trois antipodes.",
+      "image": "assets/images/svt/spermaphyte(1).png",
+      "reponses": {
+        "A": "A: six, B: antipodes, C: végétaux",
+        "B": "A: huit, B: synergides, C: polaires",
+        "C": "A: sept, B: cellules mères, C: reproducteurs",
+        "D": "A: neuf, B: microspores, C: secondaires"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelle structure est désignée par la lettre 'a' dans la figure ci-dessous ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Tube pollinique",
+        "B": "Nucelle",
+        "C": "Synergide",
+        "D": "Oosphère"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°11": {
+      "question": "Quelle structure est désignée par la lettre 'b' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Sac embryonnaire",
+        "B": "Anthérozoïde",
+        "C": "Nucelle",
+        "D": "Antipode"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°12": {
+      "question": "Quelle structure est désignée par la lettre 'c' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Noyaux centraux",
+        "C": "Synergide",
+        "D": "Tube pollinique"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle structure est désignée par la lettre 'd' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Antipode",
+        "B": "Nucelle",
+        "C": "Sac embryonnaire",
+        "D": "Oosphère"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°14": {
+      "question": "Quelle structure est désignée par la lettre 'e' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Synergide",
+        "B": "Tube pollinique",
+        "C": "Noyaux centraux",
+        "D": "Anthérozoïde"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle structure est désignée par la lettre 'f' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Sac embryonnaire",
+        "C": "Antipode",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°16": {
+      "question": "Quelle structure est désignée par la lettre 'g' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Nucelle",
+        "B": "Tube pollinique",
+        "C": "Synergide",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°17": {
+      "question": "Quelle structure est désignée par la lettre 'h' ?",
+      "image": "assets/images/svt/spermaphyte(2).png",
+      "reponses": {
+        "A": "Antipode",
+        "B": "Anthérozoïde",
+        "C": "Noyaux centraux",
+        "D": "Oosphère"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle structure est désignée par le numéro '1' dans la figure suivante ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Synergide",
+        "B": "Micropyle",
+        "C": "Oosphère",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°19": {
+      "question": "Quelle structure est désignée par le numéro '2' ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Synergide",
+        "C": "Antipode",
+        "D": "Micropyle"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle structure est désignée par le numéro '3' ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Sac embryonnaire",
+        "B": "Oosphère",
+        "C": "Antipode",
+        "D": "Synergide"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°21": {
+      "question": "Quelle structure est désignée par le numéro '4' ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Oosphère",
+        "C": "Micropyle",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°22": {
+      "question": "Quelle structure est désignée par le numéro '5' ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Antipode",
+        "B": "Noyaux centraux",
+        "C": "Micropyle",
+        "D": "Sac embryonnaire"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°23": {
+      "question": "Quelle structure est désignée par le numéro '6' ?",
+      "image": "assets/images/svt/spermaphyte(3).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Synergide",
+        "C": "Antipode",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "C"
+    },
+    "question n°24": {
+      "question": "Quelle structure est désignée par la lettre 'a' dans la Figure 1 ci-dessous ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Anthérozoïde",
+        "B": "Noyau végétatif",
+        "C": "Oosphère",
+        "D": "Tube pollinique"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°25": {
+      "question": "Quelle structure est désignée par la lettre 'b' dans la Figure 1 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Tube pollinique",
+        "B": "Noyau végétatif",
+        "C": "Nucelle",
+        "D": "Anthérozoïde"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°26": {
+      "question": "Quelle structure est désignée par la lettre 'c' dans la Figure 1 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Anthérozoïde",
+        "B": "Tube pollinique",
+        "C": "Oosphère",
+        "D": "Noyau végétatif"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°27": {
+      "question": "Quelle structure est désignée par le numéro '1' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Nucelle",
+        "B": "Tube pollinique",
+        "C": "Oosphère",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°28": {
+      "question": "Quelle structure est désignée par le numéro '2' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Anthérozoïde n°1",
+        "C": "Nucelle",
+        "D": "Noyaux centraux"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°29": {
+      "question": "Quelle structure est désignée par le numéro '3' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Anthérozoïde n°2",
+        "C": "Tube pollinique",
+        "D": "Nucelle"
+      },
+      "bonne_reponse": "A"
+    },
+    "question n°30": {
+      "question": "Quelle structure est désignée par le numéro '4' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Oosphère",
+        "C": "Tube pollinique",
+        "D": "Nucelle"
+      },
+      "bonne_reponse": "D"
+    },
+    "question n°31": {
+      "question": "Quelle structure est désignée par le numéro '5' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Noyaux centraux",
+        "B": "Anthérozoïde n°2",
+        "C": "Oosphère",
+        "D": "Nucelle"
+      },
+      "bonne_reponse": "B"
+    },
+    "question n°32": {
+      "question": "Quelle structure est désignée par le numéro '6' dans la Figure 2 ?",
+      "image": "assets/images/svt/spermaphyte(4).png",
+      "reponses": {
+        "A": "Oosphère",
+        "B": "Tube pollinique",
+        "C": "Noyaux centraux",
+        "D": "Anthérozoïde n°1"
+      },
+      "bonne_reponse": "C"
+    }
+  }
+}

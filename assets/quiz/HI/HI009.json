@@ -1,0 +1,621 @@
+[
+
+{
+  "title": "Quiz 3",
+  "id": "HI009_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Quand a été créée l’Organisation de l’Unité Africaine (OUA) ?",
+      "réponses": {
+        "A": "Le 25 mai 1958 à Conakry sous l'impulsion de Sékou Touré.",
+        "B": "Le 25 mai 1963 à Addis-Abeba sous l’impulsion de Hailé Sélassié.",
+        "C": "Le 1er janvier 1960 à Accra lors du sommet des États africains indépendants.",
+        "D": "Le 26 juin 1962 à Dar es Salaam sous l’égide de Julius Nyerere."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quels groupes idéologiques s’opposaient lors de la création de l’OUA ?",
+      "réponses": {
+        "A": "Le groupe de Nairobi et le groupe du Caire.",
+        "B": "Le groupe de Dakar (conservateur) et le groupe de Rabat (fédéraliste).",
+        "C": "Le groupe de Casablanca (révolutionnaire) et celui de Monrovia (modéré).",
+        "D": "Le groupe de Lagos et celui de Freetown, en désaccord sur la langue officielle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel dirigeant a proposé la transformation de l’OUA en Union Africaine ?",
+      "réponses": {
+        "A": "Nelson Mandela lors du sommet de Johannesburg.",
+        "B": "Kofi Annan pendant son mandat à l’ONU.",
+        "C": "Mouammar Kadhafi en 1998, souhaitant une réforme de fond.",
+        "D": "Thomas Sankara avant sa disparition."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Lors de quel sommet le traité de création de l’UA a-t-il été signé ?",
+      "réponses": {
+        "A": "Au sommet de Bamako en 1999 par 30 États.",
+        "B": "À la conférence de Maputo en janvier 2001.",
+        "C": "Au sommet de Lomé en juillet 2000.",
+        "D": "À la session extraordinaire du Caire en décembre 1998."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Quand et où l’UA est-elle officiellement entrée en fonction ?",
+      "réponses": {
+        "A": "En janvier 2003 à Lusaka.",
+        "B": "En juillet 2002 au sommet de Durban, Afrique du Sud.",
+        "C": "En juin 2001 à Abuja.",
+        "D": "En décembre 2000 à Addis-Abeba."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle date marque le début institutionnel du panafricanisme en Afrique ?",
+      "réponses": {
+        "A": "Le 1er juillet 1960, lors de l’indépendance du Congo.",
+        "B": "Le 6 mars 1957, avec l’indépendance du Ghana.",
+        "C": "Le 25 mai 1963, avec la création de l’OUA.",
+        "D": "Le 7 octobre 1961, avec le sommet d’Accra."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel modèle politique défendait le groupe de Casablanca ?",
+      "réponses": {
+        "A": "La souveraineté absolue de chaque État.",
+        "B": "Un projet de confédération économique décentralisée.",
+        "C": "La création immédiate d’un gouvernement africain unifié.",
+        "D": "Un système électoral régional fondé sur les chefferies traditionnelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Que proposait principalement le groupe de Monrovia ?",
+      "réponses": {
+        "A": "Une fusion des institutions militaires.",
+        "B": "Une union souple respectant l’autonomie des États.",
+        "C": "Une autorité religieuse centrale pour guider le continent.",
+        "D": "Une indépendance totale vis-à-vis de l’Europe et des USA."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle a été la conséquence immédiate de la création de l’OUA ?",
+      "réponses": {
+        "A": "La disparition des conflits inter-étatiques.",
+        "B": "La mise en place d’une monnaie unique.",
+        "C": "La reconnaissance institutionnelle du panafricanisme.",
+        "D": "L’unification militaire de tous les pays africains."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi la capitale éthiopienne Addis-Abeba est-elle symbolique dans ce contexte ?",
+      "réponses": {
+        "A": "Parce qu’elle abrite le siège de l’ONU.",
+        "B": "Car elle fut la première ville colonisée à rejoindre l’OUA.",
+        "C": "Car elle a accueilli le sommet fondateur de l’OUA en 1963.",
+        "D": "Car elle symbolise l’union entre le Maghreb et le reste de l’Afrique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l’objectif principal de l’Union Africaine ?",
+      "réponses": {
+        "A": "Promouvoir le tourisme et les arts traditionnels.",
+        "B": "Intégrer le continent sur les plans politique, économique et social.",
+        "C": "Unifier les armées pour garantir l’indépendance énergétique.",
+        "D": "Créer une langue officielle commune pour toute l’Afrique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment l’UA encourage-t-elle la démocratie et les droits humains ?",
+      "réponses": {
+        "A": "En imposant une police continentale dans tous les pays membres.",
+        "B": "En instaurant une charte morale pour les chefs d’État.",
+        "C": "En intervenant dans certains conflits et en promouvant des politiques communes.",
+        "D": "En suspendant systématiquement les pays à faible croissance."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que vise l’UA en matière de souveraineté ?",
+      "réponses": {
+        "A": "Réduire les frontières entre pays pour créer un État unique.",
+        "B": "Protéger la souveraineté et l’intégrité territoriale des États membres.",
+        "C": "Fédérer les constitutions nationales sous une charte continentale.",
+        "D": "Attribuer le pouvoir judiciaire à une cour internationale unique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi la stabilité est-elle une priorité de l’UA ?",
+      "réponses": {
+        "A": "Pour garantir la domination militaire sur d’autres continents.",
+        "B": "Parce que sans stabilité, ni développement ni intégration ne sont possibles.",
+        "C": "Pour empêcher les ingérences occidentales dans les affaires religieuses.",
+        "D": "Pour faire du continent un espace réservé aux seuls ressortissants africains."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Que vise l’UA en matière de coopération internationale ?",
+      "réponses": {
+        "A": "Isoler l’Afrique pour préserver ses traditions.",
+        "B": "Représenter l’Afrique et défendre des positions communes dans les négociations mondiales.",
+        "C": "Créer un pacte exclusif avec les pays asiatiques.",
+        "D": "Supprimer toutes les ambassades étrangères sur le continent."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment l’UA se distingue-t-elle de l’OUA ?",
+      "réponses": {
+        "A": "Elle se limite à une organisation militaire continentale.",
+        "B": "Elle est dotée d’institutions renforcées avec une capacité d’intervention.",
+        "C": "Elle n’a pas de siège fixe contrairement à l’OUA.",
+        "D": "Elle est exclusivement composée d’États anglophones."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quelle institution permet à l’UA de rendre des décisions contraignantes ?",
+      "réponses": {
+        "A": "La Conférence des ambassadeurs.",
+        "B": "Le Parlement africain populaire.",
+        "C": "La Cour africaine des droits de l’homme et des peuples.",
+        "D": "Le Directoire des chefs coutumiers."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle est la particularité du Conseil de paix et de sécurité de l’UA ?",
+      "réponses": {
+        "A": "Il agit uniquement sur demande des Nations Unies.",
+        "B": "Il ne peut agir qu’en période d’élections.",
+        "C": "Il est autorisé à intervenir militairement en cas de crise grave.",
+        "D": "Il se limite à l’observation passive des conflits."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel rôle joue la Commission de l’Union Africaine ?",
+      "réponses": {
+        "A": "Elle gère les projets agricoles dans les zones rurales.",
+        "B": "Elle administre l’Union au quotidien et coordonne les politiques.",
+        "C": "Elle organise les rites d’initiation panafricains.",
+        "D": "Elle sélectionne les langues officielles régionales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quel principe est mis en avant dans l’Acte constitutif de l’UA ?",
+      "réponses": {
+        "A": "L’égalité absolue des religions ancestrales.",
+        "B": "Le respect des traditions orales comme normes juridiques.",
+        "C": "Le droit d’ingérence en cas de violation grave des droits humains.",
+        "D": "La reconnaissance de la monarchie comme régime de référence."
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI009_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la position de l’UA sur la souveraineté des États membres ?",
+      "réponses": {
+        "A": "Elle reconnaît l’autorité religieuse de chaque État.",
+        "B": "Elle impose un droit d’ingérence permanent.",
+        "C": "Elle respecte l’égalité souveraine et l’intégrité territoriale.",
+        "D": "Elle demande aux États d’unifier leur armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Que permet l’UA en cas de génocide ou de crimes de guerre dans un État membre ?",
+      "réponses": {
+        "A": "Elle suspend l’État sans autre forme d’action.",
+        "B": "Elle se réserve le droit d’intervenir dans ses affaires internes.",
+        "C": "Elle appelle à la mobilisation des armées locales.",
+        "D": "Elle confie le conflit à la Cour pénale internationale uniquement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la position de l’UA face à un changement de pouvoir par la force ?",
+      "réponses": {
+        "A": "Elle laisse chaque État gérer sa constitution selon ses traditions.",
+        "B": "Elle condamne tout changement par la force, sauf avec accord régional.",
+        "C": "Elle condamne tout changement anticonstitutionnel de gouvernement.",
+        "D": "Elle reconnaît automatiquement le nouveau gouvernement élu par le peuple."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quel principe guide l’UA dans la résolution des conflits entre États membres ?",
+      "réponses": {
+        "A": "Le recours immédiat à une médiation militaire.",
+        "B": "Le règlement pacifique des différends.",
+        "C": "La mise sous tutelle du pays en crise.",
+        "D": "L’isolement diplomatique du pays agresseur."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Que favorise l’UA entre ses États membres ?",
+      "réponses": {
+        "A": "L’indépendance totale sans coopération économique.",
+        "B": "L’interdépendance et la solidarité pour atteindre ses objectifs communs.",
+        "C": "La compétition stratégique sur les ressources naturelles.",
+        "D": "L’autonomie militaire renforcée dans chaque État."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle est la priorité des principes fondateurs de l’UA ?",
+      "réponses": {
+        "A": "La limitation du pouvoir présidentiel dans chaque pays.",
+        "B": "La suprématie de l’unité continentale sur toutes les lois nationales.",
+        "C": "L’union volontaire des États dans le respect de leur souveraineté.",
+        "D": "L’adoption d’une constitution commune sans amendement possible."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Comment l’UA considère-t-elle les relations entre États africains ?",
+      "réponses": {
+        "A": "Comme concurrentielles dans un cadre fédéral.",
+        "B": "Comme équilibrées mais sans obligations bilatérales.",
+        "C": "Comme fondées sur la solidarité, la coopération et le respect mutuel.",
+        "D": "Comme dominées par les grandes puissances régionales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel principe justifie une éventuelle intervention armée de l’UA ?",
+      "réponses": {
+        "A": "Le refus d’adhérer aux valeurs occidentales.",
+        "B": "Le non-respect des échéances électorales.",
+        "C": "La menace grave sur la paix, les droits de l’homme ou l’humanité.",
+        "D": "La participation d’un État à une alliance étrangère."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Que garantit l’UA en matière de traitement des États membres ?",
+      "réponses": {
+        "A": "La hiérarchie selon le PIB et la population.",
+        "B": "L’égalité de traitement dans toutes ses institutions.",
+        "C": "Le pouvoir de veto pour les pays fondateurs.",
+        "D": "L’attribution prioritaire des fonds aux pays en guerre."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quelles valeurs centrales l’UA cherche-t-elle à promouvoir ?",
+      "réponses": {
+        "A": "Le multiculturalisme et l’autonomie régionale.",
+        "B": "La sécurité intérieure et la restriction des libertés.",
+        "C": "La démocratie, les droits humains et la bonne gouvernance.",
+        "D": "L’uniformité culturelle et linguistique entre les États."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quel est l’organe suprême de l’Union Africaine ?",
+      "réponses": {
+        "A": "Le Comité permanent des ministres de l’intérieur.",
+        "B": "La Conférence de l’Union composée des chefs d’État et de gouvernement.",
+        "C": "Le Directoire panafricain de gouvernance.",
+        "D": "Le Sénat continental de l’UA."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle principal de la Commission de l’UA ?",
+      "réponses": {
+        "A": "Organiser les sommets culturels.",
+        "B": "Élaborer les constitutions des pays membres.",
+        "C": "Exécuter les décisions, représenter l’UA, coordonner les programmes.",
+        "D": "Superviser les élections locales dans chaque pays."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelles missions sont confiées au Conseil de Paix et de Sécurité ?",
+      "réponses": {
+        "A": "Protéger les sites historiques de l’Union.",
+        "B": "Assurer la diplomatie préventive et la gestion des crises.",
+        "C": "Nommer les chefs des armées des États.",
+        "D": "Organiser la démilitarisation des frontières."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Quel est le rôle du Parlement Panafricain ?",
+      "réponses": {
+        "A": "Voter les lois exécutoires dans chaque pays membre.",
+        "B": "Contrôler directement les politiques des gouvernements nationaux.",
+        "C": "Donner des avis consultatifs, sans pouvoir législatif.",
+        "D": "Gérer les finances publiques africaines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Quel est l’organe judiciaire principal de l’UA ?",
+      "réponses": {
+        "A": "La Haute Cour des chefs d’État.",
+        "B": "La Cour Africaine de Justice, composée de 11 juges.",
+        "C": "Le Tribunal suprême de l’union fiscale.",
+        "D": "La Cour coutumière panafricaine."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel pouvoir la Cour Africaine détient-elle ?",
+      "réponses": {
+        "A": "Elle édicte des lois exécutoires pour les parlements nationaux.",
+        "B": "Elle veille à l'application de l’Acte Constitutif et tranche les litiges juridiques.",
+        "C": "Elle remplace les cours suprêmes nationales.",
+        "D": "Elle juge uniquement les crimes liés aux conflits électoraux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pourquoi le Parlement Panafricain est-il dit « consultatif » ?",
+      "réponses": {
+        "A": "Parce qu’il est formé uniquement d’observateurs.",
+        "B": "Parce qu’il ne propose que des textes religieux.",
+        "C": "Parce qu’il ne possède pas de pouvoir législatif contraignant.",
+        "D": "Parce qu’il n’est pas reconnu par tous les chefs d’État."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "En quoi la Conférence de l’Union est-elle décisive ?",
+      "réponses": {
+        "A": "Elle organise la répartition des fonds de l’UA.",
+        "B": "Elle statue sur les grandes orientations politiques de l’UA.",
+        "C": "Elle attribue les présidences tournantes des pays.",
+        "D": "Elle désigne les ambassadeurs permanents pour l’ONU."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Quel est le lien entre la Commission de l’UA et les autres organes ?",
+      "réponses": {
+        "A": "Elle agit de manière autonome sans communication.",
+        "B": "Elle coordonne les activités et assure le suivi des décisions.",
+        "C": "Elle n’intervient que pour les missions culturelles.",
+        "D": "Elle contrôle le budget des chefs d’État."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Quelle est la compétence centrale de la Cour Africaine de Justice ?",
+      "réponses": {
+        "A": "Fixer le salaire des parlementaires africains.",
+        "B": "Veiller à la traduction des textes dans toutes les langues africaines.",
+        "C": "Résoudre les différends juridiques entre États membres.",
+        "D": "Définir la politique migratoire de l’Union."
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI009_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Pourquoi l’UA a-t-elle remplacé l’OUA ?",
+      "réponses": {
+        "A": "Pour créer une armée continentale dirigée par un seul commandement.",
+        "B": "Pour instaurer un système unique de gouvernance économique.",
+        "C": "Pour corriger les faiblesses de l’OUA, jugée inefficace et trop conciliante.",
+        "D": "Pour rapprocher l’Afrique de l’Union européenne."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels progrès concrets l’UA a-t-elle réalisés ?",
+      "réponses": {
+        "A": "Centralisation des armées africaines et instauration d’une langue commune.",
+        "B": "Création d’organes modernes, actions dans les conflits, promotion des droits.",
+        "C": "Adoption d’une monnaie unique et harmonisation fiscale.",
+        "D": "Suppression des frontières internes et libre circulation généralisée."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quel défi majeur freine l’action de l’UA ?",
+      "réponses": {
+        "A": "Trop de diversité religieuse parmi les États membres.",
+        "B": "Lenteur des réformes, difficulté à s’imposer, efficacité limitée.",
+        "C": "Absence totale de financement externe.",
+        "D": "Refus des pays du Maghreb d’adhérer aux décisions collectives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle est la crainte principale face aux réformes de l’UA ?",
+      "réponses": {
+        "A": "Qu’elles soient soutenues par des puissances étrangères.",
+        "B": "Qu’elles affaiblissent les traditions nationales.",
+        "C": "Qu’elles deviennent de simples formalités sans impact réel.",
+        "D": "Qu’elles soient trop contraignantes pour les jeunes États."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "L’UA est-elle perçue comme plus efficace que l’OUA ?",
+      "réponses": {
+        "A": "Non, elle est jugée identique à l’OUA dans sa structure.",
+        "B": "Oui, elle a totalement transformé la gouvernance africaine.",
+        "C": "Partiellement, mais elle reste limitée dans ses résultats concrets.",
+        "D": "Non, elle n’a pas encore entamé de changement institutionnel."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Pourquoi dit-on que l’UA reste en quête d’efficacité ?",
+      "réponses": {
+        "A": "Car ses chefs d’État refusent de financer ses actions.",
+        "B": "Parce qu’elle privilégie les grands pays au détriment des petits.",
+        "C": "Parce que ses décisions peinent à être appliquées sur le terrain.",
+        "D": "Parce qu’elle dépend uniquement de l’aide internationale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quel est l’un des reproches fréquents envers l’UA ?",
+      "réponses": {
+        "A": "D’imposer une langue unique aux États membres.",
+        "B": "De limiter les investissements étrangers.",
+        "C": "De manquer de réactivité face aux crises urgentes.",
+        "D": "De supprimer les souverainetés nationales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Comment peut-on qualifier la relation entre l’UA et les peuples africains ?",
+      "réponses": {
+        "A": "Une alliance très forte avec une légitimité populaire indiscutable.",
+        "B": "Une relation distante, l’UA peinant à répondre aux attentes.",
+        "C": "Une dépendance totale à l’égard de la société civile.",
+        "D": "Une interaction directe avec des représentants élus localement."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Qu’est-ce qui freine l’unité réelle des États membres ?",
+      "réponses": {
+        "A": "Le refus d’abandonner les traditions religieuses.",
+        "B": "La rivalité historique entre les blocs linguistiques.",
+        "C": "Les intérêts nationaux qui dominent souvent l’intérêt collectif.",
+        "D": "Le manque de volonté des chefs traditionnels à coopérer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quel paradoxe résume la situation de l’UA ?",
+      "réponses": {
+        "A": "Elle est forte sur le plan militaire mais faible sur le plan social.",
+        "B": "Elle a une structure ambitieuse mais des résultats souvent modestes.",
+        "C": "Elle possède une armée commune mais aucun pouvoir politique.",
+        "D": "Elle impose des lois claires mais n’a aucun organe d’exécution."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Quelle critique structurelle est faite à l’UA ?",
+      "réponses": {
+        "A": "Trop d’autonomie locale dans les parlements nationaux.",
+        "B": "Une surcharge d’institutions, mais peu d’actions concrètes.",
+        "C": "Une absence totale de textes fondateurs.",
+        "D": "Une militarisation excessive des débats politiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quelle difficulté entrave l’autorité de l’UA ?",
+      "réponses": {
+        "A": "L’adhésion massive à la CPI.",
+        "B": "Le manque d’adhésion populaire directe aux décisions.",
+        "C": "La rotation annuelle de la présidence tournante.",
+        "D": "La pluralité des langues officielles dans les débats."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quelle est la limite des organes de l’UA ?",
+      "réponses": {
+        "A": "Leurs membres sont élus pour des mandats trop longs.",
+        "B": "Ils sont jugés trop proches des régimes autoritaires.",
+        "C": "Ils n’ont pas de siège fixe sur le continent.",
+        "D": "Ils imposent des lois contraires aux coutumes locales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi la Cour africaine est-elle parfois critiquée ?",
+      "réponses": {
+        "A": "Elle est basée hors du continent africain.",
+        "B": "Elle ne traite que les litiges commerciaux.",
+        "C": "Elle n’a pas suffisamment d’indépendance vis-à-vis des États.",
+        "D": "Elle impose des sanctions sans consultation des peuples."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Que reproche-t-on à certaines déclarations politiques de l’UA ?",
+      "réponses": {
+        "A": "Leur manque de soutien financier clair.",
+        "B": "Leur absence de langue vernaculaire.",
+        "C": "Leur effet souvent symbolique, sans suite concrète.",
+        "D": "Leur caractère trop légaliste et axé sur le droit coutumier."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quel est le problème majeur de la coopération interétatique en Afrique selon l’UA ?",
+      "réponses": {
+        "A": "L’ingérence militaire des anciennes puissances coloniales.",
+        "B": "La compétition entre États pour attirer les capitaux.",
+        "C": "Le non-respect des décisions de la FAO.",
+        "D": "Le refus des pays enclavés de signer les accords commerciaux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est le poids de l’UA dans les grandes négociations internationales ?",
+      "réponses": {
+        "A": "Encore faible malgré une volonté de coordination.",
+        "B": "Très fort grâce à son armée continentale.",
+        "C": "Nul, car elle n’est pas reconnue à l’ONU.",
+        "D": "Dominant grâce à l’intégration linguistique et économique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Pourquoi l’UA peine-t-elle à répondre aux urgences humanitaires ?",
+      "réponses": {
+        "A": "Car elle manque d’expertise dans les secours civils.",
+        "B": "Car elle est surchargée de priorités économiques.",
+        "C": "Car elle dépend de la logistique étrangère.",
+        "D": "Car elle attend l’autorisation des chefs coutumiers."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle difficulté empêche parfois l’application des décisions de l’UA ?",
+      "réponses": {
+        "A": "Le refus des juges africains d’appliquer le droit continental.",
+        "B": "La divergence entre le droit traditionnel et les résolutions modernes.",
+        "C": "La suppression des langues coloniales dans les textes.",
+        "D": "L’hostilité des populations rurales à la démocratie représentative."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "En résumé, quel défi fondamental l’UA doit-elle relever pour s’affirmer ?",
+      "réponses": {
+        "A": "Réconcilier souveraineté nationale et engagement collectif.",
+        "B": "Réduire la diversité ethnique dans ses organes.",
+        "C": "Abandonner les textes hérités de l’OUA.",
+        "D": "Fermer ses frontières aux interventions extérieures."
+      },
+      "bonne réponse": "A"
+    }
+  }
+}
+]

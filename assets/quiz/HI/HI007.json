@@ -1,0 +1,621 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "HI007_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Que désigne précisément le terme « monde occidental » ?",
+      "réponses": {
+        "A": "L’ensemble des pays ayant été colonisés par l’Europe au XIXe siècle.",
+        "B": "Les États européens membres de l’ONU et de l’OTAN.",
+        "C": "Les pays capitalistes à démocratie libérale influencés par la culture européenne.",
+        "D": "Les États situés à l’ouest de l’Europe géographique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la base philosophique centrale de la civilisation occidentale ?",
+      "réponses": {
+        "A": "L’égalité des peuples face au progrès scientifique.",
+        "B": "La liberté sous toutes ses formes : politique, économique, sociale et individuelle.",
+        "C": "Le respect du roi et de la tradition.",
+        "D": "La soumission des citoyens à l’ordre établi pour préserver l’harmonie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelles sont trois libertés clés dans les pays occidentaux ?",
+      "réponses": {
+        "A": "Liberté de voyager, d’enseigner, de critiquer.",
+        "B": "Liberté de consommer, de circuler, de gouverner.",
+        "C": "Liberté d’expression, de culte et d’entreprendre.",
+        "D": "Liberté de contester, de revendiquer et de réformer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quelles sont les grandes déclarations fondatrices des droits dans l’Occident ?",
+      "réponses": {
+        "A": "Déclaration de 1689, Constitution américaine, Déclaration de Vienne.",
+        "B": "Déclaration des Droits de l’Homme de 1789, de 1848 et de 1948.",
+        "C": "Déclaration de Genève, Déclaration d’Helsinki, Pacte de New York.",
+        "D": "Charte de la liberté universelle, Déclaration de Rome, Charte africaine des droits."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Dans la pensée occidentale, qui est le porteur principal de la liberté ?",
+      "réponses": {
+        "A": "L’État moderne garant des droits.",
+        "B": "Le citoyen collectif, guidé par la majorité.",
+        "C": "L’individu, centre des droits et des valeurs.",
+        "D": "L’élite éclairée, chargée de guider les masses."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Comment nomme-t-on une société structurée autour de l’autonomie de la personne ?",
+      "réponses": {
+        "A": "Une société communautariste.",
+        "B": "Une société de classes sociales.",
+        "C": "Une société individualiste.",
+        "D": "Une société dirigée par la culture dominante."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle est la meilleure définition de l’individualisme occidental ?",
+      "réponses": {
+        "A": "L’individu doit se soumettre à la tradition familiale.",
+        "B": "L’individu est libre et responsable, égal en droit à tous les autres.",
+        "C": "L’individu n’a de valeur que dans son groupe culturel.",
+        "D": "L’individu dépend du collectif pour réussir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Dans une société occidentale, qu’est-ce qui symbolise un individu « libre et émancipé » ?",
+      "réponses": {
+        "A": "L’accès à l’éducation et la liberté sexuelle.",
+        "B": "La réussite économique, qui donne un statut social reconnu.",
+        "C": "L’appartenance à une majorité ethnique.",
+        "D": "Le niveau d’étude et la loyauté à l’État."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle est la principale religion historiquement dominante dans le monde occidental ?",
+      "réponses": {
+        "A": "L’islam, par son expansion au Moyen Âge.",
+        "B": "Le judaïsme, fondateur des institutions.",
+        "C": "Le christianisme, même s’il est aujourd’hui en recul.",
+        "D": "Le bouddhisme, introduit par les missionnaires modernes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que l’Occident est marqué par les valeurs chrétiennes ?",
+      "réponses": {
+        "A": "Parce que la majorité actuelle pratique le christianisme.",
+        "B": "Parce que le christianisme structure les valeurs, les lois et les mœurs.",
+        "C": "Parce que les papes dirigent encore certaines institutions étatiques.",
+        "D": "Parce que les guerres religieuses y sont toujours actives."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Comment la liberté économique est-elle valorisée dans la culture occidentale ?",
+      "réponses": {
+        "A": "Par la limitation des revenus pour assurer l’égalité réelle.",
+        "B": "Par la possibilité d’hériter sans contraintes fiscales.",
+        "C": "Par la liberté d’entreprendre et la concurrence entre individus.",
+        "D": "Par la redistribution automatique des richesses produites."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "Dans la logique individualiste occidentale, qu'est-ce qui prévaut sur les liens communautaires ?",
+      "réponses": {
+        "A": "Le devoir moral envers la société.",
+        "B": "L’identité ethnique ou religieuse.",
+        "C": "L’autonomie personnelle et les choix individuels.",
+        "D": "La solidarité traditionnelle imposée par la culture."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle critique est fréquemment adressée à l’individualisme occidental ?",
+      "réponses": {
+        "A": "Il renforce le contrôle étatique sur les individus.",
+        "B": "Il rend l’individu dépendant de la morale religieuse.",
+        "C": "Il empêche la réussite personnelle dans un monde compétitif.",
+        "D": "Il tend à affaiblir les liens sociaux et le sens du collectif."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "Qu’est-ce qui distingue la vision occidentale de la réussite ?",
+      "réponses": {
+        "A": "La reconnaissance du clan familial.",
+        "B": "Le service rendu à la communauté.",
+        "C": "Le succès professionnel et l’ascension sociale.",
+        "D": "La conformité aux traditions culturelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi certains disent que l’Occident est une civilisation marchande ?",
+      "réponses": {
+        "A": "Parce que toutes les décisions politiques y sont prises par des commerçants.",
+        "B": "Parce que les valeurs dominantes reposent sur la consommation et l’argent.",
+        "C": "Parce que le clergé contrôle les circuits économiques.",
+        "D": "Parce que les marchés sont limités à une élite."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Quel est le lien entre démocratie libérale et individualisme ?",
+      "réponses": {
+        "A": "La démocratie impose une autorité collective.",
+        "B": "L’individualisme nie la démocratie en la rendant inutile.",
+        "C": "La démocratie libérale repose sur la liberté individuelle comme fondement.",
+        "D": "L’individualisme ne peut exister que dans les monarchies absolues."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Quel texte fondateur occidental proclame les droits naturels de l’homme ?",
+      "réponses": {
+        "A": "La Déclaration d’indépendance du Kenya.",
+        "B": "La Déclaration des Droits de l’Homme et du Citoyen.",
+        "C": "La Déclaration des droits de la femme et de l’enfant.",
+        "D": "Le serment d’Hippocrate."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Quelle est une conséquence paradoxale de l’individualisme en Occident ?",
+      "réponses": {
+        "A": "Une dépendance accrue au collectif religieux.",
+        "B": "Une forte homogénéité culturelle.",
+        "C": "Un isolement social malgré la liberté individuelle.",
+        "D": "Une impossibilité de s’enrichir personnellement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Pourquoi dit-on que la culture occidentale valorise la rationalité ?",
+      "réponses": {
+        "A": "Elle se méfie de la science et du progrès technique.",
+        "B": "Elle repose sur l’instinct et la tradition populaire.",
+        "C": "Elle impose une foi dogmatique dans les anciens textes.",
+        "D": "Elle privilégie la pensée critique, l’analyse et la méthode."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°20": {
+      "question": "Quel est l’un des grands défis actuels des sociétés occidentales ?",
+      "réponses": {
+        "A": "Le rejet de la science et des libertés fondamentales.",
+        "B": "La montée d’un totalitarisme religieux soutenu par l’État.",
+        "C": "Le maintien des valeurs individuelles dans un monde globalisé.",
+        "D": "L’abolition des droits de l’homme au profit des groupes dominants."
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI007_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Qu'est-ce que le monde occidental ?",
+      "réponses": {
+        "A": "Une alliance militaire entre les pays industrialisés non communistes.",
+        "B": "Les États situés à l’ouest du globe influencés par la religion chrétienne.",
+        "C": "L’ensemble des pays capitalistes à démocratie libérale, marqués par la civilisation européenne.",
+        "D": "Les nations postcoloniales alliées aux États-Unis et à l’OTAN."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quelle est la base fondamentale de la civilisation occidentale ?",
+      "réponses": {
+        "A": "L’unité ethnique et linguistique des peuples européens.",
+        "B": "La liberté politique, économique, sociale et individuelle.",
+        "C": "Le respect des traditions monarchiques et religieuses.",
+        "D": "La soumission de l’individu à la volonté de l’État souverain."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Citez trois exemples de libertés propres au monde occidental.",
+      "réponses": {
+        "A": "Liberté de s’habiller, de voyager, de commercer.",
+        "B": "Liberté d’expression, liberté de culte, liberté d’entreprendre.",
+        "C": "Liberté de protester, de grève, d’expansion territoriale.",
+        "D": "Liberté de refuser la loi, de consommer, d’exercer un pouvoir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelles déclarations symbolisent les droits fondamentaux dans l’Occident ?",
+      "réponses": {
+        "A": "Déclaration Universelle de 1948, Déclaration de 1848, Déclaration de 1789.",
+        "B": "Déclaration de Rome, Charte de Vienne, Déclaration africaine des peuples.",
+        "C": "Pacte de Varsovie, Déclaration d’Helsinki, Constitution de l’ONU.",
+        "D": "Charte du citoyen moderne, Loi universelle de 1815, Acte de Genève."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Qui est au centre des valeurs dans la civilisation occidentale ?",
+      "réponses": {
+        "A": "L’armée comme garant de l’unité nationale.",
+        "B": "L’individu, responsable et porteur de droits.",
+        "C": "La communauté ethnique et religieuse.",
+        "D": "Le marché comme régulateur unique des comportements sociaux."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Comment appelle-t-on une société fondée sur l’autonomie personnelle ?",
+      "réponses": {
+        "A": "Une société égalitariste.",
+        "B": "Une société collectiviste.",
+        "C": "Une société individualiste.",
+        "D": "Une société corporatiste."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle définition correspond à l’individualisme occidental ?",
+      "réponses": {
+        "A": "L’individu s’efface devant le groupe, pour garantir l’unité.",
+        "B": "L’individu agit selon ses choix, libre et égal en droits.",
+        "C": "L’individu dépend entièrement de la communauté nationale.",
+        "D": "L’individu est réduit à un rôle économique dans la société."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Qu’est-ce qui distingue l’individu émancipé dans la société occidentale ?",
+      "réponses": {
+        "A": "Sa liberté religieuse garantie par l’État.",
+        "B": "Sa réussite économique et son pouvoir d’achat.",
+        "C": "Son appartenance à une classe noble ou politique.",
+        "D": "Son implication dans les rituels communautaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelle religion a façonné les fondements culturels de l’Occident ?",
+      "réponses": {
+        "A": "Le judaïsme dominant depuis le Moyen Âge.",
+        "B": "L’islam à travers l’Andalousie médiévale.",
+        "C": "Le christianisme, bien qu’en retrait aujourd’hui.",
+        "D": "Le bouddhisme à travers l’influence orientale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi les valeurs chrétiennes influencent-elles l’Occident ?",
+      "réponses": {
+        "A": "Parce que la majorité de la population pratique encore intensément le culte.",
+        "B": "Parce que le christianisme a façonné la morale et les institutions sociales.",
+        "C": "Parce que l’Église dirige les États modernes.",
+        "D": "Parce que les papes détiennent un pouvoir suprême en Europe."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Pourquoi la société occidentale est-elle qualifiée d’individualiste ?",
+      "réponses": {
+        "A": "Parce qu’elle garantit la liberté collective avant celle de l’individu.",
+        "B": "À cause du libéralisme qui place l’individu et ses intérêts au centre de la société.",
+        "C": "Parce que l’État oriente les décisions personnelles au nom du bien commun.",
+        "D": "Car la société valorise les liens communautaires et les traditions familiales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Citez les trois règles d’or dans une société capitaliste occidentale.",
+      "réponses": {
+        "A": "Redistribution, planification, stabilité sociale.",
+        "B": "Travail collectif, service public, sécurité économique.",
+        "C": "Libre entreprise, acceptation de la concurrence, recherche du profit.",
+        "D": "Coopération d’État, contrôle des prix, égalité des revenus."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quel est l’impact de l’individualisme sur la vie communautaire ?",
+      "réponses": {
+        "A": "Il renforce les solidarités locales et les fêtes religieuses.",
+        "B": "Il favorise les engagements politiques de groupe.",
+        "C": "Il réduit les liens sociaux et renforce les intérêts personnels.",
+        "D": "Il développe le volontariat au sein des communautés ethniques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quels héritages culturels structurent l’Occident ?",
+      "réponses": {
+        "A": "L’architecture islamique, la philosophie asiatique, les réformes africaines.",
+        "B": "La culture gréco-romaine, la Renaissance et la révolution industrielle.",
+        "C": "L’expansion maya, les rituels hindous et la spiritualité orientale.",
+        "D": "Le folklore tribal, les sagas nordiques, et les mythes modernes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Comment l’art et la culture sont-ils aujourd’hui diffusés dans l’Occident ?",
+      "réponses": {
+        "A": "Par les musées traditionnels exclusivement.",
+        "B": "Par les familles nobles et les universités classiques.",
+        "C": "Par les médias, la technologie et la mondialisation.",
+        "D": "Par l’Église et les académies culturelles nationales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle est la structure juridique fondamentale dans un État occidental ?",
+      "réponses": {
+        "A": "La loi coutumière transmise par tradition.",
+        "B": "La charte des chefs religieux et des notables.",
+        "C": " La décision du Parlement populaire souverain.",
+        "D": "La constitution, qui encadre le pouvoir de l’État"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Quel est le rôle exact d’une constitution ?",
+      "réponses": {
+        "A": "Fixer les salaires et les valeurs économiques de l’État.",
+        "B": "Définir la politique étrangère et militaire d’un pays.",
+        "C": "Distribuer les ressources naturelles de manière équitable.",
+        "D": "Déterminer la forme, l’organisation et le fonctionnement de l’État."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°18": {
+      "question": "Quels sont les trois pouvoirs définis dans une démocratie libérale ?",
+      "réponses": {
+        "A": "Le pouvoir militaire, moral et fiscal.",
+        "B": "Le pouvoir communautaire, ancestral et diplomatique.",
+        "C": "Le pouvoir exécutif, législatif et judiciaire.",
+        "D": "Le pouvoir économique, spirituel et coutumier."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Que garantit une démocratie moderne à ses citoyens ?",
+      "réponses": {
+        "A": "La domination de la majorité ethnique sur les autres.",
+        "B": "La limitation des libertés au profit de la stabilité.",
+        "C": "La liberté individuelle, l’égalité et le pluralisme politique.",
+        "D": "La priorité des valeurs religieuses sur les lois civiles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Que signifie concrètement la séparation des pouvoirs ?",
+      "réponses": {
+        "A": "Chaque citoyen choisit son pouvoir personnel dans l’État.",
+        "B": "Chaque fonction est exercée par un organe autonome pour éviter les abus.",
+        "C": "Tous les pouvoirs sont concentrés dans une seule autorité morale.",
+        "D": "Le pouvoir judiciaire est sous contrôle du chef d’État pour garantir la justice."
+      },
+      "bonne réponse": "B"
+    }
+  }
+},
+{
+  "title": "Quiz 3",
+  "id": "HI007_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le rôle principal des partis politiques en Occident ?",
+      "réponses": {
+        "A": "Ils exécutent les lois votées par les assemblées élues.",
+        "B": "Ils organisent uniquement les campagnes électorales.",
+        "C": "Ils représentent les citoyens, animent le débat et conquièrent le pouvoir.",
+        "D": "Ils rédigent la Constitution et contrôlent l’armée."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels types de systèmes politiques trouve-t-on dans le monde occidental ?",
+      "réponses": {
+        "A": "Le système théocratique et le système communautaire.",
+        "B": "Le multipartisme (France, Italie) et le bipartisme (USA, GB, Japon).",
+        "C": "Le régime militaire et le régime de coalition unifiée.",
+        "D": "Le centralisme démocratique et la démocratie populaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Qui sont les autres acteurs majeurs de la vie politique en Occident ?",
+      "réponses": {
+        "A": "Les gouverneurs provinciaux et les chambres royales.",
+        "B": "Les syndicats, le patronat, la presse et les associations.",
+        "C": "Les tribunaux militaires et les entreprises d’État.",
+        "D": "Les églises, les familles royales et les chefs coutumiers."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Qu’appelle-t-on un groupe de pression ?",
+      "réponses": {
+        "A": "Un parti politique cherchant à obtenir la majorité.",
+        "B": "Une milice armée qui impose ses idées par la force.",
+        "C": "Une organisation apolitique qui influence les décisions politiques.",
+        "D": "Un média d’opinion contrôlé par l’exécutif."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Pourquoi les groupes de pression sont-ils essentiels dans les démocraties ?",
+      "réponses": {
+        "A": "Ils garantissent la légalité des élections et rédigent les lois.",
+        "B": "Ils diffusent la propagande gouvernementale dans les médias.",
+        "C": "Ils défendent des intérêts collectifs et influencent les décisions publiques.",
+        "D": "Ils remplacent les partis politiques en période de crise."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Quels sont les trois types de régimes démocratiques présents en Occident ?",
+      "réponses": {
+        "A": "Le régime autoritaire, le régime communautaire et le régime fédéral.",
+        "B": "Le régime présidentiel, le semi-présidentiel et le parlementaire.",
+        "C": "Le régime coutumier, le monarchique et le participatif.",
+        "D": "Le régime uninominal, proportionnel et majoritaire."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Comment fonctionne un régime présidentiel pur ?",
+      "réponses": {
+        "A": "Le président partage le pouvoir exécutif avec le parlement.",
+        "B": "Le président gouverne avec un roi qui détient un droit de veto.",
+        "C": "Le président exerce seul l’exécutif, sans dépendance du législatif.",
+        "D": "Le président est uniquement une figure symbolique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est la caractéristique d’un régime semi-présidentiel ?",
+      "réponses": {
+        "A": "Le président nomme tous les députés du parlement.",
+        "B": "Le chef de l’État est élu par le parlement uniquement.",
+        "C": "Le président partage l’exécutif avec un Premier ministre responsable devant le parlement.",
+        "D": "Le gouvernement est totalement autonome vis-à-vis du parlement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "En régime parlementaire, quel est le rôle du chef de l’État ?",
+      "réponses": {
+        "A": "Il préside le conseil des ministres et nomme les députés.",
+        "B": "Il gouverne seul pendant les périodes électorales.",
+        "C": "Il est essentiellement symbolique, sans véritable pouvoir exécutif.",
+        "D": "Il rédige les lois et contrôle la justice."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quelles sont les deux formes principales de régime parlementaire ?",
+      "réponses": {
+        "A": "République militaire et république monarchique.",
+        "B": "République communautaire et monarchie semi-présidentielle.",
+        "C": "République parlementaire et monarchie parlementaire.",
+        "D": "République autoritaire et monarchie constitutionnelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Dans le système bipartite, pourquoi le débat politique est-il intense ?",
+      "réponses": {
+        "A": "Parce que les deux partis contrôlent les médias officiels.",
+        "B": "Parce que deux partis alternent au pouvoir et concentrent les oppositions.",
+        "C": "Parce que les décisions sont prises uniquement par des technocrates.",
+        "D": "Parce que le parlement est souvent absent du processus décisionnel."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel est le rôle d’un syndicat dans une démocratie occidentale ?",
+      "réponses": {
+        "A": "Représenter l’élite financière et faire pression pour abroger les lois sociales.",
+        "B": "Influencer le marché boursier au nom du gouvernement.",
+        "C": "Défendre les intérêts des travailleurs face aux employeurs.",
+        "D": "Superviser les entreprises publiques et imposer la concurrence."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Pourquoi les ONG sont-elles considérées comme des acteurs politiques indirects ?",
+      "réponses": {
+        "A": "Parce qu’elles légifèrent à la place du parlement.",
+        "B": "Parce qu’elles participent aux élections comme candidats indépendants.",
+        "C": "Parce qu’elles influencent les politiques publiques sans faire partie du gouvernement.",
+        "D": "Parce qu’elles remplacent les institutions démocratiques en crise."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "En démocratie, à quoi sert la presse indépendante ?",
+      "réponses": {
+        "A": "À relayer uniquement les opinions des gouvernements élus.",
+        "B": "À contrôler les dépenses des partis politiques.",
+        "C": "À informer, critiquer, et permettre le débat d’idées.",
+        "D": "À censurer les propos allant à l’encontre de la majorité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Qu’est-ce qu’un contre-pouvoir ?",
+      "réponses": {
+        "A": "Une institution qui double les fonctions du parlement.",
+        "B": "Un acteur social capable de limiter ou de contester les décisions d’un pouvoir établi.",
+        "C": "Une police spéciale indépendante du ministère de l’intérieur.",
+        "D": "Un parti extrême qui refuse la Constitution en place."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "En régime parlementaire, que signifie la responsabilité politique du gouvernement ?",
+      "réponses": {
+        "A": "Le gouvernement peut gouverner sans tenir compte du parlement.",
+        "B": "Le gouvernement peut être renversé par un vote du parlement.",
+        "C": "Le chef de l’État peut remplacer le gouvernement par décret.",
+        "D": "Le gouvernement n’a de comptes à rendre qu’au peuple, pas aux institutions."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Pourquoi le régime présidentiel américain est-il considéré comme un modèle ?",
+      "réponses": {
+        "A": "Parce qu’il sépare strictement les pouvoirs et protège les libertés.",
+        "B": "Parce qu’il garantit une neutralité politique totale.",
+        "C": "Parce qu’il centralise les trois pouvoirs dans la personne du président.",
+        "D": "Parce qu’il favorise les décisions rapides au détriment des débats."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Que représente la Chambre des représentants aux États-Unis ?",
+      "réponses": {
+        "A": "L’organe qui élit directement le président.",
+        "B": "Le conseil chargé d’élaborer les textes religieux nationaux.",
+        "C": "L’une des deux chambres du Congrès qui vote les lois.",
+        "D": "Un organe consultatif issu de la société civile."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quelle est la spécificité du multipartisme en France ?",
+      "réponses": {
+        "A": "Un seul parti domine sans opposition significative.",
+        "B": "Les partis se succèdent dans un cadre autoritaire.",
+        "C": "Une multitude de partis participe à la vie politique, rendant les majorités complexes.",
+        "D": "Tous les partis sont issus du pouvoir militaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "Dans une démocratie, pourquoi la séparation des pouvoirs est-elle essentielle ?",
+      "réponses": {
+        "A": "Pour garantir que chaque pouvoir collabore sans contrôle.",
+        "B": "Pour permettre à un seul pouvoir de centraliser la gouvernance.",
+        "C": "Pour donner au pouvoir judiciaire la primauté sur l’exécutif.",
+        "D": "Pour éviter les abus en répartissant les rôles entre des institutions indépendantes."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}
+]

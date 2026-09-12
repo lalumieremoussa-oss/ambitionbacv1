@@ -1,0 +1,256 @@
+{
+  "title": "Quiz 8 : Perfectionnement",
+  "id": "SVT008_Q8",
+  "questions": {
+    "question n°1": {
+      "question": "Le cycle menstruel moyen dure :",
+      "réponses": {
+        "A": "14 jours",
+        "B": "21 jours",
+        "C": "28 jours",
+        "D": "35 jours"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "L’ovulation se produit généralement :",
+      "réponses": {
+        "A": "Le 7ᵉ jour",
+        "B": "Le 14ᵉ jour",
+        "C": "Le 21ᵉ jour",
+        "D": "Le dernier jour du cycle"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La FSH stimule :",
+      "réponses": {
+        "A": "La destruction des follicules",
+        "B": "L’épaississement de l’endomètre",
+        "C": "La croissance des follicules ovariens",
+        "D": "La chute hormonale"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La LH est responsable de :",
+      "réponses": {
+        "A": "La menstruation",
+        "B": "L’ovulation",
+        "C": "La fécondation",
+        "D": "La régénération de l’endomètre"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Les œstrogènes sont sécrétés par :",
+      "réponses": {
+        "A": "Le corps jaune",
+        "B": "Les cellules folliculaires",
+        "C": "Le placenta",
+        "D": "L’hypophyse"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "La progestérone est principalement produite par :",
+      "réponses": {
+        "A": "L’ovaire en général",
+        "B": "Le corps jaune",
+        "C": "L’endomètre",
+        "D": "L’ovule"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "En absence de fécondation, le corps jaune :",
+      "réponses": {
+        "A": "Se transforme en follicule secondaire",
+        "B": "Régresse",
+        "C": "Se développe davantage",
+        "D": "Se transforme en ovule"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "L’hormone qui provoque l’épaississement de l’endomètre est :",
+      "réponses": {
+        "A": "LH",
+        "B": "Œstrogène",
+        "C": "FSH",
+        "D": "HCG"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Les règles sont dues à :",
+      "réponses": {
+        "A": "Une augmentation de LH",
+        "B": "Une montée de progestérone",
+        "C": "Une chute de progestérone et d’œstrogènes",
+        "D": "Une fécondation ratée"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Les gonades féminines sont :",
+      "réponses": {
+        "A": "Les ovaires",
+        "B": "L’utérus",
+        "C": "Les trompes de Fallope",
+        "D": "L’hypothalamus"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "En l’absence de fécondation, le corps jaune :",
+      "réponses": {
+        "A": "Se transforme en placenta",
+        "B": "Produit davantage de FSH",
+        "C": "Se divise en deux",
+        "D": "Régresse"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "La baisse de quelle hormone provoque les règles ?",
+      "réponses": {
+        "A": "FSH",
+        "B": "LH",
+        "C": "Progestérone",
+        "D": "HCG"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle hormone stimule la sécrétion de LH et FSH ?",
+      "réponses": {
+        "A": "HCG",
+        "B": "GnRH",
+        "C": "Œstrogène",
+        "D": "Progestérone"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Les œstrogènes sont produits par :",
+      "réponses": {
+        "A": "Le corps jaune",
+        "B": "Le follicule en croissance",
+        "C": "L’utérus",
+        "D": "L’ovule"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Quand commence la phase lutéale du cycle ovarien ?",
+      "réponses": {
+        "A": "Au jour 1",
+        "B": "Après la fécondation",
+        "C": "Avant le pic de LH",
+        "D": "Juste après l’ovulation"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°16": {
+      "question": "Une forte concentration d’œstrogènes en phase folliculaire a pour effet :",
+      "réponses": {
+        "A": "D’inhiber la FSH",
+        "B": "De déclencher les règles",
+        "C": "D’induire un pic de LH",
+        "D": "De stimuler le corps jaune"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Le cycle hormonal est contrôlé principalement par :",
+      "réponses": {
+        "A": "L’hypophyse et les ovaires",
+        "B": "L’utérus et l’hypothalamus",
+        "C": "Le placenta et l’ovaire",
+        "D": "L’intestin et l’hypophyse"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La progestérone est essentielle pour :",
+      "réponses": {
+        "A": "Déclencher l’ovulation",
+        "B": "Éliminer les règles",
+        "C": "Initier la phase folliculaire",
+        "D": "Maintenir l’endomètre"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "LH signifie :",
+      "réponses": {
+        "A": "Luteinizing Hormone",
+        "B": "Lymphatic Hormone",
+        "C": "Long Hormone",
+        "D": "Liver Hormone"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Le rôle de la FSH est aussi présent :",
+      "réponses": {
+        "A": "Chez l’homme uniquement",
+        "B": "Chez la femme uniquement",
+        "C": "Chez l’homme et la femme",
+        "D": "Avant la puberté uniquement"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°21": {
+      "question": "Le rétrocontrôle positif exercé par les œstrogènes provoque :",
+      "réponses": {
+        "A": "Une montée de progestérone",
+        "B": "Un pic de FSH",
+        "C": "Un pic de LH",
+        "D": "Une baisse de GnRH"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°22": {
+      "question": "Durant la phase lutéale, la progestérone :",
+      "réponses": {
+        "A": "Est produite par le follicule mûr",
+        "B": "Est produite par le corps jaune",
+        "C": "Est produite par l’hypophyse",
+        "D": "Est absente"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°23": {
+      "question": "Le complexe hypothalamo-hypophysaire contrôle la reproduction via :",
+      "réponses": {
+        "A": "LH et FSH",
+        "B": "Progestérone",
+        "C": "Œstrogène uniquement",
+        "D": "L’hormone de croissance"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°24": {
+      "question": "Que fait la FSH durant les 7 premiers jours du cycle ?",
+      "réponses": {
+        "A": "Inhibe la croissance folliculaire",
+        "B": "Provoque les règles",
+        "C": "Stimule le développement d’un follicule",
+        "D": "Active la lutéinisation"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°25": {
+      "question": "L’ovulation correspond à :",
+      "réponses": {
+        "A": "L’élimination du follicule",
+        "B": "L’expulsion de l’endomètre",
+        "C": "La libération de l’ovocyte par le follicule mûr",
+        "D": "La montée de la FSH"
+      },
+      "bonne réponse": "C"
+    }
+  }
+}

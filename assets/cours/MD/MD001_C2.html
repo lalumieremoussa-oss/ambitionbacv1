@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape unique : Levée de l'indétermination $0/0$ par l'expression conjuguée",
+                    "content": "Lorsqu'une limite comportant des racines carrées aboutit à une forme indéterminée $\\frac{0}{0}$, la méthode principale consiste à transformer l'écriture en utilisant l'expression conjuguée.\n\n**🛠️ MÉTHODOLOGIE DÉTAILLÉE :**\n\n1. **Identification de la forme :** On remplace $x$ par la valeur $a$. Si on obtient $\\frac{0}{0}$, l'indétermination est confirmée.\n\n2. **Utilisation du conjugué :** L'expression conjuguée de $\\sqrt{A} - B$ est $\\sqrt{A} + B$. On multiplie le numérateur et le dénominateur par cette expression en utilisant l'identité remarquable $(a-b)(a+b) = a^2 - b^2$.\n\n3. **Simplification du numérateur :** On développe et on réduit le numérateur pour faire apparaître un facteur $(x - a)$.\n\n4. **Factorisation et Simplification :** On simplifie la fraction par le terme commun $(x - a)$ pour éliminer la cause du zéro au dénominateur.\n\n5. **Calcul final :** On remplace $x$ par $a$ dans l'expression simplifiée pour obtenir la limite réelle.",
+                    "example": "Étude détaillée de $\\lim_{x \\to 5} \\frac{\\sqrt{3x + 1} - 4}{x - 5}$ :\n\n**Analyse au brouillon :**\nEn remplaçant par $5$ : $\\frac{\\sqrt{3(5)+1}-4}{5-5} = \\frac{\\sqrt{16}-4}{0} = \\frac{0}{0}$ (F.I.).\n\n**Étape 1 : Multiplication par le conjugué.**\nL'expression conjuguée est $(\\sqrt{3x + 1} + 4)$.\n$\\frac{(\\sqrt{3x + 1} - 4)(\\sqrt{3x + 1} + 4)}{(x - 5)(\\sqrt{3x + 1} + 4)} = \\frac{(\\sqrt{3x + 1})^2 - 4^2}{(x - 5)(\\sqrt{3x + 1} + 4)}$\n$= \\frac{3x + 1 - 16}{(x - 5)(\\sqrt{3x + 1} + 4)} = \\frac{3x - 15}{(x - 5)(\\sqrt{3x + 1} + 4)}$\n\n**Étape 2 : Factorisation et Simplification.**\nOn factorise le numérateur : $3x - 15 = 3(x - 5)$.\nOn simplifie par $(x - 5)$ :\n$f(x) = \\frac{3(x - 5)}{(x - 5)(\\sqrt{3x + 1} + 4)} = \\frac{3}{\\sqrt{3x + 1} + 4}$\n\n**Étape 3 : Passage à la limite.**\n$\\lim_{x \\to 5} \\frac{3}{\\sqrt{3x + 1} + 4} = \\frac{3}{\\sqrt{16} + 4} = \\frac{3}{4 + 4} = \\frac{3}{8}$.\n\n**Conclusion :** $\\lim_{x \\to 5} f(x) = \\frac{3}{8}$.",
+                    "extras": [
+                        "Exemple 2 : $\\lim_{x \\to 0} \\frac{\\sqrt{x^2 + 1} - 1}{x}$.\nAprès multiplication par $(\\sqrt{x^2+1}+1)$, on obtient $\\frac{x^2+1-1}{x(\\sqrt{x^2+1}+1)} = \\frac{x^2}{x(\\sqrt{x^2+1}+1)}$.\nSimplification par $x$ : $\\frac{x}{\\sqrt{x^2+1}+1}$.\nCalcul : $\\frac{0}{1+1} = 0$.",
+                        "Exemple 3 : $\\lim_{x \\to -2} \\frac{\\sqrt{x^2 + x + 2} - \\sqrt{x + 6}}{x + 2}$.\nOn utilise le conjugué $(\\sqrt{x^2+x+2} + \\sqrt{x+6})$.\nLe numérateur devient $(x^2+x+2) - (x+6) = x^2 - 4$.\nFactorisation : $(x-2)(x+2)$.\nAprès simplification par $(x+2)$, il reste $\\frac{x-2}{\\sqrt{x^2+x+2} + \\sqrt{x+6}}$.\nCalcul : $\\frac{-2-2}{\\sqrt{4}+\\sqrt{4}} = \\frac{-4}{4} = -1$.",
+                        "Exemple 4 : $\\lim_{x \\to 1} \\frac{\\sqrt{x} - 1}{x - 1}$.\nMultiplication par $(\\sqrt{x}+1)$ : $\\frac{x-1}{(x-1)(\\sqrt{x}+1)}$.\nSimplification par $(x-1)$ : $\\frac{1}{\\sqrt{x}+1}$.\nCalcul : $\\frac{1}{1+1} = \\frac{1}{2}$.",
+                        "Exemple 5 : $\\lim_{x \\to 4} \\frac{\\sqrt{2x+1} - 3}{x - 4}$.\nConjugué : $(\\sqrt{2x+1}+3)$.\nNumérateur : $2x+1-9 = 2x-8 = 2(x-4)$.\nSimplification : $\\frac{2}{\\sqrt{2x+1}+3}$.\nCalcul : $\\frac{2}{3+3} = \\frac{2}{6} = \\frac{1}{3}$.",
+                        "Exemple 6 : $\\lim_{x \\to 0} \\frac{x}{\\sqrt{x+4} - 2}$.\nConjugué au dénominateur : $(\\sqrt{x+4}+2)$.\nLe dénominateur devient $(x+4)-4 = x$.\nSimplification par $x$ : il reste $\\sqrt{x+4}+2$.\nCalcul : $\\sqrt{4}+2 = 2+2 = 4$.",
+                        "Note importante : Toujours bien vérifier le signe du résultat final. L'expression conjuguée permet de transformer une soustraction de racines en une addition au dénominateur, ce qui lève l'indétermination."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

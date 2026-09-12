@@ -1,0 +1,586 @@
+[
+  {
+    "id": "MC001",
+    "titre": "Barycentre et lignes de niveaux",
+    "sections": [
+      {
+        "id": "MC001_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC001_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC001_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC001_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC001_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC001_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC001_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC001_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC001_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC002",
+    "titre": "Limites et continuité",
+    "sections": [
+      {
+        "id": "MC002_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC002_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC002_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC002_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC002_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC002_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC002_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC002_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC002_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC003",
+    "titre": "Divisibilité dans Z",
+    "sections": [
+      {
+        "id": "MC003_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC003_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC003_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC003_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC003_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC003_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC003_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC003_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC003_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC004",
+    "titre": "Dérivabilité et étude de fonctions",
+    "sections": [
+      {
+        "id": "MC004_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC004_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC004_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC004_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC004_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC004_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC004_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC004_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC004_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC005",
+    "titre": "Géométrie analytique de l’espace",
+    "sections": [
+      {
+        "id": "MC005_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC005_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC005_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC005_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC005_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC005_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC005_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC005_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC005_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC006",
+    "titre": "Primitives",
+    "sections": [
+      {
+        "id": "MC006_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC006_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC006_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC006_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC006_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC006_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC006_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC006_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC006_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC007",
+    "titre": "Fonctions logarithmes et exponentielles",
+    "sections": [
+      {
+        "id": "MC007_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC007_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC007_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC007_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC007_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC007_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC007_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC007_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC007_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC008",
+    "titre": "Nombres complexes",
+    "sections": [
+      {
+        "id": "MC008_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC008_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC008_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC008_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC008_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC008_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC008_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC008_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC008_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC009",
+    "titre": "Suites numériques",
+    "sections": [
+      {
+        "id": "MC009_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC009_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC009_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC009_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC009_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC009_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC009_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC009_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC009_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC010",
+    "titre": "Calcul intégral",
+    "sections": [
+      {
+        "id": "MC010_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC010_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC010_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC010_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC010_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC010_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC010_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC010_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC010_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC011",
+    "titre": "Probabilité conditionnelle et variable aléatoire",
+    "sections": [
+      {
+        "id": "MC011_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC011_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC011_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC011_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC011_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC011_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC011_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC011_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC011_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC012",
+    "titre": "Statistique à deux variables",
+    "sections": [
+      {
+        "id": "MC012_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC012_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC012_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC012_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC012_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC012_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC012_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC012_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC012_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MC013",
+    "titre": "Équations différentielles",
+    "sections": [
+      {
+        "id": "MC013_C1",
+        "titre": "Cours"
+      },
+      {
+        "id": "MC013_E1",
+        "titre": "Exercices"
+      },
+      {
+        "id": "MC013_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MC013_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MC013_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MC013_V4",
+        "titre": "Vidéo 4"
+      },
+      {
+        "id": "MC013_Q1",
+        "titre": "Quiz 1"
+      },
+      {
+        "id": "MC013_Q2",
+        "titre": "Quiz 2"
+      },
+      {
+        "id": "MC013_Q3",
+        "titre": "Quiz 3"
+      }
+    ]
+  },
+  {
+    "id": "MCREV",
+    "titre": "Révision générale et Prépa BAC",
+    "sections": [
+      {
+        "id": "MCREV_E1",
+        "titre": "Exercices et corrigés Partie 1"
+      },
+      {
+        "id": "MCREV_E2",
+        "titre": "Exercices et corrigés Partie 2"
+      },
+      {
+        "id": "MCREV_E3",
+        "titre": "Exercices et corrigés Partie 3"
+      },
+      {
+        "id": "MCREV_E4",
+        "titre": "Exercices et corrigés Partie 4"
+      },
+      {
+        "id": "MCREV_V1",
+        "titre": "Vidéo 1"
+      },
+      {
+        "id": "MCREV_V2",
+        "titre": "Vidéo 2"
+      },
+      {
+        "id": "MCREV_V3",
+        "titre": "Vidéo 3"
+      },
+      {
+        "id": "MCREV_V4",
+        "titre": "Vidéo 4"
+      }
+    ]
+  }
+]

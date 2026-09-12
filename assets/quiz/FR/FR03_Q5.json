@@ -1,0 +1,126 @@
+{
+    "title": "Quiz 4",
+    "id": "FR001_Q4",
+    "questions": {
+        "question n°1": {
+            "question": "Dans le sujet « Lire c’est comme partir en voyage », la lecture est présentée comme un moyen d’accéder à des connaissances sur d’autres sociétés.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°2": {
+            "question": "Selon « Lire c’est comme partir en voyage », le voyage proposé est toujours réel et géographique.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°3": {
+            "question": "Dans « Lire c’est comme partir en voyage », l’axe 2 insiste sur le rôle esthétique et ludique, complémentaire à l'information.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°4": {
+            "question": "Sujet : « Le poète est celui qui dit la vérité qui blesse ». On peut avancer un argument de la fonction lyrique à la thèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°5": {
+            "question": "Sujet : « Le poète est celui qui dit la vérité (...) ». Le poète peut imposer une vision subjective qui peut autant éveiller que manipuler.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°6": {
+            "question": "La fonction ornementale de la poésie est souvent utilisée comme argument pour soutenir la doctrine de 'L'Art pour l'Art'.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°7": {
+            "question": "Sujet : « Le roman est un miroir que l'on promène le long d'un chemin. » Cette citation de Stendhal défend une conception réaliste de la littérature.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°8": {
+            "question": "Dans une dissertation sur le roman, l'antithèse de la fonction réaliste peut être la fonction de création d'un monde imaginaire ou merveilleux.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°9": {
+            "question": "L'écrivain engagé considère que le silence est une forme de complicité face à l'oppression.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°10": {
+            "question": "La 'catharsis' au théâtre est une fonction purement esthétique qui n'a aucun impact sur les émotions du spectateur.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°11": {
+            "question": "Sujet : « La poésie ne doit pas être utile, elle doit être belle. » La thèse ici privilégie la fonction didactique au détriment de l'esthétique.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°12": {
+            "question": "L'ironie et la satire sont des outils privilégiés pour la fonction critique de la littérature.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°13": {
+            "question": "Un auteur comme Jean-Paul Sartre, dans 'Qu'est-ce que la littérature ?', s'oppose à l'idée que l'écrivain doit être engagé.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        },
+        "question n°14": {
+            "question": "La fonction lyrique permet à l'auteur d'exprimer des sentiments personnels et universels, comme l'amour ou la mort.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "A"
+        },
+        "question n°15": {
+            "question": "En conclusion d'une dissertation, la synthèse doit obligatoirement donner raison à l'antithèse.",
+            "réponses": {
+                "A": "Vrai",
+                "B": "Faux"
+            },
+            "bonne réponse": "B"
+        }
+    }
+}

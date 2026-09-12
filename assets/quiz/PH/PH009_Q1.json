@@ -1,0 +1,201 @@
+
+  {
+    "id": "PH009_Q1",
+    "title": "Quiz 1",
+    "questions": {
+      "question n°1": {
+        "question": "Soit le sujet suivant : Doit-on Surestimer la Science ? Le terme \"Doit-on\" introduit une dimension :",
+        "réponses": {
+          "A": "Exclusivement factuelle, cherchant à déterminer un état de fait observable sans aucune considération pour la moralité ou la légitimité d'une action.",
+          "B": "Principalement historique, interrogeant l'évolution passée des perceptions de la science à travers les époques et les civilisations.",
+          "C": "Purement descriptive, qui se contente de rapporter ce qui est, sans émettre de jugement de valeur ou de recommandation pour l'avenir.",
+          "D": "Normative, éthique ou de légitimité, qui questionne si c'est nécessaire, légitime, ou raisonnable de porter un jugement sur la science."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°2": {
+        "question": "Le verbe \"Surestimer\", dans le cadre de la question \"Doit-on surestimer la science ?\", signifie :",
+        "réponses": {
+          "A": "Accorder à la science une valeur juste et mesurée, en reconnaissant précisément ses contributions sans aucun excès ou idéalisation.",
+          "B": "Exagérer la valeur, accorder un crédit excessif, ou idéaliser la science de manière déraisonnable en lui attribuant des qualités qu'elle n'a pas.",
+          "C": "Sous-estimer délibérément les capacités de la science, en ignorant ses découvertes et en minimisant son impact sur la société humaine.",
+          "D": "Porter un jugement objectif sur la science, en la plaçant dans une perspective critique qui en révèle à la fois les forces et les faiblesses inhérentes."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°3": {
+        "question": "La reformulation du sujet \"Est-il raisonnable de croire que la science peut tout expliquer, tout résoudre, tout améliorer ?\" met en lumière une interrogation sur :",
+        "réponses": {
+          "A": "La capacité limitée de la science à comprendre des phénomènes naturels simples, sans pouvoir les décrire ou les prédire avec précision.",
+          "B": "La prétention de la science à offrir des réponses universelles et complètes à tous les problèmes humains, qu'ils soient matériels, moraux ou existentiels.",
+          "C": "Le rôle exclusif de la science dans la création de nouvelles interrogations philosophiques, sans jamais apporter de solution aux questions qu'elle soulève.",
+          "D": "La nécessité pour la science de se limiter à des domaines très spécifiques, sans jamais chercher à influencer la vie quotidienne ou les décisions politiques."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°4": {
+        "question": "Des penseurs comme René Descartes ou Auguste Comte ont \"exalté les vertus\" de la science, allant jusqu'à la considérer comme :",
+        "réponses": {
+          "A": "Une discipline parmi d'autres, utile pour des aspects techniques mais sans influence majeure sur la connaissance humaine ou le progrès social.",
+          "B": "Une source de confusion et d'illusions, éloignant l'homme de la sagesse et de la véritable compréhension du monde et de soi.",
+          "C": "La clé de tous les savoirs et de toutes les améliorations sociales, capable de transformer radicalement la condition humaine.",
+          "D": "Un outil dangereux et destructeur, menaçant la liberté individuelle et l'harmonie naturelle des sociétés traditionnelles."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°5": {
+        "question": "À l'opposé des penseurs comme Descartes ou Comte, des figures comme Rousseau ou Freud n'ont pas hésité à pointer les :",
+        "réponses": {
+          "A": "Contributions indéniables de la science à l'épanouissement humain et à la résolution de tous les dilemmes existentiels.",
+          "B": "Limites, voire les dangers de la science, suggérant que ses avancées peuvent aussi avoir des effets pervers ou des conséquences imprévues sur l'homme et la société.",
+          "C": "Faiblesses intrinsèques de la pensée philosophique face à la rigueur et à l'objectivité de la méthode scientifique.",
+          "D": "Bienfaits universels de la technologie issue de la science, considérant chaque innovation comme un pas vers le bonheur absolu."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°6": {
+        "question": "L'Argument 1 de l'Axe I (\"La science semble mériter la place centrale qu’on lui accorde\") est que la science :",
+        "réponses": {
+          "A": "Est une source de confusion et de doute, qui éloigne l'homme de la compréhension claire des phénomènes naturels.",
+          "B": "Ne se préoccupe que des questions matérielles, sans jamais satisfaire la curiosité intellectuelle de l'homme pour les mystères de l'univers.",
+          "C": "Satisfait la curiosité intellectuelle de l'homme, en offrant des explications rationnelles aux phénomènes naturels et en structurant sa compréhension du monde.",
+          "D": "Se limite à la répétition de dogmes et de superstitions, sans jamais proposer de nouvelles perspectives ou de connaissances originales."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°7": {
+        "question": "Selon Descartes, la science permet de nous rendre \"maîtres et possesseurs de la nature\". Cette citation, extraite du Discours de la méthode, signifie que la science :",
+        "réponses": {
+          "A": "N'a aucun pouvoir réel sur la nature, l'homme étant condamné à subir passivement les forces extérieures sans pouvoir les influencer.",
+          "B": "Mène à une harmonie parfaite avec la nature, en respectant son équilibre sans chercher à la transformer ou à la dominer.",
+          "C": "Est un instrument de connaissance et d'action qui donne à l'homme le pouvoir de comprendre, de manipuler et de transformer le monde naturel à son avantage.",
+          "D": "Est une entreprise purement contemplative, dont le but est de comprendre la nature sans jamais chercher à en tirer un quelconque bénéfice matériel."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°8": {
+        "question": "La science permet de prévoir et d'agir, ce qui implique que grâce à elle, l'homme peut :",
+        "réponses": {
+          "A": "Subir passivement les événements naturels sans aucune capacité d'anticipation ou de réaction face aux imprévus.",
+          "B": "Ignorer les conséquences de ses actions, la science étant incapable de fournir des informations fiables pour la prise de décision.",
+          "C": "Anticiper les événements futurs et adapter son comportement en conséquence, lui donnant une capacité d'intervention proactive sur le monde.",
+          "D": "Se fier uniquement à l'intuition et à la chance, la prévision scientifique étant une illusion sans aucun fondement réel."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°9": {
+        "question": "Quel philosophe a formulé la maxime célèbre : \"science d'où prévoyance, prévoyance d'où action\" ?",
+        "réponses": {
+          "A": "Jean-Jacques Rousseau, pour sa critique du progrès et son éloge de l'état de nature.",
+          "B": "Francis Bacon, pour son rôle dans la promotion de la méthode expérimentale et son appel à une science utile.",
+          "C": "Karl Marx, pour sa théorie de l'action révolutionnaire et la transformation des structures économiques et sociales.",
+          "D": "Auguste Comte, fondateur du positivisme, qui a systématisé l'idée que la connaissance scientifique doit servir à l'amélioration de la société et à la maîtrise du réel."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°10": {
+        "question": "La maxime d'Auguste Comte : \"science d'où prévoyance, prévoyance d'où action\", signifie que :",
+        "réponses": {
+          "A": "L'action humaine est toujours aléatoire et imprévisible, indépendante de toute connaissance ou prévision scientifique.",
+          "B": "La connaissance scientifique (science) permet d'anticiper les phénomènes (prévoyance), ce qui en retour rend possible une intervention efficace sur le monde (action).",
+          "C": "La science est une activité purement théorique, sans aucune application pratique ou incidence sur le comportement humain.",
+          "D": "La prévoyance est une qualité innée de l'homme, qui n'a pas besoin de la science pour agir de manière éclairée et pertinente."
+        },
+        "bonne réponse": "B"
+      },
+      "question n°11": {
+        "question": "La science améliore la condition matérielle de l'homme, notamment par :",
+        "réponses": {
+          "A": "Une détérioration constante des conditions de vie, la science étant une source de pollution et de déséquilibre écologique.",
+          "B": "Uniquement des avancées dans le domaine de la philosophie abstraite, sans aucun impact sur la vie quotidienne ou le confort matériel.",
+          "C": "Les progrès techniques, médicaux et agricoles, qui se traduisent par une augmentation de la durée de vie, de la production alimentaire et du confort général.",
+          "D": "Une régression vers un état primitif, où l'homme doit se passer de toute technologie pour retrouver une forme de sagesse originelle."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°12": {
+        "question": "Pour les \"scientistes du XIXe siècle\", la science était considérée comme une \"panacée universelle\". Cela veut dire qu'ils la voyaient comme :",
+        "réponses": {
+          "A": "Une source limitée de connaissances, utile pour des problèmes spécifiques mais incapable de résoudre les grands défis de l'humanité.",
+          "B": "Une maladie incurable qui affligeait la société, la rendant plus complexe et plus difficile à vivre.",
+          "C": "Le remède absolu et complet à tous les maux et problèmes de l'humanité, capable de tout expliquer, de tout résoudre et de tout améliorer sans exception.",
+          "D": "Une illusion dangereuse, qui promettait des solutions simples à des problèmes complexes, mais qui n'apportait en réalité aucune amélioration significative."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°13": {
+        "question": "La science offre des \"explications rationnelles aux phénomènes naturels\". Cela implique que la science :",
+        "réponses": {
+          "A": "Se contente de décrire les phénomènes sans chercher à en comprendre les causes ou les mécanismes sous-jacents.",
+          "B": "Fait appel à des explications magiques ou mystiques pour interpréter le monde, en dehors de toute logique ou preuve.",
+          "C": "Produit des connaissances qui sont uniquement intuitives, sans aucune construction théorique ou vérification empirique.",
+          "D": "Propose des compréhensions fondées sur la raison, la logique et l'observation, permettant de dépasser les superstitions ou les mythes."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°14": {
+        "question": "La capacité de prévoir et d'agir de la science se manifeste par la possibilité pour l'homme de :",
+        "réponses": {
+          "A": "Rester passif face aux dangers et aux catastrophes, la science étant incapable de fournir des alertes ou des moyens de prévention.",
+          "B": "Se fier uniquement à la chance et au hasard dans ses décisions, la prévoyance scientifique étant une idée abstraite et non applicable.",
+          "C": "Créer des problèmes artificiels qui n'existent pas dans la réalité, en inventant des scénarios catastrophiques pour manipuler l'opinion publique.",
+          "D": "Anticiper les risques (prévoir) et développer des solutions ou des stratégies pour y faire face (agir), renforçant ainsi son contrôle sur son environnement."
+        },
+        "bonne réponse": "D"
+      },
+      "question n°15": {
+        "question": "L'amélioration de la condition matérielle de l'homme par la science se traduit par des \"progrès techniques, médicaux, agricoles, etc.\". Cela signifie que la science :",
+        "réponses": {
+          "A": "N'a aucun impact sur les aspects concrets de la vie humaine, se limitant à des avancées théoriques sans application pratique.",
+          "B": "Conduit à une régression sociale et économique, en détruisant les industries traditionnelles et en créant du chômage.",
+          "C": "Transforme positivement la vie quotidienne par des innovations concrètes dans la production de biens, la santé et l'alimentation, augmentant le confort et la qualité de vie.",
+          "D": "Se contente de perpétuer les inégalités sociales, en concentrant les bénéfices de ses avancées entre les mains d'une élite restreinte."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°16": {
+        "question": "La science est considerée comme une \"force de progrès, de libération et de puissance\". Cela met en évidence :",
+        "réponses": {
+          "A": "Le caractère purement négatif de la science, qui opprime l'homme et l'asservit à ses propres inventions.",
+          "B": "Le rôle ambigu de la science, qui, tout en apportant des bienfaits, est aussi une source de destruction et de régression.",
+          "C": "La perception largement positive de la science comme un moteur d'évolution positive, capable d'affranchir l'homme des contraintes et d'augmenter ses capacités.",
+          "D": "L'absence totale d'impact de la science sur la société, sa force étant purement théorique et sans aucune manifestation concrète."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°17": {
+        "question": "La problématique \"Faut-il pour autant la considérer comme une réponse ultime à tous les problèmes humains ?\" révèle que le sujet s'interroge sur :",
+        "réponses": {
+          "A": "La nécessité de donner à la science une place subordonnée et insignifiante dans la vie humaine, sans aucune confiance.",
+          "B": "La pertinence de la science uniquement pour des problèmes mineurs et insignifiants, sans aucune capacité à aborder des questions existentielles.",
+          "C": "L'absolutisation de la science comme solution universelle, explorant si elle peut réellement répondre à tous les défis, y compris ceux qui ne sont pas de nature scientifique.",
+          "D": "L'incapacité totale de la science à résoudre le moindre problème humain, même les plus simples et les plus concrets."
+        },
+        "bonne réponse": "C"
+      },
+      "question n°18": {
+        "question": "Certains penseurs comme Rousseau ou Freud ont exalté les vertus de la science, la considérant comme la clé de tous les savoirs.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      },
+      "question n°19": {
+        "question": "La science satisfait la curiosité intellectuelle de l'homme en offrant des explications rationnelles aux phénomènes naturels.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "A"
+      },
+      "question n°20": {
+        "question": "La citation d'Auguste Comte, \"science d'où prévoyance, prévoyance d'où action\", signifie que la science est sans lien avec la capacité humaine à agir sur le monde.",
+        "réponses": {
+          "A": "Vrai",
+          "B": "Faux"
+        },
+        "bonne réponse": "B"
+      }
+    }
+  }

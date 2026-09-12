@@ -1,0 +1,106 @@
+{
+  "title": "AN07_Q10",
+  "id": "AN07_Q10",
+  "questions": {
+    "question n°1": {
+      "question": "Quel est le jour de la semaine qui vient après Sunday ?",
+      "type": "short_answer",
+      "bonne réponse": "Monday"
+    },
+    "question n°2": {
+      "question": "Quel est le jour de la semaine qui vient avant Thursday ?",
+      "type": "short_answer",
+      "bonne réponse": "Wednesday"
+    },
+    "question n°3": {
+      "question": "Comment dit-on « Samedi » en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "Saturday"
+    },
+    "question n°4": {
+      "question": "Quel jour est le troisième jour de la semaine (en partant du lundi) ?",
+      "type": "short_answer",
+      "bonne réponse": "Wednesday"
+    },
+    "question n°5": {
+      "question": "Quel est le jour de la semaine qui commence par la lettre 'T' et vient avant Wednesday ?",
+      "type": "short_answer",
+      "bonne réponse": "Tuesday"
+    },
+    "question n°6": {
+      "question": "Quel est le jour de la semaine qui commence par la lettre 'F' ?",
+      "type": "short_answer",
+      "bonne réponse": "Friday"
+    },
+    "question n°7": {
+      "question": "Comment dit-on « Dimanche » en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "Sunday"
+    },
+    "question n°8": {
+      "question": "Quel jour est le dernier jour de travail (traditionnellement) ?",
+      "type": "short_answer",
+      "bonne réponse": "Friday"
+    },
+    "question n°9": {
+      "question": "Quel est le jour de la semaine qui suit Tuesday ?",
+      "type": "short_answer",
+      "bonne réponse": "Wednesday"
+    },
+    "question n°10": {
+      "question": "Quel jour est entre Wednesday et Friday ?",
+      "type": "short_answer",
+      "bonne réponse": "Thursday"
+    },
+    "question n°11": {
+      "question": "Quel est le premier mois de l'année ?",
+      "type": "short_answer",
+      "bonne réponse": "January"
+    },
+    "question n°12": {
+      "question": "Quel est le mois qui vient après April ?",
+      "type": "short_answer",
+      "bonne réponse": "May"
+    },
+    "question n°13": {
+      "question": "Quel est le mois des vacances d'été (en France) qui commence par un 'J' et se termine par un 'Y' ?",
+      "type": "short_answer",
+      "bonne réponse": "July"
+    },
+    "question n°14": {
+      "question": "Comment dit-on « Février » en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "February"
+    },
+    "question n°15": {
+      "question": "Quel est le mois qui vient après October ?",
+      "type": "short_answer",
+      "bonne réponse": "November"
+    },
+    "question n°16": {
+      "question": "Quel est le mois des célébrations de Noël ?",
+      "type": "short_answer",
+      "bonne réponse": "December"
+    },
+    "question n°17": {
+      "question": "Quel est le mois entre June et August ?",
+      "type": "short_answer",
+      "bonne réponse": "July"
+    },
+    "question n°18": {
+      "question": "Quel est le mois qui vient juste avant September ?",
+      "type": "short_answer",
+      "bonne réponse": "August"
+    },
+    "question n°19": {
+      "question": "Comment dit-on « Mars » en anglais ?",
+      "type": "short_answer",
+      "bonne réponse": "March"
+    },
+    "question n°20": {
+      "question": "Quel est le neuvième mois de l'année ?",
+      "type": "short_answer",
+      "bonne réponse": "September"
+    }
+  }
+}

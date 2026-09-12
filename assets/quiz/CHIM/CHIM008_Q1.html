@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Chimie : Les Acides Forts</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; padding: 15px; color: #333; 
+        }
+
+        .container { max-width: 800px; margin: auto; }
+
+        .header-box {
+            background: var(--blanc);
+            padding: 30px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+            text-align: center;
+            border-bottom: 5px solid var(--orange-ivoire);
+        }
+
+        h1 { color: var(--orange-ivoire); text-transform: uppercase; margin: 0; font-size: 1.8rem; }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--vert-ivoire);
+        }
+
+        .section-title {
+            color: var(--vert-ivoire);
+            font-weight: bold;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .question-text { 
+            font-weight: 600; font-size: 1.1rem; margin-bottom: 15px; display: block; line-height: 1.5;
+        }
+
+        .option { 
+            display: flex; align-items: center; padding: 14px; margin: 10px 0; 
+            background: #fcfcfc; border: 1px solid #eee; border-radius: 10px;
+            cursor: pointer; transition: 0.2s;
+        }
+
+        .option:hover { background: #fff4ee; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { margin-right: 15px; accent-color: var(--orange-ivoire); transform: scale(1.3); }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .btn-submit { 
+            display: block; width: 100%; padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; border: none; border-radius: 12px; font-size: 1.2rem; 
+            font-weight: bold; cursor: pointer; margin: 40px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header-box">
+        <h1>Les Acides Forts en Solution Aqueuse</h1>
+        <p>Définitions, propriétés, calculs de pH et inventaire des espèces chimiques.</p>
+    </div>
+
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Valider mes réponses</button>
+</div>
+
+<script>
+    const data = [
+        // DÉFINITIONS ET EXEMPLES
+        {
+            "s": "Définition et Généralités",
+            "q": "Un acide fort est une espèce chimique qui s'ionise dans l'eau :",
+            "options": { "A": "Partiellement", "B": "Totalement", "C": "Seulement à haute température", "D": "Jamais" },
+            "r": "B"
+        },
+        {
+            "s": "Définition et Généralités",
+            "q": "L'ion formé lors de l'ionisation totale d'un acide fort dans l'eau est :",
+            "options": { "A": "L'ion hydroxyde $OH^-$", "B": "L'ion hydronium $H_3O^+$", "C": "L'ion sodium $Na^+$", "D": "L'ion ammonium $NH_4^+$" },
+            "r": "B"
+        },
+        {
+            "s": "Exemples d'Acides Forts",
+            "q": "Lequel de ces acides est un acide fort ?",
+            "options": { "A": "Acide acétique ($CH_3COOH$)", "B": "Acide nitrique ($HNO_3$)", "C": "Acide phosphorique ($H_3PO_4$)", "D": "Acide fluorhydrique ($HF$)" },
+            "r": "B"
+        },
+        {
+            "s": "Exemples d'Acides Forts",
+            "q": "Quel est le nom de l'acide de formule $HClO_4$ ?",
+            "options": { "A": "Acide chlorhydrique", "B": "Acide perchlorique", "C": "Acide sulfurique", "D": "Acide iodhydrique" },
+            "r": "B"
+        },
+        {
+            "s": "Polyacides",
+            "q": "Un polyacide fort comme $H_2SO_4$ libère combien de moles d'ions $H_3O^+$ par mole d'acide ?",
+            "options": { "A": "Une seule mole", "B": "Plusieurs moles", "C": "Aucune mole", "D": "Une demi-mole" },
+            "r": "B"
+        },
+
+        // ÉQUATIONS DE RÉACTION
+        {
+            "s": "Équation Bilan",
+            "q": "Quelle est l'équation correcte de l'ionisation de l'acide chlorhydrique ($HCl$) ?",
+            "options": { "A": "$HCl + H_2O \\rightarrow H_3O^+ + Cl^-$", "B": "$HCl + H_2O \\rightleftharpoons H_3O^+ + Cl^-$", "C": "$HCl \\rightarrow H^+ + Cl^-$", "D": "$HCl + OH^- \\rightarrow H_2O + Cl^-$" },
+            "r": "A"
+        },
+        {
+            "s": "Équation Bilan",
+            "q": "L'équation $H_2SO_4 + 2H_2O \\rightarrow 2H_3O^+ + SO_4^{2-}$ montre que l'acide sulfurique est :",
+            "options": { "A": "Un monoacide", "B": "Un diacide fort", "C": "Une base forte", "D": "Un acide faible" },
+            "r": "B"
+        },
+        {
+            "s": "Équation Bilan",
+            "q": "Dans l'équation générale $HA + H_2O \\rightarrow A^- + H_3O^+$, que représente $A^-$ ?",
+            "options": { "A": "L'acide conjugué", "B": "La base conjuguée de l'acide fort", "C": "Un ion spectateur inutile", "D": "Une molécule d'eau" },
+            "r": "B"
+        },
+
+        // CALCUL DE PH
+        {
+            "s": "Calcul du pH",
+            "q": "Quelle est la formule du pH pour un monoacide fort de concentration $C$ ?",
+            "options": { "A": "$pH = \\log(C)$", "B": "$pH = -\\log(C)$", "C": "$pH = 10^{-C}$", "D": "$pH = 7 - C$" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul du pH",
+            "q": "Si la concentration d'une solution d'acide chlorhydrique est $10^{-2}\\,mol/L$, son pH est :",
+            "options": { "A": "1", "B": "2", "C": "12", "D": "7" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul du pH",
+            "q": "Pour un diacide fort de concentration $C$, le pH se calcule par :",
+            "options": { "A": "$pH = -\\log(C)$", "B": "$pH = -\\log(2C)$", "C": "$pH = -2\\log(C)$", "D": "$pH = \\frac{1}{2}\\log(C)$" },
+            "r": "B"
+        },
+        {
+            "s": "Calcul du pH",
+            "q": "Si une solution d'acide fort a un $pH = 3,4$, sa concentration $C$ est :",
+            "options": { "A": "$3,4\\,mol/L$", "B": "$10^{-3,4}\\,mol/L$", "C": "$10^{3,4}\\,mol/L$", "D": "$0,34\\,mol/L$" },
+            "r": "B"
+        },
+
+        // MÉTHODOLOGIE D'ÉTUDE
+        {
+            "s": "Méthode d'Inventaire",
+            "q": "Quelle réaction doit-on toujours écrire en plus de la dissolution de l'acide ?",
+            "options": { "A": "La combustion de l'hydrogène", "B": "L'autoprotolyse de l'eau", "C": "La précipitation des chlorures", "D": "L'évaporation du solvant" },
+            "r": "B"
+        },
+        {
+            "s": "Méthode d'Inventaire",
+            "q": "Dans une solution d'acide chlorhydrique, quelles sont les espèces chimiques présentes ?",
+            "options": { "A": "$HCl, H_3O^+, OH^-, Cl^-$", "B": "$H_3O^+, OH^-, Cl^-, H_2O$", "C": "$H_3O^+, Cl^-, H_2O$", "D": "$HCl, Cl^-, H_2O$" },
+            "r": "B"
+        },
+        {
+            "s": "Méthode d'Inventaire",
+            "q": "Pourquoi la molécule $HA$ n'apparaît-elle pas dans l'inventaire final des espèces ?",
+            "options": { "A": "Parce qu'elle est gazeuse", "B": "Parce que l'ionisation est totale", "C": "Parce qu'elle est transformée en eau", "D": "Parce qu'elle est instable" },
+            "r": "B"
+        },
+
+        // ÉLECTRONEUTRALITÉ ET CALCULS
+        {
+            "s": "Relations entre concentrations",
+            "q": "L'équation d'électroneutralité pour un monoacide fort $HA$ est :",
+            "options": { "A": "$[H_3O^+] = [OH^-] + [A^-]$", "B": "$[H_3O^+] + [OH^-] = [A^-]$", "C": "$[H_3O^+] = [A^-]$", "D": "$[OH^-] = [A^-]$" },
+            "r": "A"
+        },
+        {
+            "s": "Relations entre concentrations",
+            "q": "Dans une solution acide, on peut souvent négliger la concentration de quel ion ?",
+            "options": { "A": "$[H_3O^+]$", "B": "$[OH^-]$", "C": "$[A^-]$", "D": "Aucun ion" },
+            "r": "B"
+        },
+        {
+            "s": "Relations entre concentrations",
+            "q": "Si $[OH^-]$ est négligeable, la relation d'électroneutralité devient :",
+            "options": { "A": "$[H_3O^+] \\approx [A^-]$", "B": "$[H_3O^+] \\approx [OH^-]$", "C": "$[A^-] \\approx 0$", "D": "$[H_3O^+] = C$" },
+            "r": "A"
+        },
+        {
+            "s": "Relations entre concentrations",
+            "q": "À 25°C, quelle est la valeur du produit ionique de l'eau $Ke$ ?",
+            "options": { "A": "14", "B": "$10^{-14}$", "C": "$10^{-7}$", "D": "0" },
+            "r": "B"
+        },
+        {
+            "s": "Relations entre concentrations",
+            "q": "Quelle est l'unité de la concentration $[A^-]$ ?",
+            "options": { "A": "$g/L$", "B": "$mol/L$", "C": "$L/mol$", "D": "Sans unité" },
+            "r": "B"
+        },
+
+        // PROPRIÉTÉS PHYSIQUES ET SÉCURITÉ
+        {
+            "s": "Propriétés",
+            "q": "Une solution d'acide fort conduit-elle le courant électrique ?",
+            "options": { "A": "Non, c'est un isolant", "B": "Oui, car elle contient des ions (électrolyte)", "C": "Seulement si elle est concentrée", "D": "Seulement si elle est chaude" },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "L'ajout d'eau distillée à une solution d'acide fort s'appelle :",
+            "options": { "A": "La concentration", "B": "La dilution", "C": "La neutralisation", "D": "La distillation" },
+            "r": "B"
+        },
+        {
+            "s": "Propriétés",
+            "q": "Lors d'une dilution d'un acide fort, le pH :",
+            "options": { "A": "Augmente (tend vers 7)", "B": "Diminue (tend vers 0)", "C": "Reste constant", "D": "Devient basique" },
+            "r": "A"
+        },
+
+        // CAS PARTICULIERS ET SYNTHÈSE
+        {
+            "s": "Cas Particuliers",
+            "q": "Un acide fort a un pH de 1. On le dilue 100 fois. Le nouveau pH est :",
+            "options": { "A": "2", "B": "3", "C": "0,01", "D": "1,1" },
+            "r": "B"
+        },
+        {
+            "s": "Cas Particuliers",
+            "q": "L'acide iodhydrique ($HI$) est un acide :",
+            "options": { "A": "Faible", "B": "Fort", "C": "Neutre", "D": "Inexistant" },
+            "r": "B"
+        },
+        {
+            "s": "Cas Particuliers",
+            "q": "Quelle est la base conjuguée de l'acide sulfurique $H_2SO_4$ ?",
+            "options": { "A": "$SO_4^{2-}$", "B": "$HSO_4^-$", "C": "$OH^-$", "D": "$Cl^-$" },
+            "r": "B"
+        },
+        {
+            "s": "Cas Particuliers",
+            "q": "La relation $C = [A^-]$ est vraie pour un acide fort car :",
+            "options": { "A": "L'eau n'intervient pas", "B": "La réaction est totale", "C": "Les ions ne bougent pas", "D": "Le pH est faible" },
+            "r": "B"
+        },
+        {
+            "s": "Cas Particuliers",
+            "q": "Dans une solution d'acide nitrique $HNO_3$, l'ion spectateur est :",
+            "options": { "A": "$H_3O^+$", "B": "$NO_3^-$", "C": "$OH^-$", "D": "$H_2O$" },
+            "r": "B"
+        },
+        {
+            "s": "Cas Particuliers",
+            "q": "Si le pH d'une solution d'acide fort augmente de 1 unité, la concentration $C$ :",
+            "options": { "A": "Est multipliée par 10", "B": "Est divisée par 10", "C": "Diminue de 1 mol/L", "D": "Double" },
+            "r": "B"
+        },
+        {
+            "s": "Cas Particuliers",
+            "q": "Quelle est la condition pour appliquer $pH = -\\log(C)$ ?",
+            "options": { "A": "$C > 10^{-6}\\,mol/L$", "B": "$C < 10^{-7}\\,mol/L$", "C": "$C = 0$", "D": "$C > 1\\,mol/L$" },
+            "r": "A"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="section-title">${item.s}</span>
+                <span class="question-text">${i+1}. ${item.q}</span>
+                <div class="options-container">${opts}</div>
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#f44336; font-weight:bold;">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            document.getElementsByName(`q${i}`).forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = `Résultat : ${score} / ${data.length}`;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+</script>
+
+</body>
+</html>

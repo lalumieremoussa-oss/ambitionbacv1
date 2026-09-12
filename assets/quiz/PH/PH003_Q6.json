@@ -1,0 +1,203 @@
+
+{
+  "title": "Quiz 6",
+  "id": "PH003_Q6",
+  "questions": {
+    "question n°1": {
+      "question": "Toujours sur le thème <<l'Etat et la question de la violence>>. Qu’est-ce que la non-violence dans son sens philosophique et politique ?",
+      "réponses": {
+        "A": "Une stratégie de transformation des conflits sans usage de la force physique.",
+        "B": "Une manière douce d’exercer la domination sans contrainte légale.",
+        "C": "Une forme passive de soumission face à l’injustice.",
+        "D": "Une simple absence d’agressivité dans les relations humaines."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Que signifie \"violence structurelle\" ?",
+      "réponses": {
+        "A": "La violence physique imposée par les classes sociales dominantes.",
+        "B": "Les injustices intégrées dans les institutions et lois d’un État.",
+        "C": "Une agression perpétrée par des criminels isolés.",
+        "D": "L’ensemble des actes de guerre interétatiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle différence entre violence directe et violence symbolique ?",
+      "réponses": {
+        "A": "La première est physique et visible, la seconde est invisible et intériorisée.",
+        "B": "La violence symbolique est toujours plus brutale que la violence directe.",
+        "C": "La violence directe est liée aux mots, la symbolique aux actions.",
+        "D": "Aucune, ce sont deux termes identiques dans les théories de la paix."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "À quel courant peut-on rattacher Martin Luther King ?",
+      "réponses": {
+        "A": "Libéralisme économique individualiste.",
+        "B": "Résistance non-violente inspirée du christianisme et de Gandhi.",
+        "C": "Humanisme de guerre juste.",
+        "D": "Pragmatisme militariste."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Quelle vision Gandhi avait-il de la non-violence ?",
+      "réponses": {
+        "A": "Une méthode temporaire pour désarmer l’adversaire puis frapper fort.",
+        "B": "Une force active de transformation intérieure et extérieure des conflits.",
+        "C": "Une simple tactique politique pour éviter les sanctions.",
+        "D": "Une faiblesse déguisée en vertu dans un contexte colonial."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel regard porte Georges Gusdore sur la violence ?",
+      "réponses": {
+        "A": "Il la considère comme absurde et destructrice lorsqu’elle est pratiquée pour elle-même.",
+        "B": "Il la célèbre comme acte pur de puissance vitale.",
+        "C": "Il la juge utile pour faire peur aux ennemis de la paix.",
+        "D": "Il l’associe à une expression de courage politique ultime."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi la violence n’aboutit-elle souvent qu’à des victoires temporaires ?",
+      "réponses": {
+        "A": "Parce qu’elle engendre des frustrations, renforce la haine et ne règle pas les causes profondes.",
+        "B": "Parce qu’elle est toujours contraire aux lois de la démocratie.",
+        "C": "Parce que les forces armées manquent de discipline dans l’exécution.",
+        "D": "Parce qu’elle exige une autorité religieuse pour être légitime."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "En quoi la non-violence peut-elle être une réponse puissante à l’injustice ?",
+      "réponses": {
+        "A": "Parce qu’elle refuse de reproduire les logiques oppressives tout en résistant activement.",
+        "B": "Parce qu’elle ne provoque aucune réaction de la part du pouvoir.",
+        "C": "Parce qu’elle permet de justifier moralement tous les actes violents ensuite.",
+        "D": "Parce qu’elle neutralise toute opposition politique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Quel est le danger de croire que la violence suffit pour établir la justice ?",
+      "réponses": {
+        "A": "Elle peut instaurer une paix apparente mais fragile, sans transformation réelle.",
+        "B": "Elle garantit l’obéissance durable des masses par la peur.",
+        "C": "Elle permet une liberté totale sans contrainte étatique.",
+        "D": "Elle favorise la réconciliation entre les victimes et les agresseurs."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Pourquoi dit-on que la non-violence transforme aussi celui qui la pratique ?",
+      "réponses": {
+        "A": "Parce qu’elle exige une discipline morale, une maîtrise de soi et une élévation intérieure.",
+        "B": "Parce qu’elle pousse à devenir invisible pour éviter les conflits.",
+        "C": "Parce qu’elle favorise la peur de l’adversaire et l’inaction.",
+        "D": "Parce qu’elle impose un silence émotionnel total."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Comment la non-violence peut-elle être efficace face à un pouvoir violent ?",
+      "réponses": {
+        "A": "En créant des groupes paramilitaires prêts à se défendre en secret.",
+        "B": "En fuyant les lieux de confrontation sans aucune action.",
+        "C": "En rendant les conflits illégitimes aux yeux de la morale religieuse.",
+        "D": "En mobilisant la conscience collective et l’opinion publique contre l’injustice."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°12": {
+      "question": "Pourquoi la violence aggrave-t-elle souvent les problèmes sociaux ?",
+      "réponses": {
+        "A": "Parce qu’elle détruit tous les moyens matériels.",
+        "B": "Parce qu’elle est souvent moins coûteuse que le dialogue.",
+        "C": "Parce qu’elle génère de nouveaux conflits et renforce les fractures sociales.",
+        "D": "Parce qu’elle permet un retour trop rapide à la stabilité."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "\"La non-violence est l’arme la plus puissante dont disposent les opprimés.\" (M. L. King)",
+      "réponses": {
+        "A": "Elle incite les opprimés à imiter les violents.",
+        "B": "Elle propose que les opprimés restent passifs face à l’agression.",
+        "C": "Elle justifie la violence morale comme forme d’autodéfense.",
+        "D": "Elle affirme que même sans armes, les faibles peuvent transformer le monde."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°14": {
+      "question": "\"Œil pour œil, et le monde deviendra aveugle.\" (Gandhi)",
+      "réponses": {
+        "A": "Il invite à riposter coup pour coup sans modération.",
+        "B": "Il dénonce le cycle infini de la vengeance qui détruit l’humanité.",
+        "C": "Il valorise la loi du talion comme base de justice réelle.",
+        "D": "Il critique le pardon comme faiblesse face aux offenses."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "\"La violence ne donne que des victoires passagères.\" (M. L. King)",
+      "réponses": {
+        "A": "Elle permet une domination juste et équilibrée.",
+        "B": "Elle fonde une paix durable à travers la guerre.",
+        "C": "Elle remporte des batailles mais ne résout pas les causes profondes.",
+        "D": "Elle justifie l’ordre autoritaire comme solution morale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Que veut dire King en affirmant que la non-violence est une \"arme\" ?",
+      "réponses": {
+        "A": "Elle a une puissance d’action réelle, capable de changer le cours des événements.",
+        "B": "Elle est utilisée comme menace contre les États.",
+        "C": "Elle est une ruse destinée à faire illusion.",
+        "D": "Elle justifie les moyens militaires au nom de la paix."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Pourquoi Gandhi critique-t-il la vengeance ?",
+      "réponses": {
+        "A": "Parce qu’elle ne punit jamais les bons coupables.",
+        "B": "Parce qu’elle enferme l’humanité dans une spirale de destruction réciproque.",
+        "C": "Parce qu’elle affaiblit l’autorité de l’État.",
+        "D": "Parce qu’elle est toujours religieusement interdite."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Pourquoi Gusdore parle-t-il de la violence comme \"absurdité pure\" ?",
+      "réponses": {
+        "A": "Parce qu’elle est toujours légale dans un État démocratique",
+        "B": "Parce qu’elle crée une justice universelle sans légitimité.",
+        "C": "Parce qu’elle est une étape transitoire vers la paix.",
+        "D": "Parce qu’elle détruit sans construire, et laisse l’humanité dans le désespoir."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Pour Gandhi, la non-violence est une force pour la bonne gouvernance.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Martin Luther King a combattu l’usage de la violence quelque soit la situation.",
+      "réponses": {
+        "A": "Faux",
+        "B": "Vrai"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

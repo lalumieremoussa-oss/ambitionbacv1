@@ -1,0 +1,156 @@
+{
+  "title": "QUIZ 2: Les étapes de la fécondation",
+  "id": "SVT008_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Après le dépôt dans le vagin, les spermatozoïdes migrent vers les trompes de Fallope en passant successivement par :",
+      "réponses": {
+        "A": "Les ovaires puis l'utérus et enfin le col utérin.",
+        "B": "Le col de l'utérus puis l'utérus.",
+        "C": "Directement vers les trompes sans traverser l'utérus.",
+        "D": "L'utérus puis les canaux déférents pour maturation."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Les deux phénomènes majeurs que subissent les spermatozoïdes pendant leur déplacement vers les trompes de Fallope sont :",
+      "réponses": {
+        "A": "La germination et la croissance cellulaire intensive.",
+        "B": "La sélection et la capacitation.",
+        "C": "La fusion des noyaux et la division cellulaire rapide.",
+        "D": "L'implantation et la maturation des organes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "L'acidité du vagin et la présence de phagocytes sont des facteurs qui contribuent à :",
+      "réponses": {
+        "A": "L'activation du pouvoir fécondant des spermatozoïdes.",
+        "B": "La survie prolongée des spermatozoïdes dans le tractus féminin.",
+        "C": "L'élimination d'une grande partie des spermatozoïdes faibles.",
+        "D": "L'accélération de la mobilité des spermatozoïdes restants."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "La glaire cervicale joue un rôle de filtre important, permettant le passage uniquement des spermatozoïdes :",
+      "réponses": {
+        "A": "Ayant déjà subi une capacitation partielle complète.",
+        "B": "Les plus normaux morphologiquement et les plus mobiles.",
+        "C": "Les plus grands en taille et les plus résistants à l'acidité.",
+        "D": "Provenant d'une éjaculation récente et abondante."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "La capacitation est définie comme un processus de maturation finale qui se déroule dans :",
+      "réponses": {
+        "A": "Les canaux déférents et l'épididyme masculin.",
+        "B": "L'utérus et les trompes de Fallope féminines.",
+        "C": "Le vagin et le col utérin juste après le dépôt.",
+        "D": "Les ovaires et les follicules ovariens."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "L'objectif principal de la capacitation pour un spermatozoïde est de lui permettre :",
+      "réponses": {
+        "A": "De se diviser en plusieurs copies génétiquement identiques.",
+        "B": "D'acquérir son pouvoir fécondant et de pénétrer l'ovocyte.",
+        "C": "De synthétiser de nouvelles protéines membranaires pour sa protection.",
+        "D": "De changer sa direction de nage vers l'ovocyte mature."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Avant l'ovulation, la glaire cervicale est typiquement :",
+      "réponses": {
+        "A": "Fluide, abondante et de pH basique, facilitant le passage.",
+        "B": "Épaisse, acide et peu perméable, bloquant les spermatozoïdes.",
+        "C": "Neutre et d'une consistance gélatineuse, sans rôle filtrant.",
+        "D": "Présente en très faible quantité, n'ayant aucun impact significatif."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Lors de la fécondation, qu'est-ce qui empêche l'entrée d'autres spermatozoïdes après qu'un seul a pénétré l'ovocyte ?",
+      "réponses": {
+        "A": "La rétractation des cellules folliculaires externes.",
+        "B": "La division méiotique de l'ovocyte qui reprend activement.",
+        "C": "La réaction corticale bloquant la polyspermie.",
+        "D": "Le gonflement du pronucléus mâle à l'intérieur de l'ovocyte."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Après la pénétration du spermatozoïde et la reprise de sa division méiotique, l'ovocyte devient un ovule mature après avoir émis :",
+      "réponses": {
+        "A": "Le premier globule polaire uniquement.",
+        "B": "Un ovule secondaire non fécondable.",
+        "C": "Le deuxième globule polaire.",
+        "D": "Des granules corticaux supplémentaires."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "La caryogamie est le nom donné au processus où :",
+      "réponses": {
+        "A": "Le spermatozoïde entre en contact avec la zone pellucide de l'ovocyte.",
+        "B": "Les deux pronoyaux (mâle et femelle) fusionnent.",
+        "C": "La cellule-œuf diploïde commence ses premières divisions mitotiques.",
+        "D": "L'ovocyte termine sa division méiotique pour devenir mature."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Vrai ou Faux : La glaire cervicale joue un rôle de filtre, ne laissant passer que les spermatozoïdes les plus normaux et les plus mobiles.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Vrai ou Faux : La capacitation a pour effet de modifier la membrane du spermatozoïde pour le rendre incapable de pénétrer l'ovocyte.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Vrai ou Faux : Pendant l'ovulation, la glaire cervicale devient fluide, abondante et basique, ce qui favorise la survie et le passage des spermatozoïdes.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Vrai ou Faux : Un seul spermatozoïde parvient à pénétrer jusqu'à la zone pellucide de l'ovocyte et y libère son noyau.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Vrai ou Faux : La réaction corticale se manifeste par le déversement du contenu des granules corticaux dans l'espace péri-ovocytaire, empêchant ainsi la polyspermie.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Vrai ou Faux : Après la caryogamie, la cellule obtenue est haploïde (n) et est appelée zygote.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Vrai ou Faux : Le noyau du spermatozoïde, une fois à l'intérieur de l'ovocyte, se gonfle et prend le nom de pronucléus mâle.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Vrai ou Faux : La sélection des spermatozoïdes se déroule principalement dans les trompes de Fallope, où l'acidité et les phagocytes sont les facteurs éliminatoires les plus importants.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "Vrai ou Faux : Le pronucléus mâle et le pronucléus femelle se rapprochent l'un de l'autre avant de subir la fusion appelée caryogamie.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Vrai ou Faux : La cellule-œuf diploïde (2n) est formée immédiatement après que le spermatozoïde a libéré son noyau dans la zone pellucide de l'ovocyte.",
+      "réponses": { "A": "Vrai", "B": "Faux" },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": "PH009_Q6",
+  "title": "Quiz 6",
+  "questions": {
+    "question n°1": {
+      "question": "Ce quiz est la suite du quiz précédent: («La verité scientifique est-elle définitive»). L’axe 2 de ce sujet s'intitule 'La vérité scientifique est toujours relative et sujette à révision'. Cela implique que la vérité scientifique :",
+      "réponses": {
+        "A": "Est un ensemble de faits immuables et absolus, qui ne peuvent jamais être remis en question ou modifiés par de nouvelles découvertes, restant figée pour l'éternité.",
+        "B": "N'existe pas réellement, car toute connaissance est purement subjective et dépend entièrement des croyances individuelles, sans aucune forme de validité objective ou partagée.",
+        "C": "Est un concept universellement reconnu et accepté, qui ne présente aucune difficulté ou débat quant à sa nature ou à sa permanence au cours de l'histoire des sciences.",
+        "D": "N'est pas une certitude absolue ou finale, mais plutôt une connaissance dépendante d'un contexte (théorique, méthodologique) et susceptible d'être modifiée, améliorée ou même remplacée à la lumière de nouvelles informations ou de nouvelles perspectives."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "L'Argument ('La verité scientifique dépend d’un cadre théorique donné') est illustré par l'idée qu'une vérité en géométrie euclidienne peut devenir fausse dans une géométrie non euclidienne. Cela démontre que la vérité scientifique n'est pas absolue, mais :",
+      "réponses": {
+        "A": "Exclusivement empirique, découlant directement des observations brutes sans aucune influence d'un système de pensée ou d'un ensemble de concepts préalables.",
+        "B": "Une simple opinion arbitraire, qui n'est soumise à aucune règle logique ou à aucune cohérence interne, et qui peut changer sans raison objective.",
+        "C": "Conditionnée par le système conceptuel, les axiomes ou le paradigme dans lequel elle est formulée, sa validité étant circonscrite à ce cadre spécifique et pouvant varier si le cadre change.",
+        "D": "Le résultat d’une révélation intuitive, dont la validité est indépendante de tout contexte rationnel ou de toute construction intellectuelle humaine."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "L'exemple de la lumière, considérée tour à tour comme particule, puis onde, puis à nouveau particule et onde à la fois en physique quantique, illustre que la vérité scientifique :",
+      "réponses": {
+        "A": "Est une collection de faits isolés, qui n'ont aucune relation entre eux et ne forment pas un système cohérent de connaissances.",
+        "B": "Se fonde sur des théories contradictoires et incohérentes, ce qui prouve l'absence totale de rigueur ou de logique dans la démarche scientifique.",
+        "C": "Est un ensemble de dogmes immuables, et que les changements de conceptions sur la lumière sont de simples ajustements mineurs sans impact sur sa nature définitive.",
+        "D": "Est évolutive et sujette à des révisions profondes, où des modèles successifs, bien que pertinents pour un temps, peuvent être dépassés ou intégrés dans des cadres plus complexes et nuancés pour mieux saisir la réalité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Selon Karl Popper, l'Argument ('Elle est par essence falsifiable') implique que la vérité scientifique ne peut jamais être prouvée de manière définitive, mais seulement :",
+      "réponses": {
+        "A": "Testée et potentiellement réfutée, ce qui signifie qu’une théorie scientifique reste valable tant qu’elle résiste aux tentatives de falsification, sans jamais pouvoir être considérée comme définitivement vraie ou indubitable.",
+        "B": "Acceptée sur la base d'une croyance collective ou d'un consensus social, sans nécessiter de tests rigoureux ou de tentatives de réfutation.",
+        "C": "Formellement établie par des déductions logiques a priori, rendant toute confrontation avec l'expérience superflue et potentiellement trompeuse.",
+        "D": "Confirmée par un nombre suffisant d’observations concordantes, permettant d’atteindre une certitude absolue une fois toutes les preuves recueillies et validées."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Dans Conjectures et Réfutations, Karl Popper montre que toute théorie scientifique doit pouvoir être réfutée. Ce principe de falsifiabilité exclut toute vérité définitive parce que :",
+      "réponses": {
+        "A": "Le but de la science est de prouver la vérité de toutes les hypothèses, et si une théorie est réfutable, elle ne peut pas être scientifique.",
+        "B": "La falsifiabilité est un concept abstrait qui n'a aucune application pratique dans le domaine de la recherche scientifique, et ne concerne que la philosophie.",
+        "C": "Le caractère scientifique d'une théorie réside précisément dans sa capacité à être potentiellement contredite par l'expérience, impliquant qu'aucune théorie n'est à l'abri d'une réfutation future et ne peut être déclarée absolument vraie pour toujours.",
+        "D": "Les théories scientifiques sont des conjectures aléatoires qui ne peuvent jamais être testées, ce qui rend la notion de vérité définitive totalement insignifiante pour la science."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°6": {
+      "question": "Gaston Bachelard, dans La formation de l'esprit scientifique, va dans le même sens que Popper en affirmant : 'Il n’y a pas de certitude première, il n’y a que des erreurs premières.' Cette citation signifie que :",
+      "réponses": {
+        "A": "La science est basée sur des vérités absolues et intuitives, qui sont découvertes dès le départ et ne peuvent jamais être remises en question ou corrigées par l'expérience.",
+        "B": "L'objectif de la science est de prouver que toutes les connaissances sont des illusions, et que la recherche de la vérité est une quête vaine et sans espoir.",
+        "C": "Il n'existe pas de point de départ absolu ou d'idée intuitivement vraie en science ; toute connaissance commence par une approximation ou une erreur qu'il faut corriger et dépasser par un travail critique et une confrontation avec le réel, rendant la vérité une conquête progressive.",
+        "D": "La science se contente de répéter des erreurs anciennes sans jamais les corriger, ce qui démontre son incapacité à produire des connaissances fiables ou à atteindre des certitudes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "L'explication de l'Argument ('La vérité scientifique ne se définit qu'au sein d'un système donné') met en lumière que la vérité n'est pas absolue, mais :",
+      "réponses": {
+        "A": "Uniquement une question de conviction personnelle, sans aucune dépendance envers un cadre logique ou théorique commun à la communauté scientifique.",
+        "B": "Le résultat d'une expérience brute et isolée, qui ne nécessite aucun système de pensée ou de concepts pour être interprétée et validée.",
+        "C": "Le fruit d'un consensus arbitraire, qui n'est lié à aucune cohérence interne ni à aucun principe fondamental du système scientifique.",
+        "D": "Conditionnée par les définitions, les axiomes, les conventions et les règles propres au système conceptuel ou à la théorie dans laquelle elle s'inscrit, sa validité n'étant reconnue qu'à l'intérieur de ce cadre spécifique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "L'exemple de la lumière (particule, onde, les deux) montre que la science avance par :",
+      "réponses": {
+        "A": "Une accumulation linéaire et ininterrompue de faits, où chaque nouvelle découverte confirme les précédentes sans jamais les modifier ou les contredire.",
+        "B": "Des dogmes immuables qui sont acceptés sans preuve et sans aucune remise en question possible, indépendamment des observations du réel.",
+        "C": "La simple répétition des mêmes théories, sans chercher à développer de nouvelles interprétations ou à intégrer des connaissances plus complexes.",
+        "D": "Des remises en cause, des ruptures épistémologiques et des dépassements successifs, où les anciennes conceptions sont révisées ou intégrées dans des cadres plus englobants pour affiner notre compréhension du réel."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "L'explication de l'Argument précedent ('La science avance par remises en cause, ruptures, et dépassements') implique que ce qui est tenu pour vrai à une époque peut être :",
+      "réponses": {
+        "A": "Éternellement et universellement vrai, sans aucune possibilité de changement ou de modification par les futures découvertes scientifiques.",
+        "B": "Une illusion ou une superstition, dont la validité est niée dès le départ, sans même avoir besoin de preuves ou de réfutations scientifiques.",
+        "C": "Un fait isolé qui n'a aucune relation avec les connaissances passées ou futures, et ne contribue pas à l'évolution de la science.",
+        "D": "Contredit ou reformulé par de nouvelles découvertes, de nouvelles méthodes ou de nouvelles perspectives théoriques, montrant ainsi le caractère dynamique et non figé de la vérité scientifique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "En conclusion, la vérité scientifique, malgré sa rigueur, n'est 'jamais définitive'. Cela signifie qu'elle est :",
+      "réponses": {
+        "A": "Toujours fausse et sans fondement, car la science est incapable d'atteindre une quelconque forme de vérité.",
+        "B": "Un ensemble de connaissances statiques et immobiles, qui ne peut évoluer ou se perfectionner au fil du temps et des recherches.",
+        "C": "Le résultat d'un processus achevé et clos, sans aucune possibilité de future amélioration ou de nouvelle découverte fondamentale.",
+        "D": "Constamment en devenir, perfectible, et soumise à la révision, ce qui constitue une caractéristique essentielle de sa nature et de sa méthode, la distinguant d'une vérité absolue ou dogmatique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "Synthèse: la capacité de la science à 'se corriger et à évoluer' est ce qui fait sa 'force'. Cela signifie que :",
+      "réponses": {
+        "A": "La science est faible car elle ne parvient jamais à des certitudes définitives, montrant son échec à atteindre la vérité absolue.",
+        "B": "La reconnaissance de ses propres limites et la possibilité d’adapter ses théories face à de nouvelles preuves ou à des erreurs est ce qui garantit sa progression et sa fiabilité, par opposition à des savoirs dogmatiques.",
+        "C": "La science est une discipline rigide qui refuse toute remise en question de ses principes, s’accrochant à des vérités immuables.",
+        "D": "La force de la science réside dans sa capacité à imposer ses dogmes sans discussion, sans jamais admettre la possibilité d'erreurs ou de révisions."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "synthèse: La science 'ne cherche pas à imposer des certitudes, mais à approcher toujours plus la vérité, sans jamais prétendre la détenir de manière absolue'. Cela montre que la science est une démarche :",
+      "réponses": {
+        "A": "Dogmatique et autoritaire, qui impose ses vérités sans preuve et sans discussion, en niant toute possibilité de remise en question ou de doute.",
+        "B": "Relativiste extrême, qui considère que toutes les opinions se valent et qu'il n'y a aucune vérité à rechercher ou à atteindre.",
+        "C": "Progressive et humble, reconnaissant la complexité du réel et la nature évolutive de la connaissance, cherchant constamment à affiner sa compréhension plutôt que de proclamer des vérités finales et inébranlables.",
+        "D": "Stagnante et inefficace, incapable de progresser ou de se rapprocher de la vérité, car elle se contente de répéter des approximations sans fin."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "La vérité scientifique est absolue et indépendante de tout cadre théorique donné, comme le montre l'exemple de la lumière.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Karl Popper et Gaston Bachelard sont cités pour leur accord sur l'idée que la vérité scientifique est définitive et jamais réfutable.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "La citation de Gaston Bachelard, 'Il n’y a pas de certitude première, il n’y a que des erreurs premières', suggère que la science commence par des vérités indubitables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "La science avance par remises en cause, ruptures et dépassements, contredisant l'idée de vérités immuables.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "En conclusion on retient que la vérité scientifique, malgré sa rigueur, est toujours définitive et ne sera jamais révisée.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Le principe de falsifiabilité de Karl Popper signifie que toute théorie scientifique doit pouvoir être prouvée de manière absolue pour être valide.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°19": {
+      "question": "L'exemple de la géométrie euclidienne et non euclidienne est utilisé pour montrer que la vérité scientifique est absolue et indépendante du cadre conceptuel.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La capacité de la science à se corriger et à évoluer est présentée dans la conclusion comme une faiblesse qui l'empêche d'atteindre la vérité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "title": "Quiz 2",
+  "id": "PH003_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Toujours dans le cadre du thème: relation avec autrui. Dans quelle perspective autrui est-il une nécessité pour devenir pleinement humain ?",
+      "réponses": {
+        "A": "Autrui est un obstacle moral qu’il faut surmonter pour atteindre la vertu.",
+        "B": "Autrui est une médiation essentielle entre moi et mon humanité.",
+        "C": "L’humanité s’acquiert sans l’autre, uniquement par introspection.",
+        "D": "L’homme naît humain ; il n’a pas besoin d’autrui pour le devenir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Que signifie “l’humanisation” dans le cadre de la relation à autrui ?",
+      "réponses": {
+        "A": "C’est l’imitation d’autrui dans un processus social d’adaptation.",
+        "B": "C’est la capacité à exprimer ses émotions librement face à autrui.",
+        "C": "C’est l’élévation de l’homme au-dessus de sa nature animale grâce à l’éducation.",
+        "D": "C’est la capacité de se reconnaître dans les autres."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle est la conception rousseauiste de la nature humaine ?",
+      "réponses": {
+        "A": "L’homme est bon par nature, mais la société le corrompt.",
+        "B": "L’homme est naturellement violent, mais la société le rend civilisé.",
+        "C": "L’homme est neutre, la société le rend soit bon, soit méchant.",
+        "D": "L’homme ne devient bon qu’en s’isolant du monde social."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "À quel courant Kant est-il généralement associé dans sa vision de l’éducation ?",
+      "réponses": {
+        "A": "Humanisme rationaliste",
+        "B": "Pragmatisme moral",
+        "C": "Épicurisme moral",
+        "D": "Romantisme anthropologique"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "À quelle tradition appartient la pensée de Rousseau sur la bonté naturelle ?",
+      "réponses": {
+        "A": "Matérialisme stoïcien",
+        "B": "Naturalisme humaniste",
+        "C": "Éthique utilitariste",
+        "D": "Rationalisme scolastique"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quelle idée de Socrate transparaît dans sa phrase « Nul n’est méchant volontairement » ?",
+      "réponses": {
+        "A": "Que la morale n’a rien à voir avec la connaissance.",
+        "B": "Que la méchanceté est congénitale.",
+        "C": "Que le mal est le fruit de l’ignorance, non d’un choix volontaire.",
+        "D": "Que l’homme choisit toujours le bien pour le bien."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Pourquoi autrui est-il nécessaire à la construction de soi selon Sartre ?",
+      "réponses": {
+        "A": "Parce qu’il nous permet de nier ce que nous étions auparavant.",
+        "B": "Parce qu’il nous juge sans filtre, ce qui nous impose de changer.",
+        "C": "Parce qu’il est le médiateur entre moi et ma propre conscience.",
+        "D": "Parce qu’il corrige mes erreurs de perception sur le monde."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Comment la discipline d’autrui contribue-t-elle à l’humanisation ? (Kant)",
+      "réponses": {
+        "A": "Elle impose des contraintes arbitraires qui réduisent l’instinct.",
+        "B": "Elle canalise les instincts pour orienter l’homme vers la moralité.",
+        "C": "Elle uniformise les comportements pour maintenir l’ordre social.",
+        "D": "Elle supprime toute liberté individuelle au profit de la règle commune."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Pourquoi peut-on dire que la solitude est une impasse existentielle ?",
+      "réponses": {
+        "A": "Parce qu’elle nous rend dépendants de nos désirs matériels.",
+        "B": "Parce que c’est dans la relation à autrui que l’existence prend du sens.",
+        "C": "Parce que l’homme n’existe que dans le regard de Dieu.",
+        "D": "Parce que la solitude nous pousse à chercher la vérité en nous-mêmes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Comment interpréter : « La discipline transforme l’animalité en humanité » ?",
+      "réponses": {
+        "A": "L’homme brut devient humain par l’éducation, qui canalise ses instincts.",
+        "B": "L’homme est naturellement discipliné, il faut juste le réveiller.",
+        "C": "La culture transforme les animaux en humains civilisés.",
+        "D": "L’animal devient moral quand il subit une éducation religieuse."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Pourquoi autrui est-il un « rempart existentiel » ?",
+      "réponses": {
+        "A": "Parce qu’il juge nos erreurs pour nous améliorer.",
+        "B": "Parce qu’il permet d’échapper à la réalité par l’illusion.",
+        "C": "Parce qu’il donne sens à nos souffrances, à nos joies, à notre vécu.",
+        "D": "Parce qu’il nous distrait de l’absurde de la vie."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi le mal n’est-il pas volontaire selon Socrate ?",
+      "réponses": {
+        "A": "Parce qu’il résulte d’un manque de savoir sur le bien véritable.",
+        "B": "Parce qu’il est le fruit du destin, non d’un choix.",
+        "C": "Parce qu’il est imposé par les lois de la nature.",
+        "D": "Parce qu’il dépend du groupe et non de l’individu."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "« La discipline transforme l’animalité en humanité. » (Kant)",
+      "réponses": {
+        "A": "Autrui, par l’éducation, rend l’homme maître de ses pulsions.",
+        "B": "L’homme, par nature, est discipliné comme l’animal.",
+        "C": "La discipline n’a qu’un effet comportemental, pas moral.",
+        "D": "La culture est inutile à la transformation humaine."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "« Autrui est le médiateur indispensable entre moi et moi-même. » (Sartre)",
+      "réponses": {
+        "A": "Parce qu’il me juge sévèrement.",
+        "B": "Parce que c’est par lui que je prends conscience de ce que je suis.",
+        "C": "Parce qu’il me révèle mes erreurs et mes fautes.",
+        "D": "Parce qu’il me dicte ce que je dois devenir."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "« L’homme est naturellement bon ; c’est la société qui le corrompt. » (Rousseau)",
+      "réponses": {
+        "A": "La société améliore l’homme en l’éduquant.",
+        "B": "L’homme n’est pas violent en soi, c’est l’organisation sociale qui le rend injuste.",
+        "C": "L’homme est méchant de nature, seul autrui le corrige.",
+        "D": "L’homme est bon uniquement dans la solitude."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Pourquoi Kant parle-t-il de “discipline” et non seulement d’“instruction” ?",
+      "réponses": {
+        "A": "Parce que la discipline est physique et morale à la fois.",
+        "B": "Parce qu’instruire sans discipliner ne permet pas d’obéir.",
+        "C": "Parce que seule la discipline moralise et humanise l’individu.",
+        "D": "Parce que l’instruction est réservée à une élite, pas la discipline."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°17": {
+      "question": "Que signifie « Autrui est le médiateur entre moi et moi-même » ?",
+      "réponses": {
+        "A": "Qu’autrui, en me regardant, me révèle à moi-même.",
+        "B": "Qu’autrui impose une image que je dois contester.",
+        "C": "Qu’autrui est toujours supérieur dans la hiérarchie sociale.",
+        "D": "Qu’autrui me rappelle mes obligations envers l’État."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Quelle idée fondamentale se dégage de « Nul n’est méchant volontairement » ?",
+      "réponses": {
+        "A": "Que la méchanceté est due à une ignorance du bien.",
+        "B": "Que le mal est causé par l’amour-propre blessé.",
+        "C": "Que tout mal est dicté par une logique divine inconnue.",
+        "D": "Que la méchanceté est inhérente à la nature humaine."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "Pour Rousseau, la société est le produit naturel de la bonté humaine.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Sartre pense que le regard d’autrui est toujours aliénant.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": "SVT013_Q5",
+  "title": "Quiz 5 : approfondissement",
+  "questions": {
+    "question n°1": {
+      "question": "Nommez le type de transplantation réalisée dans l’expérience 1.",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Isogreffe",
+        "B": "Xenogreffe",
+        "C": "Autogreffe",
+        "D": "Allogreffe"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "La greffe de la souris A sur la souris B1 aboutit à une acceptation au bout de 10 à 12 jours.",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "La greffe de peau de la souris A sur la souris B2 ayant au préalable reçu du sérum de la souris B1, aboutit à un rejet au bout du même temps que dans l’expérience 1.",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Par contre, la greffe de peau de la souris A sur la souris B3 ayant initialement reçu des lymphocytes de la souris B1, aboutit à un rejet plus rapide du greffon (2 à 3 jours).",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "La souris B1 rejette le greffon de la souris A car :",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Les lymphocytes B le détruisent immédiatement.",
+        "B": "Le sérum de la souris A contient des agents pathogènes.",
+        "C": "Il y a identité parfaite de CMH.",
+        "D": "Il y a incompatibilité de CMH ou HLA."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "La souris B2 rejette le greffon de la souris A au bout du même délai car :",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Le sérum contient des anticorps qui détruisent les lymphocytes T.",
+        "B": "Le sérum contient des facteurs humoraux qui empêchent l’activation cellulaire.",
+        "C": "Le sérum n’a aucun effet sur le rejet du greffon.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle explication correspond à celle de l'expérience 3 ?",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Le sérum a sensibilisé la souris B3 contre le greffon.",
+        "B": "Les granulocytes jouent un rôle central dans le rejet.",
+        "C": "Les lymphocytes (ou lymphocytes T) sont responsables du rejet rapide du greffon.",
+        "D": "Toutes ces réponses sont justes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "La réaction immunitaire mise en évidence est :",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Il s’agit d’une immunité spécifique à médiation cellulaire.",
+        "B": "Réaction non spécifique à médiation cellulaire.",
+        "C": "Réaction de soi et de non-soi.",
+        "D": "Réaction spécifique à médiation humorale."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°9": {
+      "question": "Pourquoi la réaction immunitaire mise en évidence est-elle une défense spécifique à médiation cellulaire ?",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Parce que le rejet du greffon se fait par l’intermédiaire des lymphocytes T.",
+        "B": "Parce qu’elle implique les macrophages et les phagocytes.",
+        "C": "Parce qu’elle agit dès la naissance sans apprentissage.",
+        "D": "Parce qu’elle produit des anticorps contre les cellules greffées."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Lors du premier contact, la greffe de peau de la souris A sur la souris B1 entraîne la formation de __________.",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Lymphocytes B mémoires",
+        "B": "Macrophages spécifiques",
+        "C": "Lymphocytes T mémoires",
+        "D": "Anticorps neutralisants"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Le rejet rapide observé chez la souris B3 est dû à la présence préalable de __________ provenant de la souris B1.",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Sérum immunisé",
+        "B": "Lymphocytes T mémoires",
+        "C": "Mastocytes sensibilisés",
+        "D": "Granulocytes activés"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Le délai plus court de rejet chez la souris B3 s’explique par __________.",
+      "image": "assets/images/svt/défense(1).png",
+      "réponses": {
+        "A": "Une réaction inflammatoire non spécifique",
+        "B": "Une activation préalable des cellules phagocytaires",
+        "C": "Une mémoire immunitaire liée aux lymphocytes T",
+        "D": "Une compatibilité totale entre les greffons"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Le cobaye D1 est immunisé contre le bacille de Koch.",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "L’injection du bacille de Koch au cobaye E, ayant reçu le sérum du cobaye D1, aboutit à sa mort.",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "L’injection du bacille de Koch au cobaye F, ayant reçu les lymphocytes T du cobaye immunisé D1, aboutit à sa survie.",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "Le cobaye D2 immunisé survit à une injection de bacille de Koch.",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Le cobaye D3 immunisé contre le bacille de Koch survit à une injection de bacille diphtérique.",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "Un cobaye immunisé survit au bacille de Koch mais meurt du bacille diphtérique. Cela montre que :",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "L’immunité acquise est faible",
+        "B": "Le bacille diphtérique est plus fort",
+        "C": "Le système immunitaire est détruit",
+        "D": "L’immunité acquise est spécifique contre le bacille de Koch et non contre le bacille diphtérique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "La mort du cobaye E (ayant reçu le sérum) montre que :",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "Le sérum est toxique",
+        "B": "Le bacille est trop virulent",
+        "C": "Le sérum ne contient pas de substance protectrice contre le bacille de Koch",
+        "D": "Le cobaye E est allergique"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°20": {
+      "question": "La survie du cobaye F (ayant reçu des lymphocytes T) montre que :",
+      "image": "assets/images/svt/défense(2).png",
+      "réponses": {
+        "A": "L’immunité est humorale",
+        "B": "Les lymphocytes T assurent une immunité cellulaire spécifique efficace",
+        "C": "Le sérum agit tardivement",
+        "D": "Le cobaye est naturellement résistant"
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

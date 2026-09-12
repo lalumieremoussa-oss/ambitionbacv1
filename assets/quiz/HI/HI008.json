@@ -1,0 +1,621 @@
+[
+
+{
+  "title": "Quiz 1",
+  "id": "HI008_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "Sur quoi repose la structure de la société négro-africaine traditionnelle ?",
+      "réponses": {
+        "A": "Sur l’autorité politique décentralisée et les marchés villageois.",
+        "B": "Sur l’individu autonome et l’initiative personnelle.",
+        "C": "Sur la famille, cellule de base assurant éducation, solidarité et transmission des valeurs.",
+        "D": "Sur les clans religieux chargés de réguler les coutumes."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quels sont les deux types fondamentaux de liens familiaux dans cette société ?",
+      "réponses": {
+        "A": "Les alliances politiques et les pactes commerciaux.",
+        "B": "Les liens de sang (lignage) et les liens sociaux (collectivité parentale).",
+        "C": "Les relations conjugales et les serments sacrés.",
+        "D": "Les parrainages initiatiques et les pactes générationnels."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Quelle est la place de la femme dans la société négro-africaine ?",
+      "réponses": {
+        "A": "Elle est effacée et absente de la sphère sociale.",
+        "B": "Elle est exclusivement ménagère et soumise.",
+        "C": "Elle est essentielle dans la famille, l’économie et la transmission des traditions.",
+        "D": "Elle n’intervient que dans les cérémonies rituelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Qu’est-ce qui caractérise une société dite égalitaire ?",
+      "réponses": {
+        "A": "L’absence d’inégalités dans l’accès à l’argent et à l’héritage.",
+        "B": "L’égalité devant la loi moderne imposée par l’État.",
+        "C": "L’indifférenciation entre hommes et femmes dans la chefferie.",
+        "D": "L’absence de classes sociales, fondée sur lignage ou génération"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Qu’est-ce qui définit une société pyramidale dans le contexte africain ?",
+      "réponses": {
+        "A": "Une organisation politique inspirée des pharaons d’Égypte.",
+        "B": "Une structure où tous les membres partagent le pouvoir également.",
+        "C": ".Une société où l’âge détermine l’accès au pouvoir politique.",
+        "D": "Une hiérarchie stricte entre nobles, hommes libres et esclaves, fondée sur la naissance."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle est l’idée centrale évoquée dans le dernier paragraphe du texte étudié ?",
+      "réponses": {
+        "A": "Le retour des traditions rurales face à la modernité.",
+        "B": "La stabilité des structures coutumières malgré le temps.",
+        "C": "La transformation rapide de la société africaine sous l’effet des mutations contemporaines.",
+        "D": "Le rejet des modèles occidentaux par les nouvelles générations."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Quelle expression représente le mieux le concept de monarchie en Afrique traditionnelle ?",
+      "réponses": {
+        "A": "L’administration par des conseils mixtes de sages et de jeunes.",
+        "B": "Un système informel reposant sur des chefs itinérants.",
+        "C": "Un État structuré autour d’un empire, royaume ou chefferie.",
+        "D": "Une autorité religieuse partagée entre les anciens et les initiés."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Pourquoi parle-t-on d’absolutisme dans certaines monarchies africaines ?",
+      "réponses": {
+        "A": "Parce que le roi gouverne par la force sans tenir compte des traditions.",
+        "B": "Car le monarque concentre les trois pouvoirs, avec un pouvoir sacré et héréditaire.",
+        "C": "Car l’État interdit toute contestation politique dans les villages.",
+        "D": "Parce que les rois étaient choisis par la divination ancestrale."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Quelles sont les formes de démocratie traditionnelle observées en Afrique ?",
+      "réponses": {
+        "A": "Le parlement ancestral et la cour royale.",
+        "B": "Le commandement héréditaire et la chefferie militaire.",
+        "C": "La démocratie villageoise et la république villageoise par consensus.",
+        "D": "Le système féodal et la régence coutumière."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quels éléments permettent de distinguer les hommes dans la hiérarchie traditionnelle ?",
+      "réponses": {
+        "A": "La richesse accumulée et la possession de terres.",
+        "B": "L’âge, le sexe, la fonction sociale ou religieuse.",
+        "C": "Le nom de famille et la maîtrise des langues locales.",
+        "D": "La lignée paternelle et les titres militaires."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Pourquoi l’individu isolé est-il considéré comme inexistant dans la société africaine traditionnelle ?",
+      "réponses": {
+        "A": "Car la société le considère comme étranger et suspect.",
+        "B": "Parce que son existence est fondue dans l’autorité du chef politique.",
+        "C": "Car il est toujours intégré dans une communauté familiale.",
+        "D": "Parce qu’il n’a pas de nom avant l’initiation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "En quoi les femmes jouent-elles un rôle de stabilisation sociale ?",
+      "réponses": {
+        "A": "Elles garantissent la succession royale dans les familles nobles.",
+        "B": "Elles dirigent secrètement les conseils de village.",
+        "C": "Elles assurent la continuité des valeurs, la cohésion familiale et la médiation sociale.",
+        "D": "Elles imposent les normes religieuses grâce à leur pouvoir initiatique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Que signifie une collectivité parentale dans cette société ?",
+      "réponses": {
+        "A": "Un groupe d’amis vivant sous le même toit.",
+        "B": "Une communauté de religieux exerçant le pouvoir politique.",
+        "C": "Un ensemble élargi de parents jouant un rôle éducatif et social.",
+        "D": "Une confrérie d’anciens chargée de l’initiation guerrière."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°14": {
+      "question": "Quel est le lien entre patriarcat et fonctionnement social ?",
+      "réponses": {
+        "A": "Le pouvoir est exclusivement détenu par les femmes âgées.",
+        "B": "Le système est fondé sur l’égalité parfaite entre tous les membres.",
+        "C": "L’autorité est exercée par un homme aîné qui organise la vie familiale.",
+        "D": "Les décisions sont prises en fonction de l’astrologie lignagère."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°15": {
+      "question": "Pourquoi les sociétés krou sont-elles qualifiées d’égalitaires ?",
+      "réponses": {
+        "A": "Parce que tous les citoyens détiennent le même revenu et le même terrain.",
+        "B": "Car elles ignorent les chefs et privilégient l’anarchie organisée.",
+        "C": "Car elles n’ont pas de classes sociales fixes, mais fonctionnent par lignage.",
+        "D": "Parce qu’elles sont régies par des lois modernes imposées par l’État."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Quelle structure politique traditionnelle incarne le pouvoir décentralisé ?",
+      "réponses": {
+        "A": "La monarchie sacrée régie par un empereur absolu.",
+        "B": "Le village dirigé par un conseil d’anciens élus.",
+        "C": "L’État pyramidal à base militaire et religieuse.",
+        "D": "Le royaume fondé sur le pouvoir surnaturel du devin."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Quel est le fondement du pouvoir dans un empire africain traditionnel ?",
+      "réponses": {
+        "A": "Le suffrage universel au sein de chaque village.",
+        "B": "Le charisme personnel du roi élu par les enfants.",
+        "C": "La concentration héréditaire des pouvoirs politiques, religieux et militaires.",
+        "D": "La rotation du pouvoir entre les ethnies de la région."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Qu’est-ce qui permet aux décisions politiques d’être acceptées dans une démocratie villageoise ?",
+      "réponses": {
+        "A": "Elles sont imposées par le chef sans discussion.",
+        "B": "Elles sont validées par une divination publique.",
+        "C": "Elles sont prises par consensus après discussions collectives.",
+        "D": "Elles sont annoncées par les ancêtres dans les rêves des notables."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Quel est l’effet des mutations contemporaines sur les sociétés africaines traditionnelles ?",
+      "réponses": {
+        "A": "Elles bouleversent les structures sociales, surtout en zone urbaine.",
+        "B": "Elles rendent les traditions plus visibles qu’avant.",
+        "C": "Elles renforcent l’attachement aux valeurs rurales.",
+        "D": "Elles restaurent les rites anciens à grande échelle."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Quel rôle joue l’âge dans la hiérarchie des sociétés africaines traditionnelles ?",
+      "réponses": {
+        "A": "Il ne compte que pour l’accès au mariage.",
+        "B": "Il est négligeable face à la richesse matérielle.",
+        "C": "Il détermine le respect, l’influence et la prise de décision.",
+        "D": "Il est utilisé seulement pour répartir les travaux agricoles."
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI008_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Par quels moyens le monde noir entre-t-il en contact avec l’extérieur ?",
+      "réponses": {
+        "A": "Par la migration forcée et l’exploitation des ressources agricoles.",
+        "B": "Par les guerres ethniques, l’islamisation forcée et le commerce des esclaves.",
+        "C": "Par les échanges commerciaux, l’expansion musulmane et la colonisation européenne.",
+        "D": "Par la conquête de l’Europe et la diffusion des traditions africaines."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Quel est le rôle de l’islam dans les mutations sociales en Afrique ?",
+      "réponses": {
+        "A": "Il remplace totalement les pratiques ancestrales.",
+        "B": "Il transforme profondément la culture africaine dans toutes ses dimensions.",
+        "C": "Il modifie certaines pratiques (vêtements, justice) tout en tolérant des traditions.",
+        "D": "Il élimine la langue maternelle au profit de l’arabe exclusivement."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quel a été l’impact global de la colonisation européenne ?",
+      "réponses": {
+        "A": "Une simple mise en relation des peuples africains avec le reste du monde.",
+        "B": "Un renforcement des traditions locales par l’introduction de nouvelles coutumes.",
+        "C": "Une diffusion des technologies africaines vers l’Europe.",
+        "D": "Des transformations profondes : langue, religion, administration, école, société."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°4": {
+      "question": "Quelles sont les autres causes majeures des mutations culturelles africaines ?",
+      "réponses": {
+        "A": "L’agriculture intensive et l’élevage mécanisé.",
+        "B": "La guerre froide, le tourisme africain, les projets pétroliers.",
+        "C": "La mondialisation, les médias, l’urbanisation, les migrations, les conflits.",
+        "D": "La désertification, la piraterie maritime et l’auto-colonisation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "D’où vient l’école imposée à l’Afrique coloniale ?",
+      "réponses": {
+        "A": "Des puissances coloniales désireuses de former des auxiliaires administratifs.",
+        "B": "Des sociétés savantes africaines souhaitant codifier la tradition.",
+        "C": "Des chefs traditionnels qui l’ont intégrée à l’initiation.",
+        "D": "De l’influence religieuse locale visant la promotion des savoirs animistes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Quelle est aujourd’hui la fonction principale de l’école en Afrique ?",
+      "réponses": {
+        "A": "Produire du savoir et former les agents des États modernes.",
+        "B": "Transmettre la tradition orale des ancêtres.",
+        "C": "Former des missionnaires pour rétablir les cultes anciens.",
+        "D": "Restaurer les chefferies traditionnelles dans les villes modernes."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Pourquoi l’école est-elle un puissant facteur de transformation culturelle ?",
+      "réponses": {
+        "A": "Parce qu’elle enseigne uniquement les langues africaines.",
+        "B": "Parce qu’elle prolonge fidèlement les rites d’initiation.",
+        "C": "Parce qu’elle remplace les anciens modes de transmission par des savoirs occidentaux.",
+        "D": "Parce qu’elle interdit toute référence aux traditions locales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quel est l’effet principal de la scolarisation sur les langues africaines ?",
+      "réponses": {
+        "A": "Elle renforce leur usage dans les institutions officielles.",
+        "B": "Elle les consacre comme langue d’enseignement exclusif.",
+        "C": "Elle permet leur reconnaissance par les États occidentaux.",
+        "D": "Elle les marginalise au profit des langues coloniales."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle influence l’école a-t-elle eue sur les religions traditionnelles ?",
+      "réponses": {
+        "A": "Elle leur donne une place centrale dans l’enseignement spirituel.",
+        "B": "Elle les remplace par la magie moderne.",
+        "C": "Elle les marginalise en favorisant les religions monothéistes.",
+        "D": "Elle les modernise pour les adapter au système scolaire."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Pourquoi parle-t-on de mutation rapide des sociétés africaines ?",
+      "réponses": {
+        "A": "Parce qu’elles sont concentrées dans un temps court et profondément bouleversantes.",
+        "B": "Parce que ces mutations sont planifiées sur plusieurs siècles.",
+        "C": "Parce que les changements concernent surtout les zones rurales isolées.",
+        "D": "Parce qu’elles se limitent aux seules traditions agricoles."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Quel rôle a joué la colonisation dans l’évolution des institutions africaines ?",
+      "réponses": {
+        "A": "Elle a renforcé les chefferies traditionnelles dans toutes les régions.",
+        "B": "Elle a imposé de nouvelles institutions, bouleversant les structures locales.",
+        "C": "Elle a décentralisé le pouvoir en faveur des anciens.",
+        "D": "Elle a rétabli les rites sacrés dans l’administration moderne."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Comment l’islam a-t-il respecté partiellement les traditions africaines ?",
+      "réponses": {
+        "A": "En supprimant toute coutume non écrite.",
+        "B": "En tolérant certaines pratiques tout en introduisant de nouvelles normes.",
+        "C": "En fusionnant entièrement avec les cultes animistes.",
+        "D": "En imposant une pratique identique à celle des pays arabes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Quel rôle l’école coloniale a-t-elle assigné aux Africains ?",
+      "réponses": {
+        "A": "Les transformer en enseignants d’initiation religieuse.",
+        "B": "En faire des auxiliaires administratifs formés aux valeurs occidentales.",
+        "C": "Leur permettre d’exporter leurs savoirs dans le monde.",
+        "D": "Maintenir les traditions locales dans une perspective scientifique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°14": {
+      "question": "Pourquoi l’école marginalise-t-elle les religions traditionnelles ?",
+      "réponses": {
+        "A": "Parce qu’elle ne reconnaît que les fêtes coutumières.",
+        "B": "Parce qu’elle favorise les croyances anciennes dans les programmes.",
+        "C": "Parce qu’elle considère toutes les croyances comme égales.",
+        "D": "Parce qu’elle considère l’animisme comme arriéré et le remplace par les religions révélées."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Quelle conséquence la mondialisation a-t-elle sur les cultures locales ?",
+      "réponses": {
+        "A": "Une réaffirmation des pratiques coutumières.",
+        "B": "Une perte progressive des repères culturels traditionnels.",
+        "C": "Une redynamisation des cérémonies rurales.",
+        "D": "Une adaptation parfaite des cultures aux normes occidentales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Comment les médias contribuent-ils à transformer la société africaine ?",
+      "réponses": {
+        "A": "En véhiculant des modèles étrangers et en influençant les comportements.",
+        "B": "En promouvant les figures ancestrales et les cérémonies d’initiation.",
+        "C": "En diffusant les contes traditionnels dans toutes les langues locales.",
+        "D": "En traduisant les savoirs modernes en dialectes anciens."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°17": {
+      "question": "Pourquoi les guerres contribuent-elles aussi aux mutations sociales ?",
+      "réponses": {
+        "A": "Parce qu’elles rétablissent les anciens empires africains.",
+        "B": "Parce qu’elles favorisent la solidarité interethnique.",
+        "C": "Parce qu’elles détruisent les structures traditionnelles et forcent les exodes.",
+        "D": "Parce qu’elles imposent la chefferie coutumière comme solution politique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quelle est la fonction des langues coloniales aujourd’hui en Afrique ?",
+      "réponses": {
+        "A": "Elles servent de langues domestiques dans toutes les familles rurales.",
+        "B": "Elles sont utilisées dans les rituels traditionnels.",
+        "C": "Elles sont les langues officielles de l’administration et de l’enseignement.",
+        "D": "Elles sont limitées à l’usage religieux et coutumier."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Pourquoi parle-t-on d’acculturation dans ce contexte ?",
+      "réponses": {
+        "A": "Parce que les peuples refusent toute évolution moderne.",
+        "B": "Parce qu’on remplace une culture par une autre sous influence extérieure.",
+        "C": "Parce que les cultures locales deviennent plus authentiques.",
+        "D": "Parce que l’éducation traditionnelle devient plus scientifique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "En quoi les mutations contemporaines affectent-elles les comportements ?",
+      "réponses": {
+        "A": "Elles favorisent la pratique exclusive de l’agriculture traditionnelle.",
+        "B": "Elles renforcent le respect strict des anciens rites.",
+        "C": "Elles modifient les valeurs, les pratiques et les modes de vie de façon accélérée.",
+        "D": "Elles rendent les sociétés plus fermées à l’innovation."
+      },
+      "bonne réponse": "C"
+    }
+  }
+},
+{
+  "title": "Quiz 2",
+  "id": "HI008_Q3",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l’évolution récente de la structure familiale en Afrique ?",
+      "réponses": {
+        "A": "Elle s’élargit avec plus de solidarité rurale.",
+        "B": "Elle devient nucléaire, avec moins de cohésion et solidarité.",
+        "C": "Elle reste inchangée malgré l’urbanisation.",
+        "D": "Elle s’individualise tout en conservant la chefferie."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Comment se recompose la structure sociale africaine contemporaine ?",
+      "réponses": {
+        "A": "Les castes ancestrales sont renforcées par les lois coutumières.",
+        "B": "Les hiérarchies lignagères se substituent aux classes politiques.",
+        "C": "Les classes sociales modernes s’ajoutent ou remplacent les structures traditionnelles.",
+        "D": "Les familles rétablissent les clans guerriers anciens."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle est l’évolution du rôle féminin dans les sociétés africaines modernes ?",
+      "réponses": {
+        "A": "Elle reste exclusivement centrée sur la tradition domestique.",
+        "B": "Elle progresse vers plus d’éducation et de responsabilités malgré des inégalités.",
+        "C": "Elle régresse face à la mondialisation des rôles masculins.",
+        "D": "Elle s'efface au profit des traditions orales."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Comment évoluent les structures politiques traditionnelles ?",
+      "réponses": {
+        "A": "Elles dominent les parlements modernes.",
+        "B": "Elles fusionnent avec les structures religieuses.",
+        "C": "Elles conservent leur autorité grâce aux alliances militaires..",
+        "D": "Elles perdent du pouvoir face aux États modernes et à la démocratie."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Quelle est la situation de l’économie traditionnelle aujourd’hui ?",
+      "réponses": {
+        "A": "Elle prospère grâce au commerce de troc renforcé.",
+        "B": "Elle disparaît totalement au profit du salariat informel.",
+        "C": "Elle devient dominante dans les zones industrielles urbaines.",
+        "D": "Elle est concurrencée par le capitalisme mais certaines activités subsistent."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Que devient l’art traditionnel dans les sociétés contemporaines ?",
+      "réponses": {
+        "A": "Il est remplacé par l’abstraction moderne.",
+        "B": "Il se dilue dans l’art occidental sans distinction.",
+        "C": "Il disparaît avec la perte de la langue maternelle.",
+        "D": "Il subsiste, adapté, parfois folklorisé ou récupéré commercialement."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°7": {
+      "question": "Quelle mutation religieuse s’observe en Afrique ?",
+      "réponses": {
+        "A": "Le retour total à l’animisme dans les villes.",
+        "B": "L’adoption de cultes scientifiques inspirés du rationalisme.",
+        "C": "La suppression de toute croyance au profit de la technologie.",
+        "D": "Le recul de l’animisme face à l’islam et au christianisme, parfois en syncrétisme."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°8": {
+      "question": "Quels nouveaux canaux influencent aujourd’hui les cultures africaines ?",
+      "réponses": {
+        "A": "Les prières collectives et les jeux traditionnels.",
+        "B": "Les nouvelles alliances entre chefferies.",
+        "C": "Les cérémonies d’initiation rediffusées en boucle sur les chaînes locales.",
+        "D": "Les médias modernes : télé, internet, réseaux sociaux, musiques étrangères."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Pourquoi les jeunes sont-ils plus touchés par les changements culturels ?",
+      "réponses": {
+        "A": "Parce qu’ils adoptent des modes et des valeurs souvent éloignées des traditions.",
+        "B": "Parce qu’ils imposent la tradition à l’école.",
+        "C": "Parce qu’ils refusent toute forme de modernité.",
+        "D": "Parce qu’ils refusent tout contact avec les nouvelles technologies."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°10": {
+      "question": "Peut-on encore parler aujourd’hui de civilisation négro-africaine ?",
+      "réponses": {
+        "A": "Non, elle a disparu avec la colonisation.",
+        "B": "Oui, mais elle est intacte et figée dans le passé.",
+        "C": "Oui, mais transformée, influencée par la modernité et les valeurs étrangères.",
+        "D": "Non, elle est devenue une légende rurale sans réalité sociale."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Pourquoi la famille nucléaire affaiblit-elle la cohésion communautaire ?",
+      "réponses": {
+        "A": "Parce qu’elle réduit les liens intergénérationnels et la solidarité élargie.",
+        "B": "Parce qu’elle multiplie les rituels ancestraux.",
+        "C": "Parce qu’elle impose la polygamie..",
+        "D": "Parce qu’elle interdit les visites coutumières."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°12": {
+      "question": "Comment la ville transforme-t-elle les rapports sociaux ?",
+      "réponses": {
+        "A": "Elle renforce les lignages familiaux traditionnels.",
+        "B": "Elle uniformise les classes sociales selon l’âge.",
+        "C": "Elle fragilise les anciennes solidarités et introduit des rapports économiques.",
+        "D": "Elle restaure les valeurs tribales dans les quartiers populaires."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle forme d'inégalité persiste malgré l'émancipation des femmes ?",
+      "réponses": {
+        "A": "La persistance des inégalités d’accès à l’éducation, au pouvoir, à l’économie.",
+        "B": "La marginalisation dans la transmission des traditions.",
+        "C": "L’interdiction d’accès aux réseaux sociaux.",
+        "D": "Le refus d’utiliser les langues modernes dans les débats publics."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Quelle conséquence politique majeure entraîne l’affaiblissement des chefferies ?",
+      "réponses": {
+        "A": "Le renforcement des États modernes avec des systèmes électoraux.",
+        "B": "L’émergence d’un pouvoir exclusivement religieux.",
+        "C": "Une généralisation des conflits ethniques.",
+        "D": "La disparition de toute autorité légitime reconnue."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°15": {
+      "question": "Quelle est la conséquence directe de l’économie capitaliste sur la tradition ?",
+      "réponses": {
+        "A": "Une relance du troc et de l’économie de chasse.",
+        "B": "Une disparition totale des activités agricoles.",
+        "C": "Une concurrence forte contre les formes traditionnelles de production.",
+        "D": "Un renforcement des castes dans les sociétés rurales."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Comment le tourisme peut-il influencer la perception de l’art traditionnel ?",
+      "réponses": {
+        "A": "Il le protège en le conservant dans des musées familiaux.",
+        "B": "Il l’efface au profit de copies importées.",
+        "C": "Il le renforce comme culte religieux imposé..",
+        "D": "Il le transforme en objet commercial parfois détourné de sa fonction originale"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°17": {
+      "question": "Pourquoi parle-t-on de syncrétisme religieux en Afrique ?",
+      "réponses": {
+        "A": "Parce que les religions monothéistes disparaissent.",
+        "B": "Parce que les religions africaines rejettent toute influence extérieure.",
+        "C": "Parce que les croyances traditionnelles se mêlent parfois à l’islam ou au christianisme.",
+        "D": "Parce que tous les cultes sont devenus identiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°18": {
+      "question": "Quel impact ont les médias modernes sur les normes sociales ?",
+      "réponses": {
+        "A": "Ils renforcent exclusivement les rites ancestraux.",
+        "B": "Ils suppriment les relations entre générations.",
+        "C": "Ils diffusent des modèles étrangers qui influencent les comportements.",
+        "D": "Ils enseignent les proverbes dans toutes les langues traditionnelles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°19": {
+      "question": "Pourquoi dit-on que les jeunes vivent une rupture culturelle ?",
+      "réponses": {
+        "A": "Parce qu’ils adoptent de nouveaux codes en opposition avec les traditions.",
+        "B": "Parce qu’ils rejettent toute forme d’école moderne.",
+        "C": "Parce qu’ils refusent les enseignements étrangers.",
+        "D": "Parce qu’ils parlent uniquement la langue des anciens."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°20": {
+      "question": "Que désigne une civilisation transformée dans le contexte actuel ?",
+      "réponses": {
+        "A": "Une culture reconstituée artificiellement par les médias.",
+        "B": "Une culture en voie de disparition programmée.",
+        "C": "Une société dont les bases anciennes subsistent mais s’adaptent.",
+        "D": "Une société figée dans un modèle mythique ancien."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}
+]

@@ -1,0 +1,144 @@
+{
+  "id": "SVT008_Q1",
+  "title": "Quiz 1 : Appareil génital féminin",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle partie est désignée par la lettre a ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Col de l'utérus",
+        "B": "Vagin",
+        "C": "Vulve",
+        "D": "Trompe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Quelle partie est désignée par la lettre b ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Vagin",
+        "B": "Vulve",
+        "C": "Col de l'utérus",
+        "D": "Ovaire"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "Quelle partie est désignée par la lettre c ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Trompe",
+        "B": "Ovaire",
+        "C": "Ovule expulsé",
+        "D": "Pavillon de la trompe"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Quelle partie est désignée par la lettre d ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Utérus",
+        "B": "Paroi musculaire",
+        "C": "Cavité",
+        "D": "Couche interne de la paroi = Endomètre"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°5": {
+      "question": "Quelle partie est désignée par la lettre e ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Cavité",
+        "B": "Utérus",
+        "C": "Paroi musculaire",
+        "D": "Endomètre"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Quelle partie est désignée par la lettre f ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "la muqueuse utérine",
+        "B": "Cavité utérine",
+        "C": "Paroi musculaire",
+        "D": "Utérus"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle partie est désignée par la lettre g ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Pavillon de la trompe",
+        "B": "Trompe",
+        "C": "Ovule expulsé",
+        "D": "Ovaire"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°8": {
+      "question": "Quelle partie est désignée par la lettre h ?",
+      "image": "assets/images/svt/reproduction.png",
+      "réponses": {
+        "A": "Trompe",
+        "B": "Ovaire",
+        "C": "Ovule expulsé",
+        "D": "Pavillon de la trompe"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Quelle est la fonction principale de l’ovaire dans l’appareil reproducteur féminin ?",
+      "réponses": {
+        "A": "Assurer le passage du nouveau-né à la naissance.",
+        "B": "Produire et libérer un ovocyte lors de l’ovulation.",
+        "C": "Offrir un environnement propice au développement embryonnaire.",
+        "D": "Être le lieu de rencontre entre les gamètes mâle et femelle."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Quel rôle joue principalement l’utérus dans le système reproducteur ?",
+      "réponses": {
+        "A": "Transporter l’ovocyte vers la trompe de Fallope.",
+        "B": "Produire en grande quantité les hormones sexuelles.",
+        "C": "Accueillir et nourrir l’embryon jusqu’à sa naissance.",
+        "D": "Stocker les ovules en attendant leur maturation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Quelle est la mission principale de la trompe de Fallope ?",
+      "réponses": {
+        "A": "Acheminer les spermatozoïdes vers l’utérus.",
+        "B": "Transporter l’ovocyte de l’ovaire jusqu’à l’utérus.",
+        "C": "Fournir les nutriments nécessaires à l’embryon.",
+        "D": "Offrir un lieu de fixation à l’œuf fécondé."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Quel organe est directement responsable de la libération de l’ovocyte (ovule) ?",
+      "réponses": {
+        "A": "L’utérus, au moment de l’ovulation.",
+        "B": "La trompe, lors du cycle menstruel.",
+        "C": "L’ovaire, où a lieu l’ovulation.",
+        "D": "Le vagin, lors du passage des règles."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°13": {
+      "question": "Quelle affirmation associe correctement un organe à sa fonction ?",
+      "réponses": {
+        "A": "Ovaire : développement du fœtus.",
+        "B": "Utérus : transport de l’ovocyte.",
+        "C": "Trompe : production de l’ovocyte.",
+        "D": "Utérus : lieu du développement de l’embryon."
+      },
+      "bonne réponse": "D"
+    }
+  }
+}

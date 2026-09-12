@@ -1,0 +1,191 @@
+
+{
+  "title": "Quiz 2",
+  "id": "PH006_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Ce Quiz est la deuxième partie du précédent. Dans l'Antiquité, le terme \"philosophie\" était utilisé pour désigner :",
+      "réponses": {
+        "A": "Une simple discipline parmi d'autres, spécialisée dans les questions morales et éthiques, sans lien avec les sciences.",
+        "B": "Exclusivement l'art de la rhétorique et de la persuasion, visant à influencer les débats publics sans souci de vérité.",
+        "C": "L'ensemble du savoir et de la connaissance, car la science moderne avec ses méthodes de vérification n'existait pas encore.",
+        "D": "Une forme de sagesse populaire, transmise oralement de génération en génération, sans écriture ni formalisation conceptuelle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Le fait que Pythagore et Thalès soient considérés comme de grands philosophes, en plus d'être mathématiciens et physiciens, démontre que la philosophie, à l'époque antique, :",
+      "réponses": {
+        "A": "Englobait un vaste champ de savoirs incluant les sciences, témoignant de son rôle fondamental dans la compréhension du monde.",
+        "B": "Était une activité marginale, pratiquée par quelques penseurs isolés sans lien avec les réalités du monde.",
+        "C": "N'avait aucune influence sur le développement des connaissances scientifiques et techniques, restant une pure spéculation abstraite.",
+        "D": "Était principalement un divertissement intellectuel, sans aucune implication sérieuse dans la recherche de la vérité ou l'explication des phénomènes naturels."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°3": {
+      "question": " illustrant l'Argument: Dans l’Antiquité, la philosophie désigne l’ensemble du savoir, la \"totalité du savoir dans la mesure du possible\" était une caractéristique attribuée à quel type de penseur dans l'Antiquité ?",
+      "réponses": {
+        "A": "Le philosophe, perçu comme celui qui détenait l'ensemble des connaissances accessibles à l'esprit humain à cette .",
+        "B": "Le scientifique, dont les découvertes révolutionnaires unifiaient toutes les branches de la connaissance de manière incontestable.",
+        "C": "époqueL'historien, capable de compiler l'intégralité des événements passés pour en tirer des leçons universelles.",
+        "D": "L'artiste, dont l'œuvre exprime la synthèse de toutes les formes d'expression culturelle et esthétique."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°4": {
+      "question": "Quelle figure de l'Antiquité est associée à la déclaration : \"Nous concevons d'abord le philosophe comme possédant la totalité du savoir dans la mesure du possible\" ?",
+      "réponses": {
+        "A": "Socrate, célèbre pour son affirmation de ne rien savoir, soulignant l'humilité du véritable philosophe.",
+        "B": "Platon, pour sa théorie des Idées et la distinction entre le monde sensible et le monde intelligible.",
+        "C": "Héraclite, pour sa doctrine du changement perpétuel et l'impossibilité de saisir une vérité stable dans le monde.",
+        "D": "Aristote, dont l'œuvre encyclopédique couvrait de nombreux domaines de la connaissance, de la logique à la métaphysique."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "L'exemple de l'ouvrage de Newton, Principes Mathématiques de philosophie naturelle, au XVIIe siècle, illustre que le mot \"philosophie\" était encore synonyme de :",
+      "réponses": {
+        "A": "Métaphysique pure, étudiant les principes premiers de l'être et de la connaissance sans lien avec l'expérience.",
+        "B": "Science-physique, démontrant la continuité entre la recherche des lois naturelles et la démarche philosophique de l'époque.",
+        "C": "Art de la rhétorique, axé sur l'éloquence et la persuasion plutôt que sur la découverte de vérités objectives.",
+        "D": "Théologie, cherchant à interpréter les textes sacrés et à comprendre la nature de Dieu et des phénomènes divins."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Quel philosophe du XVIIe siècle prétendait que \"toute la philosophie est comme un arbre dont les racines sont la métaphysique, le tronc la physique, et les trois maîtresses branches, la mécanique, la médecine et la morale\" ?",
+      "réponses": {
+        "A": "Baruch Spinoza, pour sa philosophie de l'identité de Dieu et de la Nature, et sa méthode géométrique.",
+        "B": "Gottfried Wilhelm Leibniz, pour sa conception des monades et de l'harmonie préétablie de l'univers.",
+        "C": "René Descartes, décrivant la structure du savoir philosophique, de ses fondations à ses applications pratiques dans les sciences.",
+        "D": "John Locke, pour sa théorie de l'empirisme et de l'origine des idées à partir de l'expérience sensorielle."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "La métaphore de Descartes de la philosophie comme un arbre suggère que :",
+      "réponses": {
+        "A": "La philosophie est une discipline isolée, sans aucun lien avec les autres champs de la connaissance ou de l'activité humaine.",
+        "B": "La philosophie est une science purement abstraite, dont les racines ne produisent aucun fruit concret ou utile pour l'humanité.",
+        "C": "La philosophie est la base fondamentale (racines) d'où procèdent les sciences (tronc et branches), démontrant son rôle unificateur et fondateur du savoir.",
+        "D": "Les différentes branches du savoir (mécanique, médecine, morale) sont indépendantes les unes des autres et n'ont pas besoin d'un fondement commun."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "L'Argument 1 insiste sur le fait que la science moderne, avec son idéal de mesure et de vérification, :",
+      "réponses": {
+        "A": "Est née en même temps que la philosophie antique, démontrant une coexistence harmonieuse depuis les origines.",
+        "B": "N'était pas encore née dans l'Antiquité, ce qui explique pourquoi la philosophie englobait alors l'ensemble du savoir.",
+        "C": "A complètement supplanté la philosophie, rendant cette dernière obsolète et inutile dans le monde contemporain.",
+        "D": "Est une invention récente, sans aucun lien historique ou conceptuel avec les réflexions des philosophes du passé."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°9": {
+      "question": "Le fait que le mot \"philosophie\" soit resté synonyme de \"science-physique\" au XVIIe siècle indique que :",
+      "réponses": {
+        "A": "La philosophie était déjà en déclin, incapable de se distinguer des avancées rapides des sciences expérimentales.",
+        "B": "Les philosophes de cette époque se désintéressaient des questions scientifiques pour se concentrer sur la métaphysique pure.",
+        "C": "La science physique n'avait pas encore développé ses propres méthodes, et dépendait entièrement des spéculations philosophiques.",
+        "D": "La distinction entre la philosophie et les sciences de la nature était moins nette qu'aujourd'hui, soulignant le rôle englobant de la philosophie"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "La présence de mathématiciens et physiciens comme Pythagore et Thalès parmi les grands philosophes de l'Antiquité met en évidence :",
+      "réponses": {
+        "A": "Leur capacité à isoler la pensée philosophique de toute préoccupation empirique ou scientifique.",
+        "B": "La conception ancienne où la recherche du savoir ne faisait pas de distinction rigide entre les disciplines, considérant la philosophie comme une quête universelle de la vérité.",
+        "C": "Leur rejet total de la spéculation métaphysique au profit d'une approche purement technique et pratique du monde.",
+        "D": "Le caractère purement contemplatif de la philosophie antique, sans aucune application aux phénomènes naturels ou aux lois mathématiques."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°11": {
+      "question": "Selon le texte, la philosophie est \"nécessaire et non un luxe\" parce qu'elle :",
+      "réponses": {
+        "A": "Apporte des solutions économiques immédiates aux problèmes de subsistance et de production.",
+        "B": "Représente une activité purement esthétique, divertissante, sans aucune incidence sur la vie réelle.",
+        "C": "A historiquement joué un rôle fondamental en tant que fondement et englobant de l'ensemble du savoir, y compris les sciences.",
+        "D": "Se limite à la critique des sciences, sans proposer elle-même de nouvelles connaissances ou de perspectives constructives."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°12": {
+      "question": "La structure de l'arbre philosophique proposée par Descartes, avec la métaphysique comme racines, illustre que :",
+      "réponses": {
+        "A": "La métaphysique est le fondement indispensable de toute connaissance, fournissant les principes premiers à partir desquels les autres sciences se développent.",
+        "B": "Les branches (mécanique, médecine, morale) peuvent exister et se développer indépendamment des racines métaphysiques.",
+        "C": "La métaphysique est la partie la plus superficielle et la moins importante de la philosophie, sans réel impact sur les sciences.",
+        "D": "Le but de la philosophie est de s'éloigner des réalités concrètes du monde pour se réfugier dans des spéculations abstraites."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°13": {
+      "question": "L'Argument 1 suggère que la philosophie, dans l'Antiquité, englobait l'ensemble du savoir car la science moderne n'avait pas encore développé ses propres méthodes spécifiques.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "La citation d'Aristote met en évidence que le philosophe était considéré comme celui qui possédait une connaissance fragmentée et limitée, ne couvrant qu'une petite partie du savoir.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "L'ouvrage de Newton, intitulé Principes Mathématiques de philosophie naturelle, témoigne de la distinction claire et rigide entre la philosophie et la science physique au XVIIe siècle.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°16": {
+      "question": "Descartes utilise la métaphore de l'arbre pour montrer que la métaphysique, la physique, la mécanique, la médecine et la morale sont des disciplines sans aucun lien hiérarchique ou fondamental entre elles.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Le fait que des figures comme Pythagore et Thalès soient à la fois mathématiciens, physiciens et philosophes souligne le caractère originellement holistique de la philosophie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "La nécessité de la philosophie est affirmée par le texte en raison de son rôle historique de précurseur et d'englobant des sciences.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L'Argument 2 démontre que la philosophie a toujours été perçue comme un luxe, sans aucune application concrète ou scientifique à travers les époques.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La phrase conclusive \"Elle est donc nécessaire et non un luxe dont on le pense\" résume la thèse de cette deuxième partie, affirmant la valeur intrinsèque et le rôle fondamental de la philosophie.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

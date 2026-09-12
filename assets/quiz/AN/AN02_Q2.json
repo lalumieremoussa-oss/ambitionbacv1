@@ -1,0 +1,320 @@
+{
+  "title": "Quiz 2",
+  "id": "AN02_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Traduisez : \"Ma voiture.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My car.",
+        "B": "Her car.",
+        "C": "His car.",
+        "D": "Your car."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°2": {
+      "question": "Traduisez : \"Ses livres (à lui).\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Her books.",
+        "B": "His books.",
+        "C": "My books.",
+        "D": "Your books."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°3": {
+      "question": "Traduisez : \"Ton stylo.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "His pen.",
+        "B": "My pen.",
+        "C": "Your pen.",
+        "D": "Her pen."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Traduisez : \"Ses chaussures (à elle).\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My shoes.",
+        "B": "Your shoes.",
+        "C": "His shoes.",
+        "D": "Her shoes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°5": {
+      "question": "Traduisez : \"Mon nom.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "My name.",
+        "B": "Your name.",
+        "C": "His name.",
+        "D": "Her name."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Traduisez : \"Votre maison.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "His house.",
+        "B": "Your house.",
+        "C": "My house.",
+        "D": "Her house."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Choisissez le déterminant qui traduit \"Son père (à elle)\".",
+      "type": "QCM",
+      "réponses": {
+        "A": "His",
+        "B": "My",
+        "C": "Her",
+        "D": "Your"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Traduisez : \"Ses enfants (à lui).\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Her children.",
+        "B": "My children.",
+        "C": "Your children.",
+        "D": "His children."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°9": {
+      "question": "Choisissez le déterminant qui traduit \"Ma mère\".",
+      "type": "QCM",
+      "réponses": {
+        "A": "His",
+        "B": "My",
+        "C": "Her",
+        "D": "Your"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°10": {
+      "question": "Traduisez : \"Tes amis.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Your friends.",
+        "B": "His friends.",
+        "C": "My friends.",
+        "D": "Her friends."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Mon chat.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "cat",
+        "his",
+        "My",
+        "dog"
+      ],
+      "bonne réponse": "My cat"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Ses frères (à lui).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "His",
+        "my",
+        "brothers",
+        "is",
+        "your",
+        "a"
+      ],
+      "bonne réponse": "His brothers"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Ta sœur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Your",
+        "her",
+        "sister",
+        "brother"
+      ],
+      "bonne réponse": "Your sister"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Ses jouets (à elle).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Her",
+        "pen",
+        "my",
+        "toys",
+        "his",
+        "is"
+      ],
+      "bonne réponse": "Her toys"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Mes parents.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "your",
+        "parents",
+        "name"
+      ],
+      "bonne réponse": "My parents"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Son livre (à lui).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "His",
+        "your",
+        "book",
+        "her",
+        "name",
+        "is"
+      ],
+      "bonne réponse": "His book"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"Vos clés.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Your",
+        "my",
+        "keys",
+        "house"
+      ],
+      "bonne réponse": "Your keys"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"Sa robe (à elle).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "dress",
+        "is",
+        "his",
+        "Her",
+        "car",
+        "the"
+      ],
+      "bonne réponse": "Her dress"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Mes professeurs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "My",
+        "your",
+        "teachers",
+        "school"
+      ],
+      "bonne réponse": "My teachers"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Ses cahiers (à lui).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "His",
+        "her",
+        "is",
+        "notebooks",
+        "pen",
+        "a"
+      ],
+      "bonne réponse": "His notebooks"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ton école.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Your",
+        "my",
+        "school",
+        "house"
+      ],
+      "bonne réponse": "Your school"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Son enfant (à elle).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "his",
+        "Her",
+        "child",
+        "mother",
+        "is",
+        "the"
+      ],
+      "bonne réponse": "Her child"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"Mon sac.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "bag",
+        "your",
+        "My",
+        "pencil"
+      ],
+      "bonne réponse": "My bag"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Ses parents (à lui).\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "are",
+        "His",
+        "my",
+        "parents",
+        "her",
+        "at"
+      ],
+      "bonne réponse": "His parents"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Ta ville.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "city",
+        "my",
+        "Your",
+        "village"
+      ],
+      "bonne réponse": "Your city"
+    },
+    "question n°26": {
+      "question": "Quel déterminant possessif est utilisé pour \"sa/ses\" quand le possesseur est un homme ?",
+      "type": "short_answer",
+      "bonne réponse": "His"
+    },
+    "question n°27": {
+      "question": "Traduisez le déterminant \"My\".",
+      "type": "short_answer",
+      "bonne réponse": "Mon / Ma / Mes"
+    },
+    "question n°28": {
+      "question": "Quel déterminant possessif est utilisé pour \"sa/ses\" quand le possesseur est une femme ?",
+      "type": "short_answer",
+      "bonne réponse": "Her"
+    },
+    "question n°29": {
+      "question": "Quel est le déterminant possessif pour \"ton/ta/tes\" ou \"votre/vos\" ?",
+      "type": "short_answer",
+      "bonne réponse": "Your"
+    },
+    "question n°30": {
+      "question": "Traduisez l'expression \"Mon ami\".",
+      "type": "short_answer",
+      "bonne réponse": "My friend"
+    }
+  }
+}

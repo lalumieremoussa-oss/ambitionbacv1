@@ -1,0 +1,206 @@
+{
+  "title": "Quiz 1 : les caractéristiques d’un sol fertile",
+  "id": "SVT017_Q1",
+  "questions": {
+    "question n°1": {
+      "question": "La texture du sol désigne :",
+      "réponses": {
+        "A": "La couleur du sol selon sa composition chimique",
+        "B": "La répartition des particules minérales : sable, limon et argile",
+        "C": "La quantité de matière organique dans le sol",
+        "D": "La présence de vers de terre et de micro-organismes"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°2": {
+      "question": "Une structure grumeleuse (granuleuse) signifie que :",
+      "réponses": {
+        "A": "Le sol est compact et difficile à travailler",
+        "B": "Le sol est constitué de gros blocs durs et sans pores",
+        "C": "Les particules du sol forment des agrégats stables, favorisant l’aération et l’infiltration de l’eau",
+        "D": "Le sol est sec et dépourvu d’humus"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "La texture du sol correspond à :",
+      "réponses": {
+        "A": "La quantité d’humus présente dans le sol",
+        "B": "L’équilibre entre sable, limon et argile",
+        "C": "La quantité d’air dans les pores du sol",
+        "D": "La compacité du sol"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°4": {
+      "question": "Une structure grumeleuse et stable du sol est due principalement à :",
+      "réponses": {
+        "A": "L’absence totale d’eau",
+        "B": "La présence d’argile pure",
+        "C": "L’humus et l’activité des vers de terre",
+        "D": "La forte compaction du sol"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°5": {
+      "question": "Un sol idéal doit :",
+      "réponses": {
+        "A": "Retenir toute l’eau pour éviter le dessèchement",
+        "B": "Ne jamais retenir d’eau",
+        "C": "Être totalement imperméable",
+        "D": "Avoir une rétention suffisante mais un bon drainage"
+      },
+      "bonne réponse": "D"
+    },
+    "question n°6": {
+      "question": "Une bonne aération du sol permet :",
+      "réponses": {
+        "A": "De favoriser la respiration des racines et des micro-organismes",
+        "B": "D’empêcher les micro-organismes de se développer",
+        "C": "De limiter l’infiltration de l’eau",
+        "D": "De rendre le sol plus compact"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°7": {
+      "question": "Un sol meuble et non compacté :",
+      "réponses": {
+        "A": "Favorise le développement des racines",
+        "B": "Empêche l’aération du sol",
+        "C": "Freine la croissance des racines",
+        "D": "Retient excessivement l’eau"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°8": {
+      "question": "Les éléments nutritifs d’un sol fertile sont :",
+      "réponses": {
+        "A": "Un ensemble de micro-organismes décomposant la matière organique sans fournir de minéraux essentiels.",
+        "B": "Des substances minérales et organiques qui améliorent la texture du sol mais non sa fertilité chimique.",
+        "C": "Des nutriments essentiels tels que l’azote, le phosphore, le potassium, le calcium et le magnésium, indispensables à la croissance des plantes.",
+        "D": "Des gaz atmosphériques absorbés par les racines, comme l’oxygène et le dioxyde de carbone."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "La capacité d’échange cationique (CEC) d’un sol exprime :",
+      "réponses": {
+        "A": "La rapidité avec laquelle l’eau s’infiltre et s’évapore à la surface du sol.",
+        "B": "La proportion de particules d’argile et de sable influençant uniquement la texture physique du sol.",
+        "C": "Le pouvoir du sol à produire des anions comme le nitrate et le phosphate.",
+        "D": "La capacité du sol à retenir et à échanger les cations nutritifs comme Ca²⁺, Mg²⁺ et K⁺, assurant ainsi une bonne fertilité."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°10": {
+      "question": "Le pH du sol joue un rôle essentiel car :",
+      "réponses": {
+        "A": "Il mesure la quantité de sels dissous, permettant de déterminer la salinité globale du sol.",
+        "B": "Il détermine la vitesse de décomposition de la matière organique en absence de micro-organismes.",
+        "C": "Il évalue la densité du sol et la répartition entre sable, limon et argile.",
+        "D": "Il indique le taux d’acidité ou d’alcalinité, influençant directement la disponibilité des nutriments pour les plantes."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°11": {
+      "question": "L’humus et la matière organique du sol :",
+      "réponses": {
+        "A": "Se dégradent très rapidement sans apporter de nutriments durables aux plantes.",
+        "B": "Fournissent progressivement des nutriments comme N, P et K, tout en contribuant à maintenir la fertilité du sol sur le long terme.",
+        "C": "Empêchent la formation d’agrégats stables et favorisent la compaction du sol.",
+        "D": "N’ont aucune influence sur la rétention d’eau ni sur la structure du sol."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "Une faible salinité est souhaitable car :",
+      "réponses": {
+        "A": "Une forte concentration en sels solubles favorise la germination et la croissance rapide des racines.",
+        "B": "Trop de sels dans le sol diminuent la fertilité et peuvent perturber l’absorption d’eau par les plantes.",
+        "C": "Les sels solubles augmentent la capacité du sol à retenir les nutriments et l’humidité.",
+        "D": "Les plantes utilisent directement le sel comme source principale d’énergie chimique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°13": {
+      "question": "Les micro-organismes du sol se distinguent principalement par :",
+      "réponses": {
+        "A": "Leur dimension microscopique et leur appartenance à des groupes comme les bactéries, champignons et algues.",
+        "B": "Leur taille visible à l’œil nu et leur rôle dans le creusement de galeries souterraines.",
+        "C": "Leur capacité à former des agrégats de sol perceptibles à la main lors du travail du sol.",
+        "D": "Leur taille intermédiaire entre les racines et les vers de terre, facilitant la décomposition lente."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Parmi les exemples suivants, lesquels sont considérés comme micro-organismes du sol ?",
+      "réponses": {
+        "A": "Vers de terre, fourmis et larves de coléoptères.",
+        "B": "Cloportes, acariens et nématodes visibles à l’œil nu",
+        "C": "Racines fines, mycorhizes et mollusques terrestres.",
+        "D": "Bactéries, champignons, actinomycètes et algues microscopiques."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°15": {
+      "question": "Le rôle principal des micro-organismes du sol est :",
+      "réponses": {
+        "A": "De creuser des galeries pour aérer le sol et faciliter la circulation de l’eau.",
+        "B": "De créer une couche imperméable empêchant l’infiltration de l’eau.",
+        "C": "De décomposer la matière organique en humus et de recycler les nutriments essentiels aux plantes.",
+        "D": "De stocker mécaniquement les sels minéraux dans leurs tissus sans les libérer."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°16": {
+      "question": "Certaines bactéries du sol (comme Rhizobium) ont la capacité de :",
+      "réponses": {
+        "A": "Transformer le phosphore du sol en matière organique stable.",
+        "B": "Fixer l’azote de l’air pour le rendre assimilable par les plantes.",
+        "C": "Réduire la quantité d’oxygène disponible dans la rhizosphère.",
+        "D": "Convertir les sels minéraux en substances hydrophobes."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Les macro-organismes du sol se reconnaissent parce qu’ils :",
+      "réponses": {
+        "A": "Sont visibles à l’œil nu, comme les vers de terre, insectes et larves.",
+        "B": "Sont invisibles au microscope et se limitent aux bactéries et champignons.",
+        "C": "Se nourrissent exclusivement de matières minérales sans creuser le sol.",
+        "D": "Sont confinés à la surface du sol sans aucune activité biologique interne."
+      },
+      "bonne réponse": "A"
+    },
+    "question n°18": {
+      "question": "Les vers de terre jouent un rôle essentiel car ils :",
+      "réponses": {
+        "A": "Compactent le sol pour le rendre plus dense et moins perméable.",
+        "B": "Réduisent la fertilité chimique en éliminant les minéraux disponibles.",
+        "C": "Détruisent les racines en consommant les tissus végétaux vivants.",
+        "D": "Ingèrent la matière organique, produisent des déjections riches en nutriments et améliorent l’aération du sol."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°19": {
+      "question": "Les deux groupes d’organismes qui contribuent à la formation de l’humus sont :",
+      "réponses": {
+        "A": "Les plantes supérieures et les microalgues marines.",
+        "B": "Les micro-organismes (bactéries, champignons) et les macro-organismes (vers, insectes).",
+        "C": "Les minéraux argileux et les sels solubles présents dans la nappe phréatique.",
+        "D": "Les gaz atmosphériques et les précipitations acides."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "Les macro-organismes améliorent la structure et la fertilité du sol en :",
+      "réponses": {
+        "A": "Sécrétant des acides organiques qui dissolvent la matière minérale sans aération.",
+        "B": "Produisant des déjections et en creusant des galeries qui facilitent l’aération et le drainage.",
+        "C": "Consommant les micro-organismes bénéfiques et réduisant la porosité du sol.",
+        "D": "Compactant le sol pour limiter la circulation de l’air et de l’eau."
+      },
+      "bonne réponse": "B"
+    }
+  }
+}

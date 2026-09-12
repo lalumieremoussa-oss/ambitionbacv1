@@ -1,0 +1,356 @@
+{
+  "title": "Quiz Allemand 1 - Adverbes",
+  "id": "DE04_Q2",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est la traduction de l'adverbe : \"jamais\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "oft",
+        "B": "heute",
+        "C": "nie",
+        "D": "immer"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°2": {
+      "question": "Choisissez la traduction correcte de : \"Il vient toujours à l'heure.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "Er ist immer kommen pünktlich.",
+        "B": "Er kommt pünktlich immer.",
+        "C": "Er immer ist pünktlich.",
+        "D": "Er kommt immer pünktlich."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°3": {
+      "question": "Quelle est la traduction de l'expression : \"à la maison\" (lieu où l'on est) ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "in das Haus",
+        "B": "auf Hause",
+        "C": "zu Hause",
+        "D": "nach Hause"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Où se place l'adverbe \"immer\" (toujours) dans la phrase \"Elle est toujours heureuse\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie ist glücklich immer.",
+        "B": "Sie ist immer glücklich.",
+        "C": "Immer sie ist glücklich.",
+        "D": "Sie immer glücklich ist."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Traduisez l'adverbe : \"lentement\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "langsam",
+        "B": "schnell",
+        "C": "hart",
+        "D": "gut"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°6": {
+      "question": "Complétez la traduction : \"Je fais mes devoirs _____ le matin.\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "an den Morgen",
+        "B": "am Morgen",
+        "C": "zu dem Morgen",
+        "D": "mit dem Morgen"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°7": {
+      "question": "Quelle est la traduction de \"gestern\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "demain",
+        "B": "aujourd’hui",
+        "C": "hier",
+        "D": "souvent"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Quelle est l'expression correcte pour \"après l'école\" ?",
+      "type": "QCM",
+      "réponses": {
+        "A": "an Schule nach",
+        "B": "in der Schule",
+        "C": "nach der Schule",
+        "D": "auf Schule"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Traduisez l'expression : \"chaque jour\"",
+      "type": "QCM",
+      "réponses": {
+        "A": "den ganzen Tag",
+        "B": "in dem Tag",
+        "C": "jeden Tag",
+        "D": "die ganze Zeit"
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Choisissez la phrase qui utilise correctement l'adverbe de manière \"gut\" (bien).",
+      "type": "QCM",
+      "réponses": {
+        "A": "Sie gut spricht Englisch.",
+        "B": "Sie spricht gut Englisch.",
+        "C": "Sie spricht Englisch gut.",
+        "D": "Gut, sie spricht Englisch."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "Traduisez : \"Il travaille bien.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gut",
+        "macht",
+        "ist",
+        "arbeitet",
+        "schlecht",
+        "Er"
+      ],
+      "bonne réponse": "Er arbeitet gut"
+    },
+    "question n°12": {
+      "question": "Traduisez : \"Ils jouent souvent au football.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Fußball",
+        "hart",
+        "spielen",
+        "immer",
+        "zu",
+        "Sie",
+        "am",
+        "oft"
+      ],
+      "bonne réponse": "Sie spielen oft Fußball"
+    },
+    "question n°13": {
+      "question": "Traduisez : \"Nous sommes en classe maintenant.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "heute",
+        "sind",
+        "Schule",
+        "oft",
+        "jetzt",
+        "der",
+        "Wir",
+        "in",
+        "an",
+        "Klasse"
+      ],
+      "bonne réponse": "Wir sind jetzt in der Klasse"
+    },
+    "question n°14": {
+      "question": "Traduisez : \"Elle étudie le soir.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "manchmal",
+        "Abend",
+        "den",
+        "lernt",
+        "Morgen",
+        "am",
+        "zu",
+        "an",
+        "ist",
+        "Sie"
+      ],
+      "bonne réponse": "Sie lernt am Abend"
+    },
+    "question n°15": {
+      "question": "Traduisez : \"Je fais toujours mes devoirs.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "seine",
+        "Hausaufgaben",
+        "an",
+        "meine",
+        "mache",
+        "nie",
+        "immer",
+        "ist",
+        "Ich",
+        "Arbeit"
+      ],
+      "bonne réponse": "Ich mache immer meine Hausaufgaben"
+    },
+    "question n°16": {
+      "question": "Traduisez : \"Je les vois parfois.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "spreche",
+        "er",
+        "manchmal",
+        "es",
+        "oft",
+        "sie",
+        "sehe",
+        "jetzt",
+        "immer",
+        "Ich"
+      ],
+      "bonne réponse": "Ich sehe sie manchmal"
+    },
+    "question n°17": {
+      "question": "Traduisez : \"demain\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "jetzt",
+        "gestern",
+        "Morgen",
+        "heute"
+      ],
+      "bonne réponse": "Morgen"
+    },
+    "question n°18": {
+      "question": "Traduisez : \"rapidement\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "langsam",
+        "gut",
+        "schlecht",
+        "schnell"
+      ],
+      "bonne réponse": "schnell"
+    },
+    "question n°19": {
+      "question": "Traduisez : \"Je n'écoute jamais.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "immer",
+        "höre",
+        "oft",
+        "zu",
+        "Ich",
+        "er",
+        "nie",
+        "spreche"
+      ],
+      "bonne réponse": "Ich höre nie zu"
+    },
+    "question n°20": {
+      "question": "Traduisez : \"Il travaille dur.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "langsam",
+        "hart",
+        "ist",
+        "arbeitet",
+        "gut",
+        "Er"
+      ],
+      "bonne réponse": "Er arbeitet hart"
+    },
+    "question n°21": {
+      "question": "Traduisez : \"Ils sont à l'heure.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Zeit",
+        "immer",
+        "auf",
+        "spät",
+        "sind",
+        "zu",
+        "pünktlich",
+        "Sie"
+      ],
+      "bonne réponse": "Sie sind pünktlich"
+    },
+    "question n°22": {
+      "question": "Traduisez : \"Il chante mal.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "singt",
+        "ist",
+        "gut",
+        "oft",
+        "schlecht",
+        "Er"
+      ],
+      "bonne réponse": "Er singt schlecht"
+    },
+    "question n°23": {
+      "question": "Traduisez : \"après l'école\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "der",
+        "in",
+        "an",
+        "Schule",
+        "Hause",
+        "nach"
+      ],
+      "bonne réponse": "nach der Schule"
+    },
+    "question n°24": {
+      "question": "Traduisez : \"Je parle lentement.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "gut",
+        "schnell",
+        "zu",
+        "spreche",
+        "langsam",
+        "an",
+        "immer",
+        "Ich"
+      ],
+      "bonne réponse": "Ich spreche langsam"
+    },
+    "question n°25": {
+      "question": "Traduisez : \"Je révise aujourd'hui.\"",
+      "type": "drag_and_drop",
+      "réponses": [
+        "immer",
+        "wiederhole",
+        "gestern",
+        "morgen",
+        "heute",
+        "Ich"
+      ],
+      "bonne réponse": "Ich wiederhole heute"
+    },
+    "question n°26": {
+      "question": "Quelle est la traduction de l'adverbe \"immer\" ?",
+      "type": "short_answer",
+      "bonne réponse": "toujours"
+    },
+    "question n°27": {
+      "question": "Quelle expression est utilisée pour dire \"le soir\" ? (Commencez par am)",
+      "type": "short_answer",
+      "bonne réponse": "am Abend"
+    },
+    "question n°28": {
+      "question": "Devant quel verbe l'adverbe se place-t-il après en allemand ? (Donnez la forme infinitive du verbe être)",
+      "type": "short_answer",
+      "bonne réponse": "Sein"
+    },
+    "question n°29": {
+      "question": "Quel adverbe de temps allemand signifie \"parfois\" ?",
+      "type": "short_answer",
+      "bonne réponse": "manchmal"
+    },
+    "question n°30": {
+      "question": "Traduisez l'adverbe \"bien\" en allemand.",
+      "type": "short_answer",
+      "bonne réponse": "gut"
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": "PH009_Q7",
+  "title": "Quiz 7",
+  "questions": {
+    "question n°1": {
+      "question": "Soit le sujet suivant : Les Mathématiques sont-elles l’Idéal de Toute Science ?. Dans le contexte, les « Mathématiques » sont définies comme :",
+      "réponses": {
+        "A": "Une science empirique qui découvre ses vérités par l’observation directe du monde physique et l’expérimentation en laboratoire, sans aucune abstraction.",
+        "B": "Un ensemble de connaissances intuitives et subjectives, qui varient selon les cultures et les époques, sans reposer sur une logique démontrée ou des preuves formelles.",
+        "C": "Une discipline artistique dont le but est la création de belles formes et de symboles, sans aucune prétention à la vérité ou à la rigueur scientifique.",
+        "D": "Une science formelle fondée sur des raisonnements logiques, qui manipule des symboles, des quantités, des formes et des structures abstraites, indépendamment de l’expérience directe."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°2": {
+      "question": "Le terme « Idéal » dans la question « Les mathématiques sont-elles l’idéal de toute science ? » désigne :",
+      "réponses": {
+        "A": "Un concept purement abstrait et irréalisable, qui n’a aucune influence concrète sur la pratique scientifique ou la recherche de la vérité.",
+        "B": "Une description de ce qui existe déjà, sans aucune dimension normative ou prescriptive sur ce que la science devrait être.",
+        "C": "Un modèle absolu, une perfection à atteindre, ou une référence suprême auquel toute autre science pourrait ou devrait se conformer pour sa rigueur et son authenticité.",
+        "D": "Une illusion dangereuse, qui détourne la science de ses objectifs pratiques et la pousse à des spéculations sans fondement empirique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°3": {
+      "question": "La reformulation du sujet, « Peut-on considérer les mathématiques comme la référence suprême ou le modèle par excellence auquel toute science devrait se conformer pour être authentique ou rigoureuse ? », met en lumière une interrogation sur :",
+      "réponses": {
+        "A": "Le caractère purement descriptif des mathématiques, qui se contentent de rendre compte des faits sans proposer de modèle aux autres sciences.",
+        "B": "La possibilité pour les mathématiques de remplacer toutes les autres sciences, rendant ainsi la philosophie ou l’histoire obsolètes.",
+        "C": "La légitimité et la pertinence des mathématiques en tant que critère ultime de scientificité, invitant à questionner leur applicabilité universelle à l’ensemble des disciplines scientifiques.",
+        "D": "La nécessité pour les mathématiques de s’adapter aux spécificités des autres sciences, plutôt que de leur imposer leur propre rigueur et leur abstraction."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°4": {
+      "question": "Quels penseurs affirment que « la nature est écrite en langage mathématique » et que toute science véritable doit tendre vers la rigueur mathématique ?",
+      "réponses": {
+        "A": "Les empiristes comme John Locke ou David Hume, qui privilégient l’expérience et l’observation sensible comme unique source de connaissance.",
+        "B": "Des savants et philosophes tels que Galilée ou Descartes, figures emblématiques du rationalisme moderne, pour qui les mathématiques sont la clé de compréhension du monde et le modèle de la connaissance.",
+        "C": "Les philosophes de l’existence comme Søren Kierkegaard ou Jean-Paul Sartre, qui mettent l’accent sur la subjectivité et la liberté individuelle face à la rationalité abstraite.",
+        "D": "Les sociologues des sciences comme Bruno Latour ou Karin Knorr Cetina, qui analysent la science comme une construction sociale et culturelle, loin d’un idéal unique et universel."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°5": {
+      "question": "Sue ce point, on a une divergence entre des penseurs comme Galilée/Descartes et d’autres comme Auguste Comte ou Dilthey. Cette divergence porte sur :",
+      "réponses": {
+        "A": "La supériorité de la physique sur les mathématiques comme science fondamentale pour la compréhension de l’univers.",
+        "B": "La prétention des mathématiques à être l’idéal universel de toute science, les seconds soulignant les spécificités et les limites de ce modèle pour les sciences humaines ou expérimentales.",
+        "C": "La question de savoir si la science doit être enseignée à l’école ou réservée à une élite intellectuelle.",
+        "D": "L’origine divine ou humaine des concepts mathématiques, et la question de leur existence indépendante de l’esprit humain."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°6": {
+      "question": "Un Argument de l’Axe 1 (« Les mathématiques comme idéal de rigueur et de scientificité ») est que les mathématiques offrent :",
+      "réponses": {
+        "A": "Un langage complexe et obscur qui rend impossible la compréhension des phénomènes pour le commun des mortels.",
+        "B": "Une approche purement intuitive de la réalité, sans aucune nécessité de formalisation ou de démonstration rigoureuse.",
+        "C": "Un langage universel et d’une précision inégalée, permettant une formalisation rigoureuse et abstraite des phénomènes, valable en tout lieu et en tout temps.",
+        "D": "Une méthode subjective de description du monde, qui varie en fonction des interprétations individuelles et des préférences culturelles de chaque observateur."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°7": {
+      "question": "Selon Galilée, « la nature est un livre écrit en langage mathématique ». Cette citation célèbre signifie que :",
+      "réponses": {
+        "A": "La nature est chaotique et incompréhensible, et les mathématiques sont une tentative vaine de lui donner un sens artificiel.",
+        "B": "Les mathématiques sont une invention purement humaine, sans aucun lien avec la structure profonde de l’univers ou ses lois fondamentales.",
+        "C": "La réalité physique est intrinsèquement structurée par des lois quantifiables et mesurables, et c’est à travers les concepts et les outils mathématiques que l’on peut décrypter et comprendre le fonctionnement du monde.",
+        "D": "Seuls les philosophes peuvent comprendre la nature, les mathématiques étant une discipline technique sans profondeur ni signification métaphysique."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°8": {
+      "question": "Les mathématiques, grâce à leurs symboles abstraits, permettent d’exprimer des lois générales :",
+      "réponses": {
+        "A": "Qui sont valables uniquement dans des contextes spécifiques et des périodes historiques limitées, sans aucune prétention à l’universalité.",
+        "B": "Qui sont le fruit d’une intuition purement personnelle, sans aucune possibilité de vérification ou de partage intersubjectif.",
+        "C": "Valables en tout lieu et en tout temps, transcendant les particularités culturelles ou les variations empiriques, grâce à leur caractère universel et décontextualisé.",
+        "D": "Qui sont des métaphores poétiques ou des allégories, sans aucune portée descriptive ou prédictive sur la réalité observable."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°9": {
+      "question": "Un Argument de l’Axe 1 est que de nombreuses sciences dites “dures” reposent sur les mathématiques pour atteindre :",
+      "réponses": {
+        "A": "Une complexité inutile qui les éloigne de la réalité et rend leurs résultats incompréhensibles pour le grand public.",
+        "B": "La subjectivité et l’arbitraire, puisque les mathématiques sont un outil qui permet de justifier n’importe quelle conclusion.",
+        "C": "La rigueur, la précision et la capacité de prédiction, les mathématiques étant un instrument essentiel pour formuler des modèles et des théories testables.",
+        "D": "La spéculation métaphysique, la mathématisation les poussant à des considérations philosophiques sans lien avec l’observation ou l’expérimentation."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°10": {
+      "question": "Quels scientifiques sont cités pour avoir utilisé le calcul infinitésimal (Newton) et les équations différentielles (Einstein) pour modéliser des phénomènes physiques ?",
+      "réponses": {
+        "A": "Galilée et Archimède, pour leurs travaux fondateurs en statique et en dynamique, sans avoir eu recours à des outils mathématiques complexes.",
+        "B": "Marie Curie et Louis Pasteur, pour leurs découvertes en chimie et en biologie, qui ne nécessitaient pas une approche mathématique approfondie.",
+        "C": "Isaac Newton et Albert Einstein, dont les contributions majeures à la physique ont été rendues possibles et formulées grâce à l’utilisation d’outils mathématiques avancés et innovants.",
+        "D": "Charles Darwin et Sigmund Freud, dont les théories en biologie et en psychologie reposent sur des observations qualitatives plutôt que sur des modèles mathématiques."
+      },
+      "bonne réponse": "C"
+    },
+    "question n°11": {
+      "question": "L’utilisation du calcul infinitésimal par Newton pour modéliser la gravitation, ou des équations différentielles par Einstein pour sa théorie de la relativité, illustre que les mathématiques permettent aux sciences « dures » de :",
+      "réponses": {
+        "A": "Se contenter d’une description qualitative des phénomènes, sans chercher à quantifier ou à prédire avec précision les interactions physiques.",
+        "B": "Formuler des lois universelles sous une forme concise et précise, permettant des prédictions vérifiables et une compréhension approfondie des mécanismes fondamentaux de l’univers.",
+        "C": "Développer des théories purement spéculatives, qui n’ont aucun lien avec les observations empiriques ou les données expérimentales.",
+        "D": "Remplacer complètement l’expérimentation par le calcul, rendant ainsi le laboratoire obsolète dans la recherche scientifique."
+      },
+      "bonne réponse": "B"
+    },
+    "question n°12": {
+      "question": "L’introduction pose la question « les mathématiques peuvent-elles vraiment constituer l’idéal de toute science ? ». Cette question implique que :",
+      "réponses": {
+        "A": "Les mathématiques sont le seul et unique modèle de science, sans aucune possibilité de discussion ou de remise en question de cette prééminence.",
+        "B": "La question est purement rhétorique, et la réponse est évidemment non, car les mathématiques n’ont aucune influence sur les autres sciences.",
+        "C": "La science est un concept subjectif qui n’a pas besoin d’un idéal ou d’une référence pour se définir ou se développer.",
+        "D": "Il est nécessaire d’examiner de manière critique la prétention des mathématiques à servir de modèle universel, en considérant à la fois leurs forces et leurs éventuelles limites dans d’autres disciplines."
+      },
+      "bonne réponse": "D"
+    },
+    "question n°13": {
+      "question": "L’introduction indique que Galilée et Descartes affirment que la nature est écrite en langage mathématique, soulignant l’importance de ces dernières pour la science.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°14": {
+      "question": "Un Argument affirme que les mathématiques offrent un langage imprécis et ambigu qui rend difficile la formalisation rigoureuse des phénomènes.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°15": {
+      "question": "Auguste Comte est cité comme un penseur qui nuance la prétention des mathématiques à être l’idéal de toute science, notamment en mettant en avant les spécificités des sciences humaines.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°16": {
+      "question": "L’explication d’un Argument affirme que les symboles abstraits des mathématiques limitent leur application à des contextes géographiques précis, sans universalité.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°17": {
+      "question": "Selon Un Argument , les sciences dites « dures » évitent d’utiliser les mathématiques, car elles préfèrent se baser uniquement sur l’observation qualitative.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°18": {
+      "question": "La « Science » est définie comme un ensemble cohérent de connaissances rationnelles, vérifiables et objectives, portant sur des objets déterminés selon une méthode rigoureuse.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    },
+    "question n°19": {
+      "question": "L’utilisation du calcul infinitésimal par Newton démontre que les mathématiques sont inutiles pour modéliser les phénomènes complexes comme la gravitation.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "B"
+    },
+    "question n°20": {
+      "question": "La question de la « nécessité logique ou méthodologique » des mathématiques pour la science est au cœur du sujet selon l’étude parcellaire.",
+      "réponses": {
+        "A": "Vrai",
+        "B": "Faux"
+      },
+      "bonne réponse": "A"
+    }
+  }
+}

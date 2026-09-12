@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Limites – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+
+            [
+                {
+                    "title": "Étape 1 : La Translation de vecteur $\\vec{u}$",
+                    "content": "Soit $\\vec{u}$ un vecteur d'affixe $b$.\nLa translation de vecteur $\\vec{u}$ est la transformation qui, à tout point $M$ d'affixe $z$, associe le point $M'$ d'affixe $z'$ tel que $\\vec{MM'} = \\vec{u}$.\nL'écriture complexe d'une translation est de la forme : $z' = z + b$.\nDans cette expression, $b$ représente l'affixe du vecteur de translation.\nUne translation ne possède aucun point invariant (sauf si le vecteur est nul).\nElle conserve les distances, les angles orientés et le parallélisme.",
+                    "example": "Déterminons l'expression complexe et l'image d'un point par une translation :\nSoit $t$ la translation de vecteur $\\vec{u}$ d'affixe $b = 3 - 2i$.\nL'expression complexe est $z' = z + 3 - 2i$.\nCalculons l'image du point $A$ d'affixe $z_A = 1 + 4i$ :\n$z_{A'} = z_A + 3 - 2i$\n$z_{A'} = (1 + 4i) + 3 - 2i$\n$z_{A'} = 1 + 3 + 4i - 2i$\n$z_{A'} = 4 + 2i$.\nLe point $A'$ image de $A$ a pour affixe $4 + 2i$.",
+                    "extras": [
+                        "Exemple complet : Soit la translation $t$ transformant $A(2+i)$ en $B(5-i)$.\nCherchons d'abord l'affixe $b$ du vecteur $\\vec{AB}$ :\n$b = z_B - z_A = (5 - i) - (2 + i) = 3 - 2i$.\nL'expression est donc $z' = z + 3 - 2i$.\nDéterminons l'affixe de l'antécédent de $C(i)$ :\n$i = z + 3 - 2i$\n$z = i - 3 + 2i = -3 + 3i$.",
+                        "Exemple complet : On donne $z' = z + 2i$. Déterminons l'image du cercle de centre $\\Omega(1)$ et de rayon $R=2$.\nLa translation conserve le rayon.\nL'image du centre $\\Omega$ est $\\Omega'$ d'affixe $z_{\\Omega'} = 1 + 2i$.\nLe cercle image a donc pour centre $\\Omega'(1 ; 2)$ et pour rayon $R=2$.",
+                        "Exemple complet : Soit les points $M(z)$ et $M'(z')$ tels que $z' = z + 4 - i$.\nLe vecteur de la translation est $\\vec{u}(4 ; -1)$.\nSi on a un carré $ABCD$, son image $A'B'C'D'$ sera un carré identique décalé de 4 unités vers la droite et 1 unité vers le bas."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : L'Homothétie de centre $\\Omega$ et de rapport $k$",
+                    "content": "Soit $\\Omega$ un point d'affixe $\\omega$ et $k$ un nombre réel non nul ($k \\in \\mathbb{R}^*$).\nL'homothétie de centre $\\Omega$ et de rapport $k$ est la transformation qui, à tout point $M$ d'affixe $z$, associe le point $M'$ d'affixe $z'$ tel que $\\vec{\\Omega M'} = k \\vec{\\Omega M}$.\nL'écriture complexe est : $z' - \\omega = k(z - \\omega)$ ou $z' = kz + \\omega(1 - k)$.\nSi $|k| > 1$, c'est un agrandissement.\nSi $|k| < 1$, c'est une réduction.\nSi $k < 0$, l'image et l'antécédent sont de part et d'autre du centre $\\Omega$.\nLe seul point invariant de l'homothétie est son centre $\\Omega$.",
+                    "example": "Déterminons l'image d'un point par une homothétie :\nSoit $h$ l'homothétie de centre $\\Omega$ d'affixe $\\omega = 2 + i$ et de rapport $k = 3$.\nL'expression complexe est $z' - (2 + i) = 3(z - (2 + i))$.\nSoit le point $B$ d'affixe $z_B = 4 - i$. Calculons son image $B'$ :\n$z_{B'} - (2 + i) = 3(4 - i - 2 - i)$\n$z_{B'} - 2 - i = 3(2 - 2i)$\n$z_{B'} - 2 - i = 6 - 6i$\n$z_{B'} = 6 - 6i + 2 + i$\n$z_{B'} = 8 - 5i$.\nLe point $B'$ a pour affixe $8 - 5i$.",
+                    "extras": [
+                        "Exemple complet : Trouver le centre et le rapport de $z' = 2z - 1 + 3i$.\nLe rapport est $k = 2$ (coefficient de $z$).\nPour le centre $\\omega$, on résout $z = 2z - 1 + 3i$ :\n$-z = -1 + 3i$\n$\\omega = 1 - 3i$.\nC'est une homothétie de centre $\\Omega(1-3i)$ et de rapport 2.",
+                        "Exemple complet : Homothétie de centre $O(0)$ et de rapport $k = -0,5$.\nL'expression est $z' = -0,5z$.\nSoit $A(4 + 2i)$. Son image est $z_{A'} = -0,5(4 + 2i) = -2 - i$.\nLe point est réduit de moitié et se retrouve à l'opposé du centre.",
+                        "Exemple complet : Soit $h$ telle que $z' = 3z + i$. Image de la droite $D: y = x$.\nLe rapport est $k=3$, l'image d'une droite est une droite parallèle.\nOn prend deux points de $D$ : $O(0)$ et $M(1+i)$.\nLeurs images sont $O'(i)$ et $M'(3+4i)$.\nLa droite image passe par ces deux points."
+                    ]
+                }
+            ]
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,456 @@
+{
+  "title": "DE07_Q8",
+  "id": "DE07_Q8",
+  "questions": {
+    "question n°1": {
+      "question": "Quelle est l'heure 5:10 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "elf",
+        "fünf",
+        "vor",
+        "zehn",
+        "drei",
+        "nach",
+        "zwanzig",
+        "sechs"
+      ],
+      "bonne réponse": "zehn nach fünf"
+    },
+    "question n°2": {
+      "question": "Quelle est l'heure 7:05 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "Uhr",
+        "zehn",
+        "sieben",
+        "acht",
+        "fünf",
+        "vor",
+        "nach",
+        "neun"
+      ],
+      "bonne réponse": "fünf nach sieben"
+    },
+    "question n°3": {
+      "question": "Quelle est l'heure 1:20 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "fünfzehn",
+        "eins",
+        "dreißig",
+        "zwei",
+        "vor",
+        "nach",
+        "zwanzig",
+        "drei"
+      ],
+      "bonne réponse": "zwanzig nach eins"
+    },
+    "question n°4": {
+      "question": "Quelle est l'heure 4:15 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nach",
+        "vor",
+        "vier",
+        "halb",
+        "ein",
+        "fünf",
+        "zwanzig",
+        "Viertel"
+      ],
+      "bonne réponse": "Viertel nach vier"
+    },
+    "question n°5": {
+      "question": "Quelle est l'heure 8:30 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "acht",
+        "neun",
+        "vor",
+        "Viertel",
+        "halb",
+        "dreißig",
+        "zehn",
+        "nach"
+      ],
+      "bonne réponse": "halb neun"
+    },
+    "question n°6": {
+      "question": "Quelle est l'heure 11:25 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwanzig",
+        "zwölf",
+        "zehn",
+        "elf",
+        "nach",
+        "eins",
+        "vor",
+        "fünfundzwanzig"
+      ],
+      "bonne réponse": "fünfundzwanzig nach elf"
+    },
+    "question n°7": {
+      "question": "Quelle est l'heure 3:12 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vier",
+        "nach",
+        "drei",
+        "vor",
+        "fünfzehn",
+        "zehn",
+        "zwölf",
+        "zwei"
+      ],
+      "bonne réponse": "zwölf nach drei"
+    },
+    "question n°8": {
+      "question": "Quelle est l'heure 6:28 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sieben",
+        "halb",
+        "nach",
+        "sechs",
+        "vor",
+        "fünf",
+        "zwanzig",
+        "achtundzwanzig"
+      ],
+      "bonne réponse": "achtundzwanzig nach sechs"
+    },
+    "question n°9": {
+      "question": "Quelle est l'heure 9:03 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "neun",
+        "nach",
+        "vor",
+        "zwölf",
+        "sieben",
+        "fünf",
+        "drei",
+        "zehn"
+      ],
+      "bonne réponse": "drei nach neun"
+    },
+    "question n°10": {
+      "question": "Quelle est l'heure 12:22 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vor",
+        "zehn",
+        "zwölf",
+        "eins",
+        "zweiundzwanzig",
+        "vier",
+        "zwanzig",
+        "nach"
+      ],
+      "bonne réponse": "zweiundzwanzig nach zwölf"
+    },
+    "question n°11": {
+      "question": "Quelle est l'heure 2:18 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nach",
+        "zwei",
+        "dreizehn",
+        "vor",
+        "eins",
+        "zwanzig",
+        "drei",
+        "achtzehn"
+      ],
+      "bonne réponse": "achtzehn nach zwei"
+    },
+    "question n°12": {
+      "question": "Quelle est l'heure 10:29 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "nach",
+        "dreißig",
+        "fünfzehn",
+        "zehn",
+        "vor",
+        "elf",
+        "neunundzwanzig"
+      ],
+      "bonne réponse": "neunundzwanzig nach zehn"
+    },
+    "question n°13": {
+      "question": "Quelle est l'heure 4:16 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vier",
+        "zehn",
+        "nach",
+        "vor",
+        "sechzehn",
+        "fünf",
+        "zwanzig",
+        "eins"
+      ],
+      "bonne réponse": "sechzehn nach vier"
+    },
+    "question n°14": {
+      "question": "Quelle est l'heure 7:08 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sechs",
+        "acht",
+        "sieben",
+        "vor",
+        "fünf",
+        "zehn",
+        "nach",
+        "neun"
+      ],
+      "bonne réponse": "acht nach sieben"
+    },
+    "question n°15": {
+      "question": "Quelle est l'heure 1:30 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "Viertel",
+        "drei",
+        "halb",
+        "zehn",
+        "nach",
+        "vor",
+        "zwei"
+      ],
+      "bonne réponse": "halb zwei"
+    },
+    "question n°16": {
+      "question": "Quelle est l'heure 8:09 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "acht",
+        "neun",
+        "nach",
+        "zehn",
+        "sieben",
+        "vor",
+        "sechs",
+        "vier"
+      ],
+      "bonne réponse": "neun nach acht"
+    },
+    "question n°17": {
+      "question": "Quelle est l'heure 10:27 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "sieben",
+        "vor",
+        "dreißig",
+        "eins",
+        "elf",
+        "nach",
+        "siebenundzwanzig"
+      ],
+      "bonne réponse": "siebenundzwanzig nach zehn"
+    },
+    "question n°18": {
+      "question": "Quelle est l'heure 5:13 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sechs",
+        "nach",
+        "dreizehn",
+        "vor",
+        "vierzehn",
+        "fünf",
+        "zehn",
+        "sieben"
+      ],
+      "bonne réponse": "dreizehn nach fünf"
+    },
+    "question n°19": {
+      "question": "Quelle est l'heure 3:21 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "drei",
+        "vier",
+        "vor",
+        "einundzwanzig",
+        "eins",
+        "zwanzig",
+        "nach",
+        "zwei"
+      ],
+      "bonne réponse": "einundzwanzig nach drei"
+    },
+    "question n°20": {
+      "question": "Quelle est l'heure 12:01 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "zwölf",
+        "drei",
+        "zwei",
+        "vor",
+        "zehn",
+        "nach",
+        "eins"
+      ],
+      "bonne réponse": "eins nach zwölf"
+    },
+    "question n°21": {
+      "question": "Quelle est l'heure 1:50 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "elf",
+        "zwei",
+        "nach",
+        "zehn",
+        "vor",
+        "fünfzehn",
+        "drei"
+      ],
+      "bonne réponse": "zehn vor zwei"
+    },
+    "question n°22": {
+      "question": "Quelle est l'heure 6:45 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "halb",
+        "sieben",
+        "ein",
+        "nach",
+        "Viertel",
+        "vor",
+        "sechs",
+        "fünf"
+      ],
+      "bonne réponse": "Viertel vor sieben"
+    },
+    "question n°23": {
+      "question": "Quelle est l'heure 3:55 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "eins",
+        "vor",
+        "vier",
+        "drei",
+        "fünf",
+        "nach",
+        "zehn",
+        "zwanzig"
+      ],
+      "bonne réponse": "fünf vor vier"
+    },
+    "question n°24": {
+      "question": "Quelle est l'heure 11:40 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "vierzehn",
+        "nach",
+        "vor",
+        "elf",
+        "zwölf",
+        "eins",
+        "zwanzig"
+      ],
+      "bonne réponse": "zwanzig vor zwölf"
+    },
+    "question n°25": {
+      "question": "Quelle est l'heure 9:49 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwölf",
+        "zehn",
+        "neun",
+        "vor",
+        "nach",
+        "elf",
+        "fünf",
+        "zwanzig"
+      ],
+      "bonne réponse": "elf vor zehn"
+    },
+    "question n°26": {
+      "question": "Quelle est l'heure 7:58 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "sieben",
+        "nach",
+        "drei",
+        "vor",
+        "acht",
+        "fünf",
+        "zehn",
+        "zwei"
+      ],
+      "bonne réponse": "zwei vor acht"
+    },
+    "question n°27": {
+      "question": "Quelle est l'heure 4:52 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zehn",
+        "vier",
+        "acht",
+        "vor",
+        "fünf",
+        "nach",
+        "zwei",
+        "sieben"
+      ],
+      "bonne réponse": "acht vor fünf"
+    },
+    "question n°28": {
+      "question": "Quelle est l'heure 12:35 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "zwölf",
+        "eins",
+        "halb",
+        "vor",
+        "zehn",
+        "fünfundzwanzig",
+        "zwei",
+        "nach"
+      ],
+      "bonne réponse": "fünfundzwanzig vor eins"
+    },
+    "question n°29": {
+      "question": "Quelle est l'heure 2:48 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "vor",
+        "nach",
+        "zwölf",
+        "fünf",
+        "drei",
+        "achtzehn",
+        "eins",
+        "zwei"
+      ],
+      "bonne réponse": "zwölf vor drei"
+    },
+    "question n°30": {
+      "question": "Quelle est l'heure 10:57 en lettres (en allemand) ?",
+      "type": "drag_and_drop",
+      "réponses": [
+        "nach",
+        "elf",
+        "fünfzehn",
+        "zehn",
+        "drei",
+        "vor",
+        "fünf",
+        "zwei"
+      ],
+      "bonne réponse": "drei vor elf"
+    }
+  }
+}

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>IA Maths CI</title>
+
+    <!-- MathJax -->
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange: #FF8C00;
+            --vert: #009e49;
+            --fond: #f4f6f8;
+            --bleu: #1a237e;
+        }
+
+        /* RESET */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: var(--fond);
+            margin: 0;
+        }
+
+        /* PLEIN ÉCRAN */
+        .main {
+            width: 100%;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        /* CARTE LARGE */
+        .card {
+            width: 100%;
+            max-width: 1200px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 20px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+            border-top: 8px solid var(--vert);
+        }
+
+        /* TITRE */
+        h2 {
+            text-align: center;
+            color: var(--bleu);
+            margin-bottom: 25px;
+        }
+
+        /* TEXTE (ANTI-DEBORDEMENT) */
+        #content {
+            overflow-wrap: break-word;
+            word-break: break-word;
+        }
+
+        /* MATH (SCROLL SI TROP LONG) */
+        mjx-container {
+            overflow-x: auto;
+            max-width: 100%;
+            padding-bottom: 5px;
+        }
+
+        /* CONTENU */
+        .step-title {
+            color: var(--orange);
+            font-weight: bold;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .example {
+            background: #e8f5e9;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+
+        .extra {
+            background: #fff3e0;
+            padding: 12px;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+
+        /* BOUTONS */
+        .buttons {
+            margin-top: 25px;
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        button {
+            flex: 1;
+            min-width: 140px;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            font-weight: bold;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        .btn-extra {
+            background: var(--orange);
+            color: white;
+        }
+
+        .btn-next {
+            background: var(--vert);
+            color: white;
+        }
+
+        /* MOBILE */
+        @media (max-width: 600px) {
+            .card {
+                padding: 20px;
+                border-radius: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="card">
+            <h2>Variable aléatoire – par Formateur Coulibaly 🇨🇮</h2>
+
+            <div id="content"></div>
+
+            <div class="buttons">
+                <button class="btn-extra" onclick="showExample()">Autre exemple</button>
+                <button class="btn-next" onclick="nextStep()">Ça va, on avance</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        let step = 0;
+        let exampleIndex = 0;
+
+        const steps =
+
+
+            [
+                {
+                    "title": "Étape 1 : Définir les valeurs de la Variable Aléatoire (L'Univers Image)",
+                    "content": "La première étape pour étudier une variable aléatoire consiste à identifier toutes les issues numériques possibles d'une expérience.\nUne variable aléatoire, souvent notée $X$, est une fonction qui transforme chaque résultat d'un tirage ou d'un jeu en un nombre réel (souvent un gain ou une perte).\nPour ne rien oublier, il faut lister méthodiquement tous les cas possibles du tirage, puis calculer le résultat financier associé à chaque cas.\n\n**Ce qu'il faut retenir :**\n1. On analyse le type de tirage (simultané, successif avec ou sans remise) pour calculer le nombre total de possibilités $\\text{card}(\\Omega)$.\n2. On définit ce que représente la variable (exemple : $X$ = gain du joueur).\n3. On liste l'ensemble des valeurs possibles sous la forme $X(\\Omega) = \\{x_1, x_2, \\dots, x_n\\}$.\n4. Attention aux signes : un gain est positif, une perte ou une mise payée est négative.",
+                    "example": "**Situation : Jeu de billes avec mise**\nUne urne contient 4 billes Vertes et 2 billes Rouges. Un joueur mise 500 F pour tirer simultanément 2 billes.\n- Chaque bille Verte rapporte 200 F.\n- Chaque bille Rouge rapporte 1000 F.\nSoit $X$ la variable aléatoire égale au gain algébrique (gain réel après avoir payé la mise).\n\n**Analyse complète et indépendante :**\nLe nombre total de tirages possibles est $\\text{card}(\\Omega) = C_6^2 = \\frac{6 \\times 5}{2 \\times 1} = 15$.\n\nDéterminons les valeurs de $X$ :\n- Cas 1 : Le joueur tire 2 billes Vertes (et 0 Rouge).\nGain brut = $2 \\times 200 = 400$ F. \nGain algébrique $X = 400 - 500 = -100$.\n\n- Cas 2 : Le joueur tire 1 bille Verte et 1 bille Rouge.\nGain brut = $(1 \\times 200) + (1 \\times 1000) = 1200$ F.\nGain algébrique $X = 1200 - 500 = 700$.\n\n- Cas 3 : Le joueur tire 0 bille Verte et 2 billes Rouges.\nGain brut = $2 \\times 1000 = 2000$ F.\nGain algébrique $X = 2000 - 500 = 1500$.\n\n**Résultat :** Les valeurs possibles de $X$ sont $X(\\Omega) = \\{-100, 700, 1500\\}$.",
+                    "extras": [
+                        "Exemple complet : On lance un dé à 6 faces. Si le chiffre est pair, on gagne le triple de la valeur lue. Si c'est impair, on perd 10 F.\nValeurs paires : 2, 4, 6. Gains : $2 \\times 3=6$, $4 \\times 3=12$, $6 \\times 3=18$.\nValeurs impaires : 1, 3, 5. Perte : $-10$.\n$X(\\Omega) = \\{-10, 6, 12, 18\\}$.",
+                        "Exemple complet : Dans un lot de 10 appareils, 3 sont défectueux. On choisit 2 appareils au hasard. Soit $X$ le nombre d'appareils défectueux choisis.\nOn peut avoir 0 défectueux (donc 2 bons).\nOn peut avoir 1 défectueux (donc 1 bon).\nOn peut avoir 2 défectueux (donc 0 bon).\n$X(\\Omega) = \\{0, 1, 2\\}$.",
+                        "Exemple complet : Une cible comporte trois zones : 10 pts, 50 pts et 100 pts. Un archer tire 2 flèches. Soit $X$ la somme des points.\nLes combinaisons sont : (10+10=20), (10+50=60), (10+100=110), (50+50=100), (50+100=150), (100+100=200).\n$X(\\Omega) = \\{20, 60, 100, 110, 150, 200\\}$."
+                    ]
+                },
+                {
+                    "title": "Étape 2 : Établir la Loi de Probabilité (Le Tableau)",
+                    "content": "Une fois que nous connaissons les valeurs $x_i$, nous devons calculer la probabilité d'obtenir chacune de ces valeurs. \nL'ensemble de ces couples $(x_i, P(X=x_i))$ constitue la **loi de probabilité**.\n\n**Ce qu'il faut retenir :**\n1. On utilise les outils de dénombrement ($C_n^p$, $A_n^p$, ou $n^p$) pour calculer chaque probabilité.\n2. La somme de toutes les probabilités calculées doit être strictement égale à $1$. Si vous trouvez $0,99$ ou $1,1$, il y a une erreur dans vos calculs.\n3. On présente généralement ces résultats dans un tableau clair pour faciliter les calculs suivants.",
+                    "example": "**Situation : Tirage de boules de couleurs**\nOn reprend l'urne de l'étape 1 (4 billes Vertes et 2 billes Rouges, tirage simultané de 2).\nNous avions $X(\\Omega) = \\{-100, 700, 1500\\}$ et $\\text{card}(\\Omega) = 15$.\n\n**Calcul des probabilités :**\n\n- Pour $X = -100$ (tirer 2 Vertes parmi 4) :\n$P(X = -100) = \\frac{C_4^2}{15} = \\frac{6}{15} = \\frac{2}{5}$.\n\n- Pour $X = 700$ (tirer 1 Verte parmi 4 ET 1 Rouge parmi 2) :\n$P(X = 700) = \\frac{C_4^1 \\times C_2^1}{15} = \\frac{4 \\times 2}{15} = \\frac{8}{15}$.\n\n- Pour $X = 1500$ (tirer 2 Rouges parmi 2) :\n$P(X = 1500) = \\frac{C_2^2}{15} = \\frac{1}{15}$.\n\n**Vérification :**\n$\\frac{6}{15} + \\frac{8}{15} + \\frac{1}{15} = \\frac{15}{15} = 1$.\n\n**Loi de probabilité :**\n| $x_i$ | -100 | 700 | 1500 |\n|---|---|---|---|\n| $P(X=x_i)$ | $6/15$ | $8/15$ | $1/15$ |",
+                    "extras": [
+                        "Exemple complet : Un dé truqué où la probabilité d'obtenir 6 est 1/2 et les autres faces sont équiprobables. Soit $X$ le numéro obtenu.\n$P(X=6) = 1/2 = 5/10$.\nLes autres faces (1,2,3,4,5) se partagent le reste (1/2), soit $1/10$ chacune.\nTableau : $x_i \\in \\{1,2,3,4,5,6\\}$ avec $P_i = 1/10$ pour les cinq premiers et $1/2$ pour le dernier.",
+                        "Exemple complet : On tire une carte dans un jeu de 32. Si c'est un As (4 cartes), on gagne 10 F. Sinon, on perd 2 F.\n$P(X=10) = 4/32 = 1/8$.\n$P(X=-2) = 28/32 = 7/8$.\nSomme : $1/8 + 7/8 = 1$.",
+                        "Exemple complet : Une pièce tombe sur Pile avec probabilité $p=0,6$. On lance 2 fois. $X$ est le nombre de Pile.\n$P(X=0) = 0,4 \\times 0,4 = 0,16$.\n$P(X=1) = (0,6 \\times 0,4) + (0,4 \\times 0,6) = 0,48$.\n$P(X=2) = 0,6 \\times 0,6 = 0,36$.\nTotal : $0,16 + 0,48 + 0,36 = 1,00$."
+                    ]
+                },
+                {
+                    "title": "Étape 3 : Espérance, Variance et Équité du jeu",
+                    "content": "Cette étape permet d'analyser si le jeu est rentable pour le joueur ou pour l'organisateur.\nL'**Espérance mathématique** $E(X)$ est la moyenne des gains si l'on joue un très grand nombre de fois.\nLa **Variance** $V(X)$ et l'**Écart-type** $\\sigma(X)$ mesurent la dispersion des gains (le risque).\n\n**Ce qu'il faut retenir :**\n1. Formule de l'espérance : $E(X) = \\sum x_i \\times P_i$.\n2. Si $E(X) = 0$, on dit que le jeu est **équitable**.\n3. Si $E(X) > 0$, le jeu est favorable au joueur.\n4. Si $E(X) < 0$, le jeu est défavorable au joueur (favorable à l'organisateur).",
+                    "example": "**Situation : Calcul de rentabilité**\nReprenons le tableau de l'étape 2 :\n$x_1 = -100, P_1 = 6/15$\n$x_2 = 700, P_2 = 8/15$\n$x_3 = 1500, P_3 = 1/15$\n\n**Calcul de l'Espérance :**\n$E(X) = (-100 \\times \\frac{6}{15}) + (700 \\times \\frac{8}{15}) + (1500 \\times \\frac{1}{15})$\n$E(X) = \\frac{-600 + 5600 + 1500}{15}$\n$E(X) = \\frac{6500}{15} \\approx 433,33$ F.\n\n**Interprétation :**\nL'espérance est positive ($E(X) > 0$).\nCela signifie qu'en moyenne, un joueur peut espérer gagner environ 433 F par partie sur le long terme.\nLe jeu est avantageux pour le joueur.",
+                    "extras": [
+                        "Exemple complet : Un jeu consiste à payer une mise $m$. On gagne 1000 F avec une probabilité de 0,1. Pour que le jeu soit équitable, que doit être $m$ ?\n$E(X) = (1000-m) \\times 0,1 + (-m) \\times 0,9 = 0$.\n$100 - 0,1m - 0,9m = 0 \\implies 100 - m = 0$.\nLa mise doit être de 100 F.",
+                        "Exemple complet : Calcul de Variance. $x_i \\in \\{0, 10\\}$ avec $P_i \\in \\{0,5 ; 0,5\\}$.\n$E(X) = 5$.\n$V(X) = \\sum P_i x_i^2 - [E(X)]^2 = (0,5 \\times 0^2 + 0,5 \\times 10^2) - 5^2 = 50 - 25 = 25$.\nL'écart-type est $\\sqrt{25} = 5$.",
+                        "Exemple complet : Un assureur estime qu'un accident coûte 5000 F avec une probabilité de 0,01. La prime annuelle est de 100 F.\n$X$ est le bénéfice de l'assureur.\n$x_1 = 100$ (pas d'accident) avec $P_1 = 0,99$.\n$x_2 = 100 - 5000 = -4900$ (accident) avec $P_2 = 0,01$.\n$E(X) = (100 \\times 0,99) + (-4900 \\times 0,01) = 99 - 49 = 50$ F.\nL'assureur gagne en moyenne 50 F par client."
+                    ]
+                }
+            ]
+
+
+
+            ;
+
+        function formatText(text) {
+            if (!text) return "";
+
+            return text
+                // **gras**
+                .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+
+                // double saut de ligne
+                .replace(/\n\n/g, "<br><br>")
+
+                // saut simple
+                .replace(/\n/g, "<br>");
+        }
+
+        function renderStep() {
+            exampleIndex = 0;
+
+            let html = `
+        <div class="step-title">${formatText(steps[step].title)}</div>
+
+        <div>${formatText(steps[step].content)}</div>
+
+        <div class="example">
+            ${formatText(steps[step].example)}
+        </div>
+
+        <div id="extras"></div>
+    `;
+
+            document.getElementById("content").innerHTML = html;
+
+            renderMath();
+        }
+
+        function showExample() {
+            let extrasDiv = document.getElementById("extras");
+
+            if (exampleIndex < steps[step].extras.length) {
+
+                let div = document.createElement("div");
+                div.className = "extra";
+
+                div.innerHTML = formatText(
+                    steps[step].extras[exampleIndex]
+                );
+
+                extrasDiv.appendChild(div);
+
+                exampleIndex++;
+
+                renderMath();
+            }
+
+            if (exampleIndex >= steps[step].extras.length) {
+                document.querySelector(".btn-extra").style.display = "none";
+            }
+        }
+
+        function nextStep() {
+            step++;
+
+            document.querySelector(".btn-extra").style.display = "block";
+
+            if (step < steps.length) {
+                renderStep();
+            } else {
+                document.getElementById("content").innerHTML = `
+            <h3 style="color:green;text-align:center;">
+                🎉 Leçon terminée !
+            </h3>
+        `;
+                document.querySelector(".buttons").style.display = "none";
+            }
+        }
+
+        function renderMath() {
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
+        }
+
+        renderStep();
+
+    </script>
+
+</body>
+
+</html>

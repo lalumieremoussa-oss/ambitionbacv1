@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz de Chimie : Alcools Saturés</title>
+    
+    <script>
+        window.MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] },
+            options: { processHtmlClass: 'tex2jax_process' }
+        };
+    </script>
+    <script id="MathJax-script" async src="tex-chtml.js"></script>
+
+    <style>
+        :root {
+            --orange-ivoire: #FF8C00;
+            --vert-ivoire: #009e49;
+            --blanc: #ffffff;
+            --gris-fond: #FFF4F0; 
+        }
+
+        body { 
+            font-family: 'Segoe UI', Roboto, sans-serif; 
+            background-color: var(--gris-fond); 
+            margin: 0; 
+            padding: 15px; 
+            color: #333; 
+        }
+
+        .container { max-width: 700px; margin: auto; }
+
+        .introduction, .conclusion {
+            background: var(--blanc);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            text-align: center;
+        }
+
+        h1 { 
+            color: var(--orange-ivoire); 
+            font-size: 1.5rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-top: 0;
+        }
+
+        .question-card { 
+            background: var(--blanc); 
+            margin-bottom: 25px; 
+            padding: 25px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            border-left: 5px solid var(--orange-ivoire);
+        }
+
+        .question-text { 
+            font-weight: 600; 
+            font-size: 1.1rem; 
+            margin-bottom: 15px; 
+            display: block;
+            line-height: 1.4;
+        }
+
+        .option { 
+            display: flex; 
+            align-items: center;
+            padding: 14px; 
+            margin: 10px 0; 
+            background: #fdfdfd;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            transition: all 0.2s;
+            cursor: pointer;
+        }
+
+        .option:hover { background: #fff8f0; border-color: var(--orange-ivoire); }
+
+        input[type="radio"] { 
+            margin-right: 15px; 
+            accent-color: var(--orange-ivoire);
+            transform: scale(1.3);
+        }
+
+        .correct { border-left: 8px solid var(--vert-ivoire) !important; background: #e8f5e9; }
+        .wrong { border-left: 8px solid #f44336 !important; background: #ffebee; }
+
+        .feedback { margin-top: 12px; font-weight: bold; font-size: 0.95rem; }
+
+        .btn-submit { 
+            display: block; 
+            width: 100%; 
+            padding: 20px; 
+            background: linear-gradient(135deg, var(--orange-ivoire), #ffb347);
+            color: white; 
+            border: none; 
+            border-radius: 12px; 
+            font-size: 1.2rem; 
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 140, 0, 0.3);
+            margin: 40px 0;
+            cursor: pointer;
+        }
+
+        .btn-submit:disabled { background: #ccc; box-shadow: none; cursor: not-allowed; }
+
+        .section-title {
+            color: var(--vert-ivoire);
+            font-size: 1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="introduction">
+        <h1>Évaluation Intensive : Les Alcools</h1>
+        <p>Ce test exhaustif de 30 questions vous permettra de consolider vos acquis sur la détermination des formules brutes, l'isomérie, les classes d'alcools et l'oxydation ménagée. Prenez soin d'effectuer vos calculs de masses molaires avec précision.</p>
+    </div>
+    
+    <div id="quizForm" class="tex2jax_process"></div>
+
+    <button id="submitBtn" class="btn-submit" onclick="corriger()">Valider mes résultats</button>
+
+    <div class="conclusion" id="finalConclusion" style="display:none;">
+        <h2 style="color: var(--vert-ivoire);">Analyse de Performance</h2>
+        <p id="finalScoreText"></p>
+        <p>Poursuivez vos efforts de révision pour maîtriser parfaitement les mécanismes réactionnels de l'oxydation ménagée.</p>
+    </div>
+</div>
+
+<script>
+    const data = [
+        // EXERCICE 1 & BASES
+        {
+            "q": "Un alcool saturé possède une masse molaire $M = 60\\,g/mol$. Quelle est sa formule brute ?",
+            "options": {
+                "A": "$C_2H_6O$",
+                "B": "$C_3H_8O$",
+                "C": "$C_4H_{10}O$",
+                "D": "$C_3H_6O$"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Pour l'alcool $C_3H_8O$, quel est le nom de l'isomère de classe primaire ?",
+            "options": {
+                "A": "Propan-2-ol",
+                "B": "Éthanol",
+                "C": "Propan-1-ol",
+                "D": "Méthoxyméthane"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Quelle est la classe du propan-2-ol ?",
+            "options": {
+                "A": "Primaire",
+                "B": "Secondaire",
+                "C": "Tertiaire",
+                "D": "Quaternaire"
+            },
+            "r": "B"
+        },
+        // EXERCICE 2
+        {
+            "q": "La densité de vapeur d'un monoalcool saturé est $d = 2{,}55$. Quelle est sa masse molaire approximative ?",
+            "options": {
+                "A": "$60\\,g/mol$",
+                "B": "$74\\,g/mol$",
+                "C": "$88\\,g/mol$",
+                "D": "$46\\,g/mol$"
+            },
+            "r": "B"
+        },
+        {
+            "q": "D'après $d = 2{,}55$, la formule brute est $C_4H_{10}O$. Combien d'isomères alcools cette formule possède-t-elle ?",
+            "options": {
+                "A": "2",
+                "B": "3",
+                "C": "4",
+                "D": "5"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Parmi les isomères de $C_4H_{10}O$, lequel est un alcool tertiaire ?",
+            "options": {
+                "A": "Butan-2-ol",
+                "B": "2-méthylpropan-2-ol",
+                "C": "2-méthylpropan-1-ol",
+                "D": "Butan-1-ol"
+            },
+            "r": "B"
+        },
+        // EXERCICE 3
+        {
+            "q": "Un monoalcool de $M = 88\\,g/mol$ contient $68{,}18\\%$ de Carbone. Sa formule brute est :",
+            "options": {
+                "A": "$C_4H_{10}O$",
+                "B": "$C_5H_{10}O$",
+                "C": "$C_5H_{12}O$",
+                "D": "$C_6H_{14}O$"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Quelle est la formule générale de la masse molaire d'un alcool saturé non cyclique ?",
+            "options": {
+                "A": "$14n + 16$",
+                "B": "$14n + 18$",
+                "C": "$12n + 18$",
+                "D": "$14n + 2$"
+            },
+            "r": "B"
+        },
+        // EXERCICE 4
+        {
+            "q": "Un composé contient $60\\%$ de Carbone et $13{,}33\\%$ d'Hydrogène. Si c'est un alcool, sa formule brute est :",
+            "options": {
+                "A": "$C_3H_8O$",
+                "B": "$C_2H_6O$",
+                "C": "$C_4H_{10}O$",
+                "D": "$C_3H_6O$"
+            },
+            "r": "A"
+        },
+        {
+            "q": "L'oxydation ménagée d'un isomère de $C_3H_8O$ donne un aldéhyde. De quel isomère s'agit-il ?",
+            "options": {
+                "A": "Propan-2-ol",
+                "B": "Propan-1-ol",
+                "C": "Propanone",
+                "D": "Isopropanol"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Quel produit obtient-on par l'oxydation ménagée du propan-2-ol ?",
+            "options": {
+                "A": "Propanal",
+                "B": "Acide propanoïque",
+                "C": "Propanone",
+                "D": "Aucune réaction"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Quelle est la fonction chimique du produit de l'oxydation d'un alcool secondaire ?",
+            "options": {
+                "A": "Aldéhyde",
+                "B": "Acide carboxylique",
+                "C": "Cétone",
+                "D": "Alcane"
+            },
+            "r": "C"
+        },
+        // EXERCICE 5
+        {
+            "q": "Alcool A : $72{,}41\\%$ de carbone en masse. Quelle est la valeur de 'n' ?",
+            "options": {
+                "A": "3",
+                "B": "4",
+                "C": "5",
+                "D": "6"
+            },
+            "r": "B"
+        },
+        {
+            "q": "L'isomère de $C_4H_{10}O$ possédant une chaîne carbonée ramifiée et étant de classe primaire est :",
+            "options": {
+                "A": "2-méthylpropan-2-ol",
+                "B": "Butan-1-ol",
+                "C": "2-méthylpropan-1-ol",
+                "D": "2-méthylbutan-1-ol"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Si un alcool contient $21{,}62\\%$ d'hydrogène en masse, il s'agit du :",
+            "options": {
+                "A": "Méthanol",
+                "B": "Éthanol",
+                "C": "Propan-1-ol",
+                "D": "Butan-1-ol"
+            },
+            "r": "A"
+        },
+        // EXERCICE 6
+        {
+            "q": "L'hydratation du but-1-ène ($CH_3-CH_2-CH=CH_2$) produit majoritairement :",
+            "options": {
+                "A": "Butan-1-ol",
+                "B": "Butan-2-ol",
+                "C": "2-méthylpropan-1-ol",
+                "D": "Butan-2-one"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Le butan-2-ol appartient à quelle classe d'alcool ?",
+            "options": {
+                "A": "Primaire",
+                "B": "Secondaire",
+                "C": "Tertiaire",
+                "D": "Saturée"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Le produit C issu de l'oxydation ménagée du butan-2-ol est :",
+            "options": {
+                "A": "Le butanal",
+                "B": "L'acide butanoïque",
+                "C": "La butan-2-one",
+                "D": "Le but-2-ène"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Quelle est la formule brute de la butan-2-one ?",
+            "options": {
+                "A": "$C_4H_{10}O$",
+                "B": "$C_4H_8O$",
+                "C": "$C_4H_6O$",
+                "D": "$C_4H_8O_2$"
+            },
+            "r": "B"
+        },
+        // QUESTIONS APPROFONDIES - DEVELOPPEMENT
+        {
+            "q": "Lors de l'oxydation ménagée par l'ion dichromate $Cr_2O_7^{2-}$, en quel ion le chrome est-il réduit ?",
+            "options": {
+                "A": "$Cr^{2+}$",
+                "B": "$CrO_4^{2-}$",
+                "C": "$Cr^{3+}$",
+                "D": "$Cr^{6+}$"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Quel test permet de distinguer un aldéhyde d'une cétone ?",
+            "options": {
+                "A": "La liqueur de Fehling",
+                "B": "La DNPH",
+                "C": "Le papier pH",
+                "D": "Le nitrate d'argent simple"
+            },
+            "r": "A"
+        },
+        {
+            "q": "La DNPH réagit positivement (précipité jaune-orangé) avec :",
+            "options": {
+                "A": "Les alcools uniquement",
+                "B": "Les aldéhydes uniquement",
+                "C": "Les aldéhydes et les cétones",
+                "D": "Les acides carboxyliques"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Un alcool qui ne subit pas d'oxydation ménagée est de classe :",
+            "options": {
+                "A": "Primaire",
+                "B": "Secondaire",
+                "C": "Tertiaire",
+                "D": "Toutes les classes s'oxydent"
+            },
+            "r": "C"
+        },
+        {
+            "q": "L'oxydation complète (combustion) d'un alcool produit :",
+            "options": {
+                "A": "Un aldéhyde et de l'eau",
+                "B": "Du dioxyde de carbone et de l'eau",
+                "C": "Une cétone et du carbone",
+                "D": "Un alcène"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Quelle est la masse molaire de l'éthanol ($C_2H_6O$) ?",
+            "options": {
+                "A": "$32\\,g/mol$",
+                "B": "$46\\,g/mol$",
+                "C": "$60\\,g/mol$",
+                "D": "$74\\,g/mol$"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Comment appelle-t-on des molécules ayant la même formule brute mais des formules semi-développées différentes ?",
+            "options": {
+                "A": "Des isotopes",
+                "B": "Des isomères",
+                "C": "Des ions",
+                "D": "Des polymères"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Dans l'oxydation ménagée du propan-1-ol en excès d'oxydant, on obtient :",
+            "options": {
+                "A": "Du propanal",
+                "B": "De la propanone",
+                "C": "De l'acide propanoïque",
+                "D": "Du propane"
+            },
+            "r": "C"
+        },
+        {
+            "q": "Le passage d'un alcool à un aldéhyde est une perte de combien d'atomes d'hydrogène ?",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "3",
+                "D": "4"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Quel est le nom de l'alcool de formule $CH_3-OH$ ?",
+            "options": {
+                "A": "Éthanol",
+                "B": "Méthanol",
+                "C": "Propanol",
+                "D": "Alcool formique"
+            },
+            "r": "B"
+        },
+        {
+            "q": "Un alcène symétrique hydraté donne :",
+            "options": {
+                "A": "Deux alcools différents",
+                "B": "Un seul alcool",
+                "C": "Une cétone",
+                "D": "Pas de réaction"
+            },
+            "r": "B"
+        }
+    ];
+
+    const form = document.getElementById('quizForm');
+
+    data.forEach((item, i) => {
+        let opts = '';
+        for(let key in item.options) {
+            opts += `
+                <label class="option">
+                    <input type="radio" name="q${i}" value="${key}">
+                    <span><b>${key})</b> ${item.options[key]}</span>
+                </label>`;
+        }
+
+        form.innerHTML += `
+            <div class="question-card" id="card${i}">
+                <span class="section-title">Question ${i+1}</span>
+                <span class="question-text">${item.q}</span>
+                ${opts}
+                <div id="feedback${i}" class="feedback"></div>
+            </div>`;
+    });
+
+    function corriger() {
+        let score = 0;
+        let total = data.length;
+
+        data.forEach((item, i) => {
+            const selected = document.querySelector(`input[name="q${i}"]:checked`);
+            const card = document.getElementById(`card${i}`);
+            const feedback = document.getElementById(`feedback${i}`);
+
+            if (selected && selected.value === item.r) {
+                score++;
+                card.classList.add("correct");
+            } else {
+                card.classList.add("wrong");
+                feedback.innerHTML = `<span style="color:#d32f2f">❌ Réponse correcte : ${item.r}</span>`;
+            }
+            
+            const radios = document.getElementsByName(`q${i}`);
+            radios.forEach(r => r.disabled = true);
+        });
+
+        const btn = document.getElementById('submitBtn');
+        btn.disabled = true;
+        btn.innerHTML = "Évaluation terminée";
+
+        const conclusion = document.getElementById('finalConclusion');
+        const scoreText = document.getElementById('finalScoreText');
+        conclusion.style.display = 'block';
+        scoreText.innerHTML = `Vous avez obtenu une note de <strong>${score} / ${total}</strong>.`;
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+        if (window.ExerciceChannel) {
+            window.ExerciceChannel.postMessage(JSON.stringify({
+                "score": score,
+                "total": total
+            }));
+        }
+    }
+</script>
+
+</body>
+</html>
