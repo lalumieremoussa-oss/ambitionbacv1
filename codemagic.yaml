@@ -25,6 +25,10 @@ workflows:
     integrations:
       app_store_connect: Codemagic
     environment:
+      # L'ajout de cette section est important pour que Codemagic sache comment configurer la signature
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: "com.ambition.ambitionbac"
       flutter: stable
       xcode: latest
       cocoapods: default
