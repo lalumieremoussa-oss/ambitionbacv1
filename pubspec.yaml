@@ -1,132 +1,75 @@
-name: ambitionbac
-description: Application mobile éducative ivoirienne Ambition+ Bac.
-publish_to: 'none'
-version: 1.0.0+1
+workflows:
+  android-workflow:
+    name: Ambition Bac Android Build
+    max_build_duration: 60
+    instance_type: mac_mini_m1
+    environment:
+      flutter: stable
+      groups:
+        - ios
+    scripts:
+      - name: Activer Swift Package Manager
+        script: flutter config --enable-swift-package-manager
+      - name: Flutter Clean and Fetch
+        script: |
+          flutter pub cache clean --force
+          flutter pub get
+      - name: Créer le fichier .env
+        script: |
+          mkdir -p assets
+          echo "$ENV_CONTENT" > assets/.env
+      - name: Build Android APK
+        script: |
+          flutter build apk --release
+    artifacts:
+      - build/app/outputs/flutter-apk/*.apk
 
-
-environment:
-  sdk: ">=3.0.0 <4.0.0"
-
-dependencies:
-  flutter:
-    sdk: flutter
-
-  cupertino_icons: ^1.0.8
-  supabase_flutter: ^2.5.3
-  shared_preferences: ^2.3.3
-  hive_flutter: ^1.1.0
-
-  syncfusion_flutter_pdfviewer: ^33.1.47
-  syncfusion_pdfviewer_platform_interface: ^33.1.47
-  syncfusion_flutter_pdf: ^33.1.47 
-
-  audioplayers: ^6.1.0
-  fl_chart: ^1.1.1
-  vector_math: ^2.3.0
-
-  flutter_markdown: ^0.7.4+1
-  flutter_markdown_latex: ^0.3.4
-  flutter_math_fork: ^0.7.0
-
-  connectivity_plus: ^6.1.0
-  flutter_html: ^3.0.0-beta.2
-  flutter_widget_from_html_core: ^0.17.2
-  flutter_widget_from_html: ^0.17.2
-
-  webview_flutter: ^4.13.0
-  no_screenshot: ^1.0.1 
-  share_plus: ^12.0.2
-  url_launcher: ^6.3.1
-  flutter_dotenv: ^6.0.0
-  record: ^6.1.1
-  flutter_tts: ^3.8.3
-  speech_to_text: ^7.3.0
-  cached_network_image: ^3.3.1
-
-  http: ^1.2.0
-
-  app_links: ^6.0.0
-  video_player: ^2.8.1
-  video_thumbnail: ^0.5.3
-  image_picker: ^1.0.5
-  file_picker: ^8.1.0
-
-  google_mlkit_text_recognition: ^0.13.0
-  path_provider: ^2.1.1              
-  device_info_plus: 12.1.0
-
-flutter_launcher_icons:
-  android: true
-  ios: true
-  image_path: "assets/images/logo.png"
-  adaptive_icon_background: "#FFF4F0"
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
-  hive_generator: ^2.0.1
-  build_runner: ^2.4.13
-  flutter_launcher_icons: ^0.14.4
-  
-  # 🔥 déplacé ici (correct)
-  analyzer: '>=4.6.0 <7.0.0'
-
-dependency_overrides:
-  fl_chart: ^1.1.1
-  vector_math: ^2.3.0
-  intl: ^0.18.1
-
-flutter:
-  uses-material-design: true
-  
-  assets:
-    # Config
-    - assets/.env
-    
-    # Images
-    - assets/images/outils/
-    - assets/images/svt/
-    - assets/images/logo.png
-    
-    # Données
-    - assets/lecons/
-    - assets/ville/
-    
-    # Audios
-    - assets/son/
-    
-    # Quiz
-    - assets/quiz/FR/
-    - assets/quiz/GE/
-    - assets/quiz/HI/
-    - assets/quiz/PH/
-    - assets/quiz/CHIM/
-    - assets/quiz/PHYS/
-    - assets/quiz/SVT/
-    - assets/quiz/MA/
-    - assets/quiz/MC/
-    - assets/quiz/MD/
-    - assets/quiz/AN/
-    - assets/quiz/EPS/
-    - assets/quiz/DE/
-    
-    # Cours PDF
-    - assets/cours/SVT/
-    - assets/cours/CHIM/
-    - assets/cours/PHYS/
-    - assets/cours/PH/
-    - assets/cours/GE/
-    - assets/cours/HI/
-    - assets/cours/FR/
-    - assets/cours/MA/
-    - assets/cours/MC/
-    - assets/cours/MD/
-    - assets/cours/AN/
-    - assets/cours/EPS/
-    - assets/cours/DE/
-
-    - assets/iac/
-    - assets/leaders/
-    - assets/rappels/
-    - assets/data/
+  ios-workflow:
+    name: Ambition Bac iOS Build
+    max_build_duration: 90
+    instance_type: mac_mini_m2
+    integrations:
+      app_store_connect: Codemagic
+    environment:
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: "com.ambition.ambitionbac"
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      groups:
+        - ios
+      vars:
+        BUNDLE_ID: "com.ambition.ambitionbac"
+        XCODE_WORKSPACE: "ios/Runner.xcworkspace"
+        XCODE_SCHEME: "Runner"
+    scripts:
+      - name: Get Flutter packages
+        script: flutter pub get
+      - name: Créer le fichier .env
+        script: |
+          mkdir -p assets
+          echo "$ENV_CONTENT" > assets/.env
+      - name: Install pods
+        script: |
+          cd ios
+          pod install
+      - name: Set up keychain
+        script: keychain initialize
+      - name: Fetch signing files
+        script: |
+          app-store-connect fetch-signing-files "$BUNDLE_ID" \
+            --type IOS_APP_STORE \
+            --certificate-key "$CERTIFICATE_PRIVATE_KEY" \
+            --create
+      - name: Set up signing certificate
+        script: keychain add-certificates
+      - name: Set up code signing settings on Xcode project
+        script: |
+          xcode-project use-profiles --project ios/Runner.xcodeproj
+      - name: Flutter build ipa
+        script: |
+          flutter build ipa --release \
+            --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
