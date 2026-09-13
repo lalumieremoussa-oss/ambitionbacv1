@@ -5,6 +5,8 @@ workflows:
     instance_type: mac_mini_m1
     environment:
       flutter: stable
+      groups:
+        - ios
     scripts:
       - name: Activer Swift Package Manager
         script: flutter config --enable-swift-package-manager
@@ -12,6 +14,10 @@ workflows:
         script: |
           flutter pub cache clean --force
           flutter pub get
+      - name: Créer le fichier .env
+        script: |
+          mkdir -p assets
+          echo "$ENV_CONTENT" > assets/.env
       - name: Build Android APK
         script: |
           flutter build apk --release
@@ -28,6 +34,10 @@ workflows:
       ios_signing:
         distribution_type: app_store
         bundle_identifier: "com.ambition.ambitionbac"
+        provisioning_profiles:
+          - AmbitionBacAppStore
+        certificates:
+          - AmbitionBacCertificate
       flutter: stable
       xcode: latest
       cocoapods: default
@@ -40,6 +50,10 @@ workflows:
     scripts:
       - name: Get Flutter packages
         script: flutter pub get
+      - name: Créer le fichier .env
+        script: |
+          mkdir -p assets
+          echo "$ENV_CONTENT" > assets/.env
       - name: Install pods
         script: |
           cd ios
@@ -50,7 +64,6 @@ workflows:
         script: |
           app-store-connect fetch-signing-files "$BUNDLE_ID" \
             --type IOS_APP_STORE \
-            --certificate-key "$CERTIFICATE_PRIVATE_KEY" \
             --create
       - name: Set up signing certificate
         script: keychain add-certificates
