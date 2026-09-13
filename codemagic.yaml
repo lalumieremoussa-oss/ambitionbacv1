@@ -16,4 +16,34 @@ workflows:
         script: |
           flutter build apk --release
     artifacts:
-      - build/app/outputs/flutter-apk/*.apk
+    - build/app/outputs/flutter-apk/*.apk
+  ios-workflow:
+    name: Ambition Bac iOS Build
+    max_build_duration: 90
+    instance_type: mac_mini_m2
+    environment:
+      flutter: stable
+      xcode: latest
+      cocoapods: default
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.ambition.ambitionbac
+      groups:
+        - app_store_credentials
+    scripts:
+      - name: Get Flutter packages
+        script: flutter pub get
+      - name: Install podsx
+        script: |
+          cd ios
+          pod install
+      - name: Flutter build ipa
+        script: |
+          flutter build ipa --release \
+            --export-options-plist=/Users/builder/export_options.plist
+    artifacts:
+      - build/ios/ipa/*.ipa
+    publishing:
+      app_store_connect:
+        api_key: Codemagic
+        submit_to_testflight: true
